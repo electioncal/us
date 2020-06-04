@@ -1,0 +1,37 @@
+# This holds raw scraped data for reference and shouldn't be hand edited.
+
+[20200310]
+[20200310.eac]
+election_date = 2020-03-10
+election_date_str = "March 10, 2020"
+name = "Presidential Primary"
+notes = ["*Washington offers same-day registration during early voting through Election Day. See state election office website for more information.", "<em>Updated on February 29, 2020.</em>"]
+registration_deadline_str = "March 2, 2020 (online/mail)*"
+
+[20200804]
+[20200804.eac]
+election_date = 2020-08-04
+election_date_str = "August 4, 2020"
+name = "Congressional Primary"
+notes = ["*Washington offers same-day registration during early voting through Election Day. See state election office website for more information.", "<em>Updated on February 29, 2020.</em>"]
+registration_deadline_str = "July 27, 2020 (online/mail)*"
+
+
+[20200804.fec]
+create_date = "2019-12-30T11:58:51+00:00"
+election_date = "2020-08-04"
+election_state = "WA"
+election_type_full = "Primary election"
+election_type_id = "P"
+election_year = 2020
+office_sought = "H"
+primary_general_date = "2019-12-30T16:58:56.959966"
+
+[20201103]
+[20201103.eac]
+election_date = 2020-11-03
+election_date_str = "November 3, 2020"
+name = "General"
+notes = ["*Washington offers same-day registration during early voting through Election Day. See state election office website for more information.", "<em>Updated on February 29, 2020.</em>"]
+registration_deadline_str = "October 26, 2020 (online/mail)*"
+

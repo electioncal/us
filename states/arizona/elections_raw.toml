@@ -1,0 +1,53 @@
+# This holds raw scraped data for reference and shouldn't be hand edited.
+
+[20200317]
+[20200317.eac]
+election_date = 2020-03-17
+election_date_str = "March 17, 2020"
+name = "Presidential Preference (Democrats)"
+notes = ["<em>Updated March 2, 2020.</em>"]
+registration_deadline = 2020-02-18
+registration_deadline_str = "February 18, 2020"
+
+[20200804]
+[20200804.eac]
+election_date = 2020-08-04
+election_date_str = "August 4, 2020"
+name = "Congressional Primary"
+notes = ["<em>Updated March 2, 2020.</em>"]
+registration_deadline = 2020-07-06
+registration_deadline_str = "July 6, 2020"
+
+
+[20200804.fec]
+create_date = "2019-12-26T17:02:07+00:00"
+election_date = "2020-08-04"
+election_state = "AZ"
+election_type_full = "Primary election"
+election_type_id = "P"
+election_year = 2020
+office_sought = "H"
+primary_general_date = "2019-12-26T22:02:13.767288"
+
+[20201103]
+[20201103.eac]
+election_date = 2020-11-03
+election_date_str = "November 3, 2020"
+name = "General"
+notes = ["<em>Updated March 2, 2020.</em>"]
+registration_deadline = 2020-10-05
+registration_deadline_str = "October 5, 2020"
+
+
+[20201103.fec]
+create_date = "2019-07-22T11:39:22+00:00"
+election_date = "2020-11-03"
+election_notes = "Unexpired Term"
+election_state = "AZ"
+election_type_full = "Special election general"
+election_type_id = "SG"
+election_year = 2020
+office_sought = "S"
+primary_general_date = "2019-07-22T15:39:27.994603"
+update_date = "2019-07-22T11:55:33+00:00"
+

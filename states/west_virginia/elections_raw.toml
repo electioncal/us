@@ -1,0 +1,44 @@
+# This holds raw scraped data for reference and shouldn't be hand edited.
+
+[20200609]
+[20200609.eac]
+election_date = 2020-06-09
+election_date_str = "June 9, 2020"
+name = "Congressional &amp; Presidential Primary"
+notes = ["+5/20/2020 - 6/8/2020 Authorized Late Voter Registration Accepted from Certain Uniformed and Overseas Voters", "^10/14/2020 - 11/2/2020 Authorized Late Voter Registration Accepted from Certain Uniformed and Overseas Voters", "<em>Updated on June 1, 2020.</em>"]
+registration_deadline_str = "May 19, 2020+"
+
+
+[20200609.fec]
+create_date = "2019-12-30T12:10:06+00:00"
+election_date = "2020-06-09"
+election_notes = "Moved from 5/12/2020 (COVID-19)"
+election_state = "WV"
+election_type_full = "Primary election"
+election_type_id = "P"
+election_year = 2020
+office_sought = "P"
+primary_general_date = "2019-12-30T17:10:11.833314"
+update_date = "2020-04-01T17:14:14+00:00"
+
+[20201103]
+[20201103.eac]
+election_date = 2020-11-03
+election_date_str = "November 3, 2020"
+name = "General"
+notes = ["+5/20/2020 - 6/8/2020 Authorized Late Voter Registration Accepted from Certain Uniformed and Overseas Voters", "^10/14/2020 - 11/2/2020 Authorized Late Voter Registration Accepted from Certain Uniformed and Overseas Voters", "<em>Updated on June 1, 2020.</em>"]
+registration_deadline_str = "October 13, 2020^"
+
+
+[20200606]
+[20200606.fec]
+create_date = "2020-04-10T16:03:35+00:00"
+election_date = "2020-06-06"
+election_party = "MTP"
+election_state = "WV"
+election_type_full = "Convention"
+election_type_id = "C"
+election_year = 2020
+office_sought = "S"
+primary_general_date = "2020-04-10T20:03:41.027543"
+

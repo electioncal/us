@@ -1,0 +1,39 @@
+# This holds raw scraped data for reference and shouldn't be hand edited.
+
+[20200711]
+[20200711.eac]
+election_date = 2020-07-11
+election_date_str = "July 11, 2020"
+name = "Presidential Primary"
+notes = ["* See the state election office website for details on exceptions to the regular registration deadline.", "<em>Updated on June 1, 2020.</em>"]
+registration_deadline_str = "June 10, 2020*"
+
+
+[20200711.fec]
+create_date = "2019-12-27T16:04:21+00:00"
+election_date = "2020-07-11"
+election_notes = "Delayed from 4/04/2020 and 6/20/2020.  (COVID-19)"
+election_state = "LA"
+election_type_full = "Primary election"
+election_type_id = "P"
+election_year = 2020
+office_sought = "P"
+primary_general_date = "2019-12-27T21:04:26.664541"
+update_date = "2020-04-15T13:13:18+00:00"
+
+[20201103]
+[20201103.eac]
+election_date = 2020-11-03
+election_date_str = "November 3, 2020"
+name = "General"
+notes = ["* See the state election office website for details on exceptions to the regular registration deadline.", "<em>Updated on June 1, 2020.</em>"]
+registration_deadline_str = "October 5, 2020*"
+
+[20201205]
+[20201205.eac]
+election_date = 2020-12-05
+election_date_str = "December 5, 2020"
+name = "General Run-Off (if needed)"
+notes = ["* See the state election office website for details on exceptions to the regular registration deadline.", "<em>Updated on June 1, 2020.</em>"]
+registration_deadline_str = "November 4, 2020*"
+

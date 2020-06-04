@@ -1,0 +1,31 @@
+# This holds raw scraped data for reference and shouldn't be hand edited.
+
+[20200804]
+[20200804.eac]
+election_date = 2020-08-04
+election_date_str = "August 4, 2020"
+name = "Congressional Primary"
+notes = ["<em>Updated on March 3, 2020.</em>"]
+registration_deadline = 2020-07-14
+registration_deadline_str = "July 14, 2020"
+
+
+[20200804.fec]
+create_date = "2019-12-27T15:56:04+00:00"
+election_date = "2020-08-04"
+election_state = "KS"
+election_type_full = "Primary election"
+election_type_id = "P"
+election_year = 2020
+office_sought = "S"
+primary_general_date = "2019-12-27T20:56:09.947356"
+
+[20201103]
+[20201103.eac]
+election_date = 2020-11-03
+election_date_str = "November 3, 2020"
+name = "General"
+notes = ["<em>Updated on March 3, 2020.</em>"]
+registration_deadline = 2020-10-13
+registration_deadline_str = "October 13, 2020"
+

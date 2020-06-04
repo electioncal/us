@@ -1,0 +1,30 @@
+# This holds raw scraped data for reference and shouldn't be hand edited.
+
+[20200714]
+[20200714.eac]
+election_date = 2020-07-14
+election_date_str = "July 14, 2020"
+name = "Congressional Primary"
+notes = ["*Maine offers in-person voter registration after this deadline and on Election Day. See state election office website for more information.", "<em>Updated on May 8, 2020.</em>"]
+registration_deadline_str = "June 22, 2020<sup>*</sup>"
+
+
+[20200714.fec]
+create_date = "2019-12-27T16:21:58+00:00"
+election_date = "2020-07-14"
+election_notes = "Moved from 6/09/2020.  (COVID-19)"
+election_state = "ME"
+election_type_full = "Primary election"
+election_type_id = "P"
+election_year = 2020
+office_sought = "S"
+primary_general_date = "2019-12-27T21:22:03.865629"
+update_date = "2020-04-15T13:16:10+00:00"
+
+[20201103]
+[20201103.eac]
+election_date = 2020-11-03
+election_date_str = "November 3, 2020"
+name = "General"
+notes = ["*Maine offers in-person voter registration after this deadline and on Election Day. See state election office website for more information.", "<em>Updated on May 8, 2020.</em>"]
+registration_deadline_str = "October 13, 2020<sup>*</sup>"

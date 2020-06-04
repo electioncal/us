@@ -1,0 +1,51 @@
+# This holds raw scraped data for reference and shouldn't be hand edited.
+
+[20200602]
+[20200602.eac]
+election_date = 2020-06-02
+election_date_str = "June 2, 2020"
+name = "Congressional &amp; Presidential Primary"
+notes = ["<em>Updated on February 29, 2020.</em>"]
+registration_deadline = 2020-05-18
+registration_deadline_str = "May 18, 2020"
+
+
+[20200602.fec]
+create_date = "2019-12-30T11:05:19+00:00"
+election_date = "2020-06-02"
+election_state = "SD"
+election_type_full = "Primary election"
+election_type_id = "P"
+election_year = 2020
+office_sought = "S"
+primary_general_date = "2019-12-30T16:05:25.597344"
+
+[20200811]
+[20200811.eac]
+election_date = 2020-08-11
+election_date_str = "August 11, 2020"
+name = "Congressional Primary Run-Off (if needed)"
+notes = ["<em>Updated on February 29, 2020.</em>"]
+registration_deadline = 2020-07-27
+registration_deadline_str = "July 27, 2020"
+
+
+[20200811.fec]
+create_date = "2020-01-03T15:20:52+00:00"
+election_date = "2020-08-11"
+election_state = "SD"
+election_type_full = "Primary runoff"
+election_type_id = "PR"
+election_year = 2020
+office_sought = "H"
+primary_general_date = "2020-01-03T20:20:57.122430"
+
+[20201103]
+[20201103.eac]
+election_date = 2020-11-03
+election_date_str = "November 3, 2020"
+name = "General"
+notes = ["<em>Updated on February 29, 2020.</em>"]
+registration_deadline = 2020-10-19
+registration_deadline_str = "October 19, 2020"
+

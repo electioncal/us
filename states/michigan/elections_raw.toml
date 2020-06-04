@@ -1,0 +1,73 @@
+# This holds raw scraped data for reference and shouldn't be hand edited.
+
+[20200310]
+[20200310.eac]
+election_date = 2020-03-10
+election_date_str = "March 10, 2020"
+name = "Presidential Primary"
+notes = ["*Michigan offers same-day registration during early voting through Election Day. See state election office website for more information.", "<em>Updated on March 2, 2020.</em>"]
+registration_deadline_str = "February 24, 2020*"
+
+[20200804]
+[20200804.eac]
+election_date = 2020-08-04
+election_date_str = "August 4, 2020"
+name = "Congressional Primary"
+notes = ["*Michigan offers same-day registration during early voting through Election Day. See state election office website for more information.", "<em>Updated on March 2, 2020.</em>"]
+registration_deadline_str = "July 20, 2020*"
+
+
+[20200804.fec]
+create_date = "2019-12-27T16:54:29+00:00"
+election_date = "2020-08-04"
+election_state = "MI"
+election_type_full = "Primary election"
+election_type_id = "P"
+election_year = 2020
+office_sought = "H"
+primary_general_date = "2019-12-27T21:54:35.803103"
+
+[20201103]
+[20201103.eac]
+election_date = 2020-11-03
+election_date_str = "November 3, 2020"
+name = "General"
+notes = ["*Michigan offers same-day registration during early voting through Election Day. See state election office website for more information.", "<em>Updated on March 2, 2020.</em>"]
+registration_deadline_str = "October 19, 2020*"
+
+[20200725]
+[20200725.fec]
+create_date = "2020-01-31T14:52:50+00:00"
+election_date = "2020-07-25"
+election_party = "UST"
+election_state = "MI"
+election_type_full = "Convention"
+election_type_id = "C"
+election_year = 2020
+office_sought = "H"
+primary_general_date = "2020-01-31T19:52:55.882799"
+
+[20200718]
+[20200718.fec]
+create_date = "2020-05-15T10:01:51+00:00"
+election_date = "2020-07-18"
+election_party = "LIB"
+election_state = "MI"
+election_type_full = "Convention"
+election_type_id = "C"
+election_year = 2020
+office_sought = "H"
+primary_general_date = "2020-05-15T14:01:55.553134"
+
+[20200620]
+[20200620.fec]
+create_date = "2020-01-31T14:53:14+00:00"
+election_date = "2020-06-20"
+election_party = "GRE"
+election_state = "MI"
+election_type_full = "Convention"
+election_type_id = "C"
+election_year = 2020
+office_sought = "S"
+primary_general_date = "2020-01-31T19:53:19.512290"
+

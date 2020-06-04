@@ -1,0 +1,20 @@
+# This holds raw scraped data for reference and shouldn't be hand edited.
+
+[20200519]
+[20200519.eac]
+election_date = 2020-05-19
+election_date_str = "May 19, 2020"
+name = "Congressional &amp; Presidential Primary"
+notes = ["<em>Updated on February 29, 2020.</em>"]
+registration_deadline = 2020-04-28
+registration_deadline_str = "April 28, 2020"
+
+[20201103]
+[20201103.eac]
+election_date = 2020-11-03
+election_date_str = "November 3, 2020"
+name = "General"
+notes = ["<em>Updated on February 29, 2020.</em>"]
+registration_deadline = 2020-10-13
+registration_deadline_str = "October 13, 2020"
+

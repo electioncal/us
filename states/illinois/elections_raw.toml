@@ -1,0 +1,18 @@
+# This holds raw scraped data for reference and shouldn't be hand edited.
+
+[20200317]
+[20200317.eac]
+election_date = 2020-03-17
+election_date_str = "March 17, 2020"
+name = "Congressional &amp; Presidential Primary"
+notes = ["*Illinois offers same-day registration during early voting through Election Day. See state election office website for more information on same-day registration and other exceptions to this registration deadline.", "<em>Updated on March 3, 2020.</em>"]
+registration_deadline_str = "February 18, 2020*"
+
+[20201103]
+[20201103.eac]
+election_date = 2020-11-03
+election_date_str = "November 3, 2020"
+name = "General"
+notes = ["*Illinois offers same-day registration during early voting through Election Day. See state election office website for more information on same-day registration and other exceptions to this registration deadline.", "<em>Updated on March 3, 2020.</em>"]
+registration_deadline_str = "October 6, 2020*"
+

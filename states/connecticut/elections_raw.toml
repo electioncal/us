@@ -1,0 +1,31 @@
+# This holds raw scraped data for reference and shouldn't be hand edited.
+
+[20200811]
+[20200811.eac]
+election_date = 2020-08-11
+election_date_str = "August 11, 2020"
+name = "Congressional Primary"
+notes = ["* Connecticut offers Election-Day registration. See state election office website for more information on Election-Day registration and other exceptions to this registration deadline.", "<em>Updated on May 8, 2020.</em>"]
+registration_deadline_str = "August 6, 2020*"
+
+
+[20200811.fec]
+create_date = "2019-12-27T12:02:42+00:00"
+election_date = "2020-08-11"
+election_notes = "Moved from 4/28/2020 and 6/02/2020.  (COVID-19)"
+election_state = "CT"
+election_type_full = "Primary election"
+election_type_id = "P"
+election_year = 2020
+office_sought = "P"
+primary_general_date = "2019-12-27T17:02:47.922569"
+update_date = "2020-04-20T12:40:49+00:00"
+
+[20201103]
+[20201103.eac]
+election_date = 2020-11-03
+election_date_str = "November 3, 2020"
+name = "General"
+notes = ["* Connecticut offers Election-Day registration. See state election office website for more information on Election-Day registration and other exceptions to this registration deadline.", "<em>Updated on May 8, 2020.</em>"]
+registration_deadline_str = "October 27, 2020*"
+

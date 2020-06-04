@@ -1,0 +1,53 @@
+# This holds raw scraped data for reference and shouldn't be hand edited.
+
+[20200602]
+[20200602.eac]
+election_date = 2020-06-02
+election_date_str = "June 2, 2020"
+name = "Presidential Primary"
+notes = ["<em>Updated on May 9, 2020.</em>"]
+registration_deadline = 2020-05-03
+registration_deadline_str = "May 3, 2020"
+
+
+[20200602.fec]
+create_date = "2019-12-30T10:55:58+00:00"
+election_date = "2020-06-02"
+election_notes = "Moved from 4/28/2020 (COVID-19)"
+election_state = "RI"
+election_type_full = "Primary election"
+election_type_id = "P"
+election_year = 2020
+office_sought = "P"
+primary_general_date = "2019-12-30T15:56:03.858097"
+update_date = "2020-03-24T09:36:37+00:00"
+
+[20200908]
+[20200908.eac]
+election_date = 2020-09-08
+election_date_str = "September 8, 2020"
+name = "Congressional Primary"
+notes = ["<em>Updated on May 9, 2020.</em>"]
+registration_deadline = 2020-08-09
+registration_deadline_str = "August 9, 2020"
+
+
+[20200908.fec]
+create_date = "2019-12-30T10:56:31+00:00"
+election_date = "2020-09-08"
+election_state = "RI"
+election_type_full = "Primary election"
+election_type_id = "P"
+election_year = 2020
+office_sought = "S"
+primary_general_date = "2019-12-30T15:56:36.880829"
+
+[20201103]
+[20201103.eac]
+election_date = 2020-11-03
+election_date_str = "November 3, 2020"
+name = "General"
+notes = ["<em>Updated on May 9, 2020.</em>"]
+registration_deadline = 2020-10-04
+registration_deadline_str = "October 4, 2020"
+

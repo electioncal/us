@@ -1,0 +1,31 @@
+# This holds raw scraped data for reference and shouldn't be hand edited.
+
+[20200519]
+[20200519.eac]
+election_date = 2020-05-19
+election_date_str = "May 19, 2020"
+name = "Congressional Primary"
+notes = ["*Idaho offers Election-Day registration. See state election office website for more information.", "<em>Updated on May 8, 2020.</em>"]
+registration_deadline_str = "May 19, 2020*"
+
+
+[20200519.fec]
+create_date = "2019-12-27T15:18:47+00:00"
+election_date = "2020-06-02"
+election_notes = "On 04/01/2020, the Idaho Governor effectively changed the date of the 05/19/2020 Congressional primary election by setting 06/02/2020 as deadline for absentee ballots. The change was in response to the COVID-19 pandemic."
+election_state = "ID"
+election_type_full = "Primary election"
+election_type_id = "P"
+election_year = 2020
+office_sought = "S"
+primary_general_date = "2019-12-27T20:18:53.649356"
+update_date = "2020-05-26T19:32:25+00:00"
+
+[20201103]
+[20201103.eac]
+election_date = 2020-11-03
+election_date_str = "November 3, 2020"
+name = "General"
+notes = ["*Idaho offers Election-Day registration. See state election office website for more information.", "<em>Updated on May 8, 2020.</em>"]
+registration_deadline_str = "October 9, 2020*"
+

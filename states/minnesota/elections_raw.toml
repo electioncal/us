@@ -1,0 +1,36 @@
+# This holds raw scraped data for reference and shouldn't be hand edited.
+
+[20200303]
+[20200303.eac]
+election_date = 2020-03-03
+election_date_str = "March 3, 2020"
+name = "Presidential Primary"
+notes = ["*Minnesota offers Election-Day registration. See state election office website for more information.", "<em>Updated on March 2, 2020.</em>"]
+registration_deadline_str = "February 11, 2020<sup>*</sup>"
+
+[20200811]
+[20200811.eac]
+election_date = 2020-08-11
+election_date_str = "August 11, 2020"
+name = "Congresssional Primary"
+notes = ["*Minnesota offers Election-Day registration. See state election office website for more information.", "<em>Updated on March 2, 2020.</em>"]
+registration_deadline_str = "July 21, 2020<sup>*</sup>"
+
+
+[20200811.fec]
+create_date = "2019-12-27T16:56:25+00:00"
+election_date = "2020-08-11"
+election_state = "MN"
+election_type_full = "Primary election"
+election_type_id = "P"
+election_year = 2020
+office_sought = "H"
+primary_general_date = "2019-12-27T21:56:31.548951"
+
+[20201103]
+[20201103.eac]
+election_date = 2020-11-03
+election_date_str = "November 3, 2020"
+name = "General"
+notes = ["*Minnesota offers Election-Day registration. See state election office website for more information.", "<em>Updated on March 2, 2020.</em>"]
+registration_deadline_str = "October 13, 2020<sup>*</sup>"

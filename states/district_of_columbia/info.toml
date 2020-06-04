@@ -1,2 +1,4 @@
 name = "District of Columbia"
 fips_code = 11
+fec_state = "DC"
+postal_code = "DC"

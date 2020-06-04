@@ -1,0 +1,39 @@
+# This holds raw scraped data for reference and shouldn't be hand edited.
+
+[20200303]
+[20200303.eac]
+election_date = 2020-03-03
+election_date_str = "March 3, 2020"
+name = "Presidential Primary"
+notes = ["<em>Updated on March 2, 2020.</em>"]
+registration_deadline = 2020-02-12
+registration_deadline_str = "February 12, 2020"
+
+[20200901]
+[20200901.eac]
+election_date = 2020-09-01
+election_date_str = "September 1, 2020"
+name = "Congressional Primary"
+notes = ["<em>Updated on March 2, 2020.</em>"]
+registration_deadline = 2020-08-12
+registration_deadline_str = "August 12, 2020"
+
+
+[20200901.fec]
+create_date = "2019-12-27T16:25:29+00:00"
+election_date = "2020-09-01"
+election_state = "MA"
+election_type_full = "Primary election"
+election_type_id = "P"
+election_year = 2020
+office_sought = "S"
+primary_general_date = "2019-12-27T21:25:34.014416"
+
+[20201103]
+[20201103.eac]
+election_date = 2020-11-03
+election_date_str = "November 3, 2020"
+name = "General"
+notes = ["<em>Updated on March 2, 2020.</em>"]
+registration_deadline = 2020-10-14
+registration_deadline_str = "October 14, 2020"

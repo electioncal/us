@@ -1,0 +1,29 @@
+# This holds raw scraped data for reference and shouldn't be hand edited.
+
+[20200602]
+[20200602.eac]
+election_date = 2020-06-02
+election_date_str = "June 2, 2020"
+name = "Congressional &amp; Presidential Primary"
+notes = ["*Montana offers “late” registration through Election Day. See state election office website for more information.", "<em>Updated on May 9, 2020.</em>"]
+registration_deadline_str = "May 26, 2020<sup>*</sup>"
+
+
+[20200602.fec]
+create_date = "2019-12-27T17:01:21+00:00"
+election_date = "2020-06-02"
+election_state = "MT"
+election_type_full = "Primary election"
+election_type_id = "P"
+election_year = 2020
+office_sought = "P"
+primary_general_date = "2019-12-27T22:01:26.808610"
+
+[20201103]
+[20201103.eac]
+election_date = 2020-11-03
+election_date_str = "November 3, 2020"
+name = "General"
+notes = ["*Montana offers “late” registration through Election Day. See state election office website for more information.", "<em>Updated on May 9, 2020.</em>"]
+registration_deadline_str = "October 5, 2020<sup>*</sup>"
+

@@ -1,0 +1,11 @@
+# This holds raw scraped data for reference and shouldn't be hand edited.
+
+[20201103]
+[20201103.eac]
+election_date = 2020-11-03
+election_date_str = "November 3, 2020"
+name = "General"
+notes = ["<em>Updated on May 8, 2020.</em>"]
+registration_deadline = 2020-10-05
+registration_deadline_str = "October 5, 2020"
+

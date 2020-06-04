@@ -1,0 +1,51 @@
+# This holds raw scraped data for reference and shouldn't be hand edited.
+
+[20200707]
+[20200707.eac]
+election_date = 2020-07-07
+election_date_str = "July 7, 2020"
+name = "Presidential Primary"
+notes = ["*See state election office website for information on exceptions to this deadline.", "<em>Updated on May 8, 2020.</em>"]
+registration_deadline_str = "June 13, 2020*"
+
+
+[20200707.fec]
+create_date = "2019-12-27T12:13:57+00:00"
+election_date = "2020-07-07"
+election_notes = "Moved from 4/28/2020, and then from 6/02/2020. (COVID-19)"
+election_state = "DE"
+election_type_full = "Primary election"
+election_type_id = "P"
+election_year = 2020
+office_sought = "P"
+primary_general_date = "2019-12-27T17:14:03.632181"
+update_date = "2020-05-18T11:04:22+00:00"
+
+[20200915]
+[20200915.eac]
+election_date = 2020-09-15
+election_date_str = "September 15, 2020"
+name = "Congressional Primary"
+notes = ["*See state election office website for information on exceptions to this deadline.", "<em>Updated on May 8, 2020.</em>"]
+registration_deadline_str = "August 22, 2020*"
+
+
+[20200915.fec]
+create_date = "2019-12-27T12:14:27+00:00"
+election_date = "2020-09-15"
+election_state = "DE"
+election_type_full = "Primary election"
+election_type_id = "P"
+election_year = 2020
+office_sought = "S"
+primary_general_date = "2019-12-27T17:14:33.107359"
+update_date = "2019-12-27T12:16:18+00:00"
+
+[20201103]
+[20201103.eac]
+election_date = 2020-11-03
+election_date_str = "November 3, 2020"
+name = "General"
+notes = ["*See state election office website for information on exceptions to this deadline.", "<em>Updated on May 8, 2020.</em>"]
+registration_deadline_str = "October 10, 2020*"
+

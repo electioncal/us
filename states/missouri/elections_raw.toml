@@ -1,0 +1,30 @@
+# This holds raw scraped data for reference and shouldn't be hand edited.
+
+[20200804]
+[20200804.eac]
+election_date = 2020-08-04
+election_date_str = "August 4, 2020"
+name = "Congressional Primary"
+notes = ["<em>Updated on March 2, 2020.</em>"]
+registration_deadline = 2020-07-08
+registration_deadline_str = "July 8, 2020"
+
+
+[20200804.fec]
+create_date = "2019-12-27T17:00:39+00:00"
+election_date = "2020-08-04"
+election_state = "MO"
+election_type_full = "Primary election"
+election_type_id = "P"
+election_year = 2020
+office_sought = "H"
+primary_general_date = "2019-12-27T22:00:46.051489"
+
+[20201103]
+[20201103.eac]
+election_date = 2020-11-03
+election_date_str = "November 3, 2020"
+name = "General"
+notes = ["<em>Updated on March 2, 2020.</em>"]
+registration_deadline = 2020-10-07
+registration_deadline_str = "October 7, 2020"

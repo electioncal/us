@@ -1,0 +1,56 @@
+# This holds raw scraped data for reference and shouldn't be hand edited.
+
+[20200303]
+[20200303.eac]
+election_date = 2020-03-03
+election_date_str = "March 3, 2020"
+name = "Congressional &amp; Presidential Primary"
+notes = ["<em>Updated on May 9, 2020.</em>"]
+registration_deadline = 2020-02-03
+registration_deadline_str = "February 3, 2020"
+
+[20200714]
+[20200714.eac]
+election_date = 2020-07-14
+election_date_str = "July 14, 2020"
+name = "Congressional Primary Run-Off (if needed)"
+notes = ["<em>Updated on May 9, 2020.</em>"]
+registration_deadline = 2020-06-15
+registration_deadline_str = "June 15, 2020"
+
+
+[20200714.fec]
+create_date = "2020-01-03T15:25:24+00:00"
+election_date = "2020-07-14"
+election_notes = "Moved from 5/26/2020 (COVID-19)"
+election_state = "TX"
+election_type_full = "Primary runoff"
+election_type_id = "PR"
+election_year = 2020
+office_sought = "S"
+primary_general_date = "2020-01-03T20:25:30.399726"
+update_date = "2020-03-23T15:46:31+00:00"
+
+[20201103]
+[20201103.eac]
+election_date = 2020-11-03
+election_date_str = "November 3, 2020"
+name = "General"
+notes = ["<em>Updated on May 9, 2020.</em>"]
+registration_deadline = 2020-10-05
+registration_deadline_str = "October 5, 2020"
+
+
+[20200801]
+[20200801.fec]
+create_date = "2020-05-01T10:41:10+00:00"
+election_date = "2020-08-01"
+election_notes = "Rescheduled from April 18, 2020.  (COVID-19)"
+election_party = "LIB"
+election_state = "TX"
+election_type_full = "Convention"
+election_type_id = "C"
+election_year = 2020
+office_sought = "S"
+primary_general_date = "2020-05-02T17:09:25.299560"
+

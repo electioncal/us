@@ -3,7 +3,7 @@
 import tomlkit
 import os
 
-by_fec = {}
+by_postal_code = {}
 by_fips = {}
 
 for fn in os.listdir("states/"):
@@ -14,5 +14,5 @@ for fn in os.listdir("states/"):
         state_info = tomlkit.loads(f.read())
     if "fips_code" in state_info:
         by_fips[state_info["fips_code"]] = fn
-    if "fec_state" in state_info:
-        by_fips[state_info["fec_state"]] = fn
+    if "postal_code" in state_info:
+        by_postal_code[state_info["postal_code"]] = fn

@@ -1,0 +1,30 @@
+# This holds raw scraped data for reference and shouldn't be hand edited.
+
+[20200623]
+[20200623.eac]
+election_date = 2020-06-23
+election_date_str = "June 23, 2020"
+name = "Congressional Primary Run-Off (if needed)"
+notes = ["*See state election office website for information on exceptions to this deadline.", "<em>Updated on May 8, 2020.</em>"]
+registration_deadline_str = "May 26, 2020*"
+
+
+[20200623.fec]
+create_date = "2019-12-27T16:58:54+00:00"
+election_date = "2020-06-23"
+election_notes = "Moved from 3/31/2020 (COVID-19)"
+election_state = "MS"
+election_type_full = "Primary runoff"
+election_type_id = "PR"
+election_year = 2020
+office_sought = "H"
+primary_general_date = "2019-12-27T21:59:00.043132"
+update_date = "2020-03-20T14:39:51+00:00"
+
+[20201103]
+[20201103.eac]
+election_date = 2020-11-03
+election_date_str = "November 3, 2020"
+name = "General"
+notes = ["*See state election office website for information on exceptions to this deadline.", "<em>Updated on May 8, 2020.</em>"]
+registration_deadline_str = "October 5, 2020*"

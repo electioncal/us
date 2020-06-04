@@ -1,0 +1,33 @@
+# This holds raw scraped data for reference and shouldn't be hand edited.
+
+[20200707]
+[20200707.eac]
+election_date = 2020-07-07
+election_date_str = "July 7, 2020"
+name = "Congressional &amp; Presidential Primary"
+notes = ["<em>Updated on May 9, 2020.</em>"]
+registration_deadline = 2020-06-16
+registration_deadline_str = "June 16, 2020"
+
+
+[20200707.fec]
+create_date = "2019-12-30T10:20:48+00:00"
+election_date = "2020-07-07"
+election_notes = "Moved from 6/02/2020.  (COVID-19)"
+election_state = "NJ"
+election_type_full = "Primary election"
+election_type_id = "P"
+election_year = 2020
+office_sought = "P"
+primary_general_date = "2019-12-30T15:20:53.043486"
+update_date = "2020-04-10T13:57:24+00:00"
+
+[20201103]
+[20201103.eac]
+election_date = 2020-11-03
+election_date_str = "November 3, 2020"
+name = "General"
+notes = ["<em>Updated on May 9, 2020.</em>"]
+registration_deadline = 2020-10-13
+registration_deadline_str = "October 13, 2020"
+

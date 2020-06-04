@@ -1,0 +1,43 @@
+# This holds raw scraped data for reference and shouldn't be hand edited.
+
+[20200712]
+[20200712.eac]
+election_date = 2020-07-12
+election_date_str = "July 12, 2020"
+name = "Presidential Primary (Democrat)"
+notes = ["<em>Updated on June 1, 2020.</em>"]
+registration_deadline = 2020-05-25
+registration_deadline_str = "May 25, 2020"
+
+
+[20200712.fec]
+create_date = "2020-01-03T14:07:29+00:00"
+election_date = "2020-07-12"
+election_notes = "Moved from 3/29/2020 and 4/26/2020.  (COVID-19)"
+election_party = "DEM"
+election_state = "PR"
+election_type_full = "Primary election"
+election_type_id = "P"
+election_year = 2020
+office_sought = "P"
+primary_general_date = "2020-01-03T19:07:35.520306"
+update_date = "2020-06-02T18:02:52+00:00"
+
+[20200607]
+[20200607.eac]
+election_date = 2020-06-07
+election_date_str = "June 7, 2020"
+name = "Presidential Primary (Republican)"
+notes = ["<em>Updated on June 1, 2020.</em>"]
+registration_deadline = 2020-04-20
+registration_deadline_str = "April 20, 2020"
+
+[20201103]
+[20201103.eac]
+election_date = 2020-11-03
+election_date_str = "November 3, 2020"
+name = "General"
+notes = ["<em>Updated on June 1, 2020.</em>"]
+registration_deadline = 2020-09-15
+registration_deadline_str = "September 15, 2020"
+

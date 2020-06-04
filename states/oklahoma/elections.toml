@@ -1,0 +1,19 @@
+[20200303]
+date = 2020-03-03
+name = "Presidential Primary"
+original_date = 2020-03-03
+
+[20200630]
+date = 2020-06-30
+name = "Congressional Primary"
+original_date = 2020-06-30
+
+[20200825]
+date = 2020-08-25
+name = "Congressional Primary Run-off (if needed)"
+original_date = 2020-08-25
+
+[20201103]
+date = 2020-11-03
+name = "General"
+original_date = 2020-11-03

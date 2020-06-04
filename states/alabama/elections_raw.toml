@@ -1,0 +1,33 @@
+# This holds raw scraped data for reference and shouldn't be hand edited.
+
+[20200714]
+[20200714.eac]
+election_date = 2020-07-14
+election_date_str = "July 14, 2020"
+name = "Congressional Primary Run-Off (if needed)"
+notes = ["*See state election office website for information on exceptions to this deadline.", "<em>Updated on May 7, 2020.</em>"]
+registration_deadline = 2020-06-29
+registration_deadline_str = "June 29, 2020"
+
+
+[20200714.fec]
+create_date = "2020-01-03T15:22:02+00:00"
+election_date = "2020-07-14"
+election_notes = "Moved from 3/31/2020.  (COVID-19)"
+election_state = "AL"
+election_type_full = "Primary runoff"
+election_type_id = "PR"
+election_year = 2020
+office_sought = "S"
+primary_general_date = "2020-01-03T20:22:06.818439"
+update_date = "2020-03-20T14:40:45+00:00"
+
+[20201103]
+[20201103.eac]
+election_date = 2020-11-03
+election_date_str = "November 3, 2020"
+name = "General"
+notes = ["*See state election office website for information on exceptions to this deadline.", "<em>Updated on May 7, 2020.</em>"]
+registration_deadline = 2020-10-19
+registration_deadline_str = "October 19, 2020"
+

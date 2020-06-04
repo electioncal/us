@@ -1,0 +1,29 @@
+# This holds raw scraped data for reference and shouldn't be hand edited.
+
+[20200609]
+[20200609.eac]
+election_date = 2020-06-09
+election_date_str = "June 9, 2020"
+name = "Congressional Primary"
+notes = ["<em>Updated on February 29, 2020.</em>"]
+registration_deadline_str = "N/A"
+
+
+[20200609.fec]
+create_date = "2019-12-30T10:37:30+00:00"
+election_date = "2020-06-09"
+election_state = "ND"
+election_type_full = "Primary election"
+election_type_id = "P"
+election_year = 2020
+office_sought = "H"
+primary_general_date = "2019-12-30T15:37:35.180879"
+
+[20201103]
+[20201103.eac]
+election_date = 2020-11-03
+election_date_str = "November 3, 2020"
+name = "General"
+notes = ["<em>Updated on February 29, 2020.</em>"]
+registration_deadline_str = "N/A"
+

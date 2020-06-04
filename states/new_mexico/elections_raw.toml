@@ -1,0 +1,29 @@
+# This holds raw scraped data for reference and shouldn't be hand edited.
+
+[20200602]
+[20200602.eac]
+election_date = 2020-06-02
+election_date_str = "June 2, 2020"
+name = "Congressional &amp; Presidential Primary"
+notes = ["*New Mexico offers same-day registration during early voting. See state election office website for more information.", "<em>Updated on May 9, 2020.</em>"]
+registration_deadline_str = "May 5, 2020*"
+
+
+[20200602.fec]
+create_date = "2019-12-30T10:23:39+00:00"
+election_date = "2020-06-02"
+election_state = "NM"
+election_type_full = "Primary election"
+election_type_id = "P"
+election_year = 2020
+office_sought = "H"
+primary_general_date = "2019-12-30T15:23:45.481719"
+
+[20201103]
+[20201103.eac]
+election_date = 2020-11-03
+election_date_str = "November 3, 2020"
+name = "General"
+notes = ["*New Mexico offers same-day registration during early voting. See state election office website for more information.", "<em>Updated on May 9, 2020.</em>"]
+registration_deadline_str = "October 6, 2020*"
+

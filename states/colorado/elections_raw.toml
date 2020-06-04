@@ -1,0 +1,37 @@
+# This holds raw scraped data for reference and shouldn't be hand edited.
+
+[20200303]
+[20200303.eac]
+election_date = 2020-03-03
+election_date_str = "March 3, 2020"
+name = "Presidential Primary"
+notes = ["*Colorado offers same-day registration during early voting through Election Day. Colorado also mails ballots to all voters who register to vote by eight days prior to the election. Inside of that date, eligible individuals must go to a voter service and polling center (VSPC) in order to register, obtain a ballot and vote. See state election office website for more information.", "<em>Updated on March 2, 2020.</em>"]
+registration_deadline_str = "March 3, 2020<sup>*</sup>"
+
+[20200630]
+[20200630.eac]
+election_date = 2020-06-30
+election_date_str = "June 30, 2020"
+name = "Congressional Primary"
+notes = ["*Colorado offers same-day registration during early voting through Election Day. Colorado also mails ballots to all voters who register to vote by eight days prior to the election. Inside of that date, eligible individuals must go to a voter service and polling center (VSPC) in order to register, obtain a ballot and vote. See state election office website for more information.", "<em>Updated on March 2, 2020.</em>"]
+registration_deadline_str = "June 30, 2020<sup>*</sup>"
+
+
+[20200630.fec]
+create_date = "2019-12-27T11:55:12+00:00"
+election_date = "2020-06-30"
+election_state = "CO"
+election_type_full = "Primary election"
+election_type_id = "P"
+election_year = 2020
+office_sought = "S"
+primary_general_date = "2019-12-27T16:55:18.042529"
+
+[20201103]
+[20201103.eac]
+election_date = 2020-11-03
+election_date_str = "November 3, 2020"
+name = "General"
+notes = ["*Colorado offers same-day registration during early voting through Election Day. Colorado also mails ballots to all voters who register to vote by eight days prior to the election. Inside of that date, eligible individuals must go to a voter service and polling center (VSPC) in order to register, obtain a ballot and vote. See state election office website for more information.", "<em>Updated on March 2, 2020.</em>"]
+registration_deadline_str = "November 3, 2020*"
+

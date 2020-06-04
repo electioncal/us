@@ -1,0 +1,37 @@
+# This holds raw scraped data for reference and shouldn't be hand edited.
+
+[20200303]
+[20200303.eac]
+election_date = 2020-03-03
+election_date_str = "March 3, 2020"
+name = "Presidential Primary"
+notes = ["* Vermont offers Election-Day registration and does not include any voter registration deadlines in its election calendar.", "<em>Updated on February 29, 2020.</em>"]
+registration_deadline_str = "March 3, 2020*"
+
+[20200811]
+[20200811.eac]
+election_date = 2020-08-11
+election_date_str = "August 11, 2020"
+name = "Congressional Primary"
+notes = ["* Vermont offers Election-Day registration and does not include any voter registration deadlines in its election calendar.", "<em>Updated on February 29, 2020.</em>"]
+registration_deadline_str = "August 11, 2020*"
+
+
+[20200811.fec]
+create_date = "2019-12-30T11:51:32+00:00"
+election_date = "2020-08-11"
+election_state = "VT"
+election_type_full = "Primary election"
+election_type_id = "P"
+election_year = 2020
+office_sought = "H"
+primary_general_date = "2019-12-30T16:51:37.804096"
+
+[20201103]
+[20201103.eac]
+election_date = 2020-11-03
+election_date_str = "November 3, 2020"
+name = "General"
+notes = ["* Vermont offers Election-Day registration and does not include any voter registration deadlines in its election calendar.", "<em>Updated on February 29, 2020.</em>"]
+registration_deadline_str = "November 3, 2020*"
+

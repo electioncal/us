@@ -1,0 +1,17 @@
+{% extends "base.html.jinja" %}
+{% block title %}US{% endblock %}
+{% block content %}
+    <h1>You're smart and thoughtful. Please Vote. Here's when and how.</h1>
+    <ul id="dates">
+    {% for date in dates %}
+      <li>{{ date.date }} - {{ date.name }}</li>
+    {% endfor %}
+    </ul>
+    <p>Select your state below for details.</p>
+    <ul id="states">
+    {% for state in states %}
+      <li><a href="{{ language }}/{{ state.lower_name }}/">{{ state.name }}</a></li>
+    {% endfor %}
+    </ul>
+    Add all of the dates to your calendar by clicking <a href="webcal://electioncal.us/{{language}}/voter.ics">here</a>. Get all nation-wide dates <a href="webcal://electioncal.us/{{language}}/all-voter.ics">here</a>.
+{% endblock %}

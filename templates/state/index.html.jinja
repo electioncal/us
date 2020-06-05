@@ -1,0 +1,18 @@
+{% extends "base.html.jinja" %}
+{% block title %}{{ state.name }}{% endblock %}
+{% block content %}
+    <h1>{{ state.name }} needs your voice.</h1>
+    <p>Select your county below for details.</p>
+    <ul id="dates">
+    {% for date in dates %}
+      <li>{{ date.date }} - {{ date.name }}</li>
+    {% endfor %}
+    </ul>
+    <ul id="counties">
+    {% for county in counties %}
+      <li><a href="{{county.lower_name}}/">{{ county.name }}</a></li>
+    {% endfor %}
+    </ul>
+
+    Add all of the dates to your calendar by clicking <a href="webcal://electioncal.us/{{language}}/{{state.lower_name}}/voter.ics">here</a>. Get state-wide dates <a href="webcal://electioncal.us/{{language}}/{{state.lower_name}}/all-voter.ics">here</a>.
+{% endblock %}

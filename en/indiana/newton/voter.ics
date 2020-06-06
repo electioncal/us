@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//electioncal.us generator//circuitpython.org//
+BEGIN:VEVENT
+SUMMARY:Congressional &amp\; Presidential Primary
+DTSTART;VALUE=DATE:20200602
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General (Presidential) Election
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+END:VCALENDAR

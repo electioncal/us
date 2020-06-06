@@ -2,6 +2,7 @@
 date = 2020-06-02
 name = "Congressional Primary"
 original_date = 2020-05-19
+results = "https://www.livevoterturnout.com/Idaho/LiveResults/1/en/Index_112.html"
 
 [20201103]
 date = 2020-11-03

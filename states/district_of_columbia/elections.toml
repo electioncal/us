@@ -2,6 +2,7 @@
 date = 2020-06-02
 name = "Congressional & Presidential Primary"
 original_date = 2020-06-02
+results = "https://electionresults.dcboe.org/election_results/2020-Primary-Election"
 
 [20201103]
 date = 2020-11-03

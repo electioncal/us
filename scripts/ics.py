@@ -1,15 +1,33 @@
-import icalendar
+import icalendar as ical
 
-def generate(dates, output_filename, *, name=None, description=None):
-    c = icalendar.Calendar()
-    c.add('prodid', '-//electioncal.us generator//circuitpython.org//')
-    c.add('version', '2.0')
 
+def generate(dates, output_filename, *, name=None, description=None, uid=None):
+    c = ical.Calendar()
+    c.add("prodid", "-//electioncal.us generator//circuitpython.org//")
+    c.add("version", "2.0")
+    path_parts = output_filename.split("/")
+    c.add(
+        "url", ical.vUri("https://electioncal.us/" + "/".join(path_parts[1:-1]) + "/")
+    )
+    c.add("source", ical.vUri("https://electioncal.us/" + "/".join(path_parts[1:])))
+    # c.add('REFRESH-INTERVAL'VALUE=DURATION:P1W, value)
+    if name:
+        c.add("name", name)
+    if description:
+        c.add("description", description)
+    if uid:
+        c.add("uid", uid)
+
+    last_modified = None
     for date in dates:
-        event = icalendar.Event()
-        event.add('summary', date["name"])
-        event.add('dtstart', icalendar.vDate(date["date"]))
+        event = ical.Event()
+        event.add("summary", date["name"])
+        event.add("dtstart", ical.vDate(date["date"]))
         c.add_component(event)
+
+    if description:
+        c.add("last-modified", ical.vDate(date["date"]))
+
     with open(output_filename, "wb") as f:
         f.write(c.to_ical())
 

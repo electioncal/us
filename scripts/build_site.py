@@ -15,6 +15,9 @@ states = {}
 state_index = env.get_template("state/index.html.jinja")
 county_index = env.get_template("state/county/index.html.jinja")
 
+specific_feed_name = "{} Election Dates by electioncal.us"
+all_feed_name = "All Election Dates in {} by electioncal.us"
+
 # Load per-state data. fn for filename which is also the lower cased version of the state or county.
 for fn in os.listdir("states/"):
     info_fn = os.path.join("states", fn, "info.toml")
@@ -38,6 +41,7 @@ for fn in os.listdir("states/"):
         counties[county_fn] = county_info
     state_info["counties"] = counties
 
+
 def add_prefix(dates, *, states=None, counties=None):
     result = copy.deepcopy(dates)
     for date in result:
@@ -47,35 +51,56 @@ def add_prefix(dates, *, states=None, counties=None):
             date["name"] = counties[date["county"]]["name"] + " " + date["name"]
     return result
 
+
 for state_lower in states:
     state_info = states[state_lower]
 
-    all_state_dates = [d for d in election.dates if d["state"] is None or d["state"] == state_lower]
+    all_state_dates = [
+        d for d in election.dates if d["state"] is None or d["state"] == state_lower
+    ]
 
     # Load per-county data.
     counties = state_info["counties"]
     for county_lower in counties:
         county_info = counties[county_lower]
         os.makedirs(f"site/en/{state_lower}/{county_lower}", exist_ok=True)
-        county_dates = [d for d in all_state_dates if d["county"] is None or d["county"] == county_lower]
-        county_data = {"language": "en",
-                       "state": state_info,
-                       "county": dict(county_info),
-                       "dates": county_dates}
+        county_dates = [
+            d
+            for d in all_state_dates
+            if d["county"] is None or d["county"] == county_lower
+        ]
+        county_data = {
+            "language": "en",
+            "state": state_info,
+            "county": dict(county_info),
+            "dates": county_dates,
+        }
         ics.generate(county_dates, f"site/en/{state_lower}/{county_lower}/voter.ics")
-        county_index.stream(county_data).dump(f"site/en/{state_lower}/{county_lower}/index.html")
+        county_index.stream(county_data).dump(
+            f"site/en/{state_lower}/{county_lower}/index.html"
+        )
 
     county_list = list(counties.values())
     county_list.sort(key=lambda x: x["lower_name"])
     os.makedirs(f"site/en/{state_lower}", exist_ok=True)
     state_dates = [d for d in all_state_dates if d["county"] is None]
     state_dates = add_prefix(state_dates, counties=counties)
-    state_data = {"language": "en",
-                  "state": state_info,
-                  "counties": county_list,
-                  "dates": state_dates}
-    ics.generate(state_dates, f"site/en/{state_lower}/voter.ics")
-    ics.generate(all_state_dates, f"site/en/{state_lower}/all-voter.ics")
+    state_data = {
+        "language": "en",
+        "state": state_info,
+        "counties": county_list,
+        "dates": state_dates,
+    }
+    ics.generate(
+        state_dates,
+        f"site/en/{state_lower}/voter.ics",
+        name=specific_feed_name.format(state_info["name"]),
+    )
+    ics.generate(
+        all_state_dates,
+        f"site/en/{state_lower}/all-voter.ics",
+        name=all_feed_name.format(state_info["name"]),
+    )
     state_index.stream(state_data).dump(f"site/en/{state_lower}/index.html")
 
 state_list = list(states.values())
@@ -86,7 +111,9 @@ top_level = env.get_template("index.html.jinja")
 
 federal_dates = [d for d in election.dates if d["state"] is None]
 top = {"language": "en", "states": state_list, "dates": federal_dates}
-ics.generate(federal_dates, f"site/en/voter.ics")
+ics.generate(federal_dates, f"site/en/voter.ics",
+        name=all_feed_name.format("United States"),)
 national_dates = add_prefix(election.dates, states=states)
-ics.generate(national_dates, f"site/en/all-voter.ics")
+ics.generate(national_dates, f"site/en/all-voter.ics",
+        name=all_feed_name.format("United States"),)
 top_level.stream(top).dump("site/index.html")

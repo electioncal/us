@@ -1,7 +1,7 @@
 {% extends "base.html.jinja" %}
 {% block title %}US{% endblock %}
 {% block content %}
-    <h1>You're smart and thoughtful. Please Vote. Here's when and how.</h1>
+    <h1>You're smart and thoughtful. Please Vote. Here's when.</h1>
     <ul id="dates">
     {% for date in dates %}
       <li>{{ date.date }} - {{ date.name }}</li>

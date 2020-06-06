@@ -2,6 +2,7 @@ import ics
 import os
 import jinja2
 import tomlkit
+import copy
 
 import election
 
@@ -37,6 +38,15 @@ for fn in os.listdir("states/"):
         counties[county_fn] = county_info
     state_info["counties"] = counties
 
+def add_prefix(dates, *, states=None, counties=None):
+    result = copy.deepcopy(dates)
+    for date in result:
+        if date["state"] and states:
+            date["name"] = states[date["state"]]["name"] + " " + date["name"]
+        elif date["county"] and counties:
+            date["name"] = counties[date["county"]]["name"] + " " + date["name"]
+    return result
+
 for state_lower in states:
     state_info = states[state_lower]
 
@@ -59,6 +69,7 @@ for state_lower in states:
     county_list.sort(key=lambda x: x["lower_name"])
     os.makedirs(f"site/en/{state_lower}", exist_ok=True)
     state_dates = [d for d in all_state_dates if d["county"] is None]
+    state_dates = add_prefix(state_dates, counties=counties)
     state_data = {"language": "en",
                   "state": state_info,
                   "counties": county_list,
@@ -76,5 +87,6 @@ top_level = env.get_template("index.html.jinja")
 federal_dates = [d for d in election.dates if d["state"] is None]
 top = {"language": "en", "states": state_list, "dates": federal_dates}
 ics.generate(federal_dates, f"site/en/voter.ics")
-ics.generate(election.dates, f"site/en/all-voter.ics")
+national_dates = add_prefix(election.dates, states=states)
+ics.generate(national_dates, f"site/en/all-voter.ics")
 top_level.stream(top).dump("site/index.html")

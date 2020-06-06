@@ -1,6 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//electioncal.us generator//circuitpython.org//
+NAME:Rhode Island Election Dates by electioncal.us
+SOURCE:https://electioncal.us/en/rhode_island/voter.ics
+URL:https://electioncal.us/en/rhode_island/
 BEGIN:VEVENT
 SUMMARY:Presidential Primary
 DTSTART;VALUE=DATE:20200602

@@ -1,320 +1,323 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//electioncal.us generator//circuitpython.org//
+NAME:All Election Dates in United States by electioncal.us
+SOURCE:https://electioncal.us/en/all-voter.ics
+URL:https://electioncal.us/en/
 BEGIN:VEVENT
-SUMMARY:Presidential Primary (Democrats)
+SUMMARY:South Carolina Presidential Primary (Democrats)
 DTSTART;VALUE=DATE:20200229
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Presidential Primary
+SUMMARY:Colorado Presidential Primary
 DTSTART;VALUE=DATE:20200303
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Presidential Primary
+SUMMARY:Vermont Presidential Primary
 DTSTART;VALUE=DATE:20200303
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Presidential Primary
+SUMMARY:Tennessee Presidential Primary
 DTSTART;VALUE=DATE:20200303
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Presidential Primary
+SUMMARY:Massachusetts Presidential Primary
 DTSTART;VALUE=DATE:20200303
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional &amp\; Presidential Primary
+SUMMARY:Texas Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200303
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Presidential Primary
+SUMMARY:Oklahoma Presidential Primary
 DTSTART;VALUE=DATE:20200303
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Presidential Primary (Democrats)
+SUMMARY:Virginia Presidential Primary (Democrats)
 DTSTART;VALUE=DATE:20200303
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional &amp\; Presidential Primary
+SUMMARY:North Carolina Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200303
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional &amp\; Presidential Primary
+SUMMARY:California Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200303
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Presidential Primary
+SUMMARY:Utah Presidential Primary
 DTSTART;VALUE=DATE:20200303
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional &amp\; Presidential Primary
+SUMMARY:Arkansas Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200303
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Presidential Primary
+SUMMARY:Minnesota Presidential Primary
 DTSTART;VALUE=DATE:20200303
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Presidential Primary
+SUMMARY:Michigan Presidential Primary
 DTSTART;VALUE=DATE:20200310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Presidential Primary
+SUMMARY:Washington Presidential Primary
 DTSTART;VALUE=DATE:20200310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Presidential Primary
+SUMMARY:Florida Presidential Primary
 DTSTART;VALUE=DATE:20200317
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional &amp\; Presidential Primary
+SUMMARY:Illinois Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200317
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Presidential Preference (Democrats)
+SUMMARY:Arizona Presidential Preference (Democrats)
 DTSTART;VALUE=DATE:20200317
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary Run-Off (if needed)
+SUMMARY:Arkansas Congressional Primary Run-Off (if needed)
 DTSTART;VALUE=DATE:20200331
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Presidential Primary
+SUMMARY:Wisconsin Presidential Primary
 DTSTART;VALUE=DATE:20200407
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional &amp\; Presidential Primary
+SUMMARY:Ohio Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200428
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Presidential Primary
+SUMMARY:New York Presidential Primary
 DTSTART;VALUE=DATE:20200428
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional &amp\; Presidential Primary
+SUMMARY:Nebraska Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200512
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional &amp\; Presidential Primary
+SUMMARY:Oregon Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200519
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional &amp\; Presidential Primary
+SUMMARY:New Mexico Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200602
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional &amp\; Presidential Primary
+SUMMARY:Maryland Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200602
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional &amp\; Presidential Primary
+SUMMARY:Pennsylvania Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200602
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional &amp\; Presidential Primary
+SUMMARY:Indiana Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200602
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional &amp\; Presidential Primary
+SUMMARY:District of Columbia Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200602
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
+SUMMARY:Idaho Congressional Primary
 DTSTART;VALUE=DATE:20200602
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional &amp\; Presidential Primary
+SUMMARY:South Dakota Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200602
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Presidential Primary
+SUMMARY:Rhode Island Presidential Primary
 DTSTART;VALUE=DATE:20200602
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
+SUMMARY:Iowa Congressional Primary
 DTSTART;VALUE=DATE:20200602
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional &amp\; Presidential Primary
+SUMMARY:Montana Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200602
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Presidential Primary (Republican)
+SUMMARY:Puerto Rico Presidential Primary (Republican)
 DTSTART;VALUE=DATE:20200607
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Presidential Primary
+SUMMARY:Georgia Presidential Primary
 DTSTART;VALUE=DATE:20200609
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional &amp\; Presidential Primary
+SUMMARY:West Virginia Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200609
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
+SUMMARY:South Carolina Congressional Primary
 DTSTART;VALUE=DATE:20200609
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
+SUMMARY:Nevada Congressional Primary
 DTSTART;VALUE=DATE:20200609
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
+SUMMARY:North Dakota Congressional Primary
 DTSTART;VALUE=DATE:20200609
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary Run-Off (if needed)
+SUMMARY:South Carolina Congressional Primary Run-Off (if needed)
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary Run-Off (if needed)
+SUMMARY:Mississippi Congressional Primary Run-Off (if needed)
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
+SUMMARY:Virginia Congressional Primary
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary Run-Off (if needed)
+SUMMARY:North Carolina Congressional Primary Run-Off (if needed)
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Presidential Primary
+SUMMARY:Kentucky Presidential Primary
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
+SUMMARY:New York Congressional Primary
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
+SUMMARY:Colorado Congressional Primary
 DTSTART;VALUE=DATE:20200630
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
+SUMMARY:Oklahoma Congressional Primary
 DTSTART;VALUE=DATE:20200630
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
+SUMMARY:Utah Congressional Primary
 DTSTART;VALUE=DATE:20200630
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional &amp\; Presidential Primary
+SUMMARY:New Jersey Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200707
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Presidential Primary
+SUMMARY:Delaware Presidential Primary
 DTSTART;VALUE=DATE:20200707
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Presidential Primary
+SUMMARY:Louisiana Presidential Primary
 DTSTART;VALUE=DATE:20200711
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Presidential Primary (Democrat)
+SUMMARY:Puerto Rico Presidential Primary (Democrat)
 DTSTART;VALUE=DATE:20200712
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
+SUMMARY:Maine Congressional Primary
 DTSTART;VALUE=DATE:20200714
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary Run-Off (if needed)
+SUMMARY:Texas Congressional Primary Run-Off (if needed)
 DTSTART;VALUE=DATE:20200714
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary Run-Off (if needed)
+SUMMARY:Alabama Congressional Primary Run-Off (if needed)
 DTSTART;VALUE=DATE:20200714
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
+SUMMARY:U.S. Virgin Islands Congressional Primary
 DTSTART;VALUE=DATE:20200801
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
+SUMMARY:Kansas Congressional Primary
 DTSTART;VALUE=DATE:20200804
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
+SUMMARY:Missouri Congressional Primary
 DTSTART;VALUE=DATE:20200804
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
+SUMMARY:Michigan Congressional Primary
 DTSTART;VALUE=DATE:20200804
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
+SUMMARY:Washington Congressional Primary
 DTSTART;VALUE=DATE:20200804
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
+SUMMARY:Arizona Congressional Primary
 DTSTART;VALUE=DATE:20200804
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
+SUMMARY:Tennessee Congressional Primary
 DTSTART;VALUE=DATE:20200806
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
+SUMMARY:Hawaii Congressional Primary
 DTSTART;VALUE=DATE:20200808
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary Run-off (if needed)
+SUMMARY:Georgia Congressional Primary Run-off (if needed)
 DTSTART;VALUE=DATE:20200811
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
+SUMMARY:Vermont Congressional Primary
 DTSTART;VALUE=DATE:20200811
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Presidential Primary
+SUMMARY:Connecticut Presidential Primary
 DTSTART;VALUE=DATE:20200811
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
+SUMMARY:Wisconsin Congressional Primary
 DTSTART;VALUE=DATE:20200811
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary Run-Off (if needed)
+SUMMARY:South Dakota Congressional Primary Run-Off (if needed)
 DTSTART;VALUE=DATE:20200811
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congresssional Primary
+SUMMARY:Minnesota Congresssional Primary
 DTSTART;VALUE=DATE:20200811
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
+SUMMARY:Florida Congressional Primary
 DTSTART;VALUE=DATE:20200818
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
+SUMMARY:Wyoming Congressional Primary
 DTSTART;VALUE=DATE:20200818
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
+SUMMARY:Alaska Congressional Primary
 DTSTART;VALUE=DATE:20200818
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary Run-off (if needed)
+SUMMARY:Oklahoma Congressional Primary Run-off (if needed)
 DTSTART;VALUE=DATE:20200825
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
+SUMMARY:Guam Congressional Primary
 DTSTART;VALUE=DATE:20200829
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
+SUMMARY:Massachusetts Congressional Primary
 DTSTART;VALUE=DATE:20200901
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
+SUMMARY:New Hampshire Congressional Primary
 DTSTART;VALUE=DATE:20200908
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
+SUMMARY:Rhode Island Congressional Primary
 DTSTART;VALUE=DATE:20200908
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
+SUMMARY:Delaware Congressional Primary
 DTSTART;VALUE=DATE:20200915
 END:VEVENT
 BEGIN:VEVENT
@@ -322,11 +325,11 @@ SUMMARY:General (Presidential) Election
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:General Run-Off (if needed)
+SUMMARY:Louisiana General Run-Off (if needed)
 DTSTART;VALUE=DATE:20201205
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:General Run-Off (if needed)
+SUMMARY:Georgia General Run-Off (if needed)
 DTSTART;VALUE=DATE:20210105
 END:VEVENT
 END:VCALENDAR

@@ -1,6 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//electioncal.us generator//circuitpython.org//
+NAME:Vermont Election Dates by electioncal.us
+SOURCE:https://electioncal.us/en/vermont/voter.ics
+URL:https://electioncal.us/en/vermont/
 BEGIN:VEVENT
 SUMMARY:Presidential Primary
 DTSTART;VALUE=DATE:20200303

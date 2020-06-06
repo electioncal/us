@@ -1,6 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//electioncal.us generator//circuitpython.org//
+NAME:All Election Dates in Michigan by electioncal.us
+SOURCE:https://electioncal.us/en/michigan/all-voter.ics
+URL:https://electioncal.us/en/michigan/
 BEGIN:VEVENT
 SUMMARY:Presidential Primary
 DTSTART;VALUE=DATE:20200310

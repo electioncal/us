@@ -1,6 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//electioncal.us generator//circuitpython.org//
+NAME:All Election Dates in Nevada by electioncal.us
+SOURCE:https://electioncal.us/en/nevada/all-voter.ics
+URL:https://electioncal.us/en/nevada/
 BEGIN:VEVENT
 SUMMARY:Congressional Primary
 DTSTART;VALUE=DATE:20200609

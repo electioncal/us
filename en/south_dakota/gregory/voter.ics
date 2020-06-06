@@ -1,8 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//electioncal.us generator//circuitpython.org//
+SOURCE:https://electioncal.us/en/south_dakota/gregory/voter.ics
+URL:https://electioncal.us/en/south_dakota/gregory/
 BEGIN:VEVENT
-SUMMARY:Congressional &amp\; Presidential Primary
+SUMMARY:Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200602
 END:VEVENT
 BEGIN:VEVENT

@@ -1,6 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//electioncal.us generator//circuitpython.org//
+NAME:U.S. Virgin Islands Election Dates by electioncal.us
+SOURCE:https://electioncal.us/en/u.s._virgin_islands/voter.ics
+URL:https://electioncal.us/en/u.s._virgin_islands/
 BEGIN:VEVENT
 SUMMARY:Congressional Primary
 DTSTART;VALUE=DATE:20200801

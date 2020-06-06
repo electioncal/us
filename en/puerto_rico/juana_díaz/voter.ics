@@ -1,6 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//electioncal.us generator//circuitpython.org//
+SOURCE:https://electioncal.us/en/puerto_rico/juana_díaz/voter.ics
+URL:https://electioncal.us/en/puerto_rico/juana_díaz/
 BEGIN:VEVENT
 SUMMARY:Presidential Primary (Republican)
 DTSTART;VALUE=DATE:20200607

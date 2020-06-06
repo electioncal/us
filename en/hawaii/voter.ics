@@ -1,6 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//electioncal.us generator//circuitpython.org//
+NAME:Hawaii Election Dates by electioncal.us
+SOURCE:https://electioncal.us/en/hawaii/voter.ics
+URL:https://electioncal.us/en/hawaii/
 BEGIN:VEVENT
 SUMMARY:Congressional Primary
 DTSTART;VALUE=DATE:20200808

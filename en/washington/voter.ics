@@ -1,6 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//electioncal.us generator//circuitpython.org//
+NAME:Washington Election Dates by electioncal.us
+SOURCE:https://electioncal.us/en/washington/voter.ics
+URL:https://electioncal.us/en/washington/
 BEGIN:VEVENT
 SUMMARY:Presidential Primary
 DTSTART;VALUE=DATE:20200310

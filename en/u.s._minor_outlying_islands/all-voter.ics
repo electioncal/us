@@ -1,6 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//electioncal.us generator//circuitpython.org//
+NAME:All Election Dates in U.S. Minor Outlying Islands by electioncal.us
+SOURCE:https://electioncal.us/en/u.s._minor_outlying_islands/all-voter.ics
+URL:https://electioncal.us/en/u.s._minor_outlying_islands/
 BEGIN:VEVENT
 SUMMARY:General (Presidential) Election
 DTSTART;VALUE=DATE:20201103

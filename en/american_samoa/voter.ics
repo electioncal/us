@@ -1,6 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//electioncal.us generator//circuitpython.org//
+NAME:American Samoa Election Dates by electioncal.us
+SOURCE:https://electioncal.us/en/american_samoa/voter.ics
+URL:https://electioncal.us/en/american_samoa/
 BEGIN:VEVENT
 SUMMARY:General (Presidential) Election
 DTSTART;VALUE=DATE:20201103

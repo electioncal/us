@@ -1,8 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//electioncal.us generator//circuitpython.org//
+NAME:All Election Dates in Illinois by electioncal.us
+SOURCE:https://electioncal.us/en/illinois/all-voter.ics
+URL:https://electioncal.us/en/illinois/
 BEGIN:VEVENT
-SUMMARY:Congressional &amp\; Presidential Primary
+SUMMARY:Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200317
 END:VEVENT
 BEGIN:VEVENT

@@ -1,8 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//electioncal.us generator//circuitpython.org//
+NAME:All Election Dates in Ohio by electioncal.us
+SOURCE:https://electioncal.us/en/ohio/all-voter.ics
+URL:https://electioncal.us/en/ohio/
 BEGIN:VEVENT
-SUMMARY:Congressional &amp\; Presidential Primary
+SUMMARY:Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200428
 END:VEVENT
 BEGIN:VEVENT

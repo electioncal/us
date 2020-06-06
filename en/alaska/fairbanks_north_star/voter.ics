@@ -1,6 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//electioncal.us generator//circuitpython.org//
+SOURCE:https://electioncal.us/en/alaska/fairbanks_north_star/voter.ics
+URL:https://electioncal.us/en/alaska/fairbanks_north_star/
 BEGIN:VEVENT
 SUMMARY:Congressional Primary
 DTSTART;VALUE=DATE:20200818

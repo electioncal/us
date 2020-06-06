@@ -1,6 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//electioncal.us generator//circuitpython.org//
+NAME:Florida Election Dates by electioncal.us
+SOURCE:https://electioncal.us/en/florida/voter.ics
+URL:https://electioncal.us/en/florida/
 BEGIN:VEVENT
 SUMMARY:Presidential Primary
 DTSTART;VALUE=DATE:20200317

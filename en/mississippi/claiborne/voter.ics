@@ -1,6 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//electioncal.us generator//circuitpython.org//
+SOURCE:https://electioncal.us/en/mississippi/claiborne/voter.ics
+URL:https://electioncal.us/en/mississippi/claiborne/
 BEGIN:VEVENT
 SUMMARY:Congressional Primary Run-Off (if needed)
 DTSTART;VALUE=DATE:20200623

@@ -1,6 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//electioncal.us generator//circuitpython.org//
+SOURCE:https://electioncal.us/en/alaska/southeast_fairbanks_census/voter.i
+ cs
+URL:https://electioncal.us/en/alaska/southeast_fairbanks_census/
 BEGIN:VEVENT
 SUMMARY:Congressional Primary
 DTSTART;VALUE=DATE:20200818

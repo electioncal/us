@@ -1,8 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//electioncal.us generator//circuitpython.org//
+NAME:All Election Dates in West Virginia by electioncal.us
+SOURCE:https://electioncal.us/en/west_virginia/all-voter.ics
+URL:https://electioncal.us/en/west_virginia/
 BEGIN:VEVENT
-SUMMARY:Congressional &amp\; Presidential Primary
+SUMMARY:Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200609
 END:VEVENT
 BEGIN:VEVENT

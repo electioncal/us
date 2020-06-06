@@ -1,6 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//electioncal.us generator//circuitpython.org//
+NAME:Arizona Election Dates by electioncal.us
+SOURCE:https://electioncal.us/en/arizona/voter.ics
+URL:https://electioncal.us/en/arizona/
 BEGIN:VEVENT
 SUMMARY:Presidential Preference (Democrats)
 DTSTART;VALUE=DATE:20200317

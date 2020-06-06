@@ -1,8 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//electioncal.us generator//circuitpython.org//
+NAME:Nebraska Election Dates by electioncal.us
+SOURCE:https://electioncal.us/en/nebraska/voter.ics
+URL:https://electioncal.us/en/nebraska/
 BEGIN:VEVENT
-SUMMARY:Congressional &amp\; Presidential Primary
+SUMMARY:Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200512
 END:VEVENT
 BEGIN:VEVENT

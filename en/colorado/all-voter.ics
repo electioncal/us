@@ -1,6 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//electioncal.us generator//circuitpython.org//
+NAME:All Election Dates in Colorado by electioncal.us
+SOURCE:https://electioncal.us/en/colorado/all-voter.ics
+URL:https://electioncal.us/en/colorado/
 BEGIN:VEVENT
 SUMMARY:Presidential Primary
 DTSTART;VALUE=DATE:20200303

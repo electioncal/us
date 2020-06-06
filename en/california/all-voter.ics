@@ -1,8 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//electioncal.us generator//circuitpython.org//
+NAME:All Election Dates in California by electioncal.us
+SOURCE:https://electioncal.us/en/california/all-voter.ics
+URL:https://electioncal.us/en/california/
 BEGIN:VEVENT
-SUMMARY:Congressional &amp\; Presidential Primary
+SUMMARY:Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200303
 END:VEVENT
 BEGIN:VEVENT

@@ -1,6 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//electioncal.us generator//circuitpython.org//
+NAME:All Election Dates in Maine by electioncal.us
+SOURCE:https://electioncal.us/en/maine/all-voter.ics
+URL:https://electioncal.us/en/maine/
 BEGIN:VEVENT
 SUMMARY:Congressional Primary
 DTSTART;VALUE=DATE:20200714

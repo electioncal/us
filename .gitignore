@@ -1,2 +1,3 @@
-site
+site/*
+!site/CNAME
 __pycache__

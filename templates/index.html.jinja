@@ -1,5 +1,13 @@
 {% extends "base.html.jinja" %}
 {% block title %}US{% endblock %}
+{% block script_head %}
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.7.0/d3.min.js"></script>
+  <script type="text/javascript" src="https://d3js.org/topojson.v3.min.js"></script>
+  <script type="text/javascript" src="static/state-county-map.js"></script>
+{% endblock %}
+{% block style_head %}
+  <link href="static/state-county-map.css" rel="stylesheet" type="text/css">
+{% endblock%}
 {% block content %}
     <h1>You're smart and thoughtful. Please Vote. Here's when.</h1>
     <ul id="dates">
@@ -7,11 +15,25 @@
       <li>{{ date.date }} - {{ date.name }}</li>
     {% endfor %}
     </ul>
-    <p>Select your state below for details.</p>
-    <ul id="states">
+    <p>Select your state and county from the map for details.</p>
+    <div id="map"></div>
+    <p>Or state from the dropdown</p>
+    <select name="states" id="states">
+      <option value="default"> -- Select State </option>
     {% for state in states %}
-      <li><a href="{{ language }}/{{ state.lower_name }}/">{{ state.name }}</a></li>
+      <option value="{{state.lower_name}}">{{ state.name }}</option>
     {% endfor %}
     </ul>
     Add all of the dates to your calendar by clicking <a href="webcal://electioncal.us/{{language}}/voter.ics">here</a>. Get all nation-wide dates <a href="webcal://electioncal.us/{{language}}/all-voter.ics">here</a>.
+{% endblock %}
+{% block javascript %}
+    window.createMap("{{language}}");
+    function selectState(event) {
+      if (event.target.value === "default") {
+        return;
+      }
+      window.location.assign(["{{language}}", event.target.value].join("/"))
+    }
+    window.document.getElementById('states').addEventListener('change', selectState);
+
 {% endblock %}

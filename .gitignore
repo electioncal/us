@@ -1,3 +1,5 @@
 site/*
 !site/CNAME
+!site/static
 __pycache__
+env/*

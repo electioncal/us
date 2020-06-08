@@ -4,6 +4,14 @@
     
     <title>US - electioncal.us</title>
     
+    
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.7.0/d3.min.js"></script>
+  <script type="text/javascript" src="https://d3js.org/topojson.v3.min.js"></script>
+  <script type="text/javascript" src="static/state-county-map.js"></script>
+
+    
+  <link href="static/state-county-map.css" rel="stylesheet" type="text/css">
+
 </head>
 <body>
     <div id="content">
@@ -13,122 +21,125 @@
       <li>2020-11-03 - General (Presidential) Election</li>
     
     </ul>
-    <p>Select your state below for details.</p>
-    <ul id="states">
+    <p>Select your state and county from the map for details.</p>
+    <div id="map"></div>
+    <p>Or state from the dropdown</p>
+    <select name="states" id="states">
+      <option value="default"> -- Select State </option>
     
-      <li><a href="en/alabama/">Alabama</a></li>
+      <option value="alabama">Alabama</option>
     
-      <li><a href="en/alaska/">Alaska</a></li>
+      <option value="alaska">Alaska</option>
     
-      <li><a href="en/american_samoa/">American Samoa</a></li>
+      <option value="american_samoa">American Samoa</option>
     
-      <li><a href="en/arizona/">Arizona</a></li>
+      <option value="arizona">Arizona</option>
     
-      <li><a href="en/arkansas/">Arkansas</a></li>
+      <option value="arkansas">Arkansas</option>
     
-      <li><a href="en/california/">California</a></li>
+      <option value="california">California</option>
     
-      <li><a href="en/colorado/">Colorado</a></li>
+      <option value="colorado">Colorado</option>
     
-      <li><a href="en/connecticut/">Connecticut</a></li>
+      <option value="connecticut">Connecticut</option>
     
-      <li><a href="en/delaware/">Delaware</a></li>
+      <option value="delaware">Delaware</option>
     
-      <li><a href="en/district_of_columbia/">District of Columbia</a></li>
+      <option value="district_of_columbia">District of Columbia</option>
     
-      <li><a href="en/florida/">Florida</a></li>
+      <option value="florida">Florida</option>
     
-      <li><a href="en/georgia/">Georgia</a></li>
+      <option value="georgia">Georgia</option>
     
-      <li><a href="en/guam/">Guam</a></li>
+      <option value="guam">Guam</option>
     
-      <li><a href="en/hawaii/">Hawaii</a></li>
+      <option value="hawaii">Hawaii</option>
     
-      <li><a href="en/idaho/">Idaho</a></li>
+      <option value="idaho">Idaho</option>
     
-      <li><a href="en/illinois/">Illinois</a></li>
+      <option value="illinois">Illinois</option>
     
-      <li><a href="en/indiana/">Indiana</a></li>
+      <option value="indiana">Indiana</option>
     
-      <li><a href="en/iowa/">Iowa</a></li>
+      <option value="iowa">Iowa</option>
     
-      <li><a href="en/kansas/">Kansas</a></li>
+      <option value="kansas">Kansas</option>
     
-      <li><a href="en/kentucky/">Kentucky</a></li>
+      <option value="kentucky">Kentucky</option>
     
-      <li><a href="en/louisiana/">Louisiana</a></li>
+      <option value="louisiana">Louisiana</option>
     
-      <li><a href="en/maine/">Maine</a></li>
+      <option value="maine">Maine</option>
     
-      <li><a href="en/maryland/">Maryland</a></li>
+      <option value="maryland">Maryland</option>
     
-      <li><a href="en/massachusetts/">Massachusetts</a></li>
+      <option value="massachusetts">Massachusetts</option>
     
-      <li><a href="en/michigan/">Michigan</a></li>
+      <option value="michigan">Michigan</option>
     
-      <li><a href="en/minnesota/">Minnesota</a></li>
+      <option value="minnesota">Minnesota</option>
     
-      <li><a href="en/mississippi/">Mississippi</a></li>
+      <option value="mississippi">Mississippi</option>
     
-      <li><a href="en/missouri/">Missouri</a></li>
+      <option value="missouri">Missouri</option>
     
-      <li><a href="en/montana/">Montana</a></li>
+      <option value="montana">Montana</option>
     
-      <li><a href="en/nebraska/">Nebraska</a></li>
+      <option value="nebraska">Nebraska</option>
     
-      <li><a href="en/nevada/">Nevada</a></li>
+      <option value="nevada">Nevada</option>
     
-      <li><a href="en/new_hampshire/">New Hampshire</a></li>
+      <option value="new_hampshire">New Hampshire</option>
     
-      <li><a href="en/new_jersey/">New Jersey</a></li>
+      <option value="new_jersey">New Jersey</option>
     
-      <li><a href="en/new_mexico/">New Mexico</a></li>
+      <option value="new_mexico">New Mexico</option>
     
-      <li><a href="en/new_york/">New York</a></li>
+      <option value="new_york">New York</option>
     
-      <li><a href="en/north_carolina/">North Carolina</a></li>
+      <option value="north_carolina">North Carolina</option>
     
-      <li><a href="en/north_dakota/">North Dakota</a></li>
+      <option value="north_dakota">North Dakota</option>
     
-      <li><a href="en/northern_mariana_islands/">Northern Mariana Islands</a></li>
+      <option value="northern_mariana_islands">Northern Mariana Islands</option>
     
-      <li><a href="en/ohio/">Ohio</a></li>
+      <option value="ohio">Ohio</option>
     
-      <li><a href="en/oklahoma/">Oklahoma</a></li>
+      <option value="oklahoma">Oklahoma</option>
     
-      <li><a href="en/oregon/">Oregon</a></li>
+      <option value="oregon">Oregon</option>
     
-      <li><a href="en/pennsylvania/">Pennsylvania</a></li>
+      <option value="pennsylvania">Pennsylvania</option>
     
-      <li><a href="en/puerto_rico/">Puerto Rico</a></li>
+      <option value="puerto_rico">Puerto Rico</option>
     
-      <li><a href="en/rhode_island/">Rhode Island</a></li>
+      <option value="rhode_island">Rhode Island</option>
     
-      <li><a href="en/south_carolina/">South Carolina</a></li>
+      <option value="south_carolina">South Carolina</option>
     
-      <li><a href="en/south_dakota/">South Dakota</a></li>
+      <option value="south_dakota">South Dakota</option>
     
-      <li><a href="en/tennessee/">Tennessee</a></li>
+      <option value="tennessee">Tennessee</option>
     
-      <li><a href="en/texas/">Texas</a></li>
+      <option value="texas">Texas</option>
     
-      <li><a href="en/u.s._minor_outlying_islands/">U.S. Minor Outlying Islands</a></li>
+      <option value="u.s._minor_outlying_islands">U.S. Minor Outlying Islands</option>
     
-      <li><a href="en/u.s._virgin_islands/">U.S. Virgin Islands</a></li>
+      <option value="u.s._virgin_islands">U.S. Virgin Islands</option>
     
-      <li><a href="en/utah/">Utah</a></li>
+      <option value="utah">Utah</option>
     
-      <li><a href="en/vermont/">Vermont</a></li>
+      <option value="vermont">Vermont</option>
     
-      <li><a href="en/virginia/">Virginia</a></li>
+      <option value="virginia">Virginia</option>
     
-      <li><a href="en/washington/">Washington</a></li>
+      <option value="washington">Washington</option>
     
-      <li><a href="en/west_virginia/">West Virginia</a></li>
+      <option value="west_virginia">West Virginia</option>
     
-      <li><a href="en/wisconsin/">Wisconsin</a></li>
+      <option value="wisconsin">Wisconsin</option>
     
-      <li><a href="en/wyoming/">Wyoming</a></li>
+      <option value="wyoming">Wyoming</option>
     
     </ul>
     Add all of the dates to your calendar by clicking <a href="webcal://electioncal.us/en/voter.ics">here</a>. Get all nation-wide dates <a href="webcal://electioncal.us/en/all-voter.ics">here</a>.
@@ -141,5 +152,16 @@
         <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
         
     </div>
+    <script type="text/javascript">
+    window.createMap("en");
+    function selectState(event) {
+      if (event.target.value === "default") {
+        return;
+      }
+      window.location.assign(["en", event.target.value].join("/"))
+    }
+    window.document.getElementById('states').addEventListener('change', selectState);
+
+</script>
 </body>
 </html>

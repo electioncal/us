@@ -1,3 +1,5 @@
+from pathlib import Path
+
 import ics
 import os
 import jinja2
@@ -19,27 +21,19 @@ specific_feed_name = "{} Election Dates by electioncal.us"
 all_feed_name = "All Election Dates in {} by electioncal.us"
 
 # Load per-state data. fn for filename which is also the lower cased version of the state or county.
-for fn in os.listdir("states/"):
-    info_fn = os.path.join("states", fn, "info.toml")
-    if not os.path.exists(info_fn):
-        continue
-    with open(info_fn, "r") as f:
-        state_info = dict(tomlkit.loads(f.read()))
-    state_info["lower_name"] = fn
-    states[fn] = state_info
+dbdir = Path("states/")
 
-    # Load per-county data.
-    counties = {}
-    state_dir = os.path.join("states", fn)
-    for county_fn in os.listdir(state_dir):
-        info_fn = os.path.join(state_dir, county_fn, "info.toml")
-        if not os.path.exists(info_fn):
-            continue
-        with open(info_fn, "r") as f:
-            county_info = tomlkit.loads(f.read())
-        county_info["lower_name"] = county_fn
-        counties[county_fn] = county_info
-    state_info["counties"] = counties
+for state in dbdir.glob("*/info.toml"):
+    state_info = dict(tomlkit.loads(state.read_text()))
+    state_info["lower_name"] = state.parent.name
+    state_info["counties"] = {}
+    states[state.parent.name] = state_info
+
+for county in dbdir.glob("*/*/info.toml"):
+    county_info = dict(tomlkit.loads(county.read_text()))
+    county_info["lower_name"] = county.parent.name
+    state = county.parent.parent.name
+    states[state]["counties"][county.parent.name] = county_info
 
 
 def add_prefix(dates, *, states=None, counties=None):

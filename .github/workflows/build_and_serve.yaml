@@ -51,4 +51,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site
-        if: github.ref == "main" && github.repository_owner == "electioncal"
+        if: github.ref == 'main' && github.repository_owner == 'electioncal'

@@ -8,6 +8,6 @@
     {% endfor %}
     </ul>
     Add all of the dates to your calendar by clicking <a href="webcal://electioncal.us/{{language}}/{{state.lower_name}}/{{county.lower_name}}/voter.ics">here</a> (
-    {% for alternative in alternatives %}<a href="https://electioncal.us/{{language}}/{{state.lower_name}}/{{county.lower_name}}/voter.{{alternative.extension}}">{{alternative.name}}</a>{% if not loop.first %}, {% endif %}
+    {% for alternative in alternatives %}<a href="https://electioncal.us/{{language}}/{{state.lower_name}}/{{county.lower_name}}/voter.{{alternative.extension}}">{{alternative.name}}</a>{% if not loop.last %}, {% endif %}
     {% endfor %}).
 {% endblock %}

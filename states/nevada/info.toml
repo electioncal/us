@@ -1,3 +1,8 @@
 name = "Nevada"
 fips_code = 32
 postal_code = "NV"
+homepage = "https://www.nvsos.gov/sos/elections"
+
+[[link]]
+description = "2020 Calendar PDF"
+url = "https://www.nvsos.gov/sos/home/showdocument?id=8206"

@@ -1,3 +1,8 @@
 name = "West Virginia"
 fips_code = 54
 postal_code = "WV"
+homepage = "https://sos.wv.gov/elections/"
+
+[[link]]
+url = "https://sos.wv.gov/FormSearch/Elections/Informational/West%20Virginia%20Election%20Calendar.pdf"
+description = "2020 Calendar PDF"

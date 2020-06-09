@@ -1,3 +1,11 @@
 name = "Georgia"
 fips_code = 13
 postal_code = "GA"
+homepage = "https://sos.ga.gov/index.php/elections"
+
+[demonym]
+en = "Georgian"
+
+[[link]]
+description = "2020 Calendar PDF"
+url = "https://sos.ga.gov/admin/files/2020%20Revised%20Short%20Calendar.pdf"

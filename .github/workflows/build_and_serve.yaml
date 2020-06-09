@@ -2,6 +2,8 @@ name: Build & Serve
 # This workflow is triggered on pushes to the repository.
 on:
   push:
+    branches: main
+  pull_request:
   schedule:
     - cron: '0 * * * *' # hourly
 
@@ -49,3 +51,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site
+        if: github.ref == "main" && github.repository_owner == "electioncal"

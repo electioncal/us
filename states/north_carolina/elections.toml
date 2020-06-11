@@ -5,10 +5,26 @@ original_date = 2020-03-03
 
 [20200512]
 date = 2020-06-23
-name = "Congressional Primary Run-Off (if needed)"
+name = "Congressional Primary Run-Off"
 original_date = 2020-05-12
+
+[20200512.absentee]
+register_received_by = 2020-06-16T17:00:00
+register_in_person_by = 2020-06-16T17:00:00
+in_person_by = 2020-06-23T17:00:00
+postmarked_by = 2020-06-23
+received_by = 2020-06-26T17:00:00
+sources = ["https://s3.amazonaws.com/dl.ncsbe.gov/Outreach/Absentee/Infosheet_howtoabsentee_FINAL.pdf"]
 
 [20201103]
 date = 2020-11-03
 name = "General"
 original_date = 2020-11-03
+
+[20201103.absentee]
+register_received_by = 2020-10-27T17:00:00
+register_in_person_by = 2020-10-27T17:00:00
+in_person_by = 2020-10-27T17:00:00
+postmarked_by = 2020-11-03
+received_by = 2020-11-06T17:00:00
+sources = ["https://s3.amazonaws.com/dl.ncsbe.gov/Outreach/Absentee/Infosheet_howtoabsentee_FINAL.pdf"]

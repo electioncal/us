@@ -1,3 +1,8 @@
 name = "Mississippi"
 fips_code = 28
 postal_code = "MS"
+homepage = "https://www.sos.ms.gov/Elections-Voting/Pages/default.aspx"
+
+[[link]]
+url = "https://www.sos.ms.gov/content/documents/elections/2020%20Website%20Calendar.pdf"
+description = "2020 Calendar PDF"

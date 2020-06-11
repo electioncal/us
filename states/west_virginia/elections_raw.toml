@@ -21,6 +21,14 @@ office_sought = "P"
 primary_general_date = "2019-12-30T17:10:11.833314"
 update_date = "2020-04-01T17:14:14+00:00"
 
+
+[20200609.google_civic]
+electionDay = "2020-06-09"
+id = "4955"
+last_fetched = "2020-06-10"
+name = "West Virginia Presidential and State Primary Election"
+ocdDivisionId = "ocd-division/country:us/state:wv"
+
 [20201103]
 [20201103.eac]
 election_date = 2020-11-03

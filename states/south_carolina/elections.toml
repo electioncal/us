@@ -2,11 +2,13 @@
 date = 2020-02-29
 name = "Presidential Primary (Democrats)"
 original_date = 2020-02-29
+results = "https://www.enr-scvotes.org/SC/100517/Web02-state.242137/#/"
 
 [20200609]
 date = 2020-06-09
 name = "Congressional Primary"
 original_date = 2020-06-09
+results = "https://www.enr-scvotes.org/SC/103402/Web02-state.250556/#/"
 
 [20200623]
 date = 2020-06-23

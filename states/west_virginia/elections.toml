@@ -3,6 +3,15 @@ date = 2020-06-09
 name = "Congressional & Presidential Primary"
 original_date = 2020-06-09
 
+[20200609.absentee]
+register_url = "https://vrsws.sos.ky.gov/abrweb/"
+register_url_deadline = 2020-06-15T23:59:59
+already_registered = true
+postmarked_by = 2020-06-23
+received_by = 2020-06-27T18:00:00
+sources = ["https://elect.ky.gov/SiteAssets/Pages/default/Primary%20Timeline.pdf",
+           "https://elect.ky.gov/SiteAssets/Pages/default/SBE%20Covid19%20Emergency%20Regulation.pdf"]
+
 [20201103]
 date = 2020-11-03
 name = "General"

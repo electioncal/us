@@ -27,6 +27,14 @@ election_year = 2020
 office_sought = "S"
 primary_general_date = "2019-12-27T16:55:18.042529"
 
+
+[20200630.google_civic]
+electionDay = "2020-06-30"
+id = "4977"
+last_fetched = "2020-06-10"
+name = "Colorado State Primary Election"
+ocdDivisionId = "ocd-division/country:us/state:co"
+
 [20201103]
 [20201103.eac]
 election_date = 2020-11-03

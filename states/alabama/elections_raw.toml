@@ -22,6 +22,14 @@ office_sought = "S"
 primary_general_date = "2020-01-03T20:22:06.818439"
 update_date = "2020-03-20T14:40:45+00:00"
 
+
+[20200714.google_civic]
+electionDay = "2020-07-14"
+id = "4992"
+last_fetched = "2020-06-10"
+name = "Alabama Primary Runoff Election"
+ocdDivisionId = "ocd-division/country:us/state:al"
+
 [20201103]
 [20201103.eac]
 election_date = 2020-11-03

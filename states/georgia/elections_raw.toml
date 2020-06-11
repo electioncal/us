@@ -22,6 +22,14 @@ office_sought = "P"
 primary_general_date = "2019-12-27T20:08:22.815117"
 update_date = "2020-04-10T15:18:19+00:00"
 
+
+[20200609.google_civic]
+electionDay = "2020-06-09"
+id = "4958"
+last_fetched = "2020-06-10"
+name = "Georgia Presidential and State Primary Election"
+ocdDivisionId = "ocd-division/country:us/state:ga"
+
 [20200811]
 [20200811.eac]
 election_date = 2020-08-11

@@ -21,6 +21,14 @@ office_sought = "P"
 primary_general_date = "2019-12-27T21:04:26.664541"
 update_date = "2020-04-15T13:13:18+00:00"
 
+
+[20200711.google_civic]
+electionDay = "2020-07-11"
+id = "4990"
+last_fetched = "2020-06-10"
+name = "Louisiana Presidential and Municipal Primary Election"
+ocdDivisionId = "ocd-division/country:us/state:la"
+
 [20201103]
 [20201103.eac]
 election_date = 2020-11-03

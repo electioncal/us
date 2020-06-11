@@ -19,6 +19,14 @@ election_year = 2020
 office_sought = "H"
 primary_general_date = "2019-12-27T22:12:53.418685"
 
+
+[20200609.google_civic]
+electionDay = "2020-06-09"
+id = "4970"
+last_fetched = "2020-06-10"
+name = "Nevada State Primary Election"
+ocdDivisionId = "ocd-division/country:us/state:nv"
+
 [20201103]
 [20201103.eac]
 election_date = 2020-11-03

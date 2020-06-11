@@ -28,6 +28,14 @@ election_year = 2020
 office_sought = "S"
 primary_general_date = "2019-12-30T16:01:35.613791"
 
+
+[20200609.google_civic]
+electionDay = "2020-06-09"
+id = "4971"
+last_fetched = "2020-06-10"
+name = "South Carolina State Primary Election"
+ocdDivisionId = "ocd-division/country:us/state:sc"
+
 [20200623]
 [20200623.eac]
 election_date = 2020-06-23

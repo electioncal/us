@@ -1,3 +1,8 @@
 name = "Kentucky"
 fips_code = 21
 postal_code = "KY"
+homepage = "http://elect.ky.gov/"
+
+[[link]]
+url = "https://elect.ky.gov/SiteAssets/Pages/default/Primary%20Timeline.pdf"
+description = "2020 Primary Calendar PDF"

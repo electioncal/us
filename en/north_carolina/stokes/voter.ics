@@ -8,7 +8,7 @@ SUMMARY:Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200303
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary Run-Off (if needed)
+SUMMARY:Congressional Primary Run-Off
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT

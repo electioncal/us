@@ -4,7 +4,7 @@ PRODID:-//electioncal.us generator//circuitpython.org//
 SOURCE:https://electioncal.us/en/mississippi/lowndes/voter.ics
 URL:https://electioncal.us/en/mississippi/lowndes/
 BEGIN:VEVENT
-SUMMARY:Congressional Primary Run-Off (if needed)
+SUMMARY:Congressional Primary Run-Off
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT

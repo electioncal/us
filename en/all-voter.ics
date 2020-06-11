@@ -177,11 +177,11 @@ SUMMARY:Kentucky Presidential Primary
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:North Carolina Congressional Primary Run-Off (if needed)
+SUMMARY:North Carolina Congressional Primary Run-Off
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mississippi Congressional Primary Run-Off (if needed)
+SUMMARY:Mississippi Congressional Primary Run-Off
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT

@@ -5,7 +5,7 @@ NAME:All Election Dates in Mississippi by electioncal.us
 SOURCE:https://electioncal.us/en/mississippi/all-voter.ics
 URL:https://electioncal.us/en/mississippi/
 BEGIN:VEVENT
-SUMMARY:Congressional Primary Run-Off (if needed)
+SUMMARY:Congressional Primary Run-Off
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT

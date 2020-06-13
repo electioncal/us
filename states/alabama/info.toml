@@ -1,3 +1,7 @@
 name = "Alabama"
 fips_code = 1
 postal_code = "AL"
+
+homepage = "https://www.sos.alabama.gov/alabama-votes"
+registration_info = "https://www.alabamainteractive.org/sos/voter_registration/voterRegistrationWelcome.action"
+absentee_info = "https://www.sos.alabama.gov/alabama-votes/voter/absentee-voting"

@@ -1,10 +1,11 @@
 name = "Virginia"
 fips_code = 51
 postal_code = "VA"
-
 homepage = "https://www.elections.virginia.gov/"
 registration_info = "https://www.elections.virginia.gov/registration/"
 registration_url = "https://www.elections.virginia.gov/citizen-portal/"
+absentee_info = "https://www.elections.virginia.gov/casting-a-ballot/absentee-voting/"
+military_overseas_info = "https://www.elections.virginia.gov/casting-a-ballot/military-overseas/"
 
 [[link]]
 description = "Upcoming Elections"

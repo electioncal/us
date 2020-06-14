@@ -1,3 +1,7 @@
 name = "Maryland"
 fips_code = 24
 postal_code = "MD"
+homepage = "http://www.elections.state.md.us/"
+registration_info = "https://elections.maryland.gov/voter_registration/index.html"
+absentee_info = "https://elections.maryland.gov/voting/absentee.html"
+military_overseas_info = "https://elections.maryland.gov/overseas_voters/index.html"

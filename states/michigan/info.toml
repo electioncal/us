@@ -1,3 +1,7 @@
 name = "Michigan"
 fips_code = 26
 postal_code = "MI"
+homepage = "http://www.michigan.gov/sos/0,4670,7-127-1633-49313--,00.html"
+registration_info = "http://www.michigan.gov/sos/0,1607,7-127-1633_8716_8726_47669-175878--,00.html"
+absentee_info = "https://www.michigan.gov/sos/0,4670,7-127-1633_8716_8728-21037--,00.html"
+military_overseas_info = "https://www.michigan.gov/sos/0,4670,7-127-1633_11976_62664---,00.html"

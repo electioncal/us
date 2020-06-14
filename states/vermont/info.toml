@@ -1,3 +1,7 @@
 name = "Vermont"
 fips_code = 50
 postal_code = "VT"
+homepage = "https://www.sec.state.vt.us/elections.aspx"
+registration_info = "https://olvr.sec.state.vt.us/"
+absentee_info = "https://sos.vermont.gov/elections/voters/voter-faqs/absentee-voting-faqs/"
+military_overseas_info = "https://sos.vermont.gov/elections/voters/registration/"

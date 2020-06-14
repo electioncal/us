@@ -2,6 +2,9 @@ name = "Georgia"
 fips_code = 13
 postal_code = "GA"
 homepage = "https://sos.ga.gov/index.php/elections"
+registration_info = "https://registertovote.sos.ga.gov/GAOLVR/welcome.do#no-back-button"
+absentee_info = "https://sos.ga.gov/index.php/Elections/absentee_voting_in_georgia"
+military_overseas_info = "https://sos.ga.gov/index.php/elections/military_and_overseas_voting2"
 
 [demonym]
 en = "Georgian"

@@ -1,3 +1,6 @@
 name = "Kansas"
 fips_code = 20
 postal_code = "KS"
+homepage = "https://sos.kansas.gov/elections/"
+registration_info = "https://www.kdor.ks.gov/Apps/VoterReg/Default.aspx"
+military_overseas_info = "https://sos.kansas.gov/elections/federal-services-voting/"

@@ -1,3 +1,7 @@
 name = "Indiana"
 fips_code = 18
 postal_code = "IN"
+homepage = "http://www.in.gov/sos/elections/"
+registration_info = "https://indianavoters.in.gov/"
+absentee_info = "https://www.in.gov/sos/elections/2402.htm"
+military_overseas_info = "https://www.in.gov/sos/elections/2673.htm"

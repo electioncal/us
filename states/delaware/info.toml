@@ -1,3 +1,7 @@
 name = "Delaware"
 fips_code = 10
 postal_code = "DE"
+homepage = "https://elections.delaware.gov/"
+registration_info = "https://ivote.de.gov/"
+absentee_info = "https://elections.delaware.gov/services/voter/absentee/index.shtml"
+military_overseas_info = "https://elections.delaware.gov/services/voter/absentee/uocava.shtml"

@@ -1,3 +1,8 @@
 name = "South Dakota"
 fips_code = 46
 postal_code = "SD"
+homepage = "http://sdsos.gov/elections-voting/"
+registration_info = "http://sdsos.gov/elections-voting/voting/register-to-vote/default.aspx"
+absentee_info = "https://sdsos.gov/elections-voting/voting/absentee-voting.aspx"
+military_info = "https://sdsos.gov/elections-voting/voting/military-members.aspx"
+overseas_info = "https://sdsos.gov/elections-voting/voting/overseas-citizen-voter.aspx"

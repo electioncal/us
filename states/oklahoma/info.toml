@@ -1,3 +1,7 @@
 name = "Oklahoma"
 fips_code = 40
 postal_code = "OK"
+homepage = "https://www.ok.gov/elections/"
+registration_info = "https://www.ok.gov/elections/Voter_Info/Register_to_Vote/index.html"
+absentee_info = "https://www.ok.gov/elections/Voter_Info/Absentee_Voting/index.html"
+military_overseas_info = "https://www.ok.gov/elections/Voter_Info/Military_Overseas_Voters/index.html"

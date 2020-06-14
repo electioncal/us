@@ -1,3 +1,7 @@
 name = "Wyoming"
 fips_code = 56
 postal_code = "WY"
+homepage = "http://soswy.state.wy.us/elections/"
+registration_info = "http://soswy.state.wy.us/Elections/State/RegisteringToVote.aspx"
+absentee_info = "https://sos.wyo.gov/Elections/State/AbsenteeVoting.aspx"
+military_overseas_info = "https://sos.wyo.gov/Elections/MOVE_Overview.aspx"

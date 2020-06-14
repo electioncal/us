@@ -1,3 +1,7 @@
 name = "Montana"
 fips_code = 30
 postal_code = "MT"
+homepage = "https://sosmt.gov/elections/"
+registration_info = "https://sos.mt.gov/elections/vote"
+absentee_info = "https://sosmt.gov/elections/absentee/"
+military_overseas_info = "https://sosmt.gov/elections/military-overseas/"

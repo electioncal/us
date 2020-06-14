@@ -1,3 +1,7 @@
 name = "Massachusetts"
 fips_code = 25
 postal_code = "MA"
+homepage = "http://www.sec.state.ma.us/ele/eleidx.htm"
+registration_info = "https://www.sec.state.ma.us/ele/eleifv/howreg.htm"
+absentee_info = "http://www.sec.state.ma.us/ele/eleabsentee/absidx.htm"
+military_overseas_info = "http://www.sec.state.ma.us/ele/elemil/milidx.htm"

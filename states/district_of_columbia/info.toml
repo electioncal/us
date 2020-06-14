@@ -2,3 +2,7 @@ name = "District of Columbia"
 fips_code = 11
 fec_state = "DC"
 postal_code = "DC"
+homepage = "https://dcboe.org/index.aspx"
+registration_info = "https://www.vote4dc.com/ApplyInstructions/Register"
+absentee_info = "https://dcboe.org/Voters/Absentee-Voting/Request-an-Absentee-Ballot"
+military_overseas_info = "https://dcboe.org/Voters/Absentee-Voting/Military-and-Overseas-Voters"

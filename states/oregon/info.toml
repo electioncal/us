@@ -1,3 +1,7 @@
 name = "Oregon"
 fips_code = 41
 postal_code = "OR"
+homepage = "http://sos.oregon.gov/voting-elections"
+registration_info = "http://sos.oregon.gov/voting/Pages/registration.aspx?lang=en"
+absentee_info = "https://sos.oregon.gov/voting/Pages/voteinor.aspx"
+military_overseas_info = "https://sos.oregon.gov/voting/Pages/militaryoverseas.aspx"

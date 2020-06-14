@@ -1,7 +1,9 @@
 name = "Mississippi"
 fips_code = 28
 postal_code = "MS"
-homepage = "https://www.sos.ms.gov/Elections-Voting/Pages/default.aspx"
+homepage = "http://www.sos.ms.gov/Elections-Voting"
+registration_info = "http://www.sos.ms.gov/Elections-Voting/Pages/Voter-Registration-Information.aspx"
+military_overseas_info = "https://www.sos.ms.gov/Elections-Voting/Pages/Military-Overseas-Voter.aspx"
 
 [[link]]
 url = "https://www.sos.ms.gov/content/documents/elections/2020%20Website%20Calendar.pdf"

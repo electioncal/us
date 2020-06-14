@@ -2,6 +2,9 @@ name = "Nevada"
 fips_code = 32
 postal_code = "NV"
 homepage = "https://www.nvsos.gov/sos/elections"
+registration_info = "https://nvsos.gov/sosvoterservices/Registration/step1.aspx"
+absentee_info = "https://www.nvsos.gov/sos/elections/voters/absentee-voting"
+military_overseas_info = "https://www.nvsos.gov/sos/elections/voters/uniformed-overseas-citizens"
 
 [[link]]
 description = "2020 Calendar PDF"

@@ -1,3 +1,7 @@
 name = "Florida"
 fips_code = 12
 postal_code = "FL"
+homepage = "http://dos.myflorida.com/elections/"
+registration_info = "https://registertovoteflorida.gov/"
+absentee_info = "https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/"
+military_overseas_info = "https://dos.myflorida.com/elections/for-voters/voting/military-and-overseas-citizens-voting/"

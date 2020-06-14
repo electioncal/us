@@ -1,9 +1,10 @@
 name = "South Carolina"
 fips_code = 45
 postal_code = "SC"
-homepage = "https://www.scvotes.org/index.php/"
+homepage = "https://www.scvotes.org"
+registration_info = "https://info.scvotes.sc.gov/eng/ovr/start.aspx"
 absentee_info = "https://www.scvotes.org/absentee-voting"
-registration_url = "https://info.scvotes.sc.gov/eng/ovr/start.aspx"
+military_overseas_info = "https://www.scvotes.org/military-overseas-citizens"
 
 [[link]]
 description = "2020 Calendar PDF"

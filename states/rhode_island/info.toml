@@ -1,3 +1,7 @@
 name = "Rhode Island"
 fips_code = 44
 postal_code = "RI"
+homepage = "https://elections.ri.gov/"
+registration_info = "https://vote.sos.ri.gov/Home/RegistertoVote?ActiveFlag=1"
+absentee_info = "https://vote.sos.ri.gov/Voter/VotebyMail"
+military_overseas_info = "https://vote.sos.ri.gov/Voter/VotebyMail"

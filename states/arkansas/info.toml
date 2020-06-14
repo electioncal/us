@@ -1,3 +1,7 @@
 name = "Arkansas"
 fips_code = 5
 postal_code = "AR"
+homepage = "http://www.sos.arkansas.gov/elections"
+registration_info = "https://www.sos.arkansas.gov/elections/voter-information"
+absentee_info = "https://www.sos.arkansas.gov/elections/voter-information/absentee-voting"
+military_overseas_info = "https://www.sos.arkansas.gov/elections/military-and-overseas-citizens"

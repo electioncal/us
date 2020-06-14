@@ -1,3 +1,7 @@
 name = "Washington"
 fips_code = 53
 postal_code = "WA"
+homepage = "https://www.sos.wa.gov/elections/"
+registration_info = "https://voter.votewa.gov/"
+absentee_info = "https://www.sos.wa.gov/_assets/elections/SpecialAbsenteeBallotApp.pdf"
+military_overseas_info = "http://www.sos.wa.gov/elections/voters/Military-and-Overseas-Voters.aspx"

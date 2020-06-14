@@ -1,3 +1,7 @@
 name = "Connecticut"
 fips_code = 9
 postal_code = "CT"
+homepage = "http://portal.ct.gov/sots"
+registration_info = "https://voterregistration.ct.gov/OLVR/welcome.do"
+absentee_info = "https://portal.ct.gov/SOTS/Election-Services/Voter-Information/Absentee-Voting"
+military_overseas_info = "https://portal.ct.gov/SOTS/Election-Services/Voter-Information/Absentee-Voting"

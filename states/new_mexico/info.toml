@@ -1,3 +1,7 @@
 name = "New Mexico"
 fips_code = 35
 postal_code = "NM"
+homepage = "https://www.sos.state.nm.us/voting-and-elections/"
+registration_info = "https://portal.sos.state.nm.us/OVR/WebPages/Instructionsstep1.aspx"
+absentee_info = "https://www.sos.state.nm.us/voting-and-elections/voter-information/absentee-and-early-voting/"
+military_overseas_info = "https://www.sos.state.nm.us/voting-and-elections/voter-information/military-and-overseas-voting/"

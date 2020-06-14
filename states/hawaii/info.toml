@@ -1,3 +1,7 @@
 name = "Hawaii"
 fips_code = 15
 postal_code = "HI"
+homepage = "http://elections.hawaii.gov/"
+registration_info = "https://olvr.hawaii.gov/"
+absentee_info = "https://elections.hawaii.gov/voters/applications/"
+military_overseas_info = "https://elections.hawaii.gov/voters/i-am-a/military-and-overseas-voters/"

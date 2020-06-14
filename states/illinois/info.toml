@@ -1,3 +1,7 @@
 name = "Illinois"
 fips_code = 17
 postal_code = "IL"
+homepage = "http://www.elections.il.gov/"
+registration_info = "https://ova.elections.il.gov/"
+absentee_info = "https://www.elections.il.gov/ElectionOperations/VotingByMail.aspx"
+military_overseas_info = "https://www.elections.il.gov/VotingAndRegistrationSystems/Military.aspx"

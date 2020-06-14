@@ -1,3 +1,6 @@
 name = "Arizona"
 fips_code = 4
 postal_code = "AZ"
+homepage = "https://www.azsos.gov/elections"
+registration_info = "https://servicearizona.com/webapp/evoter/selectLanguage"
+absentee_info = "https://my.arizona.vote/Early/ApplicationLogin.aspx"

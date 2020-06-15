@@ -2,6 +2,7 @@ name = "Kentucky"
 fips_code = 21
 postal_code = "KY"
 homepage = "http://elect.ky.gov/"
+absentee_application_url = "https://vrsws.sos.ky.gov/abrweb/"
 
 [[link]]
 url = "https://elect.ky.gov/SiteAssets/Pages/default/Primary%20Timeline.pdf"

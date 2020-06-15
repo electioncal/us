@@ -1,5 +1,7 @@
+import copy
 import os
 import tomlkit
+import datetime
 
 # Below we convert to Python dicts to allow None. We won't write back to TOML
 federal_fn = os.path.join("federal-elections.toml")
@@ -14,6 +16,11 @@ for key in elections:
     election["county"] = None
     elections[key] = election
 
+dates = []
+
+methods = ["received_by", "in_person_by", "postmarked_by", "online_by"]
+deadlines = {"absentee": ["application"]}
+
 # Load per-state data.
 for state in os.listdir("states/"):
     state_fn = os.path.join("states", state, "elections.toml")
@@ -24,14 +31,38 @@ for state in os.listdir("states/"):
 
     for key in state_elections:
         state_election = dict(state_elections[key])
-        if key in elections: # Federal election
-            elections[key]["details"][state] = {}
-        else:
+        if key not in elections: # State election
             key = state + "/" + key
             state_election["state"] = state
             state_election["county"] = None
             state_election["key"] = key
             elections[key] = state_election
+        deadline = {}
+        deadline["state"] = state
+        deadline["county"] = None
+        deadline["name"] = ""
+        deadline["type"] = "deadline"
+        deadline["election_key"] = key
+        for deadline_category in deadlines:
+            if deadline_category in state_election:
+                for method in methods:
+                    if method in state_election[deadline_category]:
+                        deadline["subtype"] = f"{deadline_category}.{method}"
+                        deadline["date"] = state_election[deadline_category][method]
+                        if isinstance(deadline["date"], datetime.date):
+                            d = deadline["date"]
+                            deadline["date"] = datetime.datetime(d.year, d.month, d.day, 23, 59, 59)
+                        dates.append(copy.deepcopy(deadline))
+                for stage in deadlines[deadline_category]:
+                    if stage in state_election[deadline_category]:
+                        for method in methods:
+                            if method in state_election[deadline_category][stage]:
+                                deadline["subtype"] = f"{deadline_category}.{stage}.{method}"
+                                deadline["date"] = state_election[deadline_category][stage][method]
+                                if isinstance(deadline["date"], datetime.date):
+                                    d = deadline["date"]
+                                    deadline["date"] = datetime.datetime(d.year, d.month, d.day, 23, 59, 59)
+                                dates.append(copy.deepcopy(deadline))
 
     # Load per-county data.
     # counties = []
@@ -49,7 +80,6 @@ for state in os.listdir("states/"):
     #     county_index.stream(county_data).dump(f"site/en/{fn}/{county_fn}/index.html")
 
 # Listify
-dates = []
 for key in elections:
     election = elections[key]
     election["type"] = "election"

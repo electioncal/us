@@ -1,7 +1,7 @@
 import json
 import copy
 
-def generate(dates, output_filename, *, name=None, description=None, uid=None):
+def generate(dates, output_filename, *, name=None, description=None, uid=None, states=None, counties=None):
     dates = copy.deepcopy(dates)
     path_parts = output_filename.split("/")
     top_level = {
@@ -14,7 +14,8 @@ def generate(dates, output_filename, *, name=None, description=None, uid=None):
     }
     for date in dates:
         date["date"] = date["date"].strftime("%Y-%m-%d")
-        date["original_date"] = date["original_date"].strftime("%Y-%m-%d")
+        if "original_date" in date:
+            date["original_date"] = date["original_date"].strftime("%Y-%m-%d")
         if "details" in date:
             del date["details"]
 

@@ -1,7 +1,19 @@
+# Kentucky
+
 [20200623]
 date = 2020-06-23
 name = "Presidential Primary"
 original_date = 2020-06-23
+
+[20200623.absentee]
+postmarked_by = 2020-06-23
+received_by = 2020-06-27T18:00:00
+sources = ["https://elect.ky.gov/SiteAssets/Pages/default/Primary%20Timeline.pdf",
+           "https://elect.ky.gov/SiteAssets/Pages/default/SBE%20Covid19%20Emergency%20Regulation.pdf"]
+
+[20200623.absentee.application]
+online_by = 2020-06-15T23:59:59
+already_registered = true
 
 [20201103]
 date = 2020-11-03

@@ -41,17 +41,6 @@ for county in dbdir.glob("*/*/info.toml"):
     state = county.parent.parent.name
     states[state]["counties"][county.parent.name] = county_info
 
-
-def add_prefix(dates, *, states=None, counties=None):
-    result = copy.deepcopy(dates)
-    for date in result:
-        if date["state"] and states:
-            date["name"] = states[date["state"]]["name"] + " " + date["name"]
-        elif date["county"] and counties:
-            date["name"] = counties[date["county"]]["name"] + " " + date["name"]
-    return result
-
-
 for state_lower in states:
     state_info = states[state_lower]
 
@@ -89,7 +78,6 @@ for state_lower in states:
     county_list.sort(key=lambda x: x["lower_name"])
     os.makedirs(f"site/en/{state_lower}", exist_ok=True)
     state_dates = [d for d in all_state_dates if d["county"] is None]
-    state_dates = add_prefix(state_dates, counties=counties)
     state_data = {
         "alternatives": alternatives,
         "language": "en",
@@ -110,6 +98,7 @@ for state_lower in states:
             all_state_dates,
             f"site/en/{state_lower}/all-voter.{extension}",
             name=all_feed_name.format(state_info["name"]),
+            counties=counties
         )
     state_index.stream(state_data).dump(f"site/en/{state_lower}/index.html")
 
@@ -133,13 +122,13 @@ for alternative in alternatives:
         f"site/en/voter.{extension}",
         name=all_feed_name.format("United States"),
     )
-national_dates = add_prefix(election.dates, states=states)
 for alternative in alternatives:
     extension = alternative["extension"]
     alternative["generator"](
-        national_dates,
+        election.dates,
         f"site/en/all-voter.{extension}",
         name=all_feed_name.format("United States"),
+        states=states
     )
 top_level.stream(top).dump("site/index.html")
 top_level.stream(top).dump("site/en/index.html")

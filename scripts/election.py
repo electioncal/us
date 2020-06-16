@@ -37,32 +37,39 @@ for state in os.listdir("states/"):
             state_election["county"] = None
             state_election["key"] = key
             elections[key] = state_election
-        deadline = {}
-        deadline["state"] = state
-        deadline["county"] = None
-        deadline["name"] = ""
-        deadline["type"] = "deadline"
-        deadline["election_key"] = key
+        deadline_template = {}
+        deadline_template["state"] = state
+        deadline_template["county"] = None
+        deadline_template["name"] = ""
+        deadline_template["type"] = "deadline"
+        deadline_template["election_key"] = key
         for deadline_category in deadlines:
             if deadline_category in state_election:
                 for method in methods:
                     if method in state_election[deadline_category]:
+                        deadline = copy.deepcopy(deadline_template)
                         deadline["subtype"] = f"{deadline_category}.{method}"
                         deadline["date"] = state_election[deadline_category][method]
                         if isinstance(deadline["date"], datetime.date):
                             d = deadline["date"]
                             deadline["date"] = datetime.datetime(d.year, d.month, d.day, 23, 59, 59)
-                        dates.append(copy.deepcopy(deadline))
+                        if method == "postmarked_by":
+                            deadline["postmark_too_late"] = False
+                        dates.append(deadline)
                 for stage in deadlines[deadline_category]:
                     if stage in state_election[deadline_category]:
                         for method in methods:
                             if method in state_election[deadline_category][stage]:
+                                deadline = copy.deepcopy(deadline_template)
                                 deadline["subtype"] = f"{deadline_category}.{stage}.{method}"
                                 deadline["date"] = state_election[deadline_category][stage][method]
                                 if isinstance(deadline["date"], datetime.date):
                                     d = deadline["date"]
                                     deadline["date"] = datetime.datetime(d.year, d.month, d.day, 23, 59, 59)
-                                dates.append(copy.deepcopy(deadline))
+
+                                if method == "postmarked_by":
+                                    deadline["postmark_too_late"] = False
+                                dates.append(deadline)
 
     # Load per-county data.
     # counties = []
@@ -85,4 +92,33 @@ for key in elections:
     election["type"] = "election"
     dates.append(election)
 
-dates.sort(key=lambda x: x["date"])
+# Use state and county to ensure a stable sort of dates.
+def sort_key(x):
+    state = x["state"]
+    if not state:
+        state = ""
+
+    county = x["county"]
+    if not county:
+        county = ""
+    return (x["date"], state, county)
+
+dates.sort(key=sort_key)
+
+last_postmarked = {}
+
+# Add flag to postmarked by dates to indicate if they are within a week of the received by date.
+for date in dates:
+    if date["type"] != "deadline":
+        continue
+    postmark = date["subtype"].endswith(".postmarked_by")
+    receive = date["subtype"].endswith(".received_by")
+    action = ".".join(date["subtype"].split(".")[:-1])
+    key = (date["state"], date["county"], action)
+    if postmark:
+        last_postmarked[key] = date
+    if receive and key in last_postmarked:
+        postmark_date = last_postmarked[key]
+        delta = date["date"] - postmark_date["date"]
+        if delta.days < 7:
+            postmark_date["postmark_too_late"] = True

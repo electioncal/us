@@ -22,7 +22,7 @@ deadline_descriptions = {
 }
 
 def generate(dates, output_filename, *, name=None, description=None, uid=None, states=None, counties=None):
-    columns = ["date", "key", "type", "subtype", "name", "original_date", "state", "county"]
+    columns = ["date", "key", "type", "subtype", "name", "original_date", "state", "county", "postmark_too_late"]
     with open(output_filename, "w") as f:
         writer = csv.DictWriter(f, fieldnames=columns, extrasaction="ignore")
 

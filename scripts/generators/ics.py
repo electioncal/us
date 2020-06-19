@@ -1,26 +1,6 @@
 import copy
 import icalendar as ical
 
-all_deadline_descriptions = {
-    "absentee.postmarked_by": "Absentee ballots postmarked in {}",
-    "absentee.received_by": "Absentee ballots received in {}",
-    "absentee.in_person_by": "Hand deliver absentee ballots in {}",
-    "absentee.application.online_by": "Last day to apply online for an absentee ballot in {}",
-    "absentee.application.postmarked_by": "Absentee applications postmarked in {}",
-    "absentee.application.received_by": "Absentee applications received in {}",
-    "absentee.application.in_person_by": "Hand deliver absentee applications in {}"
-}
-
-deadline_descriptions = {
-    "absentee.postmarked_by": "Mail ballot at the post office!",
-    "absentee.received_by": "Last day for election officials to receive your absentee ballot. Mail early!",
-    "absentee.in_person_by": "Drop off ballot in person!",
-    "absentee.application.online_by": "Apply online for a mail-in ballot!",
-    "absentee.application.postmarked_by": "Mail absentee application at the post office!",
-    "absentee.application.received_by": "Last day for election officials to receive your absentee application. Mail early!",
-    "absentee.application.in_person_by": "Drop off absentee application in person!"
-}
-
 def generate(dates, output_filename, *, name=None, description=None, uid=None, states=None, counties=None):
     c = ical.Calendar()
     c.add("prodid", "-//electioncal.us generator//circuitpython.org//")
@@ -46,20 +26,7 @@ def generate(dates, output_filename, *, name=None, description=None, uid=None, s
             name = states[date["state"]]["name"]
         elif date["county"] and counties:
             name = counties[date["county"]]["name"]
-        if date["type"] == "deadline":
-            if name:
-                desc = all_deadline_descriptions.get(date["subtype"], None)
-                if not desc:
-                    print("missing description for", date["subtype"])
-                else:
-                    date["name"] = desc.format(name)
-            else:
-                desc = deadline_descriptions.get(date["subtype"], None)
-                if not desc:
-                    print("missing description for", date["subtype"])
-                else:
-                    date["name"] = desc
-        elif date["type"] == "election" and name:
+        if date["type"] == "election" and name:
             date["name"] = name + " " + date["name"]
         event = ical.Event()
         event.add("summary", date["name"])

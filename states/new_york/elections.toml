@@ -13,6 +13,15 @@ in_person_by = 2020-06-13
 postmarked_by = 2020-05-29
 received_by = 2020-06-03
 
+[20200623.poll]
+in_person_by = 2020-06-23
+
+
+[20200623.poll.early]
+in_person_starts = 2020-06-13
+in_person_by = 2020-06-21
+sources = ["https://www.elections.ny.gov/NYSBOE/news/2020VotingOptionsDeadlinesforJunePrimary.pdf"]
+
 [20200623.absentee]
 postmarked_by = 2020-06-22
 in_person_by = 2020-06-23

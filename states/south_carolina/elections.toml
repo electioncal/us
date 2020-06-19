@@ -12,10 +12,32 @@ results = "https://www.enr-scvotes.org/SC/103402/Web02-state.250556/#/"
 
 [20200623]
 date = 2020-06-23
-name = "Congressional Primary Run-Off (if needed)"
+name = "Congressional Primary Run-Off"
 original_date = 2020-06-23
+
+[20200623.poll]
+in_person_by = 2020-06-23
+
+[20200623.absentee]
+in_person_by = 2020-06-23T19:00:00
+received_by = 2020-06-23T19:00:00
 
 [20201103]
 date = 2020-11-03
 name = "General"
 original_date = 2020-11-03
+
+
+[20201103.registration]
+in_person_by = 2020-10-02T17:00:00
+online_by = 2020-10-04T11:59:00
+postmarked_by = 2020-10-05
+
+[20201103.absentee.application]
+online_by = 2020-10-30T17:00:00
+
+[20201103.poll.early]
+in_person_by = 2020-11-02T17:00:00
+
+[20201103.poll]
+in_person_by = 2020-11-03T19:00:00

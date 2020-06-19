@@ -15,6 +15,9 @@ sources = ["https://elect.ky.gov/SiteAssets/Pages/default/Primary%20Timeline.pdf
 online_by = 2020-06-15T23:59:59
 already_registered = true
 
+[20200623.poll]
+in_person_by = 2020-06-23
+
 [20201103]
 date = 2020-11-03
 name = "General"

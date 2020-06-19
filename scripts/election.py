@@ -19,7 +19,7 @@ for key in elections:
 dates = []
 
 methods = ["received_by", "in_person_by", "postmarked_by", "online_by"]
-deadlines = {"absentee": ["application"]}
+deadlines = {"absentee": ["application"], "poll": ["early"]}
 
 # Load per-state data.
 for state in os.listdir("states/"):
@@ -55,6 +55,8 @@ for state in os.listdir("states/"):
                             deadline["date"] = datetime.datetime(d.year, d.month, d.day, 23, 59, 59)
                         if method == "postmarked_by":
                             deadline["postmark_too_late"] = False
+                        if method == "received_by":
+                            deadline["postmark_too_late"] = True
                         dates.append(deadline)
                 for stage in deadlines[deadline_category]:
                     if stage in state_election[deadline_category]:
@@ -69,6 +71,8 @@ for state in os.listdir("states/"):
 
                                 if method == "postmarked_by":
                                     deadline["postmark_too_late"] = False
+                                if method == "received_by":
+                                    deadline["postmark_too_late"] = True
                                 dates.append(deadline)
 
     # Load per-county data.
@@ -105,6 +109,15 @@ def sort_key(x):
 
 dates.sort(key=sort_key)
 
+# convert dates to plain datetime objects
+for date in dates:
+    for k in date:
+        v = date[k]
+        if isinstance(v, tomlkit.items.Date):
+            date[k] = datetime.datetime(v.year, v.month, v.day, 0, 0, 0)
+        elif isinstance(v, tomlkit.items.DateTime):
+            date[k] = datetime.datetime(v.year, v.month, v.day, v.hour, v.minute, v.second)
+
 last_postmarked = {}
 
 # Add flag to postmarked by dates to indicate if they are within a week of the received by date.
@@ -122,3 +135,87 @@ for date in dates:
         delta = date["date"] - postmark_date["date"]
         if delta.days < 7:
             postmark_date["postmark_too_late"] = True
+            date["postmark_too_late"] = True
+        else:
+            postmark_date["postmark_too_late"] = False
+            date["postmark_too_late"] = False
+
+
+# Add deadline titles and reminders.
+deadline_descriptions = {
+    "absentee.postmarked_by": "Last day to postmark absentee ballots",
+    "absentee.received_by": "Last day for election officials to receive absentee ballots",
+    "absentee.in_person_by": "Last day to drop off an absentee ballot",
+    "absentee.application.online_by": "Last day to apply online for a mail-in ballot",
+    "absentee.application.postmarked_by": "Last day to postmark absentee applications",
+    "absentee.application.received_by": "Last day for election officials to receive absentee applications",
+    "absentee.application.in_person_by": "Last day to hand deliver an absentee applications",
+    "poll.in_person_by": "Last day to vote in person",
+    "poll.early.in_person_by": "Last day to vote early in person",
+}
+
+one_day = datetime.timedelta(days=1)
+one_week = datetime.timedelta(days=7)
+
+reminders = []
+for date in dates:
+    if date["type"] == "deadline":
+        desc = deadline_descriptions.get(date["subtype"], None)
+        if not desc:
+            print("missing description for", date["subtype"])
+        else:
+            date["name"] = desc
+        subtype = date["subtype"]
+        if subtype.endswith("postmarked_by") and not date["postmark_too_late"]:
+            reminder = copy.deepcopy(date)
+            reminder["type"] = "reminder"
+            reminder["deadline_date"] = reminder["date"]
+
+            mail = copy.deepcopy(reminder)
+            mail["date"] = reminder["date"] - one_day
+            mail["name"] = "Mail {}! It must be postmarked by"
+            reminders.append(mail)
+
+            post_office = copy.deepcopy(reminder)
+            post_office["name"] = "Mail {} at the post office! It must be postmarked by" # today
+            reminders.append(post_office)
+        if subtype.endswith("received_by") and date["postmark_too_late"]:
+            reminder = copy.deepcopy(date)
+            reminder["type"] = "reminder"
+            reminder["deadline_date"] = reminder["date"]
+
+            mail = copy.deepcopy(reminder)
+            mail["date"] = reminder["date"] - one_day - one_week
+            mail["name"] = "Mail {}! It must be received by"
+            reminders.append(mail)
+
+            post_office = copy.deepcopy(reminder)
+            post_office["name"] = "Mail {} at the post office! It must be received by"
+            post_office["date"] = reminder["date"] - one_week
+            reminders.append(post_office)
+        if subtype.endswith("in_person_by"):
+            reminder = copy.deepcopy(date)
+            reminder["type"] = "reminder"
+            reminder["deadline_date"] = reminder["date"]
+
+            vote = copy.deepcopy(reminder)
+            vote["date"] = reminder["date"]
+            if subtype.startswith("poll.early"):
+                vote["name"] = "Vote early in person"
+            elif subtype.startswith("poll"):
+                vote["name"] = "Vote in person"
+            elif subtype.startswith("absentee.application"):
+                vote["name"] = "Drop off absentee application"
+            elif subtype.startswith("absentee"):
+                vote["name"] = "Drop off ballot"
+            reminders.append(vote)
+
+
+dates.extend(reminders)
+dates.sort(key=sort_key)
+
+if __name__ == "__main__":
+    import sys
+    for date in dates:
+        if date["state"] == sys.argv[1] and date["type"] == "reminder":
+            print(date["date"], date["name"], date.get("subtype", ""), sep="\t")

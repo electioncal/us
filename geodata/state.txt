@@ -54,5 +54,4 @@ STATE|STUSAB|STATE_NAME|STATENS
 66|GU|Guam|01802705
 69|MP|Northern Mariana Islands|01779809
 72|PR|Puerto Rico|01779808
-74|UM|U.S. Minor Outlying Islands|01878752
 78|VI|U.S. Virgin Islands|01802710

@@ -1,21 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
     
     <title>Wyoming - electioncal.us</title>
     
+    <link href="/static/theme.css" rel="stylesheet" type="text/css">
     
+
     
 </head>
 <body>
     <div id="content">
-    <h1>Wyoming needs your voice.</h1>
-    <p>Select your county below for details.</p>
+    <h3>Wyoming</h3>
+    <h2> by</h2>
+    <h1>None</h1>
+    <h2>None</h2>
     <ul id="dates">
     
-      <li>2020-08-18 - Congressional Primary</li>
+      <li>2020-08-18 00:00:00 - Congressional Primary</li>
     
-      <li>2020-11-03 - General (Presidential) Election</li>
+      <li>2020-11-03 00:00:00 - General (Presidential) Election</li>
     
     </ul>
     <ul>
@@ -30,55 +36,57 @@
     
     
     </ul>
-    <ul id="counties">
+    <p>Select your county below for details.</p>
+    <select name="counties" id="counties">
+      <option value="default"> -- Select County </option>
     
-      <li><a href="albany/">Albany County</a></li>
+      <option value="albany">Albany County</option>
     
-      <li><a href="big_horn/">Big Horn County</a></li>
+      <option value="big_horn">Big Horn County</option>
     
-      <li><a href="campbell/">Campbell County</a></li>
+      <option value="campbell">Campbell County</option>
     
-      <li><a href="carbon/">Carbon County</a></li>
+      <option value="carbon">Carbon County</option>
     
-      <li><a href="converse/">Converse County</a></li>
+      <option value="converse">Converse County</option>
     
-      <li><a href="crook/">Crook County</a></li>
+      <option value="crook">Crook County</option>
     
-      <li><a href="fremont/">Fremont County</a></li>
+      <option value="fremont">Fremont County</option>
     
-      <li><a href="goshen/">Goshen County</a></li>
+      <option value="goshen">Goshen County</option>
     
-      <li><a href="hot_springs/">Hot Springs County</a></li>
+      <option value="hot_springs">Hot Springs County</option>
     
-      <li><a href="johnson/">Johnson County</a></li>
+      <option value="johnson">Johnson County</option>
     
-      <li><a href="laramie/">Laramie County</a></li>
+      <option value="laramie">Laramie County</option>
     
-      <li><a href="lincoln/">Lincoln County</a></li>
+      <option value="lincoln">Lincoln County</option>
     
-      <li><a href="natrona/">Natrona County</a></li>
+      <option value="natrona">Natrona County</option>
     
-      <li><a href="niobrara/">Niobrara County</a></li>
+      <option value="niobrara">Niobrara County</option>
     
-      <li><a href="park/">Park County</a></li>
+      <option value="park">Park County</option>
     
-      <li><a href="platte/">Platte County</a></li>
+      <option value="platte">Platte County</option>
     
-      <li><a href="sheridan/">Sheridan County</a></li>
+      <option value="sheridan">Sheridan County</option>
     
-      <li><a href="sublette/">Sublette County</a></li>
+      <option value="sublette">Sublette County</option>
     
-      <li><a href="sweetwater/">Sweetwater County</a></li>
+      <option value="sweetwater">Sweetwater County</option>
     
-      <li><a href="teton/">Teton County</a></li>
+      <option value="teton">Teton County</option>
     
-      <li><a href="uinta/">Uinta County</a></li>
+      <option value="uinta">Uinta County</option>
     
-      <li><a href="washakie/">Washakie County</a></li>
+      <option value="washakie">Washakie County</option>
     
-      <li><a href="weston/">Weston County</a></li>
+      <option value="weston">Weston County</option>
     
-    </ul>
+    </select>
 
     Add all of the dates to your calendar by clicking <a href="webcal://electioncal.us/en/wyoming/voter.ics">here</a> (
     <a href="https://electioncal.us/en/wyoming/voter.ics">https</a>, 
@@ -98,6 +106,15 @@
         <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
         
     </div>
-    <script type="text/javascript"></script>
+    <script type="text/javascript">
+    function selectCounty(event) {
+      if (event.target.value === "default") {
+        return;
+      }
+      window.location.assign(["/en/wyoming", event.target.value].join("/"))
+    }
+    window.document.getElementById('counties').addEventListener('change', selectCounty);
+
+</script>
 </body>
 </html>

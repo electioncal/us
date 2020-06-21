@@ -1,21 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
     
     <title>Alaska - electioncal.us</title>
     
+    <link href="/static/theme.css" rel="stylesheet" type="text/css">
     
+
     
 </head>
 <body>
     <div id="content">
-    <h1>Alaska needs your voice.</h1>
-    <p>Select your county below for details.</p>
+    <h3>Alaska</h3>
+    <h2> by</h2>
+    <h1>None</h1>
+    <h2>None</h2>
     <ul id="dates">
     
-      <li>2020-08-18 - Congressional Primary</li>
+      <li>2020-08-18 00:00:00 - Congressional Primary</li>
     
-      <li>2020-11-03 - General (Presidential) Election</li>
+      <li>2020-11-03 00:00:00 - General (Presidential) Election</li>
     
     </ul>
     <ul>
@@ -30,67 +36,69 @@
     
     
     </ul>
-    <ul id="counties">
+    <p>Select your county below for details.</p>
+    <select name="counties" id="counties">
+      <option value="default"> -- Select County </option>
     
-      <li><a href="aleutians_east/">Aleutians East Borough</a></li>
+      <option value="aleutians_east">Aleutians East Borough</option>
     
-      <li><a href="aleutians_west_census/">Aleutians West Census Area</a></li>
+      <option value="aleutians_west_census">Aleutians West Census Area</option>
     
-      <li><a href="anchorage/">Anchorage Municipality</a></li>
+      <option value="anchorage">Anchorage Municipality</option>
     
-      <li><a href="bethel_census/">Bethel Census Area</a></li>
+      <option value="bethel_census">Bethel Census Area</option>
     
-      <li><a href="bristol_bay/">Bristol Bay Borough</a></li>
+      <option value="bristol_bay">Bristol Bay Borough</option>
     
-      <li><a href="denali/">Denali Borough</a></li>
+      <option value="denali">Denali Borough</option>
     
-      <li><a href="dillingham_census/">Dillingham Census Area</a></li>
+      <option value="dillingham_census">Dillingham Census Area</option>
     
-      <li><a href="fairbanks_north_star/">Fairbanks North Star Borough</a></li>
+      <option value="fairbanks_north_star">Fairbanks North Star Borough</option>
     
-      <li><a href="haines/">Haines Borough</a></li>
+      <option value="haines">Haines Borough</option>
     
-      <li><a href="hoonah-angoon_census/">Hoonah-Angoon Census Area</a></li>
+      <option value="hoonah-angoon_census">Hoonah-Angoon Census Area</option>
     
-      <li><a href="juneau_city_and/">Juneau City and Borough</a></li>
+      <option value="juneau_city_and">Juneau City and Borough</option>
     
-      <li><a href="kenai_peninsula/">Kenai Peninsula Borough</a></li>
+      <option value="kenai_peninsula">Kenai Peninsula Borough</option>
     
-      <li><a href="ketchikan_gateway/">Ketchikan Gateway Borough</a></li>
+      <option value="ketchikan_gateway">Ketchikan Gateway Borough</option>
     
-      <li><a href="kodiak_island/">Kodiak Island Borough</a></li>
+      <option value="kodiak_island">Kodiak Island Borough</option>
     
-      <li><a href="kusilvak_census/">Kusilvak Census Area</a></li>
+      <option value="kusilvak_census">Kusilvak Census Area</option>
     
-      <li><a href="lake_and_peninsula/">Lake and Peninsula Borough</a></li>
+      <option value="lake_and_peninsula">Lake and Peninsula Borough</option>
     
-      <li><a href="matanuska-susitna/">Matanuska-Susitna Borough</a></li>
+      <option value="matanuska-susitna">Matanuska-Susitna Borough</option>
     
-      <li><a href="nome_census/">Nome Census Area</a></li>
+      <option value="nome_census">Nome Census Area</option>
     
-      <li><a href="north_slope/">North Slope Borough</a></li>
+      <option value="north_slope">North Slope Borough</option>
     
-      <li><a href="northwest_arctic/">Northwest Arctic Borough</a></li>
+      <option value="northwest_arctic">Northwest Arctic Borough</option>
     
-      <li><a href="petersburg/">Petersburg Borough</a></li>
+      <option value="petersburg">Petersburg Borough</option>
     
-      <li><a href="prince_of_wales-hyder_census/">Prince of Wales-Hyder Census Area</a></li>
+      <option value="prince_of_wales-hyder_census">Prince of Wales-Hyder Census Area</option>
     
-      <li><a href="sitka_city_and/">Sitka City and Borough</a></li>
+      <option value="sitka_city_and">Sitka City and Borough</option>
     
-      <li><a href="skagway/">Skagway Municipality</a></li>
+      <option value="skagway">Skagway Municipality</option>
     
-      <li><a href="southeast_fairbanks_census/">Southeast Fairbanks Census Area</a></li>
+      <option value="southeast_fairbanks_census">Southeast Fairbanks Census Area</option>
     
-      <li><a href="valdez-cordova_census/">Valdez-Cordova Census Area</a></li>
+      <option value="valdez-cordova_census">Valdez-Cordova Census Area</option>
     
-      <li><a href="wrangell_city_and/">Wrangell City and Borough</a></li>
+      <option value="wrangell_city_and">Wrangell City and Borough</option>
     
-      <li><a href="yakutat_city_and/">Yakutat City and Borough</a></li>
+      <option value="yakutat_city_and">Yakutat City and Borough</option>
     
-      <li><a href="yukon-koyukuk_census/">Yukon-Koyukuk Census Area</a></li>
+      <option value="yukon-koyukuk_census">Yukon-Koyukuk Census Area</option>
     
-    </ul>
+    </select>
 
     Add all of the dates to your calendar by clicking <a href="webcal://electioncal.us/en/alaska/voter.ics">here</a> (
     <a href="https://electioncal.us/en/alaska/voter.ics">https</a>, 
@@ -110,6 +118,15 @@
         <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
         
     </div>
-    <script type="text/javascript"></script>
+    <script type="text/javascript">
+    function selectCounty(event) {
+      if (event.target.value === "default") {
+        return;
+      }
+      window.location.assign(["/en/alaska", event.target.value].join("/"))
+    }
+    window.document.getElementById('counties').addEventListener('change', selectCounty);
+
+</script>
 </body>
 </html>

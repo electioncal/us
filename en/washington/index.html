@@ -1,23 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
     
     <title>Washington - electioncal.us</title>
     
+    <link href="/static/theme.css" rel="stylesheet" type="text/css">
     
+
     
 </head>
 <body>
     <div id="content">
-    <h1>Washington needs your voice.</h1>
-    <p>Select your county below for details.</p>
+    <h3>Washington</h3>
+    <h2> by</h2>
+    <h1>None</h1>
+    <h2>None</h2>
     <ul id="dates">
     
-      <li>2020-03-10 - Presidential Primary</li>
+      <li>2020-08-04 00:00:00 - Congressional Primary</li>
     
-      <li>2020-08-04 - Congressional Primary</li>
-    
-      <li>2020-11-03 - General (Presidential) Election</li>
+      <li>2020-11-03 00:00:00 - General (Presidential) Election</li>
     
     </ul>
     <ul>
@@ -32,87 +36,89 @@
     
     
     </ul>
-    <ul id="counties">
+    <p>Select your county below for details.</p>
+    <select name="counties" id="counties">
+      <option value="default"> -- Select County </option>
     
-      <li><a href="adams/">Adams County</a></li>
+      <option value="adams">Adams County</option>
     
-      <li><a href="asotin/">Asotin County</a></li>
+      <option value="asotin">Asotin County</option>
     
-      <li><a href="benton/">Benton County</a></li>
+      <option value="benton">Benton County</option>
     
-      <li><a href="chelan/">Chelan County</a></li>
+      <option value="chelan">Chelan County</option>
     
-      <li><a href="clallam/">Clallam County</a></li>
+      <option value="clallam">Clallam County</option>
     
-      <li><a href="clark/">Clark County</a></li>
+      <option value="clark">Clark County</option>
     
-      <li><a href="columbia/">Columbia County</a></li>
+      <option value="columbia">Columbia County</option>
     
-      <li><a href="cowlitz/">Cowlitz County</a></li>
+      <option value="cowlitz">Cowlitz County</option>
     
-      <li><a href="douglas/">Douglas County</a></li>
+      <option value="douglas">Douglas County</option>
     
-      <li><a href="ferry/">Ferry County</a></li>
+      <option value="ferry">Ferry County</option>
     
-      <li><a href="franklin/">Franklin County</a></li>
+      <option value="franklin">Franklin County</option>
     
-      <li><a href="garfield/">Garfield County</a></li>
+      <option value="garfield">Garfield County</option>
     
-      <li><a href="grant/">Grant County</a></li>
+      <option value="grant">Grant County</option>
     
-      <li><a href="grays_harbor/">Grays Harbor County</a></li>
+      <option value="grays_harbor">Grays Harbor County</option>
     
-      <li><a href="island/">Island County</a></li>
+      <option value="island">Island County</option>
     
-      <li><a href="jefferson/">Jefferson County</a></li>
+      <option value="jefferson">Jefferson County</option>
     
-      <li><a href="king/">King County</a></li>
+      <option value="king">King County</option>
     
-      <li><a href="kitsap/">Kitsap County</a></li>
+      <option value="kitsap">Kitsap County</option>
     
-      <li><a href="kittitas/">Kittitas County</a></li>
+      <option value="kittitas">Kittitas County</option>
     
-      <li><a href="klickitat/">Klickitat County</a></li>
+      <option value="klickitat">Klickitat County</option>
     
-      <li><a href="lewis/">Lewis County</a></li>
+      <option value="lewis">Lewis County</option>
     
-      <li><a href="lincoln/">Lincoln County</a></li>
+      <option value="lincoln">Lincoln County</option>
     
-      <li><a href="mason/">Mason County</a></li>
+      <option value="mason">Mason County</option>
     
-      <li><a href="okanogan/">Okanogan County</a></li>
+      <option value="okanogan">Okanogan County</option>
     
-      <li><a href="pacific/">Pacific County</a></li>
+      <option value="pacific">Pacific County</option>
     
-      <li><a href="pend_oreille/">Pend Oreille County</a></li>
+      <option value="pend_oreille">Pend Oreille County</option>
     
-      <li><a href="pierce/">Pierce County</a></li>
+      <option value="pierce">Pierce County</option>
     
-      <li><a href="san_juan/">San Juan County</a></li>
+      <option value="san_juan">San Juan County</option>
     
-      <li><a href="skagit/">Skagit County</a></li>
+      <option value="skagit">Skagit County</option>
     
-      <li><a href="skamania/">Skamania County</a></li>
+      <option value="skamania">Skamania County</option>
     
-      <li><a href="snohomish/">Snohomish County</a></li>
+      <option value="snohomish">Snohomish County</option>
     
-      <li><a href="spokane/">Spokane County</a></li>
+      <option value="spokane">Spokane County</option>
     
-      <li><a href="stevens/">Stevens County</a></li>
+      <option value="stevens">Stevens County</option>
     
-      <li><a href="thurston/">Thurston County</a></li>
+      <option value="thurston">Thurston County</option>
     
-      <li><a href="wahkiakum/">Wahkiakum County</a></li>
+      <option value="wahkiakum">Wahkiakum County</option>
     
-      <li><a href="walla_walla/">Walla Walla County</a></li>
+      <option value="walla_walla">Walla Walla County</option>
     
-      <li><a href="whatcom/">Whatcom County</a></li>
+      <option value="whatcom">Whatcom County</option>
     
-      <li><a href="whitman/">Whitman County</a></li>
+      <option value="whitman">Whitman County</option>
     
-      <li><a href="yakima/">Yakima County</a></li>
+      <option value="yakima">Yakima County</option>
     
-    </ul>
+    </select>
 
     Add all of the dates to your calendar by clicking <a href="webcal://electioncal.us/en/washington/voter.ics">here</a> (
     <a href="https://electioncal.us/en/washington/voter.ics">https</a>, 
@@ -132,6 +138,15 @@
         <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
         
     </div>
-    <script type="text/javascript"></script>
+    <script type="text/javascript">
+    function selectCounty(event) {
+      if (event.target.value === "default") {
+        return;
+      }
+      window.location.assign(["/en/washington", event.target.value].join("/"))
+    }
+    window.document.getElementById('counties').addEventListener('change', selectCounty);
+
+</script>
 </body>
 </html>

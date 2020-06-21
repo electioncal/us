@@ -1,23 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
     
     <title>Delaware - electioncal.us</title>
     
+    <link href="/static/theme.css" rel="stylesheet" type="text/css">
     
+
     
 </head>
 <body>
     <div id="content">
-    <h1>Delaware needs your voice.</h1>
-    <p>Select your county below for details.</p>
+    <h3>Delaware</h3>
+    <h2> by</h2>
+    <h1>None</h1>
+    <h2>None</h2>
     <ul id="dates">
     
-      <li>2020-07-07 - Presidential Primary</li>
+      <li>2020-07-07 00:00:00 - Presidential Primary</li>
     
-      <li>2020-09-15 - Congressional Primary</li>
-    
-      <li>2020-11-03 - General (Presidential) Election</li>
+      <li>2020-09-15 00:00:00 - Congressional Primary</li>
     
     </ul>
     <ul>
@@ -32,15 +36,17 @@
     
     
     </ul>
-    <ul id="counties">
+    <p>Select your county below for details.</p>
+    <select name="counties" id="counties">
+      <option value="default"> -- Select County </option>
     
-      <li><a href="kent/">Kent County</a></li>
+      <option value="kent">Kent County</option>
     
-      <li><a href="new_castle/">New Castle County</a></li>
+      <option value="new_castle">New Castle County</option>
     
-      <li><a href="sussex/">Sussex County</a></li>
+      <option value="sussex">Sussex County</option>
     
-    </ul>
+    </select>
 
     Add all of the dates to your calendar by clicking <a href="webcal://electioncal.us/en/delaware/voter.ics">here</a> (
     <a href="https://electioncal.us/en/delaware/voter.ics">https</a>, 
@@ -60,6 +66,15 @@
         <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
         
     </div>
-    <script type="text/javascript"></script>
+    <script type="text/javascript">
+    function selectCounty(event) {
+      if (event.target.value === "default") {
+        return;
+      }
+      window.location.assign(["/en/delaware", event.target.value].join("/"))
+    }
+    window.document.getElementById('counties').addEventListener('change', selectCounty);
+
+</script>
 </body>
 </html>

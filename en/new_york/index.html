@@ -1,23 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
     
     <title>New York - electioncal.us</title>
     
+    <link href="/static/theme.css" rel="stylesheet" type="text/css">
     
+
     
 </head>
 <body>
     <div id="content">
-    <h1>New York needs your voice.</h1>
-    <p>Select your county below for details.</p>
+    <h3>New York</h3>
+    <h2> by</h2>
+    <h1>June 21st</h1>
+    <h2>(Sunday)</h2>
     <ul id="dates">
     
-      <li>2020-04-28 - Presidential Primary</li>
+      <li>2020-06-21 23:59:59 - Last day to vote early in person</li>
     
-      <li>2020-06-23 - Congressional Primary</li>
+      <li>2020-06-22 23:59:59 - Last day to postmark absentee ballots</li>
     
-      <li>2020-11-03 - General (Presidential) Election</li>
+      <li>2020-06-22 23:59:59 - Last day to hand deliver an absentee applications</li>
+    
+      <li>2020-06-23 00:00:00 - Congressional Primary</li>
+    
+      <li>2020-11-03 00:00:00 - General (Presidential) Election</li>
     
     </ul>
     <ul>
@@ -32,133 +42,135 @@
     
     
     </ul>
-    <ul id="counties">
+    <p>Select your county below for details.</p>
+    <select name="counties" id="counties">
+      <option value="default"> -- Select County </option>
     
-      <li><a href="albany/">Albany County</a></li>
+      <option value="albany">Albany County</option>
     
-      <li><a href="allegany/">Allegany County</a></li>
+      <option value="allegany">Allegany County</option>
     
-      <li><a href="bronx/">Bronx County</a></li>
+      <option value="bronx">Bronx County</option>
     
-      <li><a href="broome/">Broome County</a></li>
+      <option value="broome">Broome County</option>
     
-      <li><a href="cattaraugus/">Cattaraugus County</a></li>
+      <option value="cattaraugus">Cattaraugus County</option>
     
-      <li><a href="cayuga/">Cayuga County</a></li>
+      <option value="cayuga">Cayuga County</option>
     
-      <li><a href="chautauqua/">Chautauqua County</a></li>
+      <option value="chautauqua">Chautauqua County</option>
     
-      <li><a href="chemung/">Chemung County</a></li>
+      <option value="chemung">Chemung County</option>
     
-      <li><a href="chenango/">Chenango County</a></li>
+      <option value="chenango">Chenango County</option>
     
-      <li><a href="clinton/">Clinton County</a></li>
+      <option value="clinton">Clinton County</option>
     
-      <li><a href="columbia/">Columbia County</a></li>
+      <option value="columbia">Columbia County</option>
     
-      <li><a href="cortland/">Cortland County</a></li>
+      <option value="cortland">Cortland County</option>
     
-      <li><a href="delaware/">Delaware County</a></li>
+      <option value="delaware">Delaware County</option>
     
-      <li><a href="dutchess/">Dutchess County</a></li>
+      <option value="dutchess">Dutchess County</option>
     
-      <li><a href="erie/">Erie County</a></li>
+      <option value="erie">Erie County</option>
     
-      <li><a href="essex/">Essex County</a></li>
+      <option value="essex">Essex County</option>
     
-      <li><a href="franklin/">Franklin County</a></li>
+      <option value="franklin">Franklin County</option>
     
-      <li><a href="fulton/">Fulton County</a></li>
+      <option value="fulton">Fulton County</option>
     
-      <li><a href="genesee/">Genesee County</a></li>
+      <option value="genesee">Genesee County</option>
     
-      <li><a href="greene/">Greene County</a></li>
+      <option value="greene">Greene County</option>
     
-      <li><a href="hamilton/">Hamilton County</a></li>
+      <option value="hamilton">Hamilton County</option>
     
-      <li><a href="herkimer/">Herkimer County</a></li>
+      <option value="herkimer">Herkimer County</option>
     
-      <li><a href="jefferson/">Jefferson County</a></li>
+      <option value="jefferson">Jefferson County</option>
     
-      <li><a href="kings/">Kings County</a></li>
+      <option value="kings">Kings County</option>
     
-      <li><a href="lewis/">Lewis County</a></li>
+      <option value="lewis">Lewis County</option>
     
-      <li><a href="livingston/">Livingston County</a></li>
+      <option value="livingston">Livingston County</option>
     
-      <li><a href="madison/">Madison County</a></li>
+      <option value="madison">Madison County</option>
     
-      <li><a href="monroe/">Monroe County</a></li>
+      <option value="monroe">Monroe County</option>
     
-      <li><a href="montgomery/">Montgomery County</a></li>
+      <option value="montgomery">Montgomery County</option>
     
-      <li><a href="nassau/">Nassau County</a></li>
+      <option value="nassau">Nassau County</option>
     
-      <li><a href="new_york/">New York County</a></li>
+      <option value="new_york">New York County</option>
     
-      <li><a href="niagara/">Niagara County</a></li>
+      <option value="niagara">Niagara County</option>
     
-      <li><a href="oneida/">Oneida County</a></li>
+      <option value="oneida">Oneida County</option>
     
-      <li><a href="onondaga/">Onondaga County</a></li>
+      <option value="onondaga">Onondaga County</option>
     
-      <li><a href="ontario/">Ontario County</a></li>
+      <option value="ontario">Ontario County</option>
     
-      <li><a href="orange/">Orange County</a></li>
+      <option value="orange">Orange County</option>
     
-      <li><a href="orleans/">Orleans County</a></li>
+      <option value="orleans">Orleans County</option>
     
-      <li><a href="oswego/">Oswego County</a></li>
+      <option value="oswego">Oswego County</option>
     
-      <li><a href="otsego/">Otsego County</a></li>
+      <option value="otsego">Otsego County</option>
     
-      <li><a href="putnam/">Putnam County</a></li>
+      <option value="putnam">Putnam County</option>
     
-      <li><a href="queens/">Queens County</a></li>
+      <option value="queens">Queens County</option>
     
-      <li><a href="rensselaer/">Rensselaer County</a></li>
+      <option value="rensselaer">Rensselaer County</option>
     
-      <li><a href="richmond/">Richmond County</a></li>
+      <option value="richmond">Richmond County</option>
     
-      <li><a href="rockland/">Rockland County</a></li>
+      <option value="rockland">Rockland County</option>
     
-      <li><a href="saratoga/">Saratoga County</a></li>
+      <option value="saratoga">Saratoga County</option>
     
-      <li><a href="schenectady/">Schenectady County</a></li>
+      <option value="schenectady">Schenectady County</option>
     
-      <li><a href="schoharie/">Schoharie County</a></li>
+      <option value="schoharie">Schoharie County</option>
     
-      <li><a href="schuyler/">Schuyler County</a></li>
+      <option value="schuyler">Schuyler County</option>
     
-      <li><a href="seneca/">Seneca County</a></li>
+      <option value="seneca">Seneca County</option>
     
-      <li><a href="st._lawrence/">St. Lawrence County</a></li>
+      <option value="st._lawrence">St. Lawrence County</option>
     
-      <li><a href="steuben/">Steuben County</a></li>
+      <option value="steuben">Steuben County</option>
     
-      <li><a href="suffolk/">Suffolk County</a></li>
+      <option value="suffolk">Suffolk County</option>
     
-      <li><a href="sullivan/">Sullivan County</a></li>
+      <option value="sullivan">Sullivan County</option>
     
-      <li><a href="tioga/">Tioga County</a></li>
+      <option value="tioga">Tioga County</option>
     
-      <li><a href="tompkins/">Tompkins County</a></li>
+      <option value="tompkins">Tompkins County</option>
     
-      <li><a href="ulster/">Ulster County</a></li>
+      <option value="ulster">Ulster County</option>
     
-      <li><a href="warren/">Warren County</a></li>
+      <option value="warren">Warren County</option>
     
-      <li><a href="washington/">Washington County</a></li>
+      <option value="washington">Washington County</option>
     
-      <li><a href="wayne/">Wayne County</a></li>
+      <option value="wayne">Wayne County</option>
     
-      <li><a href="westchester/">Westchester County</a></li>
+      <option value="westchester">Westchester County</option>
     
-      <li><a href="wyoming/">Wyoming County</a></li>
+      <option value="wyoming">Wyoming County</option>
     
-      <li><a href="yates/">Yates County</a></li>
+      <option value="yates">Yates County</option>
     
-    </ul>
+    </select>
 
     Add all of the dates to your calendar by clicking <a href="webcal://electioncal.us/en/new_york/voter.ics">here</a> (
     <a href="https://electioncal.us/en/new_york/voter.ics">https</a>, 
@@ -178,6 +190,15 @@
         <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
         
     </div>
-    <script type="text/javascript"></script>
+    <script type="text/javascript">
+    function selectCounty(event) {
+      if (event.target.value === "default") {
+        return;
+      }
+      window.location.assign(["/en/new_york", event.target.value].join("/"))
+    }
+    window.document.getElementById('counties').addEventListener('change', selectCounty);
+
+</script>
 </body>
 </html>

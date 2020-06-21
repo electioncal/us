@@ -1,5 +1,5 @@
-date,key,type,name,original_date,state,county
-2020-06-09,georgia/20200609,election,Presidential Primary,2020-06-09,georgia,
-2020-08-11,georgia/20200811,election,Congressional Primary Run-off (if needed),2020-08-11,georgia,
-2020-11-03,20201103,election,General (Presidential) Election,2020-11-03,,
-2021-01-05,georgia/20210105,election,General Run-Off (if needed),2021-01-05,georgia,
+date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
+2020-06-09 00:00:00,georgia/20200609,,election,,Presidential Primary,2020-06-09 00:00:00,georgia,,
+2020-08-11 00:00:00,georgia/20200811,,election,,Congressional Primary Run-off (if needed),2020-08-11 00:00:00,georgia,,
+2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,,,
+2021-01-05 00:00:00,georgia/20210105,,election,,General Run-Off (if needed),2021-01-05 00:00:00,georgia,,

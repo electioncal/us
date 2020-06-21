@@ -1,21 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
     
     <title>New Hampshire - electioncal.us</title>
     
+    <link href="/static/theme.css" rel="stylesheet" type="text/css">
     
+
     
 </head>
 <body>
     <div id="content">
-    <h1>New Hampshire needs your voice.</h1>
-    <p>Select your county below for details.</p>
+    <h3>New Hampshire</h3>
+    <h2> by</h2>
+    <h1>None</h1>
+    <h2>None</h2>
     <ul id="dates">
     
-      <li>2020-09-08 - Congressional Primary</li>
+      <li>2020-09-08 00:00:00 - Congressional Primary</li>
     
-      <li>2020-11-03 - General (Presidential) Election</li>
+      <li>2020-11-03 00:00:00 - General (Presidential) Election</li>
     
     </ul>
     <ul>
@@ -30,29 +36,31 @@
     
     
     </ul>
-    <ul id="counties">
+    <p>Select your county below for details.</p>
+    <select name="counties" id="counties">
+      <option value="default"> -- Select County </option>
     
-      <li><a href="belknap/">Belknap County</a></li>
+      <option value="belknap">Belknap County</option>
     
-      <li><a href="carroll/">Carroll County</a></li>
+      <option value="carroll">Carroll County</option>
     
-      <li><a href="cheshire/">Cheshire County</a></li>
+      <option value="cheshire">Cheshire County</option>
     
-      <li><a href="coos/">Coos County</a></li>
+      <option value="coos">Coos County</option>
     
-      <li><a href="grafton/">Grafton County</a></li>
+      <option value="grafton">Grafton County</option>
     
-      <li><a href="hillsborough/">Hillsborough County</a></li>
+      <option value="hillsborough">Hillsborough County</option>
     
-      <li><a href="merrimack/">Merrimack County</a></li>
+      <option value="merrimack">Merrimack County</option>
     
-      <li><a href="rockingham/">Rockingham County</a></li>
+      <option value="rockingham">Rockingham County</option>
     
-      <li><a href="strafford/">Strafford County</a></li>
+      <option value="strafford">Strafford County</option>
     
-      <li><a href="sullivan/">Sullivan County</a></li>
+      <option value="sullivan">Sullivan County</option>
     
-    </ul>
+    </select>
 
     Add all of the dates to your calendar by clicking <a href="webcal://electioncal.us/en/new_hampshire/voter.ics">here</a> (
     <a href="https://electioncal.us/en/new_hampshire/voter.ics">https</a>, 
@@ -72,6 +80,15 @@
         <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
         
     </div>
-    <script type="text/javascript"></script>
+    <script type="text/javascript">
+    function selectCounty(event) {
+      if (event.target.value === "default") {
+        return;
+      }
+      window.location.assign(["/en/new_hampshire", event.target.value].join("/"))
+    }
+    window.document.getElementById('counties').addEventListener('change', selectCounty);
+
+</script>
 </body>
 </html>

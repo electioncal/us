@@ -1,21 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
     
     <title>Oregon - electioncal.us</title>
     
+    <link href="/static/theme.css" rel="stylesheet" type="text/css">
     
+
     
 </head>
 <body>
     <div id="content">
-    <h1>Oregon needs your voice.</h1>
-    <p>Select your county below for details.</p>
+    <h3>Oregon</h3>
+    <h2> by</h2>
+    <h1>None</h1>
+    <h2>None</h2>
     <ul id="dates">
     
-      <li>2020-05-19 - Congressional & Presidential Primary</li>
-    
-      <li>2020-11-03 - General (Presidential) Election</li>
+      <li>2020-11-03 00:00:00 - General (Presidential) Election</li>
     
     </ul>
     <ul>
@@ -30,81 +34,83 @@
     
     
     </ul>
-    <ul id="counties">
+    <p>Select your county below for details.</p>
+    <select name="counties" id="counties">
+      <option value="default"> -- Select County </option>
     
-      <li><a href="baker/">Baker County</a></li>
+      <option value="baker">Baker County</option>
     
-      <li><a href="benton/">Benton County</a></li>
+      <option value="benton">Benton County</option>
     
-      <li><a href="clackamas/">Clackamas County</a></li>
+      <option value="clackamas">Clackamas County</option>
     
-      <li><a href="clatsop/">Clatsop County</a></li>
+      <option value="clatsop">Clatsop County</option>
     
-      <li><a href="columbia/">Columbia County</a></li>
+      <option value="columbia">Columbia County</option>
     
-      <li><a href="coos/">Coos County</a></li>
+      <option value="coos">Coos County</option>
     
-      <li><a href="crook/">Crook County</a></li>
+      <option value="crook">Crook County</option>
     
-      <li><a href="curry/">Curry County</a></li>
+      <option value="curry">Curry County</option>
     
-      <li><a href="deschutes/">Deschutes County</a></li>
+      <option value="deschutes">Deschutes County</option>
     
-      <li><a href="douglas/">Douglas County</a></li>
+      <option value="douglas">Douglas County</option>
     
-      <li><a href="gilliam/">Gilliam County</a></li>
+      <option value="gilliam">Gilliam County</option>
     
-      <li><a href="grant/">Grant County</a></li>
+      <option value="grant">Grant County</option>
     
-      <li><a href="harney/">Harney County</a></li>
+      <option value="harney">Harney County</option>
     
-      <li><a href="hood_river/">Hood River County</a></li>
+      <option value="hood_river">Hood River County</option>
     
-      <li><a href="jackson/">Jackson County</a></li>
+      <option value="jackson">Jackson County</option>
     
-      <li><a href="jefferson/">Jefferson County</a></li>
+      <option value="jefferson">Jefferson County</option>
     
-      <li><a href="josephine/">Josephine County</a></li>
+      <option value="josephine">Josephine County</option>
     
-      <li><a href="klamath/">Klamath County</a></li>
+      <option value="klamath">Klamath County</option>
     
-      <li><a href="lake/">Lake County</a></li>
+      <option value="lake">Lake County</option>
     
-      <li><a href="lane/">Lane County</a></li>
+      <option value="lane">Lane County</option>
     
-      <li><a href="lincoln/">Lincoln County</a></li>
+      <option value="lincoln">Lincoln County</option>
     
-      <li><a href="linn/">Linn County</a></li>
+      <option value="linn">Linn County</option>
     
-      <li><a href="malheur/">Malheur County</a></li>
+      <option value="malheur">Malheur County</option>
     
-      <li><a href="marion/">Marion County</a></li>
+      <option value="marion">Marion County</option>
     
-      <li><a href="morrow/">Morrow County</a></li>
+      <option value="morrow">Morrow County</option>
     
-      <li><a href="multnomah/">Multnomah County</a></li>
+      <option value="multnomah">Multnomah County</option>
     
-      <li><a href="polk/">Polk County</a></li>
+      <option value="polk">Polk County</option>
     
-      <li><a href="sherman/">Sherman County</a></li>
+      <option value="sherman">Sherman County</option>
     
-      <li><a href="tillamook/">Tillamook County</a></li>
+      <option value="tillamook">Tillamook County</option>
     
-      <li><a href="umatilla/">Umatilla County</a></li>
+      <option value="umatilla">Umatilla County</option>
     
-      <li><a href="union/">Union County</a></li>
+      <option value="union">Union County</option>
     
-      <li><a href="wallowa/">Wallowa County</a></li>
+      <option value="wallowa">Wallowa County</option>
     
-      <li><a href="wasco/">Wasco County</a></li>
+      <option value="wasco">Wasco County</option>
     
-      <li><a href="washington/">Washington County</a></li>
+      <option value="washington">Washington County</option>
     
-      <li><a href="wheeler/">Wheeler County</a></li>
+      <option value="wheeler">Wheeler County</option>
     
-      <li><a href="yamhill/">Yamhill County</a></li>
+      <option value="yamhill">Yamhill County</option>
     
-    </ul>
+    </select>
 
     Add all of the dates to your calendar by clicking <a href="webcal://electioncal.us/en/oregon/voter.ics">here</a> (
     <a href="https://electioncal.us/en/oregon/voter.ics">https</a>, 
@@ -124,6 +130,15 @@
         <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
         
     </div>
-    <script type="text/javascript"></script>
+    <script type="text/javascript">
+    function selectCounty(event) {
+      if (event.target.value === "default") {
+        return;
+      }
+      window.location.assign(["/en/oregon", event.target.value].join("/"))
+    }
+    window.document.getElementById('counties').addEventListener('change', selectCounty);
+
+</script>
 </body>
 </html>

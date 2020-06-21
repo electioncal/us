@@ -1,26 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
     
     <title>US - electioncal.us</title>
     
+    <link href="/static/theme.css" rel="stylesheet" type="text/css">
     
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.7.0/d3.min.js"></script>
   <script type="text/javascript" src="https://d3js.org/topojson.v3.min.js"></script>
-  <script type="text/javascript" src="static/state-county-map.js"></script>
+  <script type="text/javascript" src="/static/state-county-map.js"></script>
+
 
     
-  <link href="static/state-county-map.css" rel="stylesheet" type="text/css">
+  <link href="/static/state-county-map.css" rel="stylesheet" type="text/css">
 
 </head>
 <body>
     <div id="content">
-    <h1>You're smart and thoughtful. Please Vote. Here's when.</h1>
-    <ul id="dates">
-    
-      <li>2020-11-03 - General (Presidential) Election</li>
-    
-    </ul>
+    <h1>Voting reminders for folks who put things off.</h1>
     <p>Select your state and county from the map for details.</p>
     <div id="map"></div>
     <p>Or state from the dropdown</p>
@@ -139,16 +138,28 @@
     
       <option value="wyoming">Wyoming</option>
     
-    </ul>
+    </select>
+    <details open="">
+    <summary>Subscribe</summary>
+    <p>
     Add all of the dates to your calendar by clicking <a href="webcal://electioncal.us/en/voter.ics">here</a> (
     <a href="https://electioncal.us/en/voter.ics">https</a>, 
     <a href="https://electioncal.us/en/voter.csv">csv</a>, 
     <a href="https://electioncal.us/en/voter.json">json</a>
-    ). Get all nation-wide dates <a href="webcal://electioncal.us/en/all-voter.ics">here</a> (
+    ).
+    </p>
+    </details>
+
+    <details>
+    <summary>Subscribe to all dates nation-wide</summary>
+    <p>
+    <a href="webcal://electioncal.us/en/all-voter.ics">Calendar</a> (
     <a href="https://electioncal.us/en/all-voter.ics">https</a>, 
     <a href="https://electioncal.us/en/all-voter.csv">csv</a>, 
     <a href="https://electioncal.us/en/all-voter.json">json</a>
-    ).
+    )
+  </p>
+</details>
 </div>
     <hr/>
     <div id="footer">
@@ -164,7 +175,7 @@
       if (event.target.value === "default") {
         return;
       }
-      window.location.assign(["en", event.target.value].join("/"))
+      window.location.assign(["/en", event.target.value].join("/"))
     }
     window.document.getElementById('states').addEventListener('change', selectState);
 

@@ -1,4 +1,30 @@
-date,key,type,name,original_date,state,county
-2020-04-28,new_york/20200428,election,Presidential Primary,2020-04-28,new_york,
-2020-06-23,new_york/20200623,election,Congressional Primary,2020-06-23,new_york,
-2020-11-03,20201103,election,General (Presidential) Election,2020-11-03,,
+date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
+2020-04-28 00:00:00,new_york/20200428,,election,,Presidential Primary,2020-04-28 00:00:00,new_york,,
+2020-06-15 23:59:59,,new_york/20200623,reminder,absentee.application.postmarked_by,Mail absentee application! It must be postmarked,,new_york,,False
+2020-06-16 23:59:59,,new_york/20200623,deadline,absentee.application.postmarked_by,Last day to postmark absentee applications,,new_york,,False
+2020-06-16 23:59:59,,new_york/20200623,reminder,absentee.application.postmarked_by,Mail absentee application at the post office! It must be postmarked,,new_york,,False
+2020-06-21 23:59:59,,new_york/20200623,deadline,poll.early.in_person_by,Last day to vote early in person,,new_york,,
+2020-06-21 23:59:59,,new_york/20200623,reminder,poll.early.in_person_by,Vote early in person,,new_york,,
+2020-06-21 23:59:59,,new_york/20200623,reminder,absentee.postmarked_by,Mail ballot! It must be postmarked,,new_york,,False
+2020-06-22 23:59:59,,new_york/20200623,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,new_york,,False
+2020-06-22 23:59:59,,new_york/20200623,deadline,absentee.application.in_person_by,Last day to hand deliver an absentee applications,,new_york,,
+2020-06-22 23:59:59,,new_york/20200623,reminder,absentee.postmarked_by,Mail ballot at the post office! It must be postmarked,,new_york,,False
+2020-06-22 23:59:59,,new_york/20200623,reminder,absentee.application.in_person_by,Drop off absentee application,,new_york,,
+2020-06-23 00:00:00,new_york/20200623,,election,,Congressional Primary,2020-06-23 00:00:00,new_york,,
+2020-06-23 23:59:59,,new_york/20200623,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,new_york,,
+2020-06-23 23:59:59,,new_york/20200623,deadline,poll.in_person_by,Last day to vote in person,,new_york,,
+2020-06-23 23:59:59,,new_york/20200623,reminder,absentee.in_person_by,Drop off ballot,,new_york,,
+2020-06-23 23:59:59,,new_york/20200623,reminder,poll.in_person_by,Vote in person,,new_york,,
+2020-06-30 23:59:59,,new_york/20200623,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,new_york,,False
+2020-10-26 23:59:59,,20201103,reminder,absentee.application.postmarked_by,Mail absentee application! It must be postmarked,,new_york,,False
+2020-10-27 23:59:59,,20201103,deadline,absentee.application.postmarked_by,Last day to postmark absentee applications,,new_york,,False
+2020-10-27 23:59:59,,20201103,reminder,absentee.application.postmarked_by,Mail absentee application at the post office! It must be postmarked,,new_york,,False
+2020-11-01 23:59:59,,20201103,reminder,absentee.postmarked_by,Mail ballot! It must be postmarked,,new_york,,False
+2020-11-02 23:59:59,,20201103,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,new_york,,False
+2020-11-02 23:59:59,,20201103,deadline,absentee.application.in_person_by,Last day to hand deliver an absentee applications,,new_york,,
+2020-11-02 23:59:59,,20201103,reminder,absentee.postmarked_by,Mail ballot at the post office! It must be postmarked,,new_york,,False
+2020-11-02 23:59:59,,20201103,reminder,absentee.application.in_person_by,Drop off absentee application,,new_york,,
+2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,,,
+2020-11-03 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,new_york,,
+2020-11-03 23:59:59,,20201103,reminder,absentee.in_person_by,Drop off ballot,,new_york,,
+2020-11-10 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,new_york,,False

@@ -1,23 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
     
     <title>Arizona - electioncal.us</title>
     
+    <link href="/static/theme.css" rel="stylesheet" type="text/css">
     
+
     
 </head>
 <body>
     <div id="content">
-    <h1>Arizona needs your voice.</h1>
-    <p>Select your county below for details.</p>
+    <h3>Arizona</h3>
+    <h2> by</h2>
+    <h1>None</h1>
+    <h2>None</h2>
     <ul id="dates">
     
-      <li>2020-03-17 - Presidential Preference (Democrats)</li>
+      <li>2020-08-04 00:00:00 - Congressional Primary</li>
     
-      <li>2020-08-04 - Congressional Primary</li>
-    
-      <li>2020-11-03 - General (Presidential) Election</li>
+      <li>2020-11-03 00:00:00 - General (Presidential) Election</li>
     
     </ul>
     <ul>
@@ -30,39 +34,41 @@
     
     
     </ul>
-    <ul id="counties">
+    <p>Select your county below for details.</p>
+    <select name="counties" id="counties">
+      <option value="default"> -- Select County </option>
     
-      <li><a href="apache/">Apache County</a></li>
+      <option value="apache">Apache County</option>
     
-      <li><a href="cochise/">Cochise County</a></li>
+      <option value="cochise">Cochise County</option>
     
-      <li><a href="coconino/">Coconino County</a></li>
+      <option value="coconino">Coconino County</option>
     
-      <li><a href="gila/">Gila County</a></li>
+      <option value="gila">Gila County</option>
     
-      <li><a href="graham/">Graham County</a></li>
+      <option value="graham">Graham County</option>
     
-      <li><a href="greenlee/">Greenlee County</a></li>
+      <option value="greenlee">Greenlee County</option>
     
-      <li><a href="la_paz/">La Paz County</a></li>
+      <option value="la_paz">La Paz County</option>
     
-      <li><a href="maricopa/">Maricopa County</a></li>
+      <option value="maricopa">Maricopa County</option>
     
-      <li><a href="mohave/">Mohave County</a></li>
+      <option value="mohave">Mohave County</option>
     
-      <li><a href="navajo/">Navajo County</a></li>
+      <option value="navajo">Navajo County</option>
     
-      <li><a href="pima/">Pima County</a></li>
+      <option value="pima">Pima County</option>
     
-      <li><a href="pinal/">Pinal County</a></li>
+      <option value="pinal">Pinal County</option>
     
-      <li><a href="santa_cruz/">Santa Cruz County</a></li>
+      <option value="santa_cruz">Santa Cruz County</option>
     
-      <li><a href="yavapai/">Yavapai County</a></li>
+      <option value="yavapai">Yavapai County</option>
     
-      <li><a href="yuma/">Yuma County</a></li>
+      <option value="yuma">Yuma County</option>
     
-    </ul>
+    </select>
 
     Add all of the dates to your calendar by clicking <a href="webcal://electioncal.us/en/arizona/voter.ics">here</a> (
     <a href="https://electioncal.us/en/arizona/voter.ics">https</a>, 
@@ -82,6 +88,15 @@
         <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
         
     </div>
-    <script type="text/javascript"></script>
+    <script type="text/javascript">
+    function selectCounty(event) {
+      if (event.target.value === "default") {
+        return;
+      }
+      window.location.assign(["/en/arizona", event.target.value].join("/"))
+    }
+    window.document.getElementById('counties').addEventListener('change', selectCounty);
+
+</script>
 </body>
 </html>

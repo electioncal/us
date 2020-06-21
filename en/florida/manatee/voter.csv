@@ -1,4 +1,4 @@
-date,key,type,name,original_date,state,county
-2020-03-17,florida/20200317,election,Presidential Primary,2020-03-17,florida,
-2020-08-18,florida/20200818,election,Congressional Primary,2020-08-18,florida,
-2020-11-03,20201103,election,General (Presidential) Election,2020-11-03,,
+date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
+2020-03-17 00:00:00,florida/20200317,,election,,Presidential Primary,2020-03-17 00:00:00,florida,,
+2020-08-18 00:00:00,florida/20200818,,election,,Congressional Primary,2020-08-18 00:00:00,florida,,
+2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,,,

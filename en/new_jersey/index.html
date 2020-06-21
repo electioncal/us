@@ -1,21 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
     
     <title>New Jersey - electioncal.us</title>
     
+    <link href="/static/theme.css" rel="stylesheet" type="text/css">
     
+
     
 </head>
 <body>
     <div id="content">
-    <h1>New Jersey needs your voice.</h1>
-    <p>Select your county below for details.</p>
+    <h3>New Jersey</h3>
+    <h2> by</h2>
+    <h1>None</h1>
+    <h2>None</h2>
     <ul id="dates">
     
-      <li>2020-07-07 - Congressional & Presidential Primary</li>
+      <li>2020-07-07 00:00:00 - Congressional & Presidential Primary</li>
     
-      <li>2020-11-03 - General (Presidential) Election</li>
+      <li>2020-11-03 00:00:00 - General (Presidential) Election</li>
     
     </ul>
     <ul>
@@ -30,51 +36,53 @@
     
     
     </ul>
-    <ul id="counties">
+    <p>Select your county below for details.</p>
+    <select name="counties" id="counties">
+      <option value="default"> -- Select County </option>
     
-      <li><a href="atlantic/">Atlantic County</a></li>
+      <option value="atlantic">Atlantic County</option>
     
-      <li><a href="bergen/">Bergen County</a></li>
+      <option value="bergen">Bergen County</option>
     
-      <li><a href="burlington/">Burlington County</a></li>
+      <option value="burlington">Burlington County</option>
     
-      <li><a href="camden/">Camden County</a></li>
+      <option value="camden">Camden County</option>
     
-      <li><a href="cape_may/">Cape May County</a></li>
+      <option value="cape_may">Cape May County</option>
     
-      <li><a href="cumberland/">Cumberland County</a></li>
+      <option value="cumberland">Cumberland County</option>
     
-      <li><a href="essex/">Essex County</a></li>
+      <option value="essex">Essex County</option>
     
-      <li><a href="gloucester/">Gloucester County</a></li>
+      <option value="gloucester">Gloucester County</option>
     
-      <li><a href="hudson/">Hudson County</a></li>
+      <option value="hudson">Hudson County</option>
     
-      <li><a href="hunterdon/">Hunterdon County</a></li>
+      <option value="hunterdon">Hunterdon County</option>
     
-      <li><a href="mercer/">Mercer County</a></li>
+      <option value="mercer">Mercer County</option>
     
-      <li><a href="middlesex/">Middlesex County</a></li>
+      <option value="middlesex">Middlesex County</option>
     
-      <li><a href="monmouth/">Monmouth County</a></li>
+      <option value="monmouth">Monmouth County</option>
     
-      <li><a href="morris/">Morris County</a></li>
+      <option value="morris">Morris County</option>
     
-      <li><a href="ocean/">Ocean County</a></li>
+      <option value="ocean">Ocean County</option>
     
-      <li><a href="passaic/">Passaic County</a></li>
+      <option value="passaic">Passaic County</option>
     
-      <li><a href="salem/">Salem County</a></li>
+      <option value="salem">Salem County</option>
     
-      <li><a href="somerset/">Somerset County</a></li>
+      <option value="somerset">Somerset County</option>
     
-      <li><a href="sussex/">Sussex County</a></li>
+      <option value="sussex">Sussex County</option>
     
-      <li><a href="union/">Union County</a></li>
+      <option value="union">Union County</option>
     
-      <li><a href="warren/">Warren County</a></li>
+      <option value="warren">Warren County</option>
     
-    </ul>
+    </select>
 
     Add all of the dates to your calendar by clicking <a href="webcal://electioncal.us/en/new_jersey/voter.ics">here</a> (
     <a href="https://electioncal.us/en/new_jersey/voter.ics">https</a>, 
@@ -94,6 +102,15 @@
         <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
         
     </div>
-    <script type="text/javascript"></script>
+    <script type="text/javascript">
+    function selectCounty(event) {
+      if (event.target.value === "default") {
+        return;
+      }
+      window.location.assign(["/en/new_jersey", event.target.value].join("/"))
+    }
+    window.document.getElementById('counties').addEventListener('change', selectCounty);
+
+</script>
 </body>
 </html>

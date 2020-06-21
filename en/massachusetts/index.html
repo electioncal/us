@@ -1,23 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
     
     <title>Massachusetts - electioncal.us</title>
     
+    <link href="/static/theme.css" rel="stylesheet" type="text/css">
     
+
     
 </head>
 <body>
     <div id="content">
-    <h1>Massachusetts needs your voice.</h1>
-    <p>Select your county below for details.</p>
+    <h3>Massachusetts</h3>
+    <h2> by</h2>
+    <h1>None</h1>
+    <h2>None</h2>
     <ul id="dates">
     
-      <li>2020-03-03 - Presidential Primary</li>
+      <li>2020-09-01 00:00:00 - Congressional Primary</li>
     
-      <li>2020-09-01 - Congressional Primary</li>
-    
-      <li>2020-11-03 - General (Presidential) Election</li>
+      <li>2020-11-03 00:00:00 - General (Presidential) Election</li>
     
     </ul>
     <ul>
@@ -32,37 +36,39 @@
     
     
     </ul>
-    <ul id="counties">
+    <p>Select your county below for details.</p>
+    <select name="counties" id="counties">
+      <option value="default"> -- Select County </option>
     
-      <li><a href="barnstable/">Barnstable County</a></li>
+      <option value="barnstable">Barnstable County</option>
     
-      <li><a href="berkshire/">Berkshire County</a></li>
+      <option value="berkshire">Berkshire County</option>
     
-      <li><a href="bristol/">Bristol County</a></li>
+      <option value="bristol">Bristol County</option>
     
-      <li><a href="dukes/">Dukes County</a></li>
+      <option value="dukes">Dukes County</option>
     
-      <li><a href="essex/">Essex County</a></li>
+      <option value="essex">Essex County</option>
     
-      <li><a href="franklin/">Franklin County</a></li>
+      <option value="franklin">Franklin County</option>
     
-      <li><a href="hampden/">Hampden County</a></li>
+      <option value="hampden">Hampden County</option>
     
-      <li><a href="hampshire/">Hampshire County</a></li>
+      <option value="hampshire">Hampshire County</option>
     
-      <li><a href="middlesex/">Middlesex County</a></li>
+      <option value="middlesex">Middlesex County</option>
     
-      <li><a href="nantucket/">Nantucket County</a></li>
+      <option value="nantucket">Nantucket County</option>
     
-      <li><a href="norfolk/">Norfolk County</a></li>
+      <option value="norfolk">Norfolk County</option>
     
-      <li><a href="plymouth/">Plymouth County</a></li>
+      <option value="plymouth">Plymouth County</option>
     
-      <li><a href="suffolk/">Suffolk County</a></li>
+      <option value="suffolk">Suffolk County</option>
     
-      <li><a href="worcester/">Worcester County</a></li>
+      <option value="worcester">Worcester County</option>
     
-    </ul>
+    </select>
 
     Add all of the dates to your calendar by clicking <a href="webcal://electioncal.us/en/massachusetts/voter.ics">here</a> (
     <a href="https://electioncal.us/en/massachusetts/voter.ics">https</a>, 
@@ -82,6 +88,15 @@
         <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
         
     </div>
-    <script type="text/javascript"></script>
+    <script type="text/javascript">
+    function selectCounty(event) {
+      if (event.target.value === "default") {
+        return;
+      }
+      window.location.assign(["/en/massachusetts", event.target.value].join("/"))
+    }
+    window.document.getElementById('counties').addEventListener('change', selectCounty);
+
+</script>
 </body>
 </html>

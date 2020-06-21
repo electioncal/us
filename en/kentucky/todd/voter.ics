@@ -4,8 +4,36 @@ PRODID:-//electioncal.us generator//circuitpython.org//
 SOURCE:https://electioncal.us/en/kentucky/todd/voter.ics
 URL:https://electioncal.us/en/kentucky/todd/
 BEGIN:VEVENT
+SUMMARY:Last day to apply online for a mail-in ballot
+DTSTART;VALUE=DATE:20200615
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mail ballot! It must be received
+DTSTART;VALUE=DATE:20200619
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mail ballot at the post office! It must be received
+DTSTART;VALUE=DATE:20200620
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Presidential Primary
 DTSTART;VALUE=DATE:20200623
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots
+DTSTART;VALUE=DATE:20200623
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person
+DTSTART;VALUE=DATE:20200623
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vote in person
+DTSTART;VALUE=DATE:20200623
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots
+DTSTART;VALUE=DATE:20200627
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:General (Presidential) Election

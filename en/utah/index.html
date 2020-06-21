@@ -1,23 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
     
     <title>Utah - electioncal.us</title>
     
+    <link href="/static/theme.css" rel="stylesheet" type="text/css">
     
+
     
 </head>
 <body>
     <div id="content">
-    <h1>Utah needs your voice.</h1>
-    <p>Select your county below for details.</p>
+    <h3>Utah</h3>
+    <h2> by</h2>
+    <h1>None</h1>
+    <h2>None</h2>
     <ul id="dates">
     
-      <li>2020-03-03 - Presidential Primary</li>
+      <li>2020-06-30 00:00:00 - Congressional Primary</li>
     
-      <li>2020-06-30 - Congressional Primary</li>
-    
-      <li>2020-11-03 - General (Presidential) Election</li>
+      <li>2020-11-03 00:00:00 - General (Presidential) Election</li>
     
     </ul>
     <ul>
@@ -32,67 +36,69 @@
     
     
     </ul>
-    <ul id="counties">
+    <p>Select your county below for details.</p>
+    <select name="counties" id="counties">
+      <option value="default"> -- Select County </option>
     
-      <li><a href="beaver/">Beaver County</a></li>
+      <option value="beaver">Beaver County</option>
     
-      <li><a href="box_elder/">Box Elder County</a></li>
+      <option value="box_elder">Box Elder County</option>
     
-      <li><a href="cache/">Cache County</a></li>
+      <option value="cache">Cache County</option>
     
-      <li><a href="carbon/">Carbon County</a></li>
+      <option value="carbon">Carbon County</option>
     
-      <li><a href="daggett/">Daggett County</a></li>
+      <option value="daggett">Daggett County</option>
     
-      <li><a href="davis/">Davis County</a></li>
+      <option value="davis">Davis County</option>
     
-      <li><a href="duchesne/">Duchesne County</a></li>
+      <option value="duchesne">Duchesne County</option>
     
-      <li><a href="emery/">Emery County</a></li>
+      <option value="emery">Emery County</option>
     
-      <li><a href="garfield/">Garfield County</a></li>
+      <option value="garfield">Garfield County</option>
     
-      <li><a href="grand/">Grand County</a></li>
+      <option value="grand">Grand County</option>
     
-      <li><a href="iron/">Iron County</a></li>
+      <option value="iron">Iron County</option>
     
-      <li><a href="juab/">Juab County</a></li>
+      <option value="juab">Juab County</option>
     
-      <li><a href="kane/">Kane County</a></li>
+      <option value="kane">Kane County</option>
     
-      <li><a href="millard/">Millard County</a></li>
+      <option value="millard">Millard County</option>
     
-      <li><a href="morgan/">Morgan County</a></li>
+      <option value="morgan">Morgan County</option>
     
-      <li><a href="piute/">Piute County</a></li>
+      <option value="piute">Piute County</option>
     
-      <li><a href="rich/">Rich County</a></li>
+      <option value="rich">Rich County</option>
     
-      <li><a href="salt_lake/">Salt Lake County</a></li>
+      <option value="salt_lake">Salt Lake County</option>
     
-      <li><a href="san_juan/">San Juan County</a></li>
+      <option value="san_juan">San Juan County</option>
     
-      <li><a href="sanpete/">Sanpete County</a></li>
+      <option value="sanpete">Sanpete County</option>
     
-      <li><a href="sevier/">Sevier County</a></li>
+      <option value="sevier">Sevier County</option>
     
-      <li><a href="summit/">Summit County</a></li>
+      <option value="summit">Summit County</option>
     
-      <li><a href="tooele/">Tooele County</a></li>
+      <option value="tooele">Tooele County</option>
     
-      <li><a href="uintah/">Uintah County</a></li>
+      <option value="uintah">Uintah County</option>
     
-      <li><a href="utah/">Utah County</a></li>
+      <option value="utah">Utah County</option>
     
-      <li><a href="wasatch/">Wasatch County</a></li>
+      <option value="wasatch">Wasatch County</option>
     
-      <li><a href="washington/">Washington County</a></li>
+      <option value="washington">Washington County</option>
     
-      <li><a href="wayne/">Wayne County</a></li>
+      <option value="wayne">Wayne County</option>
     
-      <li><a href="weber/">Weber County</a></li>
+      <option value="weber">Weber County</option>
     
-    </ul>
+    </select>
 
     Add all of the dates to your calendar by clicking <a href="webcal://electioncal.us/en/utah/voter.ics">here</a> (
     <a href="https://electioncal.us/en/utah/voter.ics">https</a>, 
@@ -112,6 +118,15 @@
         <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
         
     </div>
-    <script type="text/javascript"></script>
+    <script type="text/javascript">
+    function selectCounty(event) {
+      if (event.target.value === "default") {
+        return;
+      }
+      window.location.assign(["/en/utah", event.target.value].join("/"))
+    }
+    window.document.getElementById('counties').addEventListener('change', selectCounty);
+
+</script>
 </body>
 </html>

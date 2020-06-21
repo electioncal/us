@@ -1,21 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
     
     <title>Maryland - electioncal.us</title>
     
+    <link href="/static/theme.css" rel="stylesheet" type="text/css">
     
+
     
 </head>
 <body>
     <div id="content">
-    <h1>Maryland needs your voice.</h1>
-    <p>Select your county below for details.</p>
+    <h3>Maryland</h3>
+    <h2> by</h2>
+    <h1>None</h1>
+    <h2>None</h2>
     <ul id="dates">
     
-      <li>2020-06-02 - Congressional & Presidential Primary</li>
-    
-      <li>2020-11-03 - General (Presidential) Election</li>
+      <li>2020-11-03 00:00:00 - General (Presidential) Election</li>
     
     </ul>
     <ul>
@@ -30,55 +34,57 @@
     
     
     </ul>
-    <ul id="counties">
+    <p>Select your county below for details.</p>
+    <select name="counties" id="counties">
+      <option value="default"> -- Select County </option>
     
-      <li><a href="allegany/">Allegany County</a></li>
+      <option value="allegany">Allegany County</option>
     
-      <li><a href="anne_arundel/">Anne Arundel County</a></li>
+      <option value="anne_arundel">Anne Arundel County</option>
     
-      <li><a href="baltimore/">Baltimore city</a></li>
+      <option value="baltimore">Baltimore city</option>
     
-      <li><a href="calvert/">Calvert County</a></li>
+      <option value="calvert">Calvert County</option>
     
-      <li><a href="caroline/">Caroline County</a></li>
+      <option value="caroline">Caroline County</option>
     
-      <li><a href="carroll/">Carroll County</a></li>
+      <option value="carroll">Carroll County</option>
     
-      <li><a href="cecil/">Cecil County</a></li>
+      <option value="cecil">Cecil County</option>
     
-      <li><a href="charles/">Charles County</a></li>
+      <option value="charles">Charles County</option>
     
-      <li><a href="dorchester/">Dorchester County</a></li>
+      <option value="dorchester">Dorchester County</option>
     
-      <li><a href="frederick/">Frederick County</a></li>
+      <option value="frederick">Frederick County</option>
     
-      <li><a href="garrett/">Garrett County</a></li>
+      <option value="garrett">Garrett County</option>
     
-      <li><a href="harford/">Harford County</a></li>
+      <option value="harford">Harford County</option>
     
-      <li><a href="howard/">Howard County</a></li>
+      <option value="howard">Howard County</option>
     
-      <li><a href="kent/">Kent County</a></li>
+      <option value="kent">Kent County</option>
     
-      <li><a href="montgomery/">Montgomery County</a></li>
+      <option value="montgomery">Montgomery County</option>
     
-      <li><a href="prince_george's/">Prince George's County</a></li>
+      <option value="prince_george's">Prince George's County</option>
     
-      <li><a href="queen_anne's/">Queen Anne's County</a></li>
+      <option value="queen_anne's">Queen Anne's County</option>
     
-      <li><a href="somerset/">Somerset County</a></li>
+      <option value="somerset">Somerset County</option>
     
-      <li><a href="st._mary's/">St. Mary's County</a></li>
+      <option value="st._mary's">St. Mary's County</option>
     
-      <li><a href="talbot/">Talbot County</a></li>
+      <option value="talbot">Talbot County</option>
     
-      <li><a href="washington/">Washington County</a></li>
+      <option value="washington">Washington County</option>
     
-      <li><a href="wicomico/">Wicomico County</a></li>
+      <option value="wicomico">Wicomico County</option>
     
-      <li><a href="worcester/">Worcester County</a></li>
+      <option value="worcester">Worcester County</option>
     
-    </ul>
+    </select>
 
     Add all of the dates to your calendar by clicking <a href="webcal://electioncal.us/en/maryland/voter.ics">here</a> (
     <a href="https://electioncal.us/en/maryland/voter.ics">https</a>, 
@@ -98,6 +104,15 @@
         <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
         
     </div>
-    <script type="text/javascript"></script>
+    <script type="text/javascript">
+    function selectCounty(event) {
+      if (event.target.value === "default") {
+        return;
+      }
+      window.location.assign(["/en/maryland", event.target.value].join("/"))
+    }
+    window.document.getElementById('counties').addEventListener('change', selectCounty);
+
+</script>
 </body>
 </html>

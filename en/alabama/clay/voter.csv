@@ -1,3 +1,3 @@
-date,key,type,name,original_date,state,county
-2020-07-14,alabama/20200714,election,Congressional Primary Run-Off (if needed),2020-07-14,alabama,
-2020-11-03,20201103,election,General (Presidential) Election,2020-11-03,,
+date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
+2020-07-14 00:00:00,alabama/20200714,,election,,Congressional Primary Run-Off (if needed),2020-07-14 00:00:00,alabama,,
+2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,,,

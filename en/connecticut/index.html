@@ -1,21 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
     
     <title>Connecticut - electioncal.us</title>
     
+    <link href="/static/theme.css" rel="stylesheet" type="text/css">
     
+
     
 </head>
 <body>
     <div id="content">
-    <h1>Connecticut needs your voice.</h1>
-    <p>Select your county below for details.</p>
+    <h3>Connecticut</h3>
+    <h2> by</h2>
+    <h1>None</h1>
+    <h2>None</h2>
     <ul id="dates">
     
-      <li>2020-08-11 - Presidential Primary</li>
+      <li>2020-08-11 00:00:00 - Presidential Primary</li>
     
-      <li>2020-11-03 - General (Presidential) Election</li>
+      <li>2020-11-03 00:00:00 - General (Presidential) Election</li>
     
     </ul>
     <ul>
@@ -30,25 +36,27 @@
     
     
     </ul>
-    <ul id="counties">
+    <p>Select your county below for details.</p>
+    <select name="counties" id="counties">
+      <option value="default"> -- Select County </option>
     
-      <li><a href="fairfield/">Fairfield County</a></li>
+      <option value="fairfield">Fairfield County</option>
     
-      <li><a href="hartford/">Hartford County</a></li>
+      <option value="hartford">Hartford County</option>
     
-      <li><a href="litchfield/">Litchfield County</a></li>
+      <option value="litchfield">Litchfield County</option>
     
-      <li><a href="middlesex/">Middlesex County</a></li>
+      <option value="middlesex">Middlesex County</option>
     
-      <li><a href="new_haven/">New Haven County</a></li>
+      <option value="new_haven">New Haven County</option>
     
-      <li><a href="new_london/">New London County</a></li>
+      <option value="new_london">New London County</option>
     
-      <li><a href="tolland/">Tolland County</a></li>
+      <option value="tolland">Tolland County</option>
     
-      <li><a href="windham/">Windham County</a></li>
+      <option value="windham">Windham County</option>
     
-    </ul>
+    </select>
 
     Add all of the dates to your calendar by clicking <a href="webcal://electioncal.us/en/connecticut/voter.ics">here</a> (
     <a href="https://electioncal.us/en/connecticut/voter.ics">https</a>, 
@@ -68,6 +76,15 @@
         <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
         
     </div>
-    <script type="text/javascript"></script>
+    <script type="text/javascript">
+    function selectCounty(event) {
+      if (event.target.value === "default") {
+        return;
+      }
+      window.location.assign(["/en/connecticut", event.target.value].join("/"))
+    }
+    window.document.getElementById('counties').addEventListener('change', selectCounty);
+
+</script>
 </body>
 </html>

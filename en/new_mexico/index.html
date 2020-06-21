@@ -1,21 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
     
     <title>New Mexico - electioncal.us</title>
     
+    <link href="/static/theme.css" rel="stylesheet" type="text/css">
     
+
     
 </head>
 <body>
     <div id="content">
-    <h1>New Mexico needs your voice.</h1>
-    <p>Select your county below for details.</p>
+    <h3>New Mexico</h3>
+    <h2> by</h2>
+    <h1>None</h1>
+    <h2>None</h2>
     <ul id="dates">
     
-      <li>2020-06-02 - Congressional & Presidential Primary</li>
-    
-      <li>2020-11-03 - General (Presidential) Election</li>
+      <li>2020-11-03 00:00:00 - General (Presidential) Election</li>
     
     </ul>
     <ul>
@@ -30,75 +34,77 @@
     
     
     </ul>
-    <ul id="counties">
+    <p>Select your county below for details.</p>
+    <select name="counties" id="counties">
+      <option value="default"> -- Select County </option>
     
-      <li><a href="bernalillo/">Bernalillo County</a></li>
+      <option value="bernalillo">Bernalillo County</option>
     
-      <li><a href="catron/">Catron County</a></li>
+      <option value="catron">Catron County</option>
     
-      <li><a href="chaves/">Chaves County</a></li>
+      <option value="chaves">Chaves County</option>
     
-      <li><a href="cibola/">Cibola County</a></li>
+      <option value="cibola">Cibola County</option>
     
-      <li><a href="colfax/">Colfax County</a></li>
+      <option value="colfax">Colfax County</option>
     
-      <li><a href="curry/">Curry County</a></li>
+      <option value="curry">Curry County</option>
     
-      <li><a href="de_baca/">De Baca County</a></li>
+      <option value="de_baca">De Baca County</option>
     
-      <li><a href="doña_ana/">Doña Ana County</a></li>
+      <option value="doña_ana">Doña Ana County</option>
     
-      <li><a href="eddy/">Eddy County</a></li>
+      <option value="eddy">Eddy County</option>
     
-      <li><a href="grant/">Grant County</a></li>
+      <option value="grant">Grant County</option>
     
-      <li><a href="guadalupe/">Guadalupe County</a></li>
+      <option value="guadalupe">Guadalupe County</option>
     
-      <li><a href="harding/">Harding County</a></li>
+      <option value="harding">Harding County</option>
     
-      <li><a href="hidalgo/">Hidalgo County</a></li>
+      <option value="hidalgo">Hidalgo County</option>
     
-      <li><a href="lea/">Lea County</a></li>
+      <option value="lea">Lea County</option>
     
-      <li><a href="lincoln/">Lincoln County</a></li>
+      <option value="lincoln">Lincoln County</option>
     
-      <li><a href="los_alamos/">Los Alamos County</a></li>
+      <option value="los_alamos">Los Alamos County</option>
     
-      <li><a href="luna/">Luna County</a></li>
+      <option value="luna">Luna County</option>
     
-      <li><a href="mckinley/">McKinley County</a></li>
+      <option value="mckinley">McKinley County</option>
     
-      <li><a href="mora/">Mora County</a></li>
+      <option value="mora">Mora County</option>
     
-      <li><a href="otero/">Otero County</a></li>
+      <option value="otero">Otero County</option>
     
-      <li><a href="quay/">Quay County</a></li>
+      <option value="quay">Quay County</option>
     
-      <li><a href="rio_arriba/">Rio Arriba County</a></li>
+      <option value="rio_arriba">Rio Arriba County</option>
     
-      <li><a href="roosevelt/">Roosevelt County</a></li>
+      <option value="roosevelt">Roosevelt County</option>
     
-      <li><a href="san_juan/">San Juan County</a></li>
+      <option value="san_juan">San Juan County</option>
     
-      <li><a href="san_miguel/">San Miguel County</a></li>
+      <option value="san_miguel">San Miguel County</option>
     
-      <li><a href="sandoval/">Sandoval County</a></li>
+      <option value="sandoval">Sandoval County</option>
     
-      <li><a href="santa_fe/">Santa Fe County</a></li>
+      <option value="santa_fe">Santa Fe County</option>
     
-      <li><a href="sierra/">Sierra County</a></li>
+      <option value="sierra">Sierra County</option>
     
-      <li><a href="socorro/">Socorro County</a></li>
+      <option value="socorro">Socorro County</option>
     
-      <li><a href="taos/">Taos County</a></li>
+      <option value="taos">Taos County</option>
     
-      <li><a href="torrance/">Torrance County</a></li>
+      <option value="torrance">Torrance County</option>
     
-      <li><a href="union/">Union County</a></li>
+      <option value="union">Union County</option>
     
-      <li><a href="valencia/">Valencia County</a></li>
+      <option value="valencia">Valencia County</option>
     
-    </ul>
+    </select>
 
     Add all of the dates to your calendar by clicking <a href="webcal://electioncal.us/en/new_mexico/voter.ics">here</a> (
     <a href="https://electioncal.us/en/new_mexico/voter.ics">https</a>, 
@@ -118,6 +124,15 @@
         <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
         
     </div>
-    <script type="text/javascript"></script>
+    <script type="text/javascript">
+    function selectCounty(event) {
+      if (event.target.value === "default") {
+        return;
+      }
+      window.location.assign(["/en/new_mexico", event.target.value].join("/"))
+    }
+    window.document.getElementById('counties').addEventListener('change', selectCounty);
+
+</script>
 </body>
 </html>

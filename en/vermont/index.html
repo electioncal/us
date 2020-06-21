@@ -1,23 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
     
     <title>Vermont - electioncal.us</title>
     
+    <link href="/static/theme.css" rel="stylesheet" type="text/css">
     
+
     
 </head>
 <body>
     <div id="content">
-    <h1>Vermont needs your voice.</h1>
-    <p>Select your county below for details.</p>
+    <h3>Vermont</h3>
+    <h2> by</h2>
+    <h1>None</h1>
+    <h2>None</h2>
     <ul id="dates">
     
-      <li>2020-03-03 - Presidential Primary</li>
+      <li>2020-08-11 00:00:00 - Congressional Primary</li>
     
-      <li>2020-08-11 - Congressional Primary</li>
-    
-      <li>2020-11-03 - General (Presidential) Election</li>
+      <li>2020-11-03 00:00:00 - General (Presidential) Election</li>
     
     </ul>
     <ul>
@@ -32,37 +36,39 @@
     
     
     </ul>
-    <ul id="counties">
+    <p>Select your county below for details.</p>
+    <select name="counties" id="counties">
+      <option value="default"> -- Select County </option>
     
-      <li><a href="addison/">Addison County</a></li>
+      <option value="addison">Addison County</option>
     
-      <li><a href="bennington/">Bennington County</a></li>
+      <option value="bennington">Bennington County</option>
     
-      <li><a href="caledonia/">Caledonia County</a></li>
+      <option value="caledonia">Caledonia County</option>
     
-      <li><a href="chittenden/">Chittenden County</a></li>
+      <option value="chittenden">Chittenden County</option>
     
-      <li><a href="essex/">Essex County</a></li>
+      <option value="essex">Essex County</option>
     
-      <li><a href="franklin/">Franklin County</a></li>
+      <option value="franklin">Franklin County</option>
     
-      <li><a href="grand_isle/">Grand Isle County</a></li>
+      <option value="grand_isle">Grand Isle County</option>
     
-      <li><a href="lamoille/">Lamoille County</a></li>
+      <option value="lamoille">Lamoille County</option>
     
-      <li><a href="orange/">Orange County</a></li>
+      <option value="orange">Orange County</option>
     
-      <li><a href="orleans/">Orleans County</a></li>
+      <option value="orleans">Orleans County</option>
     
-      <li><a href="rutland/">Rutland County</a></li>
+      <option value="rutland">Rutland County</option>
     
-      <li><a href="washington/">Washington County</a></li>
+      <option value="washington">Washington County</option>
     
-      <li><a href="windham/">Windham County</a></li>
+      <option value="windham">Windham County</option>
     
-      <li><a href="windsor/">Windsor County</a></li>
+      <option value="windsor">Windsor County</option>
     
-    </ul>
+    </select>
 
     Add all of the dates to your calendar by clicking <a href="webcal://electioncal.us/en/vermont/voter.ics">here</a> (
     <a href="https://electioncal.us/en/vermont/voter.ics">https</a>, 
@@ -82,6 +88,15 @@
         <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
         
     </div>
-    <script type="text/javascript"></script>
+    <script type="text/javascript">
+    function selectCounty(event) {
+      if (event.target.value === "default") {
+        return;
+      }
+      window.location.assign(["/en/vermont", event.target.value].join("/"))
+    }
+    window.document.getElementById('counties').addEventListener('change', selectCounty);
+
+</script>
 </body>
 </html>

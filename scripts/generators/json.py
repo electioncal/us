@@ -1,5 +1,6 @@
 import json
 import copy
+import datetime
 
 def generate(dates, output_filename, *, name=None, description=None, uid=None, states=None, counties=None):
     dates = copy.deepcopy(dates)
@@ -14,8 +15,11 @@ def generate(dates, output_filename, *, name=None, description=None, uid=None, s
     }
     for date in dates:
         date["date"] = date["date"].strftime("%Y-%m-%d")
-        if "original_date" in date:
-            date["original_date"] = date["original_date"].strftime("%Y-%m-%d")
+        for key in date:
+            value = date[key]
+            if not isinstance(value, datetime.datetime):
+                continue
+            date[key] = value.strftime("%Y-%m-%d")
         if "details" in date:
             del date["details"]
 

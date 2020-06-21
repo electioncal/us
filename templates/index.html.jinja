@@ -3,18 +3,13 @@
 {% block script_head %}
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.7.0/d3.min.js"></script>
   <script type="text/javascript" src="https://d3js.org/topojson.v3.min.js"></script>
-  <script type="text/javascript" src="static/state-county-map.js"></script>
+  <script type="text/javascript" src="/static/state-county-map.js"></script>
 {% endblock %}
 {% block style_head %}
-  <link href="static/state-county-map.css" rel="stylesheet" type="text/css">
+  <link href="/static/state-county-map.css" rel="stylesheet" type="text/css">
 {% endblock%}
 {% block content %}
-    <h1>You're smart and thoughtful. Please Vote. Here's when.</h1>
-    <ul id="dates">
-    {% for date in dates %}
-      <li>{{ date.date }} - {{ date.name }}</li>
-    {% endfor %}
-    </ul>
+    <h1>Voting reminders for folks who put things off.</h1>
     <p>Select your state and county from the map for details.</p>
     <div id="map"></div>
     <p>Or state from the dropdown</p>
@@ -23,12 +18,24 @@
     {% for state in states %}
       <option value="{{state.lower_name}}">{{ state.name }}</option>
     {% endfor %}
-    </ul>
+    </select>
+    <details open="">
+    <summary>Subscribe</summary>
+    <p>
     Add all of the dates to your calendar by clicking <a href="webcal://electioncal.us/{{language}}/voter.ics">here</a> (
     {% for alternative in alternatives %}<a href="https://electioncal.us/{{language}}/voter.{{alternative.extension}}">{{alternative.name}}</a>{% if not loop.last %}, {% endif %}
-    {% endfor %}). Get all nation-wide dates <a href="webcal://electioncal.us/{{language}}/all-voter.ics">here</a> (
-    {% for alternative in alternatives %}<a href="https://electioncal.us/{{language}}/all-voter.{{alternative.extension}}">{{alternative.name}}</a>{% if not loop.last %}, {% endif %}
     {% endfor %}).
+    </p>
+    </details>
+
+    <details>
+    <summary>Subscribe to all dates nation-wide</summary>
+    <p>
+    <a href="webcal://electioncal.us/{{language}}/all-voter.ics">Calendar</a> (
+    {% for alternative in alternatives %}<a href="https://electioncal.us/{{language}}/all-voter.{{alternative.extension}}">{{alternative.name}}</a>{% if not loop.last %}, {% endif %}
+    {% endfor %})
+  </p>
+</details>
 {% endblock %}
 {% block javascript %}
     window.createMap("{{language}}");
@@ -36,7 +43,7 @@
       if (event.target.value === "default") {
         return;
       }
-      window.location.assign(["{{language}}", event.target.value].join("/"))
+      window.location.assign(["/{{language}}", event.target.value].join("/"))
     }
     window.document.getElementById('states').addEventListener('change', selectState);
 

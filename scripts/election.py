@@ -166,6 +166,9 @@ for date in dates:
         else:
             date["name"] = desc
         subtype = date["subtype"]
+        item = "ballot"
+        if subtype.startswith("absentee.application"):
+            item = "absentee application"
         if subtype.endswith("postmarked_by") and not date["postmark_too_late"]:
             reminder = copy.deepcopy(date)
             reminder["type"] = "reminder"
@@ -173,24 +176,25 @@ for date in dates:
 
             mail = copy.deepcopy(reminder)
             mail["date"] = reminder["date"] - one_day
-            mail["name"] = "Mail {}! It must be postmarked by"
+            mail["name"] = f"Mail {item}! It must be postmarked"
             reminders.append(mail)
 
             post_office = copy.deepcopy(reminder)
-            post_office["name"] = "Mail {} at the post office! It must be postmarked by" # today
+            post_office["name"] = f"Mail {item} at the post office! It must be postmarked" # today
             reminders.append(post_office)
         if subtype.endswith("received_by") and date["postmark_too_late"]:
             reminder = copy.deepcopy(date)
             reminder["type"] = "reminder"
             reminder["deadline_date"] = reminder["date"]
 
+
             mail = copy.deepcopy(reminder)
             mail["date"] = reminder["date"] - one_day - one_week
-            mail["name"] = "Mail {}! It must be received by"
+            mail["name"] = f"Mail {item}! It must be received"
             reminders.append(mail)
 
             post_office = copy.deepcopy(reminder)
-            post_office["name"] = "Mail {} at the post office! It must be received by"
+            post_office["name"] = f"Mail {item} at the post office! It must be received"
             post_office["date"] = reminder["date"] - one_week
             reminders.append(post_office)
         if subtype.endswith("in_person_by"):
@@ -204,6 +208,8 @@ for date in dates:
                 vote["name"] = "Vote early in person"
             elif subtype.startswith("poll"):
                 vote["name"] = "Vote in person"
+                d = reminder["date"]
+                vote["start_date"] = datetime.datetime(d.year, d.month, d.day)
             elif subtype.startswith("absentee.application"):
                 vote["name"] = "Drop off absentee application"
             elif subtype.startswith("absentee"):

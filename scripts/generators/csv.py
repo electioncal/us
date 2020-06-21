@@ -2,7 +2,7 @@ import copy
 import csv
 
 def generate(dates, output_filename, *, name=None, description=None, uid=None, states=None, counties=None):
-    columns = ["date", "key", "type", "subtype", "name", "original_date", "state", "county", "postmark_too_late"]
+    columns = ["date", "key", "election_key", "type", "subtype", "name", "original_date", "state", "county", "postmark_too_late"]
     with open(output_filename, "w") as f:
         writer = csv.DictWriter(f, fieldnames=columns, extrasaction="ignore")
 

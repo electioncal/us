@@ -1,3 +1,7 @@
 name = "Idaho"
 fips_code = 16
 postal_code = "ID"
+homepage = "https://idahovotes.gov/"
+registration_info = "https://apps.idahovotes.gov/YourPollingPlace/AmIRegistered.aspx"
+absentee_info = "https://idahovotes.gov/absentee-voter-information/"
+military_overseas_info = "https://idahovotes.gov/military-and-overseas-voting/"

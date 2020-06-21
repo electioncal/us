@@ -1,3 +1,6 @@
 fips_code = 69
 name = "Northern Mariana Islands"
 postal_code = "MP"
+homepage = "https://www.votecnmi.gov.mp/"
+registration_info = "https://www.votecnmi.gov.mp/downloads/registration_package-f.pdf"
+absentee_info = "https://www.votecnmi.gov.mp/component/content/article/53-voter/190-absentee-ballot-application"

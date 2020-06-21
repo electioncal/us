@@ -1,3 +1,7 @@
 name = "Pennsylvania"
 fips_code = 42
 postal_code = "PA"
+homepage = "http://www.votespa.com"
+registration_info = "https://www.pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx"
+absentee_info = "https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx"
+military_overseas_info = "https://www.votespa.com/Voting-in-PA/Pages/Military-and-Overseas-Voters.aspx"

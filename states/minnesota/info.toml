@@ -1,3 +1,7 @@
 name = "Minnesota"
 fips_code = 27
 postal_code = "MN"
+homepage = "https://www.sos.state.mn.us/elections-voting/"
+registration_info = "http://www.sos.state.mn.us/elections-voting/register-to-vote/"
+absentee_info = "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote"
+military_overseas_info = "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/"

@@ -1,3 +1,7 @@
 name = "New Hampshire"
 fips_code = 33
 postal_code = "NH"
+homepage = "http://sos.nh.gov/Elections.aspx"
+registration_info = "http://sos.nh.gov/HowRegVote.aspx"
+absentee_info = "http://sos.nh.gov/ElecForms2.aspx"
+military_overseas_info = "http://sos.nh.gov/UOCAVAFAQ.aspx"

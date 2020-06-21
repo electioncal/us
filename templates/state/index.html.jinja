@@ -8,6 +8,22 @@
       <li>{{ date.date }} - {{ date.name }}</li>
     {% endfor %}
     </ul>
+    <ul>
+      <li><a href="{{ state.homepage }}">Elections Site</a></li>
+      <li><a href="{{ state.registration_info }}">Registration Information</a></li>
+    {% if state.absentee_info %}
+      <li><a href="{{ state.absentee_info }}">Absentee Voting</a></li>
+    {% endif %}
+    {% if state.military_overseas_info %}
+      <li><a href="{{ state.military_overseas_info }}">Military and Overseas Voting</a></li>
+    {% endif %}
+    {% if state.military_info %}
+      <li><a href="{{ state.military_info }}">Military Voting</a></li>
+    {% endif %}
+    {% if state.overseas_info %}
+      <li><a href="{{ state.overseas_info }}">Overseas Voting</a></li>
+    {% endif %}
+    </ul>
     <ul id="counties">
     {% for county in counties %}
       <li><a href="{{county.lower_name}}/">{{ county.name }}</a></li>

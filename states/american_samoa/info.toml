@@ -1,3 +1,7 @@
 fips_code = 60
 name = "American Samoa"
 postal_code = "AS"
+homepage = "https://aselectionoffice.gov/"
+registration_info = "https://aselectionoffice.gov/node/3"
+absentee_info = "https://aselectionoffice.gov/node/6"
+military_info = "https://aselectionoffice.gov/node/5"

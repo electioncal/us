@@ -1,3 +1,7 @@
 name = "Louisiana"
 fips_code = 22
 postal_code = "LA"
+homepage = "https://www.sos.la.gov/ElectionsAndVoting/"
+registration_info = "https://www.sos.la.gov/ElectionsAndVoting/Pages/OnlineVoterRegistration.aspx"
+absentee_info = "https://www.sos.la.gov/ElectionsAndVoting/Vote/VoteByMail/Pages/default.aspx"
+military_overseas_info = "https://www.sos.la.gov/ElectionsAndVoting/Vote/VoteByMail/Pages/MilitaryAndOverseasVoters.aspx"

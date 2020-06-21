@@ -1,3 +1,6 @@
 name = "Colorado"
 fips_code = 8
 postal_code = "CO"
+homepage = "http://www.sos.state.co.us/pubs/elections"
+registration_info = "https://www.sos.state.co.us/voter/pages/pub/olvr/verifyNewVoter.xhtml"
+military_overseas_info = "https://www.sos.state.co.us/pubs/elections/UOCAVA.html"

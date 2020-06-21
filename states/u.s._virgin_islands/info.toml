@@ -1,3 +1,7 @@
 fips_code = 78
 name = "U.S. Virgin Islands"
 postal_code = "VI"
+homepage = "https://www.vivote.gov/"
+registration_info = "https://www.vivote.gov/voters/register-vote"
+absentee_info = "https://www.vivote.gov/voters/absentee-ballot"
+military_overseas_info = "https://www.vivote.gov/voters/military-and-overseas-voting-move"

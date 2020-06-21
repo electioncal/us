@@ -1,3 +1,8 @@
 name = "Nebraska"
 fips_code = 31
 postal_code = "NE"
+homepage = "http://www.sos.ne.gov/"
+registration_info = "https://www.nebraska.gov/apps-sos-voter-registration/"
+absentee_info = "https://sos.nebraska.gov/elections/early-voting-0"
+military_info = "https://sos.nebraska.gov/elections/military-voters"
+overseas_info = "https://sos.nebraska.gov/elections/overseas-voters"

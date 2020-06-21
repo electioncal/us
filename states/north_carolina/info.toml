@@ -2,8 +2,9 @@ name = "North Carolina"
 fips_code = 37
 postal_code = "NC"
 homepage = "https://www.ncsbe.gov/index.html"
-# registration_info = "https://www.elections.ny.gov/VotingRegister.html"
-absentee_info = "https://s3.amazonaws.com/dl.ncsbe.gov/Outreach/Absentee/Infosheet_howtoabsentee_FINAL.pdf"
+registration_info = "http://www.ncsbe.gov/Voter-Information/VR-Form"
+absentee_info = "https://www.ncsbe.gov/Voting-Options/Absentee-Voting"
+military_overseas_info = "https://www.ncsbe.gov/Voting-Options/Military-Overseas-Voting"
 
 # change_of_address_lead_time = 20 # days
 

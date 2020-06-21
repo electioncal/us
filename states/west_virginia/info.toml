@@ -2,6 +2,9 @@ name = "West Virginia"
 fips_code = 54
 postal_code = "WV"
 homepage = "https://sos.wv.gov/elections/"
+registration_info = "https://ovr.sos.wv.gov/Register/Landing"
+absentee_info = "https://sos.wv.gov/elections/Pages/AbsenteeVotingInformation.aspx"
+military_overseas_info = "https://sos.wv.gov/elections/Pages/UOCAVA.aspx"
 
 [[link]]
 url = "https://sos.wv.gov/FormSearch/Elections/Informational/West%20Virginia%20Election%20Calendar.pdf"

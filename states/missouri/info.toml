@@ -1,3 +1,7 @@
 name = "Missouri"
 fips_code = 29
 postal_code = "MO"
+homepage = "https://s1.sos.mo.gov/elections"
+registration_info = "https://s1.sos.mo.gov/elections/goVoteMissouri/register.aspx"
+absentee_info = "https://www.sos.mo.gov/elections/goVoteMissouri/howtovote#absentee"
+military_overseas_info = "https://www.sos.mo.gov/elections/goVoteMissouri/registeroverseas"

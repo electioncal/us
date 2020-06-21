@@ -1,3 +1,6 @@
 fips_code = 66
 name = "Guam"
 postal_code = "GU"
+homepage = "https://gec.guam.gov/"
+registration_info = "https://gec.guam.gov/index.php/for-voters/for-voters"
+absentee_info = "https://gec.guam.gov/index.php/for-voters/absentee-voting"

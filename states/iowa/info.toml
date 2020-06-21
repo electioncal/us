@@ -1,3 +1,7 @@
 name = "Iowa"
 fips_code = 19
 postal_code = "IA"
+homepage = "https://sos.iowa.gov/elections"
+registration_info = "https://sos.iowa.gov/elections/voterinformation/voterregistration.html"
+absentee_info = "https://sos.iowa.gov/elections/electioninfo/absenteeinfo.html"
+military_overseas_info = "https://sos.iowa.gov/elections/voterinformation/uocava.html"

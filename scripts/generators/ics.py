@@ -1,7 +1,7 @@
+import copy
 import icalendar as ical
 
-
-def generate(dates, output_filename, *, name=None, description=None, uid=None):
+def generate(dates, output_filename, *, name=None, description=None, uid=None, states=None, counties=None):
     c = ical.Calendar()
     c.add("prodid", "-//electioncal.us generator//circuitpython.org//")
     c.add("version", "2.0")
@@ -20,6 +20,14 @@ def generate(dates, output_filename, *, name=None, description=None, uid=None):
 
     last_modified = None
     for date in dates:
+        date = copy.deepcopy(date)
+        name = None
+        if date["state"] and states:
+            name = states[date["state"]]["name"]
+        elif date["county"] and counties:
+            name = counties[date["county"]]["name"]
+        if date["type"] == "election" and name:
+            date["name"] = name + " " + date["name"]
         event = ical.Event()
         event.add("summary", date["name"])
         event.add("dtstart", ical.vDate(date["date"]))

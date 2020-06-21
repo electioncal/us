@@ -1,0 +1,50 @@
+Alabamian
+Alaskan
+Arizonan
+Arkansan
+Californian
+Coloradan
+Connecticuter
+Delawarean
+Floridian
+Georgian
+Hawaii resident
+Hoosier
+Idahoan
+Illinoisan
+Iowan
+Kansan
+Kentuckian
+Louisianian
+Mainer
+Marylander
+Massachusettsan
+Michiganian
+Minnesotan
+Mississippian
+Missourian
+Montanan
+Nebraskan
+Nevadan
+New Hampshirite
+New Jerseyan
+New Mexican
+New Yorker
+North Carolinian
+North Dakotan
+Ohioan
+Oklahoman
+Oregonian
+Pennsylvanian
+Rhode Islander
+South Carolinian
+South Dakotan
+Tennessean
+Texan
+Utahn
+Vermonter
+Virginian
+Washingtonian
+West Virginian
+Wisconsinite
+Wyomingite

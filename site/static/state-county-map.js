@@ -15,37 +15,37 @@ window.createMap = function(language) {
     var toolTip = d3.select("body").append("div")
         .attr("class", "tooltip")
         .style("opacity", 0);
-    
+
     var svg = d3.select('#map').append('svg')
         .attr('class', 'center-container')
         .attr('height', height + margin.top + margin.bottom)
         .attr('width', width + margin.left + margin.right);
-    
+
     svg.append('rect')
         .attr('class', 'background center-container')
         .attr('height', height + margin.top + margin.bottom)
         .attr('width', width + margin.left + margin.right)
         .on('click', zoomClick);
-    
-    
+
+
     Promise.resolve(d3.json('https://cdn.jsdelivr.net/npm/us-atlas@3/counties-10m.json'))
         .then(ready);
-    
+
     var projection = d3.geoAlbersUsa()
         .translate([width /2 , height / 2])
         .scale(width);
 
     var path = d3.geoPath()
         .projection(projection);
-    
+
     var g = svg.append("g")
         .attr('class', 'center-container center-items us-state')
         .attr('transform', 'translate('+margin.left+','+margin.top+')')
         .attr('width', width + margin.left + margin.right)
         .attr('height', height + margin.top + margin.bottom)
-    
+
     function ready(us) {
-    
+
         g.append("g")
             .attr("id", "counties")
             .selectAll("path")
@@ -55,7 +55,7 @@ window.createMap = function(language) {
             .attr("class", "county-boundary")
             .on('mouseover', mouseOver)
             .on("click", countyClick);
-    
+
         g.append("g")
             .attr("id", "states")
             .selectAll("path")
@@ -65,13 +65,13 @@ window.createMap = function(language) {
             .attr("class", "state")
             .on("mouseover", mouseOver)
             .on("click", zoomClick);
-    
-    
+
+
         g.append("path")
             .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
             .attr("id", "state-borders")
             .attr("d", path);
-    
+
     }
 
     function mouseOver() {
@@ -93,18 +93,18 @@ window.createMap = function(language) {
         }
     }
 
-    
+
     function zoomClick(d) {
         if (d3.select('.background').node() === this) return reset();
-    
+
         if (active.node() === this) return reset();
-    
+
         active.classed("active", false);
         active = d3.select(this).classed("active", true);
         if (d.properties.name) {
             currentState = d.properties.name.toLowerCase().replace(" ", "_")
         }
-    
+
         var bounds = path.bounds(d),
             dx = bounds[1][0] - bounds[0][0],
             dy = bounds[1][1] - bounds[0][1],
@@ -112,29 +112,29 @@ window.createMap = function(language) {
             y = (bounds[0][1] + bounds[1][1]) / 2,
             scale = .9 / Math.max(dx / width, dy / height),
             translate = [width / 2 - scale * x, height / 2 - scale * y];
-    
+
         g.transition()
             .duration(400)
             .style("stroke-width", 1.5 / scale + "px")
             .attr("transform", "translate(" + translate + ")scale(" + scale + ")");
     }
-    
+
     function countyClick(d) {
         currentCounty = d.properties.name.toLowerCase().replace(" ", "_");
-        window.location.assign([language,currentState,currentCounty].join('/'));
+        window.location.assign(['',language,currentState,currentCounty].join('/'));
     }
-    
+
     function reset() {
         currentCounty = null;
         currentState = null;
         active.classed("active", false);
         active = d3.select(null);
-    
+
         g.transition()
             .delay(100)
             .duration(750)
             .style("stroke-width", "1.5px")
             .attr('transform', 'translate('+margin.left+','+margin.top+')');
-    
+
     }
 }

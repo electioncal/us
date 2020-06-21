@@ -1,8 +1,10 @@
 {% extends "base.html.jinja" %}
 {% block title %}{{ state.name }}{% endblock %}
 {% block content %}
-    <h1>{{ state.name }} needs your voice.</h1>
-    <p>Select your county below for details.</p>
+    <h3>{{ state.name }}</h3>
+    <h2>{{ reminder.name }} by</h2>
+    <h1>{{ main_date }}</h1>
+    <h2>{{ secondary_date }}</h2>
     <ul id="dates">
     {% for date in dates %}
       <li>{{ date.date }} - {{ date.name }}</li>
@@ -24,15 +26,27 @@
       <li><a href="{{ state.overseas_info }}">Overseas Voting</a></li>
     {% endif %}
     </ul>
-    <ul id="counties">
+    <p>Select your county below for details.</p>
+    <select name="counties" id="counties">
+      <option value="default"> -- Select County </option>
     {% for county in counties %}
-      <li><a href="{{county.lower_name}}/">{{ county.name }}</a></li>
+      <option value="{{county.lower_name}}">{{ county.name }}</option>
     {% endfor %}
-    </ul>
+    </select>
 
     Add all of the dates to your calendar by clicking <a href="webcal://electioncal.us/{{language}}/{{state.lower_name}}/voter.ics">here</a> (
     {% for alternative in alternatives %}<a href="https://electioncal.us/{{language}}/{{state.lower_name}}/voter.{{alternative.extension}}">{{alternative.name}}</a>{% if not loop.last %}, {% endif %}
     {% endfor %}). Get state-wide dates <a href="webcal://electioncal.us/{{language}}/{{state.lower_name}}/all-voter.ics">here</a>(
     {% for alternative in alternatives %}<a href="https://electioncal.us/{{language}}/{{state.lower_name}}/all-voter.{{alternative.extension}}">{{alternative.name}}</a>{% if not loop.last %}, {% endif %}
     {% endfor %}).
+{% endblock %}
+{% block javascript %}
+    function selectCounty(event) {
+      if (event.target.value === "default") {
+        return;
+      }
+      window.location.assign(["/{{language}}/{{ state.lower_name}}", event.target.value].join("/"))
+    }
+    window.document.getElementById('counties').addEventListener('change', selectCounty);
+
 {% endblock %}

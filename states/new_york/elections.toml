@@ -13,18 +13,26 @@ in_person_by = 2020-06-13
 postmarked_by = 2020-05-29
 received_by = 2020-06-03
 
+[20200623.poll]
+in_person_by = 2020-06-23
+
+
+[20200623.poll.early]
+in_person_starts = 2020-06-13
+in_person_by = 2020-06-21
+sources = ["https://www.elections.ny.gov/NYSBOE/news/2020VotingOptionsDeadlinesforJunePrimary.pdf"]
+
 [20200623.absentee]
-# register_url = ""
-# register_url_deadline = 2020-06-15T23:59:59
-# already_registered = true
-register_postmarked_by = 2020-06-16
-register_in_person_by = 2020-06-22
 postmarked_by = 2020-06-22
 in_person_by = 2020-06-23
 received_by = 2020-06-30
 overseas_received_by = 2020-07-06
 sources = ["https://www.elections.ny.gov/NYSBOE/law/June2020SpecElecPolCalendar0429.pdf",
            "https://www.elections.ny.gov/VotingDeadlines.html#AbsenteeDeadlines"]
+
+[20200623.absentee.application]
+postmarked_by = 2020-06-16
+in_person_by = 2020-06-22
 
 [20201103]
 date = 2020-11-03
@@ -41,13 +49,12 @@ received_by = 2020-10-14
 received_by = 2020-10-14
 
 [20201103.absentee]
-# register_url = ""
-# register_url_deadline = 2020-06-15T23:59:59
-# already_registered = true
-register_postmarked_by = 2020-10-27
-register_in_person_by = 2020-11-02
 postmarked_by = 2020-11-02
 in_person_by = 2020-11-03
 received_by = 2020-11-10
 overseas_received_by = 2020-11-16
 sources = ["https://www.elections.ny.gov/VotingDeadlines.html#AbsenteeDeadlines"]
+
+[20201103.absentee.application]
+postmarked_by = 2020-10-27
+in_person_by = 2020-11-02

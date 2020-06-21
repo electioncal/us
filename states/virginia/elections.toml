@@ -8,6 +8,13 @@ date = 2020-06-23
 name = "Congressional Primary"
 original_date = 2020-06-23
 
+[20200623.poll]
+in_person_by = 2020-06-23
+
+[20200623.absentee]
+in_person_by = 2020-06-23
+received_by = 2020-06-23
+
 [20201103]
 date = 2020-11-03
 name = "General"

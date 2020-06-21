@@ -1,3 +1,6 @@
 [submodule "us-atlas"]
 	path = us-atlas
 	url = https://github.com/topojson/us-atlas.git
+[submodule "water.css"]
+	path = water.css
+	url = git@github.com:kognise/water.css.git

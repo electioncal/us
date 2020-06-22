@@ -2,6 +2,7 @@ import copy
 import os
 import tomlkit
 import datetime
+import pendulum
 
 # Below we convert to Python dicts to allow None. We won't write back to TOML
 federal_fn = os.path.join("federal-elections.toml")
@@ -173,14 +174,16 @@ for date in dates:
             reminder = copy.deepcopy(date)
             reminder["type"] = "reminder"
             reminder["deadline_date"] = reminder["date"]
+            friendly_date = pendulum.instance(reminder["date"]).format("MMMM Do")
+            reminder["explanation"] = f"{item.capitalize()} must be postmarked by {friendly_date}."
 
             mail = copy.deepcopy(reminder)
             mail["date"] = reminder["date"] - one_day
-            mail["name"] = f"Mail {item}! It must be postmarked"
+            mail["name"] = f"Mail {item}"
             reminders.append(mail)
 
             post_office = copy.deepcopy(reminder)
-            post_office["name"] = f"Mail {item} at the post office! It must be postmarked" # today
+            post_office["name"] = f"Mail {item} at the post office" # today
             reminders.append(post_office)
         if subtype.endswith("received_by") and date["postmark_too_late"]:
             reminder = copy.deepcopy(date)
@@ -207,6 +210,11 @@ for date in dates:
             if subtype.startswith("poll.early"):
                 vote["name"] = "Vote early in person"
             elif subtype.startswith("poll"):
+                plan = copy.deepcopy(reminder)
+                plan["name"] = "Plan to vote"
+                plan["date"] -= one_day
+                reminders.append(plan)
+
                 vote["name"] = "Vote in person"
                 d = reminder["date"]
                 vote["start_date"] = datetime.datetime(d.year, d.month, d.day)

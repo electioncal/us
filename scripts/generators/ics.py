@@ -20,6 +20,8 @@ def generate(dates, output_filename, *, name=None, description=None, uid=None, s
 
     last_modified = None
     for date in dates:
+        if date["type"] == "reminder":
+            continue
         date = copy.deepcopy(date)
         name = None
         if date["state"] and states:
@@ -28,6 +30,8 @@ def generate(dates, output_filename, *, name=None, description=None, uid=None, s
             name = counties[date["county"]]["name"]
         if date["type"] == "election" and name:
             date["name"] = name + " " + date["name"]
+        if date["type"] == "deadline" and name:
+            date["name"] = date["name"] + " in " + name
         event = ical.Event()
         event.add("summary", date["name"])
         event.add("dtstart", ical.vDate(date["date"]))

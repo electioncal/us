@@ -1,10 +1,6 @@
 {% extends "base.html.jinja" %}
 {% block title %}{{ state.name }}{% endblock %}
 {% block content %}
-    <h3>{{ state.name }}</h3>
-    <h2>{{ reminder.name }} by</h2>
-    <h1>{{ main_date }}</h1>
-    <h2>{{ secondary_date }}</h2>
     <ul id="dates">
     {% for date in dates %}
       <li>{{ date.date }} - {{ date.name }}</li>

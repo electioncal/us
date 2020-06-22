@@ -64,8 +64,6 @@ for state_lower in states:
             )
         html.build(now, county_dates, state_info, dict(county_info), alternatives=alternatives)
 
-    county_list = list(counties.values())
-    county_list.sort(key=lambda x: x["lower_name"])
     os.makedirs(f"site/en/{state_lower}", exist_ok=True)
     state_dates = [d for d in all_state_dates if d["county"] is None]
 
@@ -85,10 +83,7 @@ for state_lower in states:
             counties=counties
         )
 
-    html.build(now, state_dates, state_info, counties=county_list, alternatives=alternatives)
-
-state_list = list(states.values())
-state_list.sort(key=lambda x: x["lower_name"])
+    html.build(now, state_dates, state_info, counties=counties, alternatives=alternatives)
 
 federal_dates = [d for d in election.dates if d["state"] is None]
 for alternative in alternatives:
@@ -106,4 +101,4 @@ for alternative in alternatives:
         name=all_feed_name.format("United States"),
         states=states
     )
-html.build(now, election.dates, states=state_list, alternatives=alternatives)
+html.build(now, election.dates, states=states, alternatives=alternatives)

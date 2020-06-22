@@ -1,6 +1,7 @@
 name = "New York"
 fips_code = 36
 postal_code = "NY"
+demonym = "New Yorker"
 homepage = "https://www.elections.ny.gov/"
 registration_info = "https://www.elections.ny.gov/VotingRegister.html"
 absentee_info = "https://www.elections.ny.gov/VotingAbsentee.html"

@@ -10,8 +10,29 @@
     {% block script_head %}{% endblock %}
 
     {% block style_head %}{% endblock%}
+    {% block twitter %}
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@electioncal_us">
+    <meta name="twitter:creator" content="@tannewt">
+    <meta name="twitter:title" content="{{ reminder.name }} by {{ secondary_date }} {{ secondary_date }}">
+    <meta name="twitter:description" content="{{ reminder_location }} - {{ reminder.explanation }}">
+    <!-- <meta name="twitter:image" content="https://electioncal.us/{{path}}/twitter.png"> -->
+    {% endblock %}
 </head>
 <body>
+
+    <h1>{% block slogan %}Voting reminders for {{ demonym }}s who put things off.{% endblock %}</h1>
+    {% if reminder %}
+    <div id="reminder">
+        {% block reminder %}
+        <h3>{{ reminder_location }}</h3>
+        <h2>{{ reminder.name }} by</h2>
+        <h1>{{ main_date }}</h1>
+        <h2>{{ secondary_date }}</h2>
+        <h3>{{ reminder.explanation }}</h3>
+        {% endblock %}
+    </div>
+    {% endif %}
     <div id="content">{% block content %}{% endblock %}</div>
     <hr/>
     <div id="footer">

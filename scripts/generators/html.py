@@ -86,12 +86,27 @@ def build(
         if diff.in_days() == 0:
             main_date = "Today!"
             secondary_date = reminder_date.format("(MMMM Do)")
-        if diff.in_days() == 1:
+        elif diff.in_days() == 1:
             main_date = "Tomorrowı!"
             secondary_date = reminder_date.format("(MMMM Do)")
         else:
             main_date = reminder_date.format("MMMM Do")
             secondary_date = reminder_date.format("(dddd)")
+        if "composite" in next_reminder:
+            next_reminder["state"] = [r["state"] for r in next_reminder["reminders"]]
+            next_reminder["state"] = sorted(list(set(next_reminder["state"])))
+            next_reminder["name"] = ", ".join((r["name"] for r in next_reminder["reminders"][:-1])) + " or " + next_reminder["reminders"][-1]["name"]
+            next_reminder["explanation"] = " ".join((r["explanation"] for r in next_reminder["reminders"] if "explanation" in r))
+            next_reminder["name"] = next_reminder["name"].lower().capitalize()
+
+    path = f"{language}"
+    if state:
+        state_lower = state["lower_name"]
+        if county:
+            county_lower = county["lower_name"]
+            path = f"{language}/{state_lower}/{county_lower}"
+        else:
+            path = f"{language}/{state_lower}"
 
     data = {
         "alternatives": alternatives,
@@ -100,24 +115,30 @@ def build(
         "reminder": next_reminder,
         "main_date": main_date,
         "secondary_date": secondary_date,
+        "path": path
     }
     template = top_level
-    filenames = []
+    filenames = [f"site/{path}/index.html"]
     if state:
         template = state_index
         data["state"] = state
-        state_lower = state["lower_name"]
+        data["demonym"] = state.get("demonym", "American")
         if county:
             data["county"] = county
+            data["reminder_location"] = county["name"] + ", " + state["name"]
             template = county_index
-            county_lower = county["lower_name"]
-            filenames.append(f"site/{language}/{state_lower}/{county_lower}/index.html")
         else:
-            data["counties"] = counties
-            filenames.append(f"site/{language}/{state_lower}/index.html")
+            county_list = list(counties.values())
+            county_list.sort(key=lambda x: x["lower_name"])
+            data["reminder_location"] = state["name"]
+            data["counties"] = county_list
     else:
-        data["states"] = states
-        filenames.append(f"site/{language}/index.html")
+        state_list = list(states.values())
+        state_list.sort(key=lambda x: x["lower_name"])
+        if next_reminder:
+            data["reminder_location"] = ", ".join((states[s]["name"] for s in next_reminder["state"]))
+        data["states"] = state_list
+        data["demonym"] = "American"
         if language == "en":
             filenames.append(f"site/index.html")
 

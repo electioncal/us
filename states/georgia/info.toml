@@ -6,9 +6,7 @@ registration_info = "https://registertovote.sos.ga.gov/GAOLVR/welcome.do#no-back
 absentee_info = "https://sos.ga.gov/index.php/Elections/absentee_voting_in_georgia"
 military_overseas_info = "https://sos.ga.gov/index.php/elections/military_and_overseas_voting2"
 
-[demonym]
-en = "Georgian"
-
+demonym = "Georgian"
 [[link]]
 description = "2020 Calendar PDF"
 url = "https://sos.ga.gov/admin/files/2020%20Revised%20Short%20Calendar.pdf"

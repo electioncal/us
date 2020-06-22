@@ -4,14 +4,6 @@ PRODID:-//electioncal.us generator//circuitpython.org//
 SOURCE:https://electioncal.us/en/mississippi/warren/voter.ics
 URL:https://electioncal.us/en/mississippi/warren/
 BEGIN:VEVENT
-SUMMARY:Mail ballot! It must be received
-DTSTART;VALUE=DATE:20200614
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mail ballot at the post office! It must be received
-DTSTART;VALUE=DATE:20200615
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots
 DTSTART;VALUE=DATE:20200622
 END:VEVENT
@@ -21,10 +13,6 @@ DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person
-DTSTART;VALUE=DATE:20200623
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vote in person
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT

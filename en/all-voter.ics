@@ -145,10 +145,6 @@ SUMMARY:Puerto Rico Presidential Primary (Republican)
 DTSTART;VALUE=DATE:20200607
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mail absentee application! It must be received
-DTSTART;VALUE=DATE:20200608
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Georgia Presidential Primary
 DTSTART;VALUE=DATE:20200609
 END:VEVENT
@@ -169,108 +165,38 @@ SUMMARY:West Virginia Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200609
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mail absentee application at the post office! It must be received
-DTSTART;VALUE=DATE:20200609
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mail ballot! It must be received
-DTSTART;VALUE=DATE:20200614
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Last day to apply online for a mail-in ballot
+SUMMARY:Last day to apply online for a mail-in ballot in Kentucky
 DTSTART;VALUE=DATE:20200615
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mail ballot at the post office! It must be received
-DTSTART;VALUE=DATE:20200615
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mail absentee application! It must be postmarked
-DTSTART;VALUE=DATE:20200615
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mail ballot! It must be received
-DTSTART;VALUE=DATE:20200615
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mail ballot! It must be received
-DTSTART;VALUE=DATE:20200615
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Last day to postmark absentee applications
+SUMMARY:Last day to postmark absentee applications in New York
 DTSTART;VALUE=DATE:20200616
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mail absentee application at the post office! It must be postmarke
- d
+SUMMARY:Last day for election officials to receive absentee applications i
+ n North Carolina
 DTSTART;VALUE=DATE:20200616
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Last day for election officials to receive absentee applications
+SUMMARY:Last day to hand deliver an absentee applications in North Carolin
+ a
 DTSTART;VALUE=DATE:20200616
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Last day to hand deliver an absentee applications
-DTSTART;VALUE=DATE:20200616
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop off absentee application
-DTSTART;VALUE=DATE:20200616
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mail ballot at the post office! It must be received
-DTSTART;VALUE=DATE:20200616
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mail ballot at the post office! It must be received
-DTSTART;VALUE=DATE:20200616
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mail ballot! It must be received
-DTSTART;VALUE=DATE:20200618
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mail ballot! It must be received
-DTSTART;VALUE=DATE:20200619
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mail ballot at the post office! It must be received
-DTSTART;VALUE=DATE:20200619
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mail ballot at the post office! It must be received
-DTSTART;VALUE=DATE:20200620
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Last day to vote early in person
+SUMMARY:Last day to vote early in person in New York
 DTSTART;VALUE=DATE:20200621
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vote early in person
-DTSTART;VALUE=DATE:20200621
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mail ballot! It must be postmarked
-DTSTART;VALUE=DATE:20200621
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Last day for election officials to receive absentee ballots
+SUMMARY:Last day for election officials to receive absentee ballots in Mis
+ sissippi
 DTSTART;VALUE=DATE:20200622
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Last day to postmark absentee ballots
+SUMMARY:Last day to postmark absentee ballots in New York
 DTSTART;VALUE=DATE:20200622
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Last day to hand deliver an absentee applications
-DTSTART;VALUE=DATE:20200622
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mail ballot at the post office! It must be postmarked
-DTSTART;VALUE=DATE:20200622
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop off absentee application
+SUMMARY:Last day to hand deliver an absentee applications in New York
 DTSTART;VALUE=DATE:20200622
 END:VEVENT
 BEGIN:VEVENT
@@ -298,107 +224,71 @@ SUMMARY:Virginia Congressional Primary
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Last day to postmark absentee ballots
+SUMMARY:Last day to postmark absentee ballots in Kentucky
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Last day to vote in person
+SUMMARY:Last day to vote in person in Kentucky
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vote in person
+SUMMARY:Last day to vote in person in Mississippi
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Last day to vote in person
+SUMMARY:Last day to drop off an absentee ballot in New York
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vote in person
+SUMMARY:Last day to vote in person in New York
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Last day to drop off an absentee ballot
+SUMMARY:Last day to drop off an absentee ballot in North Carolina
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Last day to vote in person
+SUMMARY:Last day to postmark absentee ballots in North Carolina
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Drop off ballot
+SUMMARY:Last day to vote in person in North Carolina
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vote in person
+SUMMARY:Last day for election officials to receive absentee ballots in Sou
+ th Carolina
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Last day to drop off an absentee ballot
+SUMMARY:Last day to drop off an absentee ballot in South Carolina
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Last day to postmark absentee ballots
+SUMMARY:Last day to vote in person in South Carolina
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Last day to vote in person
+SUMMARY:Last day for election officials to receive absentee ballots in Vir
+ ginia
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Drop off ballot
+SUMMARY:Last day to drop off an absentee ballot in Virginia
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vote in person
+SUMMARY:Last day to vote in person in Virginia
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Last day for election officials to receive absentee ballots
-DTSTART;VALUE=DATE:20200623
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Last day to drop off an absentee ballot
-DTSTART;VALUE=DATE:20200623
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Last day to vote in person
-DTSTART;VALUE=DATE:20200623
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop off ballot
-DTSTART;VALUE=DATE:20200623
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vote in person
-DTSTART;VALUE=DATE:20200623
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Last day for election officials to receive absentee ballots
-DTSTART;VALUE=DATE:20200623
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Last day to drop off an absentee ballot
-DTSTART;VALUE=DATE:20200623
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Last day to vote in person
-DTSTART;VALUE=DATE:20200623
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop off ballot
-DTSTART;VALUE=DATE:20200623
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vote in person
-DTSTART;VALUE=DATE:20200623
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Last day for election officials to receive absentee ballots
+SUMMARY:Last day for election officials to receive absentee ballots in Nor
+ th Carolina
 DTSTART;VALUE=DATE:20200626
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Last day for election officials to receive absentee ballots
+SUMMARY:Last day for election officials to receive absentee ballots in Ken
+ tucky
 DTSTART;VALUE=DATE:20200627
 END:VEVENT
 BEGIN:VEVENT
@@ -414,7 +304,8 @@ SUMMARY:Utah Congressional Primary
 DTSTART;VALUE=DATE:20200630
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Last day for election officials to receive absentee ballots
+SUMMARY:Last day for election officials to receive absentee ballots in New
+  York
 DTSTART;VALUE=DATE:20200630
 END:VEVENT
 BEGIN:VEVENT
@@ -538,76 +429,33 @@ SUMMARY:Delaware Congressional Primary
 DTSTART;VALUE=DATE:20200915
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mail absentee application! It must be received
-DTSTART;VALUE=DATE:20201019
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mail absentee application at the post office! It must be received
-DTSTART;VALUE=DATE:20201020
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mail absentee application! It must be postmarked
-DTSTART;VALUE=DATE:20201026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Last day to postmark absentee applications
+SUMMARY:Last day to postmark absentee applications in New York
 DTSTART;VALUE=DATE:20201027
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mail absentee application at the post office! It must be postmarke
- d
+SUMMARY:Last day to drop off an absentee ballot in North Carolina
 DTSTART;VALUE=DATE:20201027
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Last day to drop off an absentee ballot
+SUMMARY:Last day for election officials to receive absentee applications i
+ n North Carolina
 DTSTART;VALUE=DATE:20201027
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Last day for election officials to receive absentee applications
+SUMMARY:Last day to hand deliver an absentee applications in North Carolin
+ a
 DTSTART;VALUE=DATE:20201027
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Last day to hand deliver an absentee applications
-DTSTART;VALUE=DATE:20201027
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop off ballot
-DTSTART;VALUE=DATE:20201027
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop off absentee application
-DTSTART;VALUE=DATE:20201027
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mail ballot! It must be received
-DTSTART;VALUE=DATE:20201029
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mail ballot at the post office! It must be received
+SUMMARY:Last day to apply online for a mail-in ballot in South Carolina
 DTSTART;VALUE=DATE:20201030
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Last day to apply online for a mail-in ballot
-DTSTART;VALUE=DATE:20201030
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mail ballot! It must be postmarked
-DTSTART;VALUE=DATE:20201101
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Last day to postmark absentee ballots
+SUMMARY:Last day to postmark absentee ballots in New York
 DTSTART;VALUE=DATE:20201102
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Last day to hand deliver an absentee applications
-DTSTART;VALUE=DATE:20201102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mail ballot at the post office! It must be postmarked
-DTSTART;VALUE=DATE:20201102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop off absentee application
+SUMMARY:Last day to hand deliver an absentee applications in New York
 DTSTART;VALUE=DATE:20201102
 END:VEVENT
 BEGIN:VEVENT
@@ -615,31 +463,25 @@ SUMMARY:General (Presidential) Election
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Last day to drop off an absentee ballot
+SUMMARY:Last day to drop off an absentee ballot in New York
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Drop off ballot
+SUMMARY:Last day to postmark absentee ballots in North Carolina
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Last day to postmark absentee ballots
+SUMMARY:Last day to vote in person in South Carolina
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Last day to vote in person
-DTSTART;VALUE=DATE:20201103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vote in person
-DTSTART;VALUE=DATE:20201103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Last day for election officials to receive absentee ballots
+SUMMARY:Last day for election officials to receive absentee ballots in Nor
+ th Carolina
 DTSTART;VALUE=DATE:20201106
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Last day for election officials to receive absentee ballots
+SUMMARY:Last day for election officials to receive absentee ballots in New
+  York
 DTSTART;VALUE=DATE:20201110
 END:VEVENT
 BEGIN:VEVENT

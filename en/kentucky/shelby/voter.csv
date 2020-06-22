@@ -2,6 +2,7 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-06-15 23:59:59,,kentucky/20200623,deadline,absentee.application.online_by,Last day to apply online for a mail-in ballot,,kentucky,,
 2020-06-19 23:59:59,,kentucky/20200623,reminder,absentee.received_by,Mail ballot! It must be received,,kentucky,,True
 2020-06-20 23:59:59,,kentucky/20200623,reminder,absentee.received_by,Mail ballot at the post office! It must be received,,kentucky,,True
+2020-06-22 23:59:59,,kentucky/20200623,reminder,poll.in_person_by,Plan to vote,,kentucky,,
 2020-06-23 00:00:00,kentucky/20200623,,election,,Presidential Primary,2020-06-23 00:00:00,kentucky,,
 2020-06-23 23:59:59,,kentucky/20200623,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,kentucky,,True
 2020-06-23 23:59:59,,kentucky/20200623,deadline,poll.in_person_by,Last day to vote in person,,kentucky,,

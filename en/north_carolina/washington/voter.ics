@@ -8,32 +8,12 @@ SUMMARY:Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200303
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mail absentee application! It must be received
-DTSTART;VALUE=DATE:20200608
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mail absentee application at the post office! It must be received
-DTSTART;VALUE=DATE:20200609
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee applications
 DTSTART;VALUE=DATE:20200616
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to hand deliver an absentee applications
 DTSTART;VALUE=DATE:20200616
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop off absentee application
-DTSTART;VALUE=DATE:20200616
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mail ballot! It must be received
-DTSTART;VALUE=DATE:20200618
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mail ballot at the post office! It must be received
-DTSTART;VALUE=DATE:20200619
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Congressional Primary Run-Off
@@ -52,24 +32,8 @@ SUMMARY:Last day to vote in person
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Drop off ballot
-DTSTART;VALUE=DATE:20200623
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vote in person
-DTSTART;VALUE=DATE:20200623
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots
 DTSTART;VALUE=DATE:20200626
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mail absentee application! It must be received
-DTSTART;VALUE=DATE:20201019
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mail absentee application at the post office! It must be received
-DTSTART;VALUE=DATE:20201020
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to drop off an absentee ballot
@@ -82,22 +46,6 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to hand deliver an absentee applications
 DTSTART;VALUE=DATE:20201027
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop off ballot
-DTSTART;VALUE=DATE:20201027
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop off absentee application
-DTSTART;VALUE=DATE:20201027
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mail ballot! It must be received
-DTSTART;VALUE=DATE:20201029
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mail ballot at the post office! It must be received
-DTSTART;VALUE=DATE:20201030
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:General (Presidential) Election

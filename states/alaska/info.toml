@@ -5,6 +5,7 @@ homepage = "http://www.elections.alaska.gov/"
 registration_info = "https://voterregistration.alaska.gov/"
 absentee_info = "http://www.elections.alaska.gov/Core/AKVoteEarly.php"
 military_overseas_info = "http://www.elections.alaska.gov/Core/MOSCselection.php"
+demonym = "Alaskan"
 
 [registration] 
 postmarked_by_lead_time = 30 #days

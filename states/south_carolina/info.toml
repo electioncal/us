@@ -5,6 +5,7 @@ homepage = "https://www.scvotes.org"
 registration_info = "https://info.scvotes.sc.gov/eng/ovr/start.aspx"
 absentee_info = "https://www.scvotes.org/absentee-voting"
 military_overseas_info = "https://www.scvotes.org/military-overseas-citizens"
+demonym = "South Carolinian"
 
 [[link]]
 description = "2020 Calendar PDF"

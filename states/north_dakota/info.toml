@@ -5,3 +5,4 @@ homepage = "http://vote.nd.gov/"
 registration_info = "https://vip.sos.nd.gov/pdfs/Portals/votereg.pdf" # North Dakota requires no voter registration
 absentee_info = "https://vip.sos.nd.gov/absentee/Default.aspx"
 military_overseas_info = "https://vip.sos.nd.gov/PortalListDetails.aspx?ptlhPKID=51&ptlPKID=7#content-start"
+demonym = "North Dakotan"

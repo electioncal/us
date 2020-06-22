@@ -6,3 +6,4 @@ registration_info = "http://sdsos.gov/elections-voting/voting/register-to-vote/d
 absentee_info = "https://sdsos.gov/elections-voting/voting/absentee-voting.aspx"
 military_info = "https://sdsos.gov/elections-voting/voting/military-members.aspx"
 overseas_info = "https://sdsos.gov/elections-voting/voting/overseas-citizen-voter.aspx"
+demonym = "South Dakotan"

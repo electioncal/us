@@ -25,7 +25,7 @@ def build(
     counties=None,
 ):
 
-    upcoming_dates = [d for d in dates if d["date"] > now]
+    upcoming_dates = [d for d in dates if d["date"].date() >= now.date()]
 
     # Determine the next two elections.
     this_election = None
@@ -48,7 +48,7 @@ def build(
             if d != this_election and d != next_election:
                 continue
         elif d["type"] == "deadline":
-            if d["date"] > this_election["date"]:
+            if d["date"].date() > this_election["date"].date():
                 continue
         elif d["type"] == "reminder":
             if "start_date" in d and now < d["start_date"]:
@@ -86,8 +86,8 @@ def build(
         if diff.in_days() == 0:
             main_date = "Today!"
             secondary_date = reminder_date.format("(MMMM Do)")
-        elif diff.in_days() == 1:
-            main_date = "Tomorrowı!"
+        elif diff.in_days() == -1:
+            main_date = "Tomorrow!"
             secondary_date = reminder_date.format("(MMMM Do)")
         else:
             main_date = reminder_date.format("MMMM Do")
@@ -95,8 +95,12 @@ def build(
         if "composite" in next_reminder:
             next_reminder["state"] = [r["state"] for r in next_reminder["reminders"]]
             next_reminder["state"] = sorted(list(set(next_reminder["state"])))
-            next_reminder["name"] = ", ".join((r["name"] for r in next_reminder["reminders"][:-1])) + " or " + next_reminder["reminders"][-1]["name"]
-            next_reminder["explanation"] = " ".join((r["explanation"] for r in next_reminder["reminders"] if "explanation" in r))
+            actions = list(set((r["name"] for r in next_reminder["reminders"])))
+            if len(next_reminder["state"]) > 1 and len(actions) > 1:
+                next_reminder["name"] = "Check electioncal.us for deadlines"
+            else:
+                next_reminder["name"] = ", ".join(actions[:-1]) + " or " + actions[-1]
+                next_reminder["explanation"] = " ".join((r["explanation"] for r in next_reminder["reminders"] if "explanation" in r))
             next_reminder["name"] = next_reminder["name"].lower().capitalize()
 
     path = f"{language}"
@@ -136,7 +140,10 @@ def build(
         state_list = list(states.values())
         state_list.sort(key=lambda x: x["lower_name"])
         if next_reminder:
-            data["reminder_location"] = ", ".join((states[s]["name"] for s in next_reminder["state"]))
+            if isinstance(next_reminder["state"], list):
+                data["reminder_location"] = ", ".join((states[s]["name"] for s in next_reminder["state"]))
+            else:
+                data["reminder_location"] = states[next_reminder["state"]]["name"]
         data["states"] = state_list
         data["demonym"] = "American"
         if language == "en":

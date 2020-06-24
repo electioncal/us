@@ -3,6 +3,9 @@ import os
 from pathlib import Path
 import tomlkit
 import copy
+import sys
+import mistune
+import jinja2
 
 from generators import csv, ics, json, html
 
@@ -21,7 +24,23 @@ alternatives = [
 specific_feed_name = "{} Election Dates by electioncal.us"
 all_feed_name = "All Election Dates in {} by electioncal.us"
 
-now = datetime.datetime.now()
+# Subtract by 7 hours so that days roll over with the Pacific timezone
+now = datetime.datetime.utcnow() - datetime.timedelta(hours=7)
+print("Now:", now)
+
+
+env = jinja2.Environment(loader=jinja2.FileSystemLoader("templates"))
+doc_template = env.get_template("doc.html.jinja")
+docsdir = Path("docs/")
+
+for doc in docsdir.glob("*/*.md"):
+    d = os.path.join("site", doc.parent.name, "docs")
+    os.makedirs(d, exist_ok=True)
+    filename = os.path.join(d, doc.name.replace(".md", ".html"))
+    data = {
+        "doc": mistune.html(doc.read_text())
+    }
+    doc_template.stream(data).dump(filename)
 
 # Load per-state data. fn for filename which is also the lower cased version of the state or county.
 dbdir = Path("states/")

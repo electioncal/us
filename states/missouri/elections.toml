@@ -3,7 +3,29 @@ date = 2020-08-04
 name = "Congressional Primary"
 original_date = 2020-08-04
 
+[20200804.registration]
+online_by = 2020-07-08
+in_person_by = 2020-07-08
+postmarked_by = 2020-07-08
+
+# Missouri has both "absentee" and "mail-in". This is "mail-in" because it is available
+# to all registered voters.
+[20200804.absentee]
+received_by = 2020-08-04T19:00:00
+requires = ["notarization"]
+source = ["https://www.sos.mo.gov/CMSImages/ElectionGoVoteMissouri/Absentee-MailinBallotSummaries.pdf"]
+
+[20200804.absentee.application]
+received_by = 2020-07-22T17:00:00
+form = "https://www.sos.mo.gov/CMSImages/ElectionGoVoteMissouri//2020FillableBallotApplication.pdf"
+source = ["https://www.sos.mo.gov/CMSImages/ElectionGoVoteMissouri/Absentee-MailinBallotSummaries.pdf"]
+
 [20201103]
 date = 2020-11-03
 name = "General"
 original_date = 2020-11-03
+
+[20201103.registration]
+online_by = 2020-10-07
+in_person_by = 2020-10-07
+postmarked_by = 2020-10-07

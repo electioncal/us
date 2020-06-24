@@ -1,8 +1,22 @@
 name = "Missouri"
 fips_code = 29
 postal_code = "MO"
-homepage = "https://s1.sos.mo.gov/elections"
+homepage = "https://www.sos.mo.gov/elections/"
 registration_info = "https://s1.sos.mo.gov/elections/goVoteMissouri/register.aspx"
 absentee_info = "https://www.sos.mo.gov/elections/goVoteMissouri/howtovote#absentee"
 military_overseas_info = "https://www.sos.mo.gov/elections/goVoteMissouri/registeroverseas"
 demonym = "Missourian"
+elections_twitter = "MissouriSOS"
+
+check_registration_url = "https://s1.sos.mo.gov/elections/voterlookup"
+registration_url = "https://s1.sos.mo.gov/elections/voterregistration/"
+registration_print_url = "https://s1.sos.mo.gov/Elections/VoterRegistration/Home/Print"
+registration_request_form_url = "https://s1.sos.mo.gov/elections/goVoteMissouri/request"
+
+[[link]]
+url = "https://www.sos.mo.gov/elections/calendar/2020cal"
+description = "2020 Calendar"
+
+[[link]]
+url = "https://www.sos.mo.gov/elections/calendar/2021cal"
+description = "2021 Calendar"

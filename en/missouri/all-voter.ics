@@ -5,7 +5,15 @@ NAME:All Election Dates in Missouri by electioncal.us
 SOURCE:https://electioncal.us/en/missouri/all-voter.ics
 URL:https://electioncal.us/en/missouri/
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee applications
+DTSTART;VALUE=DATE:20200722
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Congressional Primary
+DTSTART;VALUE=DATE:20200804
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots
 DTSTART;VALUE=DATE:20200804
 END:VEVENT
 BEGIN:VEVENT

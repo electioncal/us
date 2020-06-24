@@ -115,12 +115,18 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-07-14 00:00:00,alabama/20200714,,election,,Alabama Congressional Primary Run-Off (if needed),2020-07-14 00:00:00,alabama,,
 2020-07-14 00:00:00,maine/20200714,,election,,Maine Congressional Primary,2020-07-14 00:00:00,maine,,
 2020-07-14 00:00:00,texas/20200714,,election,,Texas Congressional Primary Run-Off (if needed),2020-07-14 00:00:00,texas,,
+2020-07-14 23:59:59,,missouri/20200804,reminder,absentee.application.received_by,Mail absentee application! It must be received,,missouri,,True
+2020-07-15 23:59:59,,missouri/20200804,reminder,absentee.application.received_by,Mail absentee application at the post office! It must be received,,missouri,,True
+2020-07-22 23:59:59,,missouri/20200804,deadline,absentee.application.received_by,Last day for election officials to receive absentee applications,,missouri,,True
+2020-07-27 23:59:59,,missouri/20200804,reminder,absentee.received_by,Mail ballot! It must be received,,missouri,,True
+2020-07-28 23:59:59,,missouri/20200804,reminder,absentee.received_by,Mail ballot at the post office! It must be received,,missouri,,True
 2020-08-01 00:00:00,u.s._virgin_islands/20200801,,election,,U.S. Virgin Islands Congressional Primary,2020-08-01 00:00:00,u.s._virgin_islands,,
 2020-08-04 00:00:00,arizona/20200804,,election,,Arizona Congressional Primary,2020-08-04 00:00:00,arizona,,
 2020-08-04 00:00:00,kansas/20200804,,election,,Kansas Congressional Primary,2020-08-04 00:00:00,kansas,,
 2020-08-04 00:00:00,michigan/20200804,,election,,Michigan Congressional Primary,2020-08-04 00:00:00,michigan,,
 2020-08-04 00:00:00,missouri/20200804,,election,,Missouri Congressional Primary,2020-08-04 00:00:00,missouri,,
 2020-08-04 00:00:00,washington/20200804,,election,,Washington Congressional Primary,2020-08-04 00:00:00,washington,,
+2020-08-04 23:59:59,,missouri/20200804,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,missouri,,True
 2020-08-06 00:00:00,tennessee/20200806,,election,,Tennessee Congressional Primary,2020-08-06 00:00:00,tennessee,,
 2020-08-08 00:00:00,hawaii/20200808,,election,,Hawaii Congressional Primary,2020-08-08 00:00:00,hawaii,,
 2020-08-11 00:00:00,connecticut/20200811,,election,,Connecticut Presidential Primary,2020-08-11 00:00:00,connecticut,,

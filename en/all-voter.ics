@@ -337,6 +337,11 @@ SUMMARY:Texas Congressional Primary Run-Off (if needed)
 DTSTART;VALUE=DATE:20200714
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee applications i
+ n Missouri
+DTSTART;VALUE=DATE:20200722
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:U.S. Virgin Islands Congressional Primary
 DTSTART;VALUE=DATE:20200801
 END:VEVENT
@@ -358,6 +363,11 @@ DTSTART;VALUE=DATE:20200804
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Washington Congressional Primary
+DTSTART;VALUE=DATE:20200804
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Mis
+ souri
 DTSTART;VALUE=DATE:20200804
 END:VEVENT
 BEGIN:VEVENT

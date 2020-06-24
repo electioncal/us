@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    
+    <title>Docs - electioncal.us</title>
+    
+    <link href="/static/theme.css" rel="stylesheet" type="text/css">
+    
+
+    
+    
+
+</head>
+<body>
+
+    
+
+    
+
+    <div id="content">
+    <h1>ElectionCal.US</h1>
+<p>Election <strong>Cal</strong>endar's goal is to get more people voting by making deadlines easily accessible and sharable. This has two main parts, first is collecting election dates and deadlines. This data is stored in hand-editable TOML files. These files are loaded by <code>build_site.py</code> and transformed into three types of dates, election dates, election deadlines and reminders.</p>
+<p>The second piece to the puzzle is creating a variety of machine and human readable forms of the dates and reminders. Different generators produce different output formats. <code>build_site.py</code> will also manage splitting dates by state and county. Aggregate outputs are also done for federal and state levels to include subdivision specific dates, such as a county deadline in the aggregate state feed.</p>
+<h2>TOML format</h2>
+<p>There are three main types of TOML files.</p>
+<ul>
+<li><code>info.toml</code> files are meant to hold election agnostic data about the state or county. This data can be helpful when normalizing across data sources and also when presenting info about the state.</li>
+<li><code>elections.toml</code> files are meant to hold data for specific election dates. elections dates are keyed by their narrowest scope. So, the federal general election is just a date because it is in the top level <code>elections.toml</code>. Individual states and counties can still have unique deadlines for the federal election date. The election date key is the original date of the election and therefore stays the same if the date changes.</li>
+<li><code>elections_raw.toml</code> is a dump of election related data and resources based on scraping. It shouldn't be hand edited but could be a starting point for adding data to the other two files.</li>
+</ul>
+<h3><code>elections.toml</code></h3>
+<p>Here is an example of election deadlines from the June 23rd New York election:</p>
+<pre><code class="language-toml">[20200623]
+date = 2020-06-23
+name = &quot;Congressional Primary&quot;
+original_date = 2020-06-23
+
+[20200623.registration]
+in_person_by = 2020-06-13
+postmarked_by = 2020-05-29
+received_by = 2020-06-03
+
+[20200623.poll]
+in_person_by = 2020-06-23
+
+[20200623.poll.early]
+in_person_starts = 2020-06-13
+in_person_by = 2020-06-21
+sources = [&quot;https://www.elections.ny.gov/NYSBOE/news/2020VotingOptionsDeadlinesforJunePrimary.pdf&quot;]
+
+[20200623.absentee]
+postmarked_by = 2020-06-22
+in_person_by = 2020-06-23
+received_by = 2020-06-30
+overseas_received_by = 2020-07-06
+sources = [&quot;https://www.elections.ny.gov/NYSBOE/law/June2020SpecElecPolCalendar0429.pdf&quot;,
+           &quot;https://www.elections.ny.gov/VotingDeadlines.html#AbsenteeDeadlines&quot;]
+
+[20200623.absentee.application]
+postmarked_by = 2020-06-16
+in_person_by = 2020-06-22
+</code></pre>
+<p>The <code>[]</code> portions are <code>.</code> separated keys known as &quot;tables&quot; in TOML. <a href="https://github.com/toml-lang/toml/blob/master/toml.md">Here</a> is a good toml reference.</p>
+<p>The date in the <code>[]</code> is the original election date, aka the election key. After the <code>.</code> is an id for different phases (or actions maybe) of the election. They are:</p>
+<ul>
+<li><code>registration</code> - Registering to vote in the election. It doesn't impact <em>how</em> one would be able to vote.</li>
+<li><code>poll</code> - Voting in-person on election day. This will be omitted for mail-in only states like Washington.</li>
+<li><code>poll.early</code> - Voting in-person prior to election day.</li>
+<li><code>absentee</code> - Voting by mail.</li>
+<li><code>absentee.application</code> - This is applying for an absentee ballot after registration but before the election. It doesn't include in-person absentee.</li>
+</ul>
+<p>(We should make <code>absentee.overseas</code> instead of <code>overseas_received_by</code>.)</p>
+<p>Each of these phases can be accomplished in a variety of ways. Though not all phases can happen in all ways. (<code>poll.*</code> is only ever in person.)</p>
+<ul>
+<li><code>in_person_start</code>/<code>in_person_by</code> These are the dates one can accomplish the task (or phase) by going to a physical location to vote or drop off the ballot or application.</li>
+<li><code>postmarked_by</code> This is the last date an application or ballot can be postmarked to be valid. It'll trigger reminders to mail the day before and drop off at the post office on the day-of. It may be ignored if the <code>received_by</code> date is too close.</li>
+<li><code>received_by</code> This is the last date an application or ballot can be received by the appropriate election official through the mail. We bake in a 1 week USPS transit time into reminders. (For absentee applications is really should be ~4 weeks. One for the application mailing, one for processing, one for absentee ballot to the voter and one from the voter.)</li>
+</ul>
+<p><code>sources</code> isn't currently used be may be used in descriptions to demonstrate validity of the dates.</p>
+
+</div>
+    <hr/>
+    <div id="footer">
+        
+        This site and data is community maintained. Please read our <a href="//docs/">docs</a> and help us on <a href="https://github.com/electioncal/us">GitHub</a>. Also, hosted on GitHub.
+        <hr/>
+        <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+        
+    </div>
+    <script type="text/javascript"></script>
+</body>
+</html>

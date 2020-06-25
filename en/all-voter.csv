@@ -41,7 +41,9 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-06-09 00:00:00,south_carolina/20200609,,election,,South Carolina Congressional Primary,2020-06-09 00:00:00,south_carolina,,
 2020-06-09 00:00:00,west_virginia/20200609,,election,,West Virginia Congressional & Presidential Primary,2020-06-09 00:00:00,west_virginia,,
 2020-06-09 23:59:59,,north_carolina/20200512,reminder,absentee.application.received_by,Mail absentee application at the post office! It must be received,,north_carolina,,True
+2020-06-14 23:59:59,,colorado/20200630,reminder,absentee.application.received_by,Mail absentee application! It must be received,,colorado,,True
 2020-06-14 23:59:59,,mississippi/20200623,reminder,absentee.received_by,Mail ballot! It must be received,,mississippi,,True
+2020-06-15 23:59:59,,colorado/20200630,reminder,absentee.application.received_by,Mail absentee application at the post office! It must be received,,colorado,,True
 2020-06-15 23:59:59,,kentucky/20200623,deadline,absentee.application.online_by,Last day to apply online for a mail-in ballot,,kentucky,,
 2020-06-15 23:59:59,,mississippi/20200623,reminder,absentee.received_by,Mail ballot at the post office! It must be received,,mississippi,,True
 2020-06-15 23:59:59,,new_york/20200623,reminder,absentee.application.postmarked_by,Mail absentee application,,new_york,,False
@@ -61,6 +63,7 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-06-21 23:59:59,,new_york/20200623,deadline,poll.early.in_person_by,Last day to vote early in person,,new_york,,
 2020-06-21 23:59:59,,new_york/20200623,reminder,poll.early.in_person_by,Vote early in person,,new_york,,
 2020-06-21 23:59:59,,new_york/20200623,reminder,absentee.postmarked_by,Mail ballot,,new_york,,False
+2020-06-22 23:59:59,,colorado/20200630,deadline,absentee.application.received_by,Last day for election officials to receive absentee applications,,colorado,,True
 2020-06-22 23:59:59,,kentucky/20200623,reminder,poll.in_person_by,Plan to vote,,kentucky,,
 2020-06-22 23:59:59,,mississippi/20200623,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,mississippi,,True
 2020-06-22 23:59:59,,mississippi/20200623,reminder,poll.in_person_by,Plan to vote,,mississippi,,
@@ -104,12 +107,18 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-06-23 23:59:59,,virginia/20200623,reminder,poll.in_person_by,Vote in person,,virginia,,
 2020-06-26 23:59:59,,north_carolina/20200512,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,north_carolina,,True
 2020-06-27 23:59:59,,kentucky/20200623,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,kentucky,,True
+2020-06-29 23:59:59,,colorado/20200630,reminder,poll.in_person_by,Plan to vote,,colorado,,
 2020-06-30 00:00:00,colorado/20200630,,election,,Colorado Congressional Primary,2020-06-30 00:00:00,colorado,,
 2020-06-30 00:00:00,oklahoma/20200630,,election,,Oklahoma Congressional Primary,2020-06-30 00:00:00,oklahoma,,
 2020-06-30 00:00:00,utah/20200630,,election,,Utah Congressional Primary,2020-06-30 00:00:00,utah,,
+2020-06-30 23:59:59,,colorado/20200630,deadline,poll.in_person_by,Last day to vote in person,,colorado,,
+2020-06-30 23:59:59,,colorado/20200630,reminder,poll.in_person_by,Vote in person,,colorado,,
+2020-06-30 23:59:59,,colorado/20200630,reminder,poll.overseas_military.received_by,Mail ballot! It must be received,,colorado,,True
 2020-06-30 23:59:59,,new_york/20200623,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,new_york,,False
+2020-07-01 23:59:59,,colorado/20200630,reminder,poll.overseas_military.received_by,Mail ballot at the post office! It must be received,,colorado,,True
 2020-07-07 00:00:00,delaware/20200707,,election,,Delaware Presidential Primary,2020-07-07 00:00:00,delaware,,
 2020-07-07 00:00:00,new_jersey/20200707,,election,,New Jersey Congressional & Presidential Primary,2020-07-07 00:00:00,new_jersey,,
+2020-07-08 23:59:59,,colorado/20200630,deadline,poll.overseas_military.received_by,Last day for election officials to receive military and overseas ballots,,colorado,,True
 2020-07-11 00:00:00,louisiana/20200711,,election,,Louisiana Presidential Primary,2020-07-11 00:00:00,louisiana,,
 2020-07-12 00:00:00,puerto_rico/20200712,,election,,Puerto Rico Presidential Primary (Democrat),2020-07-12 00:00:00,puerto_rico,,
 2020-07-14 00:00:00,alabama/20200714,,election,,Alabama Congressional Primary Run-Off (if needed),2020-07-14 00:00:00,alabama,,
@@ -144,8 +153,11 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-09-08 00:00:00,new_hampshire/20200908,,election,,New Hampshire Congressional Primary,2020-09-08 00:00:00,new_hampshire,,
 2020-09-08 00:00:00,rhode_island/20200908,,election,,Rhode Island Congressional Primary,2020-09-08 00:00:00,rhode_island,,
 2020-09-15 00:00:00,delaware/20200915,,election,,Delaware Congressional Primary,2020-09-15 00:00:00,delaware,,
+2020-10-18 23:59:59,,20201103,reminder,absentee.application.received_by,Mail absentee application! It must be received,,colorado,,True
+2020-10-19 23:59:59,,20201103,reminder,absentee.application.received_by,Mail absentee application at the post office! It must be received,,colorado,,True
 2020-10-19 23:59:59,,20201103,reminder,absentee.application.received_by,Mail absentee application! It must be received,,north_carolina,,True
 2020-10-20 23:59:59,,20201103,reminder,absentee.application.received_by,Mail absentee application at the post office! It must be received,,north_carolina,,True
+2020-10-26 23:59:59,,20201103,deadline,absentee.application.received_by,Last day for election officials to receive absentee applications,,colorado,,True
 2020-10-26 23:59:59,,20201103,reminder,absentee.application.postmarked_by,Mail absentee application,,new_york,,False
 2020-10-27 23:59:59,,20201103,deadline,absentee.application.postmarked_by,Last day to postmark absentee applications,,new_york,,False
 2020-10-27 23:59:59,,20201103,reminder,absentee.application.postmarked_by,Mail absentee application at the post office,,new_york,,False
@@ -158,18 +170,24 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-10-30 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office! It must be received,,north_carolina,,True
 2020-10-30 23:59:59,,20201103,deadline,absentee.application.online_by,Last day to apply online for a mail-in ballot,,south_carolina,,
 2020-11-01 23:59:59,,20201103,reminder,absentee.postmarked_by,Mail ballot,,new_york,,False
+2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,colorado,,
 2020-11-02 23:59:59,,20201103,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,new_york,,False
 2020-11-02 23:59:59,,20201103,deadline,absentee.application.in_person_by,Last day to hand deliver an absentee applications,,new_york,,
 2020-11-02 23:59:59,,20201103,reminder,absentee.postmarked_by,Mail ballot at the post office,,new_york,,False
 2020-11-02 23:59:59,,20201103,reminder,absentee.application.in_person_by,Drop off absentee application,,new_york,,
 2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,south_carolina,,
 2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,,,
+2020-11-03 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,colorado,,
+2020-11-03 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,colorado,,
 2020-11-03 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,new_york,,
 2020-11-03 23:59:59,,20201103,reminder,absentee.in_person_by,Drop off ballot,,new_york,,
 2020-11-03 23:59:59,,20201103,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,north_carolina,,True
 2020-11-03 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,south_carolina,,
 2020-11-03 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,south_carolina,,
+2020-11-04 23:59:59,,20201103,reminder,poll.overseas_military.received_by,Mail ballot! It must be received,,colorado,,True
+2020-11-05 23:59:59,,20201103,reminder,poll.overseas_military.received_by,Mail ballot at the post office! It must be received,,colorado,,True
 2020-11-06 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,north_carolina,,True
 2020-11-10 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,new_york,,False
+2020-11-12 23:59:59,,20201103,deadline,poll.overseas_military.received_by,Last day for election officials to receive military and overseas ballots,,colorado,,True
 2020-12-05 00:00:00,louisiana/20201205,,election,,Louisiana General Run-Off (if needed),2020-12-05 00:00:00,louisiana,,
 2021-01-05 00:00:00,georgia/20210105,,election,,Georgia General Run-Off (if needed),2021-01-05 00:00:00,georgia,,

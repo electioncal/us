@@ -187,6 +187,11 @@ SUMMARY:Last day to vote early in person in New York
 DTSTART;VALUE=DATE:20200621
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee applications i
+ n Colorado
+DTSTART;VALUE=DATE:20200622
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in Mis
  sissippi
 DTSTART;VALUE=DATE:20200622
@@ -304,6 +309,10 @@ SUMMARY:Utah Congressional Primary
 DTSTART;VALUE=DATE:20200630
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Colorado
+DTSTART;VALUE=DATE:20200630
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in New
   York
 DTSTART;VALUE=DATE:20200630
@@ -315,6 +324,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New Jersey Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200707
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive military and overseas b
+ allots in Colorado
+DTSTART;VALUE=DATE:20200708
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Louisiana Presidential Primary
@@ -439,6 +453,11 @@ SUMMARY:Delaware Congressional Primary
 DTSTART;VALUE=DATE:20200915
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee applications i
+ n Colorado
+DTSTART;VALUE=DATE:20201026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to postmark absentee applications in New York
 DTSTART;VALUE=DATE:20201027
 END:VEVENT
@@ -473,6 +492,10 @@ SUMMARY:General (Presidential) Election
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Colorado
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to drop off an absentee ballot in New York
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
@@ -493,6 +516,11 @@ BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in New
   York
 DTSTART;VALUE=DATE:20201110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive military and overseas b
+ allots in Colorado
+DTSTART;VALUE=DATE:20201112
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Louisiana General Run-Off (if needed)

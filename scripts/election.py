@@ -20,7 +20,9 @@ for key in elections:
 dates = []
 
 methods = ["received_by", "in_person_by", "postmarked_by", "online_by"]
-deadlines = {"absentee": ["application"], "poll": ["early", "overseas_military"]}
+deadlines = {"absentee": ["application"],
+             "poll": ["early", "overseas_military"],
+             "registration" : []}
 
 # Load per-state data.
 for state in os.listdir("states/"):
@@ -32,8 +34,8 @@ for state in os.listdir("states/"):
 
     for key in state_elections:
         state_election = dict(state_elections[key])
-        if key not in elections: # State election
-            key = state + "/" + key
+        state_key = state + "/" + key
+        if key not in elections and state_key not in elections: # State election
             state_election["state"] = state
             state_election["county"] = None
             state_election["key"] = key
@@ -153,7 +155,11 @@ deadline_descriptions = {
     "absentee.application.in_person_by": "Last day to hand deliver an absentee applications",
     "poll.in_person_by": "Last day to vote in person",
     "poll.early.in_person_by": "Last day to vote early in person",
-    "poll.overseas_military.received_by": "Last day for election officials to receive military and overseas ballots"
+    "poll.overseas_military.received_by": "Last day for election officials to receive military and overseas ballots",
+    "registration.received_by": "Last day for election officials to receive voter registration form",
+    "registration.postmarked_by": "Last day to postmark voter registration form",
+    "registration.in_person_by": "Last day to register to vote in person",
+    "registration.online_by": "Last day to register to vote online",
 }
 
 one_day = datetime.timedelta(days=1)
@@ -171,6 +177,8 @@ for date in dates:
         item = "ballot"
         if subtype.startswith("absentee.application"):
             item = "absentee application"
+        if subtype.startswith("registration"):
+            item = "voter registration"
         if subtype.endswith("postmarked_by") and not date["postmark_too_late"]:
             reminder = copy.deepcopy(date)
             reminder["type"] = "reminder"
@@ -190,15 +198,16 @@ for date in dates:
             reminder = copy.deepcopy(date)
             reminder["type"] = "reminder"
             reminder["deadline_date"] = reminder["date"]
-
+            friendly_date = pendulum.instance(reminder["date"]).format("MMMM Do")
+            reminder["explanation"] = f"{item.capitalize()} must be received by {friendly_date}."
 
             mail = copy.deepcopy(reminder)
             mail["date"] = reminder["date"] - one_day - one_week
-            mail["name"] = f"Mail {item}! It must be received"
+            mail["name"] = f"Mail {item}"
             reminders.append(mail)
 
             post_office = copy.deepcopy(reminder)
-            post_office["name"] = f"Mail {item} at the post office! It must be received"
+            post_office["name"] = f"Mail {item} at the post office"
             post_office["date"] = reminder["date"] - one_week
             reminders.append(post_office)
         if subtype.endswith("in_person_by"):
@@ -223,6 +232,20 @@ for date in dates:
                 vote["name"] = "Drop off absentee application"
             elif subtype.startswith("absentee"):
                 vote["name"] = "Drop off ballot"
+            elif subtype.startswith("registration"):
+                vote["name"] = "Register to vote in person"
+            reminders.append(vote)
+        if subtype.endswith("online_by"):
+            reminder = copy.deepcopy(date)
+            reminder["type"] = "reminder"
+            reminder["deadline_date"] = reminder["date"]
+
+            vote = copy.deepcopy(reminder)
+            vote["date"] = reminder["date"]
+            if subtype.startswith("absentee.application"):
+                vote["name"] = "Apply for an absentee ballot online"
+            elif subtype.startswith("registration"):
+                vote["name"] = "Register to vote online"
             reminders.append(vote)
 
 

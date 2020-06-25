@@ -54,6 +54,6 @@ sources = "https://www.sos.state.co.us/pubs/elections/calendar.html"
 in_person_by = 2020-11-03
 sources = "https://www.sos.state.co.us/pubs/elections/calendar.html"
 
-[20200630.poll.overseas_military]
+[20201103.poll.overseas_military]
 received_by = 2020-11-12
 sources = "https://www.sos.state.co.us/pubs/elections/calendar.html"

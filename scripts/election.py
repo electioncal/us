@@ -39,7 +39,7 @@ for state in os.listdir("states/"):
             state_election["state"] = state
             state_election["county"] = None
             state_election["key"] = key
-            elections[key] = state_election
+            elections[state_key] = state_election
         deadline_template = {}
         deadline_template["state"] = state
         deadline_template["county"] = None

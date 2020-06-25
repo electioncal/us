@@ -7,7 +7,7 @@ import sys
 import mistune
 import jinja2
 
-from generators import csv, ics, json, html
+from generators import csv, ics, json, html, stats
 
 import election
 
@@ -121,3 +121,5 @@ for alternative in alternatives:
         states=states
     )
 html.build(now, election.dates, states=states, alternatives=alternatives)
+os.makedirs(f"site/en/stats", exist_ok=True)
+stats.build(now, election.dates, states=states)

@@ -20,7 +20,7 @@ for key in elections:
 dates = []
 
 methods = ["received_by", "in_person_by", "postmarked_by", "online_by"]
-deadlines = {"absentee": ["application"], "poll": ["early"]}
+deadlines = {"absentee": ["application"], "poll": ["early", "overseas_military"]}
 
 # Load per-state data.
 for state in os.listdir("states/"):
@@ -153,6 +153,7 @@ deadline_descriptions = {
     "absentee.application.in_person_by": "Last day to hand deliver an absentee applications",
     "poll.in_person_by": "Last day to vote in person",
     "poll.early.in_person_by": "Last day to vote early in person",
+    "poll.overseas_military.received_by": "Last day for election officials to receive military and overseas ballots"
 }
 
 one_day = datetime.timedelta(days=1)

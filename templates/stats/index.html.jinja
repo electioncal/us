@@ -1,0 +1,25 @@
+{% extends "base.html.jinja" %}
+{% block title %}State data overview{% endblock %}
+{% block slogan %}
+<h1>Date counts by state</h1>
+<p>These are counts of all dates for each state that are coming in the future.</p>
+{% endblock %}
+{% block content %}
+    <table>
+      <tr><th>State</th><th>Links</th><th>Election #</th><th>Next Election</th><th>Deadline #</th><th>Reminder #</th></tr>
+    {% for state in states %}
+      <tr>
+        {% if state.counts.reminder > 0 %}<th>{% else %}<td>{% endif %}
+          <a href="https://github.com/electioncal/us/blob/main/states/{{ state.lower_name }}/elections.toml">
+            {{ state.name }}
+          </a>
+        {% if state.counts.reminder > 0 %}</th>{% else %}</td>{% endif %}
+        <td><a href="{{ state.homepage }}">🏠</a></td>
+        <td>{% if state.counts.election > 0 %}{{ state.counts.election }}{% endif %}</td>
+        <td>{{ state.next_election.date.strftime('%Y-%m-%d') }}</td>
+        <td>{% if state.counts.deadline > 0 %}{{ state.counts.deadline }}{% endif %}</td>
+        <td>{% if state.counts.reminder > 0 %}{{ state.counts.reminder }}{% endif %}</td>
+      </tr>
+    {% endfor %}
+    </table>
+{% endblock %}

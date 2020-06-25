@@ -4,12 +4,20 @@ PRODID:-//electioncal.us generator//circuitpython.org//
 SOURCE:https://electioncal.us/en/colorado/dolores/voter.ics
 URL:https://electioncal.us/en/colorado/dolores/
 BEGIN:VEVENT
+SUMMARY:Presidential Primary
+DTSTART;VALUE=DATE:20200303
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee applications
 DTSTART;VALUE=DATE:20200622
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
 DTSTART;VALUE=DATE:20200622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Congressional Primary
+DTSTART;VALUE=DATE:20200630
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots

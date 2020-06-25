@@ -4,6 +4,14 @@ PRODID:-//electioncal.us generator//circuitpython.org//
 SOURCE:https://electioncal.us/en/florida/lee/voter.ics
 URL:https://electioncal.us/en/florida/lee/
 BEGIN:VEVENT
+SUMMARY:Presidential Primary
+DTSTART;VALUE=DATE:20200317
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Congressional Primary
+DTSTART;VALUE=DATE:20200818
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General (Presidential) Election
 DTSTART;VALUE=DATE:20201103
 END:VEVENT

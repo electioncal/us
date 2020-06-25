@@ -5,6 +5,14 @@ NAME:All Election Dates in South Dakota by electioncal.us
 SOURCE:https://electioncal.us/en/south_dakota/all-voter.ics
 URL:https://electioncal.us/en/south_dakota/
 BEGIN:VEVENT
+SUMMARY:Congressional & Presidential Primary
+DTSTART;VALUE=DATE:20200602
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Congressional Primary Run-Off (if needed)
+DTSTART;VALUE=DATE:20200811
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General (Presidential) Election
 DTSTART;VALUE=DATE:20201103
 END:VEVENT

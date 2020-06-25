@@ -5,6 +5,14 @@ NAME:All Election Dates in Minnesota by electioncal.us
 SOURCE:https://electioncal.us/en/minnesota/all-voter.ics
 URL:https://electioncal.us/en/minnesota/
 BEGIN:VEVENT
+SUMMARY:Presidential Primary
+DTSTART;VALUE=DATE:20200303
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Congresssional Primary
+DTSTART;VALUE=DATE:20200811
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General (Presidential) Election
 DTSTART;VALUE=DATE:20201103
 END:VEVENT

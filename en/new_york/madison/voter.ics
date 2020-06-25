@@ -36,6 +36,10 @@ SUMMARY:Last day to hand deliver an absentee applications
 DTSTART;VALUE=DATE:20200622
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Congressional Primary
+DTSTART;VALUE=DATE:20200623
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to drop off an absentee ballot
 DTSTART;VALUE=DATE:20200623
 END:VEVENT

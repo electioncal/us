@@ -5,6 +5,10 @@ NAME:Massachusetts Election Dates by electioncal.us
 SOURCE:https://electioncal.us/en/massachusetts/voter.ics
 URL:https://electioncal.us/en/massachusetts/
 BEGIN:VEVENT
+SUMMARY:Presidential Primary
+DTSTART;VALUE=DATE:20200303
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Congressional Primary
 DTSTART;VALUE=DATE:20200901
 END:VEVENT

@@ -5,6 +5,10 @@ NAME:Nevada Election Dates by electioncal.us
 SOURCE:https://electioncal.us/en/nevada/voter.ics
 URL:https://electioncal.us/en/nevada/
 BEGIN:VEVENT
+SUMMARY:Congressional Primary
+DTSTART;VALUE=DATE:20200609
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General (Presidential) Election
 DTSTART;VALUE=DATE:20201103
 END:VEVENT

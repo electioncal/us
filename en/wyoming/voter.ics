@@ -5,6 +5,10 @@ NAME:Wyoming Election Dates by electioncal.us
 SOURCE:https://electioncal.us/en/wyoming/voter.ics
 URL:https://electioncal.us/en/wyoming/
 BEGIN:VEVENT
+SUMMARY:Congressional Primary
+DTSTART;VALUE=DATE:20200818
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General (Presidential) Election
 DTSTART;VALUE=DATE:20201103
 END:VEVENT

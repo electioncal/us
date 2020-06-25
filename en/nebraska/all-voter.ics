@@ -5,6 +5,10 @@ NAME:All Election Dates in Nebraska by electioncal.us
 SOURCE:https://electioncal.us/en/nebraska/all-voter.ics
 URL:https://electioncal.us/en/nebraska/
 BEGIN:VEVENT
+SUMMARY:Congressional & Presidential Primary
+DTSTART;VALUE=DATE:20200512
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General (Presidential) Election
 DTSTART;VALUE=DATE:20201103
 END:VEVENT

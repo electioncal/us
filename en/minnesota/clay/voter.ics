@@ -4,6 +4,14 @@ PRODID:-//electioncal.us generator//circuitpython.org//
 SOURCE:https://electioncal.us/en/minnesota/clay/voter.ics
 URL:https://electioncal.us/en/minnesota/clay/
 BEGIN:VEVENT
+SUMMARY:Presidential Primary
+DTSTART;VALUE=DATE:20200303
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Congresssional Primary
+DTSTART;VALUE=DATE:20200811
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General (Presidential) Election
 DTSTART;VALUE=DATE:20201103
 END:VEVENT

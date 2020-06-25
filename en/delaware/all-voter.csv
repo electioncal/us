@@ -1,3 +1,4 @@
 date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
+2020-07-07 00:00:00,20200707,,election,,Presidential Primary,2020-07-07 00:00:00,delaware,,
 2020-09-15 00:00:00,20200915,,election,,Congressional Primary,2020-09-15 00:00:00,delaware,,
 2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,,,

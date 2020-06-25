@@ -5,6 +5,10 @@ NAME:Rhode Island Election Dates by electioncal.us
 SOURCE:https://electioncal.us/en/rhode_island/voter.ics
 URL:https://electioncal.us/en/rhode_island/
 BEGIN:VEVENT
+SUMMARY:Presidential Primary
+DTSTART;VALUE=DATE:20200602
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Congressional Primary
 DTSTART;VALUE=DATE:20200908
 END:VEVENT

@@ -5,6 +5,10 @@ NAME:Montana Election Dates by electioncal.us
 SOURCE:https://electioncal.us/en/montana/voter.ics
 URL:https://electioncal.us/en/montana/
 BEGIN:VEVENT
+SUMMARY:Congressional & Presidential Primary
+DTSTART;VALUE=DATE:20200602
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General (Presidential) Election
 DTSTART;VALUE=DATE:20201103
 END:VEVENT

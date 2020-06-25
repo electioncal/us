@@ -1,11 +1,28 @@
 date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
 2020-02-29 00:00:00,20200229,,election,,South Carolina Presidential Primary (Democrats),2020-02-29 00:00:00,south_carolina,,
+2020-03-03 00:00:00,20200303,,election,,Arkansas Congressional & Presidential Primary,2020-03-03 00:00:00,arkansas,,
+2020-03-03 00:00:00,20200303,,election,,California Congressional & Presidential Primary,2020-03-03 00:00:00,california,,
+2020-03-03 00:00:00,20200303,,election,,Colorado Presidential Primary,2020-03-03 00:00:00,colorado,,
+2020-03-03 00:00:00,20200303,,election,,Massachusetts Presidential Primary,2020-03-03 00:00:00,massachusetts,,
+2020-03-03 00:00:00,20200303,,election,,Minnesota Presidential Primary,2020-03-03 00:00:00,minnesota,,
 2020-03-03 00:00:00,20200303,,election,,North Carolina Congressional & Presidential Primary,2020-03-03 00:00:00,north_carolina,,
+2020-03-03 00:00:00,20200303,,election,,Oklahoma Presidential Primary,2020-03-03 00:00:00,oklahoma,,
+2020-03-03 00:00:00,20200303,,election,,Tennessee Presidential Primary,2020-03-03 00:00:00,tennessee,,
+2020-03-03 00:00:00,20200303,,election,,Texas Congressional & Presidential Primary,2020-03-03 00:00:00,texas,,
+2020-03-03 00:00:00,20200303,,election,,Utah Presidential Primary,2020-03-03 00:00:00,utah,,
+2020-03-03 00:00:00,20200303,,election,,Vermont Presidential Primary,2020-03-03 00:00:00,vermont,,
+2020-03-03 00:00:00,20200303,,election,,Virginia Presidential Primary (Democrats),2020-03-03 00:00:00,virginia,,
+2020-03-10 00:00:00,20200310,,election,,Michigan Presidential Primary,2020-03-10 00:00:00,michigan,,
 2020-03-10 00:00:00,20200310,,election,,Washington Presidential Primary,2020-03-10 00:00:00,washington,,
+2020-03-17 00:00:00,20200317,,election,,Arizona Presidential Preference (Democrats),2020-03-17 00:00:00,arizona,,
+2020-03-17 00:00:00,20200317,,election,,Florida Presidential Primary,2020-03-17 00:00:00,florida,,
 2020-03-17 00:00:00,20200317,,election,,Illinois Congressional & Presidential Primary,2020-03-17 00:00:00,illinois,,
 2020-03-31 00:00:00,20200331,,election,,Arkansas Congressional Primary Run-Off (if needed),2020-03-31 00:00:00,arkansas,,
 2020-04-07 00:00:00,20200407,,election,,Wisconsin Presidential Primary,2020-04-07 00:00:00,wisconsin,,
 2020-04-28 00:00:00,20200428,,election,,New York Presidential Primary,2020-04-28 00:00:00,new_york,,
+2020-04-28 00:00:00,20200428,,election,,Ohio Congressional & Presidential Primary,2020-04-28 00:00:00,ohio,,
+2020-05-12 00:00:00,20200512,,election,,Nebraska Congressional & Presidential Primary,2020-05-12 00:00:00,nebraska,,
+2020-05-19 00:00:00,20200519,,election,,Oregon Congressional & Presidential Primary,2020-05-19 00:00:00,oregon,,
 2020-05-25 23:59:59,,20200623,reminder,registration.postmarked_by,Mail voter registration,,mississippi,,False
 2020-05-26 23:59:59,,20200623,deadline,registration.in_person_by,Last day to register to vote in person,,mississippi,,
 2020-05-26 23:59:59,,20200623,deadline,registration.postmarked_by,Last day to postmark voter registration form,,mississippi,,False
@@ -14,11 +31,23 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-05-26 23:59:59,,20200623,reminder,registration.received_by,Mail voter registration,,new_york,,True
 2020-05-27 23:59:59,,20200623,reminder,registration.received_by,Mail voter registration at the post office,,new_york,,True
 2020-05-29 23:59:59,,20200623,deadline,registration.postmarked_by,Last day to postmark voter registration form,,new_york,,True
+2020-06-02 00:00:00,20200602,,election,,District of Columbia Congressional & Presidential Primary,2020-06-02 00:00:00,district_of_columbia,,
 2020-06-02 00:00:00,20200519,,election,,Idaho Congressional Primary,2020-05-19 00:00:00,idaho,,
 2020-06-02 00:00:00,20200602,,election,,Indiana Congressional & Presidential Primary,2020-06-02 00:00:00,indiana,,
+2020-06-02 00:00:00,20200602,,election,,Iowa Congressional Primary,2020-06-02 00:00:00,iowa,,
+2020-06-02 00:00:00,20200602,,election,,Maryland Congressional & Presidential Primary,2020-06-02 00:00:00,maryland,,
+2020-06-02 00:00:00,20200602,,election,,Montana Congressional & Presidential Primary,2020-06-02 00:00:00,montana,,
+2020-06-02 00:00:00,20200602,,election,,New Mexico Congressional & Presidential Primary,2020-06-02 00:00:00,new_mexico,,
+2020-06-02 00:00:00,20200602,,election,,Pennsylvania Congressional & Presidential Primary,2020-06-02 00:00:00,pennsylvania,,
+2020-06-02 00:00:00,20200602,,election,,Rhode Island Presidential Primary,2020-06-02 00:00:00,rhode_island,,
+2020-06-02 00:00:00,20200602,,election,,South Dakota Congressional & Presidential Primary,2020-06-02 00:00:00,south_dakota,,
 2020-06-03 23:59:59,,20200623,deadline,registration.received_by,Last day for election officials to receive voter registration form,,new_york,,True
 2020-06-07 00:00:00,20200607,,election,,Puerto Rico Presidential Primary (Republican),2020-06-07 00:00:00,puerto_rico,,
 2020-06-08 23:59:59,,20200512,reminder,absentee.application.received_by,Mail absentee application,,north_carolina,,True
+2020-06-09 00:00:00,20200609,,election,,Georgia Presidential Primary,2020-06-09 00:00:00,georgia,,
+2020-06-09 00:00:00,20200609,,election,,Nevada Congressional Primary,2020-06-09 00:00:00,nevada,,
+2020-06-09 00:00:00,20200609,,election,,North Dakota Congressional Primary,2020-06-09 00:00:00,north_dakota,,
+2020-06-09 00:00:00,20200609,,election,,South Carolina Congressional Primary,2020-06-09 00:00:00,south_carolina,,
 2020-06-09 00:00:00,20200609,,election,,West Virginia Congressional & Presidential Primary,2020-06-09 00:00:00,west_virginia,,
 2020-06-09 23:59:59,,20200512,reminder,absentee.application.received_by,Mail absentee application at the post office,,north_carolina,,True
 2020-06-13 23:59:59,,20200623,deadline,registration.in_person_by,Last day to register to vote in person,,new_york,,
@@ -63,7 +92,11 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-06-22 23:59:59,,20200623,reminder,poll.in_person_by,Plan to vote,,south_carolina,,
 2020-06-22 23:59:59,,20200623,reminder,poll.in_person_by,Plan to vote,,virginia,,
 2020-06-23 00:00:00,20200623,,election,,Kentucky Presidential Primary,2020-06-23 00:00:00,kentucky,,
+2020-06-23 00:00:00,20200623,,election,,Mississippi Congressional Primary Run-Off,2020-06-23 00:00:00,mississippi,,
+2020-06-23 00:00:00,20200623,,election,,New York Congressional Primary,2020-06-23 00:00:00,new_york,,
 2020-06-23 00:00:00,20200512,,election,,North Carolina Congressional Primary Run-Off,2020-05-12 00:00:00,north_carolina,,
+2020-06-23 00:00:00,20200623,,election,,South Carolina Congressional Primary Run-Off,2020-06-23 00:00:00,south_carolina,,
+2020-06-23 00:00:00,20200623,,election,,Virginia Congressional Primary,2020-06-23 00:00:00,virginia,,
 2020-06-23 23:59:59,,20200630,reminder,absentee.received_by,Mail ballot at the post office,,colorado,,True
 2020-06-23 23:59:59,,20200623,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,kentucky,,True
 2020-06-23 23:59:59,,20200623,deadline,poll.in_person_by,Last day to vote in person,,kentucky,,
@@ -92,7 +125,9 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-06-26 23:59:59,,20200512,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,north_carolina,,True
 2020-06-27 23:59:59,,20200623,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,kentucky,,True
 2020-06-29 23:59:59,,20200630,reminder,poll.in_person_by,Plan to vote,,colorado,,
+2020-06-30 00:00:00,20200630,,election,,Colorado Congressional Primary,2020-06-30 00:00:00,colorado,,
 2020-06-30 00:00:00,20200630,,election,,Oklahoma Congressional Primary,2020-06-30 00:00:00,oklahoma,,
+2020-06-30 00:00:00,20200630,,election,,Utah Congressional Primary,2020-06-30 00:00:00,utah,,
 2020-06-30 23:59:59,,20200630,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,colorado,,True
 2020-06-30 23:59:59,,20200630,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,colorado,,
 2020-06-30 23:59:59,,20200630,deadline,poll.in_person_by,Last day to vote in person,,colorado,,
@@ -103,6 +138,7 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-06-30 23:59:59,,20200630,reminder,poll.overseas_military.received_by,Mail ballot,,colorado,,True
 2020-06-30 23:59:59,,20200623,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,new_york,,False
 2020-07-01 23:59:59,,20200630,reminder,poll.overseas_military.received_by,Mail ballot at the post office,,colorado,,True
+2020-07-07 00:00:00,20200707,,election,,Delaware Presidential Primary,2020-07-07 00:00:00,delaware,,
 2020-07-07 00:00:00,20200707,,election,,New Jersey Congressional & Presidential Primary,2020-07-07 00:00:00,new_jersey,,
 2020-07-07 23:59:59,,20200804,reminder,registration.postmarked_by,Mail voter registration,,missouri,,False
 2020-07-08 23:59:59,,20200630,deadline,poll.overseas_military.received_by,Last day for election officials to receive military and overseas ballots,,colorado,,True
@@ -114,22 +150,36 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-07-08 23:59:59,,20200804,reminder,registration.online_by,Register to vote online,,missouri,,
 2020-07-11 00:00:00,20200711,,election,,Louisiana Presidential Primary,2020-07-11 00:00:00,louisiana,,
 2020-07-12 00:00:00,20200712,,election,,Puerto Rico Presidential Primary (Democrat),2020-07-12 00:00:00,puerto_rico,,
+2020-07-14 00:00:00,20200714,,election,,Alabama Congressional Primary Run-Off (if needed),2020-07-14 00:00:00,alabama,,
 2020-07-14 00:00:00,20200714,,election,,Maine Congressional Primary,2020-07-14 00:00:00,maine,,
+2020-07-14 00:00:00,20200714,,election,,Texas Congressional Primary Run-Off (if needed),2020-07-14 00:00:00,texas,,
 2020-07-14 23:59:59,,20200804,reminder,absentee.application.received_by,Mail absentee application,,missouri,,True
 2020-07-15 23:59:59,,20200804,reminder,absentee.application.received_by,Mail absentee application at the post office,,missouri,,True
 2020-07-22 23:59:59,,20200804,deadline,absentee.application.received_by,Last day for election officials to receive absentee applications,,missouri,,True
 2020-07-27 23:59:59,,20200804,reminder,absentee.received_by,Mail ballot,,missouri,,True
 2020-07-28 23:59:59,,20200804,reminder,absentee.received_by,Mail ballot at the post office,,missouri,,True
 2020-08-01 00:00:00,20200801,,election,,U.S. Virgin Islands Congressional Primary,2020-08-01 00:00:00,u.s._virgin_islands,,
+2020-08-04 00:00:00,20200804,,election,,Arizona Congressional Primary,2020-08-04 00:00:00,arizona,,
+2020-08-04 00:00:00,20200804,,election,,Kansas Congressional Primary,2020-08-04 00:00:00,kansas,,
+2020-08-04 00:00:00,20200804,,election,,Michigan Congressional Primary,2020-08-04 00:00:00,michigan,,
+2020-08-04 00:00:00,20200804,,election,,Missouri Congressional Primary,2020-08-04 00:00:00,missouri,,
 2020-08-04 00:00:00,20200804,,election,,Washington Congressional Primary,2020-08-04 00:00:00,washington,,
 2020-08-04 23:59:59,,20200804,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,missouri,,True
 2020-08-06 00:00:00,20200806,,election,,Tennessee Congressional Primary,2020-08-06 00:00:00,tennessee,,
 2020-08-08 00:00:00,20200808,,election,,Hawaii Congressional Primary,2020-08-08 00:00:00,hawaii,,
+2020-08-11 00:00:00,20200811,,election,,Connecticut Presidential Primary,2020-08-11 00:00:00,connecticut,,
+2020-08-11 00:00:00,20200811,,election,,Georgia Congressional Primary Run-off (if needed),2020-08-11 00:00:00,georgia,,
+2020-08-11 00:00:00,20200811,,election,,Minnesota Congresssional Primary,2020-08-11 00:00:00,minnesota,,
+2020-08-11 00:00:00,20200811,,election,,South Dakota Congressional Primary Run-Off (if needed),2020-08-11 00:00:00,south_dakota,,
+2020-08-11 00:00:00,20200811,,election,,Vermont Congressional Primary,2020-08-11 00:00:00,vermont,,
 2020-08-11 00:00:00,20200811,,election,,Wisconsin Congressional Primary,2020-08-11 00:00:00,wisconsin,,
 2020-08-18 00:00:00,20200818,,election,,Alaska Congressional Primary,2020-08-18 00:00:00,alaska,,
+2020-08-18 00:00:00,20200818,,election,,Florida Congressional Primary,2020-08-18 00:00:00,florida,,
+2020-08-18 00:00:00,20200818,,election,,Wyoming Congressional Primary,2020-08-18 00:00:00,wyoming,,
 2020-08-25 00:00:00,20200825,,election,,Oklahoma Congressional Primary Run-off (if needed),2020-08-25 00:00:00,oklahoma,,
 2020-08-29 00:00:00,20200829,,election,,Guam Congressional Primary,2020-08-29 00:00:00,guam,,
 2020-09-01 00:00:00,20200901,,election,,Massachusetts Congressional Primary,2020-09-01 00:00:00,massachusetts,,
+2020-09-08 00:00:00,20200908,,election,,New Hampshire Congressional Primary,2020-09-08 00:00:00,new_hampshire,,
 2020-09-08 00:00:00,20200908,,election,,Rhode Island Congressional Primary,2020-09-08 00:00:00,rhode_island,,
 2020-09-15 00:00:00,20200915,,election,,Delaware Congressional Primary,2020-09-15 00:00:00,delaware,,
 2020-10-02 23:59:59,,20201103,deadline,registration.in_person_by,Last day to register to vote in person,,south_carolina,,

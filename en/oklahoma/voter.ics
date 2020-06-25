@@ -5,6 +5,10 @@ NAME:Oklahoma Election Dates by electioncal.us
 SOURCE:https://electioncal.us/en/oklahoma/voter.ics
 URL:https://electioncal.us/en/oklahoma/
 BEGIN:VEVENT
+SUMMARY:Presidential Primary
+DTSTART;VALUE=DATE:20200303
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Congressional Primary
 DTSTART;VALUE=DATE:20200630
 END:VEVENT

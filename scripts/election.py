@@ -155,7 +155,7 @@ deadline_descriptions = {
     "absentee.application.in_person_by": "Last day to hand deliver an absentee applications",
     "poll.in_person_by": "Last day to vote in person",
     "poll.early.in_person_by": "Last day to vote early in person",
-    "poll.overseas_military.received_by": "Last day for election officials to receive military and overseas ballots"
+    "poll.overseas_military.received_by": "Last day for election officials to receive military and overseas ballots",
     "registration.received_by": "Last day for election officials to receive voter registration form",
     "registration.postmarked_by": "Last day to postmark voter registration form",
     "registration.in_person_by": "Last day to register to vote in person",
@@ -232,6 +232,20 @@ for date in dates:
                 vote["name"] = "Drop off absentee application"
             elif subtype.startswith("absentee"):
                 vote["name"] = "Drop off ballot"
+            elif subtype.startswith("registration"):
+                vote["name"] = "Register to vote in person"
+            reminders.append(vote)
+        if subtype.endswith("online_by"):
+            reminder = copy.deepcopy(date)
+            reminder["type"] = "reminder"
+            reminder["deadline_date"] = reminder["date"]
+
+            vote = copy.deepcopy(reminder)
+            vote["date"] = reminder["date"]
+            if subtype.startswith("absentee.application"):
+                vote["name"] = "Apply for an absentee ballot online"
+            elif subtype.startswith("registration"):
+                vote["name"] = "Register to vote online"
             reminders.append(vote)
 
 

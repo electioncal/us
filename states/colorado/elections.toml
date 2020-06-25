@@ -8,6 +8,11 @@ date = 2020-06-30
 name = "Congressional Primary"
 original_date = 2020-06-30
 
+[20200630.absentee]
+received_by = 2020-06-30T19:00:00
+in_person_by = 2020-06-30T19:00:00
+sources = "https://www.sos.state.co.us/pubs/elections/calendar.html"
+
 [20200630.absentee.application]
 received_by = 2020-06-22
 sources = "https://www.sos.state.co.us/pubs/elections/calendar.html"
@@ -39,6 +44,11 @@ original_date = 2020-11-03
 [20201103.registration]
 received_by = 2020-10-26
 in_person_by = 2020-11-03
+sources = "https://www.sos.state.co.us/pubs/elections/calendar.html"
+
+[20201103.absentee]
+received_by = 2020-11-03T19:00:00
+in_person_by = 2020-11-03T19:00:00
 sources = "https://www.sos.state.co.us/pubs/elections/calendar.html"
 
 [20201103.absentee.application]

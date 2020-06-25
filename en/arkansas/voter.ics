@@ -5,10 +5,6 @@ NAME:Arkansas Election Dates by electioncal.us
 SOURCE:https://electioncal.us/en/arkansas/voter.ics
 URL:https://electioncal.us/en/arkansas/
 BEGIN:VEVENT
-SUMMARY:Congressional & Presidential Primary
-DTSTART;VALUE=DATE:20200303
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Congressional Primary Run-Off (if needed)
 DTSTART;VALUE=DATE:20200331
 END:VEVENT

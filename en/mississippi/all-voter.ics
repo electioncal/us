@@ -5,12 +5,16 @@ NAME:All Election Dates in Mississippi by electioncal.us
 SOURCE:https://electioncal.us/en/mississippi/all-voter.ics
 URL:https://electioncal.us/en/mississippi/
 BEGIN:VEVENT
-SUMMARY:Last day for election officials to receive absentee ballots
-DTSTART;VALUE=DATE:20200622
+SUMMARY:Last day to register to vote in person
+DTSTART;VALUE=DATE:20200526
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary Run-Off
-DTSTART;VALUE=DATE:20200623
+SUMMARY:Last day to postmark voter registration form
+DTSTART;VALUE=DATE:20200526
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots
+DTSTART;VALUE=DATE:20200622
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person

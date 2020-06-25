@@ -5,10 +5,6 @@ NAME:Connecticut Election Dates by electioncal.us
 SOURCE:https://electioncal.us/en/connecticut/voter.ics
 URL:https://electioncal.us/en/connecticut/
 BEGIN:VEVENT
-SUMMARY:Presidential Primary
-DTSTART;VALUE=DATE:20200811
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:General (Presidential) Election
 DTSTART;VALUE=DATE:20201103
 END:VEVENT

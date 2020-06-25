@@ -1,4 +1,2 @@
 date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
-2020-06-02 00:00:00,south_dakota/20200602,,election,,Congressional & Presidential Primary,2020-06-02 00:00:00,south_dakota,,
-2020-08-11 00:00:00,south_dakota/20200811,,election,,Congressional Primary Run-Off (if needed),2020-08-11 00:00:00,south_dakota,,
 2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,,,

@@ -4,10 +4,6 @@ PRODID:-//electioncal.us generator//circuitpython.org//
 SOURCE:https://electioncal.us/en/wyoming/big_horn/voter.ics
 URL:https://electioncal.us/en/wyoming/big_horn/
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
-DTSTART;VALUE=DATE:20200818
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:General (Presidential) Election
 DTSTART;VALUE=DATE:20201103
 END:VEVENT

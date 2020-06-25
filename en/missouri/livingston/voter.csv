@@ -1,9 +1,22 @@
 date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
-2020-07-14 23:59:59,,missouri/20200804,reminder,absentee.application.received_by,Mail absentee application! It must be received,,missouri,,True
-2020-07-15 23:59:59,,missouri/20200804,reminder,absentee.application.received_by,Mail absentee application at the post office! It must be received,,missouri,,True
-2020-07-22 23:59:59,,missouri/20200804,deadline,absentee.application.received_by,Last day for election officials to receive absentee applications,,missouri,,True
-2020-07-27 23:59:59,,missouri/20200804,reminder,absentee.received_by,Mail ballot! It must be received,,missouri,,True
-2020-07-28 23:59:59,,missouri/20200804,reminder,absentee.received_by,Mail ballot at the post office! It must be received,,missouri,,True
-2020-08-04 00:00:00,missouri/20200804,,election,,Congressional Primary,2020-08-04 00:00:00,missouri,,
-2020-08-04 23:59:59,,missouri/20200804,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,missouri,,True
+2020-07-07 23:59:59,,20200804,reminder,registration.postmarked_by,Mail voter registration,,missouri,,False
+2020-07-08 23:59:59,,20200804,deadline,registration.in_person_by,Last day to register to vote in person,,missouri,,
+2020-07-08 23:59:59,,20200804,deadline,registration.postmarked_by,Last day to postmark voter registration form,,missouri,,False
+2020-07-08 23:59:59,,20200804,deadline,registration.online_by,Last day to register to vote online,,missouri,,
+2020-07-08 23:59:59,,20200804,reminder,registration.in_person_by,Register to vote in person,,missouri,,
+2020-07-08 23:59:59,,20200804,reminder,registration.postmarked_by,Mail voter registration at the post office,,missouri,,False
+2020-07-08 23:59:59,,20200804,reminder,registration.online_by,Register to vote online,,missouri,,
+2020-07-14 23:59:59,,20200804,reminder,absentee.application.received_by,Mail absentee application,,missouri,,True
+2020-07-15 23:59:59,,20200804,reminder,absentee.application.received_by,Mail absentee application at the post office,,missouri,,True
+2020-07-22 23:59:59,,20200804,deadline,absentee.application.received_by,Last day for election officials to receive absentee applications,,missouri,,True
+2020-07-27 23:59:59,,20200804,reminder,absentee.received_by,Mail ballot,,missouri,,True
+2020-07-28 23:59:59,,20200804,reminder,absentee.received_by,Mail ballot at the post office,,missouri,,True
+2020-08-04 23:59:59,,20200804,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,missouri,,True
+2020-10-06 23:59:59,,20201103,reminder,registration.postmarked_by,Mail voter registration,,missouri,,False
+2020-10-07 23:59:59,,20201103,deadline,registration.in_person_by,Last day to register to vote in person,,missouri,,
+2020-10-07 23:59:59,,20201103,deadline,registration.postmarked_by,Last day to postmark voter registration form,,missouri,,False
+2020-10-07 23:59:59,,20201103,deadline,registration.online_by,Last day to register to vote online,,missouri,,
+2020-10-07 23:59:59,,20201103,reminder,registration.in_person_by,Register to vote in person,,missouri,,
+2020-10-07 23:59:59,,20201103,reminder,registration.postmarked_by,Mail voter registration at the post office,,missouri,,False
+2020-10-07 23:59:59,,20201103,reminder,registration.online_by,Register to vote online,,missouri,,
 2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,,,

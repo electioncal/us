@@ -9,68 +9,12 @@ SUMMARY:South Carolina Presidential Primary (Democrats)
 DTSTART;VALUE=DATE:20200229
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arkansas Congressional & Presidential Primary
-DTSTART;VALUE=DATE:20200303
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:California Congressional & Presidential Primary
-DTSTART;VALUE=DATE:20200303
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Colorado Presidential Primary
-DTSTART;VALUE=DATE:20200303
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Massachusetts Presidential Primary
-DTSTART;VALUE=DATE:20200303
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minnesota Presidential Primary
-DTSTART;VALUE=DATE:20200303
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:North Carolina Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200303
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Oklahoma Presidential Primary
-DTSTART;VALUE=DATE:20200303
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tennessee Presidential Primary
-DTSTART;VALUE=DATE:20200303
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Texas Congressional & Presidential Primary
-DTSTART;VALUE=DATE:20200303
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Utah Presidential Primary
-DTSTART;VALUE=DATE:20200303
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vermont Presidential Primary
-DTSTART;VALUE=DATE:20200303
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virginia Presidential Primary (Democrats)
-DTSTART;VALUE=DATE:20200303
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Michigan Presidential Primary
-DTSTART;VALUE=DATE:20200310
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Washington Presidential Primary
 DTSTART;VALUE=DATE:20200310
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arizona Presidential Preference (Democrats)
-DTSTART;VALUE=DATE:20200317
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Florida Presidential Primary
-DTSTART;VALUE=DATE:20200317
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Illinois Congressional & Presidential Primary
@@ -89,20 +33,16 @@ SUMMARY:New York Presidential Primary
 DTSTART;VALUE=DATE:20200428
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ohio Congressional & Presidential Primary
-DTSTART;VALUE=DATE:20200428
+SUMMARY:Last day to register to vote in person in Mississippi
+DTSTART;VALUE=DATE:20200526
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nebraska Congressional & Presidential Primary
-DTSTART;VALUE=DATE:20200512
+SUMMARY:Last day to postmark voter registration form in Mississippi
+DTSTART;VALUE=DATE:20200526
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Oregon Congressional & Presidential Primary
-DTSTART;VALUE=DATE:20200519
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:District of Columbia Congressional & Presidential Primary
-DTSTART;VALUE=DATE:20200602
+SUMMARY:Last day to postmark voter registration form in New York
+DTSTART;VALUE=DATE:20200529
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Idaho Congressional Primary
@@ -113,56 +53,21 @@ SUMMARY:Indiana Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200602
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Iowa Congressional Primary
-DTSTART;VALUE=DATE:20200602
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maryland Congressional & Presidential Primary
-DTSTART;VALUE=DATE:20200602
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Montana Congressional & Presidential Primary
-DTSTART;VALUE=DATE:20200602
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:New Mexico Congressional & Presidential Primary
-DTSTART;VALUE=DATE:20200602
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pennsylvania Congressional & Presidential Primary
-DTSTART;VALUE=DATE:20200602
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rhode Island Presidential Primary
-DTSTART;VALUE=DATE:20200602
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:South Dakota Congressional & Presidential Primary
-DTSTART;VALUE=DATE:20200602
+SUMMARY:Last day for election officials to receive voter registration form
+  in New York
+DTSTART;VALUE=DATE:20200603
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Puerto Rico Presidential Primary (Republican)
 DTSTART;VALUE=DATE:20200607
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Georgia Presidential Primary
-DTSTART;VALUE=DATE:20200609
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nevada Congressional Primary
-DTSTART;VALUE=DATE:20200609
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:North Dakota Congressional Primary
-DTSTART;VALUE=DATE:20200609
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:South Carolina Congressional Primary
-DTSTART;VALUE=DATE:20200609
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:West Virginia Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200609
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in New York
+DTSTART;VALUE=DATE:20200613
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to apply online for a mail-in ballot in Kentucky
@@ -192,6 +97,11 @@ SUMMARY:Last day for election officials to receive absentee applications i
 DTSTART;VALUE=DATE:20200622
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Colorado
+DTSTART;VALUE=DATE:20200622
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in Mis
  sissippi
 DTSTART;VALUE=DATE:20200622
@@ -209,23 +119,7 @@ SUMMARY:Kentucky Presidential Primary
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mississippi Congressional Primary Run-Off
-DTSTART;VALUE=DATE:20200623
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:New York Congressional Primary
-DTSTART;VALUE=DATE:20200623
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:North Carolina Congressional Primary Run-Off
-DTSTART;VALUE=DATE:20200623
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:South Carolina Congressional Primary Run-Off
-DTSTART;VALUE=DATE:20200623
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virginia Congressional Primary
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT
@@ -297,15 +191,16 @@ SUMMARY:Last day for election officials to receive absentee ballots in Ken
 DTSTART;VALUE=DATE:20200627
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Colorado Congressional Primary
-DTSTART;VALUE=DATE:20200630
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Oklahoma Congressional Primary
 DTSTART;VALUE=DATE:20200630
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Utah Congressional Primary
+SUMMARY:Last day for election officials to receive absentee ballots in Col
+ orado
+DTSTART;VALUE=DATE:20200630
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Colorado
 DTSTART;VALUE=DATE:20200630
 END:VEVENT
 BEGIN:VEVENT
@@ -313,13 +208,13 @@ SUMMARY:Last day to vote in person in Colorado
 DTSTART;VALUE=DATE:20200630
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Last day for election officials to receive absentee ballots in New
-  York
+SUMMARY:Last day to register to vote in person in Colorado
 DTSTART;VALUE=DATE:20200630
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Delaware Presidential Primary
-DTSTART;VALUE=DATE:20200707
+SUMMARY:Last day for election officials to receive absentee ballots in New
+  York
+DTSTART;VALUE=DATE:20200630
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New Jersey Congressional & Presidential Primary
@@ -331,6 +226,18 @@ SUMMARY:Last day for election officials to receive military and overseas b
 DTSTART;VALUE=DATE:20200708
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Missouri
+DTSTART;VALUE=DATE:20200708
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark voter registration form in Missouri
+DTSTART;VALUE=DATE:20200708
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Missouri
+DTSTART;VALUE=DATE:20200708
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Louisiana Presidential Primary
 DTSTART;VALUE=DATE:20200711
 END:VEVENT
@@ -339,15 +246,7 @@ SUMMARY:Puerto Rico Presidential Primary (Democrat)
 DTSTART;VALUE=DATE:20200712
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alabama Congressional Primary Run-Off (if needed)
-DTSTART;VALUE=DATE:20200714
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Maine Congressional Primary
-DTSTART;VALUE=DATE:20200714
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Texas Congressional Primary Run-Off (if needed)
 DTSTART;VALUE=DATE:20200714
 END:VEVENT
 BEGIN:VEVENT
@@ -358,22 +257,6 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:U.S. Virgin Islands Congressional Primary
 DTSTART;VALUE=DATE:20200801
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arizona Congressional Primary
-DTSTART;VALUE=DATE:20200804
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kansas Congressional Primary
-DTSTART;VALUE=DATE:20200804
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Michigan Congressional Primary
-DTSTART;VALUE=DATE:20200804
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Missouri Congressional Primary
-DTSTART;VALUE=DATE:20200804
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Washington Congressional Primary
@@ -393,39 +276,11 @@ SUMMARY:Hawaii Congressional Primary
 DTSTART;VALUE=DATE:20200808
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Connecticut Presidential Primary
-DTSTART;VALUE=DATE:20200811
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Georgia Congressional Primary Run-off (if needed)
-DTSTART;VALUE=DATE:20200811
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minnesota Congresssional Primary
-DTSTART;VALUE=DATE:20200811
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:South Dakota Congressional Primary Run-Off (if needed)
-DTSTART;VALUE=DATE:20200811
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vermont Congressional Primary
-DTSTART;VALUE=DATE:20200811
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wisconsin Congressional Primary
 DTSTART;VALUE=DATE:20200811
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alaska Congressional Primary
-DTSTART;VALUE=DATE:20200818
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Florida Congressional Primary
-DTSTART;VALUE=DATE:20200818
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wyoming Congressional Primary
 DTSTART;VALUE=DATE:20200818
 END:VEVENT
 BEGIN:VEVENT
@@ -441,10 +296,6 @@ SUMMARY:Massachusetts Congressional Primary
 DTSTART;VALUE=DATE:20200901
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New Hampshire Congressional Primary
-DTSTART;VALUE=DATE:20200908
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rhode Island Congressional Primary
 DTSTART;VALUE=DATE:20200908
 END:VEVENT
@@ -453,8 +304,50 @@ SUMMARY:Delaware Congressional Primary
 DTSTART;VALUE=DATE:20200915
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in South Carolina
+DTSTART;VALUE=DATE:20201002
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in South Carolina
+DTSTART;VALUE=DATE:20201004
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark voter registration form in South Carolina
+DTSTART;VALUE=DATE:20201005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Missouri
+DTSTART;VALUE=DATE:20201007
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark voter registration form in Missouri
+DTSTART;VALUE=DATE:20201007
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Missouri
+DTSTART;VALUE=DATE:20201007
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark voter registration form in New York
+DTSTART;VALUE=DATE:20201009
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in New York
+DTSTART;VALUE=DATE:20201010
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in New York
+DTSTART;VALUE=DATE:20201014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee applications i
  n Colorado
+DTSTART;VALUE=DATE:20201026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Colorado
 DTSTART;VALUE=DATE:20201026
 END:VEVENT
 BEGIN:VEVENT
@@ -492,7 +385,20 @@ SUMMARY:General (Presidential) Election
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Col
+ orado
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Colorado
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to vote in person in Colorado
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Colorado
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

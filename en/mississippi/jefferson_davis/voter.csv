@@ -1,9 +1,13 @@
 date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
-2020-06-14 23:59:59,,mississippi/20200623,reminder,absentee.received_by,Mail ballot! It must be received,,mississippi,,True
-2020-06-15 23:59:59,,mississippi/20200623,reminder,absentee.received_by,Mail ballot at the post office! It must be received,,mississippi,,True
-2020-06-22 23:59:59,,mississippi/20200623,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,mississippi,,True
-2020-06-22 23:59:59,,mississippi/20200623,reminder,poll.in_person_by,Plan to vote,,mississippi,,
-2020-06-23 00:00:00,mississippi/20200623,,election,,Congressional Primary Run-Off,2020-06-23 00:00:00,mississippi,,
-2020-06-23 23:59:59,,mississippi/20200623,deadline,poll.in_person_by,Last day to vote in person,,mississippi,,
-2020-06-23 23:59:59,,mississippi/20200623,reminder,poll.in_person_by,Vote in person,,mississippi,,
+2020-05-25 23:59:59,,20200623,reminder,registration.postmarked_by,Mail voter registration,,mississippi,,False
+2020-05-26 23:59:59,,20200623,deadline,registration.in_person_by,Last day to register to vote in person,,mississippi,,
+2020-05-26 23:59:59,,20200623,deadline,registration.postmarked_by,Last day to postmark voter registration form,,mississippi,,False
+2020-05-26 23:59:59,,20200623,reminder,registration.in_person_by,Register to vote in person,,mississippi,,
+2020-05-26 23:59:59,,20200623,reminder,registration.postmarked_by,Mail voter registration at the post office,,mississippi,,False
+2020-06-14 23:59:59,,20200623,reminder,absentee.received_by,Mail ballot,,mississippi,,True
+2020-06-15 23:59:59,,20200623,reminder,absentee.received_by,Mail ballot at the post office,,mississippi,,True
+2020-06-22 23:59:59,,20200623,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,mississippi,,True
+2020-06-22 23:59:59,,20200623,reminder,poll.in_person_by,Plan to vote,,mississippi,,
+2020-06-23 23:59:59,,20200623,deadline,poll.in_person_by,Last day to vote in person,,mississippi,,
+2020-06-23 23:59:59,,20200623,reminder,poll.in_person_by,Vote in person,,mississippi,,
 2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,,,

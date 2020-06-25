@@ -1,4 +1,2 @@
 date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
-2020-03-03 00:00:00,texas/20200303,,election,,Congressional & Presidential Primary,2020-03-03 00:00:00,texas,,
-2020-07-14 00:00:00,texas/20200714,,election,,Congressional Primary Run-Off (if needed),2020-07-14 00:00:00,texas,,
 2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,,,

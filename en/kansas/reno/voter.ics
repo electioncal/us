@@ -4,10 +4,6 @@ PRODID:-//electioncal.us generator//circuitpython.org//
 SOURCE:https://electioncal.us/en/kansas/reno/voter.ics
 URL:https://electioncal.us/en/kansas/reno/
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
-DTSTART;VALUE=DATE:20200804
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:General (Presidential) Election
 DTSTART;VALUE=DATE:20201103
 END:VEVENT

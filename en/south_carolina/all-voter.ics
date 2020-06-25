@@ -9,14 +9,6 @@ SUMMARY:Presidential Primary (Democrats)
 DTSTART;VALUE=DATE:20200229
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
-DTSTART;VALUE=DATE:20200609
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Congressional Primary Run-Off
-DTSTART;VALUE=DATE:20200623
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
@@ -27,6 +19,18 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person
 DTSTART;VALUE=DATE:20200623
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person
+DTSTART;VALUE=DATE:20201002
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online
+DTSTART;VALUE=DATE:20201004
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark voter registration form
+DTSTART;VALUE=DATE:20201005
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to apply online for a mail-in ballot

@@ -4,10 +4,6 @@ PRODID:-//electioncal.us generator//circuitpython.org//
 SOURCE:https://electioncal.us/en/tennessee/morgan/voter.ics
 URL:https://electioncal.us/en/tennessee/morgan/
 BEGIN:VEVENT
-SUMMARY:Presidential Primary
-DTSTART;VALUE=DATE:20200303
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Congressional Primary
 DTSTART;VALUE=DATE:20200806
 END:VEVENT

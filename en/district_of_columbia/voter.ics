@@ -5,10 +5,6 @@ NAME:District of Columbia Election Dates by electioncal.us
 SOURCE:https://electioncal.us/en/district_of_columbia/voter.ics
 URL:https://electioncal.us/en/district_of_columbia/
 BEGIN:VEVENT
-SUMMARY:Congressional & Presidential Primary
-DTSTART;VALUE=DATE:20200602
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:General (Presidential) Election
 DTSTART;VALUE=DATE:20201103
 END:VEVENT

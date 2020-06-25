@@ -5,10 +5,6 @@ NAME:All Election Dates in New Hampshire by electioncal.us
 SOURCE:https://electioncal.us/en/new_hampshire/all-voter.ics
 URL:https://electioncal.us/en/new_hampshire/
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
-DTSTART;VALUE=DATE:20200908
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:General (Presidential) Election
 DTSTART;VALUE=DATE:20201103
 END:VEVENT

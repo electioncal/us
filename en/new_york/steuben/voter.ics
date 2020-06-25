@@ -8,6 +8,18 @@ SUMMARY:Presidential Primary
 DTSTART;VALUE=DATE:20200428
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to postmark voter registration form
+DTSTART;VALUE=DATE:20200529
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+DTSTART;VALUE=DATE:20200603
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person
+DTSTART;VALUE=DATE:20200613
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to postmark absentee applications
 DTSTART;VALUE=DATE:20200616
 END:VEVENT
@@ -24,10 +36,6 @@ SUMMARY:Last day to hand deliver an absentee applications
 DTSTART;VALUE=DATE:20200622
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
-DTSTART;VALUE=DATE:20200623
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Last day to drop off an absentee ballot
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
@@ -38,6 +46,18 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots
 DTSTART;VALUE=DATE:20200630
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark voter registration form
+DTSTART;VALUE=DATE:20201009
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person
+DTSTART;VALUE=DATE:20201010
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+DTSTART;VALUE=DATE:20201014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to postmark absentee applications

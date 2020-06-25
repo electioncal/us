@@ -4,19 +4,27 @@ PRODID:-//electioncal.us generator//circuitpython.org//
 SOURCE:https://electioncal.us/en/colorado/douglas/voter.ics
 URL:https://electioncal.us/en/colorado/douglas/
 BEGIN:VEVENT
-SUMMARY:Presidential Primary
-DTSTART;VALUE=DATE:20200303
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee applications
 DTSTART;VALUE=DATE:20200622
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Congressional Primary
+SUMMARY:Last day for election officials to receive voter registration form
+DTSTART;VALUE=DATE:20200622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots
+DTSTART;VALUE=DATE:20200630
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot
 DTSTART;VALUE=DATE:20200630
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person
+DTSTART;VALUE=DATE:20200630
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person
 DTSTART;VALUE=DATE:20200630
 END:VEVENT
 BEGIN:VEVENT
@@ -29,11 +37,27 @@ SUMMARY:Last day for election officials to receive absentee applications
 DTSTART;VALUE=DATE:20201026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+DTSTART;VALUE=DATE:20201026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General (Presidential) Election
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to vote in person
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

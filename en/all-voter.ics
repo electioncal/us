@@ -204,6 +204,11 @@ SUMMARY:Last day to hand deliver an absentee applications in North Carolin
 DTSTART;VALUE=DATE:20200616
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Utah
+DTSTART;VALUE=DATE:20200619
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to vote early in person in New York
 DTSTART;VALUE=DATE:20200621
 END:VEVENT
@@ -340,6 +345,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in New
   York
+DTSTART;VALUE=DATE:20200630
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Utah
 DTSTART;VALUE=DATE:20200630
 END:VEVENT
 BEGIN:VEVENT
@@ -583,6 +592,14 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person in South Carolina
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Utah
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Utah
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

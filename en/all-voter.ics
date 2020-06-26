@@ -182,6 +182,11 @@ SUMMARY:West Virginia Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200609
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Delaware
+DTSTART;VALUE=DATE:20200613
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person in New York
 DTSTART;VALUE=DATE:20200613
 END:VEVENT
@@ -360,6 +365,15 @@ SUMMARY:New Jersey Congressional & Presidential Primary
 DTSTART;VALUE=DATE:20200707
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Del
+ aware
+DTSTART;VALUE=DATE:20200707
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Delaware
+DTSTART;VALUE=DATE:20200707
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive military and overseas b
  allots in Colorado
 DTSTART;VALUE=DATE:20200708
@@ -395,6 +409,19 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Texas Congressional Primary Run-Off (if needed)
 DTSTART;VALUE=DATE:20200714
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Delaware School Board Elections
+DTSTART;VALUE=DATE:20200721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Del
+ aware
+DTSTART;VALUE=DATE:20200721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Delaware
+DTSTART;VALUE=DATE:20200721
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee applications i
@@ -475,6 +502,11 @@ SUMMARY:Wyoming Congressional Primary
 DTSTART;VALUE=DATE:20200818
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Delaware
+DTSTART;VALUE=DATE:20200822
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Oklahoma Congressional Primary Run-off (if needed)
 DTSTART;VALUE=DATE:20200825
 END:VEVENT
@@ -496,6 +528,15 @@ DTSTART;VALUE=DATE:20200908
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Delaware Congressional Primary
+DTSTART;VALUE=DATE:20200915
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Del
+ aware
+DTSTART;VALUE=DATE:20200915
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Delaware
 DTSTART;VALUE=DATE:20200915
 END:VEVENT
 BEGIN:VEVENT
@@ -525,6 +566,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to postmark voter registration form in New York
 DTSTART;VALUE=DATE:20201009
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Delaware
+DTSTART;VALUE=DATE:20201010
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person in New York
@@ -580,6 +626,15 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person in Colorado
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Del
+ aware
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Delaware
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

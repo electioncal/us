@@ -1,4 +1,38 @@
 date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
+2020-06-05 23:59:59,,20200707,reminder,registration.received_by,Mail voter registration,,delaware,,True
+2020-06-06 23:59:59,,20200707,reminder,registration.received_by,Mail voter registration at the post office,,delaware,,True
+2020-06-13 23:59:59,,20200707,deadline,registration.received_by,Last day for election officials to receive voter registration form,,delaware,,True
+2020-06-29 23:59:59,,20200707,reminder,absentee.received_by,Mail ballot,,delaware,,True
+2020-06-30 23:59:59,,20200707,reminder,absentee.received_by,Mail ballot at the post office,,delaware,,True
+2020-07-06 23:59:59,,20200707,reminder,poll.in_person_by,Plan to vote,,delaware,,
 2020-07-07 00:00:00,20200707,,election,,Presidential Primary,2020-07-07 00:00:00,delaware,,
+2020-07-07 23:59:59,,20200707,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,delaware,,True
+2020-07-07 23:59:59,,20200707,deadline,poll.in_person_by,Last day to vote in person,,delaware,,
+2020-07-07 23:59:59,,20200707,reminder,poll.in_person_by,Vote in person,,delaware,,
+2020-07-13 23:59:59,,20200721,reminder,absentee.received_by,Mail ballot,,delaware,,True
+2020-07-14 23:59:59,,20200721,reminder,absentee.received_by,Mail ballot at the post office,,delaware,,True
+2020-07-20 23:59:59,,20200721,reminder,poll.in_person_by,Plan to vote,,delaware,,
+2020-07-21 00:00:00,20200721,,election,,School Board Elections,2020-07-21 00:00:00,delaware,,
+2020-07-21 23:59:59,,20200721,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,delaware,,True
+2020-07-21 23:59:59,,20200721,deadline,poll.in_person_by,Last day to vote in person,,delaware,,
+2020-07-21 23:59:59,,20200721,reminder,poll.in_person_by,Vote in person,,delaware,,
+2020-08-14 23:59:59,,20200915,reminder,registration.received_by,Mail voter registration,,delaware,,True
+2020-08-15 23:59:59,,20200915,reminder,registration.received_by,Mail voter registration at the post office,,delaware,,True
+2020-08-22 23:59:59,,20200915,deadline,registration.received_by,Last day for election officials to receive voter registration form,,delaware,,True
+2020-09-07 23:59:59,,20200915,reminder,absentee.received_by,Mail ballot,,delaware,,True
+2020-09-08 23:59:59,,20200915,reminder,absentee.received_by,Mail ballot at the post office,,delaware,,True
+2020-09-14 23:59:59,,20200915,reminder,poll.in_person_by,Plan to vote,,delaware,,
 2020-09-15 00:00:00,20200915,,election,,Congressional Primary,2020-09-15 00:00:00,delaware,,
+2020-09-15 23:59:59,,20200915,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,delaware,,True
+2020-09-15 23:59:59,,20200915,deadline,poll.in_person_by,Last day to vote in person,,delaware,,
+2020-09-15 23:59:59,,20200915,reminder,poll.in_person_by,Vote in person,,delaware,,
+2020-10-02 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration,,delaware,,True
+2020-10-03 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration at the post office,,delaware,,True
+2020-10-10 23:59:59,,20201103,deadline,registration.received_by,Last day for election officials to receive voter registration form,,delaware,,True
+2020-10-26 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,delaware,,True
+2020-10-27 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,delaware,,True
+2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,delaware,,
 2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,,,
+2020-11-03 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,delaware,,True
+2020-11-03 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,delaware,,
+2020-11-03 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,delaware,,

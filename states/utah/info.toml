@@ -1,7 +1,7 @@
 name = "Utah"
 fips_code = 49
 postal_code = "UT"
-homepage = "https://elections.utah.gov/"
+homepage = "https://vote.utah.gov/"
 registration_info = "https://vote.utah.gov/additionalInfo.html"
 absentee_info = "https://voteinfo.utah.gov/learn-about-voting-by-mail-and-absentee-voting/"
 military_overseas_info = "https://voteinfo.utah.gov/military-and-overseas-voters/"

@@ -8,7 +8,54 @@ date = 2020-06-30
 name = "Congressional Primary"
 original_date = 2020-06-30
 
+[20200630.registration]
+received_by = 2020-06-19T17:00:00
+sources = ["https://vote.utah.gov/index.html"]
+
+[20200630.absentee.application]
+received_by = 2020-06-19T17:00:00
+sources = ["https://vote.utah.gov/index.html"]
+
+[20200630.absentee]
+in_person_by = 2020-06-30T20:00:00
+post_marked_by = 2020-06-30
+sources = ["https://voteinfo.utah.gov/covid-19-information/"]
+
+# [20200630.poll]
+# No in-person polling due to COVID.
+# sources = ["https://voteinfo.utah.gov/covid-19-information/"]
+
 [20201103]
 date = 2020-11-03
 name = "General"
 original_date = 2020-11-03
+
+[20201103.register]
+received_by = 2020-10-23T17:00:00
+in_person_by = 2020-10-23T17:00:00
+sources = [
+    "https://vote.utah.gov/additionalInfo.html",
+    "https://le.utah.gov/xcode/Title20A/Chapter2/20A-2-S102.5.html?v=C20A-2-S102.5_2020051220200512"
+]
+
+[20201103.absentee.application]
+received_by = 2020-10-23T17:00:00
+in_person_by = 2020-10-23T17:00:00
+sources = [
+    "https://secure.utah.gov/voterreg/index.html",
+    "https://vote.utah.gov/additionalInfo.html",
+    "https://le.utah.gov/xcode/Title20A/Chapter2/20A-2-S102.5.html?v=C20A-2-S102.5_2020051220200512"
+]
+[20201103.absentee]
+post_marked_by = 2020-11-02
+in_person_by = 2020-11-03T20:00:00
+sources = ["https://le.utah.gov/xcode/Title20A/Chapter3A/20A-3a-S204.html?v=C20A-3a-S204_2020051220200512"]
+
+# [20201103.poll.early]
+# It appears as though early voting days and times are managed county by county.
+# sources = ["https://le.utah.gov/xcode/Title20A/Chapter3A/20A-3a-P6.html?v=C20A-3a-P6_2020051220200512"]
+
+[20201103.poll]
+in_person_start = 2020-11-03T07:00:00
+in_person_by = 2020-11-03T20:00:00
+sources = ["https://le.utah.gov/xcode/Title20A/Chapter1/20A-1-S302.html?v=C20A-1-S302_1800010118000101"]

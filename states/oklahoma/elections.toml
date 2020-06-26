@@ -30,7 +30,7 @@ sources = [
 [20200630.absentee]
 received_by = 2020-06-30T19:00:00
 in_person_start = 2020-06-25T08:00:00
-in_person_by = 2020-06-29T17:00:00
+in_person_by = 2020-06-27T14:00:00
 sources = [
     "https://www.ok.gov/elections/Voter_Info/Absentee_Voting/",
     "https://www.ok.gov/elections/Election_Info/2020_Election_Calendar.html"
@@ -75,6 +75,15 @@ sources = [
     "https://www.ok.gov/elections/Election_Info/2020_Election_Calendar.html"
 ]
 
+[20200825.absentee]
+received_by = 2020-08-25T19:00:00
+in_person_start = 2020-08-20T08:00:00
+in_person_by = 2020-08-22T14:00:00
+sources = [
+    "https://www.ok.gov/elections/Voter_Info/Absentee_Voting/",
+    "https://www.ok.gov/elections/Election_Info/2020_Election_Calendar.html"
+]
+
 [20200825.poll.early]
 in_person_start = 2020-08-20T08:00:00
 in_person_by = 2020-08-22T14:00:00
@@ -109,6 +118,15 @@ sources = [
 [20201103.absentee.application]
 received_by = 2020-10-27T17:00:00
 in_person_by = 2020-10-27T17:00:00
+sources = [
+    "https://www.ok.gov/elections/Voter_Info/Absentee_Voting/",
+    "https://www.ok.gov/elections/Election_Info/2020_Election_Calendar.html"
+]
+
+[20201103.absentee]
+received_by = 2020-11-03T19:00:00
+in_person_start = 2020-10-29T08:00:00
+in_person_by = 2020-10-31T14:00:00
 sources = [
     "https://www.ok.gov/elections/Voter_Info/Absentee_Voting/",
     "https://www.ok.gov/elections/Election_Info/2020_Election_Calendar.html"

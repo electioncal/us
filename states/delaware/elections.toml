@@ -3,12 +3,90 @@ date = 2020-07-07
 name = "Presidential Primary"
 original_date = 2020-07-07
 
+[20200707.registration]
+received_by = 2020-06-13
+sources = ["https://elections.delaware.gov/calendar/2020ElectionCalendar.pdf"]
+
+[20200707.absentee.application]
+received_by = 2020-07-03
+sources = [
+    "https://elections.delaware.gov/pubs/pdfs/absentee_ballot_application.pdf"
+]
+
+[20200707.absentee]
+received_by = 2020-07-07T20:00:00
+sources = ["https://elections.delaware.gov/calendar/2020ElectionCalendar.pdf"]
+
+[20200707.poll]
+in_person_start = 2020-07-07T07:00:00
+in_person_by = 2020-07-07T20:00:00
+sources = ["https://elections.delaware.gov/calendar/2020ElectionCalendar.pdf"]
+
+[20200721]
+date = 2020-07-21
+name = "School Board Elections"
+original_date = 2020-07-21
+sources = ["https://elections.delaware.gov/calendar/2020ElectionCalendar.pdf"]
+
+[20200721.absentee.application]
+received_by = 2020-07-17
+sources = [
+    "https://elections.delaware.gov/pubs/pdfs/absentee_ballot_application.pdf"
+]
+
+[20200721.absentee]
+received_by = 2020-07-21T20:00:00
+sources = ["https://elections.delaware.gov/calendar/2020ElectionCalendar.pdf"]
+
+[20200721.poll]
+in_person_start = 2020-07-21T07:00:00
+in_person_by = 2020-07-21T20:00:00
+sources = ["https://elections.delaware.gov/calendar/2020ElectionCalendar.pdf"]
+
 [20200915]
 date = 2020-09-15
 name = "Congressional Primary"
 original_date = 2020-09-15
 
+[20200915.registration]
+received_by = 2020-08-22
+sources = ["https://elections.delaware.gov/calendar/2020ElectionCalendar.pdf"]
+
+[20200915.absentee.application]
+received_by = 2020-09-11
+sources = [
+    "https://elections.delaware.gov/pubs/pdfs/absentee_ballot_application.pdf"
+]
+
+[20200915.absentee]
+received_by = 2020-09-15T20:00:00
+sources = ["https://elections.delaware.gov/calendar/2020ElectionCalendar.pdf"]
+
+[20200915.poll]
+in_person_start = 2020-09-15T07:00:00
+in_person_by = 2020-09-15T20:00:00
+sources = ["https://elections.delaware.gov/calendar/2020ElectionCalendar.pdf"]
+
 [20201103]
 date = 2020-11-03
 name = "General"
 original_date = 2020-11-03
+
+[20201103.registration]
+received_by = 2020-10-10
+sources = ["https://elections.delaware.gov/calendar/2020ElectionCalendar.pdf"]
+
+[20201103.absentee.application]
+received_by = 2020-10-30
+sources = [
+    "https://elections.delaware.gov/pubs/pdfs/absentee_ballot_application.pdf"
+]
+
+[20201103.absentee]
+received_by = 2020-11-03T20:00:00
+sources = ["https://elections.delaware.gov/calendar/2020ElectionCalendar.pdf"]
+
+[20201103.poll]
+in_person_start = 2020-11-03T07:00:00
+in_person_by = 2020-11-03T20:00:00
+sources = ["https://elections.delaware.gov/calendar/2020ElectionCalendar.pdf"]

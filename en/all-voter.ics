@@ -208,11 +208,6 @@ SUMMARY:Last day to vote early in person in New York
 DTSTART;VALUE=DATE:20200621
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Last day for election officials to receive absentee applications i
- n Colorado
-DTSTART;VALUE=DATE:20200622
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
   in Colorado
 DTSTART;VALUE=DATE:20200622
@@ -332,15 +327,6 @@ DTSTART;VALUE=DATE:20200630
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Utah Congressional Primary
-DTSTART;VALUE=DATE:20200630
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Last day for election officials to receive absentee ballots in Col
- orado
-DTSTART;VALUE=DATE:20200630
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Last day to drop off an absentee ballot in Colorado
 DTSTART;VALUE=DATE:20200630
 END:VEVENT
 BEGIN:VEVENT
@@ -541,11 +527,6 @@ SUMMARY:Last day for election officials to receive voter registration form
 DTSTART;VALUE=DATE:20201014
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Last day for election officials to receive absentee applications i
- n Colorado
-DTSTART;VALUE=DATE:20201026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
   in Colorado
 DTSTART;VALUE=DATE:20201026
@@ -582,15 +563,6 @@ DTSTART;VALUE=DATE:20201102
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:General (Presidential) Election
-DTSTART;VALUE=DATE:20201103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Last day for election officials to receive absentee ballots in Col
- orado
-DTSTART;VALUE=DATE:20201103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Last day to drop off an absentee ballot in Colorado
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

@@ -45,7 +45,7 @@ sources = ["https://www.state.nj.us/state/elections/voter-registration.shtml",
            "https://www.state.nj.us/state/elections/assets/pdf/chrons/2020-chron-08-september-school-board.pdf"]
 
 [20200929.absentee.application]
-received_by = 2020-09-29
+received_by = 2020-09-22
 in_person_by = 2020-09-28T15:00:00
 sources = [
     "https://www.state.nj.us/state/elections/assets/pdf/chrons/2020-chron-08-september-school-board.pdf"
@@ -88,7 +88,7 @@ sources = [
 ]
 
 [20201103.absentee.military_overseas.application]
-online_by = "2020-07-03"
+online_by = 2020-10-30
 sources = [
     "https://www.state.nj.us/state/elections/assets/pdf/chrons/2020-chron-general-election-040820.pdf"
 ]

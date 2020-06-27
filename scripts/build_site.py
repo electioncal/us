@@ -79,7 +79,8 @@ for state_lower in states:
         for alternative in alternatives:
             extension = alternative["extension"]
             alternative["generator"](
-                county_dates, f"site/en/{state_lower}/{county_lower}/voter.{extension}"
+                county_dates, f"site/en/{state_lower}/{county_lower}/voter.{extension}",
+                state_info = state_info                
             )
         html.build(now, county_dates, state_info, dict(county_info), alternatives=alternatives)
 
@@ -91,6 +92,7 @@ for state_lower in states:
         alternative["generator"](
             state_dates,
             f"site/en/{state_lower}/voter.{extension}",
+            state_info=state_info,
             name=specific_feed_name.format(state_info["name"]),
         )
     for alternative in alternatives:
@@ -98,6 +100,7 @@ for state_lower in states:
         alternative["generator"](
             all_state_dates,
             f"site/en/{state_lower}/all-voter.{extension}",
+            state_info=state_info,
             name=all_feed_name.format(state_info["name"]),
             counties=counties
         )
@@ -110,6 +113,7 @@ for alternative in alternatives:
     alternative["generator"](
         federal_dates,
         f"site/en/voter.{extension}",
+        state_info=state_info,
         name=all_feed_name.format("United States"),
     )
 for alternative in alternatives:
@@ -117,6 +121,7 @@ for alternative in alternatives:
     alternative["generator"](
         election.dates,
         f"site/en/all-voter.{extension}",
+        state_info=state_info,
         name=all_feed_name.format("United States"),
         states=states
     )

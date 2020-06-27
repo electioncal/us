@@ -1,7 +1,7 @@
 import copy
 import icalendar as ical
 
-def generate(dates, output_filename, *, name=None, description=None, uid=None, states=None, counties=None):
+def generate(dates, output_filename, *, state_info=None, name=None, description=None, uid=None, states=None, counties=None):
     c = ical.Calendar()
     c.add("prodid", "-//electioncal.us generator//circuitpython.org//")
     c.add("version", "2.0")

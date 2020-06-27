@@ -2,7 +2,7 @@ import json
 import copy
 import datetime
 
-def generate(dates, output_filename, *, name=None, description=None, uid=None, states=None, counties=None):
+def generate(dates, output_filename, *, state_info=None, name=None, description=None, uid=None, states=None, counties=None):
     dates = copy.deepcopy(dates)
     path_parts = output_filename.split("/")
     top_level = {
@@ -22,6 +22,7 @@ def generate(dates, output_filename, *, name=None, description=None, uid=None, s
             date[key] = value.strftime("%Y-%m-%d")
         if "details" in date:
             del date["details"]
+        date["state"] = state_info["name"]
 
     with open(output_filename, "w") as f:
         json.dump(top_level, f)

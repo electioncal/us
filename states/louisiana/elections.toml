@@ -12,12 +12,12 @@ received_by = 2020-06-10
 in_person_by = 2020-06-10
 online_by = 2020-06-20
 sources = [
-    "https://www.sos.la.gov/ElectionsAndVoting/GetElectionInformation/Pages/default.aspx", 
+    "https://www.sos.la.gov/ElectionsAndVoting/GetElectionInformation/Pages/default.aspx",
     "https://www.sos.la.gov/ElectionsAndVoting/PublishedDocuments/LouisianaElectionQuickFacts.pdf"
 ]
 
 [20200711.absentee.application]
-received_by = 2020-07-07T16:30
+received_by = 2020-07-07T16:30:00
 sources = [
     "https://www.sos.la.gov/ElectionsAndVoting/GetElectionInformation/Pages/default.aspx",
     "https://www.sos.la.gov/ElectionsAndVoting/PublishedDocuments/LouisianaElectionQuickFacts.pdf"
@@ -54,8 +54,8 @@ sources = [
 
 [20200815.registration]
 in_person_by = 2020-07-15
-received_by  = 2020-07-15
-online_by = 2020-07-25  
+received_by = 2020-07-15
+online_by = 2020-07-25
 sources = [
     "https://www.sos.la.gov/ElectionsAndVoting/GetElectionInformation/Pages/default.aspx"
 ]
@@ -105,7 +105,6 @@ received_by = 2020-10-30T16:30:00
 sources = [
     "https://www.sos.la.gov/ElectionsAndVoting/GetElectionInformation/Pages/default.aspx"
 ]
-
 
 [20201103.absentee]
 received_by = 2020-11-02T16:30:00

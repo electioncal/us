@@ -1,9 +1,47 @@
 [20200714]
 date = 2020-07-14
 name = "Congressional Primary"
-original_date = 2020-07-14
+original_date = 2020-06-19
+
+[20200714.register]
+# received_by = ?? # Not specified
+in_person_by = 2020-07-14 # Same Day available
+sources = ["https://www.maine.gov/sos/cec/elec/voter-info/voterguide.html"]
+
+[20200714.absentee.application]
+in_person_by = 2020-07-09T17:00:00
+online_by = 2020-07-09T17:00:00
+sources = ["https://www.maine.gov/sos/cec/elec/voter-info/absenteeguide.html"]
+
+[20200714.absentee]
+received_by = 2020-07-14T20:00:00
+sources = ["https://www.maine.gov/sos/cec/elec/voter-info/absenteeguide.html"]
+
+[20200714.poll]
+in_person_by = 2020-07-14
+source = ["https://www.maine.gov/sos/cec/elec/upcoming/index.html"]
 
 [20201103]
 date = 2020-11-03
 name = "General"
 original_date = 2020-11-03
+sources = [
+    "https://www.maine.gov/sos/cec/elec/upcoming/Election%20Descriptions.html"
+]
+
+[20201103.register]
+# received_by = ?? # Not specified
+in_person_by = 2020-11-03 # Same Day available
+sources = ["https://www.maine.gov/sos/cec/elec/voter-info/voterguide.html"]
+
+[20201103.absentee.application]
+in_person_by = 2020-10-29T17:00:00
+online_by = 2020-10-29T17:00:00
+sources = ["https://www.maine.gov/sos/cec/elec/voter-info/absenteeguide.html"]
+
+[20201103.absentee]
+received_by = 2020-07-14T20:00:00
+sources = ["https://www.maine.gov/sos/cec/elec/voter-info/absenteeguide.html"]
+
+[20201103.poll]
+in_person_by = 2020-11-03

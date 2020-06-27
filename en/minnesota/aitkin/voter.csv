@@ -1,4 +1,4 @@
 date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
-2020-03-03 00:00:00,20200303,,election,,Presidential Primary,2020-03-03 00:00:00,minnesota,,
-2020-08-11 00:00:00,20200811,,election,,Congresssional Primary,2020-08-11 00:00:00,minnesota,,
-2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,,,
+2020-03-03 00:00:00,20200303,,election,,Presidential Primary,2020-03-03 00:00:00,Minnesota,,
+2020-08-11 00:00:00,20200811,,election,,Congresssional Primary,2020-08-11 00:00:00,Minnesota,,
+2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,Minnesota,,

@@ -1,4 +1,4 @@
 date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
-2020-07-11 00:00:00,20200711,,election,,Presidential Primary,2020-07-11 00:00:00,louisiana,,
-2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,,,
-2020-12-05 00:00:00,20201205,,election,,General Run-Off (if needed),2020-12-05 00:00:00,louisiana,,
+2020-07-11 00:00:00,20200711,,election,,Presidential Primary,2020-07-11 00:00:00,Louisiana,,
+2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,Louisiana,,
+2020-12-05 00:00:00,20201205,,election,,General Run-Off (if needed),2020-12-05 00:00:00,Louisiana,,

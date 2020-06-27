@@ -1,29 +1,29 @@
 date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
-2020-03-03 00:00:00,20200303,,election,,Congressional & Presidential Primary,2020-03-03 00:00:00,north_carolina,,
-2020-06-08 23:59:59,,20200512,reminder,absentee.application.received_by,Mail absentee application,,north_carolina,,True
-2020-06-09 23:59:59,,20200512,reminder,absentee.application.received_by,Mail absentee application at the post office,,north_carolina,,True
-2020-06-16 23:59:59,,20200512,deadline,absentee.application.received_by,Last day for election officials to receive absentee applications,,north_carolina,,True
-2020-06-16 23:59:59,,20200512,deadline,absentee.application.in_person_by,Last day to hand deliver an absentee applications,,north_carolina,,
-2020-06-16 23:59:59,,20200512,reminder,absentee.application.in_person_by,Drop off absentee application,,north_carolina,,
-2020-06-18 23:59:59,,20200512,reminder,absentee.received_by,Mail ballot,,north_carolina,,True
-2020-06-19 23:59:59,,20200512,reminder,absentee.received_by,Mail ballot at the post office,,north_carolina,,True
-2020-06-22 23:59:59,,20200512,reminder,poll.in_person_by,Plan to vote,,north_carolina,,
-2020-06-23 00:00:00,20200512,,election,,Congressional Primary Run-Off,2020-05-12 00:00:00,north_carolina,,
-2020-06-23 23:59:59,,20200512,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,north_carolina,,
-2020-06-23 23:59:59,,20200512,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,north_carolina,,True
-2020-06-23 23:59:59,,20200512,deadline,poll.in_person_by,Last day to vote in person,,north_carolina,,
-2020-06-23 23:59:59,,20200512,reminder,absentee.in_person_by,Drop off ballot,,north_carolina,,
-2020-06-23 23:59:59,,20200512,reminder,poll.in_person_by,Vote in person,,north_carolina,,
-2020-06-26 23:59:59,,20200512,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,north_carolina,,True
-2020-10-19 23:59:59,,20201103,reminder,absentee.application.received_by,Mail absentee application,,north_carolina,,True
-2020-10-20 23:59:59,,20201103,reminder,absentee.application.received_by,Mail absentee application at the post office,,north_carolina,,True
-2020-10-27 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,north_carolina,,
-2020-10-27 23:59:59,,20201103,deadline,absentee.application.received_by,Last day for election officials to receive absentee applications,,north_carolina,,True
-2020-10-27 23:59:59,,20201103,deadline,absentee.application.in_person_by,Last day to hand deliver an absentee applications,,north_carolina,,
-2020-10-27 23:59:59,,20201103,reminder,absentee.in_person_by,Drop off ballot,,north_carolina,,
-2020-10-27 23:59:59,,20201103,reminder,absentee.application.in_person_by,Drop off absentee application,,north_carolina,,
-2020-10-29 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,north_carolina,,True
-2020-10-30 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,north_carolina,,True
-2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,,,
-2020-11-03 23:59:59,,20201103,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,north_carolina,,True
-2020-11-06 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,north_carolina,,True
+2020-03-03 00:00:00,20200303,,election,,Congressional & Presidential Primary,2020-03-03 00:00:00,North Carolina,,
+2020-06-08 23:59:59,,20200512,reminder,absentee.application.received_by,Mail absentee application,,North Carolina,,True
+2020-06-09 23:59:59,,20200512,reminder,absentee.application.received_by,Mail absentee application at the post office,,North Carolina,,True
+2020-06-16 23:59:59,,20200512,deadline,absentee.application.received_by,Last day for election officials to receive absentee applications,,North Carolina,,True
+2020-06-16 23:59:59,,20200512,deadline,absentee.application.in_person_by,Last day to hand deliver an absentee applications,,North Carolina,,
+2020-06-16 23:59:59,,20200512,reminder,absentee.application.in_person_by,Drop off absentee application,,North Carolina,,
+2020-06-18 23:59:59,,20200512,reminder,absentee.received_by,Mail ballot,,North Carolina,,True
+2020-06-19 23:59:59,,20200512,reminder,absentee.received_by,Mail ballot at the post office,,North Carolina,,True
+2020-06-22 23:59:59,,20200512,reminder,poll.in_person_by,Plan to vote,,North Carolina,,
+2020-06-23 00:00:00,20200512,,election,,Congressional Primary Run-Off,2020-05-12 00:00:00,North Carolina,,
+2020-06-23 23:59:59,,20200512,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,North Carolina,,
+2020-06-23 23:59:59,,20200512,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,North Carolina,,True
+2020-06-23 23:59:59,,20200512,deadline,poll.in_person_by,Last day to vote in person,,North Carolina,,
+2020-06-23 23:59:59,,20200512,reminder,absentee.in_person_by,Drop off ballot,,North Carolina,,
+2020-06-23 23:59:59,,20200512,reminder,poll.in_person_by,Vote in person,,North Carolina,,
+2020-06-26 23:59:59,,20200512,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,North Carolina,,True
+2020-10-19 23:59:59,,20201103,reminder,absentee.application.received_by,Mail absentee application,,North Carolina,,True
+2020-10-20 23:59:59,,20201103,reminder,absentee.application.received_by,Mail absentee application at the post office,,North Carolina,,True
+2020-10-27 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,North Carolina,,
+2020-10-27 23:59:59,,20201103,deadline,absentee.application.received_by,Last day for election officials to receive absentee applications,,North Carolina,,True
+2020-10-27 23:59:59,,20201103,deadline,absentee.application.in_person_by,Last day to hand deliver an absentee applications,,North Carolina,,
+2020-10-27 23:59:59,,20201103,reminder,absentee.in_person_by,Drop off ballot,,North Carolina,,
+2020-10-27 23:59:59,,20201103,reminder,absentee.application.in_person_by,Drop off absentee application,,North Carolina,,
+2020-10-29 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,North Carolina,,True
+2020-10-30 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,North Carolina,,True
+2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,North Carolina,,
+2020-11-03 23:59:59,,20201103,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,North Carolina,,True
+2020-11-06 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,North Carolina,,True

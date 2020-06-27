@@ -26,6 +26,7 @@ sources = ["https://www.sos.alabama.gov/sites/default/files/2020%20Voter%20Guide
 
 [20200714.absentee.overseas_military]
 received_by = 2020-07-21
+postmark_by = 2020-07-14
 sources = ["https://www.sos.alabama.gov/sites/default/files/2020%20Voter%20Guide%205-15-2020.pdf", 
            "https://www.sos.alabama.gov/alabama-votes/voter/military-overseas-voting"]
 
@@ -58,5 +59,6 @@ sources = ["https://www.sos.alabama.gov/sites/default/files/2020%20Voter%20Guide
 
 [20201103.absentee.overseas_military]
 received_by = 2020-11-10
+postmark_by = 2020-11-03
 sources = ["https://www.sos.alabama.gov/sites/default/files/2020%20Voter%20Guide%205-15-2020.pdf", 
            "https://www.sos.alabama.gov/alabama-votes/voter/military-overseas-voting"]

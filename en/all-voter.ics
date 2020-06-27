@@ -183,6 +183,15 @@ DTSTART;VALUE=DATE:20200609
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
+  in Louisiana
+DTSTART;VALUE=DATE:20200610
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Louisiana
+DTSTART;VALUE=DATE:20200610
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
   in Delaware
 DTSTART;VALUE=DATE:20200613
 END:VEVENT
@@ -217,6 +226,10 @@ BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
   in Utah
 DTSTART;VALUE=DATE:20200619
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Louisiana
+DTSTART;VALUE=DATE:20200620
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote early in person in New York
@@ -425,7 +438,16 @@ SUMMARY:Last day to register to vote online in Missouri
 DTSTART;VALUE=DATE:20200708
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Lou
+ isiana
+DTSTART;VALUE=DATE:20200710
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Louisiana Presidential Primary
+DTSTART;VALUE=DATE:20200711
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Louisiana
 DTSTART;VALUE=DATE:20200711
 END:VEVENT
 BEGIN:VEVENT
@@ -450,6 +472,15 @@ SUMMARY:Last day for election officials to receive absentee ballots in New
 DTSTART;VALUE=DATE:20200714
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Louisiana
+DTSTART;VALUE=DATE:20200715
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Louisiana
+DTSTART;VALUE=DATE:20200715
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Delaware School Board Elections
 DTSTART;VALUE=DATE:20200721
 END:VEVENT
@@ -466,6 +497,10 @@ BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee applications i
  n Missouri
 DTSTART;VALUE=DATE:20200722
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Louisiana
+DTSTART;VALUE=DATE:20200725
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:U.S. Virgin Islands Congressional Primary
@@ -527,6 +562,19 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wisconsin Congressional Primary
 DTSTART;VALUE=DATE:20200811
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Lou
+ isiana
+DTSTART;VALUE=DATE:20200814
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louisiana Municipal General Election
+DTSTART;VALUE=DATE:20200815
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Louisiana
+DTSTART;VALUE=DATE:20200815
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alaska Congressional Primary
@@ -630,6 +678,15 @@ SUMMARY:Last day to register to vote online in South Carolina
 DTSTART;VALUE=DATE:20201004
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Louisiana
+DTSTART;VALUE=DATE:20201005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Louisiana
+DTSTART;VALUE=DATE:20201005
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to postmark voter registration form in South Carolina
 DTSTART;VALUE=DATE:20201005
 END:VEVENT
@@ -657,6 +714,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person in New York
 DTSTART;VALUE=DATE:20201010
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Louisiana
+DTSTART;VALUE=DATE:20201013
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
@@ -704,6 +765,11 @@ SUMMARY:Last day to drop off an absentee ballot in Oklahoma
 DTSTART;VALUE=DATE:20201031
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Lou
+ isiana
+DTSTART;VALUE=DATE:20201102
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to postmark absentee ballots in New York
 DTSTART;VALUE=DATE:20201102
 END:VEVENT
@@ -730,6 +796,10 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person in Delaware
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Louisiana
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
@@ -770,6 +840,15 @@ SUMMARY:Last day to vote in person in Utah
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Louisiana
+DTSTART;VALUE=DATE:20201104
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Louisiana
+DTSTART;VALUE=DATE:20201104
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in New
   Jersey
 DTSTART;VALUE=DATE:20201105
@@ -790,6 +869,10 @@ SUMMARY:Last day for election officials to receive military and overseas b
 DTSTART;VALUE=DATE:20201112
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Louisiana
+DTSTART;VALUE=DATE:20201114
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
   in New Jersey
 DTSTART;VALUE=DATE:20201117
@@ -799,7 +882,16 @@ SUMMARY:Last day to register to vote in person in New Jersey
 DTSTART;VALUE=DATE:20201117
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Louisiana General Run-Off (if needed)
+SUMMARY:Last day for election officials to receive absentee ballots in Lou
+ isiana
+DTSTART;VALUE=DATE:20201204
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louisiana Congressional and Open General Election
+DTSTART;VALUE=DATE:20201205
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Louisiana
 DTSTART;VALUE=DATE:20201205
 END:VEVENT
 BEGIN:VEVENT

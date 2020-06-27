@@ -6,3 +6,5 @@ registration_info = "https://www.alabamainteractive.org/sos/voter_registration/v
 absentee_info = "https://www.sos.alabama.gov/alabama-votes/voter/absentee-voting"
 military_overseas_info = "https://www.sos.alabama.gov/alabama-votes/voter/military-overseas-voting"
 demonym = "Alabamian"
+sos_twitter = "alasecofstate"
+governor_twitter = "GovernorKayIvey"

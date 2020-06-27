@@ -91,6 +91,7 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-06-22 23:59:59,,20200623,reminder,absentee.application.in_person_by,Drop off absentee application,,new_york,,
 2020-06-22 23:59:59,,20200623,reminder,poll.in_person_by,Plan to vote,,new_york,,
 2020-06-22 23:59:59,,20200512,reminder,poll.in_person_by,Plan to vote,,north_carolina,,
+2020-06-22 23:59:59,,20200630,reminder,absentee.received_by,Mail ballot,,oklahoma,,True
 2020-06-22 23:59:59,,20200623,reminder,poll.in_person_by,Plan to vote,,south_carolina,,
 2020-06-22 23:59:59,,20200623,reminder,poll.in_person_by,Plan to vote,,virginia,,
 2020-06-23 00:00:00,20200623,,election,,Kentucky Presidential Primary,2020-06-23 00:00:00,kentucky,,
@@ -113,6 +114,7 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-06-23 23:59:59,,20200512,deadline,poll.in_person_by,Last day to vote in person,,north_carolina,,
 2020-06-23 23:59:59,,20200512,reminder,absentee.in_person_by,Drop off ballot,,north_carolina,,
 2020-06-23 23:59:59,,20200512,reminder,poll.in_person_by,Vote in person,,north_carolina,,
+2020-06-23 23:59:59,,20200630,reminder,absentee.received_by,Mail ballot at the post office,,oklahoma,,True
 2020-06-23 23:59:59,,20200623,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,south_carolina,,True
 2020-06-23 23:59:59,,20200623,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,south_carolina,,
 2020-06-23 23:59:59,,20200623,deadline,poll.in_person_by,Last day to vote in person,,south_carolina,,
@@ -125,8 +127,11 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-06-23 23:59:59,,20200623,reminder,poll.in_person_by,Vote in person,,virginia,,
 2020-06-26 23:59:59,,20200512,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,north_carolina,,True
 2020-06-27 23:59:59,,20200623,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,kentucky,,True
+2020-06-27 23:59:59,,20200630,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,oklahoma,,
+2020-06-27 23:59:59,,20200630,reminder,absentee.in_person_by,Drop off ballot,,oklahoma,,
 2020-06-29 23:59:59,,20200630,reminder,poll.in_person_by,Plan to vote,,colorado,,
 2020-06-29 23:59:59,,20200707,reminder,absentee.received_by,Mail ballot,,delaware,,True
+2020-06-29 23:59:59,,20200630,reminder,poll.in_person_by,Plan to vote,,oklahoma,,
 2020-06-30 00:00:00,20200630,,election,,Colorado Congressional Primary,2020-06-30 00:00:00,colorado,,
 2020-06-30 00:00:00,20200630,,election,,Oklahoma Congressional Primary,2020-06-30 00:00:00,oklahoma,,
 2020-06-30 00:00:00,20200630,,election,,Utah Congressional Primary,2020-06-30 00:00:00,utah,,
@@ -137,6 +142,9 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-06-30 23:59:59,,20200630,reminder,absentee.overseas_military.received_by,Mail ballot,,colorado,,True
 2020-06-30 23:59:59,,20200707,reminder,absentee.received_by,Mail ballot at the post office,,delaware,,True
 2020-06-30 23:59:59,,20200623,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,new_york,,False
+2020-06-30 23:59:59,,20200630,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,oklahoma,,True
+2020-06-30 23:59:59,,20200630,deadline,poll.in_person_by,Last day to vote in person,,oklahoma,,
+2020-06-30 23:59:59,,20200630,reminder,poll.in_person_by,Vote in person,,oklahoma,,
 2020-06-30 23:59:59,,20200630,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,utah,,
 2020-06-30 23:59:59,,20200630,reminder,absentee.in_person_by,Drop off ballot,,utah,,
 2020-07-01 23:59:59,,20200630,reminder,absentee.overseas_military.received_by,Mail ballot at the post office,,colorado,,True
@@ -188,11 +196,19 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-08-11 00:00:00,20200811,,election,,Wisconsin Congressional Primary,2020-08-11 00:00:00,wisconsin,,
 2020-08-14 23:59:59,,20200915,reminder,registration.received_by,Mail voter registration,,delaware,,True
 2020-08-15 23:59:59,,20200915,reminder,registration.received_by,Mail voter registration at the post office,,delaware,,True
+2020-08-17 23:59:59,,20200825,reminder,absentee.received_by,Mail ballot,,oklahoma,,True
 2020-08-18 00:00:00,20200818,,election,,Alaska Congressional Primary,2020-08-18 00:00:00,alaska,,
 2020-08-18 00:00:00,20200818,,election,,Florida Congressional Primary,2020-08-18 00:00:00,florida,,
 2020-08-18 00:00:00,20200818,,election,,Wyoming Congressional Primary,2020-08-18 00:00:00,wyoming,,
+2020-08-18 23:59:59,,20200825,reminder,absentee.received_by,Mail ballot at the post office,,oklahoma,,True
 2020-08-22 23:59:59,,20200915,deadline,registration.received_by,Last day for election officials to receive voter registration form,,delaware,,True
+2020-08-22 23:59:59,,20200825,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,oklahoma,,
+2020-08-22 23:59:59,,20200825,reminder,absentee.in_person_by,Drop off ballot,,oklahoma,,
+2020-08-24 23:59:59,,20200825,reminder,poll.in_person_by,Plan to vote,,oklahoma,,
 2020-08-25 00:00:00,20200825,,election,,Oklahoma Congressional Primary Run-off (if needed),2020-08-25 00:00:00,oklahoma,,
+2020-08-25 23:59:59,,20200825,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,oklahoma,,True
+2020-08-25 23:59:59,,20200825,deadline,poll.in_person_by,Last day to vote in person,,oklahoma,,
+2020-08-25 23:59:59,,20200825,reminder,poll.in_person_by,Vote in person,,oklahoma,,
 2020-08-29 00:00:00,20200829,,election,,Guam Congressional Primary,2020-08-29 00:00:00,guam,,
 2020-09-01 00:00:00,20200901,,election,,Massachusetts Congressional Primary,2020-09-01 00:00:00,massachusetts,,
 2020-09-07 23:59:59,,20200915,reminder,absentee.received_by,Mail ballot,,delaware,,True
@@ -234,6 +250,7 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-10-26 23:59:59,,20201103,deadline,registration.received_by,Last day for election officials to receive voter registration form,,colorado,,True
 2020-10-26 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,delaware,,True
 2020-10-26 23:59:59,,20201103,reminder,absentee.application.postmarked_by,Mail absentee application,,new_york,,False
+2020-10-26 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,oklahoma,,True
 2020-10-27 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,delaware,,True
 2020-10-27 23:59:59,,20201103,deadline,absentee.application.postmarked_by,Last day to postmark absentee applications,,new_york,,False
 2020-10-27 23:59:59,,20201103,reminder,absentee.application.postmarked_by,Mail absentee application at the post office,,new_york,,False
@@ -242,10 +259,13 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-10-27 23:59:59,,20201103,deadline,absentee.application.in_person_by,Last day to hand deliver an absentee applications,,north_carolina,,
 2020-10-27 23:59:59,,20201103,reminder,absentee.in_person_by,Drop off ballot,,north_carolina,,
 2020-10-27 23:59:59,,20201103,reminder,absentee.application.in_person_by,Drop off absentee application,,north_carolina,,
+2020-10-27 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,oklahoma,,True
 2020-10-29 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,north_carolina,,True
 2020-10-30 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,north_carolina,,True
 2020-10-30 23:59:59,,20201103,deadline,absentee.application.online_by,Last day to apply online for a mail-in ballot,,south_carolina,,
 2020-10-30 23:59:59,,20201103,reminder,absentee.application.online_by,Apply for an absentee ballot online,,south_carolina,,
+2020-10-31 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,oklahoma,,
+2020-10-31 23:59:59,,20201103,reminder,absentee.in_person_by,Drop off ballot,,oklahoma,,
 2020-11-01 23:59:59,,20201103,reminder,absentee.postmarked_by,Mail ballot,,new_york,,False
 2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,colorado,,
 2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,delaware,,
@@ -253,6 +273,7 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-11-02 23:59:59,,20201103,deadline,absentee.application.in_person_by,Last day to hand deliver an absentee applications,,new_york,,
 2020-11-02 23:59:59,,20201103,reminder,absentee.postmarked_by,Mail ballot at the post office,,new_york,,False
 2020-11-02 23:59:59,,20201103,reminder,absentee.application.in_person_by,Drop off absentee application,,new_york,,
+2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,oklahoma,,
 2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,south_carolina,,
 2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,utah,,
 2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,,,
@@ -266,6 +287,9 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-11-03 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,new_york,,
 2020-11-03 23:59:59,,20201103,reminder,absentee.in_person_by,Drop off ballot,,new_york,,
 2020-11-03 23:59:59,,20201103,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,north_carolina,,True
+2020-11-03 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,oklahoma,,True
+2020-11-03 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,oklahoma,,
+2020-11-03 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,oklahoma,,
 2020-11-03 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,south_carolina,,
 2020-11-03 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,south_carolina,,
 2020-11-03 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,utah,,

@@ -328,6 +328,10 @@ SUMMARY:Last day for election officials to receive absentee ballots in Ken
 DTSTART;VALUE=DATE:20200627
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Oklahoma
+DTSTART;VALUE=DATE:20200627
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Colorado Congressional Primary
 DTSTART;VALUE=DATE:20200630
 END:VEVENT
@@ -350,6 +354,15 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in New
   York
+DTSTART;VALUE=DATE:20200630
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Okl
+ ahoma
+DTSTART;VALUE=DATE:20200630
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Oklahoma
 DTSTART;VALUE=DATE:20200630
 END:VEVENT
 BEGIN:VEVENT
@@ -507,7 +520,20 @@ SUMMARY:Last day for election officials to receive voter registration form
 DTSTART;VALUE=DATE:20200822
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Oklahoma
+DTSTART;VALUE=DATE:20200822
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Oklahoma Congressional Primary Run-off (if needed)
+DTSTART;VALUE=DATE:20200825
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Okl
+ ahoma
+DTSTART;VALUE=DATE:20200825
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Oklahoma
 DTSTART;VALUE=DATE:20200825
 END:VEVENT
 BEGIN:VEVENT
@@ -609,6 +635,10 @@ SUMMARY:Last day to apply online for a mail-in ballot in South Carolina
 DTSTART;VALUE=DATE:20201030
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Oklahoma
+DTSTART;VALUE=DATE:20201031
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to postmark absentee ballots in New York
 DTSTART;VALUE=DATE:20201102
 END:VEVENT
@@ -643,6 +673,15 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to postmark absentee ballots in North Carolina
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Okl
+ ahoma
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Oklahoma
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

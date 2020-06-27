@@ -1,0 +1,9 @@
+{% extends "base.html.jinja" %}
+{% block twitter %}
+{% endblock %}
+{% block title %}US {{debug_name}} {% endblock %}
+{% block content %}
+    {% for state in states %}
+      <img src="/{{ language }}/{{state.lower_name}}/{{ filename }}"/>
+    {% endfor %}
+{% endblock %}

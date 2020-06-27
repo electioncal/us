@@ -1,3 +1,59 @@
 date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
+2020-06-08 23:59:59,,20200707,reminder,registration.received_by,Mail voter registration,,New Jersey,,True
+2020-06-09 23:59:59,,20200707,reminder,registration.received_by,Mail voter registration at the post office,,New Jersey,,True
+2020-06-16 23:59:59,,20200707,deadline,registration.received_by,Last day for election officials to receive voter registration form,,New Jersey,,True
+2020-07-06 23:59:59,,20200707,reminder,absentee.postmarked_by,Mail ballot,,New Jersey,,False
+2020-07-06 23:59:59,,20200707,reminder,poll.in_person_by,Plan to vote,,New Jersey,,
+2020-07-06 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,New Jersey,,
 2020-07-07 00:00:00,20200707,,election,,Congressional & Presidential Primary,2020-07-07 00:00:00,New Jersey,,
+2020-07-07 23:59:59,,20200707,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,New Jersey,,
+2020-07-07 23:59:59,,20200707,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,New Jersey,,False
+2020-07-07 23:59:59,,20200707,deadline,poll.in_person_by,Last day to vote in person,,New Jersey,,
+2020-07-07 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,New Jersey,,
+2020-07-07 23:59:59,,20200707,reminder,absentee.in_person_by,Drop off ballot,,New Jersey,,
+2020-07-07 23:59:59,,20200707,reminder,absentee.postmarked_by,Mail ballot at the post office,,New Jersey,,False
+2020-07-07 23:59:59,,20200707,reminder,poll.in_person_by,Vote in person,,New Jersey,,
+2020-07-07 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,New Jersey,,
+2020-07-14 23:59:59,,20200707,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,New Jersey,,False
+2020-08-31 23:59:59,,20200929,reminder,registration.received_by,Mail voter registration,,New Jersey,,True
+2020-09-01 23:59:59,,20200929,reminder,registration.received_by,Mail voter registration at the post office,,New Jersey,,True
+2020-09-08 23:59:59,,20200929,deadline,registration.received_by,Last day for election officials to receive voter registration form,,New Jersey,,True
+2020-09-08 23:59:59,,20200929,deadline,registration.in_person_by,Last day to register to vote in person,,New Jersey,,
+2020-09-08 23:59:59,,20200929,reminder,registration.in_person_by,Register to vote in person,,New Jersey,,
+2020-09-23 23:59:59,,20200929,reminder,absentee.received_by,Mail ballot,,New Jersey,,True
+2020-09-24 23:59:59,,20200929,reminder,absentee.received_by,Mail ballot at the post office,,New Jersey,,True
+2020-09-28 23:59:59,,20200929,reminder,poll.in_person_by,Plan to vote,,New Jersey,,
+2020-09-29 00:00:00,20200929,,election,,September Special School Board,2020-09-29 00:00:00,New Jersey,,
+2020-09-29 23:59:59,,20200929,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,New Jersey,,
+2020-09-29 23:59:59,,20200929,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,New Jersey,,True
+2020-09-29 23:59:59,,20200929,deadline,poll.in_person_by,Last day to vote in person,,New Jersey,,
+2020-09-29 23:59:59,,20200929,reminder,absentee.in_person_by,Drop off ballot,,New Jersey,,
+2020-09-29 23:59:59,,20200929,reminder,poll.in_person_by,Vote in person,,New Jersey,,
+2020-10-01 23:59:59,,20200929,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,New Jersey,,True
+2020-10-05 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration,,New Jersey,,True
+2020-10-06 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration at the post office,,New Jersey,,True
+2020-10-13 23:59:59,,20201103,deadline,registration.received_by,Last day for election officials to receive voter registration form,,New Jersey,,True
+2020-10-13 23:59:59,,20201103,deadline,registration.in_person_by,Last day to register to vote in person,,New Jersey,,
+2020-10-13 23:59:59,,20201103,reminder,registration.in_person_by,Register to vote in person,,New Jersey,,
+2020-10-28 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,New Jersey,,True
+2020-10-29 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,New Jersey,,True
 2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,New Jersey,,
+2020-11-03 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,New Jersey,,
+2020-11-03 23:59:59,,20201103,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,New Jersey,,True
+2020-11-03 23:59:59,,20201103,reminder,absentee.in_person_by,Drop off ballot,,New Jersey,,
+2020-11-05 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,New Jersey,,True
+2020-11-09 23:59:59,,20201208,reminder,registration.received_by,Mail voter registration,,New Jersey,,True
+2020-11-10 23:59:59,,20201208,reminder,registration.received_by,Mail voter registration at the post office,,New Jersey,,True
+2020-11-17 23:59:59,,20201208,deadline,registration.received_by,Last day for election officials to receive voter registration form,,New Jersey,,True
+2020-11-17 23:59:59,,20201208,deadline,registration.in_person_by,Last day to register to vote in person,,New Jersey,,
+2020-11-17 23:59:59,,20201208,reminder,registration.in_person_by,Register to vote in person,,New Jersey,,
+2020-12-02 23:59:59,,20201208,reminder,absentee.received_by,Mail ballot,,New Jersey,,True
+2020-12-03 23:59:59,,20201208,reminder,absentee.received_by,Mail ballot at the post office,,New Jersey,,True
+2020-12-07 23:59:59,,20201208,reminder,poll.in_person_by,Plan to vote,,New Jersey,,
+2020-12-08 00:00:00,20201208,,election,,December Special School Board,2020-12-08 00:00:00,New Jersey,,
+2020-12-08 23:59:59,,20201208,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,New Jersey,,
+2020-12-08 23:59:59,,20201208,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,New Jersey,,True
+2020-12-08 23:59:59,,20201208,deadline,poll.in_person_by,Last day to vote in person,,New Jersey,,
+2020-12-08 23:59:59,,20201208,reminder,absentee.in_person_by,Drop off ballot,,New Jersey,,
+2020-12-08 23:59:59,,20201208,reminder,poll.in_person_by,Vote in person,,New Jersey,,
+2020-12-10 23:59:59,,20201208,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,New Jersey,,True

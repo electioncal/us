@@ -195,6 +195,11 @@ SUMMARY:Last day to apply online for a mail-in ballot in Kentucky
 DTSTART;VALUE=DATE:20200615
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in New Jersey
+DTSTART;VALUE=DATE:20200616
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to postmark absentee applications in New York
 DTSTART;VALUE=DATE:20200616
 END:VEVENT
@@ -387,6 +392,22 @@ SUMMARY:Last day to vote in person in Delaware
 DTSTART;VALUE=DATE:20200707
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in New Jersey
+DTSTART;VALUE=DATE:20200707
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots in New Jersey
+DTSTART;VALUE=DATE:20200707
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in New Jersey
+DTSTART;VALUE=DATE:20200707
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in New Jersey
+DTSTART;VALUE=DATE:20200707
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive military and overseas b
  allots in Colorado
 DTSTART;VALUE=DATE:20200708
@@ -421,6 +442,11 @@ DTSTART;VALUE=DATE:20200714
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Texas Congressional Primary Run-Off (if needed)
+DTSTART;VALUE=DATE:20200714
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in New
+  Jersey
 DTSTART;VALUE=DATE:20200714
 END:VEVENT
 BEGIN:VEVENT
@@ -553,6 +579,15 @@ SUMMARY:Rhode Island Congressional Primary
 DTSTART;VALUE=DATE:20200908
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in New Jersey
+DTSTART;VALUE=DATE:20200908
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in New Jersey
+DTSTART;VALUE=DATE:20200908
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Delaware Congressional Primary
 DTSTART;VALUE=DATE:20200915
 END:VEVENT
@@ -564,6 +599,27 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person in Delaware
 DTSTART;VALUE=DATE:20200915
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Jersey September Special School Board
+DTSTART;VALUE=DATE:20200929
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in New Jersey
+DTSTART;VALUE=DATE:20200929
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots in New Jersey
+DTSTART;VALUE=DATE:20200929
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in New Jersey
+DTSTART;VALUE=DATE:20200929
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in New
+  Jersey
+DTSTART;VALUE=DATE:20201001
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person in South Carolina
@@ -601,6 +657,15 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person in New York
 DTSTART;VALUE=DATE:20201010
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in New Jersey
+DTSTART;VALUE=DATE:20201013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in New Jersey
+DTSTART;VALUE=DATE:20201013
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
@@ -668,6 +733,14 @@ SUMMARY:Last day to vote in person in Delaware
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in New Jersey
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots in New Jersey
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to drop off an absentee ballot in New York
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
@@ -697,6 +770,11 @@ SUMMARY:Last day to vote in person in Utah
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in New
+  Jersey
+DTSTART;VALUE=DATE:20201105
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in Nor
  th Carolina
 DTSTART;VALUE=DATE:20201106
@@ -712,8 +790,38 @@ SUMMARY:Last day for election officials to receive military and overseas b
 DTSTART;VALUE=DATE:20201112
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in New Jersey
+DTSTART;VALUE=DATE:20201117
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in New Jersey
+DTSTART;VALUE=DATE:20201117
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Louisiana General Run-Off (if needed)
 DTSTART;VALUE=DATE:20201205
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Jersey December Special School Board
+DTSTART;VALUE=DATE:20201208
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in New Jersey
+DTSTART;VALUE=DATE:20201208
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots in New Jersey
+DTSTART;VALUE=DATE:20201208
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in New Jersey
+DTSTART;VALUE=DATE:20201208
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in New
+  Jersey
+DTSTART;VALUE=DATE:20201210
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Georgia General Run-Off (if needed)

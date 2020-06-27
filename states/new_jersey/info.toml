@@ -6,3 +6,8 @@ registration_info = "http://nj.gov/state/elections/voting-information.html"
 absentee_info = "https://www.state.nj.us/state/elections/vote-by-mail.shtml"
 military_overseas_info = "https://www.state.nj.us/state/elections/vote-military-and-overseas.shtml"
 demonym = "New Jerseyan"
+sos_twitter = "SecretaryWay"
+governor_twitter = "GovMurphy"
+
+# registration lead is 21 days before the election
+# mail-in application is 7 days by mail, 3pm the day before in person

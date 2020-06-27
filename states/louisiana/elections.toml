@@ -27,12 +27,11 @@ sources = [
 received_by = 2020-07-10T16:30:00
 sources = [
     "https://www.sos.la.gov/ElectionsAndVoting/GetElectionInformation/Pages/default.aspx",
-    "https://www.sos.la.gov/ElectionsAndVoting/PublishedDocuments/LouisianaElectionQuickFacts.pdf"
 ]
 
 [20200711.poll.early]
-in_person_start = 2020-06-20
-in_person_by = 2020-07-04
+in_person_start = 2020-06-20T08:30:00
+in_person_by = 2020-07-04T18:00:00
 sources = [
     "https://www.sos.la.gov/ElectionsAndVoting/GetElectionInformation/Pages/default.aspx",
     "https://www.sos.la.gov/ElectionsAndVoting/PublishedDocuments/LouisianaElectionQuickFacts.pdf"
@@ -47,7 +46,7 @@ sources = [
 
 [20200815]
 date = 2020-08-15
-name = " Municipal General Election"
+name = "Municipal General Election"
 original_date = 2020-07-25
 sources = [
     "https://www.sos.la.gov/ElectionsAndVoting/GetElectionInformation/Pages/default.aspx"
@@ -83,7 +82,7 @@ sources = [
 [20200815.poll]
 in_person_start = 2020-08-15T07:00:00
 in_person_by = 2020-08-15T20:00:00
-sources = [] # Assumed based on other election
+sources = [] # None, Assumed based on other election
 
 [20201103]
 date = 2020-11-03
@@ -124,7 +123,7 @@ sources = [
 [20201103.poll]
 in_person_start = 2020-11-03T07:00:00
 in_person_by = 2020-11-03T20:00:00
-sources = [] # Assumed based on other election
+sources = [] # None, Assumed based on other election
 
 [20201205]
 date = 2020-12-05
@@ -164,4 +163,4 @@ sources = [
 [20201205.poll]
 in_person_start = 2020-12-05T07:00:00
 in_person_by = 2020-12-05T20:00:00
-sources = [] # Assumed based on other election
+sources = [] # None, Assumed based on other election

@@ -12,9 +12,11 @@ def generate(dates, output_filename, *, state_info=None, name=None, description=
             name = None
             if date["state"] and states:
                 name = states[date["state"]]["name"]
+                date["state"] = states[date["state"]]["name"]
             elif date["county"] and counties:
                 name = counties[date["county"]]["name"]
             if date["type"] == "election" and name:
                 date["name"] = name + " " + date["name"]
-            date["state"] = state_info["name"]
+            if state_info:
+                    date["state"] = state_info["name"]
             writer.writerow(date)

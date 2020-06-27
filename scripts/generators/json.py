@@ -22,7 +22,10 @@ def generate(dates, output_filename, *, state_info=None, name=None, description=
             date[key] = value.strftime("%Y-%m-%d")
         if "details" in date:
             del date["details"]
-        date["state"] = state_info["name"]
+        if states and date["state"] is not None:
+            date["state"] = states[date["state"]]["name"]
+        if state_info:
+            date["state"] = state_info["name"]
 
     with open(output_filename, "w") as f:
         json.dump(top_level, f)

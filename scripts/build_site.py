@@ -113,7 +113,6 @@ for alternative in alternatives:
     alternative["generator"](
         federal_dates,
         f"site/en/voter.{extension}",
-        state_info=state_info,
         name=all_feed_name.format("United States"),
     )
 for alternative in alternatives:
@@ -121,7 +120,6 @@ for alternative in alternatives:
     alternative["generator"](
         election.dates,
         f"site/en/all-voter.{extension}",
-        state_info=state_info,
         name=all_feed_name.format("United States"),
         states=states
     )

@@ -1,12 +1,45 @@
-[20200303]
-date = 2020-03-03
-name = "Congressional & Presidential Primary"
-original_date = 2020-03-03
-
 [20200714]
 date = 2020-07-14
 name = "Congressional Primary Run-Off (if needed)"
 original_date = 2020-07-14
+
+[20200714.registration]
+received_by = 2020-06-15
+postmarked_by = 2020-06-15
+in_person_by = 2020-06-15
+sources = ["https://www.sos.state.tx.us/elections/voter/important-election-dates.shtml",
+            "https://www.votetexas.gov/register-to-vote/you-must-register-by.html",
+            "https://www.votetexas.gov/faq/index.html#2798"]
+
+[20200714.poll]
+in_person_starts = 2020-07-14T07:00:00
+in_person_by = 2020-07-14T19:00:00
+sources = ["https://www.sos.state.tx.us/elections/voter/important-election-dates.shtml"]
+
+[20200714.poll.early]
+in_person_starts = 2020-06-29
+in_person_by = 2020-07-10
+sources = ["https://www.sos.state.tx.us/elections/voter/important-election-dates.shtml",
+           "https://www.votetexas.gov/faq/early-voting.html#2773"]
+
+[20200714.absentee]
+received_by = 2020-07-15T17:00:00
+postmarked_by = 2020-07-14T19:00:00
+sources = ["https://www.sos.state.tx.us/elections/voter/important-election-dates.shtml",
+           "https://www.votetexas.gov/military-overseas-voters/index.html",
+           "https://www.sos.texas.gov/elections/voter/reqabbm.shtml"]
+
+[20200714.absentee.application]
+received_by = 2020-07-02
+sources = ["https://www.sos.state.tx.us/elections/voter/important-election-dates.shtml",
+           "https://www.votetexas.gov/military-overseas-voters/index.html",
+           "https://www.sos.texas.gov/elections/voter/reqabbm.shtml"]
+
+
+[20200714.absentee.overseas_military]
+received_by = 2020-07-21
+sources = ["https://www.sos.state.tx.us/elections/voter/important-election-dates.shtml"
+           "https://www.votetexas.gov/military-overseas-voters/index.html"]
 
 [20201103]
 date = 2020-11-03

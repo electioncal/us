@@ -32,6 +32,7 @@ sources = [
 [20200804.poll]
 in_person_start = 2020-08-04T07:00:00
 in_person_by = 2020-08-04T20:00:00
+sources = ["https://www.michigan.gov/sos/0,4670,7-127-5647_12539_29836-182726--,00.html"]
 
 [20201103]
 date = 2020-11-03
@@ -62,3 +63,4 @@ sources = [
 [20201103.poll]
 in_person_start = 2020-11-03T07:00:00
 in_person_by = 2020-11-03T20:00:00
+sources = ["https://www.michigan.gov/sos/0,4670,7-127-5647_12539_29836-182726--,00.html"]

@@ -563,6 +563,15 @@ SUMMARY:Last day to register to vote in person in Louisiana
 DTSTART;VALUE=DATE:20200715
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Michigan
+DTSTART;VALUE=DATE:20200720
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Michigan
+DTSTART;VALUE=DATE:20200720
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Delaware School Board Elections
 DTSTART;VALUE=DATE:20200721
 END:VEVENT
@@ -658,6 +667,23 @@ DTSTART;VALUE=DATE:20200804
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person in Kansas
+DTSTART;VALUE=DATE:20200804
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Mic
+ higan
+DTSTART;VALUE=DATE:20200804
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Michigan
+DTSTART;VALUE=DATE:20200804
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Michigan
+DTSTART;VALUE=DATE:20200804
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Michigan
 DTSTART;VALUE=DATE:20200804
 END:VEVENT
 BEGIN:VEVENT
@@ -933,6 +959,15 @@ DTSTART;VALUE=DATE:20201019
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
+  in Michigan
+DTSTART;VALUE=DATE:20201019
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Michigan
+DTSTART;VALUE=DATE:20201019
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
   in Utah
 DTSTART;VALUE=DATE:20201023
 END:VEVENT
@@ -1071,6 +1106,23 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person in Maine
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Mic
+ higan
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Michigan
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Michigan
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Michigan
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

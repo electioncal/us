@@ -1,6 +1,7 @@
 import copy
 import jinja2
 import pendulum
+import subprocess
 
 from . import images
 
@@ -13,6 +14,7 @@ county_index = env.get_template("state/county/index.html.jinja")
 top_level = env.get_template("index.html.jinja")
 top_level_debug = env.get_template("debug.html.jinja")
 
+git_sha = subprocess.run(["git", "rev-parse", "HEAD"], capture_output=True).stdout.decode("utf-8").strip()
 
 def build(
     now,
@@ -125,7 +127,8 @@ def build(
         "reminder": next_reminder,
         "main_date": main_date,
         "secondary_date": secondary_date,
-        "path": path
+        "path": path,
+        "git_sha": git_sha
     }
     template = top_level
     debug_template = None

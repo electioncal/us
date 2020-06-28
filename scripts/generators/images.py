@@ -3,7 +3,7 @@ from PIL import Image, ImageDraw, ImageFont
 import math
 
 width = 1080
-height = 540
+height = 565
 scale_factor = 4
 
 font30 = ImageFont.truetype('site/static/fonts/Open_Sans/OpenSans-Regular.ttf', 30, layout_engine=ImageFont.LAYOUT_RAQM)
@@ -95,7 +95,8 @@ def render_twitter_image(fn, state=None, county=None, reminder=None, main_date="
     if county:
         d.text((one_third + 6, 3), county, fill="#eeeeee", font=font30b)
     if state:
-        d.text((6,3), state, fill="#eeeeee", font=font30b)
+        size = d.textsize(state, font=font30b)
+        d.text((one_third - 6 - size[0], 3), state, fill="#eeeeee", font=font30b)
     if reminder:
         draw_centered(d, 110, reminder, fill="#eeeeee", font=font50)
     if main_date:

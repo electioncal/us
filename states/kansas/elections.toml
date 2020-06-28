@@ -8,7 +8,7 @@ online_by = 2020-07-14
 receive_by = 2020-07-14
 in_person_by = 2020-07-14
 sources = [
-    "https://sos.kansas.gov/elections/,
+    "https://sos.kansas.gov/elections/",
     "https://sos.kansas.gov/elections/registration-voting/"
 ]
 
@@ -52,7 +52,7 @@ online_by = 2020-10-13
 receive_by = 2020-10-13
 in_person_by = 2020-10-13
 sources = [
-    "https://sos.kansas.gov/elections/,
+    "https://sos.kansas.gov/elections/",
     "https://sos.kansas.gov/elections/registration-voting/"
 ]
 

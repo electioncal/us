@@ -4,11 +4,14 @@ name = "Congressional Primary Run-Off (if needed)"
 original_date = 2020-07-14
 
 [20200714.registration]
+online_by = 2020-06-29
+in_person_by = 2020-06-29
 received_by = 2020-06-29
 sources = ["https://www.sos.alabama.gov/sites/default/files/2020%20Voter%20Guide%205-15-2020.pdf",
            "https://www.alabamainteractive.org/sos/voter_registration/voterRegistrationWelcome.action"]
 
 [20200714.poll]
+in_person_start = 2020-07-14T07:00:00
 in_person_by = 2020-07-14T19:00:00
 sources = ["https://www.sos.alabama.gov/sites/default/files/2020%20Voter%20Guide%205-15-2020.pdf",
            "https://www.sos.alabama.gov/alabama-votes"]
@@ -21,6 +24,7 @@ sources = ["https://www.sos.alabama.gov/sites/default/files/2020%20Voter%20Guide
 
 [20200714.absentee.application]
 received_by = 2020-07-09
+in_person_by = 2020-07-09
 sources = ["https://www.sos.alabama.gov/sites/default/files/2020%20Voter%20Guide%205-15-2020.pdf", 
            "https://www.sos.alabama.gov/alabama-votes/voter/absentee-voting"]
 
@@ -30,19 +34,21 @@ postmark_by = 2020-07-14
 sources = ["https://www.sos.alabama.gov/sites/default/files/2020%20Voter%20Guide%205-15-2020.pdf", 
            "https://www.sos.alabama.gov/alabama-votes/voter/military-overseas-voting"]
 
-
 [20201103]
 date = 2020-11-03
 name = "General"
 original_date = 2020-11-03
 
 [20201103.registration]
+online_by = 2020-10-19
+in_person_by = 2020-10-19
 received_by = 2020-10-19
 sources = ["https://www.sos.alabama.gov/sites/default/files/2020%20Voter%20Guide%205-15-2020.pdf",
            "https://www.alabamainteractive.org/sos/voter_registration/voterRegistrationWelcome.action"]
 
 [20201103.poll]
-in_person_by = 2020-11-03
+in_person_start = 2020-11-03T07:00:00
+in_person_by = 2020-11-03T19:00:00
 sources = ["https://www.sos.alabama.gov/sites/default/files/2020%20Voter%20Guide%205-15-2020.pdf",
            "https://www.sos.alabama.gov/alabama-votes"]
 
@@ -54,6 +60,7 @@ sources = ["https://www.sos.alabama.gov/sites/default/files/2020%20Voter%20Guide
 
 [20201103.absentee.application]
 received_by = 2020-10-29
+in_person_by = 2020-10-29
 sources = ["https://www.sos.alabama.gov/sites/default/files/2020%20Voter%20Guide%205-15-2020.pdf", 
            "https://www.sos.alabama.gov/alabama-votes/voter/absentee-voting"]
 

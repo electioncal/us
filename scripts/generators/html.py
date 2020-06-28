@@ -102,6 +102,9 @@ def build(
             if len(next_reminder["state"]) > 1 and len(actions) > 1:
                 next_reminder["name"] = "Check electioncal.us for deadlines"
             else:
+                if all((a.startswith("Register to vote ") for a in actions)):
+                    for i in range(1, len(actions)):
+                        actions[i] = actions[i][len("Register to vote "):]
                 next_reminder["name"] = ", ".join(actions[:-1]) + " or " + actions[-1]
                 next_reminder["explanation"] = " ".join((r["explanation"] for r in next_reminder["reminders"] if "explanation" in r))
             next_reminder["name"] = next_reminder["name"].lower().capitalize()

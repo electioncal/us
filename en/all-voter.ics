@@ -419,6 +419,19 @@ SUMMARY:Last day to register to vote in person in U.S. Virgin Islands
 DTSTART;VALUE=DATE:20200702
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Arizona
+DTSTART;VALUE=DATE:20200706
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Arizona
+DTSTART;VALUE=DATE:20200706
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Arizona
+DTSTART;VALUE=DATE:20200706
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Delaware Presidential Primary
 DTSTART;VALUE=DATE:20200707
 END:VEVENT
@@ -615,6 +628,19 @@ SUMMARY:Washington Congressional Primary
 DTSTART;VALUE=DATE:20200804
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Ari
+ zona
+DTSTART;VALUE=DATE:20200804
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Arizona
+DTSTART;VALUE=DATE:20200804
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Arizona
+DTSTART;VALUE=DATE:20200804
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in Mis
  souri
 DTSTART;VALUE=DATE:20200804
@@ -783,6 +809,19 @@ DTSTART;VALUE=DATE:20201004
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
+  in Arizona
+DTSTART;VALUE=DATE:20201005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Arizona
+DTSTART;VALUE=DATE:20201005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Arizona
+DTSTART;VALUE=DATE:20201005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
   in Louisiana
 DTSTART;VALUE=DATE:20201005
 END:VEVENT
@@ -945,6 +984,19 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person in Alabama
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Ari
+ zona
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Arizona
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Arizona
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

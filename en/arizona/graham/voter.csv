@@ -1,4 +1,34 @@
 date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
 2020-03-17 00:00:00,20200317,,election,,Presidential Preference (Democrats),2020-03-17 00:00:00,Arizona,,
+2020-06-28 23:59:59,,20200804,reminder,registration.received_by,Mail voter registration,,Arizona,,True
+2020-06-29 23:59:59,,20200804,reminder,registration.received_by,Mail voter registration at the post office,,Arizona,,True
+2020-07-06 23:59:59,,20200804,deadline,registration.received_by,Last day for election officials to receive voter registration form,,Arizona,,True
+2020-07-06 23:59:59,,20200804,deadline,registration.in_person_by,Last day to register to vote in person,,Arizona,,
+2020-07-06 23:59:59,,20200804,deadline,registration.online_by,Last day to register to vote online,,Arizona,,
+2020-07-06 23:59:59,,20200804,reminder,registration.in_person_by,Register to vote in person,,Arizona,,
+2020-07-06 23:59:59,,20200804,reminder,registration.online_by,Register to vote online,,Arizona,,
+2020-07-27 23:59:59,,20200804,reminder,absentee.received_by,Mail ballot,,Arizona,,True
+2020-07-28 23:59:59,,20200804,reminder,absentee.received_by,Mail ballot at the post office,,Arizona,,True
+2020-08-03 23:59:59,,20200804,reminder,poll.in_person_by,Plan to vote,,Arizona,,
 2020-08-04 00:00:00,20200804,,election,,Congressional Primary,2020-08-04 00:00:00,Arizona,,
+2020-08-04 23:59:59,,20200804,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Arizona,,True
+2020-08-04 23:59:59,,20200804,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Arizona,,
+2020-08-04 23:59:59,,20200804,deadline,poll.in_person_by,Last day to vote in person,,Arizona,,
+2020-08-04 23:59:59,,20200804,reminder,absentee.in_person_by,Drop off ballot,,Arizona,,
+2020-08-04 23:59:59,,20200804,reminder,poll.in_person_by,Vote in person,,Arizona,,
+2020-09-27 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration,,Arizona,,True
+2020-09-28 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration at the post office,,Arizona,,True
+2020-10-05 23:59:59,,20201103,deadline,registration.received_by,Last day for election officials to receive voter registration form,,Arizona,,True
+2020-10-05 23:59:59,,20201103,deadline,registration.in_person_by,Last day to register to vote in person,,Arizona,,
+2020-10-05 23:59:59,,20201103,deadline,registration.online_by,Last day to register to vote online,,Arizona,,
+2020-10-05 23:59:59,,20201103,reminder,registration.in_person_by,Register to vote in person,,Arizona,,
+2020-10-05 23:59:59,,20201103,reminder,registration.online_by,Register to vote online,,Arizona,,
+2020-10-26 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,Arizona,,True
+2020-10-27 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,Arizona,,True
+2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,Arizona,,
 2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,Arizona,,
+2020-11-03 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Arizona,,True
+2020-11-03 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Arizona,,
+2020-11-03 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,Arizona,,
+2020-11-03 23:59:59,,20201103,reminder,absentee.in_person_by,Drop off ballot,,Arizona,,
+2020-11-03 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,Arizona,,

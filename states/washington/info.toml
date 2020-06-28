@@ -8,4 +8,4 @@ military_overseas_info = "http://www.sos.wa.gov/elections/voters/Military-and-Ov
 demonym = "Washingtonian"
 
 sos_twitter = "secstatewa"
-governor_twitter = "GovInslee"
+governor_twitter = ["GovInslee", "WAStateGov"]

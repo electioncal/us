@@ -11,7 +11,7 @@ sources = [
     "https://www.ok.gov/elections/Election_Info/2020_Election_Calendar.html"
 ]
 
-[20200630.register]
+[20200630.registration]
 received_by = 2020-06-05
 in_person_by = 2020-06-05
 sources = [
@@ -59,7 +59,7 @@ sources = [
     "https://www.ok.gov/elections/Election_Info/2020_Election_Calendar.html"
 ]
 
-[20200825.register]
+[20200825.registration]
 received_by = 2020-07-31
 in_person_by = 2020-07-31
 sources = [
@@ -107,7 +107,7 @@ sources = [
     "https://www.ok.gov/elections/Election_Info/2020_Election_Calendar.html"
 ]
 
-[20201103.register]
+[20201103.registration]
 received_by = 2020-10-09
 in_person_by = 2020-10-09
 sources = [

@@ -8,7 +8,55 @@ date = 2020-08-04
 name = "Congressional Primary"
 original_date = 2020-08-04
 
+[20200804.registration]
+received_by = 2020-07-27
+online_by = 2020-07-27
+in_person_by = 2020-08-04T20:00:00
+sources = [
+    "https://www.sos.wa.gov/elections/",
+    "https://www.sos.wa.gov/elections/calendar_list.aspx?y=2020"
+]
+
+[20200804.absentee.military_overseas]
+mailed_out = 2020-06-20
+postmarked_by = 2020-08-04
+sources = [
+    "https://www.sos.wa.gov/elections/calendar_list.aspx?y=2020"
+]
+
+[20200804.absentee]
+mailed_out = 2020-07-17
+postmarked_by = 2020-08-04
+in_person_by = 2020-08-04T20:00:00
+sources = [
+    "https://www.sos.wa.gov/elections/",
+    "https://www.sos.wa.gov/elections/calendar_list.aspx?y=2020"
+]
+
 [20201103]
 date = 2020-11-03
 name = "General"
 original_date = 2020-11-03
+
+[20201103.registration]
+received_by = 2020-10-26
+online_by = 2020-10-26
+in_person_by = 2020-11-03T20:00:00
+sources = [
+    "https://www.sos.wa.gov/elections/calendar_list.aspx?y=2020"
+]
+
+[20201103.absentee.military_overseas]
+mailed_out = 2020-09-19
+postmarked_by = 2020-11-03
+sources = [
+    "https://www.sos.wa.gov/elections/calendar_list.aspx?y=2020"
+]
+
+[20201103.absentee]
+mailed_out = 2020-10-16
+postmarked_by = 2020-11-03
+in_person_by = 2020-11-03T20:00:00
+sources = [
+    "https://www.sos.wa.gov/elections/calendar_list.aspx?y=2020"
+]

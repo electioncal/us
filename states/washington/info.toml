@@ -6,3 +6,6 @@ registration_info = "https://voter.votewa.gov/"
 absentee_info = "https://www.sos.wa.gov/_assets/elections/SpecialAbsenteeBallotApp.pdf"
 military_overseas_info = "http://www.sos.wa.gov/elections/voters/Military-and-Overseas-Voters.aspx"
 demonym = "Washingtonian"
+
+sos_twitter = "secstatewa"
+governor_twitter = "GovInslee"

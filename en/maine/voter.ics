@@ -5,6 +5,10 @@ NAME:Maine Election Dates by electioncal.us
 SOURCE:https://electioncal.us/en/maine/voter.ics
 URL:https://electioncal.us/en/maine/
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+DTSTART;VALUE=DATE:20200623
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Congressional Primary
 DTSTART;VALUE=DATE:20200714
 END:VEVENT
@@ -17,6 +21,14 @@ SUMMARY:Last day to vote in person
 DTSTART;VALUE=DATE:20200714
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person
+DTSTART;VALUE=DATE:20200714
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+DTSTART;VALUE=DATE:20201013
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General (Presidential) Election
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
@@ -26,6 +38,10 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 END:VCALENDAR

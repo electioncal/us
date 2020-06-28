@@ -9,6 +9,14 @@ SUMMARY:Presidential Primary
 DTSTART;VALUE=DATE:20200303
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+DTSTART;VALUE=DATE:20200605
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person
+DTSTART;VALUE=DATE:20200605
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to drop off an absentee ballot
 DTSTART;VALUE=DATE:20200627
 END:VEVENT
@@ -25,6 +33,14 @@ SUMMARY:Last day to vote in person
 DTSTART;VALUE=DATE:20200630
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+DTSTART;VALUE=DATE:20200731
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person
+DTSTART;VALUE=DATE:20200731
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to drop off an absentee ballot
 DTSTART;VALUE=DATE:20200822
 END:VEVENT
@@ -39,6 +55,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person
 DTSTART;VALUE=DATE:20200825
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+DTSTART;VALUE=DATE:20201009
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person
+DTSTART;VALUE=DATE:20201009
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to drop off an absentee ballot

@@ -158,6 +158,15 @@ SUMMARY:Last day for election officials to receive voter registration form
 DTSTART;VALUE=DATE:20200603
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Oklahoma
+DTSTART;VALUE=DATE:20200605
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Oklahoma
+DTSTART;VALUE=DATE:20200605
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Puerto Rico Presidential Primary (Republican)
 DTSTART;VALUE=DATE:20200607
 END:VEVENT
@@ -283,6 +292,11 @@ DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person in Kentucky
+DTSTART;VALUE=DATE:20200623
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Maine
 DTSTART;VALUE=DATE:20200623
 END:VEVENT
 BEGIN:VEVENT
@@ -506,6 +520,10 @@ SUMMARY:Last day to vote in person in Maine
 DTSTART;VALUE=DATE:20200714
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Maine
+DTSTART;VALUE=DATE:20200714
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in New
   Jersey
 DTSTART;VALUE=DATE:20200714
@@ -547,6 +565,24 @@ SUMMARY:Last day to register to vote online in Louisiana
 DTSTART;VALUE=DATE:20200725
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Washington
+DTSTART;VALUE=DATE:20200727
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Washington
+DTSTART;VALUE=DATE:20200727
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Oklahoma
+DTSTART;VALUE=DATE:20200731
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Oklahoma
+DTSTART;VALUE=DATE:20200731
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:U.S. Virgin Islands Congressional Primary
 DTSTART;VALUE=DATE:20200801
 END:VEVENT
@@ -573,6 +609,18 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in Mis
  souri
+DTSTART;VALUE=DATE:20200804
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Washington
+DTSTART;VALUE=DATE:20200804
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots in Washington
+DTSTART;VALUE=DATE:20200804
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Washington
 DTSTART;VALUE=DATE:20200804
 END:VEVENT
 BEGIN:VEVENT
@@ -752,6 +800,15 @@ DTSTART;VALUE=DATE:20201009
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
+  in Oklahoma
+DTSTART;VALUE=DATE:20201009
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Oklahoma
+DTSTART;VALUE=DATE:20201009
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
   in Delaware
 DTSTART;VALUE=DATE:20201010
 END:VEVENT
@@ -761,6 +818,11 @@ DTSTART;VALUE=DATE:20201010
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote online in Louisiana
+DTSTART;VALUE=DATE:20201013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Maine
 DTSTART;VALUE=DATE:20201013
 END:VEVENT
 BEGIN:VEVENT
@@ -792,7 +854,25 @@ DTSTART;VALUE=DATE:20201019
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
+  in Utah
+DTSTART;VALUE=DATE:20201023
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Utah
+DTSTART;VALUE=DATE:20201023
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
   in Colorado
+DTSTART;VALUE=DATE:20201026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Washington
+DTSTART;VALUE=DATE:20201026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Washington
 DTSTART;VALUE=DATE:20201026
 END:VEVENT
 BEGIN:VEVENT
@@ -886,6 +966,10 @@ SUMMARY:Last day to vote in person in Maine
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Maine
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to drop off an absentee ballot in New Jersey
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
@@ -920,6 +1004,18 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person in Utah
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Washington
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots in Washington
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Washington
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

@@ -1,5 +1,10 @@
 date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
 2020-03-03 00:00:00,20200303,,election,,Presidential Primary,2020-03-03 00:00:00,Oklahoma,,
+2020-05-28 23:59:59,,20200630,reminder,registration.received_by,Mail voter registration,,Oklahoma,,True
+2020-05-29 23:59:59,,20200630,reminder,registration.received_by,Mail voter registration at the post office,,Oklahoma,,True
+2020-06-05 23:59:59,,20200630,deadline,registration.received_by,Last day for election officials to receive voter registration form,,Oklahoma,,True
+2020-06-05 23:59:59,,20200630,deadline,registration.in_person_by,Last day to register to vote in person,,Oklahoma,,
+2020-06-05 23:59:59,,20200630,reminder,registration.in_person_by,Register to vote in person,,Oklahoma,,
 2020-06-22 23:59:59,,20200630,reminder,absentee.received_by,Mail ballot,,Oklahoma,,True
 2020-06-23 23:59:59,,20200630,reminder,absentee.received_by,Mail ballot at the post office,,Oklahoma,,True
 2020-06-27 23:59:59,,20200630,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Oklahoma,,
@@ -9,6 +14,11 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-06-30 23:59:59,,20200630,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Oklahoma,,True
 2020-06-30 23:59:59,,20200630,deadline,poll.in_person_by,Last day to vote in person,,Oklahoma,,
 2020-06-30 23:59:59,,20200630,reminder,poll.in_person_by,Vote in person,,Oklahoma,,
+2020-07-23 23:59:59,,20200825,reminder,registration.received_by,Mail voter registration,,Oklahoma,,True
+2020-07-24 23:59:59,,20200825,reminder,registration.received_by,Mail voter registration at the post office,,Oklahoma,,True
+2020-07-31 23:59:59,,20200825,deadline,registration.received_by,Last day for election officials to receive voter registration form,,Oklahoma,,True
+2020-07-31 23:59:59,,20200825,deadline,registration.in_person_by,Last day to register to vote in person,,Oklahoma,,
+2020-07-31 23:59:59,,20200825,reminder,registration.in_person_by,Register to vote in person,,Oklahoma,,
 2020-08-17 23:59:59,,20200825,reminder,absentee.received_by,Mail ballot,,Oklahoma,,True
 2020-08-18 23:59:59,,20200825,reminder,absentee.received_by,Mail ballot at the post office,,Oklahoma,,True
 2020-08-22 23:59:59,,20200825,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Oklahoma,,
@@ -18,6 +28,11 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-08-25 23:59:59,,20200825,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Oklahoma,,True
 2020-08-25 23:59:59,,20200825,deadline,poll.in_person_by,Last day to vote in person,,Oklahoma,,
 2020-08-25 23:59:59,,20200825,reminder,poll.in_person_by,Vote in person,,Oklahoma,,
+2020-10-01 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration,,Oklahoma,,True
+2020-10-02 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration at the post office,,Oklahoma,,True
+2020-10-09 23:59:59,,20201103,deadline,registration.received_by,Last day for election officials to receive voter registration form,,Oklahoma,,True
+2020-10-09 23:59:59,,20201103,deadline,registration.in_person_by,Last day to register to vote in person,,Oklahoma,,
+2020-10-09 23:59:59,,20201103,reminder,registration.in_person_by,Register to vote in person,,Oklahoma,,
 2020-10-26 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,Oklahoma,,True
 2020-10-27 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,Oklahoma,,True
 2020-10-31 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Oklahoma,,

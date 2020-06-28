@@ -415,6 +415,10 @@ SUMMARY:Last day to drop off an absentee ballot in Utah
 DTSTART;VALUE=DATE:20200630
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in U.S. Virgin Islands
+DTSTART;VALUE=DATE:20200702
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Delaware Presidential Primary
 DTSTART;VALUE=DATE:20200707
 END:VEVENT
@@ -584,6 +588,10 @@ DTSTART;VALUE=DATE:20200731
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:U.S. Virgin Islands Congressional Primary
+DTSTART;VALUE=DATE:20200801
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in U.S. Virgin Islands
 DTSTART;VALUE=DATE:20200801
 END:VEVENT
 BEGIN:VEVENT
@@ -764,6 +772,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person in South Carolina
 DTSTART;VALUE=DATE:20201002
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in U.S. Virgin Islands
+DTSTART;VALUE=DATE:20201003
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote online in South Carolina
@@ -996,6 +1008,10 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person in South Carolina
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in U.S. Virgin Islands
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

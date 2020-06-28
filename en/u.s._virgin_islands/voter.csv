@@ -1,3 +1,13 @@
 date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
+2020-07-02 23:59:59,,20200801,deadline,registration.in_person_by,Last day to register to vote in person,,U.S. Virgin Islands,,
+2020-07-02 23:59:59,,20200801,reminder,registration.in_person_by,Register to vote in person,,U.S. Virgin Islands,,
+2020-07-31 23:59:59,,20200801,reminder,poll.in_person_by,Plan to vote,,U.S. Virgin Islands,,
 2020-08-01 00:00:00,20200801,,election,,Congressional Primary,2020-08-01 00:00:00,U.S. Virgin Islands,,
+2020-08-01 23:59:59,,20200801,deadline,poll.in_person_by,Last day to vote in person,,U.S. Virgin Islands,,
+2020-08-01 23:59:59,,20200801,reminder,poll.in_person_by,Vote in person,,U.S. Virgin Islands,,
+2020-10-03 23:59:59,,20201103,deadline,registration.in_person_by,Last day to register to vote in person,,U.S. Virgin Islands,,
+2020-10-03 23:59:59,,20201103,reminder,registration.in_person_by,Register to vote in person,,U.S. Virgin Islands,,
+2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,U.S. Virgin Islands,,
 2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,U.S. Virgin Islands,,
+2020-11-03 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,U.S. Virgin Islands,,
+2020-11-03 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,U.S. Virgin Islands,,

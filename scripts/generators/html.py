@@ -100,7 +100,7 @@ def build(
         if "composite" in next_reminder:
             next_reminder["state"] = [r["state"] for r in next_reminder["reminders"]]
             next_reminder["state"] = sorted(list(set(next_reminder["state"])))
-            actions = list(set((r["name"] for r in next_reminder["reminders"])))
+            actions = sorted(list(set((r["name"] for r in next_reminder["reminders"]))))
             if len(next_reminder["state"]) > 1 and len(actions) > 1:
                 next_reminder["name"] = "Check electioncal.us for deadlines"
             else:

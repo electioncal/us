@@ -44,7 +44,7 @@ twitter_template = Image.new('RGB', (width * scale_factor, height * scale_factor
 
 d = ImageDraw.Draw(twitter_template)
 one_third = scale_factor * width // 3
-d.rectangle([0, 0, one_third, 50 * scale_factor], fill=dblue)
+d.rectangle([0, 0, one_third, 60 * scale_factor], fill=dblue)
 spacing = 160
 for y in range(3):
     shift = spacing / 2 * (y % 2)
@@ -56,9 +56,9 @@ for y in range(2):
         f = red
     else:
         f = dred
-    y = 25 * scale_factor * y
-    d.rectangle([one_third, y, width * scale_factor, y + 25 * scale_factor], fill=f)
-d.rectangle([0, 50 * scale_factor, width * scale_factor, height * scale_factor], fill=bg)
+    y = 30 * scale_factor * y
+    d.rectangle([one_third, y, width * scale_factor, y + 30 * scale_factor], fill=f)
+d.rectangle([0, 60 * scale_factor, width * scale_factor, height * scale_factor], fill=bg)
 
 def draw_centered(draw, y, text, **kwargs):
     size = draw.textsize(text, font=kwargs.get("font", None))
@@ -93,10 +93,10 @@ def render_twitter_image(fn, state=None, county=None, reminder=None, main_date="
     img = twitter_template.copy()
     d = ImageDraw.Draw(img)
     if county:
-        d.text((one_third + 6, 3), county, fill="#eeeeee", font=font30b)
+        d.text((one_third + 6, 9), county, fill="#eeeeee", font=font30b)
     if state:
         size = d.textsize(state, font=font30b)
-        d.text((one_third - 6 - size[0], 3), state, fill="#eeeeee", font=font30b)
+        d.text((one_third - 6 - size[0], 9), state, fill="#eeeeee", font=font30b)
     if reminder:
         draw_centered(d, 110, reminder, fill="#eeeeee", font=font50)
     if main_date:

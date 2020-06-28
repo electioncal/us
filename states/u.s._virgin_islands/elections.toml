@@ -3,7 +3,68 @@ date = 2020-08-01
 name = "Congressional Primary"
 original_date = 2020-08-01
 
+[20200801.registration]
+in_person_by = 2020-07-02
+sources = [
+    "https://www.vivote.gov/sites/default/files/Amended%202020%20Elections%20Calendar.pdf",
+    "https://www.vivote.gov/voters/register-vote"
+]
+
+[20200801.absentee.application]
+received_by = 2020-07-24
+in_person_by = 2020-07-24
+sources = [
+    "https://www.vivote.gov/sites/default/files/Amended%202020%20Elections%20Calendar.pdf",
+    "https://www.vivote.gov/voters/absentee-ballot"
+]
+
+[20200801.absentee]
+# received_by = 2020-08-01  # I did not find a datetime
+
+[20200801.poll.early]
+in_person_start = 2020-07-06T09:00:00
+in_person_by = 2020-07-26T15:00:00
+sources = [
+    "https://www.vivote.gov/sites/default/files/Amended%202020%20Elections%20Calendar.pdf",
+    "https://www.vivote.gov/elections/early-voting"
+]
+
+[20200801.poll]
+in_person_by = 2020-08-01
+sources = [
+    "https://www.vivote.gov/sites/default/files/Amended%202020%20Elections%20Calendar.pdf"
+]
+
 [20201103]
 date = 2020-11-03
 name = "General"
 original_date = 2020-11-03
+
+[20201103.registration]
+in_person_by = 2020-10-03
+sources = [
+    "https://www.vivote.gov/sites/default/files/Amended%202020%20Elections%20Calendar.pdf",
+    "https://www.vivote.gov/voters/register-vote"
+]
+
+[20201103.absentee.application]
+received_by = 2020-10-27
+in_person_by = 2020-10-27
+sources = [
+    "https://www.vivote.gov/sites/default/files/Amended%202020%20Elections%20Calendar.pdf",
+    "https://www.vivote.gov/voters/absentee-ballot"
+]
+
+[20201103.absentee]
+# received_by = 2020-11-03  # I did not find a datetime
+
+[20201103.poll.early]
+in_person_start = 2020-10-05    # Time not published yet
+in_person_by = 2020-10-28       # Time not published yet
+sources = [
+    "https://www.vivote.gov/sites/default/files/Amended%202020%20Elections%20Calendar.pdf",
+    "https://www.vivote.gov/elections/early-voting"
+]
+
+[20201103.poll]
+in_person_by = 2020-11-03   # Times not published

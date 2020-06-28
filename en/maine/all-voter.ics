@@ -17,11 +17,11 @@ SUMMARY:Last day to vote in person
 DTSTART;VALUE=DATE:20200714
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Last day for election officials to receive absentee ballots
-DTSTART;VALUE=DATE:20200714
+SUMMARY:General (Presidential) Election
+DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:General (Presidential) Election
+SUMMARY:Last day for election officials to receive absentee ballots
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

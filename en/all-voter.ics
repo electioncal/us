@@ -506,11 +506,6 @@ SUMMARY:Last day to vote in person in Maine
 DTSTART;VALUE=DATE:20200714
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Last day for election officials to receive absentee ballots in Mai
- ne
-DTSTART;VALUE=DATE:20200714
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in New
   Jersey
 DTSTART;VALUE=DATE:20200714
@@ -879,6 +874,11 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person in Louisiana
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Mai
+ ne
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

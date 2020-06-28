@@ -1,15 +1,15 @@
 date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
 2020-07-06 23:59:59,,20200714,reminder,absentee.received_by,Mail ballot,,Maine,,True
-2020-07-06 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,Maine,,True
 2020-07-07 23:59:59,,20200714,reminder,absentee.received_by,Mail ballot at the post office,,Maine,,True
-2020-07-07 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,Maine,,True
 2020-07-13 23:59:59,,20200714,reminder,poll.in_person_by,Plan to vote,,Maine,,
 2020-07-14 00:00:00,20200714,,election,,Congressional Primary,2020-06-19 00:00:00,Maine,,
 2020-07-14 23:59:59,,20200714,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Maine,,True
 2020-07-14 23:59:59,,20200714,deadline,poll.in_person_by,Last day to vote in person,,Maine,,
-2020-07-14 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Maine,,True
 2020-07-14 23:59:59,,20200714,reminder,poll.in_person_by,Vote in person,,Maine,,
+2020-10-26 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,Maine,,True
+2020-10-27 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,Maine,,True
 2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,Maine,,
 2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,Maine,,
+2020-11-03 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Maine,,True
 2020-11-03 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,Maine,,
 2020-11-03 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,Maine,,

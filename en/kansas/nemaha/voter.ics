@@ -4,11 +4,51 @@ PRODID:-//electioncal.us generator//circuitpython.org//
 SOURCE:https://electioncal.us/en/kansas/nemaha/voter.ics
 URL:https://electioncal.us/en/kansas/nemaha/
 BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person
+DTSTART;VALUE=DATE:20200714
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online
+DTSTART;VALUE=DATE:20200714
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Congressional Primary
 DTSTART;VALUE=DATE:20200804
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot
+DTSTART;VALUE=DATE:20200804
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots
+DTSTART;VALUE=DATE:20200804
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person
+DTSTART;VALUE=DATE:20200804
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person
+DTSTART;VALUE=DATE:20201013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online
+DTSTART;VALUE=DATE:20201013
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General (Presidential) Election
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 END:VCALENDAR

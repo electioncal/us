@@ -528,6 +528,14 @@ SUMMARY:Last day to vote in person in Alabama
 DTSTART;VALUE=DATE:20200714
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Kansas
+DTSTART;VALUE=DATE:20200714
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Kansas
+DTSTART;VALUE=DATE:20200714
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in Mai
  ne
 DTSTART;VALUE=DATE:20200714
@@ -638,6 +646,18 @@ DTSTART;VALUE=DATE:20200804
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person in Arizona
+DTSTART;VALUE=DATE:20200804
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Kansas
+DTSTART;VALUE=DATE:20200804
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots in Kansas
+DTSTART;VALUE=DATE:20200804
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Kansas
 DTSTART;VALUE=DATE:20200804
 END:VEVENT
 BEGIN:VEVENT
@@ -868,6 +888,14 @@ SUMMARY:Last day to register to vote in person in New York
 DTSTART;VALUE=DATE:20201010
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Kansas
+DTSTART;VALUE=DATE:20201013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Kansas
+DTSTART;VALUE=DATE:20201013
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to register to vote online in Louisiana
 DTSTART;VALUE=DATE:20201013
 END:VEVENT
@@ -1014,6 +1042,18 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person in Delaware
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Kansas
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots in Kansas
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Kansas
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

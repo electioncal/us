@@ -2,12 +2,16 @@ import copy
 import jinja2
 import pendulum
 
+from . import images
+
 env = jinja2.Environment(loader=jinja2.FileSystemLoader("templates"))
 
 state_index = env.get_template("state/index.html.jinja")
+state_debug = env.get_template("state/debug.html.jinja")
 county_index = env.get_template("state/county/index.html.jinja")
 # Render the index.
 top_level = env.get_template("index.html.jinja")
+top_level_debug = env.get_template("debug.html.jinja")
 
 
 def build(
@@ -24,7 +28,6 @@ def build(
     states=None,
     counties=None,
 ):
-
     upcoming_dates = [d for d in dates if d["date"].date() >= now.date()]
 
     # Determine the next two elections.
@@ -81,7 +84,7 @@ def build(
     secondary_date = None
     if next_reminder:
         now = pendulum.instance(now)
-        reminder_date = pendulum.instance(next_reminder["deadline_date"])
+        reminder_date = pendulum.instance(next_reminder["date"])
         diff = reminder_date.diff(now, False)
         if diff.in_days() == 0:
             main_date = "Today!"
@@ -99,6 +102,9 @@ def build(
             if len(next_reminder["state"]) > 1 and len(actions) > 1:
                 next_reminder["name"] = "Check electioncal.us for deadlines"
             else:
+                if all((a.startswith("Register to vote ") for a in actions)):
+                    for i in range(1, len(actions)):
+                        actions[i] = actions[i][len("Register to vote "):]
                 next_reminder["name"] = ", ".join(actions[:-1]) + " or " + actions[-1]
                 next_reminder["explanation"] = " ".join((r["explanation"] for r in next_reminder["reminders"] if "explanation" in r))
             next_reminder["name"] = next_reminder["name"].lower().capitalize()
@@ -122,6 +128,7 @@ def build(
         "path": path
     }
     template = top_level
+    debug_template = None
     filenames = [f"site/{path}/index.html"]
     if state:
         template = state_index
@@ -132,6 +139,7 @@ def build(
             data["reminder_location"] = county["name"] + ", " + state["name"]
             template = county_index
         else:
+            debug_template = state_debug
             county_list = list(counties.values())
             county_list.sort(key=lambda x: x["lower_name"])
             data["reminder_location"] = state["name"]
@@ -142,12 +150,41 @@ def build(
         if next_reminder:
             if isinstance(next_reminder["state"], list):
                 data["reminder_location"] = ", ".join((states[s]["name"] for s in next_reminder["state"]))
+                data["explanation"] = data["reminder_location"]
             else:
                 data["reminder_location"] = states[next_reminder["state"]]["name"]
         data["states"] = state_list
         data["demonym"] = "American"
         if language == "en":
             filenames.append(f"site/index.html")
+        debug_template = top_level_debug
+
+    explanation = None
+    if next_reminder:
+        reminder = next_reminder["name"] + " by"
+        if "explanation" in next_reminder:
+            explanation = next_reminder["explanation"]
+    else:
+        reminder = "Help us add dates at"
+        main_date = "github.com/electioncal/us"
+
+    sec_date = None
+    if secondary_date:
+        sec_date = secondary_date.replace("(", "( ").replace(")", " )")
+
+    images.render_twitter_image(
+        f"site/{path}/twitter_card.png",
+        state=state["name"] if state else None,
+        county=county["name"] if county else None,
+        reminder=reminder,
+        main_date=main_date,
+        secondary_date=sec_date,
+        explanation=explanation)
+    if debug_template:
+        debug_twitter = dict(data)
+        debug_twitter["debug_name"] = "Twitter Card"
+        debug_twitter["filename"] = "twitter_card.png"
+        debug_template.stream(debug_twitter).dump(f"site/{path}/debug_twitter.html")
 
     for filename in filenames:
         template.stream(data).dump(filename)

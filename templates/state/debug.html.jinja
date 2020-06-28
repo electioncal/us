@@ -1,0 +1,9 @@
+{% extends "base.html.jinja" %}
+{% block twitter %}
+{% endblock %}
+{% block title %}{{ state.name }} {{debug_name}} {% endblock %}
+{% block content %}
+    {% for county in counties %}
+      <img src="/{{ language }}/{{state.lower_name }}/{{county.lower_name}}/ {{filename}}"/>
+    {% endfor %}
+{% endblock %}

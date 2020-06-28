@@ -40,7 +40,7 @@ online_by = 2020-10-29T17:00:00
 sources = ["https://www.maine.gov/sos/cec/elec/voter-info/absenteeguide.html"]
 
 [20201103.absentee]
-received_by = 2020-07-14T20:00:00
+received_by = 2020-11-03T20:00:00
 sources = ["https://www.maine.gov/sos/cec/elec/voter-info/absenteeguide.html"]
 
 [20201103.poll]

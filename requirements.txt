@@ -3,3 +3,4 @@ jinja2
 icalendar
 pendulum
 mistune==2.0.0a4
+Pillow

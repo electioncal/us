@@ -3,7 +3,7 @@ date = 2020-07-14
 name = "Congressional Primary"
 original_date = 2020-06-19
 
-[20200714.register]
+[20200714.registration]
 received_by = 2020-06-23
 in_person_by = 2020-07-14 # Same Day available
 sources = ["https://www.maine.gov/sos/cec/elec/voter-info/voterguide.html"]
@@ -29,7 +29,7 @@ sources = [
     "https://www.maine.gov/sos/cec/elec/upcoming/Election%20Descriptions.html"
 ]
 
-[20201103.register]
+[20201103.registration]
 received_by = 2020-10-13
 in_person_by = 2020-11-03 # Same Day available
 sources = ["https://www.maine.gov/sos/cec/elec/voter-info/voterguide.html"]

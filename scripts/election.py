@@ -34,6 +34,8 @@ for state in os.listdir("states/"):
 
     for key in state_elections:
         state_election = dict(state_elections[key])
+        if "register" in state_election:
+            raise RuntimeError(f"'register' in {state} election. Use 'registration' instead.")
         state_key = state + "/" + key
         if key not in elections and state_key not in elections: # State election
             state_election["state"] = state

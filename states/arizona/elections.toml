@@ -48,7 +48,7 @@ online_by = 2020-10-05
 in_person_by = 2020-10-05
 received_by = 2020-10-05
 sources = [
-    "https://azsos.gov/elections/elections-calendar-upcoming-events"
+    "https://azsos.gov/elections/elections-calendar-upcoming-events",
     "https://servicearizona.com/VoterRegistration/register?execution=e1s1"
 ]
 

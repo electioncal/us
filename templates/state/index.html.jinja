@@ -1,5 +1,6 @@
 {% extends "base.html.jinja" %}
 {% block title %}{{ state.name }}{% endblock %}
+  {% block navigation %}<a href='/'>ElectionCal.us</a>{% endblock navigation%}
 {% block content %}
     <ul id="dates">
     {% for date in dates %}

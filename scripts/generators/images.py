@@ -25,7 +25,7 @@ def render_twitter_image(fn, state=None, county=None, reminder=None, main_date="
     img = twitter_template.copy()
     d = ImageDraw.Draw(img)
     if county:
-        d.text((10, 20), county, fill="#eeeeee", font=font28r)
+        state = county + ", " + state
     if state:
         d.text((60, 53), " ".join(state.upper()), fill="#ffffff", font=font28r)
     if reminder:

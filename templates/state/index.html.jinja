@@ -22,12 +22,14 @@
       <li><a href="{{ state.overseas_info }}">Overseas Voting</a></li>
     {% endif %}
     </ul>
-    <p>Select your county below for details.</p>
-    <select name="counties" id="counties">
-      <option value="default"> -- Select County </option>
-    {% for county in counties %}
-      <option value="{{county.lower_name}}">{{ county.name }}</option>
-    {% endfor %}
+    {% if counties %}
+      <p>Select your county below for details.</p>
+      <select name="counties" id="counties">
+        <option value="default"> -- Select County </option>
+      {% for county in counties %}
+        <option value="{{county.lower_name}}">{{ county.name }}</option>
+      {% endfor %}
+    {% endif %}
     </select>
 
     Add all of the dates to your calendar by clicking <a href="webcal://electioncal.us/{{language}}/{{state.lower_name}}/voter.ics">here</a> (

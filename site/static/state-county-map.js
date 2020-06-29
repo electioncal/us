@@ -120,7 +120,7 @@ window.createMap = function(language) {
     }
 
     function countyClick(d) {
-        currentCounty = d.properties.name.toLowerCase().replace(" ", "_");
+        currentCounty = d.properties.name.toLowerCase().replace(/ /g, "_");
         window.location.assign(['',language,currentState,currentCounty].join('/'));
     }
 

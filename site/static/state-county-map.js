@@ -28,7 +28,7 @@ window.createMap = function(language) {
         .on('click', zoomClick);
 
 
-    Promise.resolve(d3.json('https://cdn.jsdelivr.net/npm/us-atlas@3/counties-10m.json'))
+    Promise.resolve(d3.json('/static/counties-10m.json'))
         .then(ready);
 
     var projection = d3.geoAlbersUsa()
@@ -120,7 +120,7 @@ window.createMap = function(language) {
     }
 
     function countyClick(d) {
-        currentCounty = d.properties.name.toLowerCase().replace(" ", "_");
+        currentCounty = d.properties.name.toLowerCase().replace(/ /g, "_");
         window.location.assign(['',language,currentState,currentCounty].join('/'));
     }
 

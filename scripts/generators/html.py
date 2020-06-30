@@ -89,10 +89,10 @@ def build(
         reminder_date = pendulum.instance(next_reminder["date"])
         diff = reminder_date.diff(now, False)
         if diff.in_days() == 0:
-            main_date = "Today!"
+            main_date = "Today"
             secondary_date = reminder_date.format("(MMMM Do)")
         elif diff.in_days() == -1:
-            main_date = "Tomorrow!"
+            main_date = "Tomorrow"
             secondary_date = reminder_date.format("(MMMM Do)")
         else:
             main_date = reminder_date.format("MMMM Do")
@@ -175,19 +175,24 @@ def build(
     if secondary_date:
         sec_date = secondary_date.replace("(", "( ").replace(")", " )")
 
-    images.render_twitter_image(
-        f"site/{path}/twitter_card.png",
-        state=state["name"] if state else None,
-        county=county["name"] if county else None,
-        reminder=reminder,
-        main_date=main_date,
-        secondary_date=sec_date,
-        explanation=explanation)
-    if debug_template:
-        debug_twitter = dict(data)
-        debug_twitter["debug_name"] = "Twitter Card"
-        debug_twitter["filename"] = "twitter_card.png"
-        debug_template.stream(debug_twitter).dump(f"site/{path}/debug_twitter.html")
+    sites = {"twitter": ("twitter_card", "Twitter Card"),
+             "instagram": ("instagram", "Instagram")}
+    for site in sites:
+        filename, title = sites[site]
+        images.render_image(
+            f"site/{path}/{filename}.png",
+            site,
+            state=state["name"] if state else None,
+            county=county["name"] if county else None,
+            reminder=reminder,
+            main_date=main_date,
+            secondary_date=sec_date,
+            explanation=explanation)
+        if debug_template:
+            debug_social = dict(data)
+            debug_social["debug_name"] = title
+            debug_social["filename"] = f"{filename}.png"
+            debug_template.stream(debug_social).dump(f"site/{path}/debug_{site}.html")
 
     for filename in filenames:
         template.stream(data).dump(filename)

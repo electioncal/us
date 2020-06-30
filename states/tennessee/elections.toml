@@ -23,6 +23,7 @@ received_by = 2020-07-30
 sources = ["https://sos.tn.gov/products/elections/2020-election-calendar"]
 
 [20200806.asbsentee]
+received_by = 2020-08-06T20:00:00 # 8:00 p.m. EST / 7:00 p.m. CST.
 
 [20200806.poll.early]
 in_person_start = 2020-07-17
@@ -57,6 +58,7 @@ received_by = 2020-10-27
 sources = ["https://sos.tn.gov/products/elections/2020-election-calendar"]
 
 [20201103.asbsentee]
+received_by = 2020-11-03T20:00:00 # 8:00 p.m. EST / 7:00 p.m. CST.
 
 [20201103.poll.early]
 in_person_start = 2020-10-14

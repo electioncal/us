@@ -29,6 +29,16 @@ sources = ["https://www.sos.state.tx.us/elections/voter/important-election-dates
            "https://www.votetexas.gov/military-overseas-voters/index.html",
            "https://www.sos.texas.gov/elections/voter/reqabbm.shtml"]
 
+[20200714.absentee.overseas]
+received_by = 2020-07-21
+sources = ["https://www.sos.state.tx.us/elections/voter/important-election-dates.shtml",
+           "https://www.votetexas.gov/military-overseas-voters/index.html"]
+
+[20200714.absentee.military]
+received_by = 2020-07-22
+sources = ["https://www.sos.state.tx.us/elections/voter/important-election-dates.shtml",
+           "https://www.votetexas.gov/military-overseas-voters/index.html"]
+
 [20200714.absentee.application]
 received_by = 2020-07-02
 sources = ["https://www.sos.state.tx.us/elections/voter/important-election-dates.shtml",
@@ -36,10 +46,6 @@ sources = ["https://www.sos.state.tx.us/elections/voter/important-election-dates
            "https://www.sos.texas.gov/elections/voter/reqabbm.shtml"]
 
 
-[20200714.absentee.overseas_military]
-received_by = 2020-07-21
-sources = ["https://www.sos.state.tx.us/elections/voter/important-election-dates.shtml",
-           "https://www.votetexas.gov/military-overseas-voters/index.html"]
 
 [20201103]
 date = 2020-11-03

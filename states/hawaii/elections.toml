@@ -13,20 +13,20 @@ sources = [
 ]
 
 [20200808.absentee.application]
-received_by = 2020-08-01T16:30:00
-in_person_by = 2020-08-01T16:30:00
-sources = ["https://elections.hawaii.gov/about-us/calendar/"]
-
-[20200808.absentee]
-received_by = 2020-08-08T19:00:00
-in_person_by = 2020-08-08T19:00:00
-sources = ["https://elections.hawaii.gov/frequently-asked-questions/voting-by-mail/"]
-
-[20200808.poll.early]
-in_person_start = 2020-08-03
-in_person_by = 2020-08-08T19:00:00
+received_by = 2020-08-01T16:30:00 # Temp Address Issue
+in_person_by = 2020-08-01T16:30:00 # Temp Address Issue
 sources = [
     "https://elections.hawaii.gov/about-us/calendar/",
+    "https://elections.hawaii.gov/voters/applications/"
+]
+
+[20200808.absentee]
+received_by = 2020-08-08T19:00:00 # Mail In
+in_person_start = 2020-07-27T08:00:00 # Voting Center\Drop Boxes
+in_person_by = 2020-08-08T19:00:00 # Voting Center\Drop Boxes
+sources = [
+    "https://elections.hawaii.gov/about-us/calendar/",
+    "https://elections.hawaii.gov/frequently-asked-questions/voting-by-mail/",
     "https://elections.hawaii.gov/voter-service-centers-and-places-of-deposit/"
 ]
 
@@ -45,19 +45,19 @@ sources = [
 ]
 
 [20201103.absentee.application]
-received_by = 2020-10-27T16:30:00
-in_person_by = 2020-10-27T16:30:00
-sources = ["https://elections.hawaii.gov/about-us/calendar/"]
-
-[20201103.absentee]
-received_by = 2020-11-03T19:00:00
-in_person_by = 2020-11-03T19:00:00
-sources = ["https://elections.hawaii.gov/frequently-asked-questions/voting-by-mail/"]
-
-[20201103.poll.early]
-in_person_start = 2020-10-20
-in_person_by = 2020-11-03T19:00:00
+received_by = 2020-10-27T16:30:00 # Temp Address Issue
+in_person_by = 2020-10-27T16:30:00 # Temp Address Issue
 sources = [
     "https://elections.hawaii.gov/about-us/calendar/",
+    "https://elections.hawaii.gov/voters/applications/"
+]
+
+[20201103.absentee]
+received_by = 2020-11-03T19:00:00 # Mail In
+in_person_start = 2020-10-20T08:00:00 # Voting Centers\Drop Boxes
+in_person_by = 2020-11-03T19:00:00 # Voting Centers\Drop Boxes
+sources = [
+    "https://elections.hawaii.gov/about-us/calendar/",
+    "https://elections.hawaii.gov/frequently-asked-questions/voting-by-mail/",
     "https://elections.hawaii.gov/voter-service-centers-and-places-of-deposit/"
 ]

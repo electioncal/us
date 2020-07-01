@@ -58,7 +58,7 @@ receive_start = 2020-08-05
 received_by = 2020-10-27
 sources = ["https://sos.tn.gov/products/elections/2020-election-calendar"]
 
-[20201103.asbsentee]
+[20201103.absentee]
 received_by = 2020-11-03T20:00:00 # 8:00 p.m. EST / 7:00 p.m. CST.
 sources = ["https://sos.tn.gov/products/elections/absentee-voting"]
 

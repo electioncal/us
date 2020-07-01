@@ -18,7 +18,7 @@ def generate(dates, output_filename, *, state_info=None, name=None, description=
         for key in date:
             value = date[key]
             if not isinstance(value, datetime.datetime):
-                continue    
+                continue
             date[key] = value.strftime("%Y-%m-%d")
         if "details" in date:
             del date["details"]

@@ -503,6 +503,14 @@ SUMMARY:Last day to hand deliver an absentee applications in Alabama
 DTSTART;VALUE=DATE:20200709
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to postmark voter registration form in Hawaii
+DTSTART;VALUE=DATE:20200709
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Hawaii
+DTSTART;VALUE=DATE:20200709
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in Lou
  isiana
 DTSTART;VALUE=DATE:20200710
@@ -733,6 +741,19 @@ SUMMARY:Hawaii Congressional Primary
 DTSTART;VALUE=DATE:20200808
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Haw
+ aii
+DTSTART;VALUE=DATE:20200808
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Hawaii
+DTSTART;VALUE=DATE:20200808
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Hawaii
+DTSTART;VALUE=DATE:20200808
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Connecticut Presidential Primary
 DTSTART;VALUE=DATE:20200811
 END:VEVENT
@@ -885,6 +906,14 @@ DTSTART;VALUE=DATE:20201005
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote online in Arizona
+DTSTART;VALUE=DATE:20201005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark voter registration form in Hawaii
+DTSTART;VALUE=DATE:20201005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Hawaii
 DTSTART;VALUE=DATE:20201005
 END:VEVENT
 BEGIN:VEVENT
@@ -1110,6 +1139,19 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person in Delaware
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Haw
+ aii
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Hawaii
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Hawaii
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

@@ -1,3 +1,27 @@
 date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
+2020-07-08 23:59:59,,20200808,reminder,registration.postmarked_by,Mail voter registration,,Hawaii,,False
+2020-07-09 23:59:59,,20200808,deadline,registration.postmarked_by,Last day to postmark voter registration form,,Hawaii,,False
+2020-07-09 23:59:59,,20200808,deadline,registration.online_by,Last day to register to vote online,,Hawaii,,
+2020-07-09 23:59:59,,20200808,reminder,registration.postmarked_by,Mail voter registration at the post office,,Hawaii,,False
+2020-07-09 23:59:59,,20200808,reminder,registration.online_by,Register to vote online,,Hawaii,,
+2020-07-31 23:59:59,,20200808,reminder,absentee.received_by,Mail ballot,,Hawaii,,True
+2020-08-01 23:59:59,,20200808,reminder,absentee.received_by,Mail ballot at the post office,,Hawaii,,True
 2020-08-08 00:00:00,20200808,,election,,Congressional Primary,2020-08-08 00:00:00,Hawaii,,
+2020-08-08 23:59:59,,20200808,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Hawaii,,True
+2020-08-08 23:59:59,,20200808,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Hawaii,,
+2020-08-08 23:59:59,,20200808,deadline,registration.in_person_by,Last day to register to vote in person,,Hawaii,,
+2020-08-08 23:59:59,,20200808,reminder,absentee.in_person_by,Drop off ballot,,Hawaii,,
+2020-08-08 23:59:59,,20200808,reminder,registration.in_person_by,Register to vote in person,,Hawaii,,
+2020-10-04 23:59:59,,20201103,reminder,registration.postmarked_by,Mail voter registration,,Hawaii,,False
+2020-10-05 23:59:59,,20201103,deadline,registration.postmarked_by,Last day to postmark voter registration form,,Hawaii,,False
+2020-10-05 23:59:59,,20201103,deadline,registration.online_by,Last day to register to vote online,,Hawaii,,
+2020-10-05 23:59:59,,20201103,reminder,registration.postmarked_by,Mail voter registration at the post office,,Hawaii,,False
+2020-10-05 23:59:59,,20201103,reminder,registration.online_by,Register to vote online,,Hawaii,,
+2020-10-26 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,Hawaii,,True
+2020-10-27 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,Hawaii,,True
 2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,Hawaii,,
+2020-11-03 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Hawaii,,True
+2020-11-03 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Hawaii,,
+2020-11-03 23:59:59,,20201103,deadline,registration.in_person_by,Last day to register to vote in person,,Hawaii,,
+2020-11-03 23:59:59,,20201103,reminder,absentee.in_person_by,Drop off ballot,,Hawaii,,
+2020-11-03 23:59:59,,20201103,reminder,registration.in_person_by,Register to vote in person,,Hawaii,,

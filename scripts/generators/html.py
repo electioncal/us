@@ -1,6 +1,7 @@
 import copy
 import jinja2
 import pendulum
+import datetime
 import subprocess
 
 from . import images
@@ -15,6 +16,14 @@ top_level = env.get_template("index.html.jinja")
 top_level_debug = env.get_template("debug.html.jinja")
 
 git_sha = subprocess.run(["git", "rev-parse", "HEAD"], capture_output=True).stdout.decode("utf-8").strip()
+
+future = datetime.datetime.now() + datetime.timedelta(days=365*4)
+
+def debug_key(state):
+    for key in ["next_reminder"]:
+        if key in state:
+            return state[key]["date"]
+    return future
 
 def build(
     now,
@@ -31,6 +40,18 @@ def build(
     counties=None,
 ):
     upcoming_dates = [d for d in dates if d["date"].date() >= now.date()]
+
+    if states:
+        for d in upcoming_dates:
+            key = "next_" + d["type"]
+            if d["state"] is None:
+                for s in states.values():
+                    if key not in s:
+                        s[key] = d
+            else:
+                s = states[d["state"]]
+                if key not in s:
+                    s[key] = d
 
     # Determine the next two elections.
     this_election = None
@@ -89,10 +110,10 @@ def build(
         reminder_date = pendulum.instance(next_reminder["date"])
         diff = reminder_date.diff(now, False)
         if diff.in_days() == 0:
-            main_date = "Today!"
+            main_date = "Today"
             secondary_date = reminder_date.format("(MMMM Do)")
         elif diff.in_days() == -1:
-            main_date = "Tomorrow!"
+            main_date = "Tomorrow"
             secondary_date = reminder_date.format("(MMMM Do)")
         else:
             main_date = reminder_date.format("MMMM Do")
@@ -175,19 +196,26 @@ def build(
     if secondary_date:
         sec_date = secondary_date.replace("(", "( ").replace(")", " )")
 
-    images.render_twitter_image(
-        f"site/{path}/twitter_card.png",
-        state=state["name"] if state else None,
-        county=county["name"] if county else None,
-        reminder=reminder,
-        main_date=main_date,
-        secondary_date=sec_date,
-        explanation=explanation)
-    if debug_template:
-        debug_twitter = dict(data)
-        debug_twitter["debug_name"] = "Twitter Card"
-        debug_twitter["filename"] = "twitter_card.png"
-        debug_template.stream(debug_twitter).dump(f"site/{path}/debug_twitter.html")
+    sites = {"twitter": ("twitter_card", "Twitter Card"),
+             "instagram": ("instagram", "Instagram")}
+    for site in sites:
+        filename, title = sites[site]
+        images.render_image(
+            f"site/{path}/{filename}.png",
+            site,
+            state=state["name"] if state else None,
+            county=county["name"] if county else None,
+            reminder=reminder,
+            main_date=main_date,
+            secondary_date=sec_date,
+            explanation=explanation)
+        if debug_template:
+            debug_social = dict(data)
+            debug_social["debug_name"] = title
+            debug_social["filename"] = f"{filename}.png"
+            if "states" in debug_social:
+                debug_social["states"].sort(key=debug_key)
+            debug_template.stream(debug_social).dump(f"site/{path}/debug_{site}.html")
 
     for filename in filenames:
         template.stream(data).dump(filename)

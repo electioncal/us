@@ -8,7 +8,53 @@ date = 2020-08-11
 name = "Congressional Primary"
 original_date = 2020-08-11
 
+[20200811.registration]
+# by 8/7 5pm at municipal clerk
+in_person_by = 2020-08-11T20:00:00
+postmarked_by = 2020-07-22
+online_by = 2020-07-22
+sources = ["https://myvote.wi.gov/en-us/VoterDeadlines", "https://www.vote411.org/wisconsin"]
+
+[20200811.poll]
+in_person_start = 2020-08-11
+in_person_by = 2020-08-11
+
+# early voting considered in-person absentee and varies by municipal
+
+[20200811.absentee]
+# WI recommends mail in one week before
+in_person_by = 2020-08-11T20:00:00
+received_by = 2020-08-11T20:00:00
+sources = ["https://elections.wi.gov/voters/absentee"]
+
+[20200811.absentee.application]
+# military voters have until election day to request
+received_by = 2020-08-06T17:00:00
+in_person_by = 2020-08-09
+sources = ["https://elections.wi.gov/node/2475"]
+
+
 [20201103]
 date = 2020-11-03
 name = "General"
 original_date = 2020-11-03
+
+[20201103.registration]
+in_person_by = 2020-11-03T20:00:00
+postmarked_by = 2020-10-14
+online_by = 2020-10-14
+
+[20201103.poll]
+in_person_by = 2020-11-03
+
+# early voting considered in-person absentee and varies by municipal
+
+[20201103.absentee]
+# WI recommends mail in one week before
+in_person_by = 2020-11-03T20:00:00
+received_by = 2020-11-03T20:00:00
+
+[20201103.absentee.application]
+# military voters have until election day to request
+received_by = 2020-10-29T17:00:00
+in_person_by = 2020-11-03

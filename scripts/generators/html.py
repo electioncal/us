@@ -1,6 +1,7 @@
 import copy
 import jinja2
 import pendulum
+import datetime
 import subprocess
 
 from . import images
@@ -15,6 +16,14 @@ top_level = env.get_template("index.html.jinja")
 top_level_debug = env.get_template("debug.html.jinja")
 
 git_sha = subprocess.run(["git", "rev-parse", "HEAD"], capture_output=True).stdout.decode("utf-8").strip()
+
+future = datetime.datetime.now() + datetime.timedelta(days=365*4)
+
+def debug_key(state):
+    for key in ["next_reminder"]:
+        if key in state:
+            return state[key]["date"]
+    return future
 
 def build(
     now,
@@ -31,6 +40,18 @@ def build(
     counties=None,
 ):
     upcoming_dates = [d for d in dates if d["date"].date() >= now.date()]
+
+    if states:
+        for d in upcoming_dates:
+            key = "next_" + d["type"]
+            if d["state"] is None:
+                for s in states.values():
+                    if key not in s:
+                        s[key] = d
+            else:
+                s = states[d["state"]]
+                if key not in s:
+                    s[key] = d
 
     # Determine the next two elections.
     this_election = None
@@ -192,6 +213,8 @@ def build(
             debug_social = dict(data)
             debug_social["debug_name"] = title
             debug_social["filename"] = f"{filename}.png"
+            if "states" in debug_social:
+                debug_social["states"].sort(key=debug_key)
             debug_template.stream(debug_social).dump(f"site/{path}/debug_{site}.html")
 
     for filename in filenames:

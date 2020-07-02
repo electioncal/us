@@ -465,6 +465,18 @@ SUMMARY:Last day to vote in person in New Jersey
 DTSTART;VALUE=DATE:20200707
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Tennessee
+DTSTART;VALUE=DATE:20200707
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark voter registration form in Tennessee
+DTSTART;VALUE=DATE:20200707
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Tennessee
+DTSTART;VALUE=DATE:20200707
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive military and overseas b
  allots in Colorado
 DTSTART;VALUE=DATE:20200708
@@ -708,6 +720,15 @@ SUMMARY:Tennessee Congressional Primary
 DTSTART;VALUE=DATE:20200806
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Ten
+ nessee
+DTSTART;VALUE=DATE:20200806
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Tennessee
+DTSTART;VALUE=DATE:20200806
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hawaii Congressional Primary
 DTSTART;VALUE=DATE:20200808
 END:VEVENT
@@ -877,6 +898,18 @@ DTSTART;VALUE=DATE:20201005
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to postmark voter registration form in South Carolina
+DTSTART;VALUE=DATE:20201005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Tennessee
+DTSTART;VALUE=DATE:20201005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark voter registration form in Tennessee
+DTSTART;VALUE=DATE:20201005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Tennessee
 DTSTART;VALUE=DATE:20201005
 END:VEVENT
 BEGIN:VEVENT
@@ -1152,6 +1185,15 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person in South Carolina
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Ten
+ nessee
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Tennessee
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

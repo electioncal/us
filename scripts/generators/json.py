@@ -26,6 +26,7 @@ def generate(dates, output_filename, *, state_info=None, name=None, description=
             date["state"] = states[date["state"]]["name"]
         if state_info:
             date["state"] = state_info["name"]
-
+            if len(path_parts) == 5: # only county files have 5 parts
+                date["county"] = state_info["counties"][f"{path_parts[3]}"]["name"]
     with open(output_filename, "w") as f:
         json.dump(top_level, f)

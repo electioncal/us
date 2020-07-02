@@ -615,6 +615,14 @@ SUMMARY:Last day for election officials to receive absentee applications i
 DTSTART;VALUE=DATE:20200722
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to postmark voter registration form in Wisconsin
+DTSTART;VALUE=DATE:20200722
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Wisconsin
+DTSTART;VALUE=DATE:20200722
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to register to vote online in Louisiana
 DTSTART;VALUE=DATE:20200725
 END:VEVENT
@@ -737,6 +745,11 @@ SUMMARY:Last day to vote in person in Tennessee
 DTSTART;VALUE=DATE:20200806
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee applications i
+ n Wisconsin
+DTSTART;VALUE=DATE:20200806
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hawaii Congressional Primary
 DTSTART;VALUE=DATE:20200808
 END:VEVENT
@@ -752,6 +765,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person in Hawaii
 DTSTART;VALUE=DATE:20200808
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to hand deliver an absentee applications in Wisconsin
+DTSTART;VALUE=DATE:20200809
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Connecticut Presidential Primary
@@ -775,6 +792,23 @@ DTSTART;VALUE=DATE:20200811
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wisconsin Congressional Primary
+DTSTART;VALUE=DATE:20200811
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Wis
+ consin
+DTSTART;VALUE=DATE:20200811
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Wisconsin
+DTSTART;VALUE=DATE:20200811
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Wisconsin
+DTSTART;VALUE=DATE:20200811
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Wisconsin
 DTSTART;VALUE=DATE:20200811
 END:VEVENT
 BEGIN:VEVENT
@@ -1007,6 +1041,14 @@ SUMMARY:Last day for election officials to receive voter registration form
 DTSTART;VALUE=DATE:20201014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to postmark voter registration form in Wisconsin
+DTSTART;VALUE=DATE:20201014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Wisconsin
+DTSTART;VALUE=DATE:20201014
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
   in Alabama
 DTSTART;VALUE=DATE:20201019
@@ -1076,6 +1118,11 @@ DTSTART;VALUE=DATE:20201029
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to hand deliver an absentee applications in Alabama
+DTSTART;VALUE=DATE:20201029
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee applications i
+ n Wisconsin
 DTSTART;VALUE=DATE:20201029
 END:VEVENT
 BEGIN:VEVENT
@@ -1260,6 +1307,27 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person in Washington
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Wis
+ consin
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Wisconsin
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to hand deliver an absentee applications in Wisconsin
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Wisconsin
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Wisconsin
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

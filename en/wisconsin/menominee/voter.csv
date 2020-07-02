@@ -1,4 +1,44 @@
 date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
 2020-04-07 00:00:00,20200407,,election,,Presidential Primary,2020-04-07 00:00:00,Wisconsin,,
+2020-07-21 23:59:59,,20200811,reminder,registration.postmarked_by,Mail voter registration,,Wisconsin,,False
+2020-07-22 23:59:59,,20200811,deadline,registration.postmarked_by,Last day to postmark voter registration form,,Wisconsin,,False
+2020-07-22 23:59:59,,20200811,deadline,registration.online_by,Last day to register to vote online,,Wisconsin,,
+2020-07-22 23:59:59,,20200811,reminder,registration.postmarked_by,Mail voter registration at the post office,,Wisconsin,,False
+2020-07-22 23:59:59,,20200811,reminder,registration.online_by,Register to vote online,,Wisconsin,,
+2020-07-29 23:59:59,,20200811,reminder,absentee.application.received_by,Mail absentee application,,Wisconsin,,True
+2020-07-30 23:59:59,,20200811,reminder,absentee.application.received_by,Mail absentee application at the post office,,Wisconsin,,True
+2020-08-03 23:59:59,,20200811,reminder,absentee.received_by,Mail ballot,,Wisconsin,,True
+2020-08-04 23:59:59,,20200811,reminder,absentee.received_by,Mail ballot at the post office,,Wisconsin,,True
+2020-08-06 23:59:59,,20200811,deadline,absentee.application.received_by,Last day for election officials to receive absentee applications,,Wisconsin,,True
+2020-08-09 23:59:59,,20200811,deadline,absentee.application.in_person_by,Last day to hand deliver an absentee applications,,Wisconsin,,
+2020-08-09 23:59:59,,20200811,reminder,absentee.application.in_person_by,Drop off absentee application,,Wisconsin,,
+2020-08-10 23:59:59,,20200811,reminder,poll.in_person_by,Plan to vote,,Wisconsin,,
 2020-08-11 00:00:00,20200811,,election,,Congressional Primary,2020-08-11 00:00:00,Wisconsin,,
+2020-08-11 23:59:59,,20200811,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Wisconsin,,True
+2020-08-11 23:59:59,,20200811,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Wisconsin,,
+2020-08-11 23:59:59,,20200811,deadline,poll.in_person_by,Last day to vote in person,,Wisconsin,,
+2020-08-11 23:59:59,,20200811,deadline,registration.in_person_by,Last day to register to vote in person,,Wisconsin,,
+2020-08-11 23:59:59,,20200811,reminder,absentee.in_person_by,Drop off ballot,,Wisconsin,,
+2020-08-11 23:59:59,,20200811,reminder,poll.in_person_by,Vote in person,,Wisconsin,,
+2020-08-11 23:59:59,,20200811,reminder,registration.in_person_by,Register to vote in person,,Wisconsin,,
+2020-10-13 23:59:59,,20201103,reminder,registration.postmarked_by,Mail voter registration,,Wisconsin,,False
+2020-10-14 23:59:59,,20201103,deadline,registration.postmarked_by,Last day to postmark voter registration form,,Wisconsin,,False
+2020-10-14 23:59:59,,20201103,deadline,registration.online_by,Last day to register to vote online,,Wisconsin,,
+2020-10-14 23:59:59,,20201103,reminder,registration.postmarked_by,Mail voter registration at the post office,,Wisconsin,,False
+2020-10-14 23:59:59,,20201103,reminder,registration.online_by,Register to vote online,,Wisconsin,,
+2020-10-21 23:59:59,,20201103,reminder,absentee.application.received_by,Mail absentee application,,Wisconsin,,True
+2020-10-22 23:59:59,,20201103,reminder,absentee.application.received_by,Mail absentee application at the post office,,Wisconsin,,True
+2020-10-26 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,Wisconsin,,True
+2020-10-27 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,Wisconsin,,True
+2020-10-29 23:59:59,,20201103,deadline,absentee.application.received_by,Last day for election officials to receive absentee applications,,Wisconsin,,True
+2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,Wisconsin,,
 2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,Wisconsin,,
+2020-11-03 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Wisconsin,,True
+2020-11-03 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Wisconsin,,
+2020-11-03 23:59:59,,20201103,deadline,absentee.application.in_person_by,Last day to hand deliver an absentee applications,,Wisconsin,,
+2020-11-03 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,Wisconsin,,
+2020-11-03 23:59:59,,20201103,deadline,registration.in_person_by,Last day to register to vote in person,,Wisconsin,,
+2020-11-03 23:59:59,,20201103,reminder,absentee.in_person_by,Drop off ballot,,Wisconsin,,
+2020-11-03 23:59:59,,20201103,reminder,absentee.application.in_person_by,Drop off absentee application,,Wisconsin,,
+2020-11-03 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,Wisconsin,,
+2020-11-03 23:59:59,,20201103,reminder,registration.in_person_by,Register to vote in person,,Wisconsin,,

@@ -9,11 +9,75 @@ SUMMARY:Presidential Primary
 DTSTART;VALUE=DATE:20200407
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to postmark voter registration form
+DTSTART;VALUE=DATE:20200722
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online
+DTSTART;VALUE=DATE:20200722
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee applications
+DTSTART;VALUE=DATE:20200806
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to hand deliver an absentee applications
+DTSTART;VALUE=DATE:20200809
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Congressional Primary
 DTSTART;VALUE=DATE:20200811
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots
+DTSTART;VALUE=DATE:20200811
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot
+DTSTART;VALUE=DATE:20200811
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person
+DTSTART;VALUE=DATE:20200811
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person
+DTSTART;VALUE=DATE:20200811
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark voter registration form
+DTSTART;VALUE=DATE:20201014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online
+DTSTART;VALUE=DATE:20201014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee applications
+DTSTART;VALUE=DATE:20201029
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General (Presidential) Election
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to hand deliver an absentee applications
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 END:VCALENDAR

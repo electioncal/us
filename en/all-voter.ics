@@ -41,10 +41,6 @@ SUMMARY:Tennessee Presidential Primary
 DTSTART;VALUE=DATE:20200303
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Texas Congressional & Presidential Primary
-DTSTART;VALUE=DATE:20200303
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Utah Presidential Primary
 DTSTART;VALUE=DATE:20200303
 END:VEVENT
@@ -210,6 +206,19 @@ DTSTART;VALUE=DATE:20200613
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to apply online for a mail-in ballot in Kentucky
+DTSTART;VALUE=DATE:20200615
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Texas
+DTSTART;VALUE=DATE:20200615
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Texas
+DTSTART;VALUE=DATE:20200615
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark voter registration form in Texas
 DTSTART;VALUE=DATE:20200615
 END:VEVENT
 BEGIN:VEVENT
@@ -415,6 +424,11 @@ SUMMARY:Last day to drop off an absentee ballot in Utah
 DTSTART;VALUE=DATE:20200630
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee applications i
+ n Texas
+DTSTART;VALUE=DATE:20200702
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person in U.S. Virgin Islands
 DTSTART;VALUE=DATE:20200702
 END:VEVENT
@@ -516,6 +530,10 @@ SUMMARY:Last day for election officials to receive absentee ballots in Lou
 DTSTART;VALUE=DATE:20200710
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to vote early in person in Texas
+DTSTART;VALUE=DATE:20200710
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Louisiana Presidential Primary
 DTSTART;VALUE=DATE:20200711
 END:VEVENT
@@ -574,12 +592,25 @@ SUMMARY:Last day for election officials to receive absentee ballots in New
 DTSTART;VALUE=DATE:20200714
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots in Texas
+DTSTART;VALUE=DATE:20200714
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Texas
+DTSTART;VALUE=DATE:20200714
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
   in Louisiana
 DTSTART;VALUE=DATE:20200715
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person in Louisiana
+DTSTART;VALUE=DATE:20200715
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Tex
+ as
 DTSTART;VALUE=DATE:20200715
 END:VEVENT
 BEGIN:VEVENT

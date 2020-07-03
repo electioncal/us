@@ -8,7 +8,6 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-03-03 00:00:00,20200303,,election,,North Carolina Congressional & Presidential Primary,2020-03-03 00:00:00,North Carolina,,
 2020-03-03 00:00:00,20200303,,election,,Oklahoma Presidential Primary,2020-03-03 00:00:00,Oklahoma,,
 2020-03-03 00:00:00,20200303,,election,,Tennessee Presidential Primary,2020-03-03 00:00:00,Tennessee,,
-2020-03-03 00:00:00,20200303,,election,,Texas Congressional & Presidential Primary,2020-03-03 00:00:00,Texas,,
 2020-03-03 00:00:00,20200303,,election,,Utah Presidential Primary,2020-03-03 00:00:00,Utah,,
 2020-03-03 00:00:00,20200303,,election,,Vermont Presidential Primary,2020-03-03 00:00:00,Vermont,,
 2020-03-03 00:00:00,20200303,,election,,Virginia Presidential Primary (Democrats),2020-03-03 00:00:00,Virginia,,
@@ -52,8 +51,10 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-06-05 23:59:59,,20200630,reminder,registration.in_person_by,Register to vote in person,,Oklahoma,,
 2020-06-06 23:59:59,,20200707,reminder,registration.received_by,Mail voter registration at the post office,,Delaware,,True
 2020-06-07 00:00:00,20200607,,election,,Puerto Rico Presidential Primary (Republican),2020-06-07 00:00:00,Puerto Rico,,
+2020-06-07 23:59:59,,20200714,reminder,registration.received_by,Mail voter registration,,Texas,,True
 2020-06-08 23:59:59,,20200707,reminder,registration.received_by,Mail voter registration,,New Jersey,,True
 2020-06-08 23:59:59,,20200512,reminder,absentee.application.received_by,Mail absentee application,,North Carolina,,True
+2020-06-08 23:59:59,,20200714,reminder,registration.received_by,Mail voter registration at the post office,,Texas,,True
 2020-06-09 00:00:00,20200609,,election,,Georgia Presidential Primary,2020-06-09 00:00:00,Georgia,,
 2020-06-09 00:00:00,20200609,,election,,Nevada Congressional Primary,2020-06-09 00:00:00,Nevada,,
 2020-06-09 00:00:00,20200609,,election,,North Dakota Congressional Primary,2020-06-09 00:00:00,North Dakota,,
@@ -71,6 +72,7 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-06-13 23:59:59,,20200623,reminder,registration.in_person_by,Register to vote in person,,New York,,
 2020-06-14 23:59:59,,20200630,reminder,registration.received_by,Mail voter registration,,Colorado,,True
 2020-06-14 23:59:59,,20200623,reminder,absentee.received_by,Mail ballot,,Mississippi,,True
+2020-06-14 23:59:59,,20200714,reminder,registration.postmarked_by,Mail voter registration,,Texas,,False
 2020-06-15 23:59:59,,20200630,reminder,registration.received_by,Mail voter registration at the post office,,Colorado,,True
 2020-06-15 23:59:59,,20200623,deadline,absentee.application.online_by,Last day to apply online for a mail-in ballot,,Kentucky,,
 2020-06-15 23:59:59,,20200623,reminder,absentee.application.online_by,Apply for an absentee ballot online,,Kentucky,,
@@ -78,6 +80,11 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-06-15 23:59:59,,20200623,reminder,absentee.received_by,Mail ballot at the post office,,Mississippi,,True
 2020-06-15 23:59:59,,20200623,reminder,absentee.application.postmarked_by,Mail absentee application,,New York,,False
 2020-06-15 23:59:59,,20200623,reminder,absentee.received_by,Mail ballot,,South Carolina,,True
+2020-06-15 23:59:59,,20200714,deadline,registration.received_by,Last day for election officials to receive voter registration form,,Texas,,True
+2020-06-15 23:59:59,,20200714,deadline,registration.in_person_by,Last day to register to vote in person,,Texas,,
+2020-06-15 23:59:59,,20200714,deadline,registration.postmarked_by,Last day to postmark voter registration form,,Texas,,False
+2020-06-15 23:59:59,,20200714,reminder,registration.in_person_by,Register to vote in person,,Texas,,
+2020-06-15 23:59:59,,20200714,reminder,registration.postmarked_by,Mail voter registration at the post office,,Texas,,False
 2020-06-15 23:59:59,,20200623,reminder,absentee.received_by,Mail ballot,,Virginia,,True
 2020-06-16 23:59:59,,20200714,reminder,registration.received_by,Mail voter registration at the post office,,Maine,,True
 2020-06-16 23:59:59,,20200707,deadline,registration.received_by,Last day for election officials to receive voter registration form,,New Jersey,,True
@@ -145,6 +152,8 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-06-23 23:59:59,,20200623,deadline,poll.in_person_by,Last day to vote in person,,Virginia,,
 2020-06-23 23:59:59,,20200623,reminder,absentee.in_person_by,Drop off ballot,,Virginia,,
 2020-06-23 23:59:59,,20200623,reminder,poll.in_person_by,Vote in person,,Virginia,,
+2020-06-24 23:59:59,,20200714,reminder,absentee.application.received_by,Mail absentee application,,Texas,,True
+2020-06-25 23:59:59,,20200714,reminder,absentee.application.received_by,Mail absentee application at the post office,,Texas,,True
 2020-06-26 23:59:59,,20200512,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,North Carolina,,True
 2020-06-27 23:59:59,,20200623,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Kentucky,,True
 2020-06-27 23:59:59,,20200630,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Oklahoma,,
@@ -178,6 +187,7 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-07-01 23:59:59,,20200630,reminder,absentee.overseas_military.received_by,Mail ballot at the post office,,Colorado,,True
 2020-07-02 23:59:59,,20200714,reminder,absentee.application.received_by,Mail absentee application at the post office,,Alabama,,True
 2020-07-02 23:59:59,,20200711,reminder,absentee.received_by,Mail ballot,,Louisiana,,True
+2020-07-02 23:59:59,,20200714,deadline,absentee.application.received_by,Last day for election officials to receive absentee applications,,Texas,,True
 2020-07-02 23:59:59,,20200801,deadline,registration.in_person_by,Last day to register to vote in person,,U.S. Virgin Islands,,
 2020-07-02 23:59:59,,20200801,reminder,registration.in_person_by,Register to vote in person,,U.S. Virgin Islands,,
 2020-07-03 23:59:59,,20200711,reminder,absentee.received_by,Mail ballot at the post office,,Louisiana,,True
@@ -214,6 +224,7 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-07-07 23:59:59,,20200806,reminder,registration.in_person_by,Register to vote in person,,Tennessee,,
 2020-07-07 23:59:59,,20200806,reminder,registration.postmarked_by,Mail voter registration at the post office,,Tennessee,,False
 2020-07-07 23:59:59,,20200806,reminder,registration.online_by,Register to vote online,,Tennessee,,
+2020-07-07 23:59:59,,20200714,reminder,absentee.received_by,Mail ballot,,Texas,,True
 2020-07-08 23:59:59,,20200630,deadline,absentee.overseas_military.received_by,Last day for election officials to receive military and overseas ballots,,Colorado,,True
 2020-07-08 23:59:59,,20200808,reminder,registration.postmarked_by,Mail voter registration,,Hawaii,,False
 2020-07-08 23:59:59,,20200815,reminder,registration.received_by,Mail voter registration at the post office,,Louisiana,,True
@@ -223,6 +234,7 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-07-08 23:59:59,,20200804,reminder,registration.in_person_by,Register to vote in person,,Missouri,,
 2020-07-08 23:59:59,,20200804,reminder,registration.postmarked_by,Mail voter registration at the post office,,Missouri,,False
 2020-07-08 23:59:59,,20200804,reminder,registration.online_by,Register to vote online,,Missouri,,
+2020-07-08 23:59:59,,20200714,reminder,absentee.received_by,Mail ballot at the post office,,Texas,,True
 2020-07-09 23:59:59,,20200714,deadline,absentee.application.received_by,Last day for election officials to receive absentee applications,,Alabama,,True
 2020-07-09 23:59:59,,20200714,deadline,absentee.application.in_person_by,Last day to hand deliver an absentee applications,,Alabama,,
 2020-07-09 23:59:59,,20200714,reminder,absentee.application.in_person_by,Drop off absentee application,,Alabama,,
@@ -232,6 +244,8 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-07-09 23:59:59,,20200808,reminder,registration.online_by,Register to vote online,,Hawaii,,
 2020-07-10 23:59:59,,20200711,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Louisiana,,True
 2020-07-10 23:59:59,,20200711,reminder,poll.in_person_by,Plan to vote,,Louisiana,,
+2020-07-10 23:59:59,,20200714,deadline,poll.early.in_person_by,Last day to vote early in person,,Texas,,
+2020-07-10 23:59:59,,20200714,reminder,poll.early.in_person_by,Vote early in person,,Texas,,
 2020-07-11 00:00:00,20200711,,election,,Louisiana Presidential Primary,2020-06-20 00:00:00,Louisiana,,
 2020-07-11 23:59:59,,20200711,deadline,poll.in_person_by,Last day to vote in person,,Louisiana,,
 2020-07-11 23:59:59,,20200711,reminder,poll.in_person_by,Vote in person,,Louisiana,,
@@ -244,6 +258,7 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-07-13 23:59:59,,20200721,reminder,absentee.received_by,Mail ballot,,Delaware,,True
 2020-07-13 23:59:59,,20200714,reminder,poll.in_person_by,Plan to vote,,Maine,,
 2020-07-13 23:59:59,,20200804,reminder,registration.received_by,Mail voter registration at the post office,,Michigan,,True
+2020-07-13 23:59:59,,20200714,reminder,poll.in_person_by,Plan to vote,,Texas,,
 2020-07-14 00:00:00,20200714,,election,,Alabama Congressional Primary Run-Off (if needed),2020-07-14 00:00:00,Alabama,,
 2020-07-14 00:00:00,20200714,,election,,Maine Congressional Primary,2020-06-19 00:00:00,Maine,,
 2020-07-14 00:00:00,20200714,,election,,Texas Congressional Primary Run-Off (if needed),2020-07-14 00:00:00,Texas,,
@@ -262,10 +277,14 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-07-14 23:59:59,,20200714,reminder,registration.in_person_by,Register to vote in person,,Maine,,
 2020-07-14 23:59:59,,20200804,reminder,absentee.application.received_by,Mail absentee application,,Missouri,,True
 2020-07-14 23:59:59,,20200707,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,New Jersey,,False
+2020-07-14 23:59:59,,20200714,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,Texas,,True
+2020-07-14 23:59:59,,20200714,deadline,poll.in_person_by,Last day to vote in person,,Texas,,
+2020-07-14 23:59:59,,20200714,reminder,poll.in_person_by,Vote in person,,Texas,,
 2020-07-15 23:59:59,,20200815,deadline,registration.received_by,Last day for election officials to receive voter registration form,,Louisiana,,True
 2020-07-15 23:59:59,,20200815,deadline,registration.in_person_by,Last day to register to vote in person,,Louisiana,,
 2020-07-15 23:59:59,,20200815,reminder,registration.in_person_by,Register to vote in person,,Louisiana,,
 2020-07-15 23:59:59,,20200804,reminder,absentee.application.received_by,Mail absentee application at the post office,,Missouri,,True
+2020-07-15 23:59:59,,20200714,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Texas,,True
 2020-07-19 23:59:59,,20200804,reminder,registration.received_by,Mail voter registration,,Washington,,True
 2020-07-20 23:59:59,,20200721,reminder,poll.in_person_by,Plan to vote,,Delaware,,
 2020-07-20 23:59:59,,20200804,deadline,registration.received_by,Last day for election officials to receive voter registration form,,Michigan,,True

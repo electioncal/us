@@ -5,12 +5,40 @@ NAME:Texas Election Dates by electioncal.us
 SOURCE:https://electioncal.us/en/texas/voter.ics
 URL:https://electioncal.us/en/texas/
 BEGIN:VEVENT
-SUMMARY:Congressional & Presidential Primary
-DTSTART;VALUE=DATE:20200303
+SUMMARY:Last day for election officials to receive voter registration form
+DTSTART;VALUE=DATE:20200615
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person
+DTSTART;VALUE=DATE:20200615
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark voter registration form
+DTSTART;VALUE=DATE:20200615
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee applications
+DTSTART;VALUE=DATE:20200702
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote early in person
+DTSTART;VALUE=DATE:20200710
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Congressional Primary Run-Off (if needed)
 DTSTART;VALUE=DATE:20200714
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots
+DTSTART;VALUE=DATE:20200714
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person
+DTSTART;VALUE=DATE:20200714
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots
+DTSTART;VALUE=DATE:20200715
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:General (Presidential) Election

@@ -1,4 +1,23 @@
 date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
-2020-03-03 00:00:00,20200303,,election,,Congressional & Presidential Primary,2020-03-03 00:00:00,Texas,,
+2020-06-07 23:59:59,,20200714,reminder,registration.received_by,Mail voter registration,,Texas,,True
+2020-06-08 23:59:59,,20200714,reminder,registration.received_by,Mail voter registration at the post office,,Texas,,True
+2020-06-14 23:59:59,,20200714,reminder,registration.postmarked_by,Mail voter registration,,Texas,,False
+2020-06-15 23:59:59,,20200714,deadline,registration.received_by,Last day for election officials to receive voter registration form,,Texas,,True
+2020-06-15 23:59:59,,20200714,deadline,registration.in_person_by,Last day to register to vote in person,,Texas,,
+2020-06-15 23:59:59,,20200714,deadline,registration.postmarked_by,Last day to postmark voter registration form,,Texas,,False
+2020-06-15 23:59:59,,20200714,reminder,registration.in_person_by,Register to vote in person,,Texas,,
+2020-06-15 23:59:59,,20200714,reminder,registration.postmarked_by,Mail voter registration at the post office,,Texas,,False
+2020-06-24 23:59:59,,20200714,reminder,absentee.application.received_by,Mail absentee application,,Texas,,True
+2020-06-25 23:59:59,,20200714,reminder,absentee.application.received_by,Mail absentee application at the post office,,Texas,,True
+2020-07-02 23:59:59,,20200714,deadline,absentee.application.received_by,Last day for election officials to receive absentee applications,,Texas,,True
+2020-07-07 23:59:59,,20200714,reminder,absentee.received_by,Mail ballot,,Texas,,True
+2020-07-08 23:59:59,,20200714,reminder,absentee.received_by,Mail ballot at the post office,,Texas,,True
+2020-07-10 23:59:59,,20200714,deadline,poll.early.in_person_by,Last day to vote early in person,,Texas,,
+2020-07-10 23:59:59,,20200714,reminder,poll.early.in_person_by,Vote early in person,,Texas,,
+2020-07-13 23:59:59,,20200714,reminder,poll.in_person_by,Plan to vote,,Texas,,
 2020-07-14 00:00:00,20200714,,election,,Congressional Primary Run-Off (if needed),2020-07-14 00:00:00,Texas,,
+2020-07-14 23:59:59,,20200714,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,Texas,,True
+2020-07-14 23:59:59,,20200714,deadline,poll.in_person_by,Last day to vote in person,,Texas,,
+2020-07-14 23:59:59,,20200714,reminder,poll.in_person_by,Vote in person,,Texas,,
+2020-07-15 23:59:59,,20200714,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Texas,,True
 2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,Texas,,

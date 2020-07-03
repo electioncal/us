@@ -35,7 +35,7 @@ sources = ["https://www.sos.state.tx.us/elections/voter/important-election-dates
            "https://www.votetexas.gov/military-overseas-voters/index.html"]
 
 [20200714.absentee.military]
-received_by = 2020-07-22
+received_by = 2020-07-20
 sources = ["https://www.sos.state.tx.us/elections/voter/important-election-dates.shtml",
            "https://www.votetexas.gov/military-overseas-voters/index.html"]
 

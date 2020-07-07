@@ -15,7 +15,7 @@ name = "General"
 original_date = 2020-11-03
 
 [20201103.registration]
-recieved_by = 2020-10-19T17:00:00
+received_by = 2020-10-19T17:00:00
 sources = [
     "https://sdsos.gov/elections-voting/assets/2020ElectionCALENDAR.pdf",
     "https://sdsos.gov/elections-voting/voting/register-to-vote/default.aspx",

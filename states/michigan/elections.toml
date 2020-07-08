@@ -21,7 +21,7 @@ online_by = 2020-07-31T17:00:00  # This is not specifically spelled out
 sources = ["https://www.michigan.gov/sos/0,4670,7-127-1633_8716_8728-21037--,00.html"]
 
 [20200804.absentee]
-received_start = 2020-06-20
+receive_start = 2020-06-20
 received_by = 2020-08-04T20:00:00
 in_person_by = 2020-08-04T20:00:00
 sources = [
@@ -52,7 +52,7 @@ online_by = 2020-10-30T17:00:00  # This is not specifically spelled out
 sources = ["https://www.michigan.gov/sos/0,4670,7-127-1633_8716_8728-21037--,00.html"]
 
 [20201103.absentee]
-received_start = 2020-09-19
+receive_start = 2020-09-19
 received_by = 2020-11-03T20:00:00
 in_person_by = 2020-11-03T20:00:00
 sources = [

@@ -3,6 +3,7 @@ import os
 import tomlkit
 import datetime
 import pendulum
+from election_schema import methods, deadlines
 
 # Below we convert to Python dicts to allow None. We won't write back to TOML
 federal_fn = os.path.join("federal-elections.toml")
@@ -18,11 +19,6 @@ for key in elections:
     elections[key] = election
 
 dates = []
-
-methods = ["received_by", "in_person_by", "postmarked_by", "online_by"]
-deadlines = {"absentee": ["application", "overseas_military"],
-             "poll": ["early"],
-             "registration" : []}
 
 # Load per-state data.
 for state in os.listdir("states/"):

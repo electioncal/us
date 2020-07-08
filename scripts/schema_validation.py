@@ -2,7 +2,7 @@
     Validates all keys in all elections.toml files are valid according to
     the keys in election_schema, plus a few hardcoded values
 
-    It might be that the key is a new key and we've not deciced to what to do
+    It might be that the key is a new key and we've not decided to what to do
     with it yet. That might be fine.
 
     Usually its a typo though.

@@ -3,12 +3,45 @@ date = 2020-06-02
 name = "Congressional & Presidential Primary"
 original_date = 2020-06-02
 
-[20200811]
-date = 2020-08-11
-name = "Congressional Primary Run-Off (if needed)"
-original_date = 2020-08-11
+# [20200811]
+# date = 2020-08-11
+# name = "Congressional Primary Run-Off (if needed)"
+# original_date = 2020-08-11
+# Not Needed this election cycle
 
 [20201103]
 date = 2020-11-03
 name = "General"
 original_date = 2020-11-03
+
+[20201103.registration]
+received_by = 2020-10-19T17:00:00
+sources = [
+    "https://sdsos.gov/elections-voting/assets/2020ElectionCALENDAR.pdf",
+    "https://sdsos.gov/elections-voting/voting/register-to-vote/default.aspx",
+    "https://sdsos.gov/elections-voting/upcoming-elections/general-information/2020-Election-Information.aspx"
+]
+
+[20201103.absentee.application]
+in_person_by = 2020-11-02T17:00:00
+received_by = 2020-11-02T17:00:00
+sources = [
+    "https://sdsos.gov/elections-voting/assets/2020ElectionCALENDAR.pdf",
+    "https://sdsos.gov/elections-voting/voting/absentee-voting.aspx"
+]
+
+[20201103.absentee]
+in_person_starts = 2020-09-18
+received_by = 2020-11-03T19:00:00
+sources = [
+    "https://sdsos.gov/elections-voting/assets/2020ElectionCALENDAR.pdf",
+    "https://sdsos.gov/elections-voting/voting/absentee-voting.aspx"
+]
+
+[20201103.poll]
+in_person_starts = 2020-11-03T07:00:00
+in_person_by = 2020-11-03T19:00:00
+sources = [
+    "https://sdsos.gov/elections-voting/assets/2020ElectionCALENDAR.pdf",
+    "https://sdsos.gov/elections-voting/upcoming-elections/general-information/2020-Election-Information.aspx"
+]

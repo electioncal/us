@@ -55,4 +55,4 @@ for state in sorted(os.listdir("states/")):
 
 print(f"\nCompare to all valid keys:\n{all_valid_keys}")
 if len(known_invalid_keys) > 0:
-    print(f"\nAnd known accpetable invalid keys:\n{known_invalid_keys}\n")
+    print(f"\nAnd known acceptable invalid keys:\n{known_invalid_keys}\n")

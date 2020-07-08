@@ -814,10 +814,6 @@ SUMMARY:Minnesota Congresssional Primary
 DTSTART;VALUE=DATE:20200811
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:South Dakota Congressional Primary Run-Off (if needed)
-DTSTART;VALUE=DATE:20200811
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vermont Congressional Primary
 DTSTART;VALUE=DATE:20200811
 END:VEVENT
@@ -1103,6 +1099,11 @@ DTSTART;VALUE=DATE:20201019
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
+  in South Dakota
+DTSTART;VALUE=DATE:20201019
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
   in Utah
 DTSTART;VALUE=DATE:20201023
 END:VEVENT
@@ -1305,6 +1306,15 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person in South Carolina
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Sou
+ th Dakota
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in South Dakota
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

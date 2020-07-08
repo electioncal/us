@@ -23,8 +23,8 @@ sources = [
 ]
 
 [20201103.absentee.application]
-in_person_by = 2020-08-10T17:00:00
-received_by = 2020-08-10T17:00:00
+in_person_by = 2020-11-02T17:00:00
+received_by = 2020-11-02T17:00:00
 sources = [
     "https://sdsos.gov/elections-voting/assets/2020ElectionCALENDAR.pdf",
     "https://sdsos.gov/elections-voting/voting/absentee-voting.aspx"
@@ -32,6 +32,7 @@ sources = [
 
 [20201103.absentee]
 in_person_starts = 2020-09-18
+received_by = 2020-11-03T19:00:00
 sources = [
     "https://sdsos.gov/elections-voting/assets/2020ElectionCALENDAR.pdf",
     "https://sdsos.gov/elections-voting/voting/absentee-voting.aspx"
@@ -40,4 +41,7 @@ sources = [
 [20201103.poll]
 in_person_starts = 2020-11-03T07:00:00
 in_person_by = 2020-11-03T19:00:00
-sources = ["https://sdsos.gov/elections-voting/upcoming-elections/general-information/2020-Election-Information.aspx"]
+sources = [
+    "https://sdsos.gov/elections-voting/assets/2020ElectionCALENDAR.pdf",
+    "https://sdsos.gov/elections-voting/upcoming-elections/general-information/2020-Election-Information.aspx"
+]

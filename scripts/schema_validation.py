@@ -40,10 +40,7 @@ key_denylist = [
 suspicious_keywords = []
 denylist_errors = []
 
-# TODO: How to catch the denylis on the single loop through the hierarchy
-
-# for state in sorted(os.listdir("states/")):
-for state in ["AAA"]:
+for state in sorted(os.listdir("states/")):
     state_fn = os.path.join("states", state, "elections.toml")
     if not os.path.exists(state_fn):
         continue

@@ -42,12 +42,12 @@ for state in sorted(os.listdir("states/")):
         for state_election_key in state_election:
             if state_election_key not in all_valid_keys:
                 errors = True
-                print(f"{state_election_key} is a suspicious key in {state}\elections.toml")
+                print(f"{state_election_key} is a suspicious key in {state}/elections.toml")
             if state_election_key in deadlines:
                 for state_election_event in state_election[state_election_key]:
                     if state_election_event not in all_valid_keys:
                         errors = True
-                        print(f"{state_election_event} is a suspicious key in {state}\elections.toml")
+                        print(f"{state_election_event} is a suspicious key in {state}/elections.toml")
     if errors:
         print()
     errors = False

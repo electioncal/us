@@ -1,27 +1,35 @@
 date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
+2020-07-06 23:59:59,,20200804,reminder,registration.received_by,Mail voter registration,,Kansas,,True
+2020-07-07 23:59:59,,20200804,reminder,registration.received_by,Mail voter registration at the post office,,Kansas,,True
+2020-07-14 23:59:59,,20200804,deadline,registration.received_by,Last day for election officials to receive voter registration form,,Kansas,,True
 2020-07-14 23:59:59,,20200804,deadline,registration.in_person_by,Last day to register to vote in person,,Kansas,,
 2020-07-14 23:59:59,,20200804,deadline,registration.online_by,Last day to register to vote online,,Kansas,,
 2020-07-14 23:59:59,,20200804,reminder,registration.in_person_by,Register to vote in person,,Kansas,,
 2020-07-14 23:59:59,,20200804,reminder,registration.online_by,Register to vote online,,Kansas,,
-2020-08-03 23:59:59,,20200804,reminder,absentee.postmarked_by,Mail ballot,,Kansas,,False
+2020-07-30 23:59:59,,20200804,reminder,absentee.received_by,Mail ballot,,Kansas,,True
+2020-07-31 23:59:59,,20200804,reminder,absentee.received_by,Mail ballot at the post office,,Kansas,,True
 2020-08-03 23:59:59,,20200804,reminder,poll.in_person_by,Plan to vote,,Kansas,,
 2020-08-04 00:00:00,20200804,,election,,Congressional Primary,2020-08-04 00:00:00,Kansas,,
 2020-08-04 23:59:59,,20200804,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Kansas,,
-2020-08-04 23:59:59,,20200804,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,Kansas,,False
+2020-08-04 23:59:59,,20200804,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,Kansas,,True
 2020-08-04 23:59:59,,20200804,deadline,poll.in_person_by,Last day to vote in person,,Kansas,,
 2020-08-04 23:59:59,,20200804,reminder,absentee.in_person_by,Drop off ballot,,Kansas,,
-2020-08-04 23:59:59,,20200804,reminder,absentee.postmarked_by,Mail ballot at the post office,,Kansas,,False
 2020-08-04 23:59:59,,20200804,reminder,poll.in_person_by,Vote in person,,Kansas,,
+2020-08-07 23:59:59,,20200804,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Kansas,,True
+2020-10-05 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration,,Kansas,,True
+2020-10-06 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration at the post office,,Kansas,,True
+2020-10-13 23:59:59,,20201103,deadline,registration.received_by,Last day for election officials to receive voter registration form,,Kansas,,True
 2020-10-13 23:59:59,,20201103,deadline,registration.in_person_by,Last day to register to vote in person,,Kansas,,
 2020-10-13 23:59:59,,20201103,deadline,registration.online_by,Last day to register to vote online,,Kansas,,
 2020-10-13 23:59:59,,20201103,reminder,registration.in_person_by,Register to vote in person,,Kansas,,
 2020-10-13 23:59:59,,20201103,reminder,registration.online_by,Register to vote online,,Kansas,,
-2020-11-02 23:59:59,,20201103,reminder,absentee.postmarked_by,Mail ballot,,Kansas,,False
+2020-10-29 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,Kansas,,True
+2020-10-30 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,Kansas,,True
 2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,Kansas,,
 2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,Kansas,,
 2020-11-03 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Kansas,,
-2020-11-03 23:59:59,,20201103,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,Kansas,,False
+2020-11-03 23:59:59,,20201103,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,Kansas,,True
 2020-11-03 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,Kansas,,
 2020-11-03 23:59:59,,20201103,reminder,absentee.in_person_by,Drop off ballot,,Kansas,,
-2020-11-03 23:59:59,,20201103,reminder,absentee.postmarked_by,Mail ballot at the post office,,Kansas,,False
 2020-11-03 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,Kansas,,
+2020-11-06 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Kansas,,True

@@ -424,6 +424,10 @@ SUMMARY:Last day to drop off an absentee ballot in Utah
 DTSTART;VALUE=DATE:20200630
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots in Utah
+DTSTART;VALUE=DATE:20200630
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee applications i
  n Texas
 DTSTART;VALUE=DATE:20200702
@@ -550,6 +554,10 @@ SUMMARY:Last day to drop off an absentee ballot in Alabama
 DTSTART;VALUE=DATE:20200713
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots in Alabama
+DTSTART;VALUE=DATE:20200713
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Alabama Congressional Primary Run-Off (if needed)
 DTSTART;VALUE=DATE:20200714
 END:VEVENT
@@ -562,7 +570,16 @@ SUMMARY:Texas Congressional Primary Run-Off (if needed)
 DTSTART;VALUE=DATE:20200714
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY: in Alabama
+DTSTART;VALUE=DATE:20200714
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to vote in person in Alabama
+DTSTART;VALUE=DATE:20200714
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Kansas
 DTSTART;VALUE=DATE:20200714
 END:VEVENT
 BEGIN:VEVENT
@@ -779,6 +796,11 @@ BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee applications i
  n Wisconsin
 DTSTART;VALUE=DATE:20200806
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Kan
+ sas
+DTSTART;VALUE=DATE:20200807
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hawaii Congressional Primary
@@ -1037,6 +1059,11 @@ SUMMARY:Last day to register to vote in person in New York
 DTSTART;VALUE=DATE:20201010
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Kansas
+DTSTART;VALUE=DATE:20201013
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person in Kansas
 DTSTART;VALUE=DATE:20201013
 END:VEVENT
@@ -1170,6 +1197,10 @@ SUMMARY:Last day to drop off an absentee ballot in Alabama
 DTSTART;VALUE=DATE:20201102
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots in Alabama
+DTSTART;VALUE=DATE:20201102
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in Lou
  isiana
 DTSTART;VALUE=DATE:20201102
@@ -1183,7 +1214,15 @@ SUMMARY:Last day to hand deliver an absentee applications in New York
 DTSTART;VALUE=DATE:20201102
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots in Utah
+DTSTART;VALUE=DATE:20201102
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General (Presidential) Election
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: in Alabama
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
@@ -1384,6 +1423,11 @@ BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in New
   Jersey
 DTSTART;VALUE=DATE:20201105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Kan
+ sas
+DTSTART;VALUE=DATE:20201106
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in Nor

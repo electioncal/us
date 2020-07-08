@@ -4,6 +4,10 @@ PRODID:-//electioncal.us generator//circuitpython.org//
 SOURCE:https://electioncal.us/en/kansas/hodgeman/voter.ics
 URL:https://electioncal.us/en/kansas/hodgeman/
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+DTSTART;VALUE=DATE:20200714
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person
 DTSTART;VALUE=DATE:20200714
 END:VEVENT
@@ -28,6 +32,14 @@ SUMMARY:Last day to vote in person
 DTSTART;VALUE=DATE:20200804
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots
+DTSTART;VALUE=DATE:20200807
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+DTSTART;VALUE=DATE:20201013
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person
 DTSTART;VALUE=DATE:20201013
 END:VEVENT
@@ -50,5 +62,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person
 DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots
+DTSTART;VALUE=DATE:20201106
 END:VEVENT
 END:VCALENDAR

@@ -21,12 +21,20 @@ SUMMARY:Last day to drop off an absentee ballot
 DTSTART;VALUE=DATE:20200630
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots
+DTSTART;VALUE=DATE:20200630
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
 DTSTART;VALUE=DATE:20201023
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person
 DTSTART;VALUE=DATE:20201023
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots
+DTSTART;VALUE=DATE:20201102
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:General (Presidential) Election

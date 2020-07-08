@@ -3,14 +3,20 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-06-11 23:59:59,,20200630,reminder,registration.received_by,Mail voter registration,,Utah,,True
 2020-06-12 23:59:59,,20200630,reminder,registration.received_by,Mail voter registration at the post office,,Utah,,True
 2020-06-19 23:59:59,,20200630,deadline,registration.received_by,Last day for election officials to receive voter registration form,,Utah,,True
+2020-06-29 23:59:59,,20200630,reminder,absentee.postmarked_by,Mail ballot,,Utah,,False
 2020-06-30 00:00:00,20200630,,election,,Congressional Primary,2020-06-30 00:00:00,Utah,,
 2020-06-30 23:59:59,,20200630,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Utah,,
+2020-06-30 23:59:59,,20200630,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,Utah,,False
 2020-06-30 23:59:59,,20200630,reminder,absentee.in_person_by,Drop off ballot,,Utah,,
+2020-06-30 23:59:59,,20200630,reminder,absentee.postmarked_by,Mail ballot at the post office,,Utah,,False
 2020-10-15 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration,,Utah,,True
 2020-10-16 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration at the post office,,Utah,,True
 2020-10-23 23:59:59,,20201103,deadline,registration.received_by,Last day for election officials to receive voter registration form,,Utah,,True
 2020-10-23 23:59:59,,20201103,deadline,registration.in_person_by,Last day to register to vote in person,,Utah,,
 2020-10-23 23:59:59,,20201103,reminder,registration.in_person_by,Register to vote in person,,Utah,,
+2020-11-01 23:59:59,,20201103,reminder,absentee.postmarked_by,Mail ballot,,Utah,,False
+2020-11-02 23:59:59,,20201103,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,Utah,,False
+2020-11-02 23:59:59,,20201103,reminder,absentee.postmarked_by,Mail ballot at the post office,,Utah,,False
 2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,Utah,,
 2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,Utah,,
 2020-11-03 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Utah,,

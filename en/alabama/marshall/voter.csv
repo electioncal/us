@@ -11,15 +11,19 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-07-09 23:59:59,,20200714,deadline,absentee.application.received_by,Last day for election officials to receive absentee applications,,Alabama,,True
 2020-07-09 23:59:59,,20200714,deadline,absentee.application.in_person_by,Last day to hand deliver an absentee applications,,Alabama,,
 2020-07-09 23:59:59,,20200714,reminder,absentee.application.in_person_by,Drop off absentee application,,Alabama,,
+2020-07-12 23:59:59,,20200714,reminder,absentee.postmarked_by,Mail ballot,,Alabama,,False
 2020-07-13 23:59:59,,20200714,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Alabama,,
+2020-07-13 23:59:59,,20200714,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,Alabama,,False
 2020-07-13 23:59:59,,20200714,reminder,absentee.in_person_by,Drop off ballot,,Alabama,,
+2020-07-13 23:59:59,,20200714,reminder,absentee.postmarked_by,Mail ballot at the post office,,Alabama,,False
+2020-07-13 23:59:59,,20200714,reminder,absentee.overseas_military.postmarked_by,Mail ballot,,Alabama,,False
 2020-07-13 23:59:59,,20200714,reminder,poll.in_person_by,Plan to vote,,Alabama,,
-2020-07-13 23:59:59,,20200714,reminder,absentee.overseas_military.received_by,Mail ballot,,Alabama,,True
 2020-07-14 00:00:00,20200714,,election,,Congressional Primary Run-Off (if needed),2020-07-14 00:00:00,Alabama,,
+2020-07-14 23:59:59,,20200714,deadline,absentee.overseas_military.postmarked_by,,,Alabama,,False
 2020-07-14 23:59:59,,20200714,deadline,poll.in_person_by,Last day to vote in person,,Alabama,,
+2020-07-14 23:59:59,,20200714,reminder,absentee.overseas_military.postmarked_by,Mail ballot at the post office,,Alabama,,False
 2020-07-14 23:59:59,,20200714,reminder,poll.in_person_by,Vote in person,,Alabama,,
-2020-07-14 23:59:59,,20200714,reminder,absentee.overseas_military.received_by,Mail ballot at the post office,,Alabama,,True
-2020-07-21 23:59:59,,20200714,deadline,absentee.overseas_military.received_by,Last day for election officials to receive military and overseas ballots,,Alabama,,True
+2020-07-21 23:59:59,,20200714,deadline,absentee.overseas_military.received_by,Last day for election officials to receive military and overseas ballots,,Alabama,,False
 2020-10-11 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration,,Alabama,,True
 2020-10-12 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration at the post office,,Alabama,,True
 2020-10-19 23:59:59,,20201103,deadline,registration.received_by,Last day for election officials to receive voter registration form,,Alabama,,True
@@ -32,12 +36,16 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-10-29 23:59:59,,20201103,deadline,absentee.application.received_by,Last day for election officials to receive absentee applications,,Alabama,,True
 2020-10-29 23:59:59,,20201103,deadline,absentee.application.in_person_by,Last day to hand deliver an absentee applications,,Alabama,,
 2020-10-29 23:59:59,,20201103,reminder,absentee.application.in_person_by,Drop off absentee application,,Alabama,,
+2020-11-01 23:59:59,,20201103,reminder,absentee.postmarked_by,Mail ballot,,Alabama,,False
 2020-11-02 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Alabama,,
+2020-11-02 23:59:59,,20201103,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,Alabama,,False
 2020-11-02 23:59:59,,20201103,reminder,absentee.in_person_by,Drop off ballot,,Alabama,,
+2020-11-02 23:59:59,,20201103,reminder,absentee.postmarked_by,Mail ballot at the post office,,Alabama,,False
+2020-11-02 23:59:59,,20201103,reminder,absentee.overseas_military.postmarked_by,Mail ballot,,Alabama,,False
 2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,Alabama,,
-2020-11-02 23:59:59,,20201103,reminder,absentee.overseas_military.received_by,Mail ballot,,Alabama,,True
 2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,Alabama,,
+2020-11-03 23:59:59,,20201103,deadline,absentee.overseas_military.postmarked_by,,,Alabama,,False
 2020-11-03 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,Alabama,,
+2020-11-03 23:59:59,,20201103,reminder,absentee.overseas_military.postmarked_by,Mail ballot at the post office,,Alabama,,False
 2020-11-03 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,Alabama,,
-2020-11-03 23:59:59,,20201103,reminder,absentee.overseas_military.received_by,Mail ballot at the post office,,Alabama,,True
-2020-11-10 23:59:59,,20201103,deadline,absentee.overseas_military.received_by,Last day for election officials to receive military and overseas ballots,,Alabama,,True
+2020-11-10 23:59:59,,20201103,deadline,absentee.overseas_military.received_by,Last day for election officials to receive military and overseas ballots,,Alabama,,False

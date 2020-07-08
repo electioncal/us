@@ -13,12 +13,12 @@ postmarked_by = 2020-07-08
 [20200804.absentee]
 received_by = 2020-08-04T19:00:00
 requires = ["notarization"]
-source = ["https://www.sos.mo.gov/CMSImages/ElectionGoVoteMissouri/Absentee-MailinBallotSummaries.pdf"]
+sources = ["https://www.sos.mo.gov/CMSImages/ElectionGoVoteMissouri/Absentee-MailinBallotSummaries.pdf"]
 
 [20200804.absentee.application]
 received_by = 2020-07-22T17:00:00
 form = "https://www.sos.mo.gov/CMSImages/ElectionGoVoteMissouri//2020FillableBallotApplication.pdf"
-source = ["https://www.sos.mo.gov/CMSImages/ElectionGoVoteMissouri/Absentee-MailinBallotSummaries.pdf"]
+sources = ["https://www.sos.mo.gov/CMSImages/ElectionGoVoteMissouri/Absentee-MailinBallotSummaries.pdf"]
 
 [20201103]
 date = 2020-11-03

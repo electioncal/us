@@ -18,7 +18,7 @@ sources = ["https://vote.utah.gov/index.html"]
 
 [20200630.absentee]
 in_person_by = 2020-06-30T20:00:00
-post_marked_by = 2020-06-30
+postmarked_by = 2020-06-30
 sources = ["https://voteinfo.utah.gov/covid-19-information/"]
 
 # [20200630.poll]
@@ -47,7 +47,7 @@ sources = [
     "https://le.utah.gov/xcode/Title20A/Chapter2/20A-2-S102.5.html?v=C20A-2-S102.5_2020051220200512"
 ]
 [20201103.absentee]
-post_marked_by = 2020-11-02
+postmarked_by = 2020-11-02
 in_person_by = 2020-11-03T20:00:00
 sources = ["https://le.utah.gov/xcode/Title20A/Chapter3A/20A-3a-S204.html?v=C20A-3a-S204_2020051220200512"]
 

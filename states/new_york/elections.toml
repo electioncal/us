@@ -18,7 +18,7 @@ in_person_by = 2020-06-23
 
 
 [20200623.poll.early]
-in_person_starts = 2020-06-13
+in_person_start = 2020-06-13
 in_person_by = 2020-06-21
 sources = ["https://www.elections.ny.gov/NYSBOE/news/2020VotingOptionsDeadlinesforJunePrimary.pdf"]
 

@@ -19,7 +19,7 @@ sources = ["https://www.maine.gov/sos/cec/elec/voter-info/absenteeguide.html"]
 
 [20200714.poll]
 in_person_by = 2020-07-14
-source = ["https://www.maine.gov/sos/cec/elec/upcoming/index.html"]
+sources = ["https://www.maine.gov/sos/cec/elec/upcoming/index.html"]
 
 [20201103]
 date = 2020-11-03

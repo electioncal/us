@@ -632,6 +632,11 @@ DTSTART;VALUE=DATE:20200715
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
+  in Florida
+DTSTART;VALUE=DATE:20200720
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
   in Michigan
 DTSTART;VALUE=DATE:20200720
 END:VEVENT
@@ -870,6 +875,10 @@ SUMMARY:Louisiana Municipal General Election
 DTSTART;VALUE=DATE:20200815
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Florida
+DTSTART;VALUE=DATE:20200815
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to vote in person in Louisiana
 DTSTART;VALUE=DATE:20200815
 END:VEVENT
@@ -883,6 +892,15 @@ DTSTART;VALUE=DATE:20200818
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wyoming Congressional Primary
+DTSTART;VALUE=DATE:20200818
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Flo
+ rida
+DTSTART;VALUE=DATE:20200818
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Florida
 DTSTART;VALUE=DATE:20200818
 END:VEVENT
 BEGIN:VEVENT
@@ -989,6 +1007,11 @@ DTSTART;VALUE=DATE:20201005
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote online in Arizona
+DTSTART;VALUE=DATE:20201005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Florida
 DTSTART;VALUE=DATE:20201005
 END:VEVENT
 BEGIN:VEVENT
@@ -1189,6 +1212,10 @@ SUMMARY:Last day to apply online for a mail-in ballot in South Carolina
 DTSTART;VALUE=DATE:20201030
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Florida
+DTSTART;VALUE=DATE:20201031
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to drop off an absentee ballot in Oklahoma
 DTSTART;VALUE=DATE:20201031
 END:VEVENT
@@ -1257,6 +1284,15 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person in Delaware
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Flo
+ rida
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Florida
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

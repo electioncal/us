@@ -11,7 +11,7 @@ original_date = 2020-08-11
 [20200811.registration]
 in_person_by = 2020-08-11T19:00:00
 # online earlier (ensure name appears on checklist)
-# but can vote up to election day
+# but can register up to election day
 online_by = 2020-08-07
 sources = ["https://sos.vermont.gov/elections/voters/registration/", "https://olvr.vermont.gov"]
 
@@ -23,5 +23,5 @@ original_date = 2020-11-03
 [20201103.registration]
 in_person_by = 2020-11-03T19:00:00
 # online earlier (ensure name appears on checklist)
-# but can vote up to election day
+# but can register up to election day
 online_by = 2020-10-30

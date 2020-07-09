@@ -8,7 +8,61 @@ date = 2020-08-18
 name = "Congressional Primary"
 original_date = 2020-08-18
 
+[20200818.registration]
+received_by = 2020-07-20
+sources = ["https://dos.myflorida.com/elections/for-voters/election-dates/"]
+
+[20200818.absentee.application]
+email_by = 2020-08-08T17:00:00
+fax_by = 2020-08-08T17:00:00
+in_person_by = 2020-08-08T17:00:00
+received_by = 2020-08-08T17:00:00
+sources = ["https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/"]
+telephone_by = 2020-08-08T17:00:00
+
+[20200818.absentee]
+in_person_start = 2020-08-08
+received_by = 2020-08-18T19:00:00
+sources = ["https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/"]
+
+[20200818.poll.early]
+in_person_by = 2020-08-15 # Additional Days also might be: August 3, 4, 5, 6, 7, and 16
+in_person_start = 2020-08-08 
+sources = ["https://dos.myflorida.com/elections/for-voters/election-dates/"] 
+
+[20200818.poll]
+in_person_by = 2020-08-18T19:00:00
+in_person_start = 2020-08-18T07:00:00
+sources = ["https://dos.myflorida.com/elections/for-voters/voting/election-day-voting/"]
+
 [20201103]
 date = 2020-11-03
 name = "General"
 original_date = 2020-11-03
+
+[20201103.registration]
+received_by = 2020-10-05
+sources = ["https://dos.myflorida.com/elections/for-voters/election-dates/"]
+
+[20201103.absentee.application]
+email_by = 2020-10-24T17:00:00
+fax_by = 2020-10-24T17:00:00
+in_person_by = 2020-10-24T17:00:00
+received_by = 2020-10-24T17:00:00
+sources = ["https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/"]
+telephone_by = 2020-10-24T17:00:00
+
+[20201103.absentee]
+in_person_start = 2020-10-24
+received_by = 2020-11-03T19:00:00
+sources = ["https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/"]
+
+[20201103.poll.early]
+in_person_by = 2020-10-31 # Additional Days also might be: October 19, 20, 21, 22, 23 and November 1
+in_person_start = 2020-10-24 
+sources = ["https://dos.myflorida.com/elections/for-voters/election-dates/"]
+
+[20201103.poll]
+in_person_by = 2020-11-03T19:00:00
+in_person_start = 2020-11-03T07:00:00
+sources = ["https://dos.myflorida.com/elections/for-voters/voting/election-day-voting/"]

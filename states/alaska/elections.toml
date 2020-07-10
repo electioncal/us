@@ -15,6 +15,7 @@ sources = ["https://www.elections.alaska.gov/Core/electioncalendar.php"]
 [20200818.absentee]
 in_person_start = 2020-08-03
 postmarked_by = 2020-08-18
+received_by = 2020-08-28
 sources = [
   "https://www.elections.alaska.gov/Core/electiondatesandhours.php",
   "https://www.elections.alaska.gov/Core/absenteeearlyandinpersonvoting.php",
@@ -49,6 +50,7 @@ sources = ["https://www.elections.alaska.gov/Core/electioncalendar.php"]
 [20201103.absentee]
 in_person_start = 2020-10-19
 postmarked_by = 2020-11-03
+received_by = 2020-11-13
 sources = [
   "https://www.elections.alaska.gov/Core/electiondatesandhours.php",
   "https://www.elections.alaska.gov/Core/absenteeearlyandinpersonvoting.php",

@@ -12,7 +12,7 @@ original_date = 2020-11-03
 online_by = 2020-10-19
 in_person_by = 2020-11-03
 postmarked_by = 2020-10-19
-
+sources = ["https://elections.cdn.sos.ca.gov//statewide-elections/2020-primary/section-8-general-calendar.pdf"]
 [20201103.absentee]
 mailed_by = 2020-11-03
 received_by = 2020-11-20

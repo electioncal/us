@@ -789,6 +789,19 @@ SUMMARY:Tennessee Congressional Primary
 DTSTART;VALUE=DATE:20200806
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Connecticut
+DTSTART;VALUE=DATE:20200806
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark voter registration form in Connecticut
+DTSTART;VALUE=DATE:20200806
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Connecticut
+DTSTART;VALUE=DATE:20200806
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in Ten
  nessee
 DTSTART;VALUE=DATE:20200806
@@ -846,6 +859,19 @@ DTSTART;VALUE=DATE:20200811
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wisconsin Congressional Primary
+DTSTART;VALUE=DATE:20200811
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Con
+ necticut
+DTSTART;VALUE=DATE:20200811
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Connecticut
+DTSTART;VALUE=DATE:20200811
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Connecticut
 DTSTART;VALUE=DATE:20200811
 END:VEVENT
 BEGIN:VEVENT
@@ -1176,6 +1202,15 @@ SUMMARY:Last day to register to vote online in Washington
 DTSTART;VALUE=DATE:20201026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Connecticut
+DTSTART;VALUE=DATE:20201027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark voter registration form in Connecticut
+DTSTART;VALUE=DATE:20201027
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to postmark absentee applications in New York
 DTSTART;VALUE=DATE:20201027
 END:VEVENT
@@ -1275,6 +1310,19 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person in Colorado
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Con
+ necticut
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Connecticut
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Connecticut
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

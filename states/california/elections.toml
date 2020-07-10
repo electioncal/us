@@ -7,3 +7,24 @@ original_date = 2020-03-03
 date = 2020-11-03
 name = "General"
 original_date = 2020-11-03
+
+[20201103.registration]
+online_by = 2020-10-19
+in_person_by = 2020-11-03
+postmarked_by = 2020-10-19
+
+[20201103.absentee]
+mailed_by = 2020-11-03
+received_by = 2020-11-20
+sources = ["https://elections.cdn.sos.ca.gov//statewide-elections/2020-primary/section-8-general-calendar.pdf"]
+
+[20201103.poll]
+in_person_by = 2020-11-03T20:00:00
+in_person_start = 2020-11-03T07:00:00
+sources = ["https://elections.cdn.sos.ca.gov//statewide-elections/2020-primary/section-8-general-calendar.pdf"]
+
+# [20201103.absentee.application]
+# received_by = 2020-10-27 # 7 days prior
+# sources = ["https://www.sos.ca.gov/elections/where-and-how/"]
+# All registered voters will be mailed a ballot. In person registrations will be given one.
+# https://www.gov.ca.gov/wp-content/uploads/2020/05/05.08.2020-EO-N-64-20-signed.pdf

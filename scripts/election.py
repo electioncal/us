@@ -182,7 +182,7 @@ for date in dates:
             reminder["type"] = "reminder"
             reminder["deadline_date"] = reminder["date"]
             friendly_date = pendulum.instance(reminder["date"]).format("MMMM Do")
-            reminder["explanation"] = f"{item.capitalize()} must be postmarked by {friendly_date}."
+            reminder["explanation"] = f"{item.capitalize()}s must be postmarked by {friendly_date}."
 
             mail = copy.deepcopy(reminder)
             mail["date"] = reminder["date"] - one_day
@@ -197,7 +197,7 @@ for date in dates:
             reminder["type"] = "reminder"
             reminder["deadline_date"] = reminder["date"]
             friendly_date = pendulum.instance(reminder["date"]).format("MMMM Do")
-            reminder["explanation"] = f"{item.capitalize()} must be received by {friendly_date}."
+            reminder["explanation"] = f"{item.capitalize()}s must be received by {friendly_date}."
 
             mail = copy.deepcopy(reminder)
             mail["date"] = reminder["date"] - one_day - one_week
@@ -220,6 +220,8 @@ for date in dates:
             elif subtype.startswith("poll"):
                 plan = copy.deepcopy(reminder)
                 plan["name"] = "Plan to vote"
+                friendly_date = pendulum.instance(plan["date"]).format("MMMM Do")
+                plan["explanation"] = friendly_date + " is election day."
                 plan["date"] -= one_day
                 reminders.append(plan)
 

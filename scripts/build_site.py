@@ -57,6 +57,21 @@ for county in dbdir.glob("*/counties/*/info.toml"):
     state = county.parent.parent.parent.name
     states[state]["counties"][county.parent.name] = county_info
 
+
+upcoming_dates = [d for d in election.dates if d["date"].date() >= now.date()]
+past_dates = [d for d in election.dates if d["date"].date() < now.date()]
+for d in upcoming_dates:
+    if d["type"] == "election":
+        if d["state"] is None:
+            for s in states.values():
+                if "next_election" not in s:
+                    s["next_election"] = d
+        else:
+            s = states[d["state"]]
+            if "next_election" not in s:
+                s["next_election"] = d
+
+
 for state_lower in states:
     state_info = states[state_lower]
 
@@ -80,7 +95,7 @@ for state_lower in states:
             extension = alternative["extension"]
             alternative["generator"](
                 county_dates, f"site/en/{state_lower}/{county_lower}/voter.{extension}",
-                state_info = state_info                
+                state_info = state_info
             )
         html.build(now, county_dates, state_info, dict(county_info), alternatives=alternatives)
 

@@ -706,6 +706,11 @@ SUMMARY:Last day to vote in person in U.S. Virgin Islands
 DTSTART;VALUE=DATE:20200801
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Wyoming
+DTSTART;VALUE=DATE:20200803
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Arizona Congressional Primary
 DTSTART;VALUE=DATE:20200804
 END:VEVENT
@@ -927,6 +932,23 @@ DTSTART;VALUE=DATE:20200818
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person in Florida
+DTSTART;VALUE=DATE:20200818
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Wyo
+ ming
+DTSTART;VALUE=DATE:20200818
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Wyoming
+DTSTART;VALUE=DATE:20200818
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Wyoming
+DTSTART;VALUE=DATE:20200818
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Wyoming
 DTSTART;VALUE=DATE:20200818
 END:VEVENT
 BEGIN:VEVENT
@@ -1188,6 +1210,11 @@ DTSTART;VALUE=DATE:20201019
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
+  in Wyoming
+DTSTART;VALUE=DATE:20201019
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
   in Utah
 DTSTART;VALUE=DATE:20201023
 END:VEVENT
@@ -1285,6 +1312,10 @@ DTSTART;VALUE=DATE:20201102
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to postmark absentee ballots in Utah
+DTSTART;VALUE=DATE:20201102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Wyoming
 DTSTART;VALUE=DATE:20201102
 END:VEVENT
 BEGIN:VEVENT
@@ -1508,6 +1539,19 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person in Wisconsin
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Wyo
+ ming
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Wyoming
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Wyoming
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

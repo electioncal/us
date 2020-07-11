@@ -1165,6 +1165,14 @@ SUMMARY:Last day to register to vote online in Alabama
 DTSTART;VALUE=DATE:20201019
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to postmark voter registration form in California
+DTSTART;VALUE=DATE:20201019
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in California
+DTSTART;VALUE=DATE:20201019
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
   in Michigan
 DTSTART;VALUE=DATE:20201019
@@ -1302,6 +1310,14 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person in Arizona
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in California
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in California
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
@@ -1545,6 +1561,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person in New Jersey
 DTSTART;VALUE=DATE:20201117
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Cal
+ ifornia
+DTSTART;VALUE=DATE:20201120
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in Lou

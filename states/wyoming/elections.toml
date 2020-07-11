@@ -3,7 +3,61 @@ date = 2020-08-18
 name = "Congressional Primary"
 original_date = 2020-08-18
 
+[20200818.registration]
+in_person_by = 2020-08-18
+received_by = 2020-08-03
+sources = [
+  "https://sos.wyo.gov/Elections/State/RegisteringToVote.aspx",
+  "https://sos.wyo.gov/Elections/Docs/2020/2020_Election_Calendar.pdf",
+]
+
+[20200818.absentee.application]
+by_email = 2020-08-10 # Actually 08-17, padding 7 days.
+by_phone = 2020-08-10 # Actually 08-17, padding 7 days.
+in_person_by = 2020-08-17 
+sources = [
+  "https://sos.wyo.gov/Elections/State/AbsenteeVoting.aspx",
+  "https://sos.wyo.gov/FAQS.aspx?root=ELEC",
+] 
+
+[20200818.absentee]
+in_person_by = 2020-08-18T19:00:00
+received_by = 2020-08-18T19:00:00
+sources = ["https://sos.wyo.gov/Elections/State/AbsenteeVoting.aspx"]
+
+[20200818.poll]
+in_person_by = 2020-08-18T07:00:00
+in_person_start = 2020-08-18T19:00:00
+sources = ["https://sos.wyo.gov/FAQS.aspx?root=ELEC"]
+
 [20201103]
 date = 2020-11-03
 name = "General"
 original_date = 2020-11-03
+
+[20201103.registration]
+in_person_by = 2020-11-02
+received_by = 2020-10-19
+sources = [
+  "https://sos.wyo.gov/Elections/State/RegisteringToVote.aspx",
+  "https://sos.wyo.gov/Elections/Docs/2020/2020_Election_Calendar.pdf",
+]
+
+[20201103.absentee.application]
+by_email = 2020-10-26 # Actually 11-02, padding 7 days.
+by_phone = 2020-10-26 # Actually 11-02, padding 7 days.
+in_person_by = 2020-11-02 
+sources = [
+  "https://sos.wyo.gov/Elections/State/AbsenteeVoting.aspx",
+  "https://sos.wyo.gov/FAQS.aspx?root=ELEC",
+] 
+
+[20201103.absentee]
+in_person_by = 2020-11-03T19:00:00
+received_by = 2020-11-03T19:00:00
+sources = ["https://sos.wyo.gov/Elections/State/AbsenteeVoting.aspx"]
+
+[20201103.poll]
+in_person_by = 2020-11-03T07:00:00
+in_person_start = 2020-11-03T19:00:00
+sources = ["https://sos.wyo.gov/FAQS.aspx?root=ELEC"]

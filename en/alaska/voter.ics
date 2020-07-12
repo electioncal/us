@@ -5,11 +5,51 @@ NAME:Alaska Election Dates by electioncal.us
 SOURCE:https://electioncal.us/en/alaska/voter.ics
 URL:https://electioncal.us/en/alaska/
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+DTSTART;VALUE=DATE:20200719
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online
+DTSTART;VALUE=DATE:20200719
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Congressional Primary
 DTSTART;VALUE=DATE:20200818
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots
+DTSTART;VALUE=DATE:20200818
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person
+DTSTART;VALUE=DATE:20200818
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots
+DTSTART;VALUE=DATE:20200828
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+DTSTART;VALUE=DATE:20201004
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online
+DTSTART;VALUE=DATE:20201004
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General (Presidential) Election
 DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots
+DTSTART;VALUE=DATE:20201113
 END:VEVENT
 END:VCALENDAR

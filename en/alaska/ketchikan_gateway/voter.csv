@@ -1,3 +1,27 @@
 date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
+2020-07-11 23:59:59,,20200818,reminder,registration.received_by,Mail voter registration,,Alaska,,True
+2020-07-12 23:59:59,,20200818,reminder,registration.received_by,Mail voter registration at the post office,,Alaska,,True
+2020-07-19 23:59:59,,20200818,deadline,registration.received_by,Last day for election officials to receive voter registration form,,Alaska,,True
+2020-07-19 23:59:59,,20200818,deadline,registration.online_by,Last day to register to vote online,,Alaska,,
+2020-07-19 23:59:59,,20200818,reminder,registration.online_by,Register to vote online,,Alaska,,
+2020-08-17 23:59:59,,20200818,reminder,absentee.postmarked_by,Mail ballot,,Alaska,,False
+2020-08-17 23:59:59,,20200818,reminder,poll.in_person_by,Plan to vote,,Alaska,,
 2020-08-18 00:00:00,20200818,,election,,Congressional Primary,2020-08-18 00:00:00,Alaska,,
+2020-08-18 23:59:59,,20200818,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,Alaska,,False
+2020-08-18 23:59:59,,20200818,deadline,poll.in_person_by,Last day to vote in person,,Alaska,,
+2020-08-18 23:59:59,,20200818,reminder,absentee.postmarked_by,Mail ballot at the post office,,Alaska,,False
+2020-08-18 23:59:59,,20200818,reminder,poll.in_person_by,Vote in person,,Alaska,,
+2020-08-28 23:59:59,,20200818,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Alaska,,False
+2020-09-26 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration,,Alaska,,True
+2020-09-27 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration at the post office,,Alaska,,True
+2020-10-04 23:59:59,,20201103,deadline,registration.received_by,Last day for election officials to receive voter registration form,,Alaska,,True
+2020-10-04 23:59:59,,20201103,deadline,registration.online_by,Last day to register to vote online,,Alaska,,
+2020-10-04 23:59:59,,20201103,reminder,registration.online_by,Register to vote online,,Alaska,,
+2020-11-02 23:59:59,,20201103,reminder,absentee.postmarked_by,Mail ballot,,Alaska,,False
+2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,Alaska,,
 2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,Alaska,,
+2020-11-03 23:59:59,,20201103,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,Alaska,,False
+2020-11-03 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,Alaska,,
+2020-11-03 23:59:59,,20201103,reminder,absentee.postmarked_by,Mail ballot at the post office,,Alaska,,False
+2020-11-03 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,Alaska,,
+2020-11-13 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Alaska,,False

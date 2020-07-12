@@ -632,6 +632,15 @@ DTSTART;VALUE=DATE:20200715
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
+  in Alaska
+DTSTART;VALUE=DATE:20200719
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Alaska
+DTSTART;VALUE=DATE:20200719
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
   in Florida
 DTSTART;VALUE=DATE:20200720
 END:VEVENT
@@ -926,6 +935,14 @@ SUMMARY:Wyoming Congressional Primary
 DTSTART;VALUE=DATE:20200818
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots in Alaska
+DTSTART;VALUE=DATE:20200818
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Alaska
+DTSTART;VALUE=DATE:20200818
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in Flo
  rida
 DTSTART;VALUE=DATE:20200818
@@ -972,6 +989,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person in Oklahoma
 DTSTART;VALUE=DATE:20200825
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Ala
+ ska
+DTSTART;VALUE=DATE:20200828
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Guam Congressional Primary
@@ -1039,6 +1061,15 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person in U.S. Virgin Islands
 DTSTART;VALUE=DATE:20201003
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Alaska
+DTSTART;VALUE=DATE:20201004
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Alaska
+DTSTART;VALUE=DATE:20201004
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote online in South Carolina
@@ -1331,6 +1362,14 @@ SUMMARY:Last day to vote in person in Alabama
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots in Alaska
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Alaska
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in Ari
  zona
 DTSTART;VALUE=DATE:20201103
@@ -1592,6 +1631,11 @@ BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive military and overseas b
  allots in Colorado
 DTSTART;VALUE=DATE:20201112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Ala
+ ska
+DTSTART;VALUE=DATE:20201113
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote online in Louisiana

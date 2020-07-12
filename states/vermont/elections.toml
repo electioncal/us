@@ -8,7 +8,55 @@ date = 2020-08-11
 name = "Congressional Primary"
 original_date = 2020-08-11
 
+[20200811.registration]
+in_person_by = 2020-08-11T19:00:00
+# online earlier (ensure name appears on checklist)
+# but can register up to election day
+online_by = 2020-08-07
+sources = ["https://sos.vermont.gov/elections/voters/registration/", "https://olvr.vermont.gov"]
+
+[20200811.poll]
+in_person_start = 2020-08-11T10:00:00
+in_person_by = 2020-08-11T19:00:00
+sources = ["https://sos.vermont.gov/elections-calendar/", "https://sos.vermont.gov/elections/voters/voter-faqs/election-day-faqs/#q2"]
+
+[20200811.poll.early]
+in_person_start = 2020-06-27
+in_person_by = 2020-08-11T19:00:00
+sources = ["https://www.ncsl.org/research/elections-and-campaigns/early-voting-in-state-elections.aspx"]
+
+[20200811.absentee]
+in_person_by = 2020-08-11T19:00:00
+received_by = 2020-08-10
+sources = ["https://www.ncsl.org/research/elections-and-campaigns/early-voting-in-state-elections.aspx", "https://sos.vermont.gov/elections/voters/early-absentee-voting/"]
+
+[20200811.absentee.application]
+received_by = 2020-08-10T17:00:00
+in_person_by = 2020-08-10
+
 [20201103]
 date = 2020-11-03
 name = "General"
 original_date = 2020-11-03
+
+[20201103.registration]
+in_person_by = 2020-11-03T19:00:00
+# online earlier (ensure name appears on checklist)
+# but can register up to election day
+online_by = 2020-10-30
+
+[20201103.poll]
+in_person_start = 2020-11-03T10:00:00
+in_person_by = 2020-11-03T19:00:00
+
+[20201103.poll.early]
+in_person_start = 2020-09-19
+in_person_by = 2020-11-03T19:00:00
+
+[20201103.absentee]
+in_person_by = 2020-11-03T19:00:00
+received_by = 2020-11-02
+
+[20201103.absentee.application]
+received_by = 2020-11-02T17:00:00
+in_person_by = 2020-11-02

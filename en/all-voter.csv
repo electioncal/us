@@ -352,10 +352,14 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-08-01 23:59:59,,20200808,reminder,absentee.received_by,Mail ballot at the post office,,Hawaii,,True
 2020-08-01 23:59:59,,20200801,deadline,poll.in_person_by,Last day to vote in person,,U.S. Virgin Islands,,
 2020-08-01 23:59:59,,20200801,reminder,poll.in_person_by,Vote in person,,U.S. Virgin Islands,,
+2020-08-02 23:59:59,,20200811,reminder,absentee.received_by,Mail ballot,,Vermont,,True
+2020-08-02 23:59:59,,20200811,reminder,absentee.application.received_by,Mail absentee application,,Vermont,,True
 2020-08-03 23:59:59,,20200804,reminder,poll.in_person_by,Plan to vote,,Arizona,,
 2020-08-03 23:59:59,,20200811,reminder,absentee.received_by,Mail ballot,,Connecticut,,True
 2020-08-03 23:59:59,,20200804,reminder,poll.in_person_by,Plan to vote,,Kansas,,
 2020-08-03 23:59:59,,20200804,reminder,poll.in_person_by,Plan to vote,,Michigan,,
+2020-08-03 23:59:59,,20200811,reminder,absentee.received_by,Mail ballot at the post office,,Vermont,,True
+2020-08-03 23:59:59,,20200811,reminder,absentee.application.received_by,Mail absentee application at the post office,,Vermont,,True
 2020-08-03 23:59:59,,20200804,reminder,absentee.postmarked_by,Mail ballot,,Washington,,False
 2020-08-03 23:59:59,,20200811,reminder,absentee.received_by,Mail ballot,,Wisconsin,,True
 2020-08-03 23:59:59,,20200818,deadline,registration.received_by,Last day for election officials to receive voter registration form,,Wyoming,,True
@@ -405,6 +409,8 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-08-06 23:59:59,,20200811,deadline,absentee.application.received_by,Last day for election officials to receive absentee applications,,Wisconsin,,True
 2020-08-07 23:59:59,,20200804,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Kansas,,True
 2020-08-07 23:59:59,,20200815,reminder,absentee.received_by,Mail ballot at the post office,,Louisiana,,True
+2020-08-07 23:59:59,,20200811,deadline,registration.online_by,Last day to register to vote online,,Vermont,,
+2020-08-07 23:59:59,,20200811,reminder,registration.online_by,Register to vote online,,Vermont,,
 2020-08-08 00:00:00,20200808,,election,,Hawaii Congressional Primary,2020-08-08 00:00:00,Hawaii,,
 2020-08-08 23:59:59,,20200808,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Hawaii,,True
 2020-08-08 23:59:59,,20200808,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Hawaii,,
@@ -415,6 +421,11 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-08-09 23:59:59,,20200811,reminder,absentee.application.in_person_by,Drop off absentee application,,Wisconsin,,
 2020-08-10 23:59:59,,20200811,reminder,poll.in_person_by,Plan to vote,,Connecticut,,
 2020-08-10 23:59:59,,20200818,reminder,absentee.received_by,Mail ballot,,Florida,,True
+2020-08-10 23:59:59,,20200811,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Vermont,,True
+2020-08-10 23:59:59,,20200811,deadline,absentee.application.received_by,Last day for election officials to receive absentee applications,,Vermont,,True
+2020-08-10 23:59:59,,20200811,deadline,absentee.application.in_person_by,Last day to hand deliver an absentee applications,,Vermont,,
+2020-08-10 23:59:59,,20200811,reminder,absentee.application.in_person_by,Drop off absentee application,,Vermont,,
+2020-08-10 23:59:59,,20200811,reminder,poll.in_person_by,Plan to vote,,Vermont,,
 2020-08-10 23:59:59,,20200811,reminder,poll.in_person_by,Plan to vote,,Wisconsin,,
 2020-08-10 23:59:59,,20200818,reminder,absentee.received_by,Mail ballot,,Wyoming,,True
 2020-08-11 00:00:00,20200811,,election,,Connecticut Presidential Primary,2020-08-11 00:00:00,Connecticut,,
@@ -428,6 +439,14 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-08-11 23:59:59,,20200811,reminder,poll.in_person_by,Vote in person,,Connecticut,,
 2020-08-11 23:59:59,,20200811,reminder,registration.in_person_by,Register to vote in person,,Connecticut,,
 2020-08-11 23:59:59,,20200818,reminder,absentee.received_by,Mail ballot at the post office,,Florida,,True
+2020-08-11 23:59:59,,20200811,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Vermont,,
+2020-08-11 23:59:59,,20200811,deadline,poll.in_person_by,Last day to vote in person,,Vermont,,
+2020-08-11 23:59:59,,20200811,deadline,poll.early.in_person_by,Last day to vote early in person,,Vermont,,
+2020-08-11 23:59:59,,20200811,deadline,registration.in_person_by,Last day to register to vote in person,,Vermont,,
+2020-08-11 23:59:59,,20200811,reminder,absentee.in_person_by,Drop off ballot,,Vermont,,
+2020-08-11 23:59:59,,20200811,reminder,poll.in_person_by,Vote in person,,Vermont,,
+2020-08-11 23:59:59,,20200811,reminder,poll.early.in_person_by,Vote early in person,,Vermont,,
+2020-08-11 23:59:59,,20200811,reminder,registration.in_person_by,Register to vote in person,,Vermont,,
 2020-08-11 23:59:59,,20200811,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Wisconsin,,True
 2020-08-11 23:59:59,,20200811,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Wisconsin,,
 2020-08-11 23:59:59,,20200811,deadline,poll.in_person_by,Last day to vote in person,,Wisconsin,,
@@ -626,6 +645,8 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-10-23 23:59:59,,20201103,deadline,registration.in_person_by,Last day to register to vote in person,,Utah,,
 2020-10-23 23:59:59,,20201103,reminder,registration.in_person_by,Register to vote in person,,Utah,,
 2020-10-25 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,Louisiana,,True
+2020-10-25 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,Vermont,,True
+2020-10-25 23:59:59,,20201103,reminder,absentee.application.received_by,Mail absentee application,,Vermont,,True
 2020-10-26 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,Arizona,,True
 2020-10-26 23:59:59,,20201103,deadline,registration.received_by,Last day for election officials to receive voter registration form,,Colorado,,True
 2020-10-26 23:59:59,,20201103,reminder,registration.postmarked_by,Mail voter registration,,Connecticut,,False
@@ -640,6 +661,8 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-10-26 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,Oklahoma,,True
 2020-10-26 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,South Dakota,,True
 2020-10-26 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,Tennessee,,True
+2020-10-26 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,Vermont,,True
+2020-10-26 23:59:59,,20201103,reminder,absentee.application.received_by,Mail absentee application at the post office,,Vermont,,True
 2020-10-26 23:59:59,,20201103,deadline,registration.received_by,Last day for election officials to receive voter registration form,,Washington,,True
 2020-10-26 23:59:59,,20201103,deadline,registration.online_by,Last day to register to vote online,,Washington,,
 2020-10-26 23:59:59,,20201103,reminder,registration.online_by,Register to vote online,,Washington,,
@@ -681,6 +704,8 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-10-30 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,North Carolina,,True
 2020-10-30 23:59:59,,20201103,deadline,absentee.application.online_by,Last day to apply online for a mail-in ballot,,South Carolina,,
 2020-10-30 23:59:59,,20201103,reminder,absentee.application.online_by,Apply for an absentee ballot online,,South Carolina,,
+2020-10-30 23:59:59,,20201103,deadline,registration.online_by,Last day to register to vote online,,Vermont,,
+2020-10-30 23:59:59,,20201103,reminder,registration.online_by,Register to vote online,,Vermont,,
 2020-10-31 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Florida,,
 2020-10-31 23:59:59,,20201103,reminder,absentee.in_person_by,Drop off ballot,,Florida,,
 2020-10-31 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Oklahoma,,
@@ -719,6 +744,11 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-11-02 23:59:59,,20201103,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,Utah,,False
 2020-11-02 23:59:59,,20201103,reminder,absentee.postmarked_by,Mail ballot at the post office,,Utah,,False
 2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,Utah,,
+2020-11-02 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Vermont,,True
+2020-11-02 23:59:59,,20201103,deadline,absentee.application.received_by,Last day for election officials to receive absentee applications,,Vermont,,True
+2020-11-02 23:59:59,,20201103,deadline,absentee.application.in_person_by,Last day to hand deliver an absentee applications,,Vermont,,
+2020-11-02 23:59:59,,20201103,reminder,absentee.application.in_person_by,Drop off absentee application,,Vermont,,
+2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,Vermont,,
 2020-11-02 23:59:59,,20201103,reminder,absentee.postmarked_by,Mail ballot,,Washington,,False
 2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,Wisconsin,,
 2020-11-02 23:59:59,,20201103,deadline,registration.in_person_by,Last day to register to vote in person,,Wyoming,,
@@ -804,6 +834,14 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-11-03 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,Utah,,
 2020-11-03 23:59:59,,20201103,reminder,absentee.in_person_by,Drop off ballot,,Utah,,
 2020-11-03 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,Utah,,
+2020-11-03 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Vermont,,
+2020-11-03 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,Vermont,,
+2020-11-03 23:59:59,,20201103,deadline,poll.early.in_person_by,Last day to vote early in person,,Vermont,,
+2020-11-03 23:59:59,,20201103,deadline,registration.in_person_by,Last day to register to vote in person,,Vermont,,
+2020-11-03 23:59:59,,20201103,reminder,absentee.in_person_by,Drop off ballot,,Vermont,,
+2020-11-03 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,Vermont,,
+2020-11-03 23:59:59,,20201103,reminder,poll.early.in_person_by,Vote early in person,,Vermont,,
+2020-11-03 23:59:59,,20201103,reminder,registration.in_person_by,Register to vote in person,,Vermont,,
 2020-11-03 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Washington,,
 2020-11-03 23:59:59,,20201103,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,Washington,,False
 2020-11-03 23:59:59,,20201103,deadline,registration.in_person_by,Last day to register to vote in person,,Washington,,

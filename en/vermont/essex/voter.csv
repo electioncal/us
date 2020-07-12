@@ -1,4 +1,42 @@
 date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
 2020-03-03 00:00:00,20200303,,election,,Presidential Primary,2020-03-03 00:00:00,Vermont,,
+2020-08-02 23:59:59,,20200811,reminder,absentee.received_by,Mail ballot,,Vermont,,True
+2020-08-02 23:59:59,,20200811,reminder,absentee.application.received_by,Mail absentee application,,Vermont,,True
+2020-08-03 23:59:59,,20200811,reminder,absentee.received_by,Mail ballot at the post office,,Vermont,,True
+2020-08-03 23:59:59,,20200811,reminder,absentee.application.received_by,Mail absentee application at the post office,,Vermont,,True
+2020-08-07 23:59:59,,20200811,deadline,registration.online_by,Last day to register to vote online,,Vermont,,
+2020-08-07 23:59:59,,20200811,reminder,registration.online_by,Register to vote online,,Vermont,,
+2020-08-10 23:59:59,,20200811,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Vermont,,True
+2020-08-10 23:59:59,,20200811,deadline,absentee.application.received_by,Last day for election officials to receive absentee applications,,Vermont,,True
+2020-08-10 23:59:59,,20200811,deadline,absentee.application.in_person_by,Last day to hand deliver an absentee applications,,Vermont,,
+2020-08-10 23:59:59,,20200811,reminder,absentee.application.in_person_by,Drop off absentee application,,Vermont,,
+2020-08-10 23:59:59,,20200811,reminder,poll.in_person_by,Plan to vote,,Vermont,,
 2020-08-11 00:00:00,20200811,,election,,Congressional Primary,2020-08-11 00:00:00,Vermont,,
+2020-08-11 23:59:59,,20200811,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Vermont,,
+2020-08-11 23:59:59,,20200811,deadline,poll.in_person_by,Last day to vote in person,,Vermont,,
+2020-08-11 23:59:59,,20200811,deadline,poll.early.in_person_by,Last day to vote early in person,,Vermont,,
+2020-08-11 23:59:59,,20200811,deadline,registration.in_person_by,Last day to register to vote in person,,Vermont,,
+2020-08-11 23:59:59,,20200811,reminder,absentee.in_person_by,Drop off ballot,,Vermont,,
+2020-08-11 23:59:59,,20200811,reminder,poll.in_person_by,Vote in person,,Vermont,,
+2020-08-11 23:59:59,,20200811,reminder,poll.early.in_person_by,Vote early in person,,Vermont,,
+2020-08-11 23:59:59,,20200811,reminder,registration.in_person_by,Register to vote in person,,Vermont,,
+2020-10-25 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,Vermont,,True
+2020-10-25 23:59:59,,20201103,reminder,absentee.application.received_by,Mail absentee application,,Vermont,,True
+2020-10-26 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,Vermont,,True
+2020-10-26 23:59:59,,20201103,reminder,absentee.application.received_by,Mail absentee application at the post office,,Vermont,,True
+2020-10-30 23:59:59,,20201103,deadline,registration.online_by,Last day to register to vote online,,Vermont,,
+2020-10-30 23:59:59,,20201103,reminder,registration.online_by,Register to vote online,,Vermont,,
+2020-11-02 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Vermont,,True
+2020-11-02 23:59:59,,20201103,deadline,absentee.application.received_by,Last day for election officials to receive absentee applications,,Vermont,,True
+2020-11-02 23:59:59,,20201103,deadline,absentee.application.in_person_by,Last day to hand deliver an absentee applications,,Vermont,,
+2020-11-02 23:59:59,,20201103,reminder,absentee.application.in_person_by,Drop off absentee application,,Vermont,,
+2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,Vermont,,
 2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,Vermont,,
+2020-11-03 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Vermont,,
+2020-11-03 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,Vermont,,
+2020-11-03 23:59:59,,20201103,deadline,poll.early.in_person_by,Last day to vote early in person,,Vermont,,
+2020-11-03 23:59:59,,20201103,deadline,registration.in_person_by,Last day to register to vote in person,,Vermont,,
+2020-11-03 23:59:59,,20201103,reminder,absentee.in_person_by,Drop off ballot,,Vermont,,
+2020-11-03 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,Vermont,,
+2020-11-03 23:59:59,,20201103,reminder,poll.early.in_person_by,Vote early in person,,Vermont,,
+2020-11-03 23:59:59,,20201103,reminder,registration.in_person_by,Register to vote in person,,Vermont,,

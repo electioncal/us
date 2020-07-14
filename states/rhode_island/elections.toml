@@ -8,7 +8,69 @@ date = 2020-09-08
 name = "Congressional Primary"
 original_date = 2020-09-08
 
+[20200908.registration]
+received_by = 2020-08-09
+in_person_by = 2020-08-09
+online_by = 2020-08-09
+# No same day in person. Only available for presidential elections.
+sources = [
+    "https://vote.sos.ri.gov/Voter/VoterCalendar",
+    "https://vote.sos.ri.gov/Content/Pdfs/voter_registration_form.pdf"
+]
+
+[20200908.absentee.application]
+received_by = 2020-08-18T16:00:00
+in_person_by = 2020-08-18T16:00:00
+sources = [
+    "https://vote.sos.ri.gov/Content/Pdfs/Primary%20Mail%20Ballot%20Application%209-8-2020.pdf"
+]
+
+[20200908.absentee]
+received_by = 2020-09-08T20:00:00
+sources = [
+    "https://vote.sos.ri.gov/Voter/VoterCalendar",
+]
+
+[20200908.poll]
+in_person_start = 2020-09-08T07:00:00
+in_person_by = 2020-09-08T20:00:00
+sources = [
+    "https://vote.sos.ri.gov/Voter/VoterCalendar",
+    "https://vote.sos.ri.gov/Elections/PollingPlaceHours",
+]
+
 [20201103]
 date = 2020-11-03
 name = "General"
 original_date = 2020-11-03
+
+[20201103.registration]
+received_by = 2020-10-04
+in_person_by = 2020-11-03 # Only available for presidential elections and only vote for president.
+online_by = 2020-10-04
+sources = [
+    "https://vote.sos.ri.gov/Voter/VoterCalendar",
+    "https://vote.sos.ri.gov/Content/Pdfs/voter_registration_form.pdf"
+]
+
+[20201103.absentee.application]
+received_by = 2020-10-13T16:00:00
+in_person_by = 2020-10-13T16:00:00
+sources = [
+    "https://vote.sos.ri.gov/Content/Pdfs/General%20Mail%20Ballot%20Application%2011-3-2020.pdf"
+]
+
+[20201103.absentee]
+received_by = 2020-11-03T20:00:00
+sources = [
+    "https://vote.sos.ri.gov/Voter/VoterCalendar",
+]
+# Absentee is done per election except for permanently disabled folks.
+
+[20201103.poll]
+in_person_start = 2020-11-03T07:00:00
+in_person_by = 2020-11-03T20:00:00
+sources = [
+    "https://vote.sos.ri.gov/Voter/VoterCalendar",
+    "https://vote.sos.ri.gov/Elections/PollingPlaceHours",
+]

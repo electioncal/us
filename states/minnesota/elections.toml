@@ -19,10 +19,10 @@ sources = [
 ]
 
 [20200811.absentee.application]
-online_by = 2020-08-10 # Legally this is true, but you'll never receive it.
-received_by = 2020-08-10 # Legally this is true, but you'll never receive it.
-fax_by =  2020-08-10 # Legally this is true, but you'll never receive it.
-email_by =  2020-08-10 # Legally this is true, but you'll never receive it.
+online_by = 2020-07-27 # Padded 14 days
+received_by = 2020-07-27 # Padded 14 days
+fax_by =  2020-07-27 # Padded 14 days
+email_by =  2020-07-27 # Padded 14 days
 sources = [
     "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
     "https://mnvotes.sos.state.mn.us/ABRegistration/ABRegistrationStep1.aspx"
@@ -64,10 +64,10 @@ sources = [
 ]
 
 [20201103.absentee.application]
-online_by = 2020-11-02 # Legally this is true, but you'll never receive it.
-received_by = 2020-11-02 # Legally this is true, but you'll never receive it.
-fax_by =  2020-11-02 # Legally this is true, but you'll never receive it.
-email_by =  2020-11-02 # Legally this is true, but you'll never receive it.
+online_by = 2020-10-19 # Padded 14 days
+received_by = 2020-10-19 # Padded 14 days
+fax_by =  2020-10-19 # Padded 14 days
+email_by =  2020-10-19 # Padded 14 days
 sources = [
     "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/",
     "https://mnvotes.sos.state.mn.us/ABRegistration/ABRegistrationStep1.aspx"

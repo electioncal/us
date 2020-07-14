@@ -856,6 +856,19 @@ SUMMARY:Last day to register to vote in person in Hawaii
 DTSTART;VALUE=DATE:20200808
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Rhode Island
+DTSTART;VALUE=DATE:20200809
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Rhode Island
+DTSTART;VALUE=DATE:20200809
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Rhode Island
+DTSTART;VALUE=DATE:20200809
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to hand deliver an absentee applications in Wisconsin
 DTSTART;VALUE=DATE:20200809
 END:VEVENT
@@ -1055,6 +1068,15 @@ SUMMARY:Last day to register to vote in person in New Jersey
 DTSTART;VALUE=DATE:20200908
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Rho
+ de Island
+DTSTART;VALUE=DATE:20200908
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Rhode Island
+DTSTART;VALUE=DATE:20200908
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Delaware Congressional Primary
 DTSTART;VALUE=DATE:20200915
 END:VEVENT
@@ -1103,6 +1125,15 @@ DTSTART;VALUE=DATE:20201004
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote online in Alaska
+DTSTART;VALUE=DATE:20201004
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Rhode Island
+DTSTART;VALUE=DATE:20201004
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Rhode Island
 DTSTART;VALUE=DATE:20201004
 END:VEVENT
 BEGIN:VEVENT
@@ -1563,6 +1594,19 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person in Oklahoma
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Rho
+ de Island
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Rhode Island
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Rhode Island
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

@@ -20,9 +20,8 @@ received_by = 2020-10-05
 sources = ["https://sos.ga.gov/admin/files/2020%20Revised%20Short%20Calendar.pdf"]
 
 [20201103.absentee.application]
-email_by = 2020-11-03
-in_person_by = 2020-11-03
-received_by = 2020-11-03
+email_by = 2020-10-20 # Padded 14 Days
+received_by = 2020-10-20 # Padded 14 Days
 sources = [
   "https://sos.ga.gov/index.php/Elections/absentee_voting_in_georgia",
   "https://ballotpedia.org/Election_governance_in_Georgia#Absentee_voting",

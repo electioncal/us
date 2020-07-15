@@ -5,7 +5,9 @@ homepage = "http://www.sos.ms.gov/Elections-Voting"
 registration_info = "http://www.sos.ms.gov/Elections-Voting/Pages/Voter-Registration-Information.aspx"
 military_overseas_info = "https://www.sos.ms.gov/Elections-Voting/Pages/Military-Overseas-Voter.aspx"
 demonym = "Mississippian"
-
+elections_twitter = [""]
+governor_twitter = ["tatereeves"]
+sos_twitter = ["MississippiSOS"] 
 [[link]]
 url = "https://www.sos.ms.gov/content/documents/elections/2020%20Website%20Calendar.pdf"
 description = "2020 Calendar PDF"

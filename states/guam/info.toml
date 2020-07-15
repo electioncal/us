@@ -4,3 +4,6 @@ postal_code = "GU"
 homepage = "https://gec.guam.gov/"
 registration_info = "https://gec.guam.gov/index.php/for-voters/for-voters"
 absentee_info = "https://gec.guam.gov/index.php/for-voters/absentee-voting"
+elections_twitter = [""]
+governor_twitter = ["governorcalvo"]
+sos_twitter = [""]

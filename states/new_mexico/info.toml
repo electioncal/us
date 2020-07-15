@@ -6,3 +6,6 @@ registration_info = "https://portal.sos.state.nm.us/OVR/WebPages/Instructionsste
 absentee_info = "https://www.sos.state.nm.us/voting-and-elections/voter-information/absentee-and-early-voting/"
 military_overseas_info = "https://www.sos.state.nm.us/voting-and-elections/voter-information/military-and-overseas-voting/"
 demonym = "New Mexican"
+elections_twitter = [""]
+governor_twitter = ["Michelle4NM"]
+sos_twitter = ["NMSecOfState"]

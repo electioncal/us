@@ -5,3 +5,6 @@ homepage = "http://www.sos.ca.gov/elections/"
 registration_info = "http://registertovote.ca.gov/"
 military_overseas_info = "https://www.sos.ca.gov/elections/voter-registration/military-overseas-voters/"
 demonym = "Californian"
+elections_twitter = ["CASOSvote"]
+governor_twitter = ["cagovernor"]
+sos_twitter = [""]

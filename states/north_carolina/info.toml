@@ -5,8 +5,11 @@ homepage = "https://www.ncsbe.gov/index.html"
 registration_info = "http://www.ncsbe.gov/Voter-Information/VR-Form"
 absentee_info = "https://www.ncsbe.gov/Voting-Options/Absentee-Voting"
 military_overseas_info = "https://www.ncsbe.gov/Voting-Options/Military-Overseas-Voting"
-
 demonym = "North Carolinian"
+elections_twitter = ["NCSBE"]
+governor_twitter = ["nc_governor"]
+sos_twitter = ["NCSecState"]
+
 # change_of_address_lead_time = 20 # days
 
 [[link]]

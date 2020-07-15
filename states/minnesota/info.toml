@@ -6,3 +6,6 @@ registration_info = "http://www.sos.state.mn.us/elections-voting/register-to-vot
 absentee_info = "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote"
 military_overseas_info = "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-from-military-or-abroad/"
 demonym = "Minnesotan"
+elections_twitter = [""]
+governor_twitter = ["GovTimWalz"]
+sos_twitter = ["mnsecofstate"]

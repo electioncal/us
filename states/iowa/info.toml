@@ -6,3 +6,6 @@ registration_info = "https://sos.iowa.gov/elections/voterinformation/voterregist
 absentee_info = "https://sos.iowa.gov/elections/electioninfo/absenteeinfo.html"
 military_overseas_info = "https://sos.iowa.gov/elections/voterinformation/uocava.html"
 demonym = "Iowan"
+elections_twitter = [""]
+governor_twitter = ["IAGovernor"]
+sos_twitter = ["iowasos"]

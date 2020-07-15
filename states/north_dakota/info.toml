@@ -6,3 +6,6 @@ registration_info = "https://vip.sos.nd.gov/pdfs/Portals/votereg.pdf" # North Da
 absentee_info = "https://vip.sos.nd.gov/absentee/Default.aspx"
 military_overseas_info = "https://vip.sos.nd.gov/PortalListDetails.aspx?ptlhPKID=51&ptlPKID=7#content-start"
 demonym = "North Dakotan"
+elections_twitter = [""]
+governor_twitter = ["DougBurgum"]
+sos_twitter = [""]

@@ -6,3 +6,6 @@ registration_info = "https://www.pavoterservices.pa.gov/Pages/VoterRegistrationA
 absentee_info = "https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx"
 military_overseas_info = "https://www.votespa.com/Voting-in-PA/Pages/Military-and-Overseas-Voters.aspx"
 demonym = "Pennsylvanian"
+elections_twitter = [""]
+governor_twitter = ["governortomwolf","PennsylvaniaGov"]
+sos_twitter = ["PAStateDept"]

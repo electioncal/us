@@ -5,7 +5,9 @@ homepage = "https://sos.ga.gov/index.php/elections"
 registration_info = "https://registertovote.sos.ga.gov/GAOLVR/welcome.do#no-back-button"
 absentee_info = "https://sos.ga.gov/index.php/Elections/absentee_voting_in_georgia"
 military_overseas_info = "https://sos.ga.gov/index.php/elections/military_and_overseas_voting2"
-
+elections_twitter = [""]
+governor_twitter = ["govkemp"]
+sos_twitter = ["gasecofstate"]
 demonym = "Georgian"
 [[link]]
 description = "2020 Calendar PDF"

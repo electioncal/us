@@ -4,3 +4,6 @@ postal_code = "PR"
 homepage = "http://ww2.ceepur.org/es-pr/Paginas/default.aspx"
 registration_info = "https://consulta.ceepur.org/"
 absentee_info = "http://ww2.ceepur.org/es-pr/EducacionyAdiestramiento/Paginas/Solicitud-de-Voto.aspx"
+elections_twitter = ["ceedepuertorico", "JuanDavilaCEE"]
+governor_twitter = [""]
+sos_twitter = [""]

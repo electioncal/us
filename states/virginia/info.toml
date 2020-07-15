@@ -7,7 +7,9 @@ registration_url = "https://www.elections.virginia.gov/citizen-portal/"
 absentee_info = "https://www.elections.virginia.gov/casting-a-ballot/absentee-voting/"
 military_overseas_info = "https://www.elections.virginia.gov/casting-a-ballot/military-overseas/"
 demonym = "Virginian"
-
+elections_twitter = ["vaELECT"]
+governor_twitter = ["GovernorVA"]
+sos_twitter = ["Virginia_SoC"]
 [[link]]
 description = "Upcoming Elections"
 url = "https://www.elections.virginia.gov/casting-a-ballot/calendars-schedules/upcoming-elections.html"

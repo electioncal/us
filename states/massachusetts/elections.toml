@@ -9,6 +9,7 @@ name = "Congressional Primary"
 original_date = 2020-09-01
 
 [20200901.registration]
+# Note the Day to Register was extended to 10 days from 20 days prior in 2020
 in_person_by = 2020-08-22
 online_by = 2020-08-22T23:59:00
 postmarked_by = 2020-08-22
@@ -16,14 +17,12 @@ sources = [
   "http://www.sec.state.ma.us/ele/eleifv/howreg.htm",
   "https://www.sec.state.ma.us/ele/elepdf/2020-Primary-and-Election-Schedule-Legal-Sized.pdf",
 ]
-# Note the Day to Register was extended to 10 days from 20 days prior in 2020
 
 [20200901.absentee.application]
-email_by = 2020-10-31T12:00:00
-fax_by = 2020-10-31T12:00:00
-received_by = 2020-10-31T12:00:00
-# Because you can vote absentee in-person day before is OK
-sources = ["http://www.sec.state.ma.us/ele/eleabsentee/absidx.htm"]
+email_by = 2020-08-18T12:00:00 # Padded 14 days
+fax_by = 2020-08-18T12:00:00 # Padded 14 days
+received_by = 2020-08-18T12:00:00 # Padded 14 days
+sources = ["http://www.sec.state.ma.us/ele/eleabsentee/absidx.htm"] 
 
 [20200901.absentee]
 in_person_by = 2020-09-01 # You must make an appointment
@@ -54,6 +53,7 @@ name = "General"
 original_date = 2020-11-03
 
 [20201103.registration]
+# Note the Day to Register was extended to 10 days from 20 days prior in 2020
 in_person_by = 2020-10-24
 online_by = 2020-10-24T23:59:00
 postmarked_by = 2020-10-24
@@ -61,14 +61,12 @@ sources = [
   "http://www.sec.state.ma.us/ele/eleifv/howreg.htm",
   "https://www.sec.state.ma.us/ele/elepdf/2020-Primary-and-Election-Schedule-Legal-Sized.pdf",
 ]
-# Note the Day to Register was extended to 10 days from 20 days prior in 2020
 
 [20201103.absentee.application]
-email_by = 2020-11-02T12:00:00
-fax_by = 2020-11-02T12:00:00
-received_by = 2020-11-02T12:00:00
-# Because you can vote absentee in-person day before is OK
-sources = ["http://www.sec.state.ma.us/ele/eleabsentee/absidx.htm"]
+email_by = 2020-10-19T12:00:00 # Padded 14 days
+fax_by = 2020-10-19T12:00:00 # Padded 14 days
+received_by = 2020-10-19T12:00:00 # Padded 14 days
+sources = ["http://www.sec.state.ma.us/ele/eleabsentee/absidx.htm"] 
 
 [20201103.absentee]
 in_person_by = 2020-11-03 # You must make an appointment

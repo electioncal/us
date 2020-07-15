@@ -3,7 +3,56 @@ date = 2020-09-08
 name = "Congressional Primary"
 original_date = 2020-09-08
 
+[20200908.registration]
+in_person_by = 2020-09-08
+sources = ["http://sos.nh.gov/WorkArea/DownloadAsset.aspx?id=8589993085"]
+
+[20200908.absentee.application]
+in_person_by = 2020-09-07T17:00:00 
+received_by = 2020-08-25 # Recommended 14 days before
+sources = [
+  "http://sos.nh.gov/WorkArea/DownloadAsset.aspx?id=8589993085",
+  "http://sos.nh.gov/WorkArea/DownloadAsset.aspx?id=8589993231",
+  "http://sos.nh.gov/WorkArea/DownloadAsset.aspx?id=8589999336",
+] 
+
+[20200908.absentee]
+in_person_by = 2020-09-07T17:00:00
+received_by = 2020-09-08T17:00:00
+sources = [
+    "http://sos.nh.gov/WorkArea/DownloadAsset.aspx?id=8589993085",
+    "http://sos.nh.gov/WorkArea/DownloadAsset.aspx?id=8589993231"
+]
+
+[20200908.poll]
+in_person_by = 2020-09-08
+sources = ["http://sos.nh.gov/WorkArea/DownloadAsset.aspx?id=8589993085"]
+
 [20201103]
 date = 2020-11-03
 name = "General"
 original_date = 2020-11-03
+
+[20201103.registration]
+in_person_by = 2020-11-03
+sources = ["http://sos.nh.gov/WorkArea/DownloadAsset.aspx?id=8589993085"]
+
+[20201103.absentee.application]
+in_person_by = 2020-11-02T17:00:00 
+received_by = 2020-10-20 # Recommended 14 days before
+sources = [
+  "http://sos.nh.gov/WorkArea/DownloadAsset.aspx?id=8589993085",
+  "http://sos.nh.gov/WorkArea/DownloadAsset.aspx?id=8589999336",
+] 
+
+[20201103.absentee]
+in_person_by = 2020-11-02T17:00:00
+received_by = 2020-11-03T17:00:00
+sources = [
+    "http://sos.nh.gov/WorkArea/DownloadAsset.aspx?id=8589993085",
+    "http://sos.nh.gov/WorkArea/DownloadAsset.aspx?id=8589993231"
+]
+
+[20201103.poll]
+in_person_by = 2020-11-03
+sources = ["http://sos.nh.gov/WorkArea/DownloadAsset.aspx?id=8589993085"]

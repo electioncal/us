@@ -1046,6 +1046,18 @@ SUMMARY:Last day for election officials to receive voter registration form
 DTSTART;VALUE=DATE:20200822
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Massachusetts
+DTSTART;VALUE=DATE:20200822
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark voter registration form in Massachusetts
+DTSTART;VALUE=DATE:20200822
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Massachusetts
+DTSTART;VALUE=DATE:20200822
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to drop off an absentee ballot in Oklahoma
 DTSTART;VALUE=DATE:20200822
 END:VEVENT
@@ -1068,11 +1080,24 @@ SUMMARY:Last day for election officials to receive absentee ballots in Ala
 DTSTART;VALUE=DATE:20200828
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Massachusetts
+DTSTART;VALUE=DATE:20200828
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Guam Congressional Primary
 DTSTART;VALUE=DATE:20200829
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Massachusetts Congressional Primary
+DTSTART;VALUE=DATE:20200901
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Mas
+ sachusetts
+DTSTART;VALUE=DATE:20200901
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Massachusetts
 DTSTART;VALUE=DATE:20200901
 END:VEVENT
 BEGIN:VEVENT
@@ -1370,6 +1395,18 @@ SUMMARY:Last day to register to vote in person in Utah
 DTSTART;VALUE=DATE:20201023
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Massachusetts
+DTSTART;VALUE=DATE:20201024
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark voter registration form in Massachusetts
+DTSTART;VALUE=DATE:20201024
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Massachusetts
+DTSTART;VALUE=DATE:20201024
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
   in Colorado
 DTSTART;VALUE=DATE:20201026
@@ -1423,6 +1460,10 @@ BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee applications i
  n Wisconsin
 DTSTART;VALUE=DATE:20201029
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Massachusetts
+DTSTART;VALUE=DATE:20201030
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to apply online for a mail-in ballot in South Carolina
@@ -1614,6 +1655,14 @@ SUMMARY:Last day to register to vote in person in Maine
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots in Massachusetts
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Massachusetts
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in Mic
  higan
 DTSTART;VALUE=DATE:20201103
@@ -1802,6 +1851,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in Kan
  sas
+DTSTART;VALUE=DATE:20201106
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Mas
+ sachusetts
 DTSTART;VALUE=DATE:20201106
 END:VEVENT
 BEGIN:VEVENT

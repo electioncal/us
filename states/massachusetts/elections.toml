@@ -19,10 +19,14 @@ sources = [
 ]
 
 [20200901.emergency.application] # This is true absentee
-email_by = 2020-08-18T12:00:00 # Padded 14 days
-fax_by = 2020-08-18T12:00:00 # Padded 14 days
-received_by = 2020-08-18T12:00:00 # Padded 14 days
-sources = ["http://www.sec.state.ma.us/ele/eleabsentee/absidx.htm"] 
+email_by = 2020-08-31T12:00:00
+fax_by = 2020-08-31T12:00:00
+received_by = 2020-08-31T12:00:00
+in_person_by = 2020-09-01
+sources = [
+  "http://www.sec.state.ma.us/ele/eleabsentee/absidx.htm",
+  "http://www.sec.state.ma.us/ele/covid-19/covid-19.htm"
+]
 
 [20200901.emergency] # This is true absentee
 in_person_by = 2020-09-01 # You must make an appointment
@@ -67,10 +71,14 @@ sources = [
 ]
 
 [20201103.emergency.application] # this is a true absentee
-email_by = 2020-10-19T12:00:00 # Padded 14 days
-fax_by = 2020-10-19T12:00:00 # Padded 14 days
-received_by = 2020-10-19T12:00:00 # Padded 14 days
-sources = ["http://www.sec.state.ma.us/ele/eleabsentee/absidx.htm"] 
+email_by = 2020-11-02T12:00:00
+fax_by = 2020-11-02T12:00:00
+received_by = 2020-11-02T12:00:00
+in_person_by = 2020-11-03
+sources = [
+  "http://www.sec.state.ma.us/ele/eleabsentee/absidx.htm",
+  "http://www.sec.state.ma.us/ele/covid-19/covid-19.htm"
+]
 
 [20201103.emergency] # This is true absenteee
 in_person_by = 2020-11-03 # You must make an appointment

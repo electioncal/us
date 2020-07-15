@@ -672,6 +672,15 @@ SUMMARY:Last day to vote in person in Delaware
 DTSTART;VALUE=DATE:20200721
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Minnesota
+DTSTART;VALUE=DATE:20200721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Minnesota
+DTSTART;VALUE=DATE:20200721
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee applications i
  n Missouri
 DTSTART;VALUE=DATE:20200722
@@ -873,6 +882,10 @@ SUMMARY:Last day to hand deliver an absentee applications in Wisconsin
 DTSTART;VALUE=DATE:20200809
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots in Minnesota
+DTSTART;VALUE=DATE:20200810
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in Ver
  mont
 DTSTART;VALUE=DATE:20200810
@@ -917,6 +930,18 @@ DTSTART;VALUE=DATE:20200811
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person in Connecticut
+DTSTART;VALUE=DATE:20200811
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Minnesota
+DTSTART;VALUE=DATE:20200811
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Minnesota
+DTSTART;VALUE=DATE:20200811
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Minnesota
 DTSTART;VALUE=DATE:20200811
 END:VEVENT
 BEGIN:VEVENT
@@ -1249,6 +1274,15 @@ DTSTART;VALUE=DATE:20201013
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
+  in Minnesota
+DTSTART;VALUE=DATE:20201013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Minnesota
+DTSTART;VALUE=DATE:20201013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
   in New Jersey
 DTSTART;VALUE=DATE:20201013
 END:VEVENT
@@ -1400,6 +1434,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in Lou
  isiana
+DTSTART;VALUE=DATE:20201102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Minnesota
 DTSTART;VALUE=DATE:20201102
 END:VEVENT
 BEGIN:VEVENT
@@ -1569,6 +1607,14 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person in Michigan
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Minnesota
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Minnesota
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

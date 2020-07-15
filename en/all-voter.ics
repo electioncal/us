@@ -1076,11 +1076,28 @@ SUMMARY:Massachusetts Congressional Primary
 DTSTART;VALUE=DATE:20200901
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in New Hampshire
+DTSTART;VALUE=DATE:20200907
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:New Hampshire Congressional Primary
 DTSTART;VALUE=DATE:20200908
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rhode Island Congressional Primary
+DTSTART;VALUE=DATE:20200908
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in New
+  Hampshire
+DTSTART;VALUE=DATE:20200908
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in New Hampshire
+DTSTART;VALUE=DATE:20200908
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in New Hampshire
 DTSTART;VALUE=DATE:20200908
 END:VEVENT
 BEGIN:VEVENT
@@ -1441,6 +1458,10 @@ SUMMARY:Last day to drop off an absentee ballot in Minnesota
 DTSTART;VALUE=DATE:20201102
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in New Hampshire
+DTSTART;VALUE=DATE:20201102
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to postmark absentee ballots in New York
 DTSTART;VALUE=DATE:20201102
 END:VEVENT
@@ -1615,6 +1636,19 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person in Minnesota
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in New
+  Hampshire
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in New Hampshire
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in New Hampshire
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

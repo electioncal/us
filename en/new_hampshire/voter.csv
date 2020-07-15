@@ -1,3 +1,23 @@
 date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
+2020-08-31 23:59:59,,20200908,reminder,absentee.received_by,Mail ballot,,New Hampshire,,True
+2020-09-01 23:59:59,,20200908,reminder,absentee.received_by,Mail ballot at the post office,,New Hampshire,,True
+2020-09-07 23:59:59,,20200908,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,New Hampshire,,
+2020-09-07 23:59:59,,20200908,reminder,absentee.in_person_by,Drop off ballot,,New Hampshire,,
+2020-09-07 23:59:59,,20200908,reminder,poll.in_person_by,Plan to vote,,New Hampshire,,
 2020-09-08 00:00:00,20200908,,election,,Congressional Primary,2020-09-08 00:00:00,New Hampshire,,
+2020-09-08 23:59:59,,20200908,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,New Hampshire,,True
+2020-09-08 23:59:59,,20200908,deadline,poll.in_person_by,Last day to vote in person,,New Hampshire,,
+2020-09-08 23:59:59,,20200908,deadline,registration.in_person_by,Last day to register to vote in person,,New Hampshire,,
+2020-09-08 23:59:59,,20200908,reminder,poll.in_person_by,Vote in person,,New Hampshire,,
+2020-09-08 23:59:59,,20200908,reminder,registration.in_person_by,Register to vote in person,,New Hampshire,,
+2020-10-26 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,New Hampshire,,True
+2020-10-27 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,New Hampshire,,True
+2020-11-02 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,New Hampshire,,
+2020-11-02 23:59:59,,20201103,reminder,absentee.in_person_by,Drop off ballot,,New Hampshire,,
+2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,New Hampshire,,
 2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,New Hampshire,,
+2020-11-03 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,New Hampshire,,True
+2020-11-03 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,New Hampshire,,
+2020-11-03 23:59:59,,20201103,deadline,registration.in_person_by,Last day to register to vote in person,,New Hampshire,,
+2020-11-03 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,New Hampshire,,
+2020-11-03 23:59:59,,20201103,reminder,registration.in_person_by,Register to vote in person,,New Hampshire,,

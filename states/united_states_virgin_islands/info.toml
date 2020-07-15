@@ -5,3 +5,6 @@ homepage = "https://www.vivote.gov/"
 registration_info = "https://www.vivote.gov/voters/register-vote"
 absentee_info = "https://www.vivote.gov/voters/absentee-ballot"
 military_overseas_info = "https://www.vivote.gov/voters/military-and-overseas-voting-move"
+elections_twitter = [""]
+governor_twitter = ["govhouseusvi"]
+sos_twitter = [""]

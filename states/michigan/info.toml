@@ -6,3 +6,6 @@ registration_info = "http://www.michigan.gov/sos/0,1607,7-127-1633_8716_8726_476
 absentee_info = "https://www.michigan.gov/sos/0,4670,7-127-1633_8716_8728-21037--,00.html"
 military_overseas_info = "https://www.michigan.gov/sos/0,4670,7-127-1633_11976_62664---,00.html"
 demonym = "Michiganian"
+elections_twitter = [""]
+governor_twitter = ["GovWhitmer"]
+sos_twitter = ["michsos"]

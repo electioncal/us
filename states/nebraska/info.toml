@@ -7,3 +7,6 @@ absentee_info = "https://sos.nebraska.gov/elections/early-voting-0"
 military_info = "https://sos.nebraska.gov/elections/military-voters"
 overseas_info = "https://sos.nebraska.gov/elections/overseas-voters"
 demonym = "Nebraskan"
+elections_twitter = [""]
+governor_twitter = ["GovRicketts", "Nebraskagov"]
+sos_twitter = ["nevnen"]

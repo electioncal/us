@@ -6,3 +6,6 @@ registration_info = "https://www.sec.state.ma.us/ele/eleifv/howreg.htm"
 absentee_info = "http://www.sec.state.ma.us/ele/eleabsentee/absidx.htm"
 military_overseas_info = "http://www.sec.state.ma.us/ele/elemil/milidx.htm"
 demonym = "Massachusettsan"
+elections_twitter = ["votinginmass"]
+governor_twitter = ["MassGovernor"]
+sos_twitter = [""]

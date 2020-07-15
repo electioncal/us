@@ -6,3 +6,6 @@ registration_info = "https://www.sos.la.gov/ElectionsAndVoting/Pages/OnlineVoter
 absentee_info = "https://www.sos.la.gov/ElectionsAndVoting/Vote/VoteByMail/Pages/default.aspx"
 military_overseas_info = "https://www.sos.la.gov/ElectionsAndVoting/Vote/VoteByMail/Pages/MilitaryAndOverseasVoters.aspx"
 demonym = "Louisianian"
+elections_twitter = [""]
+governor_twitter = ["LouisianaGov"]
+sos_twitter = ["Louisiana_sos"]

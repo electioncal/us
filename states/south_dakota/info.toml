@@ -7,3 +7,6 @@ absentee_info = "https://sdsos.gov/elections-voting/voting/absentee-voting.aspx"
 military_info = "https://sdsos.gov/elections-voting/voting/military-members.aspx"
 overseas_info = "https://sdsos.gov/elections-voting/voting/overseas-citizen-voter.aspx"
 demonym = "South Dakotan"
+elections_twitter = [""]
+governor_twitter = ["govkristinoem"]
+sos_twitter = [""]

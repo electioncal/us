@@ -6,3 +6,6 @@ registration_info = "https://www.sos.arkansas.gov/elections/voter-information"
 absentee_info = "https://www.sos.arkansas.gov/elections/voter-information/absentee-voting"
 military_overseas_info = "https://www.sos.arkansas.gov/elections/military-and-overseas-citizens"
 demonym = "Arkansan"
+elections_twitter = [""]
+governor_twitter = ["AsaHutchinson"]
+sos_twitter = ["ARSecofState"]

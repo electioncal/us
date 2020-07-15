@@ -6,3 +6,6 @@ registration_info = "http://www.maine.gov/sos/cec/elec/voter-info/votreg.html"
 absentee_info = "https://www.maine.gov/sos/cec/elec/voter-info/absent.html"
 military_overseas_info = "https://www.maine.gov/sos/cec/elec/voter-info/move-act.html"
 demonym = "Mainer"
+elections_twitter = [""]
+governor_twitter = ["GovJanetMills"]
+sos_twitter = ["MESecOfState"]

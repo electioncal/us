@@ -6,7 +6,9 @@ homepage = "https://www.elections.ny.gov/"
 registration_info = "https://www.elections.ny.gov/VotingRegister.html"
 absentee_info = "https://www.elections.ny.gov/VotingAbsentee.html"
 military_overseas_info = "https://www.elections.ny.gov/VotingMilitaryFed.html"
-
+elections_twitter = [""]
+governor_twitter = ["nygovcuomo","nygov"]
+sos_twitter = [""]
 change_of_address_lead_time = 20 # days
 
 [[link]]

@@ -5,10 +5,11 @@ homepage = "http://elect.ky.gov/"
 registration_info = "https://vrsws.sos.ky.gov/ovrweb/govoteky"
 absentee_info = "https://elect.ky.gov/Voters/Pages/Absentee-Voting.aspx"
 military_overseas_info = "https://elect.ky.gov/Voters/Pages/Military-or-Overseas-Voters.aspx"
-
 absentee_application_url = "https://vrsws.sos.ky.gov/abrweb/"
 demonym = "Kentuckian"
-
+elections_twitter = [""]
+governor_twitter = ["andybeshearky"]
+sos_twitter = [""]
 [[link]]
 url = "https://elect.ky.gov/SiteAssets/Pages/default/Primary%20Timeline.pdf"
 description = "2020 Primary Calendar PDF"

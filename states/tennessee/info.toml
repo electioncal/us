@@ -6,3 +6,6 @@ registration_info = "https://ovr.govote.tn.gov/"
 absentee_info = "https://sos.tn.gov/products/elections/how-do-i-request-absentee-ballot"
 military_overseas_info = "https://sos.tn.gov/products/elections/how-do-i-request-absentee-ballot-if-i-am-military-or-overseas"
 demonym = "Tennessean"
+elections_twitter = [""]
+governor_twitter = ["GovBillLee"]
+sos_twitter = ["sectrehargett"]

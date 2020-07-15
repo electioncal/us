@@ -6,3 +6,6 @@ registration_info = "https://olvr.ohiosos.gov/"
 absentee_info = "https://www.sos.state.oh.us/elections/voters/absentee-voting/"
 military_overseas_info = "https://www.sos.state.oh.us/secretary-office/military/"
 demonym = "Ohioan"
+elections_twitter = [""]
+governor_twitter = ["GovMikeDeWine"]
+sos_twitter = [""]

@@ -6,3 +6,6 @@ registration_info = "https://ivote.de.gov/"
 absentee_info = "https://elections.delaware.gov/services/voter/absentee/index.shtml"
 military_overseas_info = "https://elections.delaware.gov/services/voter/absentee/uocava.shtml"
 demonym = "Delawarean"
+elections_twitter = [""]
+governor_twitter = ["JohnCarneyDE"]
+sos_twitter = ["DEDeptState"]

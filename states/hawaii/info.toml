@@ -6,3 +6,6 @@ registration_info = "https://olvr.hawaii.gov/"
 absentee_info = "https://elections.hawaii.gov/voters/applications/"
 military_overseas_info = "https://elections.hawaii.gov/voters/i-am-a/military-and-overseas-voters/"
 demonym = "Hawaii resident"
+elections_twitter = ["elections808"]
+governor_twitter = ["govhawaii"]
+sos_twitter = [""]

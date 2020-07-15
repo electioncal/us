@@ -6,3 +6,6 @@ registration_info = "https://voterregistration.ct.gov/OLVR/welcome.do"
 absentee_info = "https://portal.ct.gov/SOTS/Election-Services/Voter-Information/Absentee-Voting"
 military_overseas_info = "https://portal.ct.gov/SOTS/Election-Services/Voter-Information/Absentee-Voting"
 demonym = "Connecticuter"
+elections_twitter = [""]
+governor_twitter = ["GovNedLamont"]
+sos_twitter = ["sotsmerrill"]

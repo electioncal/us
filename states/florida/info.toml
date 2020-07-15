@@ -6,3 +6,6 @@ registration_info = "https://registertovoteflorida.gov/"
 absentee_info = "https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/"
 military_overseas_info = "https://dos.myflorida.com/elections/for-voters/voting/military-and-overseas-citizens-voting/"
 demonym = "Floridian"
+elections_twitter = [""]
+governor_twitter = ["RonDeSantisFL"]
+sos_twitter = ["FLSecofState"]

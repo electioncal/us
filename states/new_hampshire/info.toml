@@ -6,3 +6,6 @@ registration_info = "http://sos.nh.gov/HowRegVote.aspx"
 absentee_info = "http://sos.nh.gov/ElecForms2.aspx"
 military_overseas_info = "http://sos.nh.gov/UOCAVAFAQ.aspx"
 demonym = "New Hampshirite"
+elections_twitter = [""]
+governor_twitter = ["GovChrisSununu"]
+sos_twitter = ["NHSecretary"]

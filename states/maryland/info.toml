@@ -6,3 +6,6 @@ registration_info = "https://elections.maryland.gov/voter_registration/index.htm
 absentee_info = "https://elections.maryland.gov/voting/absentee.html"
 military_overseas_info = "https://elections.maryland.gov/overseas_voters/index.html"
 demonym = "Marylander"
+elections_twitter = ["md_sbe"]
+governor_twitter = ["larryhogan", "GovLarryHogan"]
+sos_twitter = [""]

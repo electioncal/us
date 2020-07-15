@@ -6,3 +6,6 @@ registration_info = "https://apps.idahovotes.gov/YourPollingPlace/AmIRegistered.
 absentee_info = "https://idahovotes.gov/absentee-voter-information/"
 military_overseas_info = "https://idahovotes.gov/military-and-overseas-voting/"
 demonym = "Idahoan"
+elections_twitter = [""]
+governor_twitter = ["GovernorLittle"]
+sos_twitter = ["IDSecOfState"]

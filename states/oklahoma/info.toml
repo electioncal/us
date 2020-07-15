@@ -6,3 +6,6 @@ registration_info = "https://www.ok.gov/elections/Voter_Info/Register_to_Vote/in
 absentee_info = "https://www.ok.gov/elections/Voter_Info/Absentee_Voting/index.html"
 military_overseas_info = "https://www.ok.gov/elections/Voter_Info/Military_Overseas_Voters/index.html"
 demonym = "Oklahoman"
+elections_twitter = ["OKelections"]
+governor_twitter = ["GovStitt"]
+sos_twitter = ["oklahoma_sos"]

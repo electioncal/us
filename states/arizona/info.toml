@@ -5,3 +5,6 @@ homepage = "https://www.azsos.gov/elections"
 registration_info = "https://servicearizona.com/webapp/evoter/selectLanguage"
 absentee_info = "https://my.arizona.vote/Early/ApplicationLogin.aspx"
 demonym = "Arizonan"
+elections_twitter = [""]
+governor_twitter = ["dougducey"]
+sos_twitter = ["secretaryhobbs"]

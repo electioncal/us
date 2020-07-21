@@ -9,15 +9,76 @@ SUMMARY:Presidential Primary
 DTSTART;VALUE=DATE:20200609
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+DTSTART;VALUE=DATE:20200713
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online
+DTSTART;VALUE=DATE:20200713
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Congressional Primary Run-off (if needed)
 DTSTART;VALUE=DATE:20200811
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots
+DTSTART;VALUE=DATE:20200811
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person
+DTSTART;VALUE=DATE:20200811
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+DTSTART;VALUE=DATE:20201005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online
+DTSTART;VALUE=DATE:20201005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+DTSTART;VALUE=DATE:20201005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online
+DTSTART;VALUE=DATE:20201005
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:General (Presidential) Election
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:General Run-Off (if needed)
+SUMMARY:Last day for election officials to receive absentee ballots
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Election and Special Election Runoffs for Local and State 
+ Offices  (if needed)
+DTSTART;VALUE=DATE:20201201
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person
+DTSTART;VALUE=DATE:20201201
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+DTSTART;VALUE=DATE:20201207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online
+DTSTART;VALUE=DATE:20201207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Run-Off for Federal Offices (if needed)
+DTSTART;VALUE=DATE:20210105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person
 DTSTART;VALUE=DATE:20210105
 END:VEVENT
 END:VCALENDAR

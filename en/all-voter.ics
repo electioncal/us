@@ -558,6 +558,15 @@ SUMMARY:Last day to postmark absentee ballots in Alabama
 DTSTART;VALUE=DATE:20200713
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Georgia
+DTSTART;VALUE=DATE:20200713
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Georgia
+DTSTART;VALUE=DATE:20200713
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Alabama Congressional Primary Run-Off (if needed)
 DTSTART;VALUE=DATE:20200714
 END:VEVENT
@@ -933,6 +942,15 @@ SUMMARY:Last day to register to vote in person in Connecticut
 DTSTART;VALUE=DATE:20200811
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Geo
+ rgia
+DTSTART;VALUE=DATE:20200811
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Georgia
+DTSTART;VALUE=DATE:20200811
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to drop off an absentee ballot in Minnesota
 DTSTART;VALUE=DATE:20200811
 END:VEVENT
@@ -1223,6 +1241,24 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
   in Florida
+DTSTART;VALUE=DATE:20201005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Georgia
+DTSTART;VALUE=DATE:20201005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Georgia
+DTSTART;VALUE=DATE:20201005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Georgia
+DTSTART;VALUE=DATE:20201005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Georgia
 DTSTART;VALUE=DATE:20201005
 END:VEVENT
 BEGIN:VEVENT
@@ -1613,6 +1649,15 @@ SUMMARY:Last day to vote in person in Florida
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Geo
+ rgia
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Georgia
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in Haw
  aii
 DTSTART;VALUE=DATE:20201103
@@ -1902,6 +1947,15 @@ SUMMARY:Last day for election officials to receive absentee ballots in Cal
 DTSTART;VALUE=DATE:20201120
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Georgia General Election and Special Election Runoffs for Local an
+ d State Offices  (if needed)
+DTSTART;VALUE=DATE:20201201
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Georgia
+DTSTART;VALUE=DATE:20201201
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in Lou
  isiana
 DTSTART;VALUE=DATE:20201204
@@ -1913,6 +1967,15 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person in Louisiana
 DTSTART;VALUE=DATE:20201205
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Georgia
+DTSTART;VALUE=DATE:20201207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Georgia
+DTSTART;VALUE=DATE:20201207
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New Jersey December Special School Board
@@ -1936,7 +1999,11 @@ SUMMARY:Last day for election officials to receive absentee ballots in New
 DTSTART;VALUE=DATE:20201210
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Georgia General Run-Off (if needed)
+SUMMARY:Georgia General Run-Off for Federal Offices (if needed)
+DTSTART;VALUE=DATE:20210105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Georgia
 DTSTART;VALUE=DATE:20210105
 END:VEVENT
 END:VCALENDAR

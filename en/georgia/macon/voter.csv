@@ -1,5 +1,44 @@
 date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
 2020-06-09 00:00:00,20200609,,election,,Presidential Primary,2020-06-09 00:00:00,Georgia,,
+2020-07-05 23:59:59,,20200811,reminder,registration.received_by,Mail voter registration,,Georgia,,True
+2020-07-06 23:59:59,,20200811,reminder,registration.received_by,Mail voter registration at the post office,,Georgia,,True
+2020-07-13 23:59:59,,20200811,deadline,registration.received_by,Last day for election officials to receive voter registration form,,Georgia,,True
+2020-07-13 23:59:59,,20200811,deadline,registration.online_by,Last day to register to vote online,,Georgia,,
+2020-07-13 23:59:59,,20200811,reminder,registration.online_by,Register to vote online,,Georgia,,
+2020-08-03 23:59:59,,20200811,reminder,absentee.received_by,Mail ballot,,Georgia,,True
+2020-08-04 23:59:59,,20200811,reminder,absentee.received_by,Mail ballot at the post office,,Georgia,,True
+2020-08-10 23:59:59,,20200811,reminder,poll.in_person_by,Plan to vote,,Georgia,,
 2020-08-11 00:00:00,20200811,,election,,Congressional Primary Run-off (if needed),2020-08-11 00:00:00,Georgia,,
+2020-08-11 23:59:59,,20200811,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Georgia,,True
+2020-08-11 23:59:59,,20200811,deadline,poll.in_person_by,Last day to vote in person,,Georgia,,
+2020-08-11 23:59:59,,20200811,reminder,poll.in_person_by,Vote in person,,Georgia,,
+2020-09-27 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration,,Georgia,,True
+2020-09-27 23:59:59,,20201201,reminder,registration.received_by,Mail voter registration,,Georgia,,True
+2020-09-28 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration at the post office,,Georgia,,True
+2020-09-28 23:59:59,,20201201,reminder,registration.received_by,Mail voter registration at the post office,,Georgia,,True
+2020-10-05 23:59:59,,20201103,deadline,registration.received_by,Last day for election officials to receive voter registration form,,Georgia,,True
+2020-10-05 23:59:59,,20201103,deadline,registration.online_by,Last day to register to vote online,,Georgia,,
+2020-10-05 23:59:59,,20201201,deadline,registration.received_by,Last day for election officials to receive voter registration form,,Georgia,,True
+2020-10-05 23:59:59,,20201201,deadline,registration.online_by,Last day to register to vote online,,Georgia,,
+2020-10-05 23:59:59,,20201103,reminder,registration.online_by,Register to vote online,,Georgia,,
+2020-10-05 23:59:59,,20201201,reminder,registration.online_by,Register to vote online,,Georgia,,
+2020-10-26 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,Georgia,,True
+2020-10-27 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,Georgia,,True
+2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,Georgia,,
 2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,Georgia,,
-2021-01-05 00:00:00,20210105,,election,,General Run-Off (if needed),2021-01-05 00:00:00,Georgia,,
+2020-11-03 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Georgia,,True
+2020-11-03 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,Georgia,,
+2020-11-03 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,Georgia,,
+2020-11-29 23:59:59,,20210105,reminder,registration.received_by,Mail voter registration,,Georgia,,True
+2020-11-30 23:59:59,,20201201,reminder,poll.in_person_by,Plan to vote,,Georgia,,
+2020-11-30 23:59:59,,20210105,reminder,registration.received_by,Mail voter registration at the post office,,Georgia,,True
+2020-12-01 00:00:00,20201201,,election,,General Election and Special Election Runoffs for Local and State Offices  (if needed),,Georgia,,
+2020-12-01 23:59:59,,20201201,deadline,poll.in_person_by,Last day to vote in person,,Georgia,,
+2020-12-01 23:59:59,,20201201,reminder,poll.in_person_by,Vote in person,,Georgia,,
+2020-12-07 23:59:59,,20210105,deadline,registration.received_by,Last day for election officials to receive voter registration form,,Georgia,,True
+2020-12-07 23:59:59,,20210105,deadline,registration.online_by,Last day to register to vote online,,Georgia,,
+2020-12-07 23:59:59,,20210105,reminder,registration.online_by,Register to vote online,,Georgia,,
+2021-01-04 23:59:59,,20210105,reminder,poll.in_person_by,Plan to vote,,Georgia,,
+2021-01-05 00:00:00,20210105,,election,,General Run-Off for Federal Offices (if needed),2021-01-05 00:00:00,Georgia,,
+2021-01-05 23:59:59,,20210105,deadline,poll.in_person_by,Last day to vote in person,,Georgia,,
+2021-01-05 23:59:59,,20210105,reminder,poll.in_person_by,Vote in person,,Georgia,,

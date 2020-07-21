@@ -1279,6 +1279,14 @@ SUMMARY:Last day to register to vote in person in Louisiana
 DTSTART;VALUE=DATE:20201005
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Mississippi
+DTSTART;VALUE=DATE:20201005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark voter registration form in Mississippi
+DTSTART;VALUE=DATE:20201005
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to postmark voter registration form in South Carolina
 DTSTART;VALUE=DATE:20201005
 END:VEVENT
@@ -1514,6 +1522,10 @@ SUMMARY:Last day to drop off an absentee ballot in Florida
 DTSTART;VALUE=DATE:20201031
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Mississippi
+DTSTART;VALUE=DATE:20201031
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to drop off an absentee ballot in Oklahoma
 DTSTART;VALUE=DATE:20201031
 END:VEVENT
@@ -1532,6 +1544,11 @@ DTSTART;VALUE=DATE:20201102
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to drop off an absentee ballot in Minnesota
+DTSTART;VALUE=DATE:20201102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Mis
+ sissippi
 DTSTART;VALUE=DATE:20201102
 END:VEVENT
 BEGIN:VEVENT
@@ -1730,6 +1747,10 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person in Minnesota
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Mississippi
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

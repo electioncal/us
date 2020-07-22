@@ -1452,6 +1452,15 @@ SUMMARY:Last day to register to vote in person in Utah
 DTSTART;VALUE=DATE:20201023
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Iowa
+DTSTART;VALUE=DATE:20201024
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Iowa
+DTSTART;VALUE=DATE:20201024
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person in Massachusetts
 DTSTART;VALUE=DATE:20201024
 END:VEVENT
@@ -1548,6 +1557,10 @@ DTSTART;VALUE=DATE:20201102
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to postmark absentee ballots in Alabama
+DTSTART;VALUE=DATE:20201102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots in Iowa
 DTSTART;VALUE=DATE:20201102
 END:VEVENT
 BEGIN:VEVENT
@@ -1698,6 +1711,18 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person in Hawaii
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Iowa
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Iowa
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Iowa
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
@@ -1949,6 +1974,11 @@ BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in Nor
  th Carolina
 DTSTART;VALUE=DATE:20201106
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Iow
+ a
+DTSTART;VALUE=DATE:20201109
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive military and overseas b

@@ -1,3 +1,19 @@
 date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
 2020-06-02 00:00:00,20200602,,election,,Congressional Primary,2020-06-02 00:00:00,Iowa,,
+2020-10-16 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration,,Iowa,,True
+2020-10-17 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration at the post office,,Iowa,,True
+2020-10-24 23:59:59,,20201103,deadline,registration.received_by,Last day for election officials to receive voter registration form,,Iowa,,True
+2020-10-24 23:59:59,,20201103,deadline,registration.online_by,Last day to register to vote online,,Iowa,,
+2020-10-24 23:59:59,,20201103,reminder,registration.online_by,Register to vote online,,Iowa,,
+2020-11-01 23:59:59,,20201103,reminder,absentee.postmarked_by,Mail ballot,,Iowa,,False
+2020-11-02 23:59:59,,20201103,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,Iowa,,False
+2020-11-02 23:59:59,,20201103,reminder,absentee.postmarked_by,Mail ballot at the post office,,Iowa,,False
+2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,Iowa,,
 2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,Iowa,,
+2020-11-03 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Iowa,,
+2020-11-03 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,Iowa,,
+2020-11-03 23:59:59,,20201103,deadline,registration.in_person_by,Last day to register to vote in person,,Iowa,,
+2020-11-03 23:59:59,,20201103,reminder,absentee.in_person_by,Drop off ballot,,Iowa,,
+2020-11-03 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,Iowa,,
+2020-11-03 23:59:59,,20201103,reminder,registration.in_person_by,Register to vote in person,,Iowa,,
+2020-11-09 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Iowa,,False

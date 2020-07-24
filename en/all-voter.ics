@@ -1434,6 +1434,19 @@ DTSTART;VALUE=DATE:20201019
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
+  in Pennsylvania
+DTSTART;VALUE=DATE:20201019
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Pennsylvania
+DTSTART;VALUE=DATE:20201019
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Pennsylvania
+DTSTART;VALUE=DATE:20201019
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
   in South Dakota
 DTSTART;VALUE=DATE:20201019
 END:VEVENT
@@ -1835,6 +1848,15 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person in Oklahoma
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Pen
+ nsylvania
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Pennsylvania
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

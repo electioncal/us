@@ -18,6 +18,7 @@ sources = [
 
 [20201103.absentee.application]
 in_person_by = 2020-10-27T17:00:00
+online_by = 2020-10-27T17:00:00
 received_by = 2020-10-27T17:00:00
 sources = ["https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx"]
 

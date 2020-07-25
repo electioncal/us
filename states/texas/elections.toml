@@ -46,8 +46,47 @@ sources = ["https://www.sos.state.tx.us/elections/voter/important-election-dates
            "https://www.sos.texas.gov/elections/voter/reqabbm.shtml"]
 
 
-
 [20201103]
 date = 2020-11-03
 name = "General"
 original_date = 2020-11-03
+
+[20201103.registration]
+in_person_by = 2020-10-05
+postmarked_by = 2020-10-05
+received_by = 2020-10-05
+sources = [
+  "https://www.sos.state.tx.us/elections/voter/important-election-dates.shtml",
+  "https://www.votetexas.gov/register-to-vote/you-must-register-by.html",
+  "https://www.votetexas.gov/faq/index.html#2798",
+]
+
+[20201103.absentee.application]
+received_by = 2020-10-23
+sources = [
+  "https://www.sos.state.tx.us/elections/voter/important-election-dates.shtml",
+  "https://www.votetexas.gov/military-overseas-voters/index.html",
+  "https://www.sos.texas.gov/elections/voter/reqabbm.shtml",
+]
+
+[20201103.absentee]
+postmarked_by = 2020-11-03T19:00:00
+received_by = 2020-11-04T17:00:00
+sources = [
+  "https://www.sos.state.tx.us/elections/voter/important-election-dates.shtml",
+  "https://www.votetexas.gov/military-overseas-voters/index.html",
+  "https://www.sos.texas.gov/elections/voter/reqabbm.shtml",
+]
+
+[20201103.poll.early]
+in_person_by = 2020-10-30
+in_person_start = 2020-11-19
+sources = [
+  "https://www.sos.state.tx.us/elections/voter/important-election-dates.shtml",
+  "https://www.votetexas.gov/faq/early-voting.html#2773",
+]
+
+[20201103.poll]
+in_person_by = 2020-11-03T19:00:00
+in_person_start = 2020-11-03T07:00:00
+sources = ["https://www.sos.state.tx.us/elections/voter/important-election-dates.shtml"]

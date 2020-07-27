@@ -1303,6 +1303,19 @@ SUMMARY:Last day to register to vote online in Tennessee
 DTSTART;VALUE=DATE:20201005
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Texas
+DTSTART;VALUE=DATE:20201005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Texas
+DTSTART;VALUE=DATE:20201005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark voter registration form in Texas
+DTSTART;VALUE=DATE:20201005
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person in Missouri
 DTSTART;VALUE=DATE:20201007
 END:VEVENT
@@ -1895,6 +1908,14 @@ SUMMARY:Last day to vote in person in Tennessee
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots in Texas
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Texas
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to vote in person in U.S. Virgin Islands
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
@@ -1975,6 +1996,11 @@ DTSTART;VALUE=DATE:20201104
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person in Louisiana
+DTSTART;VALUE=DATE:20201104
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Tex
+ as
 DTSTART;VALUE=DATE:20201104
 END:VEVENT
 BEGIN:VEVENT

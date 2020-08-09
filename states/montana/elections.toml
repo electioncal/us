@@ -7,3 +7,22 @@ original_date = 2020-06-02
 date = 2020-11-03
 name = "General"
 original_date = 2020-11-03
+
+[20201103.registration]
+in_person_by = 2020-11-03T20:00:00 # Late registration
+postmarked_by = 2020-10-05 
+received_by = 2020-10-08 
+sources = ["https://sosmt.gov/wp-content/uploads/2020-Election-Calendar.pdf"] 
+
+[20201103.absentee.application]
+received_by = 2020-11-02T12:00:00
+sources = ["https://sosmt.gov/wp-content/uploads/2020-Election-Calendar.pdf"]
+
+[20201103.absentee]
+received_by = 2020-11-03T20:00:00
+sources = ["https://sosmt.gov/wp-content/uploads/2020-Election-Calendar.pdf"]
+
+[20201103.poll]
+in_person_by = 2020-11-03T20:00:00
+in_person_start = 2020-11-03T07:00:00
+sources = ["https://sosmt.gov/wp-content/uploads/2020-Election-Calendar.pdf"]

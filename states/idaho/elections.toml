@@ -15,7 +15,7 @@ postmarked_by = 2020-10-09T17:00:00
 sources = ["https://idahovotes.gov/media/voter_registration.pdf", "https://sos.idaho.gov/election-calendars/#2020"]
 
 [20201103.absentee.application]
-inperson_by = 2020-10-30T17:00:00
+in_person_by = 2020-10-30T17:00:00
 online_by = 2020-10-23T20:00:00
 received_by = 2020-10-23T20:00:00
 sources = [

@@ -1287,6 +1287,10 @@ SUMMARY:Last day to postmark voter registration form in Mississippi
 DTSTART;VALUE=DATE:20201005
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to postmark voter registration form in Montana
+DTSTART;VALUE=DATE:20201005
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to postmark voter registration form in South Carolina
 DTSTART;VALUE=DATE:20201005
 END:VEVENT
@@ -1326,6 +1330,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote online in Missouri
 DTSTART;VALUE=DATE:20201007
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Montana
+DTSTART;VALUE=DATE:20201008
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to postmark voter registration form in New York
@@ -1823,6 +1832,19 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person in Mississippi
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Mon
+ tana
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Montana
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Montana
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

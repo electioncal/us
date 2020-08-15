@@ -1,3 +1,14 @@
 date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
 2020-06-02 00:00:00,20200519,,election,,Congressional Primary,2020-05-19 00:00:00,Idaho,,
+2020-10-08 23:59:59,,20201103,reminder,registration.postmarked_by,Mail voter registration,,Idaho,,False
+2020-10-09 23:59:59,,20201103,deadline,registration.postmarked_by,Last day to postmark voter registration form,,Idaho,,False
+2020-10-09 23:59:59,,20201103,deadline,registration.online_by,Last day to register to vote online,,Idaho,,
+2020-10-09 23:59:59,,20201103,reminder,registration.postmarked_by,Mail voter registration at the post office,,Idaho,,False
+2020-10-09 23:59:59,,20201103,reminder,registration.online_by,Register to vote online,,Idaho,,
+2020-10-26 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,Idaho,,True
+2020-10-27 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,Idaho,,True
+2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,Idaho,,
 2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,Idaho,,
+2020-11-03 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Idaho,,True
+2020-11-03 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,Idaho,,
+2020-11-03 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,Idaho,,

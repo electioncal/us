@@ -1320,6 +1320,14 @@ SUMMARY:Last day to postmark voter registration form in Texas
 DTSTART;VALUE=DATE:20201005
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to postmark voter registration form in New Mexico
+DTSTART;VALUE=DATE:20201006
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in New Mexico
+DTSTART;VALUE=DATE:20201006
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person in Missouri
 DTSTART;VALUE=DATE:20201007
 END:VEVENT
@@ -1333,8 +1341,21 @@ DTSTART;VALUE=DATE:20201007
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
+  in New Mexico
+DTSTART;VALUE=DATE:20201007
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
   in Montana
 DTSTART;VALUE=DATE:20201008
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark voter registration form in Idaho
+DTSTART;VALUE=DATE:20201009
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Idaho
+DTSTART;VALUE=DATE:20201009
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to postmark voter registration form in New York
@@ -1583,6 +1604,10 @@ SUMMARY:Last day to drop off an absentee ballot in Mississippi
 DTSTART;VALUE=DATE:20201031
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in New Mexico
+DTSTART;VALUE=DATE:20201031
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to drop off an absentee ballot in Oklahoma
 DTSTART;VALUE=DATE:20201031
 END:VEVENT
@@ -1749,6 +1774,15 @@ SUMMARY:Last day to register to vote in person in Hawaii
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Ida
+ ho
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Idaho
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to drop off an absentee ballot in Iowa
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
@@ -1866,6 +1900,15 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to postmark absentee ballots in New Jersey
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in New
+  Mexico
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in New Mexico
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

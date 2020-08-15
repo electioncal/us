@@ -1350,14 +1350,6 @@ SUMMARY:Last day for election officials to receive voter registration form
 DTSTART;VALUE=DATE:20201008
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Last day to postmark voter registration form in Idaho
-DTSTART;VALUE=DATE:20201009
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Last day to register to vote online in Idaho
-DTSTART;VALUE=DATE:20201009
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Last day to postmark voter registration form in New York
 DTSTART;VALUE=DATE:20201009
 END:VEVENT
@@ -1771,15 +1763,6 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person in Hawaii
-DTSTART;VALUE=DATE:20201103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Last day for election officials to receive absentee ballots in Ida
- ho
-DTSTART;VALUE=DATE:20201103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Last day to vote in person in Idaho
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

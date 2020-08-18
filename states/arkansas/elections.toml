@@ -12,3 +12,28 @@ original_date = 2020-03-31
 date = 2020-11-03
 name = "General"
 original_date = 2020-11-03
+
+[20201103.registration]
+postmarked_by = 2020-10-04
+sources=["https://www.sos.arkansas.gov/uploads/elections/ArkansasVoterRegistrationApplication.pdf"]
+
+[20201103.absentee.application]
+in_person_by = 2020-11-02
+received_by = 2020-10-27
+email_by = 2020-10-27
+fax_by = 2020-10-27
+sources = ["https://www.sos.arkansas.gov/elections/voter-information/absentee-voting"]
+
+[20201103.absentee]
+in_person_by = 2020-11-02
+received_by = 2020-11-03T19:30:00
+sources = ["https://www.sos.arkansas.gov/elections/voter-information/absentee-voting"]
+
+[20201103.poll.early]
+in_person_start = 2020-10-19
+sources = ["https://www.sos.arkansas.gov/uploads/elections/voting_101_9-2018_grayscaleb.pdf"]
+
+[20201103.poll]
+in_person_start = 2020-11-03T07:30:00
+in_person_by = 2020-11-03T19:30:00
+sources = ["https://www.sos.arkansas.gov/uploads/elections/voting_101_9-2018_grayscaleb.pdf"]

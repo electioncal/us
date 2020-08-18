@@ -1,4 +1,15 @@
 date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
 2020-03-03 00:00:00,20200303,,election,,Congressional & Presidential Primary,2020-03-03 00:00:00,Arkansas,,
 2020-03-31 00:00:00,20200331,,election,,Congressional Primary Run-Off (if needed),2020-03-31 00:00:00,Arkansas,,
+2020-10-03 23:59:59,,20201103,reminder,registration.postmarked_by,Mail voter registration,,Arkansas,,False
+2020-10-04 23:59:59,,20201103,deadline,registration.postmarked_by,Last day to postmark voter registration form,,Arkansas,,False
+2020-10-04 23:59:59,,20201103,reminder,registration.postmarked_by,Mail voter registration at the post office,,Arkansas,,False
+2020-10-26 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,Arkansas,,True
+2020-10-27 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,Arkansas,,True
+2020-11-02 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Arkansas,,
+2020-11-02 23:59:59,,20201103,reminder,absentee.in_person_by,Drop off ballot,,Arkansas,,
+2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,Arkansas,,
 2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,Arkansas,,
+2020-11-03 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Arkansas,,True
+2020-11-03 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,Arkansas,,
+2020-11-03 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,Arkansas,,

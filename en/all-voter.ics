@@ -1213,6 +1213,10 @@ SUMMARY:Last day to register to vote online in Alaska
 DTSTART;VALUE=DATE:20201004
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to postmark voter registration form in Arkansas
+DTSTART;VALUE=DATE:20201004
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
   in Rhode Island
 DTSTART;VALUE=DATE:20201004
@@ -1620,6 +1624,10 @@ SUMMARY:Last day to postmark absentee ballots in Alabama
 DTSTART;VALUE=DATE:20201102
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Arkansas
+DTSTART;VALUE=DATE:20201102
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to postmark absentee ballots in Iowa
 DTSTART;VALUE=DATE:20201102
 END:VEVENT
@@ -1702,6 +1710,15 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person in Arizona
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Ark
+ ansas
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Arkansas
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

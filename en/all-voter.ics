@@ -1324,6 +1324,14 @@ SUMMARY:Last day to postmark voter registration form in Texas
 DTSTART;VALUE=DATE:20201005
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Nevada
+DTSTART;VALUE=DATE:20201006
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark voter registration form in Nevada
+DTSTART;VALUE=DATE:20201006
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to postmark voter registration form in New Mexico
 DTSTART;VALUE=DATE:20201006
 END:VEVENT
@@ -1580,6 +1588,10 @@ DTSTART;VALUE=DATE:20201029
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to hand deliver an absentee applications in Alabama
+DTSTART;VALUE=DATE:20201029
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Nevada
 DTSTART;VALUE=DATE:20201029
 END:VEVENT
 BEGIN:VEVENT
@@ -1899,6 +1911,22 @@ SUMMARY:Last day to register to vote in person in Montana
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Nevada
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots in Nevada
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Nevada
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: in Nevada
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in New
   Hampshire
 DTSTART;VALUE=DATE:20201103
@@ -2113,6 +2141,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive military and overseas b
  allots in Alabama
+DTSTART;VALUE=DATE:20201110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Nev
+ ada
 DTSTART;VALUE=DATE:20201110
 END:VEVENT
 BEGIN:VEVENT

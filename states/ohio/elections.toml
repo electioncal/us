@@ -23,6 +23,7 @@ sources = [
 [20201103.absentee]
 in_person_by = 2020-11-03T19:30:00
 postmarked_by = 2020-11-02
+received_by = 2020-11-13
 sources = [
   "https://www.sos.state.oh.us/elections/voters/absentee-voting/#byMail",
   "https://www.sos.state.oh.us/elections/voters/current-voting-schedule/",

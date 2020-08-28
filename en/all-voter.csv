@@ -400,6 +400,7 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-08-04 23:59:59,,20200804,reminder,absentee.in_person_by,Drop off ballot,,Michigan,,
 2020-08-04 23:59:59,,20200804,reminder,poll.in_person_by,Vote in person,,Michigan,,
 2020-08-04 23:59:59,,20200804,reminder,registration.in_person_by,Register to vote in person,,Michigan,,
+2020-08-04 23:59:59,,20200811,reminder,absentee.received_by,Mail ballot,,Minnesota,,True
 2020-08-04 23:59:59,,20200804,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Missouri,,True
 2020-08-04 23:59:59,,20200804,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Washington,,
 2020-08-04 23:59:59,,20200804,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,Washington,,False
@@ -409,6 +410,7 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-08-04 23:59:59,,20200804,reminder,registration.in_person_by,Register to vote in person,,Washington,,
 2020-08-04 23:59:59,,20200811,reminder,absentee.received_by,Mail ballot at the post office,,Wisconsin,,True
 2020-08-05 23:59:59,,20200811,reminder,registration.postmarked_by,Mail voter registration,,Connecticut,,False
+2020-08-05 23:59:59,,20200811,reminder,absentee.received_by,Mail ballot at the post office,,Minnesota,,True
 2020-08-05 23:59:59,,20200806,reminder,poll.in_person_by,Plan to vote,,Tennessee,,
 2020-08-06 00:00:00,20200806,,election,,Tennessee Congressional Primary,2020-08-06 00:00:00,Tennessee,,
 2020-08-06 23:59:59,,20200811,deadline,registration.received_by,Last day for election officials to receive voter registration form,,Connecticut,,True
@@ -488,6 +490,7 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-08-11 23:59:59,,20200811,reminder,poll.in_person_by,Vote in person,,Wisconsin,,
 2020-08-11 23:59:59,,20200811,reminder,registration.in_person_by,Register to vote in person,,Wisconsin,,
 2020-08-11 23:59:59,,20200818,reminder,absentee.received_by,Mail ballot at the post office,,Wyoming,,True
+2020-08-12 23:59:59,,20200811,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Minnesota,,True
 2020-08-14 23:59:59,,20200915,reminder,registration.received_by,Mail voter registration,,Delaware,,True
 2020-08-14 23:59:59,,20200815,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Louisiana,,True
 2020-08-14 23:59:59,,20200815,reminder,poll.in_person_by,Plan to vote,,Louisiana,,
@@ -845,7 +848,9 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-10-27 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,Arkansas,,True
 2020-10-27 23:59:59,,20201103,deadline,registration.received_by,Last day for election officials to receive voter registration form,,Connecticut,,False
 2020-10-27 23:59:59,,20201103,deadline,registration.postmarked_by,Last day to postmark voter registration form,,Connecticut,,False
+2020-10-27 23:59:59,,20201103,deadline,registration.online_by,Last day to register to vote online,,Connecticut,,
 2020-10-27 23:59:59,,20201103,reminder,registration.postmarked_by,Mail voter registration at the post office,,Connecticut,,False
+2020-10-27 23:59:59,,20201103,reminder,registration.online_by,Register to vote online,,Connecticut,,
 2020-10-27 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,Connecticut,,True
 2020-10-27 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,Delaware,,True
 2020-10-27 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,Florida,,True
@@ -942,6 +947,7 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,Maryland,,
 2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,Massachusetts,,
 2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,Michigan,,
+2020-11-02 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Minnesota,,False
 2020-11-02 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Minnesota,,
 2020-11-02 23:59:59,,20201103,reminder,absentee.in_person_by,Drop off ballot,,Minnesota,,
 2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,Minnesota,,

@@ -996,6 +996,11 @@ SUMMARY:Last day to register to vote in person in Wisconsin
 DTSTART;VALUE=DATE:20200811
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Min
+ nesota
+DTSTART;VALUE=DATE:20200812
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in Lou
  isiana
 DTSTART;VALUE=DATE:20200814
@@ -1595,6 +1600,10 @@ SUMMARY:Last day to postmark voter registration form in Connecticut
 DTSTART;VALUE=DATE:20201027
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Connecticut
+DTSTART;VALUE=DATE:20201027
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to postmark absentee applications in New York
 DTSTART;VALUE=DATE:20201027
 END:VEVENT
@@ -1677,6 +1686,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in Lou
  isiana
+DTSTART;VALUE=DATE:20201102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Min
+ nesota
 DTSTART;VALUE=DATE:20201102
 END:VEVENT
 BEGIN:VEVENT

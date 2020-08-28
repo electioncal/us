@@ -36,12 +36,20 @@ SUMMARY:Last day to register to vote in person
 DTSTART;VALUE=DATE:20200811
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots
+DTSTART;VALUE=DATE:20200812
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
 DTSTART;VALUE=DATE:20201013
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote online
 DTSTART;VALUE=DATE:20201013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots
+DTSTART;VALUE=DATE:20201102
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to drop off an absentee ballot

@@ -41,6 +41,10 @@ SUMMARY:Last day to postmark voter registration form
 DTSTART;VALUE=DATE:20201027
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to register to vote online
+DTSTART;VALUE=DATE:20201027
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:General (Presidential) Election
 DTSTART;VALUE=DATE:20201103
 END:VEVENT

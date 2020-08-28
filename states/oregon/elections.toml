@@ -7,3 +7,19 @@ original_date = 2020-05-19
 date = 2020-11-03
 name = "General"
 original_date = 2020-11-03
+
+[20201103.registration]
+online_by = 2020-10-13T23:59:59
+received_by = 2020-10-13T23:59:59
+sources  = ["https://sos.oregon.gov/voting/Pages/registration.aspx?lang=en"]
+
+[20201103.absentee.application]
+received_by = 2020-10-22 # Last day Absentees are mailed is Oct 29, padded 7 days
+sources = ["https://data.oregon.gov/Administrative/Public-Calendar/yik7-npc9"]
+
+[20201103.absentee]
+received_by = 2020-11-03T20:00:00
+
+[20201103.poll]
+received_by = 2020-11-03T20:00:00
+sources = ["https://sos.oregon.gov/voting/Pages/voteinor.aspx"]

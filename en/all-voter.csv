@@ -630,6 +630,7 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-10-04 23:59:59,,20201103,reminder,registration.postmarked_by,Mail voter registration,,South Carolina,,False
 2020-10-04 23:59:59,,20201103,reminder,registration.postmarked_by,Mail voter registration,,Tennessee,,False
 2020-10-04 23:59:59,,20201103,reminder,registration.postmarked_by,Mail voter registration,,Texas,,False
+2020-10-04 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration,,Virginia,,True
 2020-10-05 23:59:59,,20201103,deadline,registration.received_by,Last day for election officials to receive voter registration form,,Arizona,,True
 2020-10-05 23:59:59,,20201103,deadline,registration.in_person_by,Last day to register to vote in person,,Arizona,,
 2020-10-05 23:59:59,,20201103,deadline,registration.online_by,Last day to register to vote online,,Arizona,,
@@ -677,6 +678,7 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-10-05 23:59:59,,20201103,deadline,registration.postmarked_by,Last day to postmark voter registration form,,Texas,,False
 2020-10-05 23:59:59,,20201103,reminder,registration.in_person_by,Register to vote in person,,Texas,,
 2020-10-05 23:59:59,,20201103,reminder,registration.postmarked_by,Mail voter registration at the post office,,Texas,,False
+2020-10-05 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration at the post office,,Virginia,,True
 2020-10-06 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration at the post office,,Kansas,,True
 2020-10-06 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration at the post office,,Maine,,True
 2020-10-06 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration at the post office,,Maryland,,True
@@ -722,6 +724,11 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-10-12 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration at the post office,,Michigan,,True
 2020-10-12 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration at the post office,,Pennsylvania,,True
 2020-10-12 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration at the post office,,South Dakota,,True
+2020-10-12 23:59:59,,20201103,deadline,registration.received_by,Last day for election officials to receive voter registration form,,Virginia,,True
+2020-10-12 23:59:59,,20201103,deadline,registration.in_person_by,Last day to register to vote in person,,Virginia,,
+2020-10-12 23:59:59,,20201103,deadline,registration.online_by,Last day to register to vote online,,Virginia,,
+2020-10-12 23:59:59,,20201103,reminder,registration.in_person_by,Register to vote in person,,Virginia,,
+2020-10-12 23:59:59,,20201103,reminder,registration.online_by,Register to vote online,,Virginia,,
 2020-10-12 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration at the post office,,Wyoming,,True
 2020-10-13 23:59:59,,20201103,deadline,registration.received_by,Last day for election officials to receive voter registration form,,Kansas,,True
 2020-10-13 23:59:59,,20201103,deadline,registration.in_person_by,Last day to register to vote in person,,Kansas,,
@@ -880,6 +887,7 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-10-29 23:59:59,,20201103,reminder,registration.online_by,Register to vote online,,Nevada,,
 2020-10-29 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,New Jersey,,True
 2020-10-29 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,North Carolina,,True
+2020-10-29 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,Virginia,,True
 2020-10-29 23:59:59,,20201103,deadline,absentee.application.received_by,Last day for election officials to receive absentee applications,,Wisconsin,,True
 2020-10-30 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,Kansas,,True
 2020-10-30 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Massachusetts,,
@@ -890,6 +898,7 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-10-30 23:59:59,,20201103,reminder,absentee.application.online_by,Apply for an absentee ballot online,,South Carolina,,
 2020-10-30 23:59:59,,20201103,deadline,registration.online_by,Last day to register to vote online,,Vermont,,
 2020-10-30 23:59:59,,20201103,reminder,registration.online_by,Register to vote online,,Vermont,,
+2020-10-30 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,Virginia,,True
 2020-10-31 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Florida,,
 2020-10-31 23:59:59,,20201103,reminder,absentee.in_person_by,Drop off ballot,,Florida,,
 2020-10-31 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Mississippi,,
@@ -969,6 +978,7 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-11-02 23:59:59,,20201103,deadline,absentee.application.in_person_by,Last day to hand deliver an absentee applications,,Vermont,,
 2020-11-02 23:59:59,,20201103,reminder,absentee.application.in_person_by,Drop off absentee application,,Vermont,,
 2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,Vermont,,
+2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,Virginia,,
 2020-11-02 23:59:59,,20201103,reminder,absentee.postmarked_by,Mail ballot,,Washington,,False
 2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,Wisconsin,,
 2020-11-02 23:59:59,,20201103,deadline,registration.in_person_by,Last day to register to vote in person,,Wyoming,,
@@ -1128,6 +1138,9 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-11-03 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,Vermont,,
 2020-11-03 23:59:59,,20201103,reminder,poll.early.in_person_by,Vote early in person,,Vermont,,
 2020-11-03 23:59:59,,20201103,reminder,registration.in_person_by,Register to vote in person,,Vermont,,
+2020-11-03 23:59:59,,20201103,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,Virginia,,True
+2020-11-03 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,Virginia,,
+2020-11-03 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,Virginia,,
 2020-11-03 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Washington,,
 2020-11-03 23:59:59,,20201103,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,Washington,,False
 2020-11-03 23:59:59,,20201103,deadline,registration.in_person_by,Last day to register to vote in person,,Washington,,
@@ -1158,6 +1171,7 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-11-06 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Kansas,,True
 2020-11-06 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Massachusetts,,True
 2020-11-06 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,North Carolina,,True
+2020-11-06 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Virginia,,True
 2020-11-09 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Iowa,,False
 2020-11-09 23:59:59,,20201208,reminder,registration.received_by,Mail voter registration,,New Jersey,,True
 2020-11-10 23:59:59,,20201103,deadline,absentee.overseas_military.received_by,Last day for election officials to receive military and overseas ballots,,Alabama,,False

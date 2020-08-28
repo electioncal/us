@@ -1402,6 +1402,19 @@ DTSTART;VALUE=DATE:20201010
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
+  in Virginia
+DTSTART;VALUE=DATE:20201012
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Virginia
+DTSTART;VALUE=DATE:20201012
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Virginia
+DTSTART;VALUE=DATE:20201012
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
   in Kansas
 DTSTART;VALUE=DATE:20201013
 END:VEVENT
@@ -2093,6 +2106,14 @@ SUMMARY:Last day to register to vote in person in Vermont
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots in Virginia
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Virginia
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to drop off an absentee ballot in Washington
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
@@ -2170,6 +2191,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in Nor
  th Carolina
+DTSTART;VALUE=DATE:20201106
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Vir
+ ginia
 DTSTART;VALUE=DATE:20201106
 END:VEVENT
 BEGIN:VEVENT

@@ -1455,6 +1455,15 @@ DTSTART;VALUE=DATE:20201013
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
+  in Oregon
+DTSTART;VALUE=DATE:20201013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Oregon
+DTSTART;VALUE=DATE:20201013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
   in New York
 DTSTART;VALUE=DATE:20201014
 END:VEVENT
@@ -1992,6 +2001,15 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person in Oklahoma
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Ore
+ gon
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: in Oregon
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

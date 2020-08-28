@@ -10,17 +10,24 @@
     NOTE: This doesn't check valid hierarchy, only key names.
 """
 
-import  os
+import os
 import sys
 import tomlkit
 from election_schema import methods, deadlines
 
-# These keys are not specifed in election_schema, but they are also valid.
-all_valid_keys = ["date", "name", "original_date", "results", "sources", ]
+# These keys are not specified in election_schema, but they are also valid.
+all_valid_keys = [
+    "date",
+    "name",
+    "in_person_start",
+    "original_date",
+    "results",
+    "sources",
+]
 
 # Known invalid keys: These keys are not in-use yet, but we know about them
 # And they're fine.
-known_invalid_keys = ["in_person_start", "mailed_out", "email_by", "fax_by"]
+known_invalid_keys = ["mailed_out", "email_by", "fax_by"]
 
 # We need a flat list of keys.
 for method in methods:
@@ -33,8 +40,14 @@ for deadline in deadlines:
 # If these are found they will fail the CI. They include common typos and
 # auto-complete induced mistakes.
 key_denylist = [
-    "asbentee", "in_person_starts", "post_mark_by", "receive", "recieve_by",
-    "received_starts", "register", "source",
+    "asbentee",
+    "in_person_starts",
+    "post_mark_by",
+    "receive",
+    "recieve_by",
+    "received_starts",
+    "register",
+    "source",
 ]
 
 suspicious_keywords = []
@@ -50,20 +63,30 @@ for state in sorted(os.listdir("states/")):
         state_election = dict(state_elections[election])
         for state_election_key in state_election:
             if state_election_key in key_denylist:
-                denylist_errors.append(f"ERROR: states/{state}/elections.toml - {state_election_key} is a denied key")
+                denylist_errors.append(
+                    f"ERROR: states/{state}/elections.toml - {state_election_key} is a denied key"
+                )
             elif state_election_key not in all_valid_keys:
-                suspicious_keywords.append(f"WARNING: states/{state}/elections.toml - {state_election_key} is a suspicious key")
+                suspicious_keywords.append(
+                    f"WARNING: states/{state}/elections.toml - {state_election_key} is a suspicious key"
+                )
             if state_election_key in deadlines:
                 for state_election_event in state_election[state_election_key]:
                     if state_election_event in key_denylist:
-                        denylist_errors.append(f"ERROR: states/{state}/elections.toml - {state_election_event} is a denied key")
+                        denylist_errors.append(
+                            f"ERROR: states/{state}/elections.toml - {state_election_event} is a denied key"
+                        )
                     elif state_election_event not in all_valid_keys:
-                        suspicious_keywords.append(f"WARNING: states/{state}/elections.toml - {state_election_event} is a suspicious key")
+                        suspicious_keywords.append(
+                            f"WARNING: states/{state}/elections.toml - {state_election_event} is a suspicious key"
+                        )
 
 if suspicious_keywords:
     print(*suspicious_keywords, sep="\n")
 
-print(f"\nCompare warnings above{' and errors below' if denylist_errors else ''} to valid keys:\n{all_valid_keys}")
+print(
+    f"\nCompare warnings above{' and errors below' if denylist_errors else ''} to valid keys:\n{all_valid_keys}"
+)
 if len(known_invalid_keys) > 0:
     print(f"\nAs well as known acceptable invalid keys:\n{known_invalid_keys}\n")
 

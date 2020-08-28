@@ -1295,6 +1295,15 @@ SUMMARY:Last day to postmark voter registration form in Montana
 DTSTART;VALUE=DATE:20201005
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
+  in Ohio
+DTSTART;VALUE=DATE:20201005
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Ohio
+DTSTART;VALUE=DATE:20201005
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to postmark voter registration form in South Carolina
 DTSTART;VALUE=DATE:20201005
 END:VEVENT
@@ -1670,6 +1679,10 @@ SUMMARY:Last day to hand deliver an absentee applications in New York
 DTSTART;VALUE=DATE:20201102
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots in Ohio
+DTSTART;VALUE=DATE:20201102
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to postmark absentee ballots in Utah
 DTSTART;VALUE=DATE:20201102
 END:VEVENT
@@ -1965,6 +1978,14 @@ SUMMARY:Last day to postmark absentee ballots in North Carolina
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in Ohio
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Ohio
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in Okl
  ahoma
 DTSTART;VALUE=DATE:20201103
@@ -2161,6 +2182,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in Ala
  ska
+DTSTART;VALUE=DATE:20201113
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Ohi
+ o
 DTSTART;VALUE=DATE:20201113
 END:VEVENT
 BEGIN:VEVENT

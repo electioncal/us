@@ -1,2 +1,50 @@
 name = "Chester County"
 fips_code = 47023
+
+[[zipcodes]]
+zipcode = 38044
+percent_zip_in_county = 4.39
+
+[[zipcodes]]
+zipcode = 38313
+percent_zip_in_county = 19.76
+
+[[zipcodes]]
+zipcode = 38315
+percent_zip_in_county = 6.4
+
+[[zipcodes]]
+zipcode = 38332
+percent_zip_in_county = 90.71
+
+[[zipcodes]]
+zipcode = 38334
+percent_zip_in_county = 37.47
+
+[[zipcodes]]
+zipcode = 38340
+percent_zip_in_county = 97.82
+
+[[zipcodes]]
+zipcode = 38347
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38352
+percent_zip_in_county = 78.14
+
+[[zipcodes]]
+zipcode = 38356
+percent_zip_in_county = 8.57
+
+[[zipcodes]]
+zipcode = 38359
+percent_zip_in_county = 5.76
+
+[[zipcodes]]
+zipcode = 38366
+percent_zip_in_county = 21.84
+
+[[zipcodes]]
+zipcode = 38368
+percent_zip_in_county = 23.78

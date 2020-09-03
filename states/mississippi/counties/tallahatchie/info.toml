@@ -1,2 +1,70 @@
 name = "Tallahatchie County"
 fips_code = 28135
+
+[[zipcodes]]
+zipcode = 38643
+percent_zip_in_county = 0.31
+
+[[zipcodes]]
+zipcode = 38737
+percent_zip_in_county = 1.33
+
+[[zipcodes]]
+zipcode = 38901
+percent_zip_in_county = 0.37
+
+[[zipcodes]]
+zipcode = 38920
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38921
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38927
+percent_zip_in_county = 85.16
+
+[[zipcodes]]
+zipcode = 38928
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38940
+percent_zip_in_county = 15.51
+
+[[zipcodes]]
+zipcode = 38948
+percent_zip_in_county = 28.76
+
+[[zipcodes]]
+zipcode = 38950
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38953
+percent_zip_in_county = 45.24
+
+[[zipcodes]]
+zipcode = 38957
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38961
+percent_zip_in_county = 31.88
+
+[[zipcodes]]
+zipcode = 38962
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38963
+percent_zip_in_county = 96.19
+
+[[zipcodes]]
+zipcode = 38964
+percent_zip_in_county = 28.85
+
+[[zipcodes]]
+zipcode = 38966
+percent_zip_in_county = 100.0

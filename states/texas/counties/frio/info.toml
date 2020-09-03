@@ -1,2 +1,22 @@
 name = "Frio County"
 fips_code = 48163
+
+[[zipcodes]]
+zipcode = 78005
+percent_zip_in_county = 70.5
+
+[[zipcodes]]
+zipcode = 78017
+percent_zip_in_county = 99.1
+
+[[zipcodes]]
+zipcode = 78057
+percent_zip_in_county = 97.24
+
+[[zipcodes]]
+zipcode = 78061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78886
+percent_zip_in_county = 2.94

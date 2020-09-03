@@ -1,2 +1,62 @@
 name = "Andrew County"
 fips_code = 29003
+
+[[zipcodes]]
+zipcode = 64421
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64427
+percent_zip_in_county = 89.11
+
+[[zipcodes]]
+zipcode = 64430
+percent_zip_in_county = 8.64
+
+[[zipcodes]]
+zipcode = 64436
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64449
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64455
+percent_zip_in_county = 5.16
+
+[[zipcodes]]
+zipcode = 64457
+percent_zip_in_county = 7.9
+
+[[zipcodes]]
+zipcode = 64459
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64463
+percent_zip_in_county = 2.74
+
+[[zipcodes]]
+zipcode = 64480
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64483
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64485
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64494
+percent_zip_in_county = 30.65
+
+[[zipcodes]]
+zipcode = 64505
+percent_zip_in_county = 27.75
+
+[[zipcodes]]
+zipcode = 64506
+percent_zip_in_county = 3.47

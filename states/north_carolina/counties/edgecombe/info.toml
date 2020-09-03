@@ -1,2 +1,62 @@
 name = "Edgecombe County"
 fips_code = 37065
+
+[[zipcodes]]
+zipcode = 27801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27803
+percent_zip_in_county = 1.64
+
+[[zipcodes]]
+zipcode = 27809
+percent_zip_in_county = 42.07
+
+[[zipcodes]]
+zipcode = 27812
+percent_zip_in_county = 5.51
+
+[[zipcodes]]
+zipcode = 27819
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27822
+percent_zip_in_county = 6.9
+
+[[zipcodes]]
+zipcode = 27829
+percent_zip_in_county = 18.65
+
+[[zipcodes]]
+zipcode = 27834
+percent_zip_in_county = 0.08
+
+[[zipcodes]]
+zipcode = 27843
+percent_zip_in_county = 20.83
+
+[[zipcodes]]
+zipcode = 27852
+percent_zip_in_county = 85.79
+
+[[zipcodes]]
+zipcode = 27864
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27878
+percent_zip_in_county = 8.03
+
+[[zipcodes]]
+zipcode = 27881
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27886
+percent_zip_in_county = 98.43
+
+[[zipcodes]]
+zipcode = 27891
+percent_zip_in_county = 35.26

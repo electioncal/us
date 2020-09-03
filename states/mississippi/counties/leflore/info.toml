@@ -1,2 +1,50 @@
 name = "Leflore County"
 fips_code = 28083
+
+[[zipcodes]]
+zipcode = 38736
+percent_zip_in_county = 13.18
+
+[[zipcodes]]
+zipcode = 38761
+percent_zip_in_county = 1.32
+
+[[zipcodes]]
+zipcode = 38924
+percent_zip_in_county = 3.37
+
+[[zipcodes]]
+zipcode = 38930
+percent_zip_in_county = 94.85
+
+[[zipcodes]]
+zipcode = 38941
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38944
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38945
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38946
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38952
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38954
+percent_zip_in_county = 87.45
+
+[[zipcodes]]
+zipcode = 38958
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39038
+percent_zip_in_county = 0.7

@@ -1,2 +1,90 @@
 name = "Randolph County"
 fips_code = 37151
+
+[[zipcodes]]
+zipcode = 27203
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27205
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27208
+percent_zip_in_county = 34.31
+
+[[zipcodes]]
+zipcode = 27233
+percent_zip_in_county = 62.24
+
+[[zipcodes]]
+zipcode = 27239
+percent_zip_in_county = 26.6
+
+[[zipcodes]]
+zipcode = 27248
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27260
+percent_zip_in_county = 1.1
+
+[[zipcodes]]
+zipcode = 27263
+percent_zip_in_county = 67.94
+
+[[zipcodes]]
+zipcode = 27283
+percent_zip_in_county = 2.39
+
+[[zipcodes]]
+zipcode = 27292
+percent_zip_in_county = 0.15
+
+[[zipcodes]]
+zipcode = 27298
+percent_zip_in_county = 60.28
+
+[[zipcodes]]
+zipcode = 27313
+percent_zip_in_county = 32.95
+
+[[zipcodes]]
+zipcode = 27316
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27317
+percent_zip_in_county = 96.86
+
+[[zipcodes]]
+zipcode = 27325
+percent_zip_in_county = 0.57
+
+[[zipcodes]]
+zipcode = 27341
+percent_zip_in_county = 65.07
+
+[[zipcodes]]
+zipcode = 27344
+percent_zip_in_county = 1.6
+
+[[zipcodes]]
+zipcode = 27350
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27355
+percent_zip_in_county = 79.4
+
+[[zipcodes]]
+zipcode = 27360
+percent_zip_in_county = 7.68
+
+[[zipcodes]]
+zipcode = 27370
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27371
+percent_zip_in_county = 2.57

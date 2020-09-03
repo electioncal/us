@@ -1,2 +1,42 @@
 name = "Iberia Parish"
 fips_code = 22045
+
+[[zipcodes]]
+zipcode = 70513
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70518
+percent_zip_in_county = 7.16
+
+[[zipcodes]]
+zipcode = 70528
+percent_zip_in_county = 21.47
+
+[[zipcodes]]
+zipcode = 70533
+percent_zip_in_county = 1.33
+
+[[zipcodes]]
+zipcode = 70544
+percent_zip_in_county = 74.62
+
+[[zipcodes]]
+zipcode = 70552
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70560
+percent_zip_in_county = 98.47
+
+[[zipcodes]]
+zipcode = 70563
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70582
+percent_zip_in_county = 3.3
+
+[[zipcodes]]
+zipcode = 70592
+percent_zip_in_county = 3.0

@@ -1,2 +1,34 @@
 name = "Grant Parish"
 fips_code = 22043
+
+[[zipcodes]]
+zipcode = 71360
+percent_zip_in_county = 1.79
+
+[[zipcodes]]
+zipcode = 71404
+percent_zip_in_county = 33.88
+
+[[zipcodes]]
+zipcode = 71407
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71417
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71423
+percent_zip_in_county = 94.38
+
+[[zipcodes]]
+zipcode = 71432
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71454
+percent_zip_in_county = 88.13
+
+[[zipcodes]]
+zipcode = 71467
+percent_zip_in_county = 99.75

@@ -1,2 +1,46 @@
 name = "Coosa County"
 fips_code = 1037
+
+[[zipcodes]]
+zipcode = 35010
+percent_zip_in_county = 6.56
+
+[[zipcodes]]
+zipcode = 35046
+percent_zip_in_county = 1.1
+
+[[zipcodes]]
+zipcode = 35072
+percent_zip_in_county = 63.32
+
+[[zipcodes]]
+zipcode = 35089
+percent_zip_in_county = 67.16
+
+[[zipcodes]]
+zipcode = 35136
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35150
+percent_zip_in_county = 0.7
+
+[[zipcodes]]
+zipcode = 35151
+percent_zip_in_county = 24.71
+
+[[zipcodes]]
+zipcode = 35183
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36026
+percent_zip_in_county = 69.7
+
+[[zipcodes]]
+zipcode = 36080
+percent_zip_in_county = 0.35
+
+[[zipcodes]]
+zipcode = 36091
+percent_zip_in_county = 1.12

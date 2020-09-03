@@ -1,2 +1,6 @@
 name = "Manassas Park city"
 fips_code = 51685
+
+[[zipcodes]]
+zipcode = 20111
+percent_zip_in_county = 46.66

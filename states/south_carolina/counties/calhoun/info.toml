@@ -1,2 +1,30 @@
 name = "Calhoun County"
 fips_code = 45017
+
+[[zipcodes]]
+zipcode = 29030
+percent_zip_in_county = 74.38
+
+[[zipcodes]]
+zipcode = 29047
+percent_zip_in_county = 36.0
+
+[[zipcodes]]
+zipcode = 29053
+percent_zip_in_county = 5.7
+
+[[zipcodes]]
+zipcode = 29112
+percent_zip_in_county = 3.42
+
+[[zipcodes]]
+zipcode = 29118
+percent_zip_in_county = 3.53
+
+[[zipcodes]]
+zipcode = 29135
+percent_zip_in_county = 97.41
+
+[[zipcodes]]
+zipcode = 29160
+percent_zip_in_county = 23.05

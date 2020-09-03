@@ -1,2 +1,42 @@
 name = "Ford County"
 fips_code = 20057
+
+[[zipcodes]]
+zipcode = 67563
+percent_zip_in_county = 18.06
+
+[[zipcodes]]
+zipcode = 67801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67834
+percent_zip_in_county = 96.58
+
+[[zipcodes]]
+zipcode = 67841
+percent_zip_in_county = 15.04
+
+[[zipcodes]]
+zipcode = 67842
+percent_zip_in_county = 97.66
+
+[[zipcodes]]
+zipcode = 67843
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67844
+percent_zip_in_county = 6.15
+
+[[zipcodes]]
+zipcode = 67865
+percent_zip_in_county = 13.78
+
+[[zipcodes]]
+zipcode = 67876
+percent_zip_in_county = 95.85
+
+[[zipcodes]]
+zipcode = 67882
+percent_zip_in_county = 100.0

@@ -1,2 +1,18 @@
 name = "Stephens County"
 fips_code = 13257
+
+[[zipcodes]]
+zipcode = 30511
+percent_zip_in_county = 1.26
+
+[[zipcodes]]
+zipcode = 30538
+percent_zip_in_county = 96.78
+
+[[zipcodes]]
+zipcode = 30557
+percent_zip_in_county = 51.94
+
+[[zipcodes]]
+zipcode = 30577
+percent_zip_in_county = 93.52

@@ -1,2 +1,70 @@
 name = "Nobles County"
 fips_code = 27105
+
+[[zipcodes]]
+zipcode = 56110
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56117
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56119
+percent_zip_in_county = 83.28
+
+[[zipcodes]]
+zipcode = 56122
+percent_zip_in_county = 4.1
+
+[[zipcodes]]
+zipcode = 56128
+percent_zip_in_county = 3.98
+
+[[zipcodes]]
+zipcode = 56129
+percent_zip_in_county = 82.73
+
+[[zipcodes]]
+zipcode = 56131
+percent_zip_in_county = 20.15
+
+[[zipcodes]]
+zipcode = 56141
+percent_zip_in_county = 4.95
+
+[[zipcodes]]
+zipcode = 56147
+percent_zip_in_county = 19.27
+
+[[zipcodes]]
+zipcode = 56153
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56155
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56158
+percent_zip_in_county = 16.36
+
+[[zipcodes]]
+zipcode = 56165
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56167
+percent_zip_in_county = 65.51
+
+[[zipcodes]]
+zipcode = 56168
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56185
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56187
+percent_zip_in_county = 99.29

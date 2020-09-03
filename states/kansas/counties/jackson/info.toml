@@ -1,2 +1,66 @@
 name = "Jackson County"
 fips_code = 20085
+
+[[zipcodes]]
+zipcode = 66416
+percent_zip_in_county = 97.75
+
+[[zipcodes]]
+zipcode = 66418
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66419
+percent_zip_in_county = 89.59
+
+[[zipcodes]]
+zipcode = 66422
+percent_zip_in_county = 17.66
+
+[[zipcodes]]
+zipcode = 66432
+percent_zip_in_county = 9.09
+
+[[zipcodes]]
+zipcode = 66436
+percent_zip_in_county = 96.8
+
+[[zipcodes]]
+zipcode = 66439
+percent_zip_in_county = 0.47
+
+[[zipcodes]]
+zipcode = 66440
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66509
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66512
+percent_zip_in_county = 3.42
+
+[[zipcodes]]
+zipcode = 66516
+percent_zip_in_county = 80.16
+
+[[zipcodes]]
+zipcode = 66536
+percent_zip_in_county = 0.82
+
+[[zipcodes]]
+zipcode = 66540
+percent_zip_in_county = 93.15
+
+[[zipcodes]]
+zipcode = 66550
+percent_zip_in_county = 3.62
+
+[[zipcodes]]
+zipcode = 66552
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66617
+percent_zip_in_county = 0.29

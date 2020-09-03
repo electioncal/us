@@ -1,2 +1,34 @@
 name = "Scurry County"
 fips_code = 48415
+
+[[zipcodes]]
+zipcode = 79512
+percent_zip_in_county = 0.09
+
+[[zipcodes]]
+zipcode = 79517
+percent_zip_in_county = 65.5
+
+[[zipcodes]]
+zipcode = 79526
+percent_zip_in_county = 98.16
+
+[[zipcodes]]
+zipcode = 79527
+percent_zip_in_county = 81.67
+
+[[zipcodes]]
+zipcode = 79532
+percent_zip_in_county = 1.17
+
+[[zipcodes]]
+zipcode = 79545
+percent_zip_in_county = 1.4
+
+[[zipcodes]]
+zipcode = 79546
+percent_zip_in_county = 0.2
+
+[[zipcodes]]
+zipcode = 79549
+percent_zip_in_county = 99.52

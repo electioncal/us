@@ -1,2 +1,54 @@
 name = "Pettis County"
 fips_code = 29159
+
+[[zipcodes]]
+zipcode = 65301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65332
+percent_zip_in_county = 99.33
+
+[[zipcodes]]
+zipcode = 65333
+percent_zip_in_county = 84.85
+
+[[zipcodes]]
+zipcode = 65334
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65335
+percent_zip_in_county = 33.16
+
+[[zipcodes]]
+zipcode = 65336
+percent_zip_in_county = 1.07
+
+[[zipcodes]]
+zipcode = 65337
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65340
+percent_zip_in_county = 0.45
+
+[[zipcodes]]
+zipcode = 65345
+percent_zip_in_county = 51.68
+
+[[zipcodes]]
+zipcode = 65347
+percent_zip_in_county = 10.28
+
+[[zipcodes]]
+zipcode = 65350
+percent_zip_in_county = 92.92
+
+[[zipcodes]]
+zipcode = 65351
+percent_zip_in_county = 6.22
+
+[[zipcodes]]
+zipcode = 65360
+percent_zip_in_county = 10.42

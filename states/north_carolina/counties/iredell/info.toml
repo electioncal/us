@@ -1,2 +1,66 @@
 name = "Iredell County"
 fips_code = 37097
+
+[[zipcodes]]
+zipcode = 27013
+percent_zip_in_county = 28.91
+
+[[zipcodes]]
+zipcode = 27020
+percent_zip_in_county = 6.7
+
+[[zipcodes]]
+zipcode = 27028
+percent_zip_in_county = 0.17
+
+[[zipcodes]]
+zipcode = 27055
+percent_zip_in_county = 0.37
+
+[[zipcodes]]
+zipcode = 28036
+percent_zip_in_county = 2.83
+
+[[zipcodes]]
+zipcode = 28115
+percent_zip_in_county = 93.22
+
+[[zipcodes]]
+zipcode = 28117
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28125
+percent_zip_in_county = 20.44
+
+[[zipcodes]]
+zipcode = 28166
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28625
+percent_zip_in_county = 99.77
+
+[[zipcodes]]
+zipcode = 28634
+percent_zip_in_county = 91.94
+
+[[zipcodes]]
+zipcode = 28636
+percent_zip_in_county = 4.15
+
+[[zipcodes]]
+zipcode = 28660
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28677
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28678
+percent_zip_in_county = 47.19
+
+[[zipcodes]]
+zipcode = 28689
+percent_zip_in_county = 78.8

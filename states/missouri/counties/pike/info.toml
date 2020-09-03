@@ -1,2 +1,50 @@
 name = "Pike County"
 fips_code = 29163
+
+[[zipcodes]]
+zipcode = 63330
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63334
+percent_zip_in_county = 99.04
+
+[[zipcodes]]
+zipcode = 63336
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63339
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63343
+percent_zip_in_county = 1.06
+
+[[zipcodes]]
+zipcode = 63344
+percent_zip_in_county = 69.75
+
+[[zipcodes]]
+zipcode = 63353
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63359
+percent_zip_in_county = 44.29
+
+[[zipcodes]]
+zipcode = 63382
+percent_zip_in_county = 1.27
+
+[[zipcodes]]
+zipcode = 63433
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63441
+percent_zip_in_county = 94.11
+
+[[zipcodes]]
+zipcode = 63459
+percent_zip_in_county = 1.28

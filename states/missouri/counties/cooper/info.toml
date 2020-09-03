@@ -1,2 +1,50 @@
 name = "Cooper County"
 fips_code = 29053
+
+[[zipcodes]]
+zipcode = 65018
+percent_zip_in_county = 2.09
+
+[[zipcodes]]
+zipcode = 65025
+percent_zip_in_county = 26.46
+
+[[zipcodes]]
+zipcode = 65068
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65081
+percent_zip_in_county = 2.14
+
+[[zipcodes]]
+zipcode = 65233
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65237
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65276
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65287
+percent_zip_in_county = 77.25
+
+[[zipcodes]]
+zipcode = 65322
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65347
+percent_zip_in_county = 7.49
+
+[[zipcodes]]
+zipcode = 65348
+percent_zip_in_county = 80.67
+
+[[zipcodes]]
+zipcode = 65354
+percent_zip_in_county = 7.8

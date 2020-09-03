@@ -1,2 +1,58 @@
 name = "Halifax County"
 fips_code = 51083
+
+[[zipcodes]]
+zipcode = 23962
+percent_zip_in_county = 30.3
+
+[[zipcodes]]
+zipcode = 24520
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24534
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24539
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24557
+percent_zip_in_county = 0.46
+
+[[zipcodes]]
+zipcode = 24558
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24565
+percent_zip_in_county = 7.21
+
+[[zipcodes]]
+zipcode = 24569
+percent_zip_in_county = 20.49
+
+[[zipcodes]]
+zipcode = 24577
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24589
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24592
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24594
+percent_zip_in_county = 30.89
+
+[[zipcodes]]
+zipcode = 24597
+percent_zip_in_county = 90.21
+
+[[zipcodes]]
+zipcode = 24598
+percent_zip_in_county = 98.29

@@ -1,2 +1,66 @@
 name = "Sampson County"
 fips_code = 37163
+
+[[zipcodes]]
+zipcode = 28318
+percent_zip_in_county = 83.62
+
+[[zipcodes]]
+zipcode = 28328
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28334
+percent_zip_in_county = 27.94
+
+[[zipcodes]]
+zipcode = 28341
+percent_zip_in_county = 46.25
+
+[[zipcodes]]
+zipcode = 28344
+percent_zip_in_county = 72.56
+
+[[zipcodes]]
+zipcode = 28365
+percent_zip_in_county = 1.38
+
+[[zipcodes]]
+zipcode = 28366
+percent_zip_in_county = 81.11
+
+[[zipcodes]]
+zipcode = 28382
+percent_zip_in_county = 88.29
+
+[[zipcodes]]
+zipcode = 28385
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28393
+percent_zip_in_county = 99.75
+
+[[zipcodes]]
+zipcode = 28441
+percent_zip_in_county = 66.85
+
+[[zipcodes]]
+zipcode = 28444
+percent_zip_in_county = 59.14
+
+[[zipcodes]]
+zipcode = 28447
+percent_zip_in_county = 42.34
+
+[[zipcodes]]
+zipcode = 28453
+percent_zip_in_county = 8.02
+
+[[zipcodes]]
+zipcode = 28458
+percent_zip_in_county = 15.27
+
+[[zipcodes]]
+zipcode = 28478
+percent_zip_in_county = 5.71

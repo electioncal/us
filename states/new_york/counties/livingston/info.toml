@@ -1,2 +1,110 @@
 name = "Livingston County"
 fips_code = 36051
+
+[[zipcodes]]
+zipcode = 14414
+percent_zip_in_county = 99.75
+
+[[zipcodes]]
+zipcode = 14423
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14435
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14437
+percent_zip_in_county = 92.78
+
+[[zipcodes]]
+zipcode = 14454
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14462
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14466
+percent_zip_in_county = 43.69
+
+[[zipcodes]]
+zipcode = 14471
+percent_zip_in_county = 0.11
+
+[[zipcodes]]
+zipcode = 14472
+percent_zip_in_county = 5.41
+
+[[zipcodes]]
+zipcode = 14480
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14481
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14482
+percent_zip_in_county = 1.4
+
+[[zipcodes]]
+zipcode = 14485
+percent_zip_in_county = 95.5
+
+[[zipcodes]]
+zipcode = 14486
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14487
+percent_zip_in_county = 93.99
+
+[[zipcodes]]
+zipcode = 14510
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14517
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14525
+percent_zip_in_county = 4.22
+
+[[zipcodes]]
+zipcode = 14533
+percent_zip_in_county = 99.4
+
+[[zipcodes]]
+zipcode = 14539
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14545
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14560
+percent_zip_in_county = 61.09
+
+[[zipcodes]]
+zipcode = 14572
+percent_zip_in_county = 18.62
+
+[[zipcodes]]
+zipcode = 14592
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14822
+percent_zip_in_county = 4.36
+
+[[zipcodes]]
+zipcode = 14836
+percent_zip_in_county = 79.29
+
+[[zipcodes]]
+zipcode = 14846
+percent_zip_in_county = 81.44

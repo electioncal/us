@@ -1,2 +1,62 @@
 name = "Lake County"
 fips_code = 30047
+
+[[zipcodes]]
+zipcode = 59821
+percent_zip_in_county = 74.25
+
+[[zipcodes]]
+zipcode = 59824
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59845
+percent_zip_in_county = 3.88
+
+[[zipcodes]]
+zipcode = 59855
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59860
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59863
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59864
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59865
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59910
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59911
+percent_zip_in_county = 34.4
+
+[[zipcodes]]
+zipcode = 59914
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59915
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59922
+percent_zip_in_county = 2.53
+
+[[zipcodes]]
+zipcode = 59929
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59931
+percent_zip_in_county = 100.0

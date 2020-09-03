@@ -1,2 +1,26 @@
 name = "Keweenaw County"
 fips_code = 26083
+
+[[zipcodes]]
+zipcode = 49805
+percent_zip_in_county = 97.02
+
+[[zipcodes]]
+zipcode = 49901
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49913
+percent_zip_in_county = 2.3
+
+[[zipcodes]]
+zipcode = 49918
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49945
+percent_zip_in_county = 2.9
+
+[[zipcodes]]
+zipcode = 49950
+percent_zip_in_county = 100.0

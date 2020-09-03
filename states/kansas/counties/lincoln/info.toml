@@ -1,2 +1,38 @@
 name = "Lincoln County"
 fips_code = 20105
+
+[[zipcodes]]
+zipcode = 67418
+percent_zip_in_county = 89.84
+
+[[zipcodes]]
+zipcode = 67423
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67439
+percent_zip_in_county = 0.16
+
+[[zipcodes]]
+zipcode = 67452
+percent_zip_in_county = 36.32
+
+[[zipcodes]]
+zipcode = 67455
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67481
+percent_zip_in_county = 98.64
+
+[[zipcodes]]
+zipcode = 67484
+percent_zip_in_county = 1.8
+
+[[zipcodes]]
+zipcode = 67490
+percent_zip_in_county = 2.37
+
+[[zipcodes]]
+zipcode = 67648
+percent_zip_in_county = 4.01

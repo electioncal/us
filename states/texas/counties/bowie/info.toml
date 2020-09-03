@@ -1,2 +1,42 @@
 name = "Bowie County"
 fips_code = 48037
+
+[[zipcodes]]
+zipcode = 75501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75503
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75554
+percent_zip_in_county = 14.34
+
+[[zipcodes]]
+zipcode = 75559
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75561
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75567
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75569
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75570
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75573
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75574
+percent_zip_in_county = 100.0

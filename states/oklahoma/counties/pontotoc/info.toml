@@ -1,2 +1,42 @@
 name = "Pontotoc County"
 fips_code = 40123
+
+[[zipcodes]]
+zipcode = 74572
+percent_zip_in_county = 7.87
+
+[[zipcodes]]
+zipcode = 74820
+percent_zip_in_county = 99.5
+
+[[zipcodes]]
+zipcode = 74825
+percent_zip_in_county = 74.47
+
+[[zipcodes]]
+zipcode = 74831
+percent_zip_in_county = 7.48
+
+[[zipcodes]]
+zipcode = 74842
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74843
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74844
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74865
+percent_zip_in_county = 90.47
+
+[[zipcodes]]
+zipcode = 74871
+percent_zip_in_county = 90.19
+
+[[zipcodes]]
+zipcode = 74872
+percent_zip_in_county = 14.38

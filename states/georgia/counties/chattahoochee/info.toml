@@ -1,2 +1,10 @@
 name = "Chattahoochee County"
 fips_code = 13053
+
+[[zipcodes]]
+zipcode = 31805
+percent_zip_in_county = 97.56
+
+[[zipcodes]]
+zipcode = 31905
+percent_zip_in_county = 50.82

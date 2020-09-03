@@ -1,2 +1,22 @@
 name = "Wilkes County"
 fips_code = 13317
+
+[[zipcodes]]
+zipcode = 30631
+percent_zip_in_county = 8.83
+
+[[zipcodes]]
+zipcode = 30660
+percent_zip_in_county = 78.59
+
+[[zipcodes]]
+zipcode = 30668
+percent_zip_in_county = 79.68
+
+[[zipcodes]]
+zipcode = 30673
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30817
+percent_zip_in_county = 0.92

@@ -1,2 +1,26 @@
 name = "Angelina County"
 fips_code = 48005
+
+[[zipcodes]]
+zipcode = 75901
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75904
+percent_zip_in_county = 99.95
+
+[[zipcodes]]
+zipcode = 75941
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75949
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75969
+percent_zip_in_county = 94.75
+
+[[zipcodes]]
+zipcode = 75980
+percent_zip_in_county = 97.53

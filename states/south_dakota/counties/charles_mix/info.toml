@@ -1,2 +1,38 @@
 name = "Charles Mix County"
 fips_code = 46023
+
+[[zipcodes]]
+zipcode = 57313
+percent_zip_in_county = 9.4
+
+[[zipcodes]]
+zipcode = 57329
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57330
+percent_zip_in_county = 23.68
+
+[[zipcodes]]
+zipcode = 57342
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57356
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57361
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57367
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57369
+percent_zip_in_county = 87.7
+
+[[zipcodes]]
+zipcode = 57380
+percent_zip_in_county = 100.0

@@ -1,2 +1,42 @@
 name = "Scott County"
 fips_code = 51169
+
+[[zipcodes]]
+zipcode = 24202
+percent_zip_in_county = 3.44
+
+[[zipcodes]]
+zipcode = 24221
+percent_zip_in_county = 42.0
+
+[[zipcodes]]
+zipcode = 24230
+percent_zip_in_county = 2.1
+
+[[zipcodes]]
+zipcode = 24244
+percent_zip_in_county = 83.31
+
+[[zipcodes]]
+zipcode = 24245
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24250
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24251
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24258
+percent_zip_in_county = 97.6
+
+[[zipcodes]]
+zipcode = 24271
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24290
+percent_zip_in_county = 100.0

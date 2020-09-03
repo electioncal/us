@@ -1,2 +1,58 @@
 name = "Spink County"
 fips_code = 46115
+
+[[zipcodes]]
+zipcode = 57258
+percent_zip_in_county = 27.79
+
+[[zipcodes]]
+zipcode = 57322
+percent_zip_in_county = 16.55
+
+[[zipcodes]]
+zipcode = 57348
+percent_zip_in_county = 31.12
+
+[[zipcodes]]
+zipcode = 57424
+percent_zip_in_county = 95.88
+
+[[zipcodes]]
+zipcode = 57429
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57434
+percent_zip_in_county = 49.29
+
+[[zipcodes]]
+zipcode = 57436
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57440
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57460
+percent_zip_in_county = 18.63
+
+[[zipcodes]]
+zipcode = 57461
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57465
+percent_zip_in_county = 73.58
+
+[[zipcodes]]
+zipcode = 57469
+percent_zip_in_county = 96.61
+
+[[zipcodes]]
+zipcode = 57476
+percent_zip_in_county = 87.26
+
+[[zipcodes]]
+zipcode = 57477
+percent_zip_in_county = 100.0

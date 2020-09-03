@@ -1,2 +1,34 @@
 name = "Henry County"
 fips_code = 47079
+
+[[zipcodes]]
+zipcode = 38201
+percent_zip_in_county = 6.09
+
+[[zipcodes]]
+zipcode = 38222
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38224
+percent_zip_in_county = 94.56
+
+[[zipcodes]]
+zipcode = 38231
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38236
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38242
+percent_zip_in_county = 99.33
+
+[[zipcodes]]
+zipcode = 38251
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38256
+percent_zip_in_county = 100.0

@@ -1,2 +1,26 @@
 name = "King William County"
 fips_code = 51101
+
+[[zipcodes]]
+zipcode = 23009
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23069
+percent_zip_in_county = 20.11
+
+[[zipcodes]]
+zipcode = 23086
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23106
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23177
+percent_zip_in_county = 17.21
+
+[[zipcodes]]
+zipcode = 23181
+percent_zip_in_county = 86.33

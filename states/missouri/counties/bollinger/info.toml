@@ -1,2 +1,54 @@
 name = "Bollinger County"
 fips_code = 29017
+
+[[zipcodes]]
+zipcode = 63655
+percent_zip_in_county = 29.15
+
+[[zipcodes]]
+zipcode = 63662
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63730
+percent_zip_in_county = 13.03
+
+[[zipcodes]]
+zipcode = 63750
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63751
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63760
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63764
+percent_zip_in_county = 96.84
+
+[[zipcodes]]
+zipcode = 63766
+percent_zip_in_county = 16.15
+
+[[zipcodes]]
+zipcode = 63781
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63782
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63785
+percent_zip_in_county = 2.9
+
+[[zipcodes]]
+zipcode = 63787
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63960
+percent_zip_in_county = 2.53

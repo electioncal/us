@@ -1,2 +1,54 @@
 name = "Abbeville County"
 fips_code = 45001
+
+[[zipcodes]]
+zipcode = 29620
+percent_zip_in_county = 99.79
+
+[[zipcodes]]
+zipcode = 29627
+percent_zip_in_county = 0.11
+
+[[zipcodes]]
+zipcode = 29628
+percent_zip_in_county = 98.7
+
+[[zipcodes]]
+zipcode = 29638
+percent_zip_in_county = 83.87
+
+[[zipcodes]]
+zipcode = 29639
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29646
+percent_zip_in_county = 0.49
+
+[[zipcodes]]
+zipcode = 29649
+percent_zip_in_county = 0.94
+
+[[zipcodes]]
+zipcode = 29653
+percent_zip_in_county = 2.74
+
+[[zipcodes]]
+zipcode = 29654
+percent_zip_in_county = 20.45
+
+[[zipcodes]]
+zipcode = 29655
+percent_zip_in_county = 27.13
+
+[[zipcodes]]
+zipcode = 29659
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29692
+percent_zip_in_county = 15.09
+
+[[zipcodes]]
+zipcode = 29819
+percent_zip_in_county = 2.76

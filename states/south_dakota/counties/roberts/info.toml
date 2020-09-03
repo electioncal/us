@@ -1,2 +1,58 @@
 name = "Roberts County"
 fips_code = 46109
+
+[[zipcodes]]
+zipcode = 56219
+percent_zip_in_county = 32.07
+
+[[zipcodes]]
+zipcode = 57216
+percent_zip_in_county = 25.57
+
+[[zipcodes]]
+zipcode = 57224
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57227
+percent_zip_in_county = 98.62
+
+[[zipcodes]]
+zipcode = 57252
+percent_zip_in_county = 0.6
+
+[[zipcodes]]
+zipcode = 57255
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57256
+percent_zip_in_county = 58.27
+
+[[zipcodes]]
+zipcode = 57257
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57260
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57262
+percent_zip_in_county = 96.92
+
+[[zipcodes]]
+zipcode = 57266
+percent_zip_in_county = 64.74
+
+[[zipcodes]]
+zipcode = 57270
+percent_zip_in_county = 2.88
+
+[[zipcodes]]
+zipcode = 57273
+percent_zip_in_county = 6.16
+
+[[zipcodes]]
+zipcode = 57279
+percent_zip_in_county = 100.0

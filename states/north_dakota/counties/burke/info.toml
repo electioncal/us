@@ -1,2 +1,38 @@
 name = "Burke County"
 fips_code = 38013
+
+[[zipcodes]]
+zipcode = 58721
+percent_zip_in_county = 97.16
+
+[[zipcodes]]
+zipcode = 58727
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58737
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58746
+percent_zip_in_county = 5.12
+
+[[zipcodes]]
+zipcode = 58752
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58755
+percent_zip_in_county = 10.85
+
+[[zipcodes]]
+zipcode = 58772
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58773
+percent_zip_in_county = 81.37
+
+[[zipcodes]]
+zipcode = 58784
+percent_zip_in_county = 0.82

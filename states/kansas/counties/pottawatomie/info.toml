@@ -1,2 +1,46 @@
 name = "Pottawatomie County"
 fips_code = 20149
+
+[[zipcodes]]
+zipcode = 66407
+percent_zip_in_county = 72.03
+
+[[zipcodes]]
+zipcode = 66422
+percent_zip_in_county = 82.34
+
+[[zipcodes]]
+zipcode = 66427
+percent_zip_in_county = 2.03
+
+[[zipcodes]]
+zipcode = 66432
+percent_zip_in_county = 90.91
+
+[[zipcodes]]
+zipcode = 66502
+percent_zip_in_county = 7.25
+
+[[zipcodes]]
+zipcode = 66520
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66521
+percent_zip_in_county = 96.21
+
+[[zipcodes]]
+zipcode = 66535
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66536
+percent_zip_in_county = 95.1
+
+[[zipcodes]]
+zipcode = 66547
+percent_zip_in_county = 95.19
+
+[[zipcodes]]
+zipcode = 66549
+percent_zip_in_county = 100.0

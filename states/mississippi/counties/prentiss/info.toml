@@ -1,2 +1,30 @@
 name = "Prentiss County"
 fips_code = 28117
+
+[[zipcodes]]
+zipcode = 38824
+percent_zip_in_county = 51.54
+
+[[zipcodes]]
+zipcode = 38829
+percent_zip_in_county = 97.92
+
+[[zipcodes]]
+zipcode = 38833
+percent_zip_in_county = 6.54
+
+[[zipcodes]]
+zipcode = 38856
+percent_zip_in_county = 49.89
+
+[[zipcodes]]
+zipcode = 38859
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38865
+percent_zip_in_county = 19.46
+
+[[zipcodes]]
+zipcode = 38873
+percent_zip_in_county = 7.76

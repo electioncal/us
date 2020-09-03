@@ -1,2 +1,122 @@
 name = "Shasta County"
 fips_code = 6089
+
+[[zipcodes]]
+zipcode = 96001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96008
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96011
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96013
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96016
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96017
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96019
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96022
+percent_zip_in_county = 47.69
+
+[[zipcodes]]
+zipcode = 96025
+percent_zip_in_county = 7.23
+
+[[zipcodes]]
+zipcode = 96028
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96047
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96056
+percent_zip_in_county = 58.89
+
+[[zipcodes]]
+zipcode = 96059
+percent_zip_in_county = 41.28
+
+[[zipcodes]]
+zipcode = 96062
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96065
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96069
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96071
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96073
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96075
+percent_zip_in_county = 5.42
+
+[[zipcodes]]
+zipcode = 96076
+percent_zip_in_county = 37.95
+
+[[zipcodes]]
+zipcode = 96084
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96087
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96088
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96096
+percent_zip_in_county = 100.0

@@ -1,2 +1,54 @@
 name = "Clay County"
 fips_code = 31035
+
+[[zipcodes]]
+zipcode = 68452
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68818
+percent_zip_in_county = 0.8
+
+[[zipcodes]]
+zipcode = 68901
+percent_zip_in_county = 0.1
+
+[[zipcodes]]
+zipcode = 68933
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68934
+percent_zip_in_county = 69.15
+
+[[zipcodes]]
+zipcode = 68935
+percent_zip_in_county = 84.67
+
+[[zipcodes]]
+zipcode = 68938
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68941
+percent_zip_in_county = 63.82
+
+[[zipcodes]]
+zipcode = 68944
+percent_zip_in_county = 95.84
+
+[[zipcodes]]
+zipcode = 68954
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68975
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68979
+percent_zip_in_county = 93.96
+
+[[zipcodes]]
+zipcode = 68980
+percent_zip_in_county = 72.16

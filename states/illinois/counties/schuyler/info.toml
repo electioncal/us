@@ -1,2 +1,50 @@
 name = "Schuyler County"
 fips_code = 17169
+
+[[zipcodes]]
+zipcode = 61440
+percent_zip_in_county = 5.48
+
+[[zipcodes]]
+zipcode = 61452
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61484
+percent_zip_in_county = 1.45
+
+[[zipcodes]]
+zipcode = 62311
+percent_zip_in_county = 9.88
+
+[[zipcodes]]
+zipcode = 62319
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62344
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62346
+percent_zip_in_county = 21.35
+
+[[zipcodes]]
+zipcode = 62353
+percent_zip_in_county = 0.04
+
+[[zipcodes]]
+zipcode = 62367
+percent_zip_in_county = 15.17
+
+[[zipcodes]]
+zipcode = 62624
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62639
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62681
+percent_zip_in_county = 100.0

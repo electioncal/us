@@ -1,2 +1,6 @@
 name = "Luquillo Municipio"
 fips_code = 72089
+
+[[zipcodes]]
+zipcode = 773
+percent_zip_in_county = 100.0

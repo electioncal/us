@@ -1,2 +1,22 @@
 name = "Concho County"
 fips_code = 48095
+
+[[zipcodes]]
+zipcode = 76837
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76858
+percent_zip_in_county = 13.39
+
+[[zipcodes]]
+zipcode = 76862
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76866
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76875
+percent_zip_in_county = 6.59

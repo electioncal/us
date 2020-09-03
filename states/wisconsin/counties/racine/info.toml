@@ -1,2 +1,66 @@
 name = "Racine County"
 fips_code = 55101
+
+[[zipcodes]]
+zipcode = 53105
+percent_zip_in_county = 68.04
+
+[[zipcodes]]
+zipcode = 53108
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53120
+percent_zip_in_county = 3.55
+
+[[zipcodes]]
+zipcode = 53126
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53139
+percent_zip_in_county = 83.69
+
+[[zipcodes]]
+zipcode = 53149
+percent_zip_in_county = 1.33
+
+[[zipcodes]]
+zipcode = 53150
+percent_zip_in_county = 1.5
+
+[[zipcodes]]
+zipcode = 53167
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53177
+percent_zip_in_county = 95.98
+
+[[zipcodes]]
+zipcode = 53182
+percent_zip_in_county = 92.11
+
+[[zipcodes]]
+zipcode = 53185
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53402
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53403
+percent_zip_in_county = 98.29
+
+[[zipcodes]]
+zipcode = 53404
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53405
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53406
+percent_zip_in_county = 100.0

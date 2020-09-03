@@ -1,2 +1,58 @@
 name = "Lafayette Parish"
 fips_code = 22055
+
+[[zipcodes]]
+zipcode = 70501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70503
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70506
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70507
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70508
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70517
+percent_zip_in_county = 2.23
+
+[[zipcodes]]
+zipcode = 70518
+percent_zip_in_county = 80.5
+
+[[zipcodes]]
+zipcode = 70520
+percent_zip_in_county = 98.35
+
+[[zipcodes]]
+zipcode = 70529
+percent_zip_in_county = 97.9
+
+[[zipcodes]]
+zipcode = 70555
+percent_zip_in_county = 3.64
+
+[[zipcodes]]
+zipcode = 70558
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70578
+percent_zip_in_county = 7.42
+
+[[zipcodes]]
+zipcode = 70583
+percent_zip_in_county = 94.42
+
+[[zipcodes]]
+zipcode = 70592
+percent_zip_in_county = 90.79

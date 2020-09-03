@@ -1,2 +1,18 @@
 name = "Huerfano County"
 fips_code = 8055
+
+[[zipcodes]]
+zipcode = 81040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81055
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81069
+percent_zip_in_county = 12.39
+
+[[zipcodes]]
+zipcode = 81089
+percent_zip_in_county = 100.0

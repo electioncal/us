@@ -1,2 +1,70 @@
 name = "Buchanan County"
 fips_code = 51027
+
+[[zipcodes]]
+zipcode = 24217
+percent_zip_in_county = 18.72
+
+[[zipcodes]]
+zipcode = 24239
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24256
+percent_zip_in_county = 19.22
+
+[[zipcodes]]
+zipcode = 24260
+percent_zip_in_county = 18.92
+
+[[zipcodes]]
+zipcode = 24603
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24607
+percent_zip_in_county = 80.09
+
+[[zipcodes]]
+zipcode = 24614
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24620
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24622
+percent_zip_in_county = 53.11
+
+[[zipcodes]]
+zipcode = 24628
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24631
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24634
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24639
+percent_zip_in_county = 34.73
+
+[[zipcodes]]
+zipcode = 24646
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24649
+percent_zip_in_county = 0.36
+
+[[zipcodes]]
+zipcode = 24656
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24657
+percent_zip_in_county = 100.0

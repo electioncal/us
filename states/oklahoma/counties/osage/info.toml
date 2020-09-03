@@ -1,2 +1,86 @@
 name = "Osage County"
 fips_code = 40113
+
+[[zipcodes]]
+zipcode = 74001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74003
+percent_zip_in_county = 12.13
+
+[[zipcodes]]
+zipcode = 74022
+percent_zip_in_county = 2.73
+
+[[zipcodes]]
+zipcode = 74035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74051
+percent_zip_in_county = 0.95
+
+[[zipcodes]]
+zipcode = 74054
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74056
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74060
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74063
+percent_zip_in_county = 17.21
+
+[[zipcodes]]
+zipcode = 74070
+percent_zip_in_county = 69.03
+
+[[zipcodes]]
+zipcode = 74073
+percent_zip_in_county = 41.79
+
+[[zipcodes]]
+zipcode = 74084
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74106
+percent_zip_in_county = 4.09
+
+[[zipcodes]]
+zipcode = 74126
+percent_zip_in_county = 9.46
+
+[[zipcodes]]
+zipcode = 74127
+percent_zip_in_county = 33.71
+
+[[zipcodes]]
+zipcode = 74604
+percent_zip_in_county = 22.5
+
+[[zipcodes]]
+zipcode = 74633
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74637
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74650
+percent_zip_in_county = 33.04
+
+[[zipcodes]]
+zipcode = 74652
+percent_zip_in_county = 97.66

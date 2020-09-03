@@ -1,2 +1,50 @@
 name = "Saluda County"
 fips_code = 45081
+
+[[zipcodes]]
+zipcode = 29006
+percent_zip_in_county = 28.41
+
+[[zipcodes]]
+zipcode = 29037
+percent_zip_in_county = 41.99
+
+[[zipcodes]]
+zipcode = 29070
+percent_zip_in_county = 14.23
+
+[[zipcodes]]
+zipcode = 29105
+percent_zip_in_county = 20.61
+
+[[zipcodes]]
+zipcode = 29127
+percent_zip_in_county = 4.33
+
+[[zipcodes]]
+zipcode = 29129
+percent_zip_in_county = 36.92
+
+[[zipcodes]]
+zipcode = 29138
+percent_zip_in_county = 98.33
+
+[[zipcodes]]
+zipcode = 29166
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29666
+percent_zip_in_county = 3.07
+
+[[zipcodes]]
+zipcode = 29824
+percent_zip_in_county = 0.56
+
+[[zipcodes]]
+zipcode = 29832
+percent_zip_in_county = 16.78
+
+[[zipcodes]]
+zipcode = 29848
+percent_zip_in_county = 5.19

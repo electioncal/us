@@ -1,2 +1,54 @@
 name = "Sarpy County"
 fips_code = 31153
+
+[[zipcodes]]
+zipcode = 68005
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68028
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68059
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68069
+percent_zip_in_county = 1.02
+
+[[zipcodes]]
+zipcode = 68113
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68123
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68128
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68133
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68136
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68138
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68147
+percent_zip_in_county = 98.02
+
+[[zipcodes]]
+zipcode = 68157
+percent_zip_in_county = 97.81

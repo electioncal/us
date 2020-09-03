@@ -1,2 +1,50 @@
 name = "Marion County"
 fips_code = 1093
+
+[[zipcodes]]
+zipcode = 35543
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35548
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35552
+percent_zip_in_county = 47.41
+
+[[zipcodes]]
+zipcode = 35554
+percent_zip_in_county = 6.16
+
+[[zipcodes]]
+zipcode = 35563
+percent_zip_in_county = 95.97
+
+[[zipcodes]]
+zipcode = 35564
+percent_zip_in_county = 98.35
+
+[[zipcodes]]
+zipcode = 35565
+percent_zip_in_county = 24.69
+
+[[zipcodes]]
+zipcode = 35570
+percent_zip_in_county = 99.93
+
+[[zipcodes]]
+zipcode = 35571
+percent_zip_in_county = 18.66
+
+[[zipcodes]]
+zipcode = 35581
+percent_zip_in_county = 12.15
+
+[[zipcodes]]
+zipcode = 35593
+percent_zip_in_county = 16.21
+
+[[zipcodes]]
+zipcode = 35594
+percent_zip_in_county = 69.0

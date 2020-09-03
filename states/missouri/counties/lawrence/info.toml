@@ -1,2 +1,86 @@
 name = "Lawrence County"
 fips_code = 29109
+
+[[zipcodes]]
+zipcode = 64748
+percent_zip_in_county = 2.21
+
+[[zipcodes]]
+zipcode = 64848
+percent_zip_in_county = 75.94
+
+[[zipcodes]]
+zipcode = 64862
+percent_zip_in_county = 5.15
+
+[[zipcodes]]
+zipcode = 64873
+percent_zip_in_county = 57.65
+
+[[zipcodes]]
+zipcode = 65604
+percent_zip_in_county = 29.85
+
+[[zipcodes]]
+zipcode = 65605
+percent_zip_in_county = 84.81
+
+[[zipcodes]]
+zipcode = 65610
+percent_zip_in_county = 1.79
+
+[[zipcodes]]
+zipcode = 65612
+percent_zip_in_county = 7.9
+
+[[zipcodes]]
+zipcode = 65646
+percent_zip_in_county = 25.12
+
+[[zipcodes]]
+zipcode = 65654
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65664
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65682
+percent_zip_in_county = 3.64
+
+[[zipcodes]]
+zipcode = 65705
+percent_zip_in_county = 91.45
+
+[[zipcodes]]
+zipcode = 65707
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65708
+percent_zip_in_county = 36.11
+
+[[zipcodes]]
+zipcode = 65712
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65723
+percent_zip_in_county = 75.87
+
+[[zipcodes]]
+zipcode = 65738
+percent_zip_in_county = 0.15
+
+[[zipcodes]]
+zipcode = 65752
+percent_zip_in_county = 11.57
+
+[[zipcodes]]
+zipcode = 65756
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65769
+percent_zip_in_county = 69.98

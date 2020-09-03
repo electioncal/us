@@ -1,2 +1,6 @@
 name = "Buena Vista city"
 fips_code = 51530
+
+[[zipcodes]]
+zipcode = 24416
+percent_zip_in_county = 75.51

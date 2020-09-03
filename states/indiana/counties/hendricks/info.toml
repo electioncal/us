@@ -1,2 +1,70 @@
 name = "Hendricks County"
 fips_code = 18063
+
+[[zipcodes]]
+zipcode = 46103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46112
+percent_zip_in_county = 99.87
+
+[[zipcodes]]
+zipcode = 46113
+percent_zip_in_county = 13.16
+
+[[zipcodes]]
+zipcode = 46118
+percent_zip_in_county = 98.34
+
+[[zipcodes]]
+zipcode = 46121
+percent_zip_in_county = 39.37
+
+[[zipcodes]]
+zipcode = 46122
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46123
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46147
+percent_zip_in_county = 7.2
+
+[[zipcodes]]
+zipcode = 46149
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46158
+percent_zip_in_county = 4.35
+
+[[zipcodes]]
+zipcode = 46165
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46167
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46168
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46180
+percent_zip_in_county = 65.66
+
+[[zipcodes]]
+zipcode = 46231
+percent_zip_in_county = 32.92
+
+[[zipcodes]]
+zipcode = 46234
+percent_zip_in_county = 43.45
+
+[[zipcodes]]
+zipcode = 46278
+percent_zip_in_county = 2.73

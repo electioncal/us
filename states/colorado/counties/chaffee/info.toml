@@ -1,2 +1,26 @@
 name = "Chaffee County"
 fips_code = 8015
+
+[[zipcodes]]
+zipcode = 80449
+percent_zip_in_county = 0.44
+
+[[zipcodes]]
+zipcode = 81201
+percent_zip_in_county = 98.89
+
+[[zipcodes]]
+zipcode = 81211
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81227
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81236
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81242
+percent_zip_in_county = 100.0

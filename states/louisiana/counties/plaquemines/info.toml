@@ -1,2 +1,34 @@
 name = "Plaquemines Parish"
 fips_code = 22075
+
+[[zipcodes]]
+zipcode = 70037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70038
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70050
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70082
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70083
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70091
+percent_zip_in_county = 100.0

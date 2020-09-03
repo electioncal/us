@@ -1,2 +1,102 @@
 name = "Madison County"
 fips_code = 1089
+
+[[zipcodes]]
+zipcode = 35739
+percent_zip_in_county = 37.06
+
+[[zipcodes]]
+zipcode = 35741
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35748
+percent_zip_in_county = 97.2
+
+[[zipcodes]]
+zipcode = 35749
+percent_zip_in_county = 84.59
+
+[[zipcodes]]
+zipcode = 35750
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35756
+percent_zip_in_county = 11.93
+
+[[zipcodes]]
+zipcode = 35757
+percent_zip_in_county = 97.62
+
+[[zipcodes]]
+zipcode = 35758
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35759
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35760
+percent_zip_in_county = 96.33
+
+[[zipcodes]]
+zipcode = 35761
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35763
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35773
+percent_zip_in_county = 83.35
+
+[[zipcodes]]
+zipcode = 35776
+percent_zip_in_county = 1.12
+
+[[zipcodes]]
+zipcode = 35801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35802
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35803
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35805
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35806
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35808
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35810
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35811
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35816
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35824
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35896
+percent_zip_in_county = 100.0

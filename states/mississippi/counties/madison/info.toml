@@ -1,2 +1,46 @@
 name = "Madison County"
 fips_code = 28089
+
+[[zipcodes]]
+zipcode = 39045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39051
+percent_zip_in_county = 0.62
+
+[[zipcodes]]
+zipcode = 39071
+percent_zip_in_county = 98.69
+
+[[zipcodes]]
+zipcode = 39079
+percent_zip_in_county = 0.34
+
+[[zipcodes]]
+zipcode = 39110
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39146
+percent_zip_in_county = 21.75
+
+[[zipcodes]]
+zipcode = 39157
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39174
+percent_zip_in_county = 79.3
+
+[[zipcodes]]
+zipcode = 39209
+percent_zip_in_county = 0.13
+
+[[zipcodes]]
+zipcode = 39213
+percent_zip_in_county = 0.25

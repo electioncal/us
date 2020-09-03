@@ -1,2 +1,22 @@
 name = "Alcorn County"
 fips_code = 28003
+
+[[zipcodes]]
+zipcode = 38683
+percent_zip_in_county = 33.71
+
+[[zipcodes]]
+zipcode = 38833
+percent_zip_in_county = 6.03
+
+[[zipcodes]]
+zipcode = 38834
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38846
+percent_zip_in_county = 85.73
+
+[[zipcodes]]
+zipcode = 38865
+percent_zip_in_county = 80.54

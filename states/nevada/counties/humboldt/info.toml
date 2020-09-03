@@ -1,2 +1,38 @@
 name = "Humboldt County"
 fips_code = 32013
+
+[[zipcodes]]
+zipcode = 89404
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89412
+percent_zip_in_county = 2.78
+
+[[zipcodes]]
+zipcode = 89414
+percent_zip_in_county = 86.82
+
+[[zipcodes]]
+zipcode = 89421
+percent_zip_in_county = 85.33
+
+[[zipcodes]]
+zipcode = 89425
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89426
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89438
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89445
+percent_zip_in_county = 92.47
+
+[[zipcodes]]
+zipcode = 89446
+percent_zip_in_county = 100.0

@@ -1,2 +1,30 @@
 name = "Carolina Municipio"
 fips_code = 72031
+
+[[zipcodes]]
+zipcode = 924
+percent_zip_in_county = 4.14
+
+[[zipcodes]]
+zipcode = 976
+percent_zip_in_county = 2.87
+
+[[zipcodes]]
+zipcode = 979
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 982
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 983
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 985
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 987
+percent_zip_in_county = 99.42

@@ -1,2 +1,126 @@
 name = "Passaic County"
 fips_code = 34031
+
+[[zipcodes]]
+zipcode = 7011
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7012
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7013
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7014
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7043
+percent_zip_in_county = 3.36
+
+[[zipcodes]]
+zipcode = 7055
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7110
+percent_zip_in_county = 0.26
+
+[[zipcodes]]
+zipcode = 7403
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7420
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7421
+percent_zip_in_county = 93.35
+
+[[zipcodes]]
+zipcode = 7424
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7435
+percent_zip_in_county = 56.67
+
+[[zipcodes]]
+zipcode = 7438
+percent_zip_in_county = 11.32
+
+[[zipcodes]]
+zipcode = 7442
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7456
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7460
+percent_zip_in_county = 3.24
+
+[[zipcodes]]
+zipcode = 7465
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7470
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7480
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7502
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7503
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7504
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7505
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7506
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7508
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7512
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7513
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7514
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7522
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7524
+percent_zip_in_county = 100.0

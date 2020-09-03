@@ -1,2 +1,54 @@
 name = "Guadalupe County"
 fips_code = 48187
+
+[[zipcodes]]
+zipcode = 78108
+percent_zip_in_county = 95.83
+
+[[zipcodes]]
+zipcode = 78121
+percent_zip_in_county = 9.16
+
+[[zipcodes]]
+zipcode = 78123
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78124
+percent_zip_in_county = 92.24
+
+[[zipcodes]]
+zipcode = 78130
+percent_zip_in_county = 28.59
+
+[[zipcodes]]
+zipcode = 78140
+percent_zip_in_county = 2.78
+
+[[zipcodes]]
+zipcode = 78154
+percent_zip_in_county = 80.89
+
+[[zipcodes]]
+zipcode = 78155
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78638
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78648
+percent_zip_in_county = 4.36
+
+[[zipcodes]]
+zipcode = 78655
+percent_zip_in_county = 24.9
+
+[[zipcodes]]
+zipcode = 78666
+percent_zip_in_county = 9.58
+
+[[zipcodes]]
+zipcode = 78670
+percent_zip_in_county = 100.0

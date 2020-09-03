@@ -1,2 +1,22 @@
 name = "Baker County"
 fips_code = 12003
+
+[[zipcodes]]
+zipcode = 32040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32063
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32087
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32234
+percent_zip_in_county = 3.6

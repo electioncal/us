@@ -1,2 +1,90 @@
 name = "Randolph County"
 fips_code = 54083
+
+[[zipcodes]]
+zipcode = 26224
+percent_zip_in_county = 81.9
+
+[[zipcodes]]
+zipcode = 26230
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26241
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26250
+percent_zip_in_county = 9.73
+
+[[zipcodes]]
+zipcode = 26253
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26254
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26257
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26259
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26263
+percent_zip_in_county = 62.97
+
+[[zipcodes]]
+zipcode = 26267
+percent_zip_in_county = 55.01
+
+[[zipcodes]]
+zipcode = 26268
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26270
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26273
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26276
+percent_zip_in_county = 80.06
+
+[[zipcodes]]
+zipcode = 26278
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26280
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26282
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26283
+percent_zip_in_county = 75.26
+
+[[zipcodes]]
+zipcode = 26285
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26293
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26294
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26296
+percent_zip_in_county = 100.0

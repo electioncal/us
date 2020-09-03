@@ -1,2 +1,82 @@
 name = "Calaveras County"
 fips_code = 6009
+
+[[zipcodes]]
+zipcode = 95222
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95223
+percent_zip_in_county = 97.38
+
+[[zipcodes]]
+zipcode = 95224
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95225
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95226
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95228
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95230
+percent_zip_in_county = 6.82
+
+[[zipcodes]]
+zipcode = 95232
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95233
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95245
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95246
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95247
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95248
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95249
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95250
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95251
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95252
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95254
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95255
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95257
+percent_zip_in_county = 100.0

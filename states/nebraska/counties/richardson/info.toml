@@ -1,2 +1,38 @@
 name = "Richardson County"
 fips_code = 31147
+
+[[zipcodes]]
+zipcode = 68337
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68345
+percent_zip_in_county = 8.55
+
+[[zipcodes]]
+zipcode = 68355
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68376
+percent_zip_in_county = 93.01
+
+[[zipcodes]]
+zipcode = 68431
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68433
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68437
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68442
+percent_zip_in_county = 88.82
+
+[[zipcodes]]
+zipcode = 68457
+percent_zip_in_county = 100.0

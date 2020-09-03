@@ -1,2 +1,30 @@
 name = "Perkins County"
 fips_code = 46105
+
+[[zipcodes]]
+zipcode = 57620
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57626
+percent_zip_in_county = 20.49
+
+[[zipcodes]]
+zipcode = 57638
+percent_zip_in_county = 85.94
+
+[[zipcodes]]
+zipcode = 57640
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57644
+percent_zip_in_county = 72.84
+
+[[zipcodes]]
+zipcode = 57649
+percent_zip_in_county = 81.11
+
+[[zipcodes]]
+zipcode = 57758
+percent_zip_in_county = 10.5

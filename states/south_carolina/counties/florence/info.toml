@@ -1,2 +1,50 @@
 name = "Florence County"
 fips_code = 45041
+
+[[zipcodes]]
+zipcode = 29114
+percent_zip_in_county = 74.2
+
+[[zipcodes]]
+zipcode = 29161
+percent_zip_in_county = 81.74
+
+[[zipcodes]]
+zipcode = 29501
+percent_zip_in_county = 92.06
+
+[[zipcodes]]
+zipcode = 29505
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29506
+percent_zip_in_county = 99.83
+
+[[zipcodes]]
+zipcode = 29530
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29541
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29554
+percent_zip_in_county = 1.26
+
+[[zipcodes]]
+zipcode = 29555
+percent_zip_in_county = 98.52
+
+[[zipcodes]]
+zipcode = 29560
+percent_zip_in_county = 82.07
+
+[[zipcodes]]
+zipcode = 29583
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29591
+percent_zip_in_county = 100.0

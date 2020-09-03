@@ -1,2 +1,38 @@
 name = "Putnam County"
 fips_code = 17155
+
+[[zipcodes]]
+zipcode = 61326
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61327
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61334
+percent_zip_in_county = 3.64
+
+[[zipcodes]]
+zipcode = 61335
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61336
+percent_zip_in_county = 78.66
+
+[[zipcodes]]
+zipcode = 61340
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61354
+percent_zip_in_county = 0.08
+
+[[zipcodes]]
+zipcode = 61363
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61560
+percent_zip_in_county = 98.81

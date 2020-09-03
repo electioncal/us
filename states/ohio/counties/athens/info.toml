@@ -1,2 +1,74 @@
 name = "Athens County"
 fips_code = 39009
+
+[[zipcodes]]
+zipcode = 43728
+percent_zip_in_county = 1.04
+
+[[zipcodes]]
+zipcode = 45701
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45710
+percent_zip_in_county = 62.93
+
+[[zipcodes]]
+zipcode = 45711
+percent_zip_in_county = 84.57
+
+[[zipcodes]]
+zipcode = 45716
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45719
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45723
+percent_zip_in_county = 86.9
+
+[[zipcodes]]
+zipcode = 45732
+percent_zip_in_county = 78.48
+
+[[zipcodes]]
+zipcode = 45735
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45740
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45742
+percent_zip_in_county = 2.65
+
+[[zipcodes]]
+zipcode = 45761
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45764
+percent_zip_in_county = 80.33
+
+[[zipcodes]]
+zipcode = 45766
+percent_zip_in_county = 95.15
+
+[[zipcodes]]
+zipcode = 45776
+percent_zip_in_county = 41.57
+
+[[zipcodes]]
+zipcode = 45778
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45780
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45782
+percent_zip_in_county = 100.0

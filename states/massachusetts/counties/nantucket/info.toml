@@ -1,2 +1,14 @@
 name = "Nantucket County"
 fips_code = 25019
+
+[[zipcodes]]
+zipcode = 2554
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2564
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2584
+percent_zip_in_county = 100.0

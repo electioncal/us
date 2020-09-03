@@ -1,2 +1,62 @@
 name = "White County"
 fips_code = 18181
+
+[[zipcodes]]
+zipcode = 46978
+percent_zip_in_county = 1.75
+
+[[zipcodes]]
+zipcode = 46985
+percent_zip_in_county = 2.57
+
+[[zipcodes]]
+zipcode = 46996
+percent_zip_in_county = 0.42
+
+[[zipcodes]]
+zipcode = 47906
+percent_zip_in_county = 0.09
+
+[[zipcodes]]
+zipcode = 47920
+percent_zip_in_county = 10.56
+
+[[zipcodes]]
+zipcode = 47923
+percent_zip_in_county = 89.27
+
+[[zipcodes]]
+zipcode = 47925
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47926
+percent_zip_in_county = 71.01
+
+[[zipcodes]]
+zipcode = 47929
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47950
+percent_zip_in_county = 92.65
+
+[[zipcodes]]
+zipcode = 47959
+percent_zip_in_county = 97.52
+
+[[zipcodes]]
+zipcode = 47960
+percent_zip_in_county = 86.11
+
+[[zipcodes]]
+zipcode = 47978
+percent_zip_in_county = 0.2
+
+[[zipcodes]]
+zipcode = 47980
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47995
+percent_zip_in_county = 98.22

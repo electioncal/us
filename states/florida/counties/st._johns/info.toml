@@ -1,2 +1,46 @@
 name = "St. Johns County"
 fips_code = 12109
+
+[[zipcodes]]
+zipcode = 32033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32080
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32081
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32082
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32084
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32086
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32092
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32095
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32145
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32224
+percent_zip_in_county = 0.11
+
+[[zipcodes]]
+zipcode = 32259
+percent_zip_in_county = 100.0

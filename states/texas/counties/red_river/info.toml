@@ -1,2 +1,30 @@
 name = "Red River County"
 fips_code = 48387
+
+[[zipcodes]]
+zipcode = 75412
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75417
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75426
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75435
+percent_zip_in_county = 15.02
+
+[[zipcodes]]
+zipcode = 75436
+percent_zip_in_county = 95.52
+
+[[zipcodes]]
+zipcode = 75550
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75554
+percent_zip_in_county = 85.66

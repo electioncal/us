@@ -1,2 +1,54 @@
 name = "Stoddard County"
 fips_code = 29207
+
+[[zipcodes]]
+zipcode = 63730
+percent_zip_in_county = 79.3
+
+[[zipcodes]]
+zipcode = 63735
+percent_zip_in_county = 94.81
+
+[[zipcodes]]
+zipcode = 63738
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63771
+percent_zip_in_county = 6.46
+
+[[zipcodes]]
+zipcode = 63801
+percent_zip_in_county = 0.23
+
+[[zipcodes]]
+zipcode = 63822
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63825
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63833
+percent_zip_in_county = 24.38
+
+[[zipcodes]]
+zipcode = 63841
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63846
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63870
+percent_zip_in_county = 11.12
+
+[[zipcodes]]
+zipcode = 63936
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63960
+percent_zip_in_county = 97.47

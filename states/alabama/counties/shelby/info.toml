@@ -1,2 +1,90 @@
 name = "Shelby County"
 fips_code = 1117
+
+[[zipcodes]]
+zipcode = 35007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35022
+percent_zip_in_county = 3.88
+
+[[zipcodes]]
+zipcode = 35035
+percent_zip_in_county = 1.27
+
+[[zipcodes]]
+zipcode = 35040
+percent_zip_in_county = 93.75
+
+[[zipcodes]]
+zipcode = 35043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35078
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35080
+percent_zip_in_county = 99.89
+
+[[zipcodes]]
+zipcode = 35094
+percent_zip_in_county = 8.37
+
+[[zipcodes]]
+zipcode = 35114
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35115
+percent_zip_in_county = 80.68
+
+[[zipcodes]]
+zipcode = 35124
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35143
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35147
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35176
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35178
+percent_zip_in_county = 77.21
+
+[[zipcodes]]
+zipcode = 35186
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35187
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35216
+percent_zip_in_county = 1.01
+
+[[zipcodes]]
+zipcode = 35242
+percent_zip_in_county = 88.26
+
+[[zipcodes]]
+zipcode = 35243
+percent_zip_in_county = 0.28
+
+[[zipcodes]]
+zipcode = 35244
+percent_zip_in_county = 43.08

@@ -1,2 +1,34 @@
 name = "Island County"
 fips_code = 53029
+
+[[zipcodes]]
+zipcode = 98236
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98239
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98249
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98253
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98260
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98277
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98278
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98282
+percent_zip_in_county = 100.0

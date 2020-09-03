@@ -1,2 +1,14 @@
 name = "Haskell County"
 fips_code = 20081
+
+[[zipcodes]]
+zipcode = 67837
+percent_zip_in_county = 38.32
+
+[[zipcodes]]
+zipcode = 67870
+percent_zip_in_county = 95.47
+
+[[zipcodes]]
+zipcode = 67877
+percent_zip_in_county = 98.67

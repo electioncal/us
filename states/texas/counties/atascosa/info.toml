@@ -1,2 +1,58 @@
 name = "Atascosa County"
 fips_code = 48013
+
+[[zipcodes]]
+zipcode = 78005
+percent_zip_in_county = 29.5
+
+[[zipcodes]]
+zipcode = 78008
+percent_zip_in_county = 93.62
+
+[[zipcodes]]
+zipcode = 78011
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78012
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78026
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78050
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78052
+percent_zip_in_county = 71.15
+
+[[zipcodes]]
+zipcode = 78064
+percent_zip_in_county = 99.45
+
+[[zipcodes]]
+zipcode = 78065
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78069
+percent_zip_in_county = 59.37
+
+[[zipcodes]]
+zipcode = 78073
+percent_zip_in_county = 13.78
+
+[[zipcodes]]
+zipcode = 78113
+percent_zip_in_county = 10.8
+
+[[zipcodes]]
+zipcode = 78114
+percent_zip_in_county = 0.69
+
+[[zipcodes]]
+zipcode = 78264
+percent_zip_in_county = 9.91

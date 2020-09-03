@@ -1,2 +1,38 @@
 name = "Frontier County"
 fips_code = 31063
+
+[[zipcodes]]
+zipcode = 69001
+percent_zip_in_county = 1.71
+
+[[zipcodes]]
+zipcode = 69022
+percent_zip_in_county = 10.38
+
+[[zipcodes]]
+zipcode = 69025
+percent_zip_in_county = 96.8
+
+[[zipcodes]]
+zipcode = 69028
+percent_zip_in_county = 82.35
+
+[[zipcodes]]
+zipcode = 69029
+percent_zip_in_county = 26.27
+
+[[zipcodes]]
+zipcode = 69034
+percent_zip_in_county = 3.41
+
+[[zipcodes]]
+zipcode = 69038
+percent_zip_in_county = 87.08
+
+[[zipcodes]]
+zipcode = 69039
+percent_zip_in_county = 76.98
+
+[[zipcodes]]
+zipcode = 69042
+percent_zip_in_county = 100.0

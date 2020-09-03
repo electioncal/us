@@ -1,2 +1,74 @@
 name = "Cedar County"
 fips_code = 19031
+
+[[zipcodes]]
+zipcode = 52216
+percent_zip_in_county = 98.04
+
+[[zipcodes]]
+zipcode = 52253
+percent_zip_in_county = 18.26
+
+[[zipcodes]]
+zipcode = 52255
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52306
+percent_zip_in_county = 91.33
+
+[[zipcodes]]
+zipcode = 52320
+percent_zip_in_county = 5.74
+
+[[zipcodes]]
+zipcode = 52323
+percent_zip_in_county = 2.54
+
+[[zipcodes]]
+zipcode = 52333
+percent_zip_in_county = 0.62
+
+[[zipcodes]]
+zipcode = 52337
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52358
+percent_zip_in_county = 92.39
+
+[[zipcodes]]
+zipcode = 52720
+percent_zip_in_county = 26.25
+
+[[zipcodes]]
+zipcode = 52721
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52747
+percent_zip_in_county = 90.17
+
+[[zipcodes]]
+zipcode = 52760
+percent_zip_in_county = 24.77
+
+[[zipcodes]]
+zipcode = 52765
+percent_zip_in_county = 14.35
+
+[[zipcodes]]
+zipcode = 52772
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52776
+percent_zip_in_county = 6.33
+
+[[zipcodes]]
+zipcode = 52777
+percent_zip_in_county = 1.92
+
+[[zipcodes]]
+zipcode = 52778
+percent_zip_in_county = 19.66

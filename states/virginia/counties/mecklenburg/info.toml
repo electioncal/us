@@ -1,2 +1,54 @@
 name = "Mecklenburg County"
 fips_code = 51117
+
+[[zipcodes]]
+zipcode = 23915
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23917
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23919
+percent_zip_in_county = 95.87
+
+[[zipcodes]]
+zipcode = 23920
+percent_zip_in_county = 22.84
+
+[[zipcodes]]
+zipcode = 23924
+percent_zip_in_county = 94.98
+
+[[zipcodes]]
+zipcode = 23927
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23950
+percent_zip_in_county = 91.28
+
+[[zipcodes]]
+zipcode = 23964
+percent_zip_in_county = 8.52
+
+[[zipcodes]]
+zipcode = 23968
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23970
+percent_zip_in_county = 94.61
+
+[[zipcodes]]
+zipcode = 24529
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24580
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24598
+percent_zip_in_county = 1.71

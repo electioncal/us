@@ -1,2 +1,38 @@
 name = "Shannon County"
 fips_code = 29203
+
+[[zipcodes]]
+zipcode = 63629
+percent_zip_in_county = 13.01
+
+[[zipcodes]]
+zipcode = 63638
+percent_zip_in_county = 1.16
+
+[[zipcodes]]
+zipcode = 65438
+percent_zip_in_county = 85.47
+
+[[zipcodes]]
+zipcode = 65466
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65479
+percent_zip_in_county = 49.43
+
+[[zipcodes]]
+zipcode = 65548
+percent_zip_in_county = 6.89
+
+[[zipcodes]]
+zipcode = 65560
+percent_zip_in_county = 1.44
+
+[[zipcodes]]
+zipcode = 65571
+percent_zip_in_county = 26.9
+
+[[zipcodes]]
+zipcode = 65588
+percent_zip_in_county = 98.84

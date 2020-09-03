@@ -1,2 +1,38 @@
 name = "Burke County"
 fips_code = 13033
+
+[[zipcodes]]
+zipcode = 30426
+percent_zip_in_county = 91.91
+
+[[zipcodes]]
+zipcode = 30434
+percent_zip_in_county = 5.41
+
+[[zipcodes]]
+zipcode = 30441
+percent_zip_in_county = 35.6
+
+[[zipcodes]]
+zipcode = 30442
+percent_zip_in_county = 3.53
+
+[[zipcodes]]
+zipcode = 30456
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30805
+percent_zip_in_county = 29.19
+
+[[zipcodes]]
+zipcode = 30815
+percent_zip_in_county = 6.15
+
+[[zipcodes]]
+zipcode = 30816
+percent_zip_in_county = 85.87
+
+[[zipcodes]]
+zipcode = 30830
+percent_zip_in_county = 100.0

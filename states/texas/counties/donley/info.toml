@@ -1,2 +1,26 @@
 name = "Donley County"
 fips_code = 48129
+
+[[zipcodes]]
+zipcode = 79039
+percent_zip_in_county = 0.64
+
+[[zipcodes]]
+zipcode = 79057
+percent_zip_in_county = 3.65
+
+[[zipcodes]]
+zipcode = 79226
+percent_zip_in_county = 96.19
+
+[[zipcodes]]
+zipcode = 79237
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79240
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79245
+percent_zip_in_county = 0.89

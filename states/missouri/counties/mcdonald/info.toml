@@ -1,2 +1,58 @@
 name = "McDonald County"
 fips_code = 29119
+
+[[zipcodes]]
+zipcode = 64831
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64843
+percent_zip_in_county = 89.29
+
+[[zipcodes]]
+zipcode = 64847
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64850
+percent_zip_in_county = 0.42
+
+[[zipcodes]]
+zipcode = 64854
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64856
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64861
+percent_zip_in_county = 95.25
+
+[[zipcodes]]
+zipcode = 64863
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64865
+percent_zip_in_county = 8.29
+
+[[zipcodes]]
+zipcode = 64867
+percent_zip_in_county = 57.85
+
+[[zipcodes]]
+zipcode = 65647
+percent_zip_in_county = 1.49
+
+[[zipcodes]]
+zipcode = 65730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65745
+percent_zip_in_county = 15.48
+
+[[zipcodes]]
+zipcode = 65772
+percent_zip_in_county = 18.81

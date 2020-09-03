@@ -1,2 +1,42 @@
 name = "Bond County"
 fips_code = 17005
+
+[[zipcodes]]
+zipcode = 62019
+percent_zip_in_county = 34.9
+
+[[zipcodes]]
+zipcode = 62074
+percent_zip_in_county = 12.14
+
+[[zipcodes]]
+zipcode = 62077
+percent_zip_in_county = 40.63
+
+[[zipcodes]]
+zipcode = 62086
+percent_zip_in_county = 91.93
+
+[[zipcodes]]
+zipcode = 62246
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62253
+percent_zip_in_county = 59.77
+
+[[zipcodes]]
+zipcode = 62262
+percent_zip_in_county = 78.67
+
+[[zipcodes]]
+zipcode = 62273
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62275
+percent_zip_in_county = 75.84
+
+[[zipcodes]]
+zipcode = 62284
+percent_zip_in_county = 100.0

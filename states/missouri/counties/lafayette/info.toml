@@ -1,2 +1,70 @@
 name = "Lafayette County"
 fips_code = 29107
+
+[[zipcodes]]
+zipcode = 64001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64011
+percent_zip_in_county = 86.22
+
+[[zipcodes]]
+zipcode = 64017
+percent_zip_in_county = 3.23
+
+[[zipcodes]]
+zipcode = 64020
+percent_zip_in_county = 93.15
+
+[[zipcodes]]
+zipcode = 64021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64071
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64074
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64075
+percent_zip_in_county = 5.32
+
+[[zipcodes]]
+zipcode = 64076
+percent_zip_in_county = 95.51
+
+[[zipcodes]]
+zipcode = 64093
+percent_zip_in_county = 0.07
+
+[[zipcodes]]
+zipcode = 64096
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64097
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65321
+percent_zip_in_county = 9.35
+
+[[zipcodes]]
+zipcode = 65327
+percent_zip_in_county = 43.17

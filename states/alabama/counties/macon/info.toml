@@ -1,2 +1,50 @@
 name = "Macon County"
 fips_code = 1087
+
+[[zipcodes]]
+zipcode = 36029
+percent_zip_in_county = 20.89
+
+[[zipcodes]]
+zipcode = 36031
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36075
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36083
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36088
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36089
+percent_zip_in_county = 4.78
+
+[[zipcodes]]
+zipcode = 36804
+percent_zip_in_county = 0.85
+
+[[zipcodes]]
+zipcode = 36830
+percent_zip_in_county = 2.22
+
+[[zipcodes]]
+zipcode = 36832
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 36860
+percent_zip_in_county = 11.14
+
+[[zipcodes]]
+zipcode = 36866
+percent_zip_in_county = 72.31

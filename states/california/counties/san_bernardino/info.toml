@@ -1,2 +1,382 @@
 name = "San Bernardino County"
 fips_code = 6071
+
+[[zipcodes]]
+zipcode = 89019
+percent_zip_in_county = 2.58
+
+[[zipcodes]]
+zipcode = 91701
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 91708
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 91709
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 91710
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 91730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 91737
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 91739
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 91759
+percent_zip_in_county = 86.13
+
+[[zipcodes]]
+zipcode = 91761
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 91762
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 91763
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 91764
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 91766
+percent_zip_in_county = 6.56
+
+[[zipcodes]]
+zipcode = 91784
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 91786
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92242
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92252
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92256
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92267
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92268
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92277
+percent_zip_in_county = 99.97
+
+[[zipcodes]]
+zipcode = 92278
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92280
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92284
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92285
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92304
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92305
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92307
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92308
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92309
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92310
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92311
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92313
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92314
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92315
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92316
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92321
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92322
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92324
+percent_zip_in_county = 98.43
+
+[[zipcodes]]
+zipcode = 92325
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92327
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92332
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92333
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92335
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92336
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92337
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92338
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92339
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92341
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92342
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92344
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92345
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92346
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92347
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92352
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92354
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92356
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92358
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92359
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92363
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92364
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92365
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92368
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92371
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92372
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92373
+percent_zip_in_county = 98.63
+
+[[zipcodes]]
+zipcode = 92374
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92376
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92377
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92378
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92382
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92385
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92386
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92391
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92392
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92394
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92395
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92397
+percent_zip_in_county = 98.55
+
+[[zipcodes]]
+zipcode = 92398
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92399
+percent_zip_in_county = 98.76
+
+[[zipcodes]]
+zipcode = 92401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92404
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92405
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92407
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92408
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92410
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92411
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92509
+percent_zip_in_county = 0.02
+
+[[zipcodes]]
+zipcode = 92880
+percent_zip_in_county = 0.06
+
+[[zipcodes]]
+zipcode = 93516
+percent_zip_in_county = 2.0
+
+[[zipcodes]]
+zipcode = 93555
+percent_zip_in_county = 0.69
+
+[[zipcodes]]
+zipcode = 93558
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93562
+percent_zip_in_county = 100.0

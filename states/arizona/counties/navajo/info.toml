@@ -1,2 +1,130 @@
 name = "Navajo County"
 fips_code = 4017
+
+[[zipcodes]]
+zipcode = 84536
+percent_zip_in_county = 19.26
+
+[[zipcodes]]
+zipcode = 85901
+percent_zip_in_county = 96.74
+
+[[zipcodes]]
+zipcode = 85911
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85912
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85923
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85926
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85928
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85929
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85930
+percent_zip_in_county = 51.2
+
+[[zipcodes]]
+zipcode = 85933
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85934
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85935
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85937
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85939
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85941
+percent_zip_in_county = 82.87
+
+[[zipcodes]]
+zipcode = 85942
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86029
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86030
+percent_zip_in_county = 99.78
+
+[[zipcodes]]
+zipcode = 86031
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86033
+percent_zip_in_county = 97.57
+
+[[zipcodes]]
+zipcode = 86034
+percent_zip_in_county = 83.84
+
+[[zipcodes]]
+zipcode = 86039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86042
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86044
+percent_zip_in_county = 12.47
+
+[[zipcodes]]
+zipcode = 86047
+percent_zip_in_county = 94.16
+
+[[zipcodes]]
+zipcode = 86054
+percent_zip_in_county = 94.37
+
+[[zipcodes]]
+zipcode = 86505
+percent_zip_in_county = 15.7
+
+[[zipcodes]]
+zipcode = 86510
+percent_zip_in_county = 99.7
+
+[[zipcodes]]
+zipcode = 86520
+percent_zip_in_county = 35.81

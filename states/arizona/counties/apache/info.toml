@@ -1,2 +1,146 @@
 name = "Apache County"
 fips_code = 4001
+
+[[zipcodes]]
+zipcode = 84531
+percent_zip_in_county = 3.12
+
+[[zipcodes]]
+zipcode = 85901
+percent_zip_in_county = 3.26
+
+[[zipcodes]]
+zipcode = 85920
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85924
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85925
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85927
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85930
+percent_zip_in_county = 48.8
+
+[[zipcodes]]
+zipcode = 85932
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85936
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85938
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85940
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85941
+percent_zip_in_county = 0.25
+
+[[zipcodes]]
+zipcode = 86028
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86033
+percent_zip_in_county = 2.43
+
+[[zipcodes]]
+zipcode = 86034
+percent_zip_in_county = 16.16
+
+[[zipcodes]]
+zipcode = 86502
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86503
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86504
+percent_zip_in_county = 88.56
+
+[[zipcodes]]
+zipcode = 86505
+percent_zip_in_county = 84.3
+
+[[zipcodes]]
+zipcode = 86506
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86507
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86508
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86510
+percent_zip_in_county = 0.3
+
+[[zipcodes]]
+zipcode = 86511
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86512
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86514
+percent_zip_in_county = 90.77
+
+[[zipcodes]]
+zipcode = 86515
+percent_zip_in_county = 64.61
+
+[[zipcodes]]
+zipcode = 86520
+percent_zip_in_county = 64.19
+
+[[zipcodes]]
+zipcode = 86535
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86538
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86540
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86544
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86545
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86547
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86556
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87328
+percent_zip_in_county = 6.93

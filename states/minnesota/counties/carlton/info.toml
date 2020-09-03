@@ -1,2 +1,62 @@
 name = "Carlton County"
 fips_code = 27017
+
+[[zipcodes]]
+zipcode = 55707
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55718
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55720
+percent_zip_in_county = 87.78
+
+[[zipcodes]]
+zipcode = 55726
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55733
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55749
+percent_zip_in_county = 69.71
+
+[[zipcodes]]
+zipcode = 55756
+percent_zip_in_county = 4.87
+
+[[zipcodes]]
+zipcode = 55757
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55767
+percent_zip_in_county = 93.34
+
+[[zipcodes]]
+zipcode = 55780
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55783
+percent_zip_in_county = 2.79
+
+[[zipcodes]]
+zipcode = 55787
+percent_zip_in_county = 17.71
+
+[[zipcodes]]
+zipcode = 55797
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55798
+percent_zip_in_county = 89.5
+
+[[zipcodes]]
+zipcode = 55810
+percent_zip_in_county = 3.67

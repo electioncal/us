@@ -1,2 +1,42 @@
 name = "Deuel County"
 fips_code = 46039
+
+[[zipcodes]]
+zipcode = 57213
+percent_zip_in_county = 56.29
+
+[[zipcodes]]
+zipcode = 57218
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57223
+percent_zip_in_county = 0.52
+
+[[zipcodes]]
+zipcode = 57226
+percent_zip_in_county = 97.73
+
+[[zipcodes]]
+zipcode = 57234
+percent_zip_in_county = 11.38
+
+[[zipcodes]]
+zipcode = 57237
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57238
+percent_zip_in_county = 72.67
+
+[[zipcodes]]
+zipcode = 57259
+percent_zip_in_county = 25.74
+
+[[zipcodes]]
+zipcode = 57265
+percent_zip_in_county = 18.67
+
+[[zipcodes]]
+zipcode = 57268
+percent_zip_in_county = 90.07

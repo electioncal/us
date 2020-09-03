@@ -1,2 +1,18 @@
 name = "Florence County"
 fips_code = 55037
+
+[[zipcodes]]
+zipcode = 54120
+percent_zip_in_county = 63.67
+
+[[zipcodes]]
+zipcode = 54121
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54151
+percent_zip_in_county = 27.67
+
+[[zipcodes]]
+zipcode = 54542
+percent_zip_in_county = 64.04

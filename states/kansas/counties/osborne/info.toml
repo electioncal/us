@@ -1,2 +1,42 @@
 name = "Osborne County"
 fips_code = 20141
+
+[[zipcodes]]
+zipcode = 67437
+percent_zip_in_county = 93.88
+
+[[zipcodes]]
+zipcode = 67473
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67474
+percent_zip_in_county = 77.23
+
+[[zipcodes]]
+zipcode = 67485
+percent_zip_in_county = 15.04
+
+[[zipcodes]]
+zipcode = 67623
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67648
+percent_zip_in_county = 8.74
+
+[[zipcodes]]
+zipcode = 67649
+percent_zip_in_county = 11.11
+
+[[zipcodes]]
+zipcode = 67651
+percent_zip_in_county = 77.32
+
+[[zipcodes]]
+zipcode = 67658
+percent_zip_in_county = 13.33
+
+[[zipcodes]]
+zipcode = 67673
+percent_zip_in_county = 52.78

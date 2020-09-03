@@ -1,2 +1,18 @@
 name = "Glacier County"
 fips_code = 30035
+
+[[zipcodes]]
+zipcode = 59411
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59417
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59427
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59434
+percent_zip_in_county = 100.0

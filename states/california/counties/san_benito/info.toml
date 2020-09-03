@@ -1,2 +1,30 @@
 name = "San Benito County"
 fips_code = 6069
+
+[[zipcodes]]
+zipcode = 93210
+percent_zip_in_county = 0.04
+
+[[zipcodes]]
+zipcode = 93930
+percent_zip_in_county = 0.33
+
+[[zipcodes]]
+zipcode = 95004
+percent_zip_in_county = 39.25
+
+[[zipcodes]]
+zipcode = 95023
+percent_zip_in_county = 99.62
+
+[[zipcodes]]
+zipcode = 95043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95075
+percent_zip_in_county = 100.0

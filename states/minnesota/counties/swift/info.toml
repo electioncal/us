@@ -1,2 +1,46 @@
 name = "Swift County"
 fips_code = 27151
+
+[[zipcodes]]
+zipcode = 56207
+percent_zip_in_county = 2.79
+
+[[zipcodes]]
+zipcode = 56208
+percent_zip_in_county = 97.05
+
+[[zipcodes]]
+zipcode = 56215
+percent_zip_in_county = 98.19
+
+[[zipcodes]]
+zipcode = 56226
+percent_zip_in_county = 72.44
+
+[[zipcodes]]
+zipcode = 56231
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56244
+percent_zip_in_county = 1.47
+
+[[zipcodes]]
+zipcode = 56249
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56252
+percent_zip_in_county = 86.75
+
+[[zipcodes]]
+zipcode = 56262
+percent_zip_in_county = 8.01
+
+[[zipcodes]]
+zipcode = 56271
+percent_zip_in_county = 89.97
+
+[[zipcodes]]
+zipcode = 56289
+percent_zip_in_county = 9.94

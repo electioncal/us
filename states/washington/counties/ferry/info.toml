@@ -1,2 +1,42 @@
 name = "Ferry County"
 fips_code = 53019
+
+[[zipcodes]]
+zipcode = 99118
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99121
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99138
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99140
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99141
+percent_zip_in_county = 19.54
+
+[[zipcodes]]
+zipcode = 99146
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99150
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99155
+percent_zip_in_county = 1.26
+
+[[zipcodes]]
+zipcode = 99160
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99166
+percent_zip_in_county = 98.23

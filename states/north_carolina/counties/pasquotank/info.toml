@@ -1,2 +1,6 @@
 name = "Pasquotank County"
 fips_code = 37139
+
+[[zipcodes]]
+zipcode = 27909
+percent_zip_in_county = 99.91

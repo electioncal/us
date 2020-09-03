@@ -1,2 +1,10 @@
 name = "Liberty County"
 fips_code = 12077
+
+[[zipcodes]]
+zipcode = 32321
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32334
+percent_zip_in_county = 100.0

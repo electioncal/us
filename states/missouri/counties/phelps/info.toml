@@ -1,2 +1,42 @@
 name = "Phelps County"
 fips_code = 29161
+
+[[zipcodes]]
+zipcode = 65401
+percent_zip_in_county = 97.63
+
+[[zipcodes]]
+zipcode = 65436
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65449
+percent_zip_in_county = 21.94
+
+[[zipcodes]]
+zipcode = 65459
+percent_zip_in_county = 1.7
+
+[[zipcodes]]
+zipcode = 65461
+percent_zip_in_county = 63.81
+
+[[zipcodes]]
+zipcode = 65462
+percent_zip_in_county = 91.9
+
+[[zipcodes]]
+zipcode = 65529
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65550
+percent_zip_in_county = 90.25
+
+[[zipcodes]]
+zipcode = 65559
+percent_zip_in_county = 91.4
+
+[[zipcodes]]
+zipcode = 65560
+percent_zip_in_county = 0.48

@@ -1,2 +1,26 @@
 name = "Carson County"
 fips_code = 48065
+
+[[zipcodes]]
+zipcode = 79036
+percent_zip_in_county = 11.41
+
+[[zipcodes]]
+zipcode = 79039
+percent_zip_in_county = 88.45
+
+[[zipcodes]]
+zipcode = 79068
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79080
+percent_zip_in_county = 79.34
+
+[[zipcodes]]
+zipcode = 79097
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79108
+percent_zip_in_county = 0.43

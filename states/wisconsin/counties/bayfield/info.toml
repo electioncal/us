@@ -1,2 +1,62 @@
 name = "Bayfield County"
 fips_code = 55007
+
+[[zipcodes]]
+zipcode = 54517
+percent_zip_in_county = 6.25
+
+[[zipcodes]]
+zipcode = 54806
+percent_zip_in_county = 12.22
+
+[[zipcodes]]
+zipcode = 54814
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54820
+percent_zip_in_county = 30.67
+
+[[zipcodes]]
+zipcode = 54821
+percent_zip_in_county = 97.65
+
+[[zipcodes]]
+zipcode = 54827
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54832
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54838
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 54839
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54844
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54847
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54856
+percent_zip_in_county = 96.53
+
+[[zipcodes]]
+zipcode = 54865
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54873
+percent_zip_in_county = 27.22
+
+[[zipcodes]]
+zipcode = 54891
+percent_zip_in_county = 100.0

@@ -1,2 +1,70 @@
 name = "Skagit County"
 fips_code = 53057
+
+[[zipcodes]]
+zipcode = 98221
+percent_zip_in_county = 99.53
+
+[[zipcodes]]
+zipcode = 98229
+percent_zip_in_county = 0.99
+
+[[zipcodes]]
+zipcode = 98232
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98233
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98235
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98237
+percent_zip_in_county = 99.98
+
+[[zipcodes]]
+zipcode = 98238
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98241
+percent_zip_in_county = 14.94
+
+[[zipcodes]]
+zipcode = 98255
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98257
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98263
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98267
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98273
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98274
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98283
+percent_zip_in_county = 81.8
+
+[[zipcodes]]
+zipcode = 98284
+percent_zip_in_county = 91.29
+
+[[zipcodes]]
+zipcode = 98292
+percent_zip_in_county = 0.3

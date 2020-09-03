@@ -1,2 +1,58 @@
 name = "Potter County"
 fips_code = 42105
+
+[[zipcodes]]
+zipcode = 16720
+percent_zip_in_county = 92.6
+
+[[zipcodes]]
+zipcode = 16743
+percent_zip_in_county = 2.41
+
+[[zipcodes]]
+zipcode = 16746
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16748
+percent_zip_in_county = 77.58
+
+[[zipcodes]]
+zipcode = 16915
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16922
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16923
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16927
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16937
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16941
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16943
+percent_zip_in_county = 34.06
+
+[[zipcodes]]
+zipcode = 16948
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16950
+percent_zip_in_county = 8.73
+
+[[zipcodes]]
+zipcode = 17729
+percent_zip_in_county = 46.54

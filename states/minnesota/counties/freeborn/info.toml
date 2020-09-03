@@ -1,2 +1,74 @@
 name = "Freeborn County"
 fips_code = 27047
+
+[[zipcodes]]
+zipcode = 55912
+percent_zip_in_county = 1.88
+
+[[zipcodes]]
+zipcode = 55917
+percent_zip_in_county = 6.06
+
+[[zipcodes]]
+zipcode = 55953
+percent_zip_in_county = 2.13
+
+[[zipcodes]]
+zipcode = 56007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56009
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56016
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56026
+percent_zip_in_county = 22.42
+
+[[zipcodes]]
+zipcode = 56029
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56042
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56072
+percent_zip_in_county = 2.39
+
+[[zipcodes]]
+zipcode = 56089
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56097
+percent_zip_in_county = 4.85

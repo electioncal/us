@@ -1,2 +1,34 @@
 name = "Union County"
 fips_code = 41061
+
+[[zipcodes]]
+zipcode = 97814
+percent_zip_in_county = 0.59
+
+[[zipcodes]]
+zipcode = 97824
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97827
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97841
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97850
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97867
+percent_zip_in_county = 84.53
+
+[[zipcodes]]
+zipcode = 97876
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97883
+percent_zip_in_county = 100.0

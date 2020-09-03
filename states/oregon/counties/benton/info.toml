@@ -1,2 +1,42 @@
 name = "Benton County"
 fips_code = 41003
+
+[[zipcodes]]
+zipcode = 97321
+percent_zip_in_county = 34.31
+
+[[zipcodes]]
+zipcode = 97324
+percent_zip_in_county = 88.19
+
+[[zipcodes]]
+zipcode = 97326
+percent_zip_in_county = 59.73
+
+[[zipcodes]]
+zipcode = 97330
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97331
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97333
+percent_zip_in_county = 94.03
+
+[[zipcodes]]
+zipcode = 97361
+percent_zip_in_county = 1.93
+
+[[zipcodes]]
+zipcode = 97370
+percent_zip_in_county = 99.41
+
+[[zipcodes]]
+zipcode = 97448
+percent_zip_in_county = 2.12
+
+[[zipcodes]]
+zipcode = 97456
+percent_zip_in_county = 93.17

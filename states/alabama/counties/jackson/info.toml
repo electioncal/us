@@ -1,2 +1,86 @@
 name = "Jackson County"
 fips_code = 1071
+
+[[zipcodes]]
+zipcode = 35740
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35744
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35745
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35746
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35748
+percent_zip_in_county = 2.8
+
+[[zipcodes]]
+zipcode = 35751
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35752
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35755
+percent_zip_in_county = 45.73
+
+[[zipcodes]]
+zipcode = 35764
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35765
+percent_zip_in_county = 94.29
+
+[[zipcodes]]
+zipcode = 35766
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35768
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35769
+percent_zip_in_county = 81.42
+
+[[zipcodes]]
+zipcode = 35771
+percent_zip_in_county = 96.82
+
+[[zipcodes]]
+zipcode = 35772
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35774
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35776
+percent_zip_in_county = 87.45
+
+[[zipcodes]]
+zipcode = 35958
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35966
+percent_zip_in_county = 66.5
+
+[[zipcodes]]
+zipcode = 35978
+percent_zip_in_county = 18.87
+
+[[zipcodes]]
+zipcode = 35979
+percent_zip_in_county = 40.7

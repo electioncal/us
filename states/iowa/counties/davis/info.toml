@@ -1,2 +1,38 @@
 name = "Davis County"
 fips_code = 19051
+
+[[zipcodes]]
+zipcode = 52537
+percent_zip_in_county = 95.01
+
+[[zipcodes]]
+zipcode = 52552
+percent_zip_in_county = 96.51
+
+[[zipcodes]]
+zipcode = 52554
+percent_zip_in_county = 0.66
+
+[[zipcodes]]
+zipcode = 52560
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52570
+percent_zip_in_county = 11.11
+
+[[zipcodes]]
+zipcode = 52572
+percent_zip_in_county = 8.04
+
+[[zipcodes]]
+zipcode = 52584
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52588
+percent_zip_in_county = 29.85
+
+[[zipcodes]]
+zipcode = 52594
+percent_zip_in_county = 23.56

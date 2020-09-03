@@ -1,2 +1,54 @@
 name = "Jones County"
 fips_code = 28067
+
+[[zipcodes]]
+zipcode = 39168
+percent_zip_in_county = 22.01
+
+[[zipcodes]]
+zipcode = 39401
+percent_zip_in_county = 0.79
+
+[[zipcodes]]
+zipcode = 39437
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39439
+percent_zip_in_county = 21.34
+
+[[zipcodes]]
+zipcode = 39440
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39443
+percent_zip_in_county = 92.85
+
+[[zipcodes]]
+zipcode = 39459
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39464
+percent_zip_in_county = 86.54
+
+[[zipcodes]]
+zipcode = 39465
+percent_zip_in_county = 0.26
+
+[[zipcodes]]
+zipcode = 39476
+percent_zip_in_county = 2.59
+
+[[zipcodes]]
+zipcode = 39477
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39479
+percent_zip_in_county = 15.91
+
+[[zipcodes]]
+zipcode = 39480
+percent_zip_in_county = 97.69

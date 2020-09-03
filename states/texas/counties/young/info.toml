@@ -1,2 +1,26 @@
 name = "Young County"
 fips_code = 48503
+
+[[zipcodes]]
+zipcode = 76372
+percent_zip_in_county = 88.5
+
+[[zipcodes]]
+zipcode = 76374
+percent_zip_in_county = 97.69
+
+[[zipcodes]]
+zipcode = 76424
+percent_zip_in_county = 0.14
+
+[[zipcodes]]
+zipcode = 76450
+percent_zip_in_county = 97.9
+
+[[zipcodes]]
+zipcode = 76460
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76481
+percent_zip_in_county = 100.0

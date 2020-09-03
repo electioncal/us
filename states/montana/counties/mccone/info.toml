@@ -1,2 +1,22 @@
 name = "McCone County"
 fips_code = 30055
+
+[[zipcodes]]
+zipcode = 59201
+percent_zip_in_county = 5.16
+
+[[zipcodes]]
+zipcode = 59214
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59215
+percent_zip_in_county = 96.12
+
+[[zipcodes]]
+zipcode = 59223
+percent_zip_in_county = 14.84
+
+[[zipcodes]]
+zipcode = 59274
+percent_zip_in_county = 100.0

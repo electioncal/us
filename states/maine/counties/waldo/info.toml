@@ -1,2 +1,74 @@
 name = "Waldo County"
 fips_code = 23027
+
+[[zipcodes]]
+zipcode = 4354
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4438
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4496
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4848
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4849
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4915
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4921
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4922
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4941
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4949
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4951
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4952
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4973
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4974
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4981
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4986
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4987
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4988
+percent_zip_in_county = 97.99

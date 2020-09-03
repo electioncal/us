@@ -1,2 +1,86 @@
 name = "Clay County"
 fips_code = 29047
+
+[[zipcodes]]
+zipcode = 64024
+percent_zip_in_county = 78.1
+
+[[zipcodes]]
+zipcode = 64048
+percent_zip_in_county = 59.35
+
+[[zipcodes]]
+zipcode = 64060
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64062
+percent_zip_in_county = 7.69
+
+[[zipcodes]]
+zipcode = 64068
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64077
+percent_zip_in_county = 0.82
+
+[[zipcodes]]
+zipcode = 64089
+percent_zip_in_county = 88.81
+
+[[zipcodes]]
+zipcode = 64116
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64117
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64118
+percent_zip_in_county = 99.24
+
+[[zipcodes]]
+zipcode = 64119
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64155
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64156
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64157
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64158
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64161
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64165
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64166
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64167
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64492
+percent_zip_in_county = 16.27

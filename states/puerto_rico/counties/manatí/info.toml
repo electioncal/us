@@ -1,2 +1,10 @@
 name = "Manatí Municipio"
 fips_code = 72091
+
+[[zipcodes]]
+zipcode = 638
+percent_zip_in_county = 1.73
+
+[[zipcodes]]
+zipcode = 674
+percent_zip_in_county = 98.49

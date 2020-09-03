@@ -1,2 +1,114 @@
 name = "Harlan County"
 fips_code = 21095
+
+[[zipcodes]]
+zipcode = 40801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40806
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40807
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40808
+percent_zip_in_county = 61.62
+
+[[zipcodes]]
+zipcode = 40810
+percent_zip_in_county = 85.21
+
+[[zipcodes]]
+zipcode = 40815
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40818
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40819
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40820
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40823
+percent_zip_in_county = 97.68
+
+[[zipcodes]]
+zipcode = 40824
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40828
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40829
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40830
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40831
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40840
+percent_zip_in_county = 8.65
+
+[[zipcodes]]
+zipcode = 40843
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40847
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40849
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40854
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40855
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40863
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40865
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40870
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40873
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40927
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40964
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40988
+percent_zip_in_county = 20.0

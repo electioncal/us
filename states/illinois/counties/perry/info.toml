@@ -1,2 +1,50 @@
 name = "Perry County"
 fips_code = 17145
+
+[[zipcodes]]
+zipcode = 62237
+percent_zip_in_county = 29.56
+
+[[zipcodes]]
+zipcode = 62238
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62263
+percent_zip_in_county = 1.39
+
+[[zipcodes]]
+zipcode = 62268
+percent_zip_in_county = 2.71
+
+[[zipcodes]]
+zipcode = 62272
+percent_zip_in_county = 17.74
+
+[[zipcodes]]
+zipcode = 62274
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62831
+percent_zip_in_county = 12.39
+
+[[zipcodes]]
+zipcode = 62832
+percent_zip_in_county = 99.24
+
+[[zipcodes]]
+zipcode = 62883
+percent_zip_in_county = 12.86
+
+[[zipcodes]]
+zipcode = 62888
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62916
+percent_zip_in_county = 4.72
+
+[[zipcodes]]
+zipcode = 62997
+percent_zip_in_county = 100.0

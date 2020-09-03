@@ -1,2 +1,38 @@
 name = "Hertford County"
 fips_code = 37091
+
+[[zipcodes]]
+zipcode = 27805
+percent_zip_in_county = 50.7
+
+[[zipcodes]]
+zipcode = 27818
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27855
+percent_zip_in_county = 92.58
+
+[[zipcodes]]
+zipcode = 27897
+percent_zip_in_county = 6.05
+
+[[zipcodes]]
+zipcode = 27910
+percent_zip_in_county = 89.94
+
+[[zipcodes]]
+zipcode = 27922
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27924
+percent_zip_in_county = 0.86
+
+[[zipcodes]]
+zipcode = 27942
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27986
+percent_zip_in_county = 100.0

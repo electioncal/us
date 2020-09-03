@@ -1,2 +1,58 @@
 name = "Monona County"
 fips_code = 19133
+
+[[zipcodes]]
+zipcode = 51010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51026
+percent_zip_in_county = 11.72
+
+[[zipcodes]]
+zipcode = 51034
+percent_zip_in_county = 94.84
+
+[[zipcodes]]
+zipcode = 51040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51055
+percent_zip_in_county = 13.8
+
+[[zipcodes]]
+zipcode = 51056
+percent_zip_in_county = 3.14
+
+[[zipcodes]]
+zipcode = 51060
+percent_zip_in_county = 88.13
+
+[[zipcodes]]
+zipcode = 51063
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51523
+percent_zip_in_county = 95.8
+
+[[zipcodes]]
+zipcode = 51529
+percent_zip_in_county = 3.47
+
+[[zipcodes]]
+zipcode = 51545
+percent_zip_in_county = 6.35
+
+[[zipcodes]]
+zipcode = 51558
+percent_zip_in_county = 88.75
+
+[[zipcodes]]
+zipcode = 51572
+percent_zip_in_county = 100.0

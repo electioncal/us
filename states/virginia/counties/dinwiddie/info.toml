@@ -1,2 +1,50 @@
 name = "Dinwiddie County"
 fips_code = 51053
+
+[[zipcodes]]
+zipcode = 23803
+percent_zip_in_county = 26.05
+
+[[zipcodes]]
+zipcode = 23805
+percent_zip_in_county = 9.75
+
+[[zipcodes]]
+zipcode = 23824
+percent_zip_in_county = 1.3
+
+[[zipcodes]]
+zipcode = 23830
+percent_zip_in_county = 40.24
+
+[[zipcodes]]
+zipcode = 23833
+percent_zip_in_county = 92.56
+
+[[zipcodes]]
+zipcode = 23840
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23841
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23850
+percent_zip_in_county = 77.07
+
+[[zipcodes]]
+zipcode = 23872
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23882
+percent_zip_in_county = 28.5
+
+[[zipcodes]]
+zipcode = 23885
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23894
+percent_zip_in_county = 100.0

@@ -1,2 +1,26 @@
 name = "Monroe County"
 fips_code = 21171
+
+[[zipcodes]]
+zipcode = 42133
+percent_zip_in_county = 48.54
+
+[[zipcodes]]
+zipcode = 42140
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42151
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42157
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42166
+percent_zip_in_county = 8.12
+
+[[zipcodes]]
+zipcode = 42167
+percent_zip_in_county = 99.86

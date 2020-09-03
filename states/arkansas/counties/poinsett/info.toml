@@ -1,2 +1,38 @@
 name = "Poinsett County"
 fips_code = 5111
+
+[[zipcodes]]
+zipcode = 72324
+percent_zip_in_county = 1.21
+
+[[zipcodes]]
+zipcode = 72354
+percent_zip_in_county = 96.68
+
+[[zipcodes]]
+zipcode = 72365
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72377
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72386
+percent_zip_in_county = 74.23
+
+[[zipcodes]]
+zipcode = 72429
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72432
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72472
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72479
+percent_zip_in_county = 89.59

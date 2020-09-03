@@ -1,2 +1,78 @@
 name = "Callaway County"
 fips_code = 29027
+
+[[zipcodes]]
+zipcode = 63361
+percent_zip_in_county = 5.88
+
+[[zipcodes]]
+zipcode = 63384
+percent_zip_in_county = 0.41
+
+[[zipcodes]]
+zipcode = 63388
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65039
+percent_zip_in_county = 5.24
+
+[[zipcodes]]
+zipcode = 65043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65059
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65063
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65069
+percent_zip_in_county = 7.75
+
+[[zipcodes]]
+zipcode = 65077
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65080
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65101
+percent_zip_in_county = 0.05
+
+[[zipcodes]]
+zipcode = 65201
+percent_zip_in_county = 0.16
+
+[[zipcodes]]
+zipcode = 65202
+percent_zip_in_county = 1.07
+
+[[zipcodes]]
+zipcode = 65231
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65240
+percent_zip_in_county = 0.97
+
+[[zipcodes]]
+zipcode = 65251
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65262
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65264
+percent_zip_in_county = 15.56

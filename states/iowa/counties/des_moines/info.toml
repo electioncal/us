@@ -1,2 +1,50 @@
 name = "Des Moines County"
 fips_code = 19057
+
+[[zipcodes]]
+zipcode = 52601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52623
+percent_zip_in_county = 84.5
+
+[[zipcodes]]
+zipcode = 52637
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52638
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52640
+percent_zip_in_county = 12.65
+
+[[zipcodes]]
+zipcode = 52644
+percent_zip_in_county = 11.65
+
+[[zipcodes]]
+zipcode = 52645
+percent_zip_in_county = 8.0
+
+[[zipcodes]]
+zipcode = 52646
+percent_zip_in_county = 31.91
+
+[[zipcodes]]
+zipcode = 52650
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52655
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52658
+percent_zip_in_county = 7.38
+
+[[zipcodes]]
+zipcode = 52660
+percent_zip_in_county = 100.0

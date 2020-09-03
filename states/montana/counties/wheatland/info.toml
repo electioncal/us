@@ -1,2 +1,22 @@
 name = "Wheatland County"
 fips_code = 30107
+
+[[zipcodes]]
+zipcode = 59036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59053
+percent_zip_in_county = 46.89
+
+[[zipcodes]]
+zipcode = 59078
+percent_zip_in_county = 91.03
+
+[[zipcodes]]
+zipcode = 59085
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59453
+percent_zip_in_county = 76.52

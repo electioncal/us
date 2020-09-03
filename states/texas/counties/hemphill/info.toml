@@ -1,2 +1,10 @@
 name = "Hemphill County"
 fips_code = 48211
+
+[[zipcodes]]
+zipcode = 79011
+percent_zip_in_county = 36.44
+
+[[zipcodes]]
+zipcode = 79014
+percent_zip_in_county = 98.67

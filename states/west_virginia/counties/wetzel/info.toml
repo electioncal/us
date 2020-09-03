@@ -1,2 +1,50 @@
 name = "Wetzel County"
 fips_code = 54103
+
+[[zipcodes]]
+zipcode = 26055
+percent_zip_in_county = 28.93
+
+[[zipcodes]]
+zipcode = 26155
+percent_zip_in_county = 95.48
+
+[[zipcodes]]
+zipcode = 26159
+percent_zip_in_county = 69.47
+
+[[zipcodes]]
+zipcode = 26167
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26348
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26377
+percent_zip_in_county = 71.43
+
+[[zipcodes]]
+zipcode = 26419
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26437
+percent_zip_in_county = 98.45
+
+[[zipcodes]]
+zipcode = 26562
+percent_zip_in_county = 62.3
+
+[[zipcodes]]
+zipcode = 26575
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26581
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26585
+percent_zip_in_county = 19.0

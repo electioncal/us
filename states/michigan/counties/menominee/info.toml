@@ -1,2 +1,58 @@
 name = "Menominee County"
 fips_code = 26109
+
+[[zipcodes]]
+zipcode = 49807
+percent_zip_in_county = 14.01
+
+[[zipcodes]]
+zipcode = 49812
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49821
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49847
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49848
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49858
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49863
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49873
+percent_zip_in_county = 96.67
+
+[[zipcodes]]
+zipcode = 49874
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49886
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49887
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49892
+percent_zip_in_county = 12.68
+
+[[zipcodes]]
+zipcode = 49893
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49896
+percent_zip_in_county = 100.0

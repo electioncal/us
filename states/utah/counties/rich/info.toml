@@ -1,2 +1,18 @@
 name = "Rich County"
 fips_code = 49033
+
+[[zipcodes]]
+zipcode = 84028
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84038
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84064
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84086
+percent_zip_in_county = 100.0

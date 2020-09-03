@@ -1,2 +1,74 @@
 name = "Barry County"
 fips_code = 29009
+
+[[zipcodes]]
+zipcode = 64842
+percent_zip_in_county = 5.19
+
+[[zipcodes]]
+zipcode = 64874
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65605
+percent_zip_in_county = 15.19
+
+[[zipcodes]]
+zipcode = 65623
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65624
+percent_zip_in_county = 6.98
+
+[[zipcodes]]
+zipcode = 65625
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65633
+percent_zip_in_county = 14.98
+
+[[zipcodes]]
+zipcode = 65641
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65647
+percent_zip_in_county = 98.51
+
+[[zipcodes]]
+zipcode = 65656
+percent_zip_in_county = 0.67
+
+[[zipcodes]]
+zipcode = 65658
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65708
+percent_zip_in_county = 63.89
+
+[[zipcodes]]
+zipcode = 65723
+percent_zip_in_county = 6.74
+
+[[zipcodes]]
+zipcode = 65734
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65745
+percent_zip_in_county = 84.52
+
+[[zipcodes]]
+zipcode = 65747
+percent_zip_in_county = 63.24
+
+[[zipcodes]]
+zipcode = 65769
+percent_zip_in_county = 30.02
+
+[[zipcodes]]
+zipcode = 65772
+percent_zip_in_county = 81.19

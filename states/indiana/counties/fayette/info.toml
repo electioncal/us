@@ -1,2 +1,22 @@
 name = "Fayette County"
 fips_code = 18041
+
+[[zipcodes]]
+zipcode = 46127
+percent_zip_in_county = 37.5
+
+[[zipcodes]]
+zipcode = 46133
+percent_zip_in_county = 52.08
+
+[[zipcodes]]
+zipcode = 47325
+percent_zip_in_county = 31.93
+
+[[zipcodes]]
+zipcode = 47331
+percent_zip_in_county = 99.36
+
+[[zipcodes]]
+zipcode = 47357
+percent_zip_in_county = 16.79

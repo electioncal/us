@@ -1,2 +1,54 @@
 name = "Terrebonne Parish"
 fips_code = 22109
+
+[[zipcodes]]
+zipcode = 70301
+percent_zip_in_county = 7.16
+
+[[zipcodes]]
+zipcode = 70343
+percent_zip_in_county = 91.61
+
+[[zipcodes]]
+zipcode = 70344
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70352
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70353
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70356
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70359
+percent_zip_in_county = 68.45
+
+[[zipcodes]]
+zipcode = 70360
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70363
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70364
+percent_zip_in_county = 81.6
+
+[[zipcodes]]
+zipcode = 70377
+percent_zip_in_county = 88.46
+
+[[zipcodes]]
+zipcode = 70395
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70397
+percent_zip_in_county = 100.0

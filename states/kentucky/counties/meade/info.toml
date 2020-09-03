@@ -1,2 +1,42 @@
 name = "Meade County"
 fips_code = 21163
+
+[[zipcodes]]
+zipcode = 40104
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40108
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40117
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40121
+percent_zip_in_county = 26.5
+
+[[zipcodes]]
+zipcode = 40142
+percent_zip_in_county = 96.92
+
+[[zipcodes]]
+zipcode = 40155
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40157
+percent_zip_in_county = 95.32
+
+[[zipcodes]]
+zipcode = 40161
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40175
+percent_zip_in_county = 46.56
+
+[[zipcodes]]
+zipcode = 40176
+percent_zip_in_county = 45.33

@@ -1,2 +1,74 @@
 name = "Genesee County"
 fips_code = 36037
+
+[[zipcodes]]
+zipcode = 14001
+percent_zip_in_county = 4.16
+
+[[zipcodes]]
+zipcode = 14004
+percent_zip_in_county = 1.16
+
+[[zipcodes]]
+zipcode = 14005
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14011
+percent_zip_in_county = 6.72
+
+[[zipcodes]]
+zipcode = 14013
+percent_zip_in_county = 98.46
+
+[[zipcodes]]
+zipcode = 14020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14040
+percent_zip_in_county = 83.81
+
+[[zipcodes]]
+zipcode = 14054
+percent_zip_in_county = 98.14
+
+[[zipcodes]]
+zipcode = 14058
+percent_zip_in_county = 96.02
+
+[[zipcodes]]
+zipcode = 14105
+percent_zip_in_county = 0.11
+
+[[zipcodes]]
+zipcode = 14125
+percent_zip_in_county = 99.76
+
+[[zipcodes]]
+zipcode = 14143
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14416
+percent_zip_in_county = 94.81
+
+[[zipcodes]]
+zipcode = 14422
+percent_zip_in_county = 98.26
+
+[[zipcodes]]
+zipcode = 14482
+percent_zip_in_county = 98.11
+
+[[zipcodes]]
+zipcode = 14525
+percent_zip_in_county = 69.91
+
+[[zipcodes]]
+zipcode = 14591
+percent_zip_in_county = 7.55

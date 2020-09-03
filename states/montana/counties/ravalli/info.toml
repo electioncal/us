@@ -1,2 +1,38 @@
 name = "Ravalli County"
 fips_code = 30081
+
+[[zipcodes]]
+zipcode = 59827
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59828
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59829
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59833
+percent_zip_in_county = 79.83
+
+[[zipcodes]]
+zipcode = 59840
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59841
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59870
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59871
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59875
+percent_zip_in_county = 100.0

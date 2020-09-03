@@ -1,2 +1,34 @@
 name = "Leon County"
 fips_code = 48289
+
+[[zipcodes]]
+zipcode = 75831
+percent_zip_in_county = 83.51
+
+[[zipcodes]]
+zipcode = 75833
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75846
+percent_zip_in_county = 83.92
+
+[[zipcodes]]
+zipcode = 75850
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75855
+percent_zip_in_county = 54.41
+
+[[zipcodes]]
+zipcode = 77855
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77865
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77871
+percent_zip_in_county = 80.23

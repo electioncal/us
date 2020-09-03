@@ -1,2 +1,42 @@
 name = "Walker County"
 fips_code = 48471
+
+[[zipcodes]]
+zipcode = 75852
+percent_zip_in_county = 3.38
+
+[[zipcodes]]
+zipcode = 75862
+percent_zip_in_county = 4.08
+
+[[zipcodes]]
+zipcode = 77320
+percent_zip_in_county = 97.06
+
+[[zipcodes]]
+zipcode = 77334
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77340
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77342
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77358
+percent_zip_in_county = 77.23
+
+[[zipcodes]]
+zipcode = 77367
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77831
+percent_zip_in_county = 12.38
+
+[[zipcodes]]
+zipcode = 77873
+percent_zip_in_county = 18.5

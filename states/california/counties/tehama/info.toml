@@ -1,2 +1,66 @@
 name = "Tehama County"
 fips_code = 6103
+
+[[zipcodes]]
+zipcode = 95963
+percent_zip_in_county = 4.89
+
+[[zipcodes]]
+zipcode = 95973
+percent_zip_in_county = 0.24
+
+[[zipcodes]]
+zipcode = 96021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96022
+percent_zip_in_county = 52.31
+
+[[zipcodes]]
+zipcode = 96029
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96055
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96059
+percent_zip_in_county = 58.72
+
+[[zipcodes]]
+zipcode = 96061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96063
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96074
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96075
+percent_zip_in_county = 94.58
+
+[[zipcodes]]
+zipcode = 96076
+percent_zip_in_county = 23.49
+
+[[zipcodes]]
+zipcode = 96080
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96090
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96092
+percent_zip_in_county = 100.0

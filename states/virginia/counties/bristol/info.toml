@@ -1,2 +1,10 @@
 name = "Bristol city"
 fips_code = 51520
+
+[[zipcodes]]
+zipcode = 24201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24202
+percent_zip_in_county = 5.57

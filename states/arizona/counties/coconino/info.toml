@@ -1,2 +1,118 @@
 name = "Coconino County"
 fips_code = 4005
+
+[[zipcodes]]
+zipcode = 85931
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86004
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86011
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86015
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86016
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86017
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86018
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86022
+percent_zip_in_county = 62.31
+
+[[zipcodes]]
+zipcode = 86023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86030
+percent_zip_in_county = 0.22
+
+[[zipcodes]]
+zipcode = 86035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86038
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86044
+percent_zip_in_county = 77.51
+
+[[zipcodes]]
+zipcode = 86045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86047
+percent_zip_in_county = 5.84
+
+[[zipcodes]]
+zipcode = 86052
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86053
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86054
+percent_zip_in_county = 5.63
+
+[[zipcodes]]
+zipcode = 86320
+percent_zip_in_county = 46.95
+
+[[zipcodes]]
+zipcode = 86336
+percent_zip_in_county = 27.83
+
+[[zipcodes]]
+zipcode = 86337
+percent_zip_in_county = 4.42
+
+[[zipcodes]]
+zipcode = 86435
+percent_zip_in_county = 100.0

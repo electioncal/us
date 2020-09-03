@@ -1,2 +1,74 @@
 name = "Kent County"
 fips_code = 10001
+
+[[zipcodes]]
+zipcode = 19901
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19902
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19904
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19934
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19936
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19938
+percent_zip_in_county = 92.47
+
+[[zipcodes]]
+zipcode = 19943
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19946
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19950
+percent_zip_in_county = 20.95
+
+[[zipcodes]]
+zipcode = 19952
+percent_zip_in_county = 99.07
+
+[[zipcodes]]
+zipcode = 19953
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19954
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19955
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19962
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19963
+percent_zip_in_county = 40.87
+
+[[zipcodes]]
+zipcode = 19964
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19977
+percent_zip_in_county = 81.06
+
+[[zipcodes]]
+zipcode = 19979
+percent_zip_in_county = 100.0

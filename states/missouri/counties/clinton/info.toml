@@ -1,2 +1,42 @@
 name = "Clinton County"
 fips_code = 29049
+
+[[zipcodes]]
+zipcode = 64048
+percent_zip_in_county = 40.65
+
+[[zipcodes]]
+zipcode = 64062
+percent_zip_in_county = 11.13
+
+[[zipcodes]]
+zipcode = 64429
+percent_zip_in_county = 46.64
+
+[[zipcodes]]
+zipcode = 64454
+percent_zip_in_county = 79.45
+
+[[zipcodes]]
+zipcode = 64465
+percent_zip_in_county = 93.91
+
+[[zipcodes]]
+zipcode = 64474
+percent_zip_in_county = 21.22
+
+[[zipcodes]]
+zipcode = 64477
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64490
+percent_zip_in_county = 29.23
+
+[[zipcodes]]
+zipcode = 64492
+percent_zip_in_county = 83.73
+
+[[zipcodes]]
+zipcode = 64493
+percent_zip_in_county = 100.0

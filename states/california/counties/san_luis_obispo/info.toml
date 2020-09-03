@@ -1,2 +1,106 @@
 name = "San Luis Obispo County"
 fips_code = 6079
+
+[[zipcodes]]
+zipcode = 93252
+percent_zip_in_county = 2.51
+
+[[zipcodes]]
+zipcode = 93254
+percent_zip_in_county = 2.96
+
+[[zipcodes]]
+zipcode = 93401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93402
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93405
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93410
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 93420
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93422
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93424
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93426
+percent_zip_in_county = 33.4
+
+[[zipcodes]]
+zipcode = 93428
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93430
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93432
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93433
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93442
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93444
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93445
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93446
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93449
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93451
+percent_zip_in_county = 86.19
+
+[[zipcodes]]
+zipcode = 93452
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93453
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93454
+percent_zip_in_county = 0.78
+
+[[zipcodes]]
+zipcode = 93458
+percent_zip_in_county = 0.11
+
+[[zipcodes]]
+zipcode = 93461
+percent_zip_in_county = 98.46
+
+[[zipcodes]]
+zipcode = 93465
+percent_zip_in_county = 100.0

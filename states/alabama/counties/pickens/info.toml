@@ -1,2 +1,34 @@
 name = "Pickens County"
 fips_code = 1107
+
+[[zipcodes]]
+zipcode = 35442
+percent_zip_in_county = 95.43
+
+[[zipcodes]]
+zipcode = 35447
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35461
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35466
+percent_zip_in_county = 88.64
+
+[[zipcodes]]
+zipcode = 35481
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35555
+percent_zip_in_county = 0.12
+
+[[zipcodes]]
+zipcode = 35574
+percent_zip_in_county = 15.73
+
+[[zipcodes]]
+zipcode = 35576
+percent_zip_in_county = 8.92

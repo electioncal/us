@@ -1,2 +1,34 @@
 name = "Kane County"
 fips_code = 49025
+
+[[zipcodes]]
+zipcode = 84533
+percent_zip_in_county = 53.93
+
+[[zipcodes]]
+zipcode = 84710
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84718
+percent_zip_in_county = 6.35
+
+[[zipcodes]]
+zipcode = 84729
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84741
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84755
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84758
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84762
+percent_zip_in_county = 97.18

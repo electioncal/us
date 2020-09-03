@@ -1,2 +1,38 @@
 name = "Shelby County"
 fips_code = 29205
+
+[[zipcodes]]
+zipcode = 63434
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63437
+percent_zip_in_county = 95.54
+
+[[zipcodes]]
+zipcode = 63439
+percent_zip_in_county = 74.02
+
+[[zipcodes]]
+zipcode = 63440
+percent_zip_in_county = 1.07
+
+[[zipcodes]]
+zipcode = 63443
+percent_zip_in_county = 59.32
+
+[[zipcodes]]
+zipcode = 63450
+percent_zip_in_county = 84.85
+
+[[zipcodes]]
+zipcode = 63451
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63468
+percent_zip_in_county = 88.43
+
+[[zipcodes]]
+zipcode = 63469
+percent_zip_in_county = 99.33

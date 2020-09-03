@@ -1,2 +1,70 @@
 name = "Franklin County"
 fips_code = 19069
+
+[[zipcodes]]
+zipcode = 50006
+percent_zip_in_county = 13.66
+
+[[zipcodes]]
+zipcode = 50041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50071
+percent_zip_in_county = 29.59
+
+[[zipcodes]]
+zipcode = 50126
+percent_zip_in_county = 3.15
+
+[[zipcodes]]
+zipcode = 50227
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50420
+percent_zip_in_county = 89.92
+
+[[zipcodes]]
+zipcode = 50431
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50433
+percent_zip_in_county = 13.67
+
+[[zipcodes]]
+zipcode = 50441
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50452
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50457
+percent_zip_in_county = 12.24
+
+[[zipcodes]]
+zipcode = 50475
+percent_zip_in_county = 92.71
+
+[[zipcodes]]
+zipcode = 50479
+percent_zip_in_county = 10.09
+
+[[zipcodes]]
+zipcode = 50601
+percent_zip_in_county = 13.56
+
+[[zipcodes]]
+zipcode = 50605
+percent_zip_in_county = 33.33
+
+[[zipcodes]]
+zipcode = 50625
+percent_zip_in_county = 6.27
+
+[[zipcodes]]
+zipcode = 50633
+percent_zip_in_county = 100.0

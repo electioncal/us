@@ -1,2 +1,34 @@
 name = "Vance County"
 fips_code = 37181
+
+[[zipcodes]]
+zipcode = 27507
+percent_zip_in_county = 12.49
+
+[[zipcodes]]
+zipcode = 27536
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27537
+percent_zip_in_county = 94.13
+
+[[zipcodes]]
+zipcode = 27544
+percent_zip_in_county = 66.8
+
+[[zipcodes]]
+zipcode = 27553
+percent_zip_in_county = 30.27
+
+[[zipcodes]]
+zipcode = 27556
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27563
+percent_zip_in_county = 2.16
+
+[[zipcodes]]
+zipcode = 27565
+percent_zip_in_county = 2.71

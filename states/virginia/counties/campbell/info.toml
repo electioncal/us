@@ -1,2 +1,54 @@
 name = "Campbell County"
 fips_code = 51031
+
+[[zipcodes]]
+zipcode = 23963
+percent_zip_in_county = 13.8
+
+[[zipcodes]]
+zipcode = 24501
+percent_zip_in_county = 17.54
+
+[[zipcodes]]
+zipcode = 24502
+percent_zip_in_county = 25.29
+
+[[zipcodes]]
+zipcode = 24504
+percent_zip_in_county = 26.76
+
+[[zipcodes]]
+zipcode = 24517
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24528
+percent_zip_in_county = 82.97
+
+[[zipcodes]]
+zipcode = 24538
+percent_zip_in_county = 65.56
+
+[[zipcodes]]
+zipcode = 24550
+percent_zip_in_county = 94.19
+
+[[zipcodes]]
+zipcode = 24551
+percent_zip_in_county = 13.66
+
+[[zipcodes]]
+zipcode = 24554
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24569
+percent_zip_in_county = 14.85
+
+[[zipcodes]]
+zipcode = 24571
+percent_zip_in_county = 78.58
+
+[[zipcodes]]
+zipcode = 24588
+percent_zip_in_county = 100.0

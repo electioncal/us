@@ -1,2 +1,22 @@
 name = "Nicholas County"
 fips_code = 21181
+
+[[zipcodes]]
+zipcode = 40311
+percent_zip_in_county = 92.09
+
+[[zipcodes]]
+zipcode = 40350
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40374
+percent_zip_in_county = 2.35
+
+[[zipcodes]]
+zipcode = 41031
+percent_zip_in_county = 1.33
+
+[[zipcodes]]
+zipcode = 41039
+percent_zip_in_county = 2.76

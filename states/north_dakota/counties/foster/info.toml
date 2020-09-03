@@ -1,2 +1,30 @@
 name = "Foster County"
 fips_code = 38031
+
+[[zipcodes]]
+zipcode = 58356
+percent_zip_in_county = 0.91
+
+[[zipcodes]]
+zipcode = 58421
+percent_zip_in_county = 98.28
+
+[[zipcodes]]
+zipcode = 58443
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58445
+percent_zip_in_county = 84.38
+
+[[zipcodes]]
+zipcode = 58455
+percent_zip_in_county = 18.48
+
+[[zipcodes]]
+zipcode = 58464
+percent_zip_in_county = 51.24
+
+[[zipcodes]]
+zipcode = 58484
+percent_zip_in_county = 16.92

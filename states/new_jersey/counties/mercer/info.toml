@@ -1,2 +1,102 @@
 name = "Mercer County"
 fips_code = 34021
+
+[[zipcodes]]
+zipcode = 8501
+percent_zip_in_county = 5.1
+
+[[zipcodes]]
+zipcode = 8512
+percent_zip_in_county = 51.26
+
+[[zipcodes]]
+zipcode = 8520
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8525
+percent_zip_in_county = 86.97
+
+[[zipcodes]]
+zipcode = 8530
+percent_zip_in_county = 6.72
+
+[[zipcodes]]
+zipcode = 8534
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8540
+percent_zip_in_county = 70.46
+
+[[zipcodes]]
+zipcode = 8542
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8550
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8558
+percent_zip_in_county = 1.66
+
+[[zipcodes]]
+zipcode = 8560
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8561
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8608
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8609
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8610
+percent_zip_in_county = 98.7
+
+[[zipcodes]]
+zipcode = 8611
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8618
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8619
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8620
+percent_zip_in_county = 69.31
+
+[[zipcodes]]
+zipcode = 8628
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8629
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8638
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8648
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8690
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8691
+percent_zip_in_county = 98.42

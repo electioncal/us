@@ -1,2 +1,30 @@
 name = "Colfax County"
 fips_code = 31037
+
+[[zipcodes]]
+zipcode = 68601
+percent_zip_in_county = 1.23
+
+[[zipcodes]]
+zipcode = 68629
+percent_zip_in_county = 86.38
+
+[[zipcodes]]
+zipcode = 68633
+percent_zip_in_county = 8.99
+
+[[zipcodes]]
+zipcode = 68641
+percent_zip_in_county = 76.01
+
+[[zipcodes]]
+zipcode = 68643
+percent_zip_in_county = 65.89
+
+[[zipcodes]]
+zipcode = 68659
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68661
+percent_zip_in_county = 100.0

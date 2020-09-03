@@ -1,2 +1,90 @@
 name = "Lebanon County"
 fips_code = 42075
+
+[[zipcodes]]
+zipcode = 17003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17016
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17026
+percent_zip_in_county = 90.93
+
+[[zipcodes]]
+zipcode = 17028
+percent_zip_in_county = 28.49
+
+[[zipcodes]]
+zipcode = 17033
+percent_zip_in_county = 0.34
+
+[[zipcodes]]
+zipcode = 17038
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17042
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17064
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17067
+percent_zip_in_county = 87.11
+
+[[zipcodes]]
+zipcode = 17073
+percent_zip_in_county = 99.81
+
+[[zipcodes]]
+zipcode = 17077
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17078
+percent_zip_in_county = 93.18
+
+[[zipcodes]]
+zipcode = 17083
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17087
+percent_zip_in_county = 74.2
+
+[[zipcodes]]
+zipcode = 17088
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17545
+percent_zip_in_county = 2.58
+
+[[zipcodes]]
+zipcode = 17963
+percent_zip_in_county = 0.68
+
+[[zipcodes]]
+zipcode = 19551
+percent_zip_in_county = 5.64

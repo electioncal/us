@@ -1,2 +1,22 @@
 name = "Daniels County"
 fips_code = 30019
+
+[[zipcodes]]
+zipcode = 59222
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59253
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59260
+percent_zip_in_county = 26.36
+
+[[zipcodes]]
+zipcode = 59263
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59276
+percent_zip_in_county = 100.0

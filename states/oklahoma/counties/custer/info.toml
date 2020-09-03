@@ -1,2 +1,54 @@
 name = "Custer County"
 fips_code = 40039
+
+[[zipcodes]]
+zipcode = 73048
+percent_zip_in_county = 7.92
+
+[[zipcodes]]
+zipcode = 73096
+percent_zip_in_county = 98.6
+
+[[zipcodes]]
+zipcode = 73601
+percent_zip_in_county = 96.08
+
+[[zipcodes]]
+zipcode = 73620
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73625
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73626
+percent_zip_in_county = 13.56
+
+[[zipcodes]]
+zipcode = 73639
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73644
+percent_zip_in_county = 0.18
+
+[[zipcodes]]
+zipcode = 73646
+percent_zip_in_county = 3.13
+
+[[zipcodes]]
+zipcode = 73647
+percent_zip_in_county = 21.0
+
+[[zipcodes]]
+zipcode = 73650
+percent_zip_in_county = 17.06
+
+[[zipcodes]]
+zipcode = 73654
+percent_zip_in_county = 9.58
+
+[[zipcodes]]
+zipcode = 73669
+percent_zip_in_county = 98.63

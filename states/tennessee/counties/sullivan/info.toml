@@ -1,2 +1,50 @@
 name = "Sullivan County"
 fips_code = 47163
+
+[[zipcodes]]
+zipcode = 37617
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37618
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37620
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37656
+percent_zip_in_county = 8.0
+
+[[zipcodes]]
+zipcode = 37659
+percent_zip_in_county = 0.24
+
+[[zipcodes]]
+zipcode = 37660
+percent_zip_in_county = 92.1
+
+[[zipcodes]]
+zipcode = 37663
+percent_zip_in_county = 93.9
+
+[[zipcodes]]
+zipcode = 37664
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37665
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37686
+percent_zip_in_county = 99.26
+
+[[zipcodes]]
+zipcode = 37694
+percent_zip_in_county = 9.57
+
+[[zipcodes]]
+zipcode = 37857
+percent_zip_in_county = 0.4

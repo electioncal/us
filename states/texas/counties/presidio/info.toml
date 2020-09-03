@@ -1,2 +1,18 @@
 name = "Presidio County"
 fips_code = 48377
+
+[[zipcodes]]
+zipcode = 79843
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79845
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79846
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79854
+percent_zip_in_county = 8.92

@@ -1,2 +1,82 @@
 name = "Carroll County"
 fips_code = 39019
+
+[[zipcodes]]
+zipcode = 43903
+percent_zip_in_county = 46.15
+
+[[zipcodes]]
+zipcode = 43908
+percent_zip_in_county = 2.99
+
+[[zipcodes]]
+zipcode = 43945
+percent_zip_in_county = 12.72
+
+[[zipcodes]]
+zipcode = 43986
+percent_zip_in_county = 0.91
+
+[[zipcodes]]
+zipcode = 43988
+percent_zip_in_county = 18.54
+
+[[zipcodes]]
+zipcode = 44427
+percent_zip_in_county = 39.45
+
+[[zipcodes]]
+zipcode = 44607
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44615
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44620
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44621
+percent_zip_in_county = 1.06
+
+[[zipcodes]]
+zipcode = 44625
+percent_zip_in_county = 15.51
+
+[[zipcodes]]
+zipcode = 44643
+percent_zip_in_county = 23.87
+
+[[zipcodes]]
+zipcode = 44644
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44651
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44656
+percent_zip_in_county = 3.64
+
+[[zipcodes]]
+zipcode = 44657
+percent_zip_in_county = 35.84
+
+[[zipcodes]]
+zipcode = 44675
+percent_zip_in_county = 79.25
+
+[[zipcodes]]
+zipcode = 44688
+percent_zip_in_county = 8.91
+
+[[zipcodes]]
+zipcode = 44695
+percent_zip_in_county = 50.19
+
+[[zipcodes]]
+zipcode = 44730
+percent_zip_in_county = 1.49

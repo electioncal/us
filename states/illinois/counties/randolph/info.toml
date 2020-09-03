@@ -1,2 +1,74 @@
 name = "Randolph County"
 fips_code = 17157
+
+[[zipcodes]]
+zipcode = 62217
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62233
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62237
+percent_zip_in_county = 54.34
+
+[[zipcodes]]
+zipcode = 62241
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62242
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62257
+percent_zip_in_county = 0.9
+
+[[zipcodes]]
+zipcode = 62261
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62272
+percent_zip_in_county = 82.26
+
+[[zipcodes]]
+zipcode = 62277
+percent_zip_in_county = 80.67
+
+[[zipcodes]]
+zipcode = 62278
+percent_zip_in_county = 78.31
+
+[[zipcodes]]
+zipcode = 62280
+percent_zip_in_county = 56.76
+
+[[zipcodes]]
+zipcode = 62286
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62288
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62292
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62297
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62907
+percent_zip_in_county = 0.37
+
+[[zipcodes]]
+zipcode = 62916
+percent_zip_in_county = 11.16
+
+[[zipcodes]]
+zipcode = 63673
+percent_zip_in_county = 2.22

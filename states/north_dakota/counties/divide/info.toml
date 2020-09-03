@@ -1,2 +1,42 @@
 name = "Divide County"
 fips_code = 38023
+
+[[zipcodes]]
+zipcode = 58730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58755
+percent_zip_in_county = 27.91
+
+[[zipcodes]]
+zipcode = 58765
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58795
+percent_zip_in_county = 21.72
+
+[[zipcodes]]
+zipcode = 58830
+percent_zip_in_county = 28.64
+
+[[zipcodes]]
+zipcode = 58833
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58844
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58845
+percent_zip_in_county = 17.25
+
+[[zipcodes]]
+zipcode = 58856
+percent_zip_in_county = 36.64
+
+[[zipcodes]]
+zipcode = 59275
+percent_zip_in_county = 14.36

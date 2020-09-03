@@ -1,2 +1,46 @@
 name = "Platte County"
 fips_code = 31141
+
+[[zipcodes]]
+zipcode = 68601
+percent_zip_in_county = 96.22
+
+[[zipcodes]]
+zipcode = 68631
+percent_zip_in_county = 95.63
+
+[[zipcodes]]
+zipcode = 68634
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68640
+percent_zip_in_county = 8.8
+
+[[zipcodes]]
+zipcode = 68642
+percent_zip_in_county = 94.65
+
+[[zipcodes]]
+zipcode = 68643
+percent_zip_in_county = 21.37
+
+[[zipcodes]]
+zipcode = 68644
+percent_zip_in_county = 88.21
+
+[[zipcodes]]
+zipcode = 68647
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68653
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68660
+percent_zip_in_county = 12.75
+
+[[zipcodes]]
+zipcode = 68758
+percent_zip_in_county = 12.03

@@ -1,2 +1,42 @@
 name = "Pamlico County"
 fips_code = 37137
+
+[[zipcodes]]
+zipcode = 28510
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28515
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28529
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28537
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28552
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28556
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28560
+percent_zip_in_county = 6.71
+
+[[zipcodes]]
+zipcode = 28571
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28583
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28587
+percent_zip_in_county = 100.0

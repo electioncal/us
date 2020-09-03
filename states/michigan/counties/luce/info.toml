@@ -1,2 +1,14 @@
 name = "Luce County"
 fips_code = 26095
+
+[[zipcodes]]
+zipcode = 49748
+percent_zip_in_county = 1.18
+
+[[zipcodes]]
+zipcode = 49853
+percent_zip_in_county = 95.46
+
+[[zipcodes]]
+zipcode = 49868
+percent_zip_in_county = 100.0

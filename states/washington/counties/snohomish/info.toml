@@ -1,2 +1,122 @@
 name = "Snohomish County"
 fips_code = 53061
+
+[[zipcodes]]
+zipcode = 98012
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98026
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98072
+percent_zip_in_county = 13.33
+
+[[zipcodes]]
+zipcode = 98077
+percent_zip_in_county = 6.82
+
+[[zipcodes]]
+zipcode = 98087
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98203
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98204
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98205
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98207
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98208
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98223
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98241
+percent_zip_in_county = 85.06
+
+[[zipcodes]]
+zipcode = 98251
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98252
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98256
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98258
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98270
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98271
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98272
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98275
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98290
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98292
+percent_zip_in_county = 99.7
+
+[[zipcodes]]
+zipcode = 98294
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98296
+percent_zip_in_county = 100.0

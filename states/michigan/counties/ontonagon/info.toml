@@ -1,2 +1,50 @@
 name = "Ontonagon County"
 fips_code = 26131
+
+[[zipcodes]]
+zipcode = 49910
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49912
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49925
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49929
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49947
+percent_zip_in_county = 4.84
+
+[[zipcodes]]
+zipcode = 49948
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49952
+percent_zip_in_county = 1.4
+
+[[zipcodes]]
+zipcode = 49953
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49960
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49965
+percent_zip_in_county = 11.36
+
+[[zipcodes]]
+zipcode = 49967
+percent_zip_in_county = 66.46
+
+[[zipcodes]]
+zipcode = 49971
+percent_zip_in_county = 100.0

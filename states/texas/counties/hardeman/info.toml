@@ -1,2 +1,10 @@
 name = "Hardeman County"
 fips_code = 48197
+
+[[zipcodes]]
+zipcode = 79225
+percent_zip_in_county = 97.13
+
+[[zipcodes]]
+zipcode = 79252
+percent_zip_in_county = 99.66

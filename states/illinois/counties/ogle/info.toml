@@ -1,2 +1,106 @@
 name = "Ogle County"
 fips_code = 17141
+
+[[zipcodes]]
+zipcode = 60113
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60129
+percent_zip_in_county = 42.56
+
+[[zipcodes]]
+zipcode = 60146
+percent_zip_in_county = 0.37
+
+[[zipcodes]]
+zipcode = 61006
+percent_zip_in_county = 13.64
+
+[[zipcodes]]
+zipcode = 61007
+percent_zip_in_county = 64.98
+
+[[zipcodes]]
+zipcode = 61010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61015
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61020
+percent_zip_in_county = 98.17
+
+[[zipcodes]]
+zipcode = 61021
+percent_zip_in_county = 6.34
+
+[[zipcodes]]
+zipcode = 61030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61031
+percent_zip_in_county = 2.05
+
+[[zipcodes]]
+zipcode = 61039
+percent_zip_in_county = 13.59
+
+[[zipcodes]]
+zipcode = 61043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61047
+percent_zip_in_county = 96.43
+
+[[zipcodes]]
+zipcode = 61049
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61051
+percent_zip_in_county = 2.1
+
+[[zipcodes]]
+zipcode = 61052
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61054
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61064
+percent_zip_in_county = 99.33
+
+[[zipcodes]]
+zipcode = 61068
+percent_zip_in_county = 99.29
+
+[[zipcodes]]
+zipcode = 61078
+percent_zip_in_county = 7.86
+
+[[zipcodes]]
+zipcode = 61084
+percent_zip_in_county = 96.28
+
+[[zipcodes]]
+zipcode = 61091
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61102
+percent_zip_in_county = 1.01
+
+[[zipcodes]]
+zipcode = 61109
+percent_zip_in_county = 0.06

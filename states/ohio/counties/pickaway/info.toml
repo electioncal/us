@@ -1,2 +1,70 @@
 name = "Pickaway County"
 fips_code = 39129
+
+[[zipcodes]]
+zipcode = 43102
+percent_zip_in_county = 2.44
+
+[[zipcodes]]
+zipcode = 43103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43110
+percent_zip_in_county = 0.12
+
+[[zipcodes]]
+zipcode = 43113
+percent_zip_in_county = 99.59
+
+[[zipcodes]]
+zipcode = 43115
+percent_zip_in_county = 11.28
+
+[[zipcodes]]
+zipcode = 43116
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43117
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43125
+percent_zip_in_county = 1.14
+
+[[zipcodes]]
+zipcode = 43135
+percent_zip_in_county = 14.06
+
+[[zipcodes]]
+zipcode = 43137
+percent_zip_in_county = 57.45
+
+[[zipcodes]]
+zipcode = 43143
+percent_zip_in_county = 25.9
+
+[[zipcodes]]
+zipcode = 43145
+percent_zip_in_county = 63.66
+
+[[zipcodes]]
+zipcode = 43146
+percent_zip_in_county = 84.47
+
+[[zipcodes]]
+zipcode = 43154
+percent_zip_in_county = 27.21
+
+[[zipcodes]]
+zipcode = 43156
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43164
+percent_zip_in_county = 96.64
+
+[[zipcodes]]
+zipcode = 45644
+percent_zip_in_county = 24.78

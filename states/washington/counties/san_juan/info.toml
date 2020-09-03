@@ -1,2 +1,42 @@
 name = "San Juan County"
 fips_code = 53055
+
+[[zipcodes]]
+zipcode = 98221
+percent_zip_in_county = 0.47
+
+[[zipcodes]]
+zipcode = 98222
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98243
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98245
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98250
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98261
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98279
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98280
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98286
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98297
+percent_zip_in_county = 100.0

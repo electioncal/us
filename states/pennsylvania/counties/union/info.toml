@@ -1,2 +1,58 @@
 name = "Union County"
 fips_code = 42119
+
+[[zipcodes]]
+zipcode = 17810
+percent_zip_in_county = 74.78
+
+[[zipcodes]]
+zipcode = 17829
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17835
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17837
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17844
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17845
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17855
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17856
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17870
+percent_zip_in_county = 0.99
+
+[[zipcodes]]
+zipcode = 17880
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17885
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17886
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17887
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17889
+percent_zip_in_county = 54.59

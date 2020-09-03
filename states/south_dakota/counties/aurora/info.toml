@@ -1,2 +1,26 @@
 name = "Aurora County"
 fips_code = 46003
+
+[[zipcodes]]
+zipcode = 57359
+percent_zip_in_county = 9.86
+
+[[zipcodes]]
+zipcode = 57368
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57375
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57382
+percent_zip_in_county = 1.45
+
+[[zipcodes]]
+zipcode = 57383
+percent_zip_in_county = 99.18
+
+[[zipcodes]]
+zipcode = 57385
+percent_zip_in_county = 1.97

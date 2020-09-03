@@ -1,2 +1,46 @@
 name = "Henry County"
 fips_code = 19087
+
+[[zipcodes]]
+zipcode = 52623
+percent_zip_in_county = 15.5
+
+[[zipcodes]]
+zipcode = 52630
+percent_zip_in_county = 55.73
+
+[[zipcodes]]
+zipcode = 52635
+percent_zip_in_county = 1.48
+
+[[zipcodes]]
+zipcode = 52641
+percent_zip_in_county = 99.17
+
+[[zipcodes]]
+zipcode = 52644
+percent_zip_in_county = 88.35
+
+[[zipcodes]]
+zipcode = 52645
+percent_zip_in_county = 92.0
+
+[[zipcodes]]
+zipcode = 52647
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52649
+percent_zip_in_county = 90.76
+
+[[zipcodes]]
+zipcode = 52654
+percent_zip_in_county = 87.73
+
+[[zipcodes]]
+zipcode = 52656
+percent_zip_in_county = 1.14
+
+[[zipcodes]]
+zipcode = 52659
+percent_zip_in_county = 94.01

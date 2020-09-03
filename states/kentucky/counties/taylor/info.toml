@@ -1,2 +1,26 @@
 name = "Taylor County"
 fips_code = 21217
+
+[[zipcodes]]
+zipcode = 40009
+percent_zip_in_county = 18.08
+
+[[zipcodes]]
+zipcode = 42716
+percent_zip_in_county = 5.18
+
+[[zipcodes]]
+zipcode = 42718
+percent_zip_in_county = 94.11
+
+[[zipcodes]]
+zipcode = 42728
+percent_zip_in_county = 0.36
+
+[[zipcodes]]
+zipcode = 42733
+percent_zip_in_county = 80.12
+
+[[zipcodes]]
+zipcode = 42758
+percent_zip_in_county = 100.0

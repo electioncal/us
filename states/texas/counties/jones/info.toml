@@ -1,2 +1,38 @@
 name = "Jones County"
 fips_code = 48253
+
+[[zipcodes]]
+zipcode = 79501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79503
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79520
+percent_zip_in_county = 96.82
+
+[[zipcodes]]
+zipcode = 79525
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79533
+percent_zip_in_county = 87.92
+
+[[zipcodes]]
+zipcode = 79536
+percent_zip_in_county = 15.64
+
+[[zipcodes]]
+zipcode = 79553
+percent_zip_in_county = 97.61
+
+[[zipcodes]]
+zipcode = 79560
+percent_zip_in_county = 12.41
+
+[[zipcodes]]
+zipcode = 79601
+percent_zip_in_county = 26.66

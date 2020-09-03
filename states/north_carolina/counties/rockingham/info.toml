@@ -1,2 +1,46 @@
 name = "Rockingham County"
 fips_code = 37157
+
+[[zipcodes]]
+zipcode = 27025
+percent_zip_in_county = 79.57
+
+[[zipcodes]]
+zipcode = 27027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27048
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27214
+percent_zip_in_county = 4.45
+
+[[zipcodes]]
+zipcode = 27249
+percent_zip_in_county = 0.76
+
+[[zipcodes]]
+zipcode = 27288
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27311
+percent_zip_in_county = 15.7
+
+[[zipcodes]]
+zipcode = 27320
+percent_zip_in_county = 94.19
+
+[[zipcodes]]
+zipcode = 27326
+percent_zip_in_county = 66.94
+
+[[zipcodes]]
+zipcode = 27357
+percent_zip_in_county = 55.64
+
+[[zipcodes]]
+zipcode = 27358
+percent_zip_in_county = 17.69

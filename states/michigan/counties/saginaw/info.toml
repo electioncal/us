@@ -1,2 +1,114 @@
 name = "Saginaw County"
 fips_code = 26145
+
+[[zipcodes]]
+zipcode = 48415
+percent_zip_in_county = 96.54
+
+[[zipcodes]]
+zipcode = 48417
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48420
+percent_zip_in_county = 0.13
+
+[[zipcodes]]
+zipcode = 48457
+percent_zip_in_county = 17.18
+
+[[zipcodes]]
+zipcode = 48460
+percent_zip_in_county = 36.57
+
+[[zipcodes]]
+zipcode = 48601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48602
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48603
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48604
+percent_zip_in_county = 98.81
+
+[[zipcodes]]
+zipcode = 48607
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48609
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48614
+percent_zip_in_county = 98.11
+
+[[zipcodes]]
+zipcode = 48616
+percent_zip_in_county = 99.75
+
+[[zipcodes]]
+zipcode = 48623
+percent_zip_in_county = 88.06
+
+[[zipcodes]]
+zipcode = 48626
+percent_zip_in_county = 92.04
+
+[[zipcodes]]
+zipcode = 48637
+percent_zip_in_county = 81.04
+
+[[zipcodes]]
+zipcode = 48638
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48649
+percent_zip_in_county = 97.59
+
+[[zipcodes]]
+zipcode = 48655
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48708
+percent_zip_in_county = 0.1
+
+[[zipcodes]]
+zipcode = 48722
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48724
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48734
+percent_zip_in_county = 98.12
+
+[[zipcodes]]
+zipcode = 48747
+percent_zip_in_county = 1.41
+
+[[zipcodes]]
+zipcode = 48757
+percent_zip_in_county = 21.69
+
+[[zipcodes]]
+zipcode = 48807
+percent_zip_in_county = 29.91
+
+[[zipcodes]]
+zipcode = 48831
+percent_zip_in_county = 16.63
+
+[[zipcodes]]
+zipcode = 48841
+percent_zip_in_county = 24.21

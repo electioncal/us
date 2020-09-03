@@ -1,2 +1,78 @@
 name = "Cape Girardeau County"
 fips_code = 29031
+
+[[zipcodes]]
+zipcode = 63701
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63703
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63730
+percent_zip_in_county = 7.67
+
+[[zipcodes]]
+zipcode = 63732
+percent_zip_in_county = 46.04
+
+[[zipcodes]]
+zipcode = 63739
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63740
+percent_zip_in_county = 18.06
+
+[[zipcodes]]
+zipcode = 63743
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63744
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63745
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63747
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63755
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63764
+percent_zip_in_county = 3.16
+
+[[zipcodes]]
+zipcode = 63766
+percent_zip_in_county = 83.85
+
+[[zipcodes]]
+zipcode = 63769
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63770
+percent_zip_in_county = 50.52
+
+[[zipcodes]]
+zipcode = 63771
+percent_zip_in_county = 0.31
+
+[[zipcodes]]
+zipcode = 63775
+percent_zip_in_county = 0.56
+
+[[zipcodes]]
+zipcode = 63780
+percent_zip_in_county = 0.04
+
+[[zipcodes]]
+zipcode = 63785
+percent_zip_in_county = 97.1

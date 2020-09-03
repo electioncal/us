@@ -1,2 +1,34 @@
 name = "La Paz County"
 fips_code = 4012
+
+[[zipcodes]]
+zipcode = 85325
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85328
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85334
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85344
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85346
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85348
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85357
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85371
+percent_zip_in_county = 100.0

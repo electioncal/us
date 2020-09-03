@@ -1,2 +1,42 @@
 name = "Chippewa County"
 fips_code = 27023
+
+[[zipcodes]]
+zipcode = 56208
+percent_zip_in_county = 0.39
+
+[[zipcodes]]
+zipcode = 56222
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56241
+percent_zip_in_county = 26.55
+
+[[zipcodes]]
+zipcode = 56252
+percent_zip_in_county = 9.45
+
+[[zipcodes]]
+zipcode = 56260
+percent_zip_in_county = 90.96
+
+[[zipcodes]]
+zipcode = 56262
+percent_zip_in_county = 91.99
+
+[[zipcodes]]
+zipcode = 56265
+percent_zip_in_county = 91.12
+
+[[zipcodes]]
+zipcode = 56271
+percent_zip_in_county = 10.03
+
+[[zipcodes]]
+zipcode = 56282
+percent_zip_in_county = 14.37
+
+[[zipcodes]]
+zipcode = 56295
+percent_zip_in_county = 100.0

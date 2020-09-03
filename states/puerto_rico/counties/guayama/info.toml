@@ -1,2 +1,10 @@
 name = "Guayama Municipio"
 fips_code = 72057
+
+[[zipcodes]]
+zipcode = 704
+percent_zip_in_county = 7.72
+
+[[zipcodes]]
+zipcode = 784
+percent_zip_in_county = 100.0

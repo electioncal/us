@@ -1,2 +1,34 @@
 name = "Wilkinson County"
 fips_code = 13319
+
+[[zipcodes]]
+zipcode = 31003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31017
+percent_zip_in_county = 27.51
+
+[[zipcodes]]
+zipcode = 31031
+percent_zip_in_county = 63.75
+
+[[zipcodes]]
+zipcode = 31042
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31044
+percent_zip_in_county = 2.95
+
+[[zipcodes]]
+zipcode = 31054
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31061
+percent_zip_in_county = 0.18
+
+[[zipcodes]]
+zipcode = 31090
+percent_zip_in_county = 100.0

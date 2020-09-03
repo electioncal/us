@@ -1,2 +1,86 @@
 name = "Stevens County"
 fips_code = 53065
+
+[[zipcodes]]
+zipcode = 99006
+percent_zip_in_county = 15.15
+
+[[zipcodes]]
+zipcode = 99013
+percent_zip_in_county = 82.75
+
+[[zipcodes]]
+zipcode = 99026
+percent_zip_in_county = 63.8
+
+[[zipcodes]]
+zipcode = 99034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99101
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99109
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99110
+percent_zip_in_county = 90.1
+
+[[zipcodes]]
+zipcode = 99114
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99122
+percent_zip_in_county = 0.69
+
+[[zipcodes]]
+zipcode = 99126
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99129
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99131
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99137
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99141
+percent_zip_in_county = 80.46
+
+[[zipcodes]]
+zipcode = 99148
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99151
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99157
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99167
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99173
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99181
+percent_zip_in_county = 100.0

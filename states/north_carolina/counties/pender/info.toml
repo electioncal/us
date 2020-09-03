@@ -1,2 +1,50 @@
 name = "Pender County"
 fips_code = 37141
+
+[[zipcodes]]
+zipcode = 28411
+percent_zip_in_county = 5.31
+
+[[zipcodes]]
+zipcode = 28421
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28425
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28435
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28443
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28445
+percent_zip_in_county = 32.38
+
+[[zipcodes]]
+zipcode = 28447
+percent_zip_in_county = 28.11
+
+[[zipcodes]]
+zipcode = 28448
+percent_zip_in_county = 3.7
+
+[[zipcodes]]
+zipcode = 28454
+percent_zip_in_county = 35.36
+
+[[zipcodes]]
+zipcode = 28457
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28466
+percent_zip_in_county = 6.85
+
+[[zipcodes]]
+zipcode = 28478
+percent_zip_in_county = 94.14

@@ -1,2 +1,134 @@
 name = "Franklin County"
 fips_code = 42055
+
+[[zipcodes]]
+zipcode = 17021
+percent_zip_in_county = 0.92
+
+[[zipcodes]]
+zipcode = 17201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17202
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17210
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17214
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17217
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17219
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17220
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17221
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17222
+percent_zip_in_county = 93.68
+
+[[zipcodes]]
+zipcode = 17224
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17225
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17235
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17236
+percent_zip_in_county = 97.41
+
+[[zipcodes]]
+zipcode = 17237
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17240
+percent_zip_in_county = 29.51
+
+[[zipcodes]]
+zipcode = 17244
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17246
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17247
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17250
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17251
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17252
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17254
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17256
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17257
+percent_zip_in_county = 33.74
+
+[[zipcodes]]
+zipcode = 17261
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17262
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17263
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17265
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17268
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17270
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17271
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17272
+percent_zip_in_county = 100.0

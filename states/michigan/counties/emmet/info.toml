@@ -1,2 +1,46 @@
 name = "Emmet County"
 fips_code = 26047
+
+[[zipcodes]]
+zipcode = 49701
+percent_zip_in_county = 58.69
+
+[[zipcodes]]
+zipcode = 49706
+percent_zip_in_county = 82.01
+
+[[zipcodes]]
+zipcode = 49713
+percent_zip_in_county = 4.4
+
+[[zipcodes]]
+zipcode = 49716
+percent_zip_in_county = 70.84
+
+[[zipcodes]]
+zipcode = 49718
+percent_zip_in_county = 91.3
+
+[[zipcodes]]
+zipcode = 49722
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49740
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49755
+percent_zip_in_county = 81.13
+
+[[zipcodes]]
+zipcode = 49764
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49769
+percent_zip_in_county = 92.15
+
+[[zipcodes]]
+zipcode = 49770
+percent_zip_in_county = 98.34

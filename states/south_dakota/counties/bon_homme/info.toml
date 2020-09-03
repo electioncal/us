@@ -1,2 +1,26 @@
 name = "Bon Homme County"
 fips_code = 46009
+
+[[zipcodes]]
+zipcode = 57059
+percent_zip_in_county = 78.98
+
+[[zipcodes]]
+zipcode = 57062
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57063
+percent_zip_in_county = 87.97
+
+[[zipcodes]]
+zipcode = 57066
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57315
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57376
+percent_zip_in_county = 7.72

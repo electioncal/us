@@ -1,2 +1,38 @@
 name = "Ellsworth County"
 fips_code = 20053
+
+[[zipcodes]]
+zipcode = 67425
+percent_zip_in_county = 20.75
+
+[[zipcodes]]
+zipcode = 67427
+percent_zip_in_county = 8.82
+
+[[zipcodes]]
+zipcode = 67439
+percent_zip_in_county = 99.84
+
+[[zipcodes]]
+zipcode = 67444
+percent_zip_in_county = 26.94
+
+[[zipcodes]]
+zipcode = 67450
+percent_zip_in_county = 98.38
+
+[[zipcodes]]
+zipcode = 67454
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67459
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67464
+percent_zip_in_county = 15.14
+
+[[zipcodes]]
+zipcode = 67490
+percent_zip_in_county = 93.18

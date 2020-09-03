@@ -1,2 +1,14 @@
 name = "Harrisonburg city"
 fips_code = 51660
+
+[[zipcodes]]
+zipcode = 22801
+percent_zip_in_county = 73.73
+
+[[zipcodes]]
+zipcode = 22802
+percent_zip_in_county = 66.91
+
+[[zipcodes]]
+zipcode = 22807
+percent_zip_in_county = 100.0

@@ -1,2 +1,138 @@
 name = "Ventura County"
 fips_code = 6111
+
+[[zipcodes]]
+zipcode = 90265
+percent_zip_in_county = 3.32
+
+[[zipcodes]]
+zipcode = 91304
+percent_zip_in_county = 0.48
+
+[[zipcodes]]
+zipcode = 91307
+percent_zip_in_county = 8.37
+
+[[zipcodes]]
+zipcode = 91311
+percent_zip_in_county = 0.73
+
+[[zipcodes]]
+zipcode = 91320
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 91360
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 91361
+percent_zip_in_county = 65.07
+
+[[zipcodes]]
+zipcode = 91362
+percent_zip_in_county = 96.63
+
+[[zipcodes]]
+zipcode = 91377
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93001
+percent_zip_in_county = 99.98
+
+[[zipcodes]]
+zipcode = 93003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93004
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93012
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93013
+percent_zip_in_county = 0.54
+
+[[zipcodes]]
+zipcode = 93015
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93042
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93060
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93063
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93064
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93065
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93066
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93225
+percent_zip_in_county = 6.6
+
+[[zipcodes]]
+zipcode = 93252
+percent_zip_in_county = 2.85

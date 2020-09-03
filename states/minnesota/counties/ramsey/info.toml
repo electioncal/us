@@ -1,2 +1,106 @@
 name = "Ramsey County"
 fips_code = 27123
+
+[[zipcodes]]
+zipcode = 55038
+percent_zip_in_county = 0.04
+
+[[zipcodes]]
+zipcode = 55101
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55102
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55104
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55105
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55106
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55107
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55108
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55109
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55110
+percent_zip_in_county = 89.23
+
+[[zipcodes]]
+zipcode = 55112
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55113
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55114
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55116
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55117
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55118
+percent_zip_in_county = 0.66
+
+[[zipcodes]]
+zipcode = 55119
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55126
+percent_zip_in_county = 99.73
+
+[[zipcodes]]
+zipcode = 55127
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55130
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55155
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 55418
+percent_zip_in_county = 0.48
+
+[[zipcodes]]
+zipcode = 55421
+percent_zip_in_county = 11.36
+
+[[zipcodes]]
+zipcode = 55432
+percent_zip_in_county = 0.59
+
+[[zipcodes]]
+zipcode = 55449
+percent_zip_in_county = 0.0

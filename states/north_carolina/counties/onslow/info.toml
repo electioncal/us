@@ -1,2 +1,66 @@
 name = "Onslow County"
 fips_code = 37133
+
+[[zipcodes]]
+zipcode = 28445
+percent_zip_in_county = 67.62
+
+[[zipcodes]]
+zipcode = 28454
+percent_zip_in_county = 64.64
+
+[[zipcodes]]
+zipcode = 28460
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28518
+percent_zip_in_county = 15.79
+
+[[zipcodes]]
+zipcode = 28521
+percent_zip_in_county = 6.12
+
+[[zipcodes]]
+zipcode = 28539
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28540
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28543
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28544
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28546
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28547
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28555
+percent_zip_in_county = 60.62
+
+[[zipcodes]]
+zipcode = 28572
+percent_zip_in_county = 0.24
+
+[[zipcodes]]
+zipcode = 28574
+percent_zip_in_county = 97.76
+
+[[zipcodes]]
+zipcode = 28582
+percent_zip_in_county = 53.78
+
+[[zipcodes]]
+zipcode = 28584
+percent_zip_in_county = 44.84

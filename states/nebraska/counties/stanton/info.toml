@@ -1,2 +1,38 @@
 name = "Stanton County"
 fips_code = 31167
+
+[[zipcodes]]
+zipcode = 68629
+percent_zip_in_county = 13.62
+
+[[zipcodes]]
+zipcode = 68631
+percent_zip_in_county = 4.38
+
+[[zipcodes]]
+zipcode = 68641
+percent_zip_in_county = 14.21
+
+[[zipcodes]]
+zipcode = 68643
+percent_zip_in_county = 12.74
+
+[[zipcodes]]
+zipcode = 68701
+percent_zip_in_county = 7.95
+
+[[zipcodes]]
+zipcode = 68740
+percent_zip_in_county = 3.59
+
+[[zipcodes]]
+zipcode = 68748
+percent_zip_in_county = 3.5
+
+[[zipcodes]]
+zipcode = 68768
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68779
+percent_zip_in_county = 100.0

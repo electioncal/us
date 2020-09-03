@@ -1,2 +1,62 @@
 name = "Marion County"
 fips_code = 17121
+
+[[zipcodes]]
+zipcode = 62801
+percent_zip_in_county = 70.1
+
+[[zipcodes]]
+zipcode = 62807
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62830
+percent_zip_in_county = 1.94
+
+[[zipcodes]]
+zipcode = 62838
+percent_zip_in_county = 1.0
+
+[[zipcodes]]
+zipcode = 62849
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62851
+percent_zip_in_county = 1.22
+
+[[zipcodes]]
+zipcode = 62853
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62854
+percent_zip_in_county = 98.7
+
+[[zipcodes]]
+zipcode = 62870
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62875
+percent_zip_in_county = 81.75
+
+[[zipcodes]]
+zipcode = 62881
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62882
+percent_zip_in_county = 98.07
+
+[[zipcodes]]
+zipcode = 62889
+percent_zip_in_county = 18.68
+
+[[zipcodes]]
+zipcode = 62892
+percent_zip_in_county = 88.96
+
+[[zipcodes]]
+zipcode = 62893
+percent_zip_in_county = 59.37

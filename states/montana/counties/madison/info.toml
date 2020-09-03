@@ -1,2 +1,66 @@
 name = "Madison County"
 fips_code = 30057
+
+[[zipcodes]]
+zipcode = 59710
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59716
+percent_zip_in_county = 24.47
+
+[[zipcodes]]
+zipcode = 59720
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59721
+percent_zip_in_county = 53.81
+
+[[zipcodes]]
+zipcode = 59725
+percent_zip_in_county = 0.05
+
+[[zipcodes]]
+zipcode = 59729
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59732
+percent_zip_in_county = 28.91
+
+[[zipcodes]]
+zipcode = 59735
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59740
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59745
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59747
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59749
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59751
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59754
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59755
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59759
+percent_zip_in_county = 9.47

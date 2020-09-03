@@ -1,2 +1,46 @@
 name = "Fulton County"
 fips_code = 39051
+
+[[zipcodes]]
+zipcode = 43502
+percent_zip_in_county = 90.93
+
+[[zipcodes]]
+zipcode = 43515
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43521
+percent_zip_in_county = 98.33
+
+[[zipcodes]]
+zipcode = 43532
+percent_zip_in_county = 3.21
+
+[[zipcodes]]
+zipcode = 43533
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43540
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43553
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43557
+percent_zip_in_county = 1.62
+
+[[zipcodes]]
+zipcode = 43558
+percent_zip_in_county = 64.82
+
+[[zipcodes]]
+zipcode = 43567
+percent_zip_in_county = 99.8
+
+[[zipcodes]]
+zipcode = 43570
+percent_zip_in_county = 3.28

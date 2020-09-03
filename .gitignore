@@ -3,3 +3,4 @@ site/*
 !site/static
 __pycache__
 env/*
+.venv

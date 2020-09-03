@@ -1,2 +1,10 @@
 name = "Petersburg city"
 fips_code = 51730
+
+[[zipcodes]]
+zipcode = 23803
+percent_zip_in_county = 47.53
+
+[[zipcodes]]
+zipcode = 23805
+percent_zip_in_county = 67.47

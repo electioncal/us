@@ -1,2 +1,118 @@
 name = "Dodge County"
 fips_code = 55027
+
+[[zipcodes]]
+zipcode = 53003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53006
+percent_zip_in_county = 77.46
+
+[[zipcodes]]
+zipcode = 53016
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53027
+percent_zip_in_county = 2.55
+
+[[zipcodes]]
+zipcode = 53032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53036
+percent_zip_in_county = 11.65
+
+[[zipcodes]]
+zipcode = 53039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53047
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53048
+percent_zip_in_county = 99.38
+
+[[zipcodes]]
+zipcode = 53050
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53059
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53065
+percent_zip_in_county = 0.76
+
+[[zipcodes]]
+zipcode = 53066
+percent_zip_in_county = 4.41
+
+[[zipcodes]]
+zipcode = 53078
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53091
+percent_zip_in_county = 97.42
+
+[[zipcodes]]
+zipcode = 53098
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53557
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53579
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53594
+percent_zip_in_county = 13.36
+
+[[zipcodes]]
+zipcode = 53916
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53922
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53925
+percent_zip_in_county = 15.63
+
+[[zipcodes]]
+zipcode = 53932
+percent_zip_in_county = 2.18
+
+[[zipcodes]]
+zipcode = 53933
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53946
+percent_zip_in_county = 0.05
+
+[[zipcodes]]
+zipcode = 53956
+percent_zip_in_county = 60.14
+
+[[zipcodes]]
+zipcode = 53963
+percent_zip_in_county = 62.6

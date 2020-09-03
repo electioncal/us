@@ -1,2 +1,18 @@
 name = "Carlisle County"
 fips_code = 21039
+
+[[zipcodes]]
+zipcode = 42021
+percent_zip_in_county = 92.29
+
+[[zipcodes]]
+zipcode = 42023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42035
+percent_zip_in_county = 86.99
+
+[[zipcodes]]
+zipcode = 42039
+percent_zip_in_county = 20.79

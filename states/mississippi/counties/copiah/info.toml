@@ -1,2 +1,34 @@
 name = "Copiah County"
 fips_code = 28029
+
+[[zipcodes]]
+zipcode = 39059
+percent_zip_in_county = 98.14
+
+[[zipcodes]]
+zipcode = 39078
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39083
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39086
+percent_zip_in_county = 13.39
+
+[[zipcodes]]
+zipcode = 39144
+percent_zip_in_county = 9.11
+
+[[zipcodes]]
+zipcode = 39170
+percent_zip_in_county = 0.52
+
+[[zipcodes]]
+zipcode = 39175
+percent_zip_in_county = 12.39
+
+[[zipcodes]]
+zipcode = 39191
+percent_zip_in_county = 65.3

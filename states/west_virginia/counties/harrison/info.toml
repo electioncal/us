@@ -1,2 +1,86 @@
 name = "Harrison County"
 fips_code = 54033
+
+[[zipcodes]]
+zipcode = 26301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26323
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26330
+percent_zip_in_county = 86.75
+
+[[zipcodes]]
+zipcode = 26361
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26366
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26369
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26378
+percent_zip_in_county = 25.0
+
+[[zipcodes]]
+zipcode = 26385
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26386
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26404
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26408
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26422
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26426
+percent_zip_in_county = 66.13
+
+[[zipcodes]]
+zipcode = 26431
+percent_zip_in_county = 90.4
+
+[[zipcodes]]
+zipcode = 26438
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26448
+percent_zip_in_county = 91.91
+
+[[zipcodes]]
+zipcode = 26451
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26554
+percent_zip_in_county = 0.56
+
+[[zipcodes]]
+zipcode = 26568
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26582
+percent_zip_in_county = 1.05
+
+[[zipcodes]]
+zipcode = 26591
+percent_zip_in_county = 8.27

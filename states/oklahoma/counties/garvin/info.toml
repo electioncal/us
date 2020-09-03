@@ -1,2 +1,50 @@
 name = "Garvin County"
 fips_code = 40049
+
+[[zipcodes]]
+zipcode = 73030
+percent_zip_in_county = 4.79
+
+[[zipcodes]]
+zipcode = 73052
+percent_zip_in_county = 74.24
+
+[[zipcodes]]
+zipcode = 73057
+percent_zip_in_county = 84.44
+
+[[zipcodes]]
+zipcode = 73074
+percent_zip_in_county = 96.3
+
+[[zipcodes]]
+zipcode = 73075
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73098
+percent_zip_in_county = 90.3
+
+[[zipcodes]]
+zipcode = 73433
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73434
+percent_zip_in_county = 42.06
+
+[[zipcodes]]
+zipcode = 73481
+percent_zip_in_county = 5.83
+
+[[zipcodes]]
+zipcode = 74831
+percent_zip_in_county = 1.63
+
+[[zipcodes]]
+zipcode = 74865
+percent_zip_in_county = 4.32
+
+[[zipcodes]]
+zipcode = 74872
+percent_zip_in_county = 80.66

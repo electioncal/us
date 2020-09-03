@@ -1,2 +1,14 @@
 name = "Kent County"
 fips_code = 48263
+
+[[zipcodes]]
+zipcode = 79518
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79528
+percent_zip_in_county = 98.38
+
+[[zipcodes]]
+zipcode = 79549
+percent_zip_in_county = 0.48

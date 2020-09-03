@@ -1,2 +1,58 @@
 name = "Trempealeau County"
 fips_code = 55121
+
+[[zipcodes]]
+zipcode = 54612
+percent_zip_in_county = 90.55
+
+[[zipcodes]]
+zipcode = 54616
+percent_zip_in_county = 99.04
+
+[[zipcodes]]
+zipcode = 54625
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54627
+percent_zip_in_county = 95.88
+
+[[zipcodes]]
+zipcode = 54630
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54642
+percent_zip_in_county = 4.09
+
+[[zipcodes]]
+zipcode = 54659
+percent_zip_in_county = 2.2
+
+[[zipcodes]]
+zipcode = 54661
+percent_zip_in_county = 99.97
+
+[[zipcodes]]
+zipcode = 54738
+percent_zip_in_county = 42.68
+
+[[zipcodes]]
+zipcode = 54747
+percent_zip_in_county = 88.4
+
+[[zipcodes]]
+zipcode = 54758
+percent_zip_in_county = 71.6
+
+[[zipcodes]]
+zipcode = 54760
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54770
+percent_zip_in_county = 85.77
+
+[[zipcodes]]
+zipcode = 54773
+percent_zip_in_county = 100.0

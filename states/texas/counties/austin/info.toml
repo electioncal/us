@@ -1,2 +1,54 @@
 name = "Austin County"
 fips_code = 48015
+
+[[zipcodes]]
+zipcode = 77418
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77426
+percent_zip_in_county = 6.67
+
+[[zipcodes]]
+zipcode = 77473
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77474
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77485
+percent_zip_in_county = 54.76
+
+[[zipcodes]]
+zipcode = 77833
+percent_zip_in_county = 1.25
+
+[[zipcodes]]
+zipcode = 77835
+percent_zip_in_county = 3.15
+
+[[zipcodes]]
+zipcode = 78931
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78933
+percent_zip_in_county = 49.34
+
+[[zipcodes]]
+zipcode = 78940
+percent_zip_in_county = 8.39
+
+[[zipcodes]]
+zipcode = 78944
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78950
+percent_zip_in_county = 66.98
+
+[[zipcodes]]
+zipcode = 78954
+percent_zip_in_county = 4.01

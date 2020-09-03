@@ -1,2 +1,18 @@
 name = "Glascock County"
 fips_code = 13125
+
+[[zipcodes]]
+zipcode = 30810
+percent_zip_in_county = 97.29
+
+[[zipcodes]]
+zipcode = 30820
+percent_zip_in_county = 70.12
+
+[[zipcodes]]
+zipcode = 30823
+percent_zip_in_county = 4.78
+
+[[zipcodes]]
+zipcode = 30828
+percent_zip_in_county = 1.63

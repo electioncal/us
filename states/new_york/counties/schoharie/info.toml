@@ -1,2 +1,98 @@
 name = "Schoharie County"
 fips_code = 36095
+
+[[zipcodes]]
+zipcode = 12023
+percent_zip_in_county = 17.4
+
+[[zipcodes]]
+zipcode = 12031
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12036
+percent_zip_in_county = 84.65
+
+[[zipcodes]]
+zipcode = 12043
+percent_zip_in_county = 99.94
+
+[[zipcodes]]
+zipcode = 12053
+percent_zip_in_county = 11.23
+
+[[zipcodes]]
+zipcode = 12064
+percent_zip_in_county = 8.53
+
+[[zipcodes]]
+zipcode = 12066
+percent_zip_in_county = 51.42
+
+[[zipcodes]]
+zipcode = 12071
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12076
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12092
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12093
+percent_zip_in_county = 79.29
+
+[[zipcodes]]
+zipcode = 12122
+percent_zip_in_county = 96.03
+
+[[zipcodes]]
+zipcode = 12131
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12149
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12157
+percent_zip_in_county = 99.31
+
+[[zipcodes]]
+zipcode = 12160
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12166
+percent_zip_in_county = 0.37
+
+[[zipcodes]]
+zipcode = 12167
+percent_zip_in_county = 30.27
+
+[[zipcodes]]
+zipcode = 12175
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12187
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12194
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12469
+percent_zip_in_county = 13.74
+
+[[zipcodes]]
+zipcode = 13459
+percent_zip_in_county = 95.86

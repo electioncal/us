@@ -1,2 +1,46 @@
 name = "Wilson County"
 fips_code = 47189
+
+[[zipcodes]]
+zipcode = 37012
+percent_zip_in_county = 5.5
+
+[[zipcodes]]
+zipcode = 37016
+percent_zip_in_county = 25.98
+
+[[zipcodes]]
+zipcode = 37076
+percent_zip_in_county = 2.12
+
+[[zipcodes]]
+zipcode = 37085
+percent_zip_in_county = 12.49
+
+[[zipcodes]]
+zipcode = 37087
+percent_zip_in_county = 97.04
+
+[[zipcodes]]
+zipcode = 37090
+percent_zip_in_county = 95.16
+
+[[zipcodes]]
+zipcode = 37095
+percent_zip_in_county = 4.21
+
+[[zipcodes]]
+zipcode = 37118
+percent_zip_in_county = 22.78
+
+[[zipcodes]]
+zipcode = 37122
+percent_zip_in_county = 97.68
+
+[[zipcodes]]
+zipcode = 37138
+percent_zip_in_county = 40.09
+
+[[zipcodes]]
+zipcode = 37184
+percent_zip_in_county = 95.0

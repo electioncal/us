@@ -1,2 +1,94 @@
 name = "Medina County"
 fips_code = 39103
+
+[[zipcodes]]
+zipcode = 44136
+percent_zip_in_county = 0.14
+
+[[zipcodes]]
+zipcode = 44203
+percent_zip_in_county = 0.31
+
+[[zipcodes]]
+zipcode = 44212
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44214
+percent_zip_in_county = 9.87
+
+[[zipcodes]]
+zipcode = 44215
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44217
+percent_zip_in_county = 7.56
+
+[[zipcodes]]
+zipcode = 44230
+percent_zip_in_county = 1.91
+
+[[zipcodes]]
+zipcode = 44233
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44235
+percent_zip_in_county = 97.75
+
+[[zipcodes]]
+zipcode = 44251
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44253
+percent_zip_in_county = 93.63
+
+[[zipcodes]]
+zipcode = 44254
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44256
+percent_zip_in_county = 99.83
+
+[[zipcodes]]
+zipcode = 44270
+percent_zip_in_county = 7.36
+
+[[zipcodes]]
+zipcode = 44273
+percent_zip_in_county = 98.88
+
+[[zipcodes]]
+zipcode = 44274
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44275
+percent_zip_in_county = 97.73
+
+[[zipcodes]]
+zipcode = 44280
+percent_zip_in_county = 97.98
+
+[[zipcodes]]
+zipcode = 44281
+percent_zip_in_county = 99.55
+
+[[zipcodes]]
+zipcode = 44287
+percent_zip_in_county = 4.88
+
+[[zipcodes]]
+zipcode = 44321
+percent_zip_in_county = 0.38
+
+[[zipcodes]]
+zipcode = 44333
+percent_zip_in_county = 0.2
+
+[[zipcodes]]
+zipcode = 44880
+percent_zip_in_county = 0.59

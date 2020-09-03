@@ -1,2 +1,30 @@
 name = "Clark County"
 fips_code = 5019
+
+[[zipcodes]]
+zipcode = 71743
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71772
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71921
+percent_zip_in_county = 54.68
+
+[[zipcodes]]
+zipcode = 71923
+percent_zip_in_county = 96.28
+
+[[zipcodes]]
+zipcode = 71962
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71998
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71999
+percent_zip_in_county = 100.0

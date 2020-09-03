@@ -1,2 +1,46 @@
 name = "Mille Lacs County"
 fips_code = 27095
+
+[[zipcodes]]
+zipcode = 55371
+percent_zip_in_county = 51.99
+
+[[zipcodes]]
+zipcode = 56313
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56330
+percent_zip_in_county = 84.03
+
+[[zipcodes]]
+zipcode = 56342
+percent_zip_in_county = 60.75
+
+[[zipcodes]]
+zipcode = 56353
+percent_zip_in_county = 99.14
+
+[[zipcodes]]
+zipcode = 56357
+percent_zip_in_county = 31.0
+
+[[zipcodes]]
+zipcode = 56358
+percent_zip_in_county = 1.38
+
+[[zipcodes]]
+zipcode = 56359
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56363
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56386
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56450
+percent_zip_in_county = 38.25

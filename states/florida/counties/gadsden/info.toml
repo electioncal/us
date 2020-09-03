@@ -1,2 +1,30 @@
 name = "Gadsden County"
 fips_code = 12039
+
+[[zipcodes]]
+zipcode = 32324
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32330
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32332
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32333
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32343
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32351
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32352
+percent_zip_in_county = 100.0

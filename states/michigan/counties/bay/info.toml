@@ -1,2 +1,70 @@
 name = "Bay County"
 fips_code = 26017
+
+[[zipcodes]]
+zipcode = 48604
+percent_zip_in_county = 1.19
+
+[[zipcodes]]
+zipcode = 48611
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48613
+percent_zip_in_county = 91.36
+
+[[zipcodes]]
+zipcode = 48623
+percent_zip_in_county = 4.46
+
+[[zipcodes]]
+zipcode = 48631
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48634
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48642
+percent_zip_in_county = 6.14
+
+[[zipcodes]]
+zipcode = 48650
+percent_zip_in_county = 93.2
+
+[[zipcodes]]
+zipcode = 48652
+percent_zip_in_county = 30.62
+
+[[zipcodes]]
+zipcode = 48658
+percent_zip_in_county = 4.5
+
+[[zipcodes]]
+zipcode = 48659
+percent_zip_in_county = 2.0
+
+[[zipcodes]]
+zipcode = 48706
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48708
+percent_zip_in_county = 99.9
+
+[[zipcodes]]
+zipcode = 48710
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 48732
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48747
+percent_zip_in_county = 98.59
+
+[[zipcodes]]
+zipcode = 48757
+percent_zip_in_county = 1.94

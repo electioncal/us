@@ -1,2 +1,34 @@
 name = "Gordon County"
 fips_code = 13129
+
+[[zipcodes]]
+zipcode = 30103
+percent_zip_in_county = 19.99
+
+[[zipcodes]]
+zipcode = 30139
+percent_zip_in_county = 68.63
+
+[[zipcodes]]
+zipcode = 30171
+percent_zip_in_county = 8.99
+
+[[zipcodes]]
+zipcode = 30701
+percent_zip_in_county = 99.16
+
+[[zipcodes]]
+zipcode = 30733
+percent_zip_in_county = 96.44
+
+[[zipcodes]]
+zipcode = 30734
+percent_zip_in_county = 84.77
+
+[[zipcodes]]
+zipcode = 30735
+percent_zip_in_county = 55.16
+
+[[zipcodes]]
+zipcode = 30746
+percent_zip_in_county = 100.0

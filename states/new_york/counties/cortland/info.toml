@@ -1,2 +1,66 @@
 name = "Cortland County"
 fips_code = 36023
+
+[[zipcodes]]
+zipcode = 13040
+percent_zip_in_county = 91.15
+
+[[zipcodes]]
+zipcode = 13045
+percent_zip_in_county = 96.35
+
+[[zipcodes]]
+zipcode = 13052
+percent_zip_in_county = 6.19
+
+[[zipcodes]]
+zipcode = 13053
+percent_zip_in_county = 10.53
+
+[[zipcodes]]
+zipcode = 13077
+percent_zip_in_county = 96.32
+
+[[zipcodes]]
+zipcode = 13087
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13101
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13141
+percent_zip_in_county = 75.17
+
+[[zipcodes]]
+zipcode = 13158
+percent_zip_in_county = 98.06
+
+[[zipcodes]]
+zipcode = 13159
+percent_zip_in_county = 16.05
+
+[[zipcodes]]
+zipcode = 13784
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13803
+percent_zip_in_county = 91.5
+
+[[zipcodes]]
+zipcode = 13835
+percent_zip_in_county = 21.71
+
+[[zipcodes]]
+zipcode = 13841
+percent_zip_in_county = 11.72
+
+[[zipcodes]]
+zipcode = 13862
+percent_zip_in_county = 0.64
+
+[[zipcodes]]
+zipcode = 13863
+percent_zip_in_county = 100.0

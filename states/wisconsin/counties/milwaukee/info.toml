@@ -1,2 +1,146 @@
 name = "Milwaukee County"
 fips_code = 55079
+
+[[zipcodes]]
+zipcode = 53110
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53129
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53130
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53132
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53154
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53172
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53202
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53203
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53204
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53205
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53206
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53207
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53208
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53209
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53210
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53211
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53212
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53213
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53214
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53215
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53216
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53217
+percent_zip_in_county = 99.7
+
+[[zipcodes]]
+zipcode = 53218
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53219
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53220
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53221
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53222
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53223
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53224
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53225
+percent_zip_in_county = 99.98
+
+[[zipcodes]]
+zipcode = 53226
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53227
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53228
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53233
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53235
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53295
+percent_zip_in_county = 100.0

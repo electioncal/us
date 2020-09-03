@@ -1,2 +1,10 @@
 name = "King George County"
 fips_code = 51099
+
+[[zipcodes]]
+zipcode = 22448
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22485
+percent_zip_in_county = 99.92

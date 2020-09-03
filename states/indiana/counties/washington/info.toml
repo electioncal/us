@@ -1,2 +1,42 @@
 name = "Washington County"
 fips_code = 18175
+
+[[zipcodes]]
+zipcode = 47106
+percent_zip_in_county = 4.24
+
+[[zipcodes]]
+zipcode = 47108
+percent_zip_in_county = 98.82
+
+[[zipcodes]]
+zipcode = 47120
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47125
+percent_zip_in_county = 60.86
+
+[[zipcodes]]
+zipcode = 47126
+percent_zip_in_county = 3.36
+
+[[zipcodes]]
+zipcode = 47164
+percent_zip_in_county = 19.45
+
+[[zipcodes]]
+zipcode = 47165
+percent_zip_in_county = 98.49
+
+[[zipcodes]]
+zipcode = 47167
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47170
+percent_zip_in_county = 7.19
+
+[[zipcodes]]
+zipcode = 47281
+percent_zip_in_county = 29.0

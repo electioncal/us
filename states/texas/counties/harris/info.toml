@@ -1,2 +1,566 @@
 name = "Harris County"
 fips_code = 48201
+
+[[zipcodes]]
+zipcode = 77002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77004
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77005
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77006
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77008
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77009
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77011
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77012
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77013
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77014
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77015
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77016
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77017
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77018
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77019
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77026
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77028
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77029
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77031
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77038
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77042
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77044
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77047
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77048
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77049
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77050
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77053
+percent_zip_in_county = 40.38
+
+[[zipcodes]]
+zipcode = 77054
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77055
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77056
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77057
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77058
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77059
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77060
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77062
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77063
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77064
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77065
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77066
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77068
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77069
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77071
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77073
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77074
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77075
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77076
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77077
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77078
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77079
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77080
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77081
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77082
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77083
+percent_zip_in_county = 56.0
+
+[[zipcodes]]
+zipcode = 77084
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77085
+percent_zip_in_county = 97.31
+
+[[zipcodes]]
+zipcode = 77086
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77087
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77088
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77089
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77090
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77091
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77092
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77093
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77094
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77095
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77096
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77098
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77099
+percent_zip_in_county = 95.59
+
+[[zipcodes]]
+zipcode = 77201
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 77336
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77338
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77339
+percent_zip_in_county = 80.06
+
+[[zipcodes]]
+zipcode = 77345
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77346
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77357
+percent_zip_in_county = 2.42
+
+[[zipcodes]]
+zipcode = 77365
+percent_zip_in_county = 0.55
+
+[[zipcodes]]
+zipcode = 77373
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77375
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77377
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77379
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77388
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77389
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77396
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77429
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77433
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77447
+percent_zip_in_county = 58.2
+
+[[zipcodes]]
+zipcode = 77449
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77450
+percent_zip_in_county = 66.63
+
+[[zipcodes]]
+zipcode = 77477
+percent_zip_in_county = 10.56
+
+[[zipcodes]]
+zipcode = 77484
+percent_zip_in_county = 19.73
+
+[[zipcodes]]
+zipcode = 77489
+percent_zip_in_county = 3.3
+
+[[zipcodes]]
+zipcode = 77493
+percent_zip_in_county = 89.18
+
+[[zipcodes]]
+zipcode = 77494
+percent_zip_in_county = 8.13
+
+[[zipcodes]]
+zipcode = 77502
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77503
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77504
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77505
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77506
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77507
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 77520
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77521
+percent_zip_in_county = 94.09
+
+[[zipcodes]]
+zipcode = 77530
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77532
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77536
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77546
+percent_zip_in_county = 46.44
+
+[[zipcodes]]
+zipcode = 77547
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77562
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77571
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77581
+percent_zip_in_county = 9.07
+
+[[zipcodes]]
+zipcode = 77586
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77587
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77598
+percent_zip_in_county = 100.0

@@ -1,2 +1,46 @@
 name = "Calhoun County"
 fips_code = 19025
+
+[[zipcodes]]
+zipcode = 50538
+percent_zip_in_county = 99.01
+
+[[zipcodes]]
+zipcode = 50540
+percent_zip_in_county = 11.06
+
+[[zipcodes]]
+zipcode = 50551
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50561
+percent_zip_in_county = 31.92
+
+[[zipcodes]]
+zipcode = 50563
+percent_zip_in_county = 93.24
+
+[[zipcodes]]
+zipcode = 50575
+percent_zip_in_county = 84.73
+
+[[zipcodes]]
+zipcode = 50579
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50586
+percent_zip_in_county = 95.77
+
+[[zipcodes]]
+zipcode = 51433
+percent_zip_in_county = 24.85
+
+[[zipcodes]]
+zipcode = 51449
+percent_zip_in_county = 97.23
+
+[[zipcodes]]
+zipcode = 51453
+percent_zip_in_county = 93.09

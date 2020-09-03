@@ -1,2 +1,102 @@
 name = "Polk County"
 fips_code = 27119
+
+[[zipcodes]]
+zipcode = 56517
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56523
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56535
+percent_zip_in_county = 98.09
+
+[[zipcodes]]
+zipcode = 56540
+percent_zip_in_county = 89.4
+
+[[zipcodes]]
+zipcode = 56542
+percent_zip_in_county = 94.41
+
+[[zipcodes]]
+zipcode = 56556
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56568
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56592
+percent_zip_in_county = 99.22
+
+[[zipcodes]]
+zipcode = 56621
+percent_zip_in_county = 1.42
+
+[[zipcodes]]
+zipcode = 56634
+percent_zip_in_county = 0.37
+
+[[zipcodes]]
+zipcode = 56644
+percent_zip_in_county = 1.14
+
+[[zipcodes]]
+zipcode = 56646
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56651
+percent_zip_in_county = 48.14
+
+[[zipcodes]]
+zipcode = 56684
+percent_zip_in_county = 81.21
+
+[[zipcodes]]
+zipcode = 56710
+percent_zip_in_county = 4.08
+
+[[zipcodes]]
+zipcode = 56715
+percent_zip_in_county = 2.86
+
+[[zipcodes]]
+zipcode = 56716
+percent_zip_in_county = 99.7
+
+[[zipcodes]]
+zipcode = 56721
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56722
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56723
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56736
+percent_zip_in_county = 96.46
+
+[[zipcodes]]
+zipcode = 56742
+percent_zip_in_county = 2.18
+
+[[zipcodes]]
+zipcode = 56744
+percent_zip_in_county = 13.04
+
+[[zipcodes]]
+zipcode = 56750
+percent_zip_in_county = 2.24
+
+[[zipcodes]]
+zipcode = 56762
+percent_zip_in_county = 15.36

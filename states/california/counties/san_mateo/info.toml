@@ -1,2 +1,122 @@
 name = "San Mateo County"
 fips_code = 6081
+
+[[zipcodes]]
+zipcode = 94002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94005
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94014
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94015
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94019
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94028
+percent_zip_in_county = 98.42
+
+[[zipcodes]]
+zipcode = 94030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94038
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94044
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94060
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94062
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94063
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94065
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94066
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94074
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94080
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94128
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94303
+percent_zip_in_county = 61.92
+
+[[zipcodes]]
+zipcode = 94401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94402
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94403
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94404
+percent_zip_in_county = 100.0

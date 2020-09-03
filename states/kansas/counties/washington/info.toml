@@ -1,2 +1,58 @@
 name = "Washington County"
 fips_code = 20201
+
+[[zipcodes]]
+zipcode = 66412
+percent_zip_in_county = 5.57
+
+[[zipcodes]]
+zipcode = 66548
+percent_zip_in_county = 0.31
+
+[[zipcodes]]
+zipcode = 66933
+percent_zip_in_county = 95.64
+
+[[zipcodes]]
+zipcode = 66937
+percent_zip_in_county = 56.89
+
+[[zipcodes]]
+zipcode = 66938
+percent_zip_in_county = 5.87
+
+[[zipcodes]]
+zipcode = 66943
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66944
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66945
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66946
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66953
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66955
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66958
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66962
+percent_zip_in_county = 94.32
+
+[[zipcodes]]
+zipcode = 66968
+percent_zip_in_county = 100.0

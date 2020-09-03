@@ -1,2 +1,50 @@
 name = "Pocahontas County"
 fips_code = 54075
+
+[[zipcodes]]
+zipcode = 24915
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24920
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24924
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24927
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24934
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24944
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24946
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24954
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24986
+percent_zip_in_county = 0.69
+
+[[zipcodes]]
+zipcode = 26209
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26264
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26291
+percent_zip_in_county = 100.0

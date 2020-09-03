@@ -1,2 +1,42 @@
 name = "Daviess County"
 fips_code = 21059
+
+[[zipcodes]]
+zipcode = 42301
+percent_zip_in_county = 99.71
+
+[[zipcodes]]
+zipcode = 42303
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42327
+percent_zip_in_county = 0.89
+
+[[zipcodes]]
+zipcode = 42348
+percent_zip_in_county = 6.26
+
+[[zipcodes]]
+zipcode = 42351
+percent_zip_in_county = 17.63
+
+[[zipcodes]]
+zipcode = 42355
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42356
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42366
+percent_zip_in_county = 98.21
+
+[[zipcodes]]
+zipcode = 42376
+percent_zip_in_county = 76.5
+
+[[zipcodes]]
+zipcode = 42378
+percent_zip_in_county = 68.37

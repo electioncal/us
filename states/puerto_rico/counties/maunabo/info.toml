@@ -1,2 +1,6 @@
 name = "Maunabo Municipio"
 fips_code = 72095
+
+[[zipcodes]]
+zipcode = 707
+percent_zip_in_county = 100.0

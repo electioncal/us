@@ -1,2 +1,62 @@
 name = "Rush County"
 fips_code = 18139
+
+[[zipcodes]]
+zipcode = 46104
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46115
+percent_zip_in_county = 94.41
+
+[[zipcodes]]
+zipcode = 46127
+percent_zip_in_county = 62.5
+
+[[zipcodes]]
+zipcode = 46133
+percent_zip_in_county = 47.92
+
+[[zipcodes]]
+zipcode = 46140
+percent_zip_in_county = 0.26
+
+[[zipcodes]]
+zipcode = 46146
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46148
+percent_zip_in_county = 9.48
+
+[[zipcodes]]
+zipcode = 46150
+percent_zip_in_county = 86.26
+
+[[zipcodes]]
+zipcode = 46155
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46156
+percent_zip_in_county = 99.25
+
+[[zipcodes]]
+zipcode = 46161
+percent_zip_in_county = 2.56
+
+[[zipcodes]]
+zipcode = 46173
+percent_zip_in_county = 95.27
+
+[[zipcodes]]
+zipcode = 46182
+percent_zip_in_county = 5.5
+
+[[zipcodes]]
+zipcode = 47240
+percent_zip_in_county = 0.23
+
+[[zipcodes]]
+zipcode = 47352
+percent_zip_in_county = 14.82

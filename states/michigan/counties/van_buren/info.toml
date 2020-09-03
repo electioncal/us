@@ -1,2 +1,90 @@
 name = "Van Buren County"
 fips_code = 26159
+
+[[zipcodes]]
+zipcode = 49009
+percent_zip_in_county = 0.83
+
+[[zipcodes]]
+zipcode = 49010
+percent_zip_in_county = 0.52
+
+[[zipcodes]]
+zipcode = 49013
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49022
+percent_zip_in_county = 0.78
+
+[[zipcodes]]
+zipcode = 49026
+percent_zip_in_county = 92.27
+
+[[zipcodes]]
+zipcode = 49027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49038
+percent_zip_in_county = 4.3
+
+[[zipcodes]]
+zipcode = 49043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49045
+percent_zip_in_county = 91.98
+
+[[zipcodes]]
+zipcode = 49047
+percent_zip_in_county = 6.11
+
+[[zipcodes]]
+zipcode = 49055
+percent_zip_in_county = 91.83
+
+[[zipcodes]]
+zipcode = 49056
+percent_zip_in_county = 63.05
+
+[[zipcodes]]
+zipcode = 49057
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49064
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49065
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49067
+percent_zip_in_county = 7.98
+
+[[zipcodes]]
+zipcode = 49071
+percent_zip_in_county = 82.48
+
+[[zipcodes]]
+zipcode = 49078
+percent_zip_in_county = 1.01
+
+[[zipcodes]]
+zipcode = 49079
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49087
+percent_zip_in_county = 1.42
+
+[[zipcodes]]
+zipcode = 49090
+percent_zip_in_county = 82.08
+
+[[zipcodes]]
+zipcode = 49098
+percent_zip_in_county = 7.59

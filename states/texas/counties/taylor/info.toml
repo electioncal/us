@@ -1,2 +1,66 @@
 name = "Taylor County"
 fips_code = 48441
+
+[[zipcodes]]
+zipcode = 79508
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79530
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79536
+percent_zip_in_county = 84.04
+
+[[zipcodes]]
+zipcode = 79541
+percent_zip_in_county = 96.08
+
+[[zipcodes]]
+zipcode = 79561
+percent_zip_in_county = 77.19
+
+[[zipcodes]]
+zipcode = 79562
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79563
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79566
+percent_zip_in_county = 51.05
+
+[[zipcodes]]
+zipcode = 79567
+percent_zip_in_county = 1.93
+
+[[zipcodes]]
+zipcode = 79601
+percent_zip_in_county = 70.54
+
+[[zipcodes]]
+zipcode = 79602
+percent_zip_in_county = 98.07
+
+[[zipcodes]]
+zipcode = 79603
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79605
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79606
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79607
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79699
+percent_zip_in_county = 100.0

@@ -1,2 +1,18 @@
 name = "Caldwell Parish"
 fips_code = 22021
+
+[[zipcodes]]
+zipcode = 71418
+percent_zip_in_county = 88.42
+
+[[zipcodes]]
+zipcode = 71435
+percent_zip_in_county = 98.72
+
+[[zipcodes]]
+zipcode = 71441
+percent_zip_in_county = 87.7
+
+[[zipcodes]]
+zipcode = 71465
+percent_zip_in_county = 3.06

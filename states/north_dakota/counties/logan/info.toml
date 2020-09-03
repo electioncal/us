@@ -1,2 +1,30 @@
 name = "Logan County"
 fips_code = 38047
+
+[[zipcodes]]
+zipcode = 58440
+percent_zip_in_county = 70.17
+
+[[zipcodes]]
+zipcode = 58442
+percent_zip_in_county = 92.89
+
+[[zipcodes]]
+zipcode = 58460
+percent_zip_in_county = 44.78
+
+[[zipcodes]]
+zipcode = 58483
+percent_zip_in_county = 16.76
+
+[[zipcodes]]
+zipcode = 58495
+percent_zip_in_county = 6.76
+
+[[zipcodes]]
+zipcode = 58549
+percent_zip_in_county = 39.25
+
+[[zipcodes]]
+zipcode = 58561
+percent_zip_in_county = 100.0

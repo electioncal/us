@@ -1,2 +1,78 @@
 name = "Whatcom County"
 fips_code = 53073
+
+[[zipcodes]]
+zipcode = 98220
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98225
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98226
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98229
+percent_zip_in_county = 99.01
+
+[[zipcodes]]
+zipcode = 98230
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98237
+percent_zip_in_county = 0.02
+
+[[zipcodes]]
+zipcode = 98240
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98244
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98247
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98248
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98262
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98264
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98266
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98276
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98281
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98283
+percent_zip_in_county = 18.2
+
+[[zipcodes]]
+zipcode = 98284
+percent_zip_in_county = 8.71
+
+[[zipcodes]]
+zipcode = 98295
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98862
+percent_zip_in_county = 0.0

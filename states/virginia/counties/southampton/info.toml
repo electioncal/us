@@ -1,2 +1,50 @@
 name = "Southampton County"
 fips_code = 51175
+
+[[zipcodes]]
+zipcode = 23827
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23828
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23829
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23837
+percent_zip_in_county = 98.51
+
+[[zipcodes]]
+zipcode = 23844
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23847
+percent_zip_in_county = 1.25
+
+[[zipcodes]]
+zipcode = 23851
+percent_zip_in_county = 28.97
+
+[[zipcodes]]
+zipcode = 23866
+percent_zip_in_county = 78.23
+
+[[zipcodes]]
+zipcode = 23874
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23878
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23888
+percent_zip_in_county = 11.65
+
+[[zipcodes]]
+zipcode = 23898
+percent_zip_in_county = 34.46

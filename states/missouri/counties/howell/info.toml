@@ -1,2 +1,50 @@
 name = "Howell County"
 fips_code = 29091
+
+[[zipcodes]]
+zipcode = 65548
+percent_zip_in_county = 91.1
+
+[[zipcodes]]
+zipcode = 65609
+percent_zip_in_county = 24.55
+
+[[zipcodes]]
+zipcode = 65626
+percent_zip_in_county = 49.3
+
+[[zipcodes]]
+zipcode = 65637
+percent_zip_in_county = 18.77
+
+[[zipcodes]]
+zipcode = 65689
+percent_zip_in_county = 1.19
+
+[[zipcodes]]
+zipcode = 65692
+percent_zip_in_county = 26.2
+
+[[zipcodes]]
+zipcode = 65775
+percent_zip_in_county = 98.64
+
+[[zipcodes]]
+zipcode = 65777
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65788
+percent_zip_in_county = 96.21
+
+[[zipcodes]]
+zipcode = 65789
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65790
+percent_zip_in_county = 87.01
+
+[[zipcodes]]
+zipcode = 65793
+percent_zip_in_county = 85.83

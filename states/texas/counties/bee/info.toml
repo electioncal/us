@@ -1,2 +1,46 @@
 name = "Bee County"
 fips_code = 48025
+
+[[zipcodes]]
+zipcode = 78102
+percent_zip_in_county = 99.85
+
+[[zipcodes]]
+zipcode = 78104
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78119
+percent_zip_in_county = 4.13
+
+[[zipcodes]]
+zipcode = 78125
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78142
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78145
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78146
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78162
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78387
+percent_zip_in_county = 5.09
+
+[[zipcodes]]
+zipcode = 78389
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78391
+percent_zip_in_county = 100.0

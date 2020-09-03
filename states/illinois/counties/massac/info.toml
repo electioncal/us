@@ -1,2 +1,30 @@
 name = "Massac County"
 fips_code = 17127
+
+[[zipcodes]]
+zipcode = 62908
+percent_zip_in_county = 53.1
+
+[[zipcodes]]
+zipcode = 62910
+percent_zip_in_county = 90.05
+
+[[zipcodes]]
+zipcode = 62941
+percent_zip_in_county = 27.1
+
+[[zipcodes]]
+zipcode = 62943
+percent_zip_in_county = 22.38
+
+[[zipcodes]]
+zipcode = 62953
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62956
+percent_zip_in_county = 30.96
+
+[[zipcodes]]
+zipcode = 62960
+percent_zip_in_county = 99.91

@@ -1,2 +1,82 @@
 name = "Greene County"
 fips_code = 29077
+
+[[zipcodes]]
+zipcode = 65604
+percent_zip_in_county = 67.19
+
+[[zipcodes]]
+zipcode = 65610
+percent_zip_in_county = 11.07
+
+[[zipcodes]]
+zipcode = 65612
+percent_zip_in_county = 92.1
+
+[[zipcodes]]
+zipcode = 65617
+percent_zip_in_county = 36.69
+
+[[zipcodes]]
+zipcode = 65619
+percent_zip_in_county = 97.19
+
+[[zipcodes]]
+zipcode = 65648
+percent_zip_in_county = 71.16
+
+[[zipcodes]]
+zipcode = 65721
+percent_zip_in_county = 2.95
+
+[[zipcodes]]
+zipcode = 65725
+percent_zip_in_county = 29.08
+
+[[zipcodes]]
+zipcode = 65738
+percent_zip_in_county = 97.9
+
+[[zipcodes]]
+zipcode = 65742
+percent_zip_in_county = 40.93
+
+[[zipcodes]]
+zipcode = 65757
+percent_zip_in_county = 78.06
+
+[[zipcodes]]
+zipcode = 65770
+percent_zip_in_county = 70.59
+
+[[zipcodes]]
+zipcode = 65781
+percent_zip_in_county = 97.71
+
+[[zipcodes]]
+zipcode = 65802
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65803
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65804
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65806
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65807
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65809
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65810
+percent_zip_in_county = 100.0

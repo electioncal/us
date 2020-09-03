@@ -1,2 +1,38 @@
 name = "Larue County"
 fips_code = 21123
+
+[[zipcodes]]
+zipcode = 40051
+percent_zip_in_county = 17.9
+
+[[zipcodes]]
+zipcode = 40052
+percent_zip_in_county = 5.63
+
+[[zipcodes]]
+zipcode = 42716
+percent_zip_in_county = 89.06
+
+[[zipcodes]]
+zipcode = 42718
+percent_zip_in_county = 0.28
+
+[[zipcodes]]
+zipcode = 42748
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42757
+percent_zip_in_county = 42.94
+
+[[zipcodes]]
+zipcode = 42764
+percent_zip_in_county = 39.71
+
+[[zipcodes]]
+zipcode = 42776
+percent_zip_in_county = 27.92
+
+[[zipcodes]]
+zipcode = 42784
+percent_zip_in_county = 31.96

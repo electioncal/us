@@ -1,2 +1,122 @@
 name = "Boone County"
 fips_code = 54005
+
+[[zipcodes]]
+zipcode = 25009
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25028
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25047
+percent_zip_in_county = 39.17
+
+[[zipcodes]]
+zipcode = 25049
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25053
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25081
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25093
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25108
+percent_zip_in_county = 91.62
+
+[[zipcodes]]
+zipcode = 25114
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25130
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25142
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25148
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25149
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25154
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25165
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25169
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25181
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25193
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25203
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25204
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25205
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25206
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25208
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25209
+percent_zip_in_county = 66.18
+
+[[zipcodes]]
+zipcode = 25508
+percent_zip_in_county = 7.59
+
+[[zipcodes]]
+zipcode = 25529
+percent_zip_in_county = 98.22
+
+[[zipcodes]]
+zipcode = 25565
+percent_zip_in_county = 46.7

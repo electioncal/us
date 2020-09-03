@@ -1,2 +1,26 @@
 name = "Crowley County"
 fips_code = 8025
+
+[[zipcodes]]
+zipcode = 81033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81039
+percent_zip_in_county = 2.53
+
+[[zipcodes]]
+zipcode = 81058
+percent_zip_in_county = 8.38
+
+[[zipcodes]]
+zipcode = 81062
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81063
+percent_zip_in_county = 98.35
+
+[[zipcodes]]
+zipcode = 81076
+percent_zip_in_county = 100.0

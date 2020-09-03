@@ -1,2 +1,46 @@
 name = "Craven County"
 fips_code = 37049
+
+[[zipcodes]]
+zipcode = 28519
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28523
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28526
+percent_zip_in_county = 78.71
+
+[[zipcodes]]
+zipcode = 28527
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28530
+percent_zip_in_county = 8.65
+
+[[zipcodes]]
+zipcode = 28532
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28533
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28560
+percent_zip_in_county = 93.29
+
+[[zipcodes]]
+zipcode = 28562
+percent_zip_in_county = 98.94
+
+[[zipcodes]]
+zipcode = 28573
+percent_zip_in_county = 7.58
+
+[[zipcodes]]
+zipcode = 28586
+percent_zip_in_county = 93.75

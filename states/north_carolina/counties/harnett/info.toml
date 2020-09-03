@@ -1,2 +1,66 @@
 name = "Harnett County"
 fips_code = 37085
+
+[[zipcodes]]
+zipcode = 27330
+percent_zip_in_county = 0.03
+
+[[zipcodes]]
+zipcode = 27332
+percent_zip_in_county = 39.78
+
+[[zipcodes]]
+zipcode = 27501
+percent_zip_in_county = 69.36
+
+[[zipcodes]]
+zipcode = 27504
+percent_zip_in_county = 3.7
+
+[[zipcodes]]
+zipcode = 27505
+percent_zip_in_county = 78.24
+
+[[zipcodes]]
+zipcode = 27521
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27526
+percent_zip_in_county = 20.38
+
+[[zipcodes]]
+zipcode = 27540
+percent_zip_in_county = 3.55
+
+[[zipcodes]]
+zipcode = 27546
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27592
+percent_zip_in_county = 0.22
+
+[[zipcodes]]
+zipcode = 28323
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28326
+percent_zip_in_county = 75.17
+
+[[zipcodes]]
+zipcode = 28334
+percent_zip_in_county = 64.52
+
+[[zipcodes]]
+zipcode = 28339
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28356
+percent_zip_in_county = 26.39
+
+[[zipcodes]]
+zipcode = 28390
+percent_zip_in_county = 51.12

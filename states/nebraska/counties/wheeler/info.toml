@@ -1,2 +1,22 @@
 name = "Wheeler County"
 fips_code = 31183
+
+[[zipcodes]]
+zipcode = 68622
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68636
+percent_zip_in_county = 2.23
+
+[[zipcodes]]
+zipcode = 68637
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68665
+percent_zip_in_county = 12.87
+
+[[zipcodes]]
+zipcode = 68735
+percent_zip_in_county = 13.77

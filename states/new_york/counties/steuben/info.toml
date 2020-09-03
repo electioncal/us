@@ -1,2 +1,162 @@
 name = "Steuben County"
 fips_code = 36101
+
+[[zipcodes]]
+zipcode = 14418
+percent_zip_in_county = 9.81
+
+[[zipcodes]]
+zipcode = 14437
+percent_zip_in_county = 7.22
+
+[[zipcodes]]
+zipcode = 14512
+percent_zip_in_county = 5.61
+
+[[zipcodes]]
+zipcode = 14529
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14572
+percent_zip_in_county = 81.38
+
+[[zipcodes]]
+zipcode = 14801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14803
+percent_zip_in_county = 6.05
+
+[[zipcodes]]
+zipcode = 14804
+percent_zip_in_county = 0.27
+
+[[zipcodes]]
+zipcode = 14806
+percent_zip_in_county = 6.88
+
+[[zipcodes]]
+zipcode = 14807
+percent_zip_in_county = 81.5
+
+[[zipcodes]]
+zipcode = 14808
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14809
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14810
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14812
+percent_zip_in_county = 21.16
+
+[[zipcodes]]
+zipcode = 14814
+percent_zip_in_county = 11.19
+
+[[zipcodes]]
+zipcode = 14815
+percent_zip_in_county = 31.82
+
+[[zipcodes]]
+zipcode = 14819
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14820
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14821
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14823
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14826
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14827
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14830
+percent_zip_in_county = 99.0
+
+[[zipcodes]]
+zipcode = 14837
+percent_zip_in_county = 1.68
+
+[[zipcodes]]
+zipcode = 14839
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14840
+percent_zip_in_county = 98.89
+
+[[zipcodes]]
+zipcode = 14843
+percent_zip_in_county = 99.59
+
+[[zipcodes]]
+zipcode = 14855
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14856
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14858
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14870
+percent_zip_in_county = 98.3
+
+[[zipcodes]]
+zipcode = 14871
+percent_zip_in_county = 9.35
+
+[[zipcodes]]
+zipcode = 14873
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14874
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14877
+percent_zip_in_county = 98.75
+
+[[zipcodes]]
+zipcode = 14879
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14885
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14893
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14897
+percent_zip_in_county = 1.94
+
+[[zipcodes]]
+zipcode = 14898
+percent_zip_in_county = 100.0

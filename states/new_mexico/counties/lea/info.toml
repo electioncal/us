@@ -1,2 +1,42 @@
 name = "Lea County"
 fips_code = 35025
+
+[[zipcodes]]
+zipcode = 88114
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88231
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88240
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88242
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88252
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88260
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88262
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88264
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88265
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88267
+percent_zip_in_county = 100.0

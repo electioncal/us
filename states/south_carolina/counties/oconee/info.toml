@@ -1,2 +1,50 @@
 name = "Oconee County"
 fips_code = 45073
+
+[[zipcodes]]
+zipcode = 29643
+percent_zip_in_county = 76.81
+
+[[zipcodes]]
+zipcode = 29658
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29664
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29665
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29672
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29676
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29678
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29686
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29689
+percent_zip_in_county = 11.39
+
+[[zipcodes]]
+zipcode = 29691
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29693
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29696
+percent_zip_in_county = 100.0

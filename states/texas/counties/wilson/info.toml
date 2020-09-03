@@ -1,2 +1,50 @@
 name = "Wilson County"
 fips_code = 48493
+
+[[zipcodes]]
+zipcode = 78064
+percent_zip_in_county = 0.55
+
+[[zipcodes]]
+zipcode = 78101
+percent_zip_in_county = 48.09
+
+[[zipcodes]]
+zipcode = 78112
+percent_zip_in_county = 1.5
+
+[[zipcodes]]
+zipcode = 78113
+percent_zip_in_county = 40.12
+
+[[zipcodes]]
+zipcode = 78114
+percent_zip_in_county = 99.31
+
+[[zipcodes]]
+zipcode = 78121
+percent_zip_in_county = 90.84
+
+[[zipcodes]]
+zipcode = 78140
+percent_zip_in_county = 7.04
+
+[[zipcodes]]
+zipcode = 78143
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78147
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78160
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78161
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78223
+percent_zip_in_county = 0.52

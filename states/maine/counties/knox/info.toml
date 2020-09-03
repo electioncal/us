@@ -1,2 +1,78 @@
 name = "Knox County"
 fips_code = 23013
+
+[[zipcodes]]
+zipcode = 4547
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4563
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4574
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4645
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4841
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4843
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4847
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4851
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4853
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4854
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4855
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4856
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4858
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4859
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4860
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4861
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4862
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4863
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4864
+percent_zip_in_county = 100.0

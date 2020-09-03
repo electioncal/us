@@ -1,2 +1,18 @@
 name = "Washington County"
 fips_code = 37187
+
+[[zipcodes]]
+zipcode = 27860
+percent_zip_in_county = 6.14
+
+[[zipcodes]]
+zipcode = 27928
+percent_zip_in_county = 95.12
+
+[[zipcodes]]
+zipcode = 27962
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27970
+percent_zip_in_county = 100.0

@@ -1,2 +1,46 @@
 name = "Lewis County"
 fips_code = 54041
+
+[[zipcodes]]
+zipcode = 26201
+percent_zip_in_county = 1.05
+
+[[zipcodes]]
+zipcode = 26321
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26338
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26343
+percent_zip_in_county = 62.02
+
+[[zipcodes]]
+zipcode = 26372
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26376
+percent_zip_in_county = 65.01
+
+[[zipcodes]]
+zipcode = 26378
+percent_zip_in_county = 75.0
+
+[[zipcodes]]
+zipcode = 26384
+percent_zip_in_county = 9.81
+
+[[zipcodes]]
+zipcode = 26412
+percent_zip_in_county = 49.82
+
+[[zipcodes]]
+zipcode = 26447
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26452
+percent_zip_in_county = 100.0

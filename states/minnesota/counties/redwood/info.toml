@@ -1,2 +1,86 @@
 name = "Redwood County"
 fips_code = 27127
+
+[[zipcodes]]
+zipcode = 55333
+percent_zip_in_county = 1.52
+
+[[zipcodes]]
+zipcode = 56083
+percent_zip_in_county = 68.99
+
+[[zipcodes]]
+zipcode = 56085
+percent_zip_in_county = 0.95
+
+[[zipcodes]]
+zipcode = 56087
+percent_zip_in_county = 6.51
+
+[[zipcodes]]
+zipcode = 56152
+percent_zip_in_county = 85.2
+
+[[zipcodes]]
+zipcode = 56166
+percent_zip_in_county = 72.73
+
+[[zipcodes]]
+zipcode = 56175
+percent_zip_in_county = 4.86
+
+[[zipcodes]]
+zipcode = 56180
+percent_zip_in_county = 88.07
+
+[[zipcodes]]
+zipcode = 56214
+percent_zip_in_county = 94.62
+
+[[zipcodes]]
+zipcode = 56224
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56255
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56258
+percent_zip_in_county = 0.31
+
+[[zipcodes]]
+zipcode = 56263
+percent_zip_in_county = 91.87
+
+[[zipcodes]]
+zipcode = 56266
+percent_zip_in_county = 87.35
+
+[[zipcodes]]
+zipcode = 56270
+percent_zip_in_county = 43.54
+
+[[zipcodes]]
+zipcode = 56283
+percent_zip_in_county = 97.21
+
+[[zipcodes]]
+zipcode = 56284
+percent_zip_in_county = 0.38
+
+[[zipcodes]]
+zipcode = 56287
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56292
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56293
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56294
+percent_zip_in_county = 100.0

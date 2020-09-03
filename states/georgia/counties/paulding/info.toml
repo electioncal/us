@@ -1,2 +1,42 @@
 name = "Paulding County"
 fips_code = 13223
+
+[[zipcodes]]
+zipcode = 30101
+percent_zip_in_county = 19.48
+
+[[zipcodes]]
+zipcode = 30127
+percent_zip_in_county = 13.6
+
+[[zipcodes]]
+zipcode = 30132
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30134
+percent_zip_in_county = 32.96
+
+[[zipcodes]]
+zipcode = 30141
+percent_zip_in_county = 92.37
+
+[[zipcodes]]
+zipcode = 30153
+percent_zip_in_county = 26.35
+
+[[zipcodes]]
+zipcode = 30157
+percent_zip_in_county = 97.48
+
+[[zipcodes]]
+zipcode = 30178
+percent_zip_in_county = 0.72
+
+[[zipcodes]]
+zipcode = 30179
+percent_zip_in_county = 23.55
+
+[[zipcodes]]
+zipcode = 30180
+percent_zip_in_county = 4.25

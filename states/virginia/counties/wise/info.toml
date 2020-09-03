@@ -1,2 +1,34 @@
 name = "Wise County"
 fips_code = 51195
+
+[[zipcodes]]
+zipcode = 24216
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24219
+percent_zip_in_county = 88.22
+
+[[zipcodes]]
+zipcode = 24230
+percent_zip_in_county = 80.3
+
+[[zipcodes]]
+zipcode = 24246
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24273
+percent_zip_in_county = 36.79
+
+[[zipcodes]]
+zipcode = 24279
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24283
+percent_zip_in_county = 81.9
+
+[[zipcodes]]
+zipcode = 24293
+percent_zip_in_county = 100.0

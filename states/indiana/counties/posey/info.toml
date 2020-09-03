@@ -1,2 +1,30 @@
 name = "Posey County"
 fips_code = 18129
+
+[[zipcodes]]
+zipcode = 47612
+percent_zip_in_county = 88.97
+
+[[zipcodes]]
+zipcode = 47616
+percent_zip_in_county = 92.86
+
+[[zipcodes]]
+zipcode = 47620
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47631
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47633
+percent_zip_in_county = 92.33
+
+[[zipcodes]]
+zipcode = 47638
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47712
+percent_zip_in_county = 13.12

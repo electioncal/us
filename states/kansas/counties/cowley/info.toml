@@ -1,2 +1,58 @@
 name = "Cowley County"
 fips_code = 20035
+
+[[zipcodes]]
+zipcode = 67005
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67008
+percent_zip_in_county = 78.96
+
+[[zipcodes]]
+zipcode = 67019
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67024
+percent_zip_in_county = 6.83
+
+[[zipcodes]]
+zipcode = 67038
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67039
+percent_zip_in_county = 1.65
+
+[[zipcodes]]
+zipcode = 67051
+percent_zip_in_county = 9.43
+
+[[zipcodes]]
+zipcode = 67072
+percent_zip_in_county = 6.56
+
+[[zipcodes]]
+zipcode = 67110
+percent_zip_in_county = 0.55
+
+[[zipcodes]]
+zipcode = 67119
+percent_zip_in_county = 8.58
+
+[[zipcodes]]
+zipcode = 67131
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67146
+percent_zip_in_county = 92.3
+
+[[zipcodes]]
+zipcode = 67156
+percent_zip_in_county = 100.0

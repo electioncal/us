@@ -1,2 +1,74 @@
 name = "Auglaize County"
 fips_code = 39011
+
+[[zipcodes]]
+zipcode = 43331
+percent_zip_in_county = 3.95
+
+[[zipcodes]]
+zipcode = 45306
+percent_zip_in_county = 0.92
+
+[[zipcodes]]
+zipcode = 45334
+percent_zip_in_county = 1.08
+
+[[zipcodes]]
+zipcode = 45806
+percent_zip_in_county = 23.57
+
+[[zipcodes]]
+zipcode = 45819
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45845
+percent_zip_in_county = 0.69
+
+[[zipcodes]]
+zipcode = 45850
+percent_zip_in_county = 1.51
+
+[[zipcodes]]
+zipcode = 45862
+percent_zip_in_county = 3.38
+
+[[zipcodes]]
+zipcode = 45865
+percent_zip_in_county = 75.01
+
+[[zipcodes]]
+zipcode = 45869
+percent_zip_in_county = 96.05
+
+[[zipcodes]]
+zipcode = 45870
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45871
+percent_zip_in_county = 77.29
+
+[[zipcodes]]
+zipcode = 45884
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45885
+percent_zip_in_county = 99.69
+
+[[zipcodes]]
+zipcode = 45887
+percent_zip_in_county = 11.25
+
+[[zipcodes]]
+zipcode = 45888
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45895
+percent_zip_in_county = 99.79
+
+[[zipcodes]]
+zipcode = 45896
+percent_zip_in_county = 82.67

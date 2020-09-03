@@ -1,2 +1,22 @@
 name = "Carter County"
 fips_code = 29035
+
+[[zipcodes]]
+zipcode = 63935
+percent_zip_in_county = 0.3
+
+[[zipcodes]]
+zipcode = 63937
+percent_zip_in_county = 88.84
+
+[[zipcodes]]
+zipcode = 63941
+percent_zip_in_county = 78.44
+
+[[zipcodes]]
+zipcode = 63943
+percent_zip_in_county = 89.29
+
+[[zipcodes]]
+zipcode = 63965
+percent_zip_in_county = 93.85

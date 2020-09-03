@@ -1,2 +1,34 @@
 name = "Deschutes County"
 fips_code = 41017
+
+[[zipcodes]]
+zipcode = 97701
+percent_zip_in_county = 99.9
+
+[[zipcodes]]
+zipcode = 97702
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97707
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97712
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97739
+percent_zip_in_county = 86.3
+
+[[zipcodes]]
+zipcode = 97756
+percent_zip_in_county = 99.89
+
+[[zipcodes]]
+zipcode = 97759
+percent_zip_in_county = 99.3
+
+[[zipcodes]]
+zipcode = 97760
+percent_zip_in_county = 45.72

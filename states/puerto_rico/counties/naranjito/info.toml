@@ -1,2 +1,6 @@
 name = "Naranjito Municipio"
 fips_code = 72105
+
+[[zipcodes]]
+zipcode = 719
+percent_zip_in_county = 98.1

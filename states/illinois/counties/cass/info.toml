@@ -1,2 +1,30 @@
 name = "Cass County"
 fips_code = 17017
+
+[[zipcodes]]
+zipcode = 62611
+percent_zip_in_county = 77.98
+
+[[zipcodes]]
+zipcode = 62612
+percent_zip_in_county = 81.83
+
+[[zipcodes]]
+zipcode = 62618
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62622
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62627
+percent_zip_in_county = 75.2
+
+[[zipcodes]]
+zipcode = 62673
+percent_zip_in_county = 12.26
+
+[[zipcodes]]
+zipcode = 62691
+percent_zip_in_county = 100.0

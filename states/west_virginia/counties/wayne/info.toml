@@ -1,2 +1,66 @@
 name = "Wayne County"
 fips_code = 54099
+
+[[zipcodes]]
+zipcode = 25504
+percent_zip_in_county = 0.79
+
+[[zipcodes]]
+zipcode = 25507
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25511
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25512
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25514
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25517
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25530
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25534
+percent_zip_in_county = 95.74
+
+[[zipcodes]]
+zipcode = 25535
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25555
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25570
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25669
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25674
+percent_zip_in_county = 35.26
+
+[[zipcodes]]
+zipcode = 25699
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25701
+percent_zip_in_county = 6.07
+
+[[zipcodes]]
+zipcode = 25704
+percent_zip_in_county = 69.61

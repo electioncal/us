@@ -1,2 +1,62 @@
 name = "Big Horn County"
 fips_code = 56003
+
+[[zipcodes]]
+zipcode = 82401
+percent_zip_in_county = 0.64
+
+[[zipcodes]]
+zipcode = 82410
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82411
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82412
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82420
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82421
+percent_zip_in_county = 78.35
+
+[[zipcodes]]
+zipcode = 82422
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82423
+percent_zip_in_county = 90.13
+
+[[zipcodes]]
+zipcode = 82426
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82428
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82431
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82432
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82434
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82435
+percent_zip_in_county = 0.54
+
+[[zipcodes]]
+zipcode = 82441
+percent_zip_in_county = 100.0

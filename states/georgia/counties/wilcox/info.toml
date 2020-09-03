@@ -1,2 +1,30 @@
 name = "Wilcox County"
 fips_code = 13315
+
+[[zipcodes]]
+zipcode = 31001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31015
+percent_zip_in_county = 0.15
+
+[[zipcodes]]
+zipcode = 31071
+percent_zip_in_county = 62.47
+
+[[zipcodes]]
+zipcode = 31072
+percent_zip_in_county = 94.57
+
+[[zipcodes]]
+zipcode = 31079
+percent_zip_in_county = 94.54
+
+[[zipcodes]]
+zipcode = 31084
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31750
+percent_zip_in_county = 0.04

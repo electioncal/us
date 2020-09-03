@@ -1,2 +1,66 @@
 name = "Clay County"
 fips_code = 54015
+
+[[zipcodes]]
+zipcode = 25019
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25043
+percent_zip_in_county = 96.93
+
+[[zipcodes]]
+zipcode = 25045
+percent_zip_in_county = 7.22
+
+[[zipcodes]]
+zipcode = 25063
+percent_zip_in_county = 38.79
+
+[[zipcodes]]
+zipcode = 25088
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25111
+percent_zip_in_county = 80.12
+
+[[zipcodes]]
+zipcode = 25113
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25125
+percent_zip_in_county = 88.53
+
+[[zipcodes]]
+zipcode = 25133
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25141
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25164
+percent_zip_in_county = 80.99
+
+[[zipcodes]]
+zipcode = 25211
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25235
+percent_zip_in_county = 10.43
+
+[[zipcodes]]
+zipcode = 25285
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26617
+percent_zip_in_county = 73.26

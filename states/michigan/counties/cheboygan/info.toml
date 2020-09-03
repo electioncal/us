@@ -1,2 +1,58 @@
 name = "Cheboygan County"
 fips_code = 26031
+
+[[zipcodes]]
+zipcode = 49701
+percent_zip_in_county = 41.31
+
+[[zipcodes]]
+zipcode = 49705
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49706
+percent_zip_in_county = 17.99
+
+[[zipcodes]]
+zipcode = 49716
+percent_zip_in_county = 29.16
+
+[[zipcodes]]
+zipcode = 49717
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49718
+percent_zip_in_county = 8.7
+
+[[zipcodes]]
+zipcode = 49721
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49749
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49755
+percent_zip_in_county = 18.87
+
+[[zipcodes]]
+zipcode = 49765
+percent_zip_in_county = 37.17
+
+[[zipcodes]]
+zipcode = 49769
+percent_zip_in_county = 7.85
+
+[[zipcodes]]
+zipcode = 49791
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49795
+percent_zip_in_county = 9.01
+
+[[zipcodes]]
+zipcode = 49799
+percent_zip_in_county = 100.0

@@ -1,2 +1,38 @@
 name = "Roanoke city"
 fips_code = 51770
+
+[[zipcodes]]
+zipcode = 24011
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24012
+percent_zip_in_county = 74.48
+
+[[zipcodes]]
+zipcode = 24013
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24014
+percent_zip_in_county = 71.88
+
+[[zipcodes]]
+zipcode = 24015
+percent_zip_in_county = 98.37
+
+[[zipcodes]]
+zipcode = 24016
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24017
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24018
+percent_zip_in_county = 10.01
+
+[[zipcodes]]
+zipcode = 24019
+percent_zip_in_county = 13.27

@@ -1,2 +1,38 @@
 name = "Caroline County"
 fips_code = 24011
+
+[[zipcodes]]
+zipcode = 21629
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21632
+percent_zip_in_county = 88.92
+
+[[zipcodes]]
+zipcode = 21636
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21639
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21640
+percent_zip_in_county = 94.36
+
+[[zipcodes]]
+zipcode = 21641
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21649
+percent_zip_in_county = 82.83
+
+[[zipcodes]]
+zipcode = 21655
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21660
+percent_zip_in_county = 100.0

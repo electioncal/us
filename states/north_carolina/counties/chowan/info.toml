@@ -1,2 +1,18 @@
 name = "Chowan County"
 fips_code = 37041
+
+[[zipcodes]]
+zipcode = 27919
+percent_zip_in_county = 14.25
+
+[[zipcodes]]
+zipcode = 27932
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27946
+percent_zip_in_county = 14.91
+
+[[zipcodes]]
+zipcode = 27980
+percent_zip_in_county = 86.62

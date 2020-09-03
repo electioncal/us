@@ -1,2 +1,58 @@
 name = "Malheur County"
 fips_code = 41045
+
+[[zipcodes]]
+zipcode = 89421
+percent_zip_in_county = 14.67
+
+[[zipcodes]]
+zipcode = 97710
+percent_zip_in_county = 3.33
+
+[[zipcodes]]
+zipcode = 97901
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97903
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97906
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97907
+percent_zip_in_county = 8.57
+
+[[zipcodes]]
+zipcode = 97908
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97909
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97910
+percent_zip_in_county = 89.39
+
+[[zipcodes]]
+zipcode = 97911
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97913
+percent_zip_in_county = 99.93
+
+[[zipcodes]]
+zipcode = 97914
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97918
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97920
+percent_zip_in_county = 100.0

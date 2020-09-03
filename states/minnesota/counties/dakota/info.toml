@@ -1,2 +1,90 @@
 name = "Dakota County"
 fips_code = 27037
+
+[[zipcodes]]
+zipcode = 55009
+percent_zip_in_county = 9.88
+
+[[zipcodes]]
+zipcode = 55024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55031
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55033
+percent_zip_in_county = 92.66
+
+[[zipcodes]]
+zipcode = 55044
+percent_zip_in_county = 93.42
+
+[[zipcodes]]
+zipcode = 55057
+percent_zip_in_county = 11.83
+
+[[zipcodes]]
+zipcode = 55065
+percent_zip_in_county = 98.42
+
+[[zipcodes]]
+zipcode = 55068
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55075
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55076
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55077
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55085
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55089
+percent_zip_in_county = 16.98
+
+[[zipcodes]]
+zipcode = 55118
+percent_zip_in_county = 99.34
+
+[[zipcodes]]
+zipcode = 55120
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55121
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55122
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55123
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55124
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55150
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55306
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55337
+percent_zip_in_county = 100.0

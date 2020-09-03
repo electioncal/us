@@ -1,2 +1,66 @@
 name = "Caddo County"
 fips_code = 40015
+
+[[zipcodes]]
+zipcode = 73005
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73006
+percent_zip_in_county = 78.48
+
+[[zipcodes]]
+zipcode = 73009
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73015
+percent_zip_in_county = 92.56
+
+[[zipcodes]]
+zipcode = 73017
+percent_zip_in_county = 59.55
+
+[[zipcodes]]
+zipcode = 73021
+percent_zip_in_county = 12.5
+
+[[zipcodes]]
+zipcode = 73029
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73038
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73042
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73047
+percent_zip_in_county = 82.61
+
+[[zipcodes]]
+zipcode = 73048
+percent_zip_in_county = 68.66
+
+[[zipcodes]]
+zipcode = 73053
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73059
+percent_zip_in_county = 17.2
+
+[[zipcodes]]
+zipcode = 73079
+percent_zip_in_county = 7.47
+
+[[zipcodes]]
+zipcode = 73092
+percent_zip_in_county = 19.05

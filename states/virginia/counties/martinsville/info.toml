@@ -1,2 +1,6 @@
 name = "Martinsville city"
 fips_code = 51690
+
+[[zipcodes]]
+zipcode = 24112
+percent_zip_in_county = 42.34

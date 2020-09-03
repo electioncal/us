@@ -1,2 +1,6 @@
 name = "Río Grande Municipio"
 fips_code = 72119
+
+[[zipcodes]]
+zipcode = 745
+percent_zip_in_county = 98.6

@@ -1,2 +1,50 @@
 name = "Millard County"
 fips_code = 49027
+
+[[zipcodes]]
+zipcode = 84624
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84631
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84635
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84636
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84637
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84638
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84640
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84649
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84656
+percent_zip_in_county = 97.68
+
+[[zipcodes]]
+zipcode = 84713
+percent_zip_in_county = 0.74
+
+[[zipcodes]]
+zipcode = 84728
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84751
+percent_zip_in_county = 0.24

@@ -1,2 +1,50 @@
 name = "Yell County"
 fips_code = 5149
+
+[[zipcodes]]
+zipcode = 72025
+percent_zip_in_county = 2.6
+
+[[zipcodes]]
+zipcode = 72824
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72827
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72828
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72833
+percent_zip_in_county = 97.26
+
+[[zipcodes]]
+zipcode = 72834
+percent_zip_in_county = 99.4
+
+[[zipcodes]]
+zipcode = 72838
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72842
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72853
+percent_zip_in_county = 94.05
+
+[[zipcodes]]
+zipcode = 72857
+percent_zip_in_county = 78.39
+
+[[zipcodes]]
+zipcode = 72860
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72943
+percent_zip_in_county = 1.74

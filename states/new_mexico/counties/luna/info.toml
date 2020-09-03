@@ -1,2 +1,10 @@
 name = "Luna County"
 fips_code = 35029
+
+[[zipcodes]]
+zipcode = 88029
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88030
+percent_zip_in_county = 100.0

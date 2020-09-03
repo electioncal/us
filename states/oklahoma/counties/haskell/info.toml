@@ -1,2 +1,30 @@
 name = "Haskell County"
 fips_code = 40061
+
+[[zipcodes]]
+zipcode = 74462
+percent_zip_in_county = 91.9
+
+[[zipcodes]]
+zipcode = 74472
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74552
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74561
+percent_zip_in_county = 24.92
+
+[[zipcodes]]
+zipcode = 74941
+percent_zip_in_county = 79.73
+
+[[zipcodes]]
+zipcode = 74943
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74944
+percent_zip_in_county = 86.71

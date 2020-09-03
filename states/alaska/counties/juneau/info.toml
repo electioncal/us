@@ -1,2 +1,10 @@
 name = "Juneau City and Borough"
 fips_code = 2110
+
+[[zipcodes]]
+zipcode = 99801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99824
+percent_zip_in_county = 100.0

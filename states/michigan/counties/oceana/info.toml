@@ -1,2 +1,50 @@
 name = "Oceana County"
 fips_code = 26127
+
+[[zipcodes]]
+zipcode = 49402
+percent_zip_in_county = 6.23
+
+[[zipcodes]]
+zipcode = 49412
+percent_zip_in_county = 1.17
+
+[[zipcodes]]
+zipcode = 49420
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49421
+percent_zip_in_county = 65.18
+
+[[zipcodes]]
+zipcode = 49425
+percent_zip_in_county = 13.47
+
+[[zipcodes]]
+zipcode = 49436
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49437
+percent_zip_in_county = 18.65
+
+[[zipcodes]]
+zipcode = 49446
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49449
+percent_zip_in_county = 78.5
+
+[[zipcodes]]
+zipcode = 49452
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49455
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49459
+percent_zip_in_county = 90.3

@@ -1,2 +1,22 @@
 name = "Lake of the Woods County"
 fips_code = 27077
+
+[[zipcodes]]
+zipcode = 56623
+percent_zip_in_county = 96.14
+
+[[zipcodes]]
+zipcode = 56673
+percent_zip_in_county = 37.48
+
+[[zipcodes]]
+zipcode = 56686
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56711
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56741
+percent_zip_in_county = 100.0

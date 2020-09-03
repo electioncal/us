@@ -1,2 +1,66 @@
 name = "Marquette County"
 fips_code = 26103
+
+[[zipcodes]]
+zipcode = 49808
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49814
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49818
+percent_zip_in_county = 13.56
+
+[[zipcodes]]
+zipcode = 49819
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49822
+percent_zip_in_county = 3.18
+
+[[zipcodes]]
+zipcode = 49831
+percent_zip_in_county = 7.82
+
+[[zipcodes]]
+zipcode = 49833
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49841
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49849
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49855
+percent_zip_in_county = 99.93
+
+[[zipcodes]]
+zipcode = 49861
+percent_zip_in_county = 52.92
+
+[[zipcodes]]
+zipcode = 49866
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49871
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49879
+percent_zip_in_county = 98.75
+
+[[zipcodes]]
+zipcode = 49880
+percent_zip_in_county = 27.32
+
+[[zipcodes]]
+zipcode = 49885
+percent_zip_in_county = 94.25

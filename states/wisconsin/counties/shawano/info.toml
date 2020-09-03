@@ -1,2 +1,98 @@
 name = "Shawano County"
 fips_code = 55115
+
+[[zipcodes]]
+zipcode = 54107
+percent_zip_in_county = 99.84
+
+[[zipcodes]]
+zipcode = 54111
+percent_zip_in_county = 96.53
+
+[[zipcodes]]
+zipcode = 54124
+percent_zip_in_county = 2.83
+
+[[zipcodes]]
+zipcode = 54127
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54128
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54137
+percent_zip_in_county = 68.07
+
+[[zipcodes]]
+zipcode = 54150
+percent_zip_in_county = 23.92
+
+[[zipcodes]]
+zipcode = 54154
+percent_zip_in_county = 4.2
+
+[[zipcodes]]
+zipcode = 54162
+percent_zip_in_county = 29.61
+
+[[zipcodes]]
+zipcode = 54165
+percent_zip_in_county = 3.49
+
+[[zipcodes]]
+zipcode = 54166
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54170
+percent_zip_in_county = 6.19
+
+[[zipcodes]]
+zipcode = 54408
+percent_zip_in_county = 28.09
+
+[[zipcodes]]
+zipcode = 54409
+percent_zip_in_county = 0.78
+
+[[zipcodes]]
+zipcode = 54414
+percent_zip_in_county = 67.74
+
+[[zipcodes]]
+zipcode = 54416
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54427
+percent_zip_in_county = 33.12
+
+[[zipcodes]]
+zipcode = 54450
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54486
+percent_zip_in_county = 91.66
+
+[[zipcodes]]
+zipcode = 54499
+percent_zip_in_county = 80.73
+
+[[zipcodes]]
+zipcode = 54928
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54929
+percent_zip_in_county = 15.53
+
+[[zipcodes]]
+zipcode = 54948
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54950
+percent_zip_in_county = 24.78

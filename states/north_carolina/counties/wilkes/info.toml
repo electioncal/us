@@ -1,2 +1,86 @@
 name = "Wilkes County"
 fips_code = 37193
+
+[[zipcodes]]
+zipcode = 27020
+percent_zip_in_county = 6.06
+
+[[zipcodes]]
+zipcode = 28606
+percent_zip_in_county = 84.34
+
+[[zipcodes]]
+zipcode = 28618
+percent_zip_in_county = 1.66
+
+[[zipcodes]]
+zipcode = 28621
+percent_zip_in_county = 31.57
+
+[[zipcodes]]
+zipcode = 28624
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28635
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28642
+percent_zip_in_county = 5.15
+
+[[zipcodes]]
+zipcode = 28644
+percent_zip_in_county = 0.2
+
+[[zipcodes]]
+zipcode = 28649
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28651
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28654
+percent_zip_in_county = 94.45
+
+[[zipcodes]]
+zipcode = 28659
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28665
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28669
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28670
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28676
+percent_zip_in_county = 27.96
+
+[[zipcodes]]
+zipcode = 28683
+percent_zip_in_county = 45.49
+
+[[zipcodes]]
+zipcode = 28685
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28689
+percent_zip_in_county = 11.33
+
+[[zipcodes]]
+zipcode = 28694
+percent_zip_in_county = 0.06
+
+[[zipcodes]]
+zipcode = 28697
+percent_zip_in_county = 100.0

@@ -1,2 +1,46 @@
 name = "Bell County"
 fips_code = 21013
+
+[[zipcodes]]
+zipcode = 40813
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40845
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40856
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40902
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40913
+percent_zip_in_county = 49.71
+
+[[zipcodes]]
+zipcode = 40939
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40940
+percent_zip_in_county = 43.31
+
+[[zipcodes]]
+zipcode = 40958
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40965
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40977
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40988
+percent_zip_in_county = 80.0

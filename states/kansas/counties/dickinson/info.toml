@@ -1,2 +1,50 @@
 name = "Dickinson County"
 fips_code = 20041
+
+[[zipcodes]]
+zipcode = 66441
+percent_zip_in_county = 0.52
+
+[[zipcodes]]
+zipcode = 67410
+percent_zip_in_county = 99.87
+
+[[zipcodes]]
+zipcode = 67431
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67441
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67448
+percent_zip_in_county = 16.38
+
+[[zipcodes]]
+zipcode = 67449
+percent_zip_in_county = 88.57
+
+[[zipcodes]]
+zipcode = 67451
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67475
+percent_zip_in_county = 7.77
+
+[[zipcodes]]
+zipcode = 67480
+percent_zip_in_county = 79.22
+
+[[zipcodes]]
+zipcode = 67482
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67487
+percent_zip_in_county = 3.09
+
+[[zipcodes]]
+zipcode = 67492
+percent_zip_in_county = 100.0

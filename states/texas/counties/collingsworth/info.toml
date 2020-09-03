@@ -1,2 +1,22 @@
 name = "Collingsworth County"
 fips_code = 48087
+
+[[zipcodes]]
+zipcode = 79079
+percent_zip_in_county = 5.59
+
+[[zipcodes]]
+zipcode = 79095
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79230
+percent_zip_in_county = 82.91
+
+[[zipcodes]]
+zipcode = 79245
+percent_zip_in_county = 1.9
+
+[[zipcodes]]
+zipcode = 79251
+percent_zip_in_county = 100.0

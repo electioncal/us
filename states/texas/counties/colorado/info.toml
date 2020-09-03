@@ -1,2 +1,70 @@
 name = "Colorado County"
 fips_code = 48089
+
+[[zipcodes]]
+zipcode = 77412
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77434
+percent_zip_in_county = 89.66
+
+[[zipcodes]]
+zipcode = 77435
+percent_zip_in_county = 0.46
+
+[[zipcodes]]
+zipcode = 77442
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77460
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77470
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77475
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77964
+percent_zip_in_county = 0.69
+
+[[zipcodes]]
+zipcode = 78933
+percent_zip_in_county = 50.66
+
+[[zipcodes]]
+zipcode = 78934
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78935
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78938
+percent_zip_in_county = 19.32
+
+[[zipcodes]]
+zipcode = 78940
+percent_zip_in_county = 12.68
+
+[[zipcodes]]
+zipcode = 78943
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78950
+percent_zip_in_county = 33.02
+
+[[zipcodes]]
+zipcode = 78951
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78962
+percent_zip_in_county = 89.41

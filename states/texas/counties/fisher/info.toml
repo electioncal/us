@@ -1,2 +1,38 @@
 name = "Fisher County"
 fips_code = 48151
+
+[[zipcodes]]
+zipcode = 79520
+percent_zip_in_county = 3.18
+
+[[zipcodes]]
+zipcode = 79526
+percent_zip_in_county = 1.84
+
+[[zipcodes]]
+zipcode = 79534
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79543
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79545
+percent_zip_in_county = 1.17
+
+[[zipcodes]]
+zipcode = 79546
+percent_zip_in_county = 97.76
+
+[[zipcodes]]
+zipcode = 79556
+percent_zip_in_county = 2.76
+
+[[zipcodes]]
+zipcode = 79560
+percent_zip_in_county = 87.59
+
+[[zipcodes]]
+zipcode = 79561
+percent_zip_in_county = 7.55

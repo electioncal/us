@@ -1,2 +1,38 @@
 name = "Sequoyah County"
 fips_code = 40135
+
+[[zipcodes]]
+zipcode = 74435
+percent_zip_in_county = 88.82
+
+[[zipcodes]]
+zipcode = 74931
+percent_zip_in_county = 4.89
+
+[[zipcodes]]
+zipcode = 74936
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74945
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74946
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74948
+percent_zip_in_county = 99.66
+
+[[zipcodes]]
+zipcode = 74954
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74955
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74962
+percent_zip_in_county = 98.72

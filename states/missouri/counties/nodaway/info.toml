@@ -1,2 +1,74 @@
 name = "Nodaway County"
 fips_code = 29147
+
+[[zipcodes]]
+zipcode = 64423
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64427
+percent_zip_in_county = 10.89
+
+[[zipcodes]]
+zipcode = 64428
+percent_zip_in_county = 97.77
+
+[[zipcodes]]
+zipcode = 64431
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64432
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64433
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64434
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64445
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64455
+percent_zip_in_county = 94.84
+
+[[zipcodes]]
+zipcode = 64457
+percent_zip_in_county = 92.1
+
+[[zipcodes]]
+zipcode = 64461
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64468
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64475
+percent_zip_in_county = 81.84
+
+[[zipcodes]]
+zipcode = 64476
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64479
+percent_zip_in_county = 94.48
+
+[[zipcodes]]
+zipcode = 64486
+percent_zip_in_county = 21.1
+
+[[zipcodes]]
+zipcode = 64487
+percent_zip_in_county = 89.83
+
+[[zipcodes]]
+zipcode = 64489
+percent_zip_in_county = 6.19

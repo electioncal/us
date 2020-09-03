@@ -1,2 +1,30 @@
 name = "Daviess County"
 fips_code = 18027
+
+[[zipcodes]]
+zipcode = 47501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47519
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47529
+percent_zip_in_county = 97.02
+
+[[zipcodes]]
+zipcode = 47553
+percent_zip_in_county = 32.16
+
+[[zipcodes]]
+zipcode = 47558
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47562
+percent_zip_in_county = 99.12
+
+[[zipcodes]]
+zipcode = 47568
+percent_zip_in_county = 100.0

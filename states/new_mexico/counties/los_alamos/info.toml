@@ -1,2 +1,6 @@
 name = "Los Alamos County"
 fips_code = 35028
+
+[[zipcodes]]
+zipcode = 87544
+percent_zip_in_county = 100.0

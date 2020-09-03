@@ -1,2 +1,6 @@
 name = "Jayuya Municipio"
 fips_code = 72073
+
+[[zipcodes]]
+zipcode = 664
+percent_zip_in_county = 99.15

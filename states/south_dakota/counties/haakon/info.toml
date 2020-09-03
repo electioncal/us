@@ -1,2 +1,18 @@
 name = "Haakon County"
 fips_code = 46055
+
+[[zipcodes]]
+zipcode = 57552
+percent_zip_in_county = 79.96
+
+[[zipcodes]]
+zipcode = 57553
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57567
+percent_zip_in_county = 91.89
+
+[[zipcodes]]
+zipcode = 57775
+percent_zip_in_county = 21.3

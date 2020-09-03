@@ -1,2 +1,66 @@
 name = "Coles County"
 fips_code = 17029
+
+[[zipcodes]]
+zipcode = 61910
+percent_zip_in_county = 5.29
+
+[[zipcodes]]
+zipcode = 61911
+percent_zip_in_county = 0.97
+
+[[zipcodes]]
+zipcode = 61912
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61920
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61928
+percent_zip_in_county = 20.74
+
+[[zipcodes]]
+zipcode = 61930
+percent_zip_in_county = 5.44
+
+[[zipcodes]]
+zipcode = 61931
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61933
+percent_zip_in_county = 0.53
+
+[[zipcodes]]
+zipcode = 61938
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61943
+percent_zip_in_county = 86.01
+
+[[zipcodes]]
+zipcode = 61951
+percent_zip_in_county = 0.37
+
+[[zipcodes]]
+zipcode = 62420
+percent_zip_in_county = 1.43
+
+[[zipcodes]]
+zipcode = 62440
+percent_zip_in_county = 82.22
+
+[[zipcodes]]
+zipcode = 62447
+percent_zip_in_county = 0.26
+
+[[zipcodes]]
+zipcode = 62469
+percent_zip_in_county = 18.62
+
+[[zipcodes]]
+zipcode = 62474
+percent_zip_in_county = 14.39

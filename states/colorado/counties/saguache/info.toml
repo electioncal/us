@@ -1,2 +1,38 @@
 name = "Saguache County"
 fips_code = 8109
+
+[[zipcodes]]
+zipcode = 81125
+percent_zip_in_county = 80.56
+
+[[zipcodes]]
+zipcode = 81131
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81132
+percent_zip_in_county = 7.24
+
+[[zipcodes]]
+zipcode = 81136
+percent_zip_in_county = 14.94
+
+[[zipcodes]]
+zipcode = 81143
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81149
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81155
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81230
+percent_zip_in_county = 0.97
+
+[[zipcodes]]
+zipcode = 81248
+percent_zip_in_county = 95.83

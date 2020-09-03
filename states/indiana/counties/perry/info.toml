@@ -1,2 +1,58 @@
 name = "Perry County"
 fips_code = 18123
+
+[[zipcodes]]
+zipcode = 47118
+percent_zip_in_county = 9.34
+
+[[zipcodes]]
+zipcode = 47137
+percent_zip_in_county = 0.35
+
+[[zipcodes]]
+zipcode = 47513
+percent_zip_in_county = 2.44
+
+[[zipcodes]]
+zipcode = 47514
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47515
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47520
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47525
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47532
+percent_zip_in_county = 0.91
+
+[[zipcodes]]
+zipcode = 47551
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47574
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47576
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47577
+percent_zip_in_county = 11.46
+
+[[zipcodes]]
+zipcode = 47586
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47588
+percent_zip_in_county = 71.35

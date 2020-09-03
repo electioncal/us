@@ -1,2 +1,26 @@
 name = "Beaver County"
 fips_code = 40007
+
+[[zipcodes]]
+zipcode = 73844
+percent_zip_in_county = 85.13
+
+[[zipcodes]]
+zipcode = 73848
+percent_zip_in_county = 17.16
+
+[[zipcodes]]
+zipcode = 73931
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73932
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73938
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73950
+percent_zip_in_county = 95.28

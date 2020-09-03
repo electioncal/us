@@ -1,2 +1,78 @@
 name = "Columbia County"
 fips_code = 42037
+
+[[zipcodes]]
+zipcode = 17756
+percent_zip_in_county = 0.57
+
+[[zipcodes]]
+zipcode = 17774
+percent_zip_in_county = 2.27
+
+[[zipcodes]]
+zipcode = 17814
+percent_zip_in_county = 75.86
+
+[[zipcodes]]
+zipcode = 17815
+percent_zip_in_county = 99.01
+
+[[zipcodes]]
+zipcode = 17820
+percent_zip_in_county = 97.08
+
+[[zipcodes]]
+zipcode = 17821
+percent_zip_in_county = 2.23
+
+[[zipcodes]]
+zipcode = 17824
+percent_zip_in_county = 15.5
+
+[[zipcodes]]
+zipcode = 17846
+percent_zip_in_county = 99.2
+
+[[zipcodes]]
+zipcode = 17859
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17878
+percent_zip_in_county = 58.97
+
+[[zipcodes]]
+zipcode = 17888
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17920
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17921
+percent_zip_in_county = 0.18
+
+[[zipcodes]]
+zipcode = 17945
+percent_zip_in_county = 51.67
+
+[[zipcodes]]
+zipcode = 17985
+percent_zip_in_county = 12.32
+
+[[zipcodes]]
+zipcode = 18603
+percent_zip_in_county = 79.75
+
+[[zipcodes]]
+zipcode = 18631
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18635
+percent_zip_in_county = 21.67
+
+[[zipcodes]]
+zipcode = 18655
+percent_zip_in_county = 3.9

@@ -1,2 +1,54 @@
 name = "Union County"
 fips_code = 17181
+
+[[zipcodes]]
+zipcode = 62902
+percent_zip_in_county = 0.15
+
+[[zipcodes]]
+zipcode = 62905
+percent_zip_in_county = 89.51
+
+[[zipcodes]]
+zipcode = 62906
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62912
+percent_zip_in_county = 46.73
+
+[[zipcodes]]
+zipcode = 62920
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62923
+percent_zip_in_county = 4.05
+
+[[zipcodes]]
+zipcode = 62926
+percent_zip_in_county = 89.53
+
+[[zipcodes]]
+zipcode = 62939
+percent_zip_in_county = 1.67
+
+[[zipcodes]]
+zipcode = 62952
+percent_zip_in_county = 99.02
+
+[[zipcodes]]
+zipcode = 62957
+percent_zip_in_county = 1.81
+
+[[zipcodes]]
+zipcode = 62958
+percent_zip_in_county = 7.21
+
+[[zipcodes]]
+zipcode = 62961
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62998
+percent_zip_in_county = 100.0

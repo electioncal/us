@@ -1,2 +1,50 @@
 name = "LaGrange County"
 fips_code = 18087
+
+[[zipcodes]]
+zipcode = 46540
+percent_zip_in_county = 7.54
+
+[[zipcodes]]
+zipcode = 46543
+percent_zip_in_county = 31.75
+
+[[zipcodes]]
+zipcode = 46565
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46571
+percent_zip_in_county = 97.85
+
+[[zipcodes]]
+zipcode = 46746
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46747
+percent_zip_in_county = 17.16
+
+[[zipcodes]]
+zipcode = 46761
+percent_zip_in_county = 97.8
+
+[[zipcodes]]
+zipcode = 46767
+percent_zip_in_county = 2.14
+
+[[zipcodes]]
+zipcode = 46771
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46776
+percent_zip_in_county = 16.44
+
+[[zipcodes]]
+zipcode = 46786
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46795
+percent_zip_in_county = 85.9

@@ -1,2 +1,70 @@
 name = "Rowan County"
 fips_code = 37159
+
+[[zipcodes]]
+zipcode = 27013
+percent_zip_in_county = 71.09
+
+[[zipcodes]]
+zipcode = 27054
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28071
+percent_zip_in_county = 69.27
+
+[[zipcodes]]
+zipcode = 28072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28081
+percent_zip_in_county = 42.24
+
+[[zipcodes]]
+zipcode = 28083
+percent_zip_in_county = 23.55
+
+[[zipcodes]]
+zipcode = 28088
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28115
+percent_zip_in_county = 6.78
+
+[[zipcodes]]
+zipcode = 28125
+percent_zip_in_county = 79.56
+
+[[zipcodes]]
+zipcode = 28137
+percent_zip_in_county = 23.46
+
+[[zipcodes]]
+zipcode = 28138
+percent_zip_in_county = 91.78
+
+[[zipcodes]]
+zipcode = 28144
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28146
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28147
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28159
+percent_zip_in_county = 100.0

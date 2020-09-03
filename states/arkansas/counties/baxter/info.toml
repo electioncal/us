@@ -1,2 +1,54 @@
 name = "Baxter County"
 fips_code = 5005
+
+[[zipcodes]]
+zipcode = 72519
+percent_zip_in_county = 21.08
+
+[[zipcodes]]
+zipcode = 72531
+percent_zip_in_county = 48.5
+
+[[zipcodes]]
+zipcode = 72537
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72538
+percent_zip_in_county = 3.01
+
+[[zipcodes]]
+zipcode = 72544
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72617
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72623
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72626
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72635
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72642
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72651
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72653
+percent_zip_in_county = 99.52
+
+[[zipcodes]]
+zipcode = 72658
+percent_zip_in_county = 100.0

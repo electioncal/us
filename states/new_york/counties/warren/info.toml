@@ -1,2 +1,102 @@
 name = "Warren County"
 fips_code = 36113
+
+[[zipcodes]]
+zipcode = 12801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12804
+percent_zip_in_county = 99.85
+
+[[zipcodes]]
+zipcode = 12808
+percent_zip_in_county = 99.35
+
+[[zipcodes]]
+zipcode = 12810
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12811
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12814
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12815
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12817
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12824
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12835
+percent_zip_in_county = 1.84
+
+[[zipcodes]]
+zipcode = 12836
+percent_zip_in_county = 97.74
+
+[[zipcodes]]
+zipcode = 12843
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12844
+percent_zip_in_county = 2.01
+
+[[zipcodes]]
+zipcode = 12845
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12846
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12853
+percent_zip_in_county = 96.72
+
+[[zipcodes]]
+zipcode = 12856
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12857
+percent_zip_in_county = 9.64
+
+[[zipcodes]]
+zipcode = 12860
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12862
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12870
+percent_zip_in_county = 2.05
+
+[[zipcodes]]
+zipcode = 12874
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12878
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12885
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12886
+percent_zip_in_county = 100.0

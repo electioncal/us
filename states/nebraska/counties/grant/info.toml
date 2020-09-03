@@ -1,2 +1,14 @@
 name = "Grant County"
 fips_code = 31075
+
+[[zipcodes]]
+zipcode = 69333
+percent_zip_in_county = 50.63
+
+[[zipcodes]]
+zipcode = 69350
+percent_zip_in_county = 88.51
+
+[[zipcodes]]
+zipcode = 69366
+percent_zip_in_county = 60.87

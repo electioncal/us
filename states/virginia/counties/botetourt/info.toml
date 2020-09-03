@@ -1,2 +1,50 @@
 name = "Botetourt County"
 fips_code = 51023
+
+[[zipcodes]]
+zipcode = 24012
+percent_zip_in_county = 4.02
+
+[[zipcodes]]
+zipcode = 24019
+percent_zip_in_county = 15.66
+
+[[zipcodes]]
+zipcode = 24064
+percent_zip_in_county = 71.11
+
+[[zipcodes]]
+zipcode = 24066
+percent_zip_in_county = 98.38
+
+[[zipcodes]]
+zipcode = 24077
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24083
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24085
+percent_zip_in_county = 99.5
+
+[[zipcodes]]
+zipcode = 24090
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24130
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24153
+percent_zip_in_county = 0.07
+
+[[zipcodes]]
+zipcode = 24175
+percent_zip_in_county = 99.5
+
+[[zipcodes]]
+zipcode = 24422
+percent_zip_in_county = 3.47

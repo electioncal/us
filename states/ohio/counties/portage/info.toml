@@ -1,2 +1,102 @@
 name = "Portage County"
 fips_code = 39133
+
+[[zipcodes]]
+zipcode = 44201
+percent_zip_in_county = 98.94
+
+[[zipcodes]]
+zipcode = 44202
+percent_zip_in_county = 83.41
+
+[[zipcodes]]
+zipcode = 44224
+percent_zip_in_county = 0.1
+
+[[zipcodes]]
+zipcode = 44231
+percent_zip_in_county = 89.62
+
+[[zipcodes]]
+zipcode = 44234
+percent_zip_in_county = 73.66
+
+[[zipcodes]]
+zipcode = 44236
+percent_zip_in_county = 0.68
+
+[[zipcodes]]
+zipcode = 44240
+percent_zip_in_county = 99.38
+
+[[zipcodes]]
+zipcode = 44241
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44243
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44255
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44260
+percent_zip_in_county = 71.46
+
+[[zipcodes]]
+zipcode = 44265
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44266
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44272
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44278
+percent_zip_in_county = 2.7
+
+[[zipcodes]]
+zipcode = 44285
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44288
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44312
+percent_zip_in_county = 0.12
+
+[[zipcodes]]
+zipcode = 44411
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44412
+percent_zip_in_county = 83.93
+
+[[zipcodes]]
+zipcode = 44429
+percent_zip_in_county = 2.48
+
+[[zipcodes]]
+zipcode = 44444
+percent_zip_in_county = 9.05
+
+[[zipcodes]]
+zipcode = 44449
+percent_zip_in_county = 46.94
+
+[[zipcodes]]
+zipcode = 44491
+percent_zip_in_county = 0.77
+
+[[zipcodes]]
+zipcode = 44632
+percent_zip_in_county = 5.28

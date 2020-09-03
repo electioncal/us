@@ -1,2 +1,58 @@
 name = "Douglas County"
 fips_code = 53017
+
+[[zipcodes]]
+zipcode = 98802
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98812
+percent_zip_in_county = 12.49
+
+[[zipcodes]]
+zipcode = 98813
+percent_zip_in_county = 95.59
+
+[[zipcodes]]
+zipcode = 98816
+percent_zip_in_county = 0.28
+
+[[zipcodes]]
+zipcode = 98823
+percent_zip_in_county = 0.46
+
+[[zipcodes]]
+zipcode = 98830
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98843
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98845
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98848
+percent_zip_in_county = 0.44
+
+[[zipcodes]]
+zipcode = 98850
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98858
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99115
+percent_zip_in_county = 13.74
+
+[[zipcodes]]
+zipcode = 99116
+percent_zip_in_county = 13.0
+
+[[zipcodes]]
+zipcode = 99133
+percent_zip_in_county = 6.5

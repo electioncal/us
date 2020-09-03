@@ -1,2 +1,94 @@
 name = "Fauquier County"
 fips_code = 51061
+
+[[zipcodes]]
+zipcode = 20106
+percent_zip_in_county = 3.7
+
+[[zipcodes]]
+zipcode = 20115
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20117
+percent_zip_in_county = 6.28
+
+[[zipcodes]]
+zipcode = 20119
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20130
+percent_zip_in_county = 22.42
+
+[[zipcodes]]
+zipcode = 20137
+percent_zip_in_county = 67.81
+
+[[zipcodes]]
+zipcode = 20139
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20144
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20181
+percent_zip_in_county = 9.84
+
+[[zipcodes]]
+zipcode = 20184
+percent_zip_in_county = 55.3
+
+[[zipcodes]]
+zipcode = 20186
+percent_zip_in_county = 99.9
+
+[[zipcodes]]
+zipcode = 20187
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20198
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22406
+percent_zip_in_county = 0.08
+
+[[zipcodes]]
+zipcode = 22630
+percent_zip_in_county = 0.04
+
+[[zipcodes]]
+zipcode = 22639
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22642
+percent_zip_in_county = 15.99
+
+[[zipcodes]]
+zipcode = 22643
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22712
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22720
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22728
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22734
+percent_zip_in_county = 94.67
+
+[[zipcodes]]
+zipcode = 22742
+percent_zip_in_county = 100.0

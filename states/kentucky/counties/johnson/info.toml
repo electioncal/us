@@ -1,2 +1,78 @@
 name = "Johnson County"
 fips_code = 21115
+
+[[zipcodes]]
+zipcode = 41204
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41216
+percent_zip_in_county = 37.86
+
+[[zipcodes]]
+zipcode = 41219
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41222
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41226
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41232
+percent_zip_in_county = 32.99
+
+[[zipcodes]]
+zipcode = 41234
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41238
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41240
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41254
+percent_zip_in_county = 91.42
+
+[[zipcodes]]
+zipcode = 41255
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41256
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41257
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41260
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41263
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41265
+percent_zip_in_county = 97.68
+
+[[zipcodes]]
+zipcode = 41268
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41271
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41274
+percent_zip_in_county = 100.0

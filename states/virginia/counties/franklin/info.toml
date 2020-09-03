@@ -1,2 +1,6 @@
 name = "Franklin city"
 fips_code = 51620
+
+[[zipcodes]]
+zipcode = 23851
+percent_zip_in_county = 62.57

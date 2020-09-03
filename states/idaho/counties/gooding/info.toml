@@ -1,2 +1,26 @@
 name = "Gooding County"
 fips_code = 16047
+
+[[zipcodes]]
+zipcode = 83314
+percent_zip_in_county = 98.89
+
+[[zipcodes]]
+zipcode = 83316
+percent_zip_in_county = 0.49
+
+[[zipcodes]]
+zipcode = 83330
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83332
+percent_zip_in_county = 92.8
+
+[[zipcodes]]
+zipcode = 83338
+percent_zip_in_county = 1.69
+
+[[zipcodes]]
+zipcode = 83355
+percent_zip_in_county = 100.0

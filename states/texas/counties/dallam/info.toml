@@ -1,2 +1,14 @@
 name = "Dallam County"
 fips_code = 48111
+
+[[zipcodes]]
+zipcode = 79022
+percent_zip_in_county = 55.14
+
+[[zipcodes]]
+zipcode = 79051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79087
+percent_zip_in_county = 100.0

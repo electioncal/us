@@ -1,2 +1,38 @@
 name = "Las Animas County"
 fips_code = 8071
+
+[[zipcodes]]
+zipcode = 81020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81049
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81059
+percent_zip_in_county = 95.39
+
+[[zipcodes]]
+zipcode = 81064
+percent_zip_in_county = 7.8
+
+[[zipcodes]]
+zipcode = 81081
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81082
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81091
+percent_zip_in_county = 100.0

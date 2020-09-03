@@ -1,2 +1,54 @@
 name = "Van Buren County"
 fips_code = 19177
+
+[[zipcodes]]
+zipcode = 52535
+percent_zip_in_county = 94.03
+
+[[zipcodes]]
+zipcode = 52542
+percent_zip_in_county = 90.8
+
+[[zipcodes]]
+zipcode = 52551
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52554
+percent_zip_in_county = 1.17
+
+[[zipcodes]]
+zipcode = 52565
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52567
+percent_zip_in_county = 3.9
+
+[[zipcodes]]
+zipcode = 52570
+percent_zip_in_county = 88.89
+
+[[zipcodes]]
+zipcode = 52573
+percent_zip_in_county = 84.57
+
+[[zipcodes]]
+zipcode = 52588
+percent_zip_in_county = 70.15
+
+[[zipcodes]]
+zipcode = 52620
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52626
+percent_zip_in_county = 63.6
+
+[[zipcodes]]
+zipcode = 52630
+percent_zip_in_county = 23.37
+
+[[zipcodes]]
+zipcode = 52651
+percent_zip_in_county = 94.12

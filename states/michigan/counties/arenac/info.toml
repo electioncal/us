@@ -1,2 +1,38 @@
 name = "Arenac County"
 fips_code = 26011
+
+[[zipcodes]]
+zipcode = 48610
+percent_zip_in_county = 39.05
+
+[[zipcodes]]
+zipcode = 48650
+percent_zip_in_county = 6.8
+
+[[zipcodes]]
+zipcode = 48658
+percent_zip_in_county = 95.5
+
+[[zipcodes]]
+zipcode = 48659
+percent_zip_in_county = 98.0
+
+[[zipcodes]]
+zipcode = 48703
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48749
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48763
+percent_zip_in_county = 8.08
+
+[[zipcodes]]
+zipcode = 48765
+percent_zip_in_county = 68.28
+
+[[zipcodes]]
+zipcode = 48766
+percent_zip_in_county = 100.0

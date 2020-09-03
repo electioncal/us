@@ -1,2 +1,50 @@
 name = "Miami County"
 fips_code = 18103
+
+[[zipcodes]]
+zipcode = 46901
+percent_zip_in_county = 4.23
+
+[[zipcodes]]
+zipcode = 46910
+percent_zip_in_county = 3.57
+
+[[zipcodes]]
+zipcode = 46911
+percent_zip_in_county = 90.76
+
+[[zipcodes]]
+zipcode = 46914
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46919
+percent_zip_in_county = 56.23
+
+[[zipcodes]]
+zipcode = 46926
+percent_zip_in_county = 98.19
+
+[[zipcodes]]
+zipcode = 46932
+percent_zip_in_county = 4.55
+
+[[zipcodes]]
+zipcode = 46951
+percent_zip_in_county = 74.7
+
+[[zipcodes]]
+zipcode = 46958
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46959
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46970
+percent_zip_in_county = 97.34
+
+[[zipcodes]]
+zipcode = 46974
+percent_zip_in_county = 20.95

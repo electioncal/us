@@ -1,2 +1,38 @@
 name = "Osceola County"
 fips_code = 26133
+
+[[zipcodes]]
+zipcode = 48632
+percent_zip_in_county = 1.81
+
+[[zipcodes]]
+zipcode = 49338
+percent_zip_in_county = 1.19
+
+[[zipcodes]]
+zipcode = 49631
+percent_zip_in_county = 88.75
+
+[[zipcodes]]
+zipcode = 49639
+percent_zip_in_county = 77.28
+
+[[zipcodes]]
+zipcode = 49655
+percent_zip_in_county = 94.52
+
+[[zipcodes]]
+zipcode = 49665
+percent_zip_in_county = 81.83
+
+[[zipcodes]]
+zipcode = 49677
+percent_zip_in_county = 81.86
+
+[[zipcodes]]
+zipcode = 49679
+percent_zip_in_county = 86.76
+
+[[zipcodes]]
+zipcode = 49688
+percent_zip_in_county = 93.16

@@ -1,2 +1,42 @@
 name = "Watonwan County"
 fips_code = 27165
+
+[[zipcodes]]
+zipcode = 56019
+percent_zip_in_county = 4.38
+
+[[zipcodes]]
+zipcode = 56022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56056
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56060
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56062
+percent_zip_in_county = 91.96
+
+[[zipcodes]]
+zipcode = 56081
+percent_zip_in_county = 98.93
+
+[[zipcodes]]
+zipcode = 56088
+percent_zip_in_county = 10.07
+
+[[zipcodes]]
+zipcode = 56120
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56160
+percent_zip_in_county = 58.88
+
+[[zipcodes]]
+zipcode = 56162
+percent_zip_in_county = 44.56

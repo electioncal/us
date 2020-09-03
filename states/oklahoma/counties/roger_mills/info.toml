@@ -1,2 +1,38 @@
 name = "Roger Mills County"
 fips_code = 40129
+
+[[zipcodes]]
+zipcode = 73628
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73638
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73642
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73644
+percent_zip_in_county = 0.31
+
+[[zipcodes]]
+zipcode = 73650
+percent_zip_in_county = 82.94
+
+[[zipcodes]]
+zipcode = 73654
+percent_zip_in_county = 17.78
+
+[[zipcodes]]
+zipcode = 73660
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73662
+percent_zip_in_county = 1.33
+
+[[zipcodes]]
+zipcode = 73666
+percent_zip_in_county = 100.0

@@ -1,2 +1,30 @@
 name = "Hickman County"
 fips_code = 21105
+
+[[zipcodes]]
+zipcode = 42021
+percent_zip_in_county = 7.71
+
+[[zipcodes]]
+zipcode = 42031
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42039
+percent_zip_in_county = 12.96
+
+[[zipcodes]]
+zipcode = 42041
+percent_zip_in_county = 10.89
+
+[[zipcodes]]
+zipcode = 42085
+percent_zip_in_county = 22.22
+
+[[zipcodes]]
+zipcode = 42088
+percent_zip_in_county = 9.07

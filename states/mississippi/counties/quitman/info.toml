@@ -1,2 +1,38 @@
 name = "Quitman County"
 fips_code = 28119
+
+[[zipcodes]]
+zipcode = 38606
+percent_zip_in_county = 0.22
+
+[[zipcodes]]
+zipcode = 38621
+percent_zip_in_county = 30.37
+
+[[zipcodes]]
+zipcode = 38622
+percent_zip_in_county = 59.15
+
+[[zipcodes]]
+zipcode = 38623
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38643
+percent_zip_in_county = 99.69
+
+[[zipcodes]]
+zipcode = 38645
+percent_zip_in_county = 4.51
+
+[[zipcodes]]
+zipcode = 38646
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38670
+percent_zip_in_county = 90.86
+
+[[zipcodes]]
+zipcode = 38964
+percent_zip_in_county = 71.15

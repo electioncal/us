@@ -1,2 +1,62 @@
 name = "Isabella County"
 fips_code = 26073
+
+[[zipcodes]]
+zipcode = 48617
+percent_zip_in_county = 22.13
+
+[[zipcodes]]
+zipcode = 48618
+percent_zip_in_county = 12.65
+
+[[zipcodes]]
+zipcode = 48622
+percent_zip_in_county = 17.56
+
+[[zipcodes]]
+zipcode = 48632
+percent_zip_in_county = 23.73
+
+[[zipcodes]]
+zipcode = 48829
+percent_zip_in_county = 1.84
+
+[[zipcodes]]
+zipcode = 48858
+percent_zip_in_county = 99.67
+
+[[zipcodes]]
+zipcode = 48877
+percent_zip_in_county = 4.81
+
+[[zipcodes]]
+zipcode = 48878
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48880
+percent_zip_in_county = 1.54
+
+[[zipcodes]]
+zipcode = 48883
+percent_zip_in_county = 74.11
+
+[[zipcodes]]
+zipcode = 48893
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48896
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49305
+percent_zip_in_county = 3.62
+
+[[zipcodes]]
+zipcode = 49310
+percent_zip_in_county = 63.93
+
+[[zipcodes]]
+zipcode = 49340
+percent_zip_in_county = 26.96

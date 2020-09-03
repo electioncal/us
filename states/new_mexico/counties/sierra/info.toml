@@ -1,2 +1,42 @@
 name = "Sierra County"
 fips_code = 35051
+
+[[zipcodes]]
+zipcode = 87901
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87930
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87931
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87933
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87935
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87936
+percent_zip_in_county = 11.46
+
+[[zipcodes]]
+zipcode = 87939
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87942
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87943
+percent_zip_in_county = 77.19
+
+[[zipcodes]]
+zipcode = 88042
+percent_zip_in_county = 100.0

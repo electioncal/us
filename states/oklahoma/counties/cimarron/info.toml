@@ -1,2 +1,22 @@
 name = "Cimarron County"
 fips_code = 40025
+
+[[zipcodes]]
+zipcode = 73933
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73937
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73946
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73947
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73949
+percent_zip_in_county = 5.21

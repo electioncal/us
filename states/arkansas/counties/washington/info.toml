@@ -1,2 +1,74 @@
 name = "Washington County"
 fips_code = 5143
+
+[[zipcodes]]
+zipcode = 72701
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72703
+percent_zip_in_county = 99.8
+
+[[zipcodes]]
+zipcode = 72704
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72717
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72727
+percent_zip_in_county = 75.43
+
+[[zipcodes]]
+zipcode = 72729
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72738
+percent_zip_in_county = 21.21
+
+[[zipcodes]]
+zipcode = 72744
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72749
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72753
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72761
+percent_zip_in_county = 0.81
+
+[[zipcodes]]
+zipcode = 72762
+percent_zip_in_county = 89.64
+
+[[zipcodes]]
+zipcode = 72764
+percent_zip_in_county = 89.25
+
+[[zipcodes]]
+zipcode = 72769
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72773
+percent_zip_in_county = 8.29
+
+[[zipcodes]]
+zipcode = 72774
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72959
+percent_zip_in_county = 93.9

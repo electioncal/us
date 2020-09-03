@@ -1,2 +1,26 @@
 name = "Allen County"
 fips_code = 21003
+
+[[zipcodes]]
+zipcode = 42120
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42122
+percent_zip_in_county = 2.13
+
+[[zipcodes]]
+zipcode = 42133
+percent_zip_in_county = 18.1
+
+[[zipcodes]]
+zipcode = 42134
+percent_zip_in_county = 2.53
+
+[[zipcodes]]
+zipcode = 42153
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42164
+percent_zip_in_county = 100.0

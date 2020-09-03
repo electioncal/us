@@ -1,2 +1,30 @@
 name = "Guadalupe County"
 fips_code = 35019
+
+[[zipcodes]]
+zipcode = 87711
+percent_zip_in_county = 64.94
+
+[[zipcodes]]
+zipcode = 87724
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88321
+percent_zip_in_county = 14.44
+
+[[zipcodes]]
+zipcode = 88353
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88417
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88431
+percent_zip_in_county = 53.06
+
+[[zipcodes]]
+zipcode = 88435
+percent_zip_in_county = 100.0

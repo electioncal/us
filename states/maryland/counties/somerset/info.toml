@@ -1,2 +1,46 @@
 name = "Somerset County"
 fips_code = 24039
+
+[[zipcodes]]
+zipcode = 21817
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21821
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21822
+percent_zip_in_county = 50.36
+
+[[zipcodes]]
+zipcode = 21824
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21838
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21851
+percent_zip_in_county = 8.95
+
+[[zipcodes]]
+zipcode = 21853
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21866
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21867
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21871
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21890
+percent_zip_in_county = 100.0

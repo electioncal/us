@@ -1,2 +1,46 @@
 name = "Claiborne Parish"
 fips_code = 22027
+
+[[zipcodes]]
+zipcode = 71001
+percent_zip_in_county = 7.83
+
+[[zipcodes]]
+zipcode = 71003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71038
+percent_zip_in_county = 99.58
+
+[[zipcodes]]
+zipcode = 71040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71048
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71055
+percent_zip_in_county = 2.14
+
+[[zipcodes]]
+zipcode = 71079
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71222
+percent_zip_in_county = 10.63
+
+[[zipcodes]]
+zipcode = 71235
+percent_zip_in_county = 0.84
+
+[[zipcodes]]
+zipcode = 71256
+percent_zip_in_county = 25.87
+
+[[zipcodes]]
+zipcode = 71749
+percent_zip_in_county = 5.47

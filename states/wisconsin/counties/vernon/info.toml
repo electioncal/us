@@ -1,2 +1,74 @@
 name = "Vernon County"
 fips_code = 55123
+
+[[zipcodes]]
+zipcode = 53929
+percent_zip_in_county = 7.26
+
+[[zipcodes]]
+zipcode = 53968
+percent_zip_in_county = 1.8
+
+[[zipcodes]]
+zipcode = 54619
+percent_zip_in_county = 23.83
+
+[[zipcodes]]
+zipcode = 54621
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54623
+percent_zip_in_county = 69.53
+
+[[zipcodes]]
+zipcode = 54624
+percent_zip_in_county = 85.83
+
+[[zipcodes]]
+zipcode = 54628
+percent_zip_in_county = 6.04
+
+[[zipcodes]]
+zipcode = 54632
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54634
+percent_zip_in_county = 85.35
+
+[[zipcodes]]
+zipcode = 54638
+percent_zip_in_county = 5.72
+
+[[zipcodes]]
+zipcode = 54639
+percent_zip_in_county = 96.79
+
+[[zipcodes]]
+zipcode = 54651
+percent_zip_in_county = 68.81
+
+[[zipcodes]]
+zipcode = 54652
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54655
+percent_zip_in_county = 4.11
+
+[[zipcodes]]
+zipcode = 54658
+percent_zip_in_county = 84.41
+
+[[zipcodes]]
+zipcode = 54664
+percent_zip_in_county = 31.99
+
+[[zipcodes]]
+zipcode = 54665
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54667
+percent_zip_in_county = 99.28

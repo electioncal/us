@@ -1,2 +1,6 @@
 name = "Hormigueros Municipio"
 fips_code = 72067
+
+[[zipcodes]]
+zipcode = 660
+percent_zip_in_county = 100.0

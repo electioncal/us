@@ -1,2 +1,38 @@
 name = "Catahoula Parish"
 fips_code = 22025
+
+[[zipcodes]]
+zipcode = 71326
+percent_zip_in_county = 29.64
+
+[[zipcodes]]
+zipcode = 71340
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71343
+percent_zip_in_county = 83.65
+
+[[zipcodes]]
+zipcode = 71368
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71418
+percent_zip_in_county = 0.91
+
+[[zipcodes]]
+zipcode = 71425
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71435
+percent_zip_in_county = 1.28
+
+[[zipcodes]]
+zipcode = 71465
+percent_zip_in_county = 0.99

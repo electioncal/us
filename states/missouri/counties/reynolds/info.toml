@@ -1,2 +1,50 @@
 name = "Reynolds County"
 fips_code = 29179
+
+[[zipcodes]]
+zipcode = 63620
+percent_zip_in_county = 7.54
+
+[[zipcodes]]
+zipcode = 63625
+percent_zip_in_county = 90.59
+
+[[zipcodes]]
+zipcode = 63629
+percent_zip_in_county = 66.13
+
+[[zipcodes]]
+zipcode = 63633
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63638
+percent_zip_in_county = 98.84
+
+[[zipcodes]]
+zipcode = 63654
+percent_zip_in_county = 97.03
+
+[[zipcodes]]
+zipcode = 63656
+percent_zip_in_county = 15.25
+
+[[zipcodes]]
+zipcode = 63665
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63666
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63957
+percent_zip_in_county = 6.18
+
+[[zipcodes]]
+zipcode = 63965
+percent_zip_in_county = 6.15
+
+[[zipcodes]]
+zipcode = 65440
+percent_zip_in_county = 29.98

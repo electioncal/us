@@ -1,2 +1,14 @@
 name = "Fairfax city"
 fips_code = 51600
+
+[[zipcodes]]
+zipcode = 22030
+percent_zip_in_county = 31.83
+
+[[zipcodes]]
+zipcode = 22031
+percent_zip_in_county = 13.38
+
+[[zipcodes]]
+zipcode = 22032
+percent_zip_in_county = 3.57

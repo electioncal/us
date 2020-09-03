@@ -1,2 +1,46 @@
 name = "Starke County"
 fips_code = 18149
+
+[[zipcodes]]
+zipcode = 46366
+percent_zip_in_county = 97.08
+
+[[zipcodes]]
+zipcode = 46374
+percent_zip_in_county = 81.52
+
+[[zipcodes]]
+zipcode = 46511
+percent_zip_in_county = 10.1
+
+[[zipcodes]]
+zipcode = 46531
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46532
+percent_zip_in_county = 64.93
+
+[[zipcodes]]
+zipcode = 46534
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46563
+percent_zip_in_county = 0.25
+
+[[zipcodes]]
+zipcode = 46574
+percent_zip_in_county = 23.06
+
+[[zipcodes]]
+zipcode = 46960
+percent_zip_in_county = 37.36
+
+[[zipcodes]]
+zipcode = 46968
+percent_zip_in_county = 90.41
+
+[[zipcodes]]
+zipcode = 46996
+percent_zip_in_county = 0.1

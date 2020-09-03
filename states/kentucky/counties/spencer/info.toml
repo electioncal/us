@@ -1,2 +1,30 @@
 name = "Spencer County"
 fips_code = 21215
+
+[[zipcodes]]
+zipcode = 40008
+percent_zip_in_county = 7.42
+
+[[zipcodes]]
+zipcode = 40013
+percent_zip_in_county = 11.9
+
+[[zipcodes]]
+zipcode = 40023
+percent_zip_in_county = 49.76
+
+[[zipcodes]]
+zipcode = 40046
+percent_zip_in_county = 81.91
+
+[[zipcodes]]
+zipcode = 40047
+percent_zip_in_county = 0.14
+
+[[zipcodes]]
+zipcode = 40065
+percent_zip_in_county = 0.03
+
+[[zipcodes]]
+zipcode = 40071
+percent_zip_in_county = 88.53

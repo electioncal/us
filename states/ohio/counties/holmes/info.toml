@@ -1,2 +1,74 @@
 name = "Holmes County"
 fips_code = 39075
+
+[[zipcodes]]
+zipcode = 43006
+percent_zip_in_county = 44.65
+
+[[zipcodes]]
+zipcode = 43804
+percent_zip_in_county = 55.21
+
+[[zipcodes]]
+zipcode = 44610
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44611
+percent_zip_in_county = 95.46
+
+[[zipcodes]]
+zipcode = 44624
+percent_zip_in_county = 53.07
+
+[[zipcodes]]
+zipcode = 44627
+percent_zip_in_county = 43.86
+
+[[zipcodes]]
+zipcode = 44628
+percent_zip_in_county = 77.41
+
+[[zipcodes]]
+zipcode = 44633
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44637
+percent_zip_in_county = 89.31
+
+[[zipcodes]]
+zipcode = 44638
+percent_zip_in_county = 78.62
+
+[[zipcodes]]
+zipcode = 44654
+percent_zip_in_county = 97.69
+
+[[zipcodes]]
+zipcode = 44661
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44676
+percent_zip_in_county = 23.21
+
+[[zipcodes]]
+zipcode = 44681
+percent_zip_in_county = 38.4
+
+[[zipcodes]]
+zipcode = 44687
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44689
+percent_zip_in_county = 36.21
+
+[[zipcodes]]
+zipcode = 44690
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44842
+percent_zip_in_county = 11.39

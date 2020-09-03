@@ -1,2 +1,18 @@
 name = "Cheyenne County"
 fips_code = 20023
+
+[[zipcodes]]
+zipcode = 67731
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67741
+percent_zip_in_county = 2.15
+
+[[zipcodes]]
+zipcode = 67745
+percent_zip_in_county = 8.7
+
+[[zipcodes]]
+zipcode = 67756
+percent_zip_in_county = 100.0

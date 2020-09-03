@@ -1,2 +1,98 @@
 name = "Charles County"
 fips_code = 24017
+
+[[zipcodes]]
+zipcode = 20601
+percent_zip_in_county = 98.8
+
+[[zipcodes]]
+zipcode = 20602
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20603
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20607
+percent_zip_in_county = 0.44
+
+[[zipcodes]]
+zipcode = 20611
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20612
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20613
+percent_zip_in_county = 13.3
+
+[[zipcodes]]
+zipcode = 20616
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20617
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20622
+percent_zip_in_county = 63.88
+
+[[zipcodes]]
+zipcode = 20625
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20632
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20637
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20640
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20645
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20646
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20658
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20659
+percent_zip_in_county = 1.57
+
+[[zipcodes]]
+zipcode = 20662
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20664
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20675
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20677
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20693
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20695
+percent_zip_in_county = 100.0

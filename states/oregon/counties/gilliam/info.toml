@@ -1,2 +1,18 @@
 name = "Gilliam County"
 fips_code = 41021
+
+[[zipcodes]]
+zipcode = 97812
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97823
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97830
+percent_zip_in_county = 6.15
+
+[[zipcodes]]
+zipcode = 97843
+percent_zip_in_county = 4.02

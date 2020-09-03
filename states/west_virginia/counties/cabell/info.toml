@@ -1,2 +1,54 @@
 name = "Cabell County"
 fips_code = 54011
+
+[[zipcodes]]
+zipcode = 25504
+percent_zip_in_county = 99.21
+
+[[zipcodes]]
+zipcode = 25506
+percent_zip_in_county = 13.54
+
+[[zipcodes]]
+zipcode = 25510
+percent_zip_in_county = 63.95
+
+[[zipcodes]]
+zipcode = 25520
+percent_zip_in_county = 43.37
+
+[[zipcodes]]
+zipcode = 25537
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25541
+percent_zip_in_county = 89.64
+
+[[zipcodes]]
+zipcode = 25545
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25559
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25701
+percent_zip_in_county = 93.93
+
+[[zipcodes]]
+zipcode = 25702
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25703
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25704
+percent_zip_in_county = 30.39
+
+[[zipcodes]]
+zipcode = 25705
+percent_zip_in_county = 100.0

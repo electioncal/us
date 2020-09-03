@@ -1,2 +1,6 @@
 name = "Covington city"
 fips_code = 51580
+
+[[zipcodes]]
+zipcode = 24426
+percent_zip_in_county = 41.6

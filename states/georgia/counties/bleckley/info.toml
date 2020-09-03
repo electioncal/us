@@ -1,2 +1,22 @@
 name = "Bleckley County"
 fips_code = 13023
+
+[[zipcodes]]
+zipcode = 31012
+percent_zip_in_county = 10.47
+
+[[zipcodes]]
+zipcode = 31014
+percent_zip_in_county = 88.22
+
+[[zipcodes]]
+zipcode = 31017
+percent_zip_in_county = 19.5
+
+[[zipcodes]]
+zipcode = 31022
+percent_zip_in_county = 1.47
+
+[[zipcodes]]
+zipcode = 31065
+percent_zip_in_county = 21.29

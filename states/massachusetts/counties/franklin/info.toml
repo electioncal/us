@@ -1,2 +1,122 @@
 name = "Franklin County"
 fips_code = 25011
+
+[[zipcodes]]
+zipcode = 1002
+percent_zip_in_county = 0.97
+
+[[zipcodes]]
+zipcode = 1039
+percent_zip_in_county = 15.12
+
+[[zipcodes]]
+zipcode = 1054
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1093
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1330
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1337
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1338
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1339
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1340
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1341
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1342
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1344
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1346
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1347
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1349
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1350
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1351
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1354
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1355
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1360
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1364
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1367
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1370
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1373
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1375
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1376
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1378
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1379
+percent_zip_in_county = 100.0

@@ -1,2 +1,74 @@
 name = "Hillsdale County"
 fips_code = 26059
+
+[[zipcodes]]
+zipcode = 49082
+percent_zip_in_county = 3.83
+
+[[zipcodes]]
+zipcode = 49220
+percent_zip_in_county = 15.24
+
+[[zipcodes]]
+zipcode = 49227
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49232
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49233
+percent_zip_in_county = 55.56
+
+[[zipcodes]]
+zipcode = 49242
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49246
+percent_zip_in_county = 2.98
+
+[[zipcodes]]
+zipcode = 49247
+percent_zip_in_county = 24.32
+
+[[zipcodes]]
+zipcode = 49249
+percent_zip_in_county = 89.5
+
+[[zipcodes]]
+zipcode = 49250
+percent_zip_in_county = 97.22
+
+[[zipcodes]]
+zipcode = 49252
+percent_zip_in_county = 93.47
+
+[[zipcodes]]
+zipcode = 49255
+percent_zip_in_county = 43.27
+
+[[zipcodes]]
+zipcode = 49262
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49266
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49271
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49274
+percent_zip_in_county = 90.3
+
+[[zipcodes]]
+zipcode = 49282
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49288
+percent_zip_in_county = 92.92

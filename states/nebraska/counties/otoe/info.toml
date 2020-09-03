@@ -1,2 +1,66 @@
 name = "Otoe County"
 fips_code = 31131
+
+[[zipcodes]]
+zipcode = 68301
+percent_zip_in_county = 4.43
+
+[[zipcodes]]
+zipcode = 68307
+percent_zip_in_county = 19.81
+
+[[zipcodes]]
+zipcode = 68317
+percent_zip_in_county = 1.14
+
+[[zipcodes]]
+zipcode = 68324
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68329
+percent_zip_in_county = 19.76
+
+[[zipcodes]]
+zipcode = 68344
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68346
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68347
+percent_zip_in_county = 17.51
+
+[[zipcodes]]
+zipcode = 68382
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68410
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68413
+percent_zip_in_county = 6.0
+
+[[zipcodes]]
+zipcode = 68417
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68418
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68446
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68448
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68454
+percent_zip_in_county = 100.0

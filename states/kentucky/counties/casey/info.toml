@@ -1,2 +1,54 @@
 name = "Casey County"
 fips_code = 21045
+
+[[zipcodes]]
+zipcode = 40328
+percent_zip_in_county = 15.77
+
+[[zipcodes]]
+zipcode = 40437
+percent_zip_in_county = 22.63
+
+[[zipcodes]]
+zipcode = 40442
+percent_zip_in_county = 41.46
+
+[[zipcodes]]
+zipcode = 40464
+percent_zip_in_county = 9.25
+
+[[zipcodes]]
+zipcode = 40489
+percent_zip_in_county = 6.84
+
+[[zipcodes]]
+zipcode = 42516
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42528
+percent_zip_in_county = 73.49
+
+[[zipcodes]]
+zipcode = 42539
+percent_zip_in_county = 99.72
+
+[[zipcodes]]
+zipcode = 42541
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42565
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42566
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42642
+percent_zip_in_county = 0.55
+
+[[zipcodes]]
+zipcode = 42733
+percent_zip_in_county = 16.51

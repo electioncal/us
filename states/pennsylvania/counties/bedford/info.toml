@@ -1,2 +1,118 @@
 name = "Bedford County"
 fips_code = 42009
+
+[[zipcodes]]
+zipcode = 15521
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15522
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15533
+percent_zip_in_county = 93.43
+
+[[zipcodes]]
+zipcode = 15534
+percent_zip_in_county = 98.5
+
+[[zipcodes]]
+zipcode = 15535
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15537
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15539
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15545
+percent_zip_in_county = 79.96
+
+[[zipcodes]]
+zipcode = 15550
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15554
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15559
+percent_zip_in_county = 99.59
+
+[[zipcodes]]
+zipcode = 15946
+percent_zip_in_county = 0.76
+
+[[zipcodes]]
+zipcode = 16625
+percent_zip_in_county = 23.01
+
+[[zipcodes]]
+zipcode = 16633
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16650
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16655
+percent_zip_in_county = 94.57
+
+[[zipcodes]]
+zipcode = 16657
+percent_zip_in_county = 0.82
+
+[[zipcodes]]
+zipcode = 16659
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16662
+percent_zip_in_county = 6.37
+
+[[zipcodes]]
+zipcode = 16664
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16667
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16670
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16672
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16673
+percent_zip_in_county = 13.1
+
+[[zipcodes]]
+zipcode = 16678
+percent_zip_in_county = 78.32
+
+[[zipcodes]]
+zipcode = 16679
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16694
+percent_zip_in_county = 50.0
+
+[[zipcodes]]
+zipcode = 16695
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17211
+percent_zip_in_county = 100.0

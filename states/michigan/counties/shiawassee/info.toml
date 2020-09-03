@@ -1,2 +1,78 @@
 name = "Shiawassee County"
 fips_code = 26155
+
+[[zipcodes]]
+zipcode = 48414
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48418
+percent_zip_in_county = 60.02
+
+[[zipcodes]]
+zipcode = 48429
+percent_zip_in_county = 97.48
+
+[[zipcodes]]
+zipcode = 48433
+percent_zip_in_county = 0.25
+
+[[zipcodes]]
+zipcode = 48436
+percent_zip_in_county = 3.19
+
+[[zipcodes]]
+zipcode = 48449
+percent_zip_in_county = 60.34
+
+[[zipcodes]]
+zipcode = 48460
+percent_zip_in_county = 63.43
+
+[[zipcodes]]
+zipcode = 48476
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48616
+percent_zip_in_county = 0.25
+
+[[zipcodes]]
+zipcode = 48649
+percent_zip_in_county = 2.41
+
+[[zipcodes]]
+zipcode = 48817
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48831
+percent_zip_in_county = 20.64
+
+[[zipcodes]]
+zipcode = 48840
+percent_zip_in_county = 5.45
+
+[[zipcodes]]
+zipcode = 48841
+percent_zip_in_county = 75.79
+
+[[zipcodes]]
+zipcode = 48848
+percent_zip_in_county = 63.74
+
+[[zipcodes]]
+zipcode = 48857
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48866
+percent_zip_in_county = 27.75
+
+[[zipcodes]]
+zipcode = 48867
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48872
+percent_zip_in_county = 91.45

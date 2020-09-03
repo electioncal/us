@@ -1,2 +1,38 @@
 name = "Traverse County"
 fips_code = 27155
+
+[[zipcodes]]
+zipcode = 56211
+percent_zip_in_county = 23.82
+
+[[zipcodes]]
+zipcode = 56219
+percent_zip_in_county = 67.93
+
+[[zipcodes]]
+zipcode = 56221
+percent_zip_in_county = 0.26
+
+[[zipcodes]]
+zipcode = 56236
+percent_zip_in_county = 84.12
+
+[[zipcodes]]
+zipcode = 56240
+percent_zip_in_county = 14.11
+
+[[zipcodes]]
+zipcode = 56248
+percent_zip_in_county = 5.33
+
+[[zipcodes]]
+zipcode = 56274
+percent_zip_in_county = 24.86
+
+[[zipcodes]]
+zipcode = 56296
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56583
+percent_zip_in_county = 77.38

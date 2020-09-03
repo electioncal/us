@@ -1,2 +1,66 @@
 name = "Cabarrus County"
 fips_code = 37025
+
+[[zipcodes]]
+zipcode = 28025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28036
+percent_zip_in_county = 17.97
+
+[[zipcodes]]
+zipcode = 28071
+percent_zip_in_county = 24.95
+
+[[zipcodes]]
+zipcode = 28075
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28078
+percent_zip_in_county = 4.35
+
+[[zipcodes]]
+zipcode = 28081
+percent_zip_in_county = 57.76
+
+[[zipcodes]]
+zipcode = 28083
+percent_zip_in_county = 76.45
+
+[[zipcodes]]
+zipcode = 28097
+percent_zip_in_county = 3.65
+
+[[zipcodes]]
+zipcode = 28107
+percent_zip_in_county = 92.14
+
+[[zipcodes]]
+zipcode = 28124
+percent_zip_in_county = 90.83
+
+[[zipcodes]]
+zipcode = 28138
+percent_zip_in_county = 8.22
+
+[[zipcodes]]
+zipcode = 28213
+percent_zip_in_county = 2.24
+
+[[zipcodes]]
+zipcode = 28215
+percent_zip_in_county = 2.83
+
+[[zipcodes]]
+zipcode = 28262
+percent_zip_in_county = 0.01
+
+[[zipcodes]]
+zipcode = 28269
+percent_zip_in_county = 5.01

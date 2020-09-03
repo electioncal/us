@@ -1,2 +1,26 @@
 name = "Wahkiakum County"
 fips_code = 53069
+
+[[zipcodes]]
+zipcode = 98612
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98621
+percent_zip_in_county = 96.74
+
+[[zipcodes]]
+zipcode = 98632
+percent_zip_in_county = 0.08
+
+[[zipcodes]]
+zipcode = 98638
+percent_zip_in_county = 13.38
+
+[[zipcodes]]
+zipcode = 98643
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98647
+percent_zip_in_county = 100.0

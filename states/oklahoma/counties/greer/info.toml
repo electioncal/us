@@ -1,2 +1,22 @@
 name = "Greer County"
 fips_code = 40055
+
+[[zipcodes]]
+zipcode = 73526
+percent_zip_in_county = 1.5
+
+[[zipcodes]]
+zipcode = 73547
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73554
+percent_zip_in_county = 99.67
+
+[[zipcodes]]
+zipcode = 73662
+percent_zip_in_county = 0.05
+
+[[zipcodes]]
+zipcode = 73673
+percent_zip_in_county = 88.71

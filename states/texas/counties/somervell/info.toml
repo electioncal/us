@@ -1,2 +1,22 @@
 name = "Somervell County"
 fips_code = 48425
+
+[[zipcodes]]
+zipcode = 76043
+percent_zip_in_county = 99.87
+
+[[zipcodes]]
+zipcode = 76048
+percent_zip_in_county = 0.3
+
+[[zipcodes]]
+zipcode = 76070
+percent_zip_in_county = 96.81
+
+[[zipcodes]]
+zipcode = 76077
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76433
+percent_zip_in_county = 3.11

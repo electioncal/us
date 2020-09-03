@@ -1,2 +1,18 @@
 name = "Rio Grande County"
 fips_code = 8105
+
+[[zipcodes]]
+zipcode = 81125
+percent_zip_in_county = 18.1
+
+[[zipcodes]]
+zipcode = 81132
+percent_zip_in_county = 92.76
+
+[[zipcodes]]
+zipcode = 81144
+percent_zip_in_county = 98.9
+
+[[zipcodes]]
+zipcode = 81154
+percent_zip_in_county = 95.64

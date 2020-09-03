@@ -1,2 +1,50 @@
 name = "Lamb County"
 fips_code = 48279
+
+[[zipcodes]]
+zipcode = 79031
+percent_zip_in_county = 96.77
+
+[[zipcodes]]
+zipcode = 79041
+percent_zip_in_county = 0.59
+
+[[zipcodes]]
+zipcode = 79043
+percent_zip_in_county = 1.55
+
+[[zipcodes]]
+zipcode = 79064
+percent_zip_in_county = 96.6
+
+[[zipcodes]]
+zipcode = 79082
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79312
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79313
+percent_zip_in_county = 5.35
+
+[[zipcodes]]
+zipcode = 79326
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79339
+percent_zip_in_county = 98.22
+
+[[zipcodes]]
+zipcode = 79347
+percent_zip_in_county = 1.14
+
+[[zipcodes]]
+zipcode = 79369
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79371
+percent_zip_in_county = 93.01

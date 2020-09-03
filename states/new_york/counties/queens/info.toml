@@ -1,2 +1,278 @@
 name = "Queens County"
 fips_code = 36081
+
+[[zipcodes]]
+zipcode = 11001
+percent_zip_in_county = 15.71
+
+[[zipcodes]]
+zipcode = 11003
+percent_zip_in_county = 0.38
+
+[[zipcodes]]
+zipcode = 11004
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11005
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11040
+percent_zip_in_county = 5.33
+
+[[zipcodes]]
+zipcode = 11101
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11102
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11104
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11105
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11106
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11109
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11351
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 11354
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11355
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11356
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11357
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11358
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11359
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 11360
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11361
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11362
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11363
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11364
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11365
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11366
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11367
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11368
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11369
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11370
+percent_zip_in_county = 72.05
+
+[[zipcodes]]
+zipcode = 11371
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 11372
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11373
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11374
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11375
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11377
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11378
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11379
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11385
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11411
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11412
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11413
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11414
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11415
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11416
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11417
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11418
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11419
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11420
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11421
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11422
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11423
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11424
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 11426
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11427
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11428
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11429
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11430
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11432
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11433
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11434
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11435
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11436
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11451
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 11691
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11692
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11693
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11694
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11697
+percent_zip_in_county = 100.0

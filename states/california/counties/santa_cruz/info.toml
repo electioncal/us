@@ -1,2 +1,70 @@
 name = "Santa Cruz County"
 fips_code = 6087
+
+[[zipcodes]]
+zipcode = 95003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95005
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95006
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95017
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95018
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95019
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95033
+percent_zip_in_county = 56.43
+
+[[zipcodes]]
+zipcode = 95041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95060
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95062
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95064
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95065
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95066
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95073
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95076
+percent_zip_in_county = 83.32

@@ -1,2 +1,34 @@
 name = "Real County"
 fips_code = 48385
+
+[[zipcodes]]
+zipcode = 78024
+percent_zip_in_county = 0.35
+
+[[zipcodes]]
+zipcode = 78058
+percent_zip_in_county = 7.8
+
+[[zipcodes]]
+zipcode = 78828
+percent_zip_in_county = 25.58
+
+[[zipcodes]]
+zipcode = 78833
+percent_zip_in_county = 84.6
+
+[[zipcodes]]
+zipcode = 78873
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78879
+percent_zip_in_county = 79.17
+
+[[zipcodes]]
+zipcode = 78880
+percent_zip_in_county = 2.08
+
+[[zipcodes]]
+zipcode = 78885
+percent_zip_in_county = 7.5

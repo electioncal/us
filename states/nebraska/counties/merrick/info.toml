@@ -1,2 +1,34 @@
 name = "Merrick County"
 fips_code = 31121
+
+[[zipcodes]]
+zipcode = 68628
+percent_zip_in_county = 85.84
+
+[[zipcodes]]
+zipcode = 68663
+percent_zip_in_county = 77.0
+
+[[zipcodes]]
+zipcode = 68801
+percent_zip_in_county = 2.58
+
+[[zipcodes]]
+zipcode = 68816
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68826
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68827
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68864
+percent_zip_in_county = 78.48
+
+[[zipcodes]]
+zipcode = 68872
+percent_zip_in_county = 16.65

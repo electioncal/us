@@ -1,2 +1,30 @@
 name = "Menard County"
 fips_code = 17129
+
+[[zipcodes]]
+zipcode = 62613
+percent_zip_in_county = 98.48
+
+[[zipcodes]]
+zipcode = 62642
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62666
+percent_zip_in_county = 10.06
+
+[[zipcodes]]
+zipcode = 62673
+percent_zip_in_county = 87.74
+
+[[zipcodes]]
+zipcode = 62675
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62677
+percent_zip_in_county = 0.39
+
+[[zipcodes]]
+zipcode = 62688
+percent_zip_in_county = 100.0

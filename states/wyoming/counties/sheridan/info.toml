@@ -1,2 +1,50 @@
 name = "Sheridan County"
 fips_code = 56033
+
+[[zipcodes]]
+zipcode = 82801
+percent_zip_in_county = 99.95
+
+[[zipcodes]]
+zipcode = 82831
+percent_zip_in_county = 49.07
+
+[[zipcodes]]
+zipcode = 82832
+percent_zip_in_county = 78.16
+
+[[zipcodes]]
+zipcode = 82833
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82835
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82836
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82837
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82838
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82839
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82842
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82844
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82845
+percent_zip_in_county = 100.0

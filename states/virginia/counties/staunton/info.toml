@@ -1,2 +1,10 @@
 name = "Staunton city"
 fips_code = 51790
+
+[[zipcodes]]
+zipcode = 24401
+percent_zip_in_county = 66.89
+
+[[zipcodes]]
+zipcode = 24482
+percent_zip_in_county = 0.0

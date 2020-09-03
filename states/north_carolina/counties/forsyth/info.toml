@@ -1,2 +1,90 @@
 name = "Forsyth County"
 fips_code = 37067
+
+[[zipcodes]]
+zipcode = 27009
+percent_zip_in_county = 99.7
+
+[[zipcodes]]
+zipcode = 27012
+percent_zip_in_county = 80.04
+
+[[zipcodes]]
+zipcode = 27019
+percent_zip_in_county = 36.93
+
+[[zipcodes]]
+zipcode = 27021
+percent_zip_in_county = 0.76
+
+[[zipcodes]]
+zipcode = 27023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27043
+percent_zip_in_county = 0.17
+
+[[zipcodes]]
+zipcode = 27045
+percent_zip_in_county = 98.18
+
+[[zipcodes]]
+zipcode = 27050
+percent_zip_in_county = 84.0
+
+[[zipcodes]]
+zipcode = 27051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27052
+percent_zip_in_county = 12.3
+
+[[zipcodes]]
+zipcode = 27101
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27104
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27105
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27106
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27107
+percent_zip_in_county = 73.47
+
+[[zipcodes]]
+zipcode = 27109
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27110
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27127
+percent_zip_in_county = 87.9
+
+[[zipcodes]]
+zipcode = 27265
+percent_zip_in_county = 1.01
+
+[[zipcodes]]
+zipcode = 27284
+percent_zip_in_county = 94.06

@@ -1,2 +1,38 @@
 name = "Bertie County"
 fips_code = 37015
+
+[[zipcodes]]
+zipcode = 27805
+percent_zip_in_county = 49.3
+
+[[zipcodes]]
+zipcode = 27847
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27849
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27872
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27910
+percent_zip_in_county = 10.06
+
+[[zipcodes]]
+zipcode = 27924
+percent_zip_in_county = 99.14
+
+[[zipcodes]]
+zipcode = 27957
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27967
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27983
+percent_zip_in_county = 100.0

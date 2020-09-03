@@ -1,2 +1,30 @@
 name = "Portsmouth city"
 fips_code = 51740
+
+[[zipcodes]]
+zipcode = 23701
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23702
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23703
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23704
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23707
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23708
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23709
+percent_zip_in_county = 100.0

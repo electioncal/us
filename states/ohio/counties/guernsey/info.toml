@@ -1,2 +1,82 @@
 name = "Guernsey County"
 fips_code = 39059
+
+[[zipcodes]]
+zipcode = 43722
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43723
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43725
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43732
+percent_zip_in_county = 76.81
+
+[[zipcodes]]
+zipcode = 43733
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43736
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43749
+percent_zip_in_county = 93.12
+
+[[zipcodes]]
+zipcode = 43750
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43755
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43762
+percent_zip_in_county = 16.83
+
+[[zipcodes]]
+zipcode = 43768
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43772
+percent_zip_in_county = 66.63
+
+[[zipcodes]]
+zipcode = 43773
+percent_zip_in_county = 63.36
+
+[[zipcodes]]
+zipcode = 43778
+percent_zip_in_county = 95.41
+
+[[zipcodes]]
+zipcode = 43780
+percent_zip_in_county = 81.29
+
+[[zipcodes]]
+zipcode = 43832
+percent_zip_in_county = 2.73
+
+[[zipcodes]]
+zipcode = 43837
+percent_zip_in_county = 5.32
+
+[[zipcodes]]
+zipcode = 43973
+percent_zip_in_county = 42.59
+
+[[zipcodes]]
+zipcode = 43983
+percent_zip_in_county = 18.41
+
+[[zipcodes]]
+zipcode = 44699
+percent_zip_in_county = 0.21

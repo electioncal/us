@@ -1,2 +1,10 @@
 name = "Danville city"
 fips_code = 51590
+
+[[zipcodes]]
+zipcode = 24540
+percent_zip_in_county = 60.1
+
+[[zipcodes]]
+zipcode = 24541
+percent_zip_in_county = 84.06

@@ -1,2 +1,62 @@
 name = "Marshall County"
 fips_code = 27089
+
+[[zipcodes]]
+zipcode = 56701
+percent_zip_in_county = 3.81
+
+[[zipcodes]]
+zipcode = 56710
+percent_zip_in_county = 95.92
+
+[[zipcodes]]
+zipcode = 56713
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56724
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56725
+percent_zip_in_county = 17.48
+
+[[zipcodes]]
+zipcode = 56727
+percent_zip_in_county = 60.86
+
+[[zipcodes]]
+zipcode = 56732
+percent_zip_in_county = 4.49
+
+[[zipcodes]]
+zipcode = 56737
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56738
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56744
+percent_zip_in_county = 74.4
+
+[[zipcodes]]
+zipcode = 56757
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56758
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56759
+percent_zip_in_county = 26.1
+
+[[zipcodes]]
+zipcode = 56760
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56762
+percent_zip_in_county = 84.64

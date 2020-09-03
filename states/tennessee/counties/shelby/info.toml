@@ -1,2 +1,162 @@
 name = "Shelby County"
 fips_code = 47157
+
+[[zipcodes]]
+zipcode = 38002
+percent_zip_in_county = 94.84
+
+[[zipcodes]]
+zipcode = 38004
+percent_zip_in_county = 3.28
+
+[[zipcodes]]
+zipcode = 38011
+percent_zip_in_county = 1.97
+
+[[zipcodes]]
+zipcode = 38016
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38017
+percent_zip_in_county = 95.43
+
+[[zipcodes]]
+zipcode = 38018
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38028
+percent_zip_in_county = 45.3
+
+[[zipcodes]]
+zipcode = 38029
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38053
+percent_zip_in_county = 88.26
+
+[[zipcodes]]
+zipcode = 38054
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38104
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38105
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38106
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38107
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38108
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38109
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38111
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38112
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38114
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38115
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38116
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38117
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38118
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38119
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38120
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38122
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38125
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38126
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38127
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38128
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38131
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 38132
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38133
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38134
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38135
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38138
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38139
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38141
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38152
+percent_zip_in_county = 100.0

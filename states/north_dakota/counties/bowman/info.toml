@@ -1,2 +1,22 @@
 name = "Bowman County"
 fips_code = 38011
+
+[[zipcodes]]
+zipcode = 58623
+percent_zip_in_county = 95.02
+
+[[zipcodes]]
+zipcode = 58643
+percent_zip_in_county = 11.52
+
+[[zipcodes]]
+zipcode = 58649
+percent_zip_in_county = 0.62
+
+[[zipcodes]]
+zipcode = 58651
+percent_zip_in_county = 78.74
+
+[[zipcodes]]
+zipcode = 58653
+percent_zip_in_county = 83.36

@@ -1,2 +1,42 @@
 name = "Hockley County"
 fips_code = 48219
+
+[[zipcodes]]
+zipcode = 79313
+percent_zip_in_county = 94.65
+
+[[zipcodes]]
+zipcode = 79336
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79339
+percent_zip_in_county = 1.78
+
+[[zipcodes]]
+zipcode = 79353
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79358
+percent_zip_in_county = 95.07
+
+[[zipcodes]]
+zipcode = 79363
+percent_zip_in_county = 0.89
+
+[[zipcodes]]
+zipcode = 79367
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79372
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79380
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79407
+percent_zip_in_county = 4.95

@@ -1,2 +1,38 @@
 name = "Coos County"
 fips_code = 41011
+
+[[zipcodes]]
+zipcode = 97411
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97414
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97420
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97423
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97449
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97450
+percent_zip_in_county = 0.89
+
+[[zipcodes]]
+zipcode = 97458
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97459
+percent_zip_in_county = 99.47
+
+[[zipcodes]]
+zipcode = 97466
+percent_zip_in_county = 100.0

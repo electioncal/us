@@ -1,2 +1,54 @@
 name = "Bates County"
 fips_code = 29013
+
+[[zipcodes]]
+zipcode = 64720
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64722
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64723
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64724
+percent_zip_in_county = 12.96
+
+[[zipcodes]]
+zipcode = 64725
+percent_zip_in_county = 12.15
+
+[[zipcodes]]
+zipcode = 64730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64742
+percent_zip_in_county = 28.73
+
+[[zipcodes]]
+zipcode = 64745
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64752
+percent_zip_in_county = 73.2
+
+[[zipcodes]]
+zipcode = 64770
+percent_zip_in_county = 12.41
+
+[[zipcodes]]
+zipcode = 64779
+percent_zip_in_county = 87.23
+
+[[zipcodes]]
+zipcode = 64780
+percent_zip_in_county = 63.07
+
+[[zipcodes]]
+zipcode = 64788
+percent_zip_in_county = 15.69

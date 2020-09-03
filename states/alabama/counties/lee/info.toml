@@ -1,2 +1,62 @@
 name = "Lee County"
 fips_code = 1081
+
+[[zipcodes]]
+zipcode = 36801
+percent_zip_in_county = 98.76
+
+[[zipcodes]]
+zipcode = 36804
+percent_zip_in_county = 95.34
+
+[[zipcodes]]
+zipcode = 36830
+percent_zip_in_county = 97.78
+
+[[zipcodes]]
+zipcode = 36832
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36849
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36850
+percent_zip_in_county = 1.83
+
+[[zipcodes]]
+zipcode = 36852
+percent_zip_in_county = 81.73
+
+[[zipcodes]]
+zipcode = 36854
+percent_zip_in_county = 17.51
+
+[[zipcodes]]
+zipcode = 36865
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36866
+percent_zip_in_county = 5.26
+
+[[zipcodes]]
+zipcode = 36867
+percent_zip_in_county = 19.24
+
+[[zipcodes]]
+zipcode = 36870
+percent_zip_in_county = 81.78
+
+[[zipcodes]]
+zipcode = 36874
+percent_zip_in_county = 92.36
+
+[[zipcodes]]
+zipcode = 36877
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36879
+percent_zip_in_county = 77.2

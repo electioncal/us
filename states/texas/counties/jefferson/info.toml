@@ -1,2 +1,74 @@
 name = "Jefferson County"
 fips_code = 48245
+
+[[zipcodes]]
+zipcode = 77613
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77619
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77622
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77627
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77629
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77640
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77642
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77651
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77655
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77665
+percent_zip_in_county = 17.22
+
+[[zipcodes]]
+zipcode = 77701
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77702
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77703
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77705
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77706
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77707
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77708
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77713
+percent_zip_in_county = 100.0

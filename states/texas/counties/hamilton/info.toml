@@ -1,2 +1,38 @@
 name = "Hamilton County"
 fips_code = 48193
+
+[[zipcodes]]
+zipcode = 76436
+percent_zip_in_county = 65.57
+
+[[zipcodes]]
+zipcode = 76457
+percent_zip_in_county = 61.04
+
+[[zipcodes]]
+zipcode = 76525
+percent_zip_in_county = 42.47
+
+[[zipcodes]]
+zipcode = 76531
+percent_zip_in_county = 99.94
+
+[[zipcodes]]
+zipcode = 76538
+percent_zip_in_county = 48.49
+
+[[zipcodes]]
+zipcode = 76565
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76566
+percent_zip_in_county = 10.85
+
+[[zipcodes]]
+zipcode = 76637
+percent_zip_in_county = 8.96
+
+[[zipcodes]]
+zipcode = 76844
+percent_zip_in_county = 0.45

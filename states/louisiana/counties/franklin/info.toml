@@ -1,2 +1,26 @@
 name = "Franklin Parish"
 fips_code = 22041
+
+[[zipcodes]]
+zipcode = 71219
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71232
+percent_zip_in_county = 11.49
+
+[[zipcodes]]
+zipcode = 71243
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71295
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71336
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71378
+percent_zip_in_county = 100.0

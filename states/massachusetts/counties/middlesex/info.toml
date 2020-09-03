@@ -1,2 +1,338 @@
 name = "Middlesex County"
 fips_code = 25017
+
+[[zipcodes]]
+zipcode = 1431
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1432
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1434
+percent_zip_in_county = 18.83
+
+[[zipcodes]]
+zipcode = 1450
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1460
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1463
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1464
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1469
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1474
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1701
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1702
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1718
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1719
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1720
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1721
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1731
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1741
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1742
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1746
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1748
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1749
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1752
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1754
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1760
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1770
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1773
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1775
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1776
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1778
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1803
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1821
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1824
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1826
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1827
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1850
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1851
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1852
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1854
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1862
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1863
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1864
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1867
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1876
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1879
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1880
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1886
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1887
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1890
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1940
+percent_zip_in_county = 1.64
+
+[[zipcodes]]
+zipcode = 2138
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2139
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2140
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2141
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2142
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2143
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2144
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2145
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2148
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2149
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2155
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2176
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2180
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2420
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2421
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2451
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2452
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2453
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2458
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2459
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2460
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2461
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2462
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2464
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2465
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2466
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2467
+percent_zip_in_county = 37.9
+
+[[zipcodes]]
+zipcode = 2468
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2472
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2474
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2476
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2478
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2493
+percent_zip_in_county = 100.0

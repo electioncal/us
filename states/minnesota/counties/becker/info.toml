@@ -1,2 +1,74 @@
 name = "Becker County"
 fips_code = 27005
+
+[[zipcodes]]
+zipcode = 56464
+percent_zip_in_county = 24.65
+
+[[zipcodes]]
+zipcode = 56470
+percent_zip_in_county = 7.59
+
+[[zipcodes]]
+zipcode = 56501
+percent_zip_in_county = 97.66
+
+[[zipcodes]]
+zipcode = 56511
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56521
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56544
+percent_zip_in_county = 80.83
+
+[[zipcodes]]
+zipcode = 56552
+percent_zip_in_county = 10.72
+
+[[zipcodes]]
+zipcode = 56554
+percent_zip_in_county = 96.23
+
+[[zipcodes]]
+zipcode = 56569
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56570
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56572
+percent_zip_in_county = 2.77
+
+[[zipcodes]]
+zipcode = 56575
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56577
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56578
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56585
+percent_zip_in_county = 9.15
+
+[[zipcodes]]
+zipcode = 56589
+percent_zip_in_county = 31.34
+
+[[zipcodes]]
+zipcode = 56591
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56593
+percent_zip_in_county = 100.0

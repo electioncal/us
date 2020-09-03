@@ -1,2 +1,54 @@
 name = "Dunklin County"
 fips_code = 29069
+
+[[zipcodes]]
+zipcode = 63821
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63829
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63837
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63847
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63849
+percent_zip_in_county = 53.23
+
+[[zipcodes]]
+zipcode = 63852
+percent_zip_in_county = 97.85
+
+[[zipcodes]]
+zipcode = 63855
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63857
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63863
+percent_zip_in_county = 98.49
+
+[[zipcodes]]
+zipcode = 63876
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63877
+percent_zip_in_county = 1.14
+
+[[zipcodes]]
+zipcode = 63880
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63933
+percent_zip_in_county = 100.0

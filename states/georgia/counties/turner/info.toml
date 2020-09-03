@@ -1,2 +1,18 @@
 name = "Turner County"
 fips_code = 13287
+
+[[zipcodes]]
+zipcode = 31714
+percent_zip_in_county = 97.37
+
+[[zipcodes]]
+zipcode = 31733
+percent_zip_in_county = 0.13
+
+[[zipcodes]]
+zipcode = 31783
+percent_zip_in_county = 49.32
+
+[[zipcodes]]
+zipcode = 31790
+percent_zip_in_county = 100.0

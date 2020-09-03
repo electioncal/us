@@ -1,2 +1,46 @@
 name = "Republic County"
 fips_code = 20157
+
+[[zipcodes]]
+zipcode = 66901
+percent_zip_in_county = 1.47
+
+[[zipcodes]]
+zipcode = 66930
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66935
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66939
+percent_zip_in_county = 94.79
+
+[[zipcodes]]
+zipcode = 66940
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66948
+percent_zip_in_county = 10.93
+
+[[zipcodes]]
+zipcode = 66959
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66960
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66964
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66966
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68325
+percent_zip_in_county = 14.66

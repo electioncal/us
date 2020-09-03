@@ -1,2 +1,22 @@
 name = "Sherman County"
 fips_code = 41055
+
+[[zipcodes]]
+zipcode = 97029
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97050
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97065
+percent_zip_in_county = 100.0

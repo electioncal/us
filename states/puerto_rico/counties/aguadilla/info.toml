@@ -1,2 +1,10 @@
 name = "Aguadilla Municipio"
 fips_code = 72005
+
+[[zipcodes]]
+zipcode = 603
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 690
+percent_zip_in_county = 100.0

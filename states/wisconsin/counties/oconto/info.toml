@@ -1,2 +1,78 @@
 name = "Oconto County"
 fips_code = 55083
+
+[[zipcodes]]
+zipcode = 54101
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54111
+percent_zip_in_county = 3.47
+
+[[zipcodes]]
+zipcode = 54112
+percent_zip_in_county = 18.35
+
+[[zipcodes]]
+zipcode = 54114
+percent_zip_in_county = 5.27
+
+[[zipcodes]]
+zipcode = 54124
+percent_zip_in_county = 92.79
+
+[[zipcodes]]
+zipcode = 54137
+percent_zip_in_county = 31.93
+
+[[zipcodes]]
+zipcode = 54138
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54139
+percent_zip_in_county = 98.8
+
+[[zipcodes]]
+zipcode = 54141
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54149
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54153
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54154
+percent_zip_in_county = 95.8
+
+[[zipcodes]]
+zipcode = 54157
+percent_zip_in_county = 0.13
+
+[[zipcodes]]
+zipcode = 54161
+percent_zip_in_county = 37.57
+
+[[zipcodes]]
+zipcode = 54162
+percent_zip_in_county = 18.72
+
+[[zipcodes]]
+zipcode = 54171
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54174
+percent_zip_in_county = 94.13
+
+[[zipcodes]]
+zipcode = 54175
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54491
+percent_zip_in_county = 4.36

@@ -1,2 +1,50 @@
 name = "Tallapoosa County"
 fips_code = 1123
+
+[[zipcodes]]
+zipcode = 35010
+percent_zip_in_county = 92.16
+
+[[zipcodes]]
+zipcode = 35072
+percent_zip_in_county = 10.63
+
+[[zipcodes]]
+zipcode = 35089
+percent_zip_in_county = 32.84
+
+[[zipcodes]]
+zipcode = 36078
+percent_zip_in_county = 35.94
+
+[[zipcodes]]
+zipcode = 36255
+percent_zip_in_county = 1.86
+
+[[zipcodes]]
+zipcode = 36256
+percent_zip_in_county = 98.98
+
+[[zipcodes]]
+zipcode = 36276
+percent_zip_in_county = 2.47
+
+[[zipcodes]]
+zipcode = 36850
+percent_zip_in_county = 87.22
+
+[[zipcodes]]
+zipcode = 36853
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36861
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36866
+percent_zip_in_county = 22.43
+
+[[zipcodes]]
+zipcode = 36879
+percent_zip_in_county = 2.7

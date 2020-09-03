@@ -1,2 +1,74 @@
 name = "Scioto County"
 fips_code = 39145
+
+[[zipcodes]]
+zipcode = 45613
+percent_zip_in_county = 1.31
+
+[[zipcodes]]
+zipcode = 45616
+percent_zip_in_county = 19.05
+
+[[zipcodes]]
+zipcode = 45629
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45630
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45636
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45638
+percent_zip_in_county = 3.42
+
+[[zipcodes]]
+zipcode = 45648
+percent_zip_in_county = 86.52
+
+[[zipcodes]]
+zipcode = 45652
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45653
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45657
+percent_zip_in_county = 87.86
+
+[[zipcodes]]
+zipcode = 45660
+percent_zip_in_county = 0.28
+
+[[zipcodes]]
+zipcode = 45661
+percent_zip_in_county = 0.47
+
+[[zipcodes]]
+zipcode = 45662
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45663
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45671
+percent_zip_in_county = 86.65
+
+[[zipcodes]]
+zipcode = 45682
+percent_zip_in_county = 95.99
+
+[[zipcodes]]
+zipcode = 45684
+percent_zip_in_county = 62.42
+
+[[zipcodes]]
+zipcode = 45694
+percent_zip_in_county = 100.0

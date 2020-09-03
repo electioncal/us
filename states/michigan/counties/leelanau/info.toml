@@ -1,2 +1,42 @@
 name = "Leelanau County"
 fips_code = 26089
+
+[[zipcodes]]
+zipcode = 49621
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49630
+percent_zip_in_county = 97.76
+
+[[zipcodes]]
+zipcode = 49636
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49653
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49654
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49664
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49670
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49674
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49682
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49684
+percent_zip_in_county = 15.07

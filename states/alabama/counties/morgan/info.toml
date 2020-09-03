@@ -1,2 +1,58 @@
 name = "Morgan County"
 fips_code = 1103
+
+[[zipcodes]]
+zipcode = 35019
+percent_zip_in_county = 21.49
+
+[[zipcodes]]
+zipcode = 35087
+percent_zip_in_county = 42.08
+
+[[zipcodes]]
+zipcode = 35175
+percent_zip_in_county = 22.99
+
+[[zipcodes]]
+zipcode = 35179
+percent_zip_in_county = 1.47
+
+[[zipcodes]]
+zipcode = 35601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35603
+percent_zip_in_county = 99.61
+
+[[zipcodes]]
+zipcode = 35619
+percent_zip_in_county = 57.92
+
+[[zipcodes]]
+zipcode = 35621
+percent_zip_in_county = 95.2
+
+[[zipcodes]]
+zipcode = 35622
+percent_zip_in_county = 79.28
+
+[[zipcodes]]
+zipcode = 35640
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35670
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35673
+percent_zip_in_county = 31.42
+
+[[zipcodes]]
+zipcode = 35754
+percent_zip_in_county = 98.69
+
+[[zipcodes]]
+zipcode = 35775
+percent_zip_in_county = 100.0

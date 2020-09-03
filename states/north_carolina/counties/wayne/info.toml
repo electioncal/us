@@ -1,2 +1,54 @@
 name = "Wayne County"
 fips_code = 37191
+
+[[zipcodes]]
+zipcode = 27524
+percent_zip_in_county = 2.42
+
+[[zipcodes]]
+zipcode = 27530
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27531
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27534
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27542
+percent_zip_in_county = 7.56
+
+[[zipcodes]]
+zipcode = 27569
+percent_zip_in_county = 27.42
+
+[[zipcodes]]
+zipcode = 27830
+percent_zip_in_county = 93.96
+
+[[zipcodes]]
+zipcode = 27863
+percent_zip_in_county = 99.09
+
+[[zipcodes]]
+zipcode = 27883
+percent_zip_in_county = 17.0
+
+[[zipcodes]]
+zipcode = 28333
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28365
+percent_zip_in_county = 61.88
+
+[[zipcodes]]
+zipcode = 28551
+percent_zip_in_county = 28.48
+
+[[zipcodes]]
+zipcode = 28578
+percent_zip_in_county = 66.09

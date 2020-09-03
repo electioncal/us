@@ -1,2 +1,90 @@
 name = "Cumberland County"
 fips_code = 42041
+
+[[zipcodes]]
+zipcode = 17007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17011
+percent_zip_in_county = 96.04
+
+[[zipcodes]]
+zipcode = 17013
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17015
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17019
+percent_zip_in_county = 0.68
+
+[[zipcodes]]
+zipcode = 17025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17050
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17053
+percent_zip_in_county = 1.62
+
+[[zipcodes]]
+zipcode = 17055
+percent_zip_in_county = 97.86
+
+[[zipcodes]]
+zipcode = 17065
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17070
+percent_zip_in_county = 53.31
+
+[[zipcodes]]
+zipcode = 17072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17081
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17093
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17240
+percent_zip_in_county = 70.49
+
+[[zipcodes]]
+zipcode = 17241
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17257
+percent_zip_in_county = 66.26
+
+[[zipcodes]]
+zipcode = 17266
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17307
+percent_zip_in_county = 0.51
+
+[[zipcodes]]
+zipcode = 17324
+percent_zip_in_county = 59.85

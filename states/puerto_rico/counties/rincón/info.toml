@@ -1,2 +1,6 @@
 name = "Rincón Municipio"
 fips_code = 72117
+
+[[zipcodes]]
+zipcode = 677
+percent_zip_in_county = 99.53

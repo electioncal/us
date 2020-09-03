@@ -1,2 +1,10 @@
 name = "George County"
 fips_code = 28039
+
+[[zipcodes]]
+zipcode = 39452
+percent_zip_in_county = 82.57
+
+[[zipcodes]]
+zipcode = 39573
+percent_zip_in_county = 3.56

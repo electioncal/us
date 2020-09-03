@@ -1,2 +1,58 @@
 name = "Sac County"
 fips_code = 19161
+
+[[zipcodes]]
+zipcode = 50535
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50561
+percent_zip_in_county = 68.08
+
+[[zipcodes]]
+zipcode = 50567
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50568
+percent_zip_in_county = 3.08
+
+[[zipcodes]]
+zipcode = 50583
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51020
+percent_zip_in_county = 7.29
+
+[[zipcodes]]
+zipcode = 51053
+percent_zip_in_county = 97.33
+
+[[zipcodes]]
+zipcode = 51431
+percent_zip_in_county = 5.58
+
+[[zipcodes]]
+zipcode = 51433
+percent_zip_in_county = 75.15
+
+[[zipcodes]]
+zipcode = 51436
+percent_zip_in_county = 8.08
+
+[[zipcodes]]
+zipcode = 51448
+percent_zip_in_county = 10.47
+
+[[zipcodes]]
+zipcode = 51450
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51458
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51466
+percent_zip_in_county = 100.0

@@ -1,2 +1,86 @@
 name = "Washington County"
 fips_code = 39167
+
+[[zipcodes]]
+zipcode = 43787
+percent_zip_in_county = 12.98
+
+[[zipcodes]]
+zipcode = 45711
+percent_zip_in_county = 11.21
+
+[[zipcodes]]
+zipcode = 45714
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45715
+percent_zip_in_county = 68.94
+
+[[zipcodes]]
+zipcode = 45721
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45723
+percent_zip_in_county = 2.35
+
+[[zipcodes]]
+zipcode = 45724
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45729
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45742
+percent_zip_in_county = 97.35
+
+[[zipcodes]]
+zipcode = 45744
+percent_zip_in_county = 98.53
+
+[[zipcodes]]
+zipcode = 45745
+percent_zip_in_county = 55.88
+
+[[zipcodes]]
+zipcode = 45746
+percent_zip_in_county = 87.3
+
+[[zipcodes]]
+zipcode = 45750
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45767
+percent_zip_in_county = 81.07
+
+[[zipcodes]]
+zipcode = 45768
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45773
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45784
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45786
+percent_zip_in_county = 97.48
+
+[[zipcodes]]
+zipcode = 45787
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45788
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45789
+percent_zip_in_county = 88.7

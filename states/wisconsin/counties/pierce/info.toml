@@ -1,2 +1,50 @@
 name = "Pierce County"
 fips_code = 55093
+
+[[zipcodes]]
+zipcode = 54003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54011
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54014
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54022
+percent_zip_in_county = 72.17
+
+[[zipcodes]]
+zipcode = 54723
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54740
+percent_zip_in_county = 75.83
+
+[[zipcodes]]
+zipcode = 54750
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54761
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54767
+percent_zip_in_county = 93.57
+
+[[zipcodes]]
+zipcode = 54769
+percent_zip_in_county = 20.92

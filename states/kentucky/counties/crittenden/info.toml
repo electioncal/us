@@ -1,2 +1,30 @@
 name = "Crittenden County"
 fips_code = 21055
+
+[[zipcodes]]
+zipcode = 42037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42064
+percent_zip_in_county = 99.6
+
+[[zipcodes]]
+zipcode = 42078
+percent_zip_in_county = 12.63
+
+[[zipcodes]]
+zipcode = 42084
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42411
+percent_zip_in_county = 20.05
+
+[[zipcodes]]
+zipcode = 42450
+percent_zip_in_county = 1.18
+
+[[zipcodes]]
+zipcode = 42459
+percent_zip_in_county = 4.57

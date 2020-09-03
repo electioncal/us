@@ -1,2 +1,134 @@
 name = "Otter Tail County"
 fips_code = 27111
+
+[[zipcodes]]
+zipcode = 56309
+percent_zip_in_county = 20.0
+
+[[zipcodes]]
+zipcode = 56315
+percent_zip_in_county = 0.63
+
+[[zipcodes]]
+zipcode = 56324
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56326
+percent_zip_in_county = 5.18
+
+[[zipcodes]]
+zipcode = 56361
+percent_zip_in_county = 85.52
+
+[[zipcodes]]
+zipcode = 56437
+percent_zip_in_county = 6.59
+
+[[zipcodes]]
+zipcode = 56446
+percent_zip_in_county = 5.32
+
+[[zipcodes]]
+zipcode = 56453
+percent_zip_in_county = 36.39
+
+[[zipcodes]]
+zipcode = 56464
+percent_zip_in_county = 1.94
+
+[[zipcodes]]
+zipcode = 56477
+percent_zip_in_county = 17.26
+
+[[zipcodes]]
+zipcode = 56482
+percent_zip_in_county = 18.47
+
+[[zipcodes]]
+zipcode = 56501
+percent_zip_in_county = 2.34
+
+[[zipcodes]]
+zipcode = 56514
+percent_zip_in_county = 0.87
+
+[[zipcodes]]
+zipcode = 56515
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56518
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56522
+percent_zip_in_county = 7.81
+
+[[zipcodes]]
+zipcode = 56524
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56527
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56528
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56533
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56534
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56537
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56544
+percent_zip_in_county = 19.17
+
+[[zipcodes]]
+zipcode = 56551
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56567
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56571
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56572
+percent_zip_in_county = 97.23
+
+[[zipcodes]]
+zipcode = 56573
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56576
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56579
+percent_zip_in_county = 42.52
+
+[[zipcodes]]
+zipcode = 56586
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56587
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56588
+percent_zip_in_county = 100.0

@@ -1,2 +1,58 @@
 name = "Newton County"
 fips_code = 29145
+
+[[zipcodes]]
+zipcode = 64804
+percent_zip_in_county = 44.0
+
+[[zipcodes]]
+zipcode = 64840
+percent_zip_in_county = 88.94
+
+[[zipcodes]]
+zipcode = 64842
+percent_zip_in_county = 94.81
+
+[[zipcodes]]
+zipcode = 64843
+percent_zip_in_county = 10.71
+
+[[zipcodes]]
+zipcode = 64844
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64850
+percent_zip_in_county = 99.58
+
+[[zipcodes]]
+zipcode = 64858
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64861
+percent_zip_in_county = 4.75
+
+[[zipcodes]]
+zipcode = 64862
+percent_zip_in_county = 12.92
+
+[[zipcodes]]
+zipcode = 64865
+percent_zip_in_county = 91.71
+
+[[zipcodes]]
+zipcode = 64866
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64867
+percent_zip_in_county = 42.15
+
+[[zipcodes]]
+zipcode = 64873
+percent_zip_in_county = 42.35
+
+[[zipcodes]]
+zipcode = 65723
+percent_zip_in_county = 17.39

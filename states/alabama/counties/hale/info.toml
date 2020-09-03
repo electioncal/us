@@ -1,2 +1,30 @@
 name = "Hale County"
 fips_code = 1065
+
+[[zipcodes]]
+zipcode = 35441
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35474
+percent_zip_in_county = 68.16
+
+[[zipcodes]]
+zipcode = 36738
+percent_zip_in_county = 20.48
+
+[[zipcodes]]
+zipcode = 36742
+percent_zip_in_county = 18.05
+
+[[zipcodes]]
+zipcode = 36744
+percent_zip_in_county = 99.33
+
+[[zipcodes]]
+zipcode = 36765
+percent_zip_in_county = 75.27
+
+[[zipcodes]]
+zipcode = 36776
+percent_zip_in_county = 100.0

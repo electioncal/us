@@ -1,2 +1,14 @@
 name = "Comanche County"
 fips_code = 20033
+
+[[zipcodes]]
+zipcode = 67029
+percent_zip_in_county = 99.62
+
+[[zipcodes]]
+zipcode = 67127
+percent_zip_in_county = 97.15
+
+[[zipcodes]]
+zipcode = 67155
+percent_zip_in_county = 90.96

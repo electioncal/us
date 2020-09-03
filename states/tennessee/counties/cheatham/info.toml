@@ -1,2 +1,42 @@
 name = "Cheatham County"
 fips_code = 47021
+
+[[zipcodes]]
+zipcode = 37015
+percent_zip_in_county = 96.7
+
+[[zipcodes]]
+zipcode = 37032
+percent_zip_in_county = 1.54
+
+[[zipcodes]]
+zipcode = 37035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37036
+percent_zip_in_county = 2.71
+
+[[zipcodes]]
+zipcode = 37043
+percent_zip_in_county = 0.48
+
+[[zipcodes]]
+zipcode = 37080
+percent_zip_in_county = 45.4
+
+[[zipcodes]]
+zipcode = 37082
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37143
+percent_zip_in_county = 88.92
+
+[[zipcodes]]
+zipcode = 37146
+percent_zip_in_county = 71.97
+
+[[zipcodes]]
+zipcode = 37187
+percent_zip_in_county = 4.1

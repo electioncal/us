@@ -1,2 +1,42 @@
 name = "Nicollet County"
 fips_code = 27103
+
+[[zipcodes]]
+zipcode = 55332
+percent_zip_in_county = 6.19
+
+[[zipcodes]]
+zipcode = 55334
+percent_zip_in_county = 1.91
+
+[[zipcodes]]
+zipcode = 55335
+percent_zip_in_county = 8.41
+
+[[zipcodes]]
+zipcode = 56003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56054
+percent_zip_in_county = 93.28
+
+[[zipcodes]]
+zipcode = 56058
+percent_zip_in_county = 2.26
+
+[[zipcodes]]
+zipcode = 56073
+percent_zip_in_county = 7.22
+
+[[zipcodes]]
+zipcode = 56074
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56082
+percent_zip_in_county = 94.37

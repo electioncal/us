@@ -1,2 +1,42 @@
 name = "DeSoto County"
 fips_code = 28033
+
+[[zipcodes]]
+zipcode = 38611
+percent_zip_in_county = 14.17
+
+[[zipcodes]]
+zipcode = 38618
+percent_zip_in_county = 0.55
+
+[[zipcodes]]
+zipcode = 38632
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38637
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38641
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38651
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38654
+percent_zip_in_county = 99.46
+
+[[zipcodes]]
+zipcode = 38671
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38672
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38680
+percent_zip_in_county = 100.0

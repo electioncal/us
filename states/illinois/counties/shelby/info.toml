@@ -1,2 +1,86 @@
 name = "Shelby County"
 fips_code = 17173
+
+[[zipcodes]]
+zipcode = 61914
+percent_zip_in_county = 2.81
+
+[[zipcodes]]
+zipcode = 61928
+percent_zip_in_county = 14.8
+
+[[zipcodes]]
+zipcode = 61957
+percent_zip_in_county = 96.2
+
+[[zipcodes]]
+zipcode = 62401
+percent_zip_in_county = 0.4
+
+[[zipcodes]]
+zipcode = 62414
+percent_zip_in_county = 13.26
+
+[[zipcodes]]
+zipcode = 62422
+percent_zip_in_county = 88.58
+
+[[zipcodes]]
+zipcode = 62431
+percent_zip_in_county = 64.69
+
+[[zipcodes]]
+zipcode = 62438
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62444
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62447
+percent_zip_in_county = 17.45
+
+[[zipcodes]]
+zipcode = 62461
+percent_zip_in_county = 10.3
+
+[[zipcodes]]
+zipcode = 62462
+percent_zip_in_county = 63.01
+
+[[zipcodes]]
+zipcode = 62463
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62465
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62510
+percent_zip_in_county = 13.9
+
+[[zipcodes]]
+zipcode = 62534
+percent_zip_in_county = 98.67
+
+[[zipcodes]]
+zipcode = 62550
+percent_zip_in_county = 84.56
+
+[[zipcodes]]
+zipcode = 62553
+percent_zip_in_county = 86.73
+
+[[zipcodes]]
+zipcode = 62557
+percent_zip_in_county = 8.57
+
+[[zipcodes]]
+zipcode = 62565
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62571
+percent_zip_in_county = 100.0

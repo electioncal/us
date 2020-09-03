@@ -1,2 +1,22 @@
 name = "Pearl River County"
 fips_code = 28109
+
+[[zipcodes]]
+zipcode = 39426
+percent_zip_in_county = 97.47
+
+[[zipcodes]]
+zipcode = 39455
+percent_zip_in_county = 24.51
+
+[[zipcodes]]
+zipcode = 39466
+percent_zip_in_county = 88.34
+
+[[zipcodes]]
+zipcode = 39470
+percent_zip_in_county = 99.47
+
+[[zipcodes]]
+zipcode = 39573
+percent_zip_in_county = 1.31

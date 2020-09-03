@@ -1,2 +1,54 @@
 name = "Douglas County"
 fips_code = 17041
+
+[[zipcodes]]
+zipcode = 61852
+percent_zip_in_county = 6.13
+
+[[zipcodes]]
+zipcode = 61872
+percent_zip_in_county = 2.76
+
+[[zipcodes]]
+zipcode = 61910
+percent_zip_in_county = 94.71
+
+[[zipcodes]]
+zipcode = 61911
+percent_zip_in_county = 61.23
+
+[[zipcodes]]
+zipcode = 61913
+percent_zip_in_county = 56.77
+
+[[zipcodes]]
+zipcode = 61917
+percent_zip_in_county = 2.37
+
+[[zipcodes]]
+zipcode = 61919
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61930
+percent_zip_in_county = 94.56
+
+[[zipcodes]]
+zipcode = 61941
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61942
+percent_zip_in_county = 97.59
+
+[[zipcodes]]
+zipcode = 61943
+percent_zip_in_county = 9.84
+
+[[zipcodes]]
+zipcode = 61953
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61956
+percent_zip_in_county = 98.42

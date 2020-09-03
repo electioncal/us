@@ -1,2 +1,46 @@
 name = "Brown County"
 fips_code = 20013
+
+[[zipcodes]]
+zipcode = 66094
+percent_zip_in_county = 42.31
+
+[[zipcodes]]
+zipcode = 66424
+percent_zip_in_county = 83.28
+
+[[zipcodes]]
+zipcode = 66425
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66434
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66439
+percent_zip_in_county = 91.77
+
+[[zipcodes]]
+zipcode = 66515
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66516
+percent_zip_in_county = 19.84
+
+[[zipcodes]]
+zipcode = 66527
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66532
+percent_zip_in_county = 79.79
+
+[[zipcodes]]
+zipcode = 66534
+percent_zip_in_county = 4.38
+
+[[zipcodes]]
+zipcode = 66550
+percent_zip_in_county = 3.79

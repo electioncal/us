@@ -1,2 +1,94 @@
 name = "San Juan Municipio"
 fips_code = 72127
+
+[[zipcodes]]
+zipcode = 725
+percent_zip_in_county = 0.6
+
+[[zipcodes]]
+zipcode = 901
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 906
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 907
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 909
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 911
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 912
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 913
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 915
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 917
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 918
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 920
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 921
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 923
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 924
+percent_zip_in_county = 95.86
+
+[[zipcodes]]
+zipcode = 925
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 926
+percent_zip_in_county = 88.13
+
+[[zipcodes]]
+zipcode = 927
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 936
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 966
+percent_zip_in_county = 5.86
+
+[[zipcodes]]
+zipcode = 969
+percent_zip_in_county = 13.45
+
+[[zipcodes]]
+zipcode = 971
+percent_zip_in_county = 0.16
+
+[[zipcodes]]
+zipcode = 976
+percent_zip_in_county = 1.98

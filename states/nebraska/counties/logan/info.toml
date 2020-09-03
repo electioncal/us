@@ -1,2 +1,14 @@
 name = "Logan County"
 fips_code = 31113
+
+[[zipcodes]]
+zipcode = 68833
+percent_zip_in_county = 9.03
+
+[[zipcodes]]
+zipcode = 69120
+percent_zip_in_county = 6.02
+
+[[zipcodes]]
+zipcode = 69163
+percent_zip_in_county = 77.89

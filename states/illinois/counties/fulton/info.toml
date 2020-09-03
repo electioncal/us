@@ -1,2 +1,94 @@
 name = "Fulton County"
 fips_code = 17057
+
+[[zipcodes]]
+zipcode = 61415
+percent_zip_in_county = 68.12
+
+[[zipcodes]]
+zipcode = 61427
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61431
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61432
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61433
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61441
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61459
+percent_zip_in_county = 81.76
+
+[[zipcodes]]
+zipcode = 61477
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61482
+percent_zip_in_county = 92.92
+
+[[zipcodes]]
+zipcode = 61484
+percent_zip_in_county = 93.58
+
+[[zipcodes]]
+zipcode = 61501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61519
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61520
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61524
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61531
+percent_zip_in_county = 95.86
+
+[[zipcodes]]
+zipcode = 61533
+percent_zip_in_county = 9.48
+
+[[zipcodes]]
+zipcode = 61542
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61543
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61544
+percent_zip_in_county = 86.96
+
+[[zipcodes]]
+zipcode = 61553
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61563
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61569
+percent_zip_in_county = 0.57
+
+[[zipcodes]]
+zipcode = 62644
+percent_zip_in_county = 2.53

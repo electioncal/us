@@ -1,2 +1,50 @@
 name = "Middlesex County"
 fips_code = 51119
+
+[[zipcodes]]
+zipcode = 22504
+percent_zip_in_county = 17.49
+
+[[zipcodes]]
+zipcode = 23032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23071
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23079
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23092
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23149
+percent_zip_in_county = 49.97
+
+[[zipcodes]]
+zipcode = 23169
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23175
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23176
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23180
+percent_zip_in_county = 100.0

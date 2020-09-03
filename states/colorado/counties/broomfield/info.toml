@@ -1,2 +1,26 @@
 name = "Broomfield County"
 fips_code = 8014
+
+[[zipcodes]]
+zipcode = 80020
+percent_zip_in_county = 82.26
+
+[[zipcodes]]
+zipcode = 80021
+percent_zip_in_county = 8.67
+
+[[zipcodes]]
+zipcode = 80023
+percent_zip_in_county = 86.51
+
+[[zipcodes]]
+zipcode = 80027
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 80234
+percent_zip_in_county = 5.11
+
+[[zipcodes]]
+zipcode = 80516
+percent_zip_in_county = 0.33

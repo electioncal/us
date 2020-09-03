@@ -1,2 +1,70 @@
 name = "Cass County"
 fips_code = 29037
+
+[[zipcodes]]
+zipcode = 64012
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64034
+percent_zip_in_county = 15.19
+
+[[zipcodes]]
+zipcode = 64061
+percent_zip_in_county = 2.78
+
+[[zipcodes]]
+zipcode = 64078
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64080
+percent_zip_in_county = 99.21
+
+[[zipcodes]]
+zipcode = 64082
+percent_zip_in_county = 12.83
+
+[[zipcodes]]
+zipcode = 64083
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64090
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64147
+percent_zip_in_county = 25.62
+
+[[zipcodes]]
+zipcode = 64701
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64725
+percent_zip_in_county = 87.85
+
+[[zipcodes]]
+zipcode = 64734
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64739
+percent_zip_in_county = 80.14
+
+[[zipcodes]]
+zipcode = 64742
+percent_zip_in_county = 71.27
+
+[[zipcodes]]
+zipcode = 64743
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64746
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64747
+percent_zip_in_county = 93.91

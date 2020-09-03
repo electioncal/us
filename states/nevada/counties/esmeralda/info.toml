@@ -1,2 +1,18 @@
 name = "Esmeralda County"
 fips_code = 32009
+
+[[zipcodes]]
+zipcode = 89010
+percent_zip_in_county = 88.67
+
+[[zipcodes]]
+zipcode = 89013
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89047
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89049
+percent_zip_in_county = 0.81

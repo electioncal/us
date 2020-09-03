@@ -1,2 +1,30 @@
 name = "Cross County"
 fips_code = 5037
+
+[[zipcodes]]
+zipcode = 72324
+percent_zip_in_county = 98.79
+
+[[zipcodes]]
+zipcode = 72326
+percent_zip_in_county = 6.31
+
+[[zipcodes]]
+zipcode = 72331
+percent_zip_in_county = 3.3
+
+[[zipcodes]]
+zipcode = 72346
+percent_zip_in_county = 1.15
+
+[[zipcodes]]
+zipcode = 72347
+percent_zip_in_county = 91.28
+
+[[zipcodes]]
+zipcode = 72373
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72396
+percent_zip_in_county = 99.62

@@ -1,2 +1,50 @@
 name = "Morgan County"
 fips_code = 47129
+
+[[zipcodes]]
+zipcode = 37719
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37726
+percent_zip_in_county = 91.21
+
+[[zipcodes]]
+zipcode = 37733
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37748
+percent_zip_in_county = 10.7
+
+[[zipcodes]]
+zipcode = 37770
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37829
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37840
+percent_zip_in_county = 27.42
+
+[[zipcodes]]
+zipcode = 37845
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37852
+percent_zip_in_county = 8.21
+
+[[zipcodes]]
+zipcode = 37854
+percent_zip_in_county = 5.31
+
+[[zipcodes]]
+zipcode = 37872
+percent_zip_in_county = 91.96
+
+[[zipcodes]]
+zipcode = 37887
+percent_zip_in_county = 100.0

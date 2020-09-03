@@ -1,2 +1,66 @@
 name = "Harrison County"
 fips_code = 39067
+
+[[zipcodes]]
+zipcode = 43901
+percent_zip_in_county = 15.5
+
+[[zipcodes]]
+zipcode = 43907
+percent_zip_in_county = 98.17
+
+[[zipcodes]]
+zipcode = 43910
+percent_zip_in_county = 4.46
+
+[[zipcodes]]
+zipcode = 43950
+percent_zip_in_county = 0.61
+
+[[zipcodes]]
+zipcode = 43973
+percent_zip_in_county = 57.41
+
+[[zipcodes]]
+zipcode = 43974
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43976
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43977
+percent_zip_in_county = 5.4
+
+[[zipcodes]]
+zipcode = 43983
+percent_zip_in_county = 25.68
+
+[[zipcodes]]
+zipcode = 43986
+percent_zip_in_county = 99.09
+
+[[zipcodes]]
+zipcode = 43988
+percent_zip_in_county = 81.46
+
+[[zipcodes]]
+zipcode = 44621
+percent_zip_in_county = 4.46
+
+[[zipcodes]]
+zipcode = 44683
+percent_zip_in_county = 5.53
+
+[[zipcodes]]
+zipcode = 44693
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44695
+percent_zip_in_county = 49.81
+
+[[zipcodes]]
+zipcode = 44699
+percent_zip_in_county = 73.53

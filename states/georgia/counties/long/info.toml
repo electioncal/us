@@ -1,2 +1,22 @@
 name = "Long County"
 fips_code = 13183
+
+[[zipcodes]]
+zipcode = 30427
+percent_zip_in_county = 17.5
+
+[[zipcodes]]
+zipcode = 31301
+percent_zip_in_county = 30.36
+
+[[zipcodes]]
+zipcode = 31313
+percent_zip_in_county = 2.61
+
+[[zipcodes]]
+zipcode = 31316
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31323
+percent_zip_in_county = 1.14

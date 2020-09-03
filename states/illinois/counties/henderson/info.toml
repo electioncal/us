@@ -1,2 +1,70 @@
 name = "Henderson County"
 fips_code = 17071
+
+[[zipcodes]]
+zipcode = 61418
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61420
+percent_zip_in_county = 0.56
+
+[[zipcodes]]
+zipcode = 61425
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61437
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61442
+percent_zip_in_county = 7.74
+
+[[zipcodes]]
+zipcode = 61447
+percent_zip_in_county = 6.6
+
+[[zipcodes]]
+zipcode = 61450
+percent_zip_in_county = 1.89
+
+[[zipcodes]]
+zipcode = 61453
+percent_zip_in_county = 25.1
+
+[[zipcodes]]
+zipcode = 61454
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61460
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61462
+percent_zip_in_county = 0.38
+
+[[zipcodes]]
+zipcode = 61469
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61471
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61476
+percent_zip_in_county = 8.35
+
+[[zipcodes]]
+zipcode = 61478
+percent_zip_in_county = 9.31
+
+[[zipcodes]]
+zipcode = 61480
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62330
+percent_zip_in_county = 13.17

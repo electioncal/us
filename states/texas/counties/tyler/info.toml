@@ -1,2 +1,42 @@
 name = "Tyler County"
 fips_code = 48457
+
+[[zipcodes]]
+zipcode = 75936
+percent_zip_in_county = 85.71
+
+[[zipcodes]]
+zipcode = 75938
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75942
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75979
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77616
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77624
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77656
+percent_zip_in_county = 1.31
+
+[[zipcodes]]
+zipcode = 77660
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77663
+percent_zip_in_county = 38.73
+
+[[zipcodes]]
+zipcode = 77664
+percent_zip_in_county = 100.0

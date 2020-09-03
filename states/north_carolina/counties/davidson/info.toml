@@ -1,2 +1,50 @@
 name = "Davidson County"
 fips_code = 37057
+
+[[zipcodes]]
+zipcode = 27012
+percent_zip_in_county = 19.96
+
+[[zipcodes]]
+zipcode = 27107
+percent_zip_in_county = 26.53
+
+[[zipcodes]]
+zipcode = 27127
+percent_zip_in_county = 12.1
+
+[[zipcodes]]
+zipcode = 27239
+percent_zip_in_county = 73.4
+
+[[zipcodes]]
+zipcode = 27262
+percent_zip_in_county = 6.37
+
+[[zipcodes]]
+zipcode = 27265
+percent_zip_in_county = 16.35
+
+[[zipcodes]]
+zipcode = 27284
+percent_zip_in_county = 1.01
+
+[[zipcodes]]
+zipcode = 27292
+percent_zip_in_county = 99.85
+
+[[zipcodes]]
+zipcode = 27295
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27299
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27360
+percent_zip_in_county = 92.32
+
+[[zipcodes]]
+zipcode = 28127
+percent_zip_in_county = 2.52

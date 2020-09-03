@@ -1,2 +1,34 @@
 name = "Isle of Wight County"
 fips_code = 51093
+
+[[zipcodes]]
+zipcode = 23304
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23314
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23315
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23430
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23487
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23851
+percent_zip_in_county = 8.46
+
+[[zipcodes]]
+zipcode = 23866
+percent_zip_in_county = 21.77
+
+[[zipcodes]]
+zipcode = 23898
+percent_zip_in_county = 65.54

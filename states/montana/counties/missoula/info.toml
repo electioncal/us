@@ -1,2 +1,66 @@
 name = "Missoula County"
 fips_code = 30063
+
+[[zipcodes]]
+zipcode = 59801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59802
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59803
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59804
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59808
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59820
+percent_zip_in_county = 48.05
+
+[[zipcodes]]
+zipcode = 59821
+percent_zip_in_county = 24.53
+
+[[zipcodes]]
+zipcode = 59823
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59825
+percent_zip_in_county = 91.46
+
+[[zipcodes]]
+zipcode = 59826
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59833
+percent_zip_in_county = 20.17
+
+[[zipcodes]]
+zipcode = 59834
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59846
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59847
+percent_zip_in_county = 99.08
+
+[[zipcodes]]
+zipcode = 59851
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59868
+percent_zip_in_county = 99.9

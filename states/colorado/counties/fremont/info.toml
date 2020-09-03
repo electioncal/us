@@ -1,2 +1,50 @@
 name = "Fremont County"
 fips_code = 8043
+
+[[zipcodes]]
+zipcode = 80926
+percent_zip_in_county = 5.27
+
+[[zipcodes]]
+zipcode = 81201
+percent_zip_in_county = 1.11
+
+[[zipcodes]]
+zipcode = 81212
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81221
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81222
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81223
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81226
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81232
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81233
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81240
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81244
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81253
+percent_zip_in_county = 16.34

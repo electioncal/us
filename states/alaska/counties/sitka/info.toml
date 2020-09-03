@@ -1,2 +1,6 @@
 name = "Sitka City and Borough"
 fips_code = 2220
+
+[[zipcodes]]
+zipcode = 99835
+percent_zip_in_county = 100.0

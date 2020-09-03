@@ -1,2 +1,38 @@
 name = "Grayson County"
 fips_code = 21085
+
+[[zipcodes]]
+zipcode = 40119
+percent_zip_in_county = 60.38
+
+[[zipcodes]]
+zipcode = 42207
+percent_zip_in_county = 1.08
+
+[[zipcodes]]
+zipcode = 42349
+percent_zip_in_county = 8.78
+
+[[zipcodes]]
+zipcode = 42361
+percent_zip_in_county = 22.15
+
+[[zipcodes]]
+zipcode = 42712
+percent_zip_in_county = 69.49
+
+[[zipcodes]]
+zipcode = 42721
+percent_zip_in_county = 93.67
+
+[[zipcodes]]
+zipcode = 42726
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42754
+percent_zip_in_county = 93.16
+
+[[zipcodes]]
+zipcode = 42762
+percent_zip_in_county = 100.0

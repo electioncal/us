@@ -1,2 +1,42 @@
 name = "Yuma County"
 fips_code = 8125
+
+[[zipcodes]]
+zipcode = 80727
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80731
+percent_zip_in_county = 1.41
+
+[[zipcodes]]
+zipcode = 80734
+percent_zip_in_county = 3.48
+
+[[zipcodes]]
+zipcode = 80735
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80755
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80758
+percent_zip_in_county = 99.89
+
+[[zipcodes]]
+zipcode = 80759
+percent_zip_in_county = 98.51
+
+[[zipcodes]]
+zipcode = 80807
+percent_zip_in_county = 0.7
+
+[[zipcodes]]
+zipcode = 80822
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80824
+percent_zip_in_county = 100.0

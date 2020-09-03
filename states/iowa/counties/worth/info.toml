@@ -1,2 +1,42 @@
 name = "Worth County"
 fips_code = 19195
+
+[[zipcodes]]
+zipcode = 50434
+percent_zip_in_county = 92.57
+
+[[zipcodes]]
+zipcode = 50440
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50444
+percent_zip_in_county = 96.6
+
+[[zipcodes]]
+zipcode = 50446
+percent_zip_in_county = 93.98
+
+[[zipcodes]]
+zipcode = 50448
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50450
+percent_zip_in_county = 5.87
+
+[[zipcodes]]
+zipcode = 50456
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50459
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50464
+percent_zip_in_county = 21.69
+
+[[zipcodes]]
+zipcode = 50472
+percent_zip_in_county = 3.72

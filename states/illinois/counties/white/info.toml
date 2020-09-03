@@ -1,2 +1,42 @@
 name = "White County"
 fips_code = 17193
+
+[[zipcodes]]
+zipcode = 62820
+percent_zip_in_county = 77.16
+
+[[zipcodes]]
+zipcode = 62821
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62827
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62835
+percent_zip_in_county = 96.88
+
+[[zipcodes]]
+zipcode = 62844
+percent_zip_in_county = 54.54
+
+[[zipcodes]]
+zipcode = 62861
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62862
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62867
+percent_zip_in_county = 11.71
+
+[[zipcodes]]
+zipcode = 62869
+percent_zip_in_county = 98.7
+
+[[zipcodes]]
+zipcode = 62887
+percent_zip_in_county = 63.05

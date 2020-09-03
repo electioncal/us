@@ -1,2 +1,114 @@
 name = "LaSalle County"
 fips_code = 17099
+
+[[zipcodes]]
+zipcode = 60470
+percent_zip_in_county = 98.21
+
+[[zipcodes]]
+zipcode = 60518
+percent_zip_in_county = 87.23
+
+[[zipcodes]]
+zipcode = 60531
+percent_zip_in_county = 90.22
+
+[[zipcodes]]
+zipcode = 60537
+percent_zip_in_county = 63.16
+
+[[zipcodes]]
+zipcode = 60541
+percent_zip_in_county = 1.49
+
+[[zipcodes]]
+zipcode = 60548
+percent_zip_in_county = 33.12
+
+[[zipcodes]]
+zipcode = 60549
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60551
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60552
+percent_zip_in_county = 53.28
+
+[[zipcodes]]
+zipcode = 60557
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61316
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61321
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61325
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61332
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61334
+percent_zip_in_county = 96.36
+
+[[zipcodes]]
+zipcode = 61341
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61342
+percent_zip_in_county = 98.95
+
+[[zipcodes]]
+zipcode = 61348
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61350
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61354
+percent_zip_in_county = 99.46
+
+[[zipcodes]]
+zipcode = 61358
+percent_zip_in_county = 78.66
+
+[[zipcodes]]
+zipcode = 61360
+percent_zip_in_county = 96.2
+
+[[zipcodes]]
+zipcode = 61364
+percent_zip_in_county = 89.64
+
+[[zipcodes]]
+zipcode = 61370
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61372
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61373
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61377
+percent_zip_in_county = 16.13

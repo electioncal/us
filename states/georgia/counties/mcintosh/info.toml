@@ -1,2 +1,22 @@
 name = "McIntosh County"
 fips_code = 13191
+
+[[zipcodes]]
+zipcode = 31304
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31305
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31323
+percent_zip_in_county = 9.14
+
+[[zipcodes]]
+zipcode = 31327
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31331
+percent_zip_in_county = 100.0

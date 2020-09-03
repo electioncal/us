@@ -1,2 +1,122 @@
 name = "Charleston County"
 fips_code = 45019
+
+[[zipcodes]]
+zipcode = 29401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29403
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29404
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29405
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29406
+percent_zip_in_county = 99.45
+
+[[zipcodes]]
+zipcode = 29407
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29409
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29412
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29414
+percent_zip_in_county = 99.87
+
+[[zipcodes]]
+zipcode = 29418
+percent_zip_in_county = 77.03
+
+[[zipcodes]]
+zipcode = 29420
+percent_zip_in_county = 24.26
+
+[[zipcodes]]
+zipcode = 29423
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29424
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29426
+percent_zip_in_county = 87.42
+
+[[zipcodes]]
+zipcode = 29429
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29438
+percent_zip_in_county = 78.03
+
+[[zipcodes]]
+zipcode = 29439
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29449
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29450
+percent_zip_in_county = 1.71
+
+[[zipcodes]]
+zipcode = 29451
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29455
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29456
+percent_zip_in_county = 16.96
+
+[[zipcodes]]
+zipcode = 29458
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29464
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29466
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29470
+percent_zip_in_county = 91.78
+
+[[zipcodes]]
+zipcode = 29482
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29483
+percent_zip_in_county = 0.12
+
+[[zipcodes]]
+zipcode = 29485
+percent_zip_in_county = 6.57
+
+[[zipcodes]]
+zipcode = 29487
+percent_zip_in_county = 100.0

@@ -1,2 +1,22 @@
 name = "White County"
 fips_code = 47185
+
+[[zipcodes]]
+zipcode = 38506
+percent_zip_in_county = 2.94
+
+[[zipcodes]]
+zipcode = 38559
+percent_zip_in_county = 79.03
+
+[[zipcodes]]
+zipcode = 38579
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38583
+percent_zip_in_county = 90.82
+
+[[zipcodes]]
+zipcode = 38587
+percent_zip_in_county = 100.0

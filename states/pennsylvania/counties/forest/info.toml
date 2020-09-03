@@ -1,2 +1,42 @@
 name = "Forest County"
 fips_code = 42053
+
+[[zipcodes]]
+zipcode = 15828
+percent_zip_in_county = 45.1
+
+[[zipcodes]]
+zipcode = 16217
+percent_zip_in_county = 71.29
+
+[[zipcodes]]
+zipcode = 16239
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16321
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16322
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16341
+percent_zip_in_county = 12.46
+
+[[zipcodes]]
+zipcode = 16347
+percent_zip_in_county = 5.23
+
+[[zipcodes]]
+zipcode = 16351
+percent_zip_in_county = 5.24
+
+[[zipcodes]]
+zipcode = 16353
+percent_zip_in_county = 68.43
+
+[[zipcodes]]
+zipcode = 16370
+percent_zip_in_county = 100.0

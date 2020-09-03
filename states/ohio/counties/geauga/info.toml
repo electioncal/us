@@ -1,2 +1,78 @@
 name = "Geauga County"
 fips_code = 39055
+
+[[zipcodes]]
+zipcode = 44021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44022
+percent_zip_in_county = 32.33
+
+[[zipcodes]]
+zipcode = 44023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44024
+percent_zip_in_county = 98.87
+
+[[zipcodes]]
+zipcode = 44026
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44057
+percent_zip_in_county = 1.45
+
+[[zipcodes]]
+zipcode = 44060
+percent_zip_in_county = 0.17
+
+[[zipcodes]]
+zipcode = 44062
+percent_zip_in_county = 76.29
+
+[[zipcodes]]
+zipcode = 44064
+percent_zip_in_county = 98.43
+
+[[zipcodes]]
+zipcode = 44065
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44080
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44086
+percent_zip_in_county = 87.37
+
+[[zipcodes]]
+zipcode = 44099
+percent_zip_in_county = 17.42
+
+[[zipcodes]]
+zipcode = 44202
+percent_zip_in_county = 0.84
+
+[[zipcodes]]
+zipcode = 44231
+percent_zip_in_county = 10.38
+
+[[zipcodes]]
+zipcode = 44234
+percent_zip_in_county = 26.34
+
+[[zipcodes]]
+zipcode = 44491
+percent_zip_in_county = 14.74

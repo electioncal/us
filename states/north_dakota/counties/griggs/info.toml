@@ -1,2 +1,42 @@
 name = "Griggs County"
 fips_code = 38039
+
+[[zipcodes]]
+zipcode = 58056
+percent_zip_in_county = 8.9
+
+[[zipcodes]]
+zipcode = 58212
+percent_zip_in_county = 21.52
+
+[[zipcodes]]
+zipcode = 58416
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58425
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58429
+percent_zip_in_county = 2.24
+
+[[zipcodes]]
+zipcode = 58448
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58452
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58464
+percent_zip_in_county = 7.44
+
+[[zipcodes]]
+zipcode = 58484
+percent_zip_in_county = 83.08
+
+[[zipcodes]]
+zipcode = 58492
+percent_zip_in_county = 5.82

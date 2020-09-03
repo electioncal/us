@@ -1,2 +1,26 @@
 name = "Prowers County"
 fips_code = 8099
+
+[[zipcodes]]
+zipcode = 81041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81047
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81052
+percent_zip_in_county = 99.35
+
+[[zipcodes]]
+zipcode = 81084
+percent_zip_in_county = 7.3
+
+[[zipcodes]]
+zipcode = 81092
+percent_zip_in_county = 79.65

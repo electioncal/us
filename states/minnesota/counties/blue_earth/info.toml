@@ -1,2 +1,66 @@
 name = "Blue Earth County"
 fips_code = 27013
+
+[[zipcodes]]
+zipcode = 56001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56048
+percent_zip_in_county = 12.16
+
+[[zipcodes]]
+zipcode = 56055
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56062
+percent_zip_in_county = 6.27
+
+[[zipcodes]]
+zipcode = 56063
+percent_zip_in_county = 73.46
+
+[[zipcodes]]
+zipcode = 56065
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56068
+percent_zip_in_county = 15.73
+
+[[zipcodes]]
+zipcode = 56073
+percent_zip_in_county = 1.2
+
+[[zipcodes]]
+zipcode = 56078
+percent_zip_in_county = 75.84
+
+[[zipcodes]]
+zipcode = 56080
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56088
+percent_zip_in_county = 2.47
+
+[[zipcodes]]
+zipcode = 56090
+percent_zip_in_county = 100.0

@@ -1,2 +1,82 @@
 name = "Christian County"
 fips_code = 29043
+
+[[zipcodes]]
+zipcode = 65610
+percent_zip_in_county = 73.32
+
+[[zipcodes]]
+zipcode = 65614
+percent_zip_in_county = 15.4
+
+[[zipcodes]]
+zipcode = 65619
+percent_zip_in_county = 2.81
+
+[[zipcodes]]
+zipcode = 65620
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65629
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65630
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65631
+percent_zip_in_county = 86.17
+
+[[zipcodes]]
+zipcode = 65652
+percent_zip_in_county = 7.72
+
+[[zipcodes]]
+zipcode = 65653
+percent_zip_in_county = 3.5
+
+[[zipcodes]]
+zipcode = 65656
+percent_zip_in_county = 0.24
+
+[[zipcodes]]
+zipcode = 65657
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65669
+percent_zip_in_county = 89.27
+
+[[zipcodes]]
+zipcode = 65714
+percent_zip_in_county = 98.06
+
+[[zipcodes]]
+zipcode = 65720
+percent_zip_in_county = 73.83
+
+[[zipcodes]]
+zipcode = 65721
+percent_zip_in_county = 97.05
+
+[[zipcodes]]
+zipcode = 65737
+percent_zip_in_county = 0.15
+
+[[zipcodes]]
+zipcode = 65738
+percent_zip_in_county = 1.95
+
+[[zipcodes]]
+zipcode = 65742
+percent_zip_in_county = 16.64
+
+[[zipcodes]]
+zipcode = 65753
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65754
+percent_zip_in_county = 100.0

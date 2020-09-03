@@ -1,2 +1,14 @@
 name = "Brown County"
 fips_code = 31017
+
+[[zipcodes]]
+zipcode = 69210
+percent_zip_in_county = 99.52
+
+[[zipcodes]]
+zipcode = 69214
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69217
+percent_zip_in_county = 88.18

@@ -1,2 +1,34 @@
 name = "Doddridge County"
 fips_code = 54017
+
+[[zipcodes]]
+zipcode = 26339
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26411
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26415
+percent_zip_in_county = 27.37
+
+[[zipcodes]]
+zipcode = 26426
+percent_zip_in_county = 33.87
+
+[[zipcodes]]
+zipcode = 26436
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26443
+percent_zip_in_county = 6.2
+
+[[zipcodes]]
+zipcode = 26448
+percent_zip_in_county = 1.76
+
+[[zipcodes]]
+zipcode = 26456
+percent_zip_in_county = 94.38

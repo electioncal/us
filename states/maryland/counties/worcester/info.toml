@@ -1,2 +1,50 @@
 name = "Worcester County"
 fips_code = 24047
+
+[[zipcodes]]
+zipcode = 21804
+percent_zip_in_county = 0.72
+
+[[zipcodes]]
+zipcode = 21811
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21813
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21822
+percent_zip_in_county = 9.07
+
+[[zipcodes]]
+zipcode = 21829
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21841
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21842
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21851
+percent_zip_in_county = 91.05
+
+[[zipcodes]]
+zipcode = 21862
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21863
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21864
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21872
+percent_zip_in_county = 100.0

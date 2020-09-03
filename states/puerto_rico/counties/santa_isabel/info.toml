@@ -1,2 +1,6 @@
 name = "Santa Isabel Municipio"
 fips_code = 72133
+
+[[zipcodes]]
+zipcode = 757
+percent_zip_in_county = 100.0

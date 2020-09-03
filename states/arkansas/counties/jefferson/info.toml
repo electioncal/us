@@ -1,2 +1,62 @@
 name = "Jefferson County"
 fips_code = 5069
+
+[[zipcodes]]
+zipcode = 71601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71602
+percent_zip_in_county = 98.64
+
+[[zipcodes]]
+zipcode = 71603
+percent_zip_in_county = 98.9
+
+[[zipcodes]]
+zipcode = 71644
+percent_zip_in_county = 3.59
+
+[[zipcodes]]
+zipcode = 71659
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72004
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72046
+percent_zip_in_county = 6.15
+
+[[zipcodes]]
+zipcode = 72073
+percent_zip_in_county = 31.26
+
+[[zipcodes]]
+zipcode = 72079
+percent_zip_in_county = 94.27
+
+[[zipcodes]]
+zipcode = 72132
+percent_zip_in_county = 81.52
+
+[[zipcodes]]
+zipcode = 72150
+percent_zip_in_county = 0.99
+
+[[zipcodes]]
+zipcode = 72152
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72160
+percent_zip_in_county = 0.8
+
+[[zipcodes]]
+zipcode = 72168
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72175
+percent_zip_in_county = 100.0

@@ -1,2 +1,70 @@
 name = "Sandusky County"
 fips_code = 39143
+
+[[zipcodes]]
+zipcode = 43406
+percent_zip_in_county = 4.67
+
+[[zipcodes]]
+zipcode = 43407
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43410
+percent_zip_in_county = 97.73
+
+[[zipcodes]]
+zipcode = 43416
+percent_zip_in_county = 3.94
+
+[[zipcodes]]
+zipcode = 43420
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43430
+percent_zip_in_county = 1.51
+
+[[zipcodes]]
+zipcode = 43431
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43435
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43442
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43449
+percent_zip_in_county = 1.29
+
+[[zipcodes]]
+zipcode = 43457
+percent_zip_in_county = 24.38
+
+[[zipcodes]]
+zipcode = 43464
+percent_zip_in_county = 74.04
+
+[[zipcodes]]
+zipcode = 43469
+percent_zip_in_county = 94.76
+
+[[zipcodes]]
+zipcode = 44811
+percent_zip_in_county = 47.35
+
+[[zipcodes]]
+zipcode = 44824
+percent_zip_in_county = 2.07
+
+[[zipcodes]]
+zipcode = 44836
+percent_zip_in_county = 39.98
+
+[[zipcodes]]
+zipcode = 44841
+percent_zip_in_county = 34.08

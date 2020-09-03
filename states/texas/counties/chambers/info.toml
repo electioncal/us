@@ -1,2 +1,42 @@
 name = "Chambers County"
 fips_code = 48071
+
+[[zipcodes]]
+zipcode = 77514
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77521
+percent_zip_in_county = 5.91
+
+[[zipcodes]]
+zipcode = 77523
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77535
+percent_zip_in_county = 5.65
+
+[[zipcodes]]
+zipcode = 77560
+percent_zip_in_county = 98.81
+
+[[zipcodes]]
+zipcode = 77575
+percent_zip_in_county = 0.26
+
+[[zipcodes]]
+zipcode = 77580
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77597
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77661
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77665
+percent_zip_in_county = 82.78

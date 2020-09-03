@@ -1,2 +1,42 @@
 name = "Coffey County"
 fips_code = 20031
+
+[[zipcodes]]
+zipcode = 66093
+percent_zip_in_county = 25.12
+
+[[zipcodes]]
+zipcode = 66758
+percent_zip_in_county = 3.7
+
+[[zipcodes]]
+zipcode = 66839
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66852
+percent_zip_in_county = 90.02
+
+[[zipcodes]]
+zipcode = 66854
+percent_zip_in_county = 18.01
+
+[[zipcodes]]
+zipcode = 66856
+percent_zip_in_county = 87.66
+
+[[zipcodes]]
+zipcode = 66857
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66864
+percent_zip_in_county = 9.21
+
+[[zipcodes]]
+zipcode = 66868
+percent_zip_in_county = 0.79
+
+[[zipcodes]]
+zipcode = 66871
+percent_zip_in_county = 97.55

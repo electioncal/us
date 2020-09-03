@@ -1,2 +1,114 @@
 name = "Sarasota County"
 fips_code = 12115
+
+[[zipcodes]]
+zipcode = 34223
+percent_zip_in_county = 83.85
+
+[[zipcodes]]
+zipcode = 34224
+percent_zip_in_county = 0.3
+
+[[zipcodes]]
+zipcode = 34228
+percent_zip_in_county = 65.19
+
+[[zipcodes]]
+zipcode = 34229
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34231
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34232
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34233
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34234
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34235
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34236
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34237
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34238
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34239
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34240
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34241
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34242
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34243
+percent_zip_in_county = 17.53
+
+[[zipcodes]]
+zipcode = 34251
+percent_zip_in_county = 1.35
+
+[[zipcodes]]
+zipcode = 34266
+percent_zip_in_county = 0.09
+
+[[zipcodes]]
+zipcode = 34275
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34285
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34286
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34287
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34288
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34289
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34291
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34292
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34293
+percent_zip_in_county = 100.0

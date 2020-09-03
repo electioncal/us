@@ -1,2 +1,26 @@
 name = "Uinta County"
 fips_code = 56041
+
+[[zipcodes]]
+zipcode = 82930
+percent_zip_in_county = 99.76
+
+[[zipcodes]]
+zipcode = 82933
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82936
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82937
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82939
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82944
+percent_zip_in_county = 100.0

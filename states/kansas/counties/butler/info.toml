@@ -1,2 +1,74 @@
 name = "Butler County"
 fips_code = 20015
+
+[[zipcodes]]
+zipcode = 66840
+percent_zip_in_county = 49.42
+
+[[zipcodes]]
+zipcode = 66842
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67008
+percent_zip_in_county = 21.04
+
+[[zipcodes]]
+zipcode = 67010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67012
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67017
+percent_zip_in_county = 91.94
+
+[[zipcodes]]
+zipcode = 67039
+percent_zip_in_county = 98.35
+
+[[zipcodes]]
+zipcode = 67041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67042
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67072
+percent_zip_in_county = 93.44
+
+[[zipcodes]]
+zipcode = 67074
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67114
+percent_zip_in_county = 0.89
+
+[[zipcodes]]
+zipcode = 67123
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67132
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67133
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67144
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67154
+percent_zip_in_county = 85.1

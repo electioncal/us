@@ -1,2 +1,70 @@
 name = "Potter County"
 fips_code = 48375
+
+[[zipcodes]]
+zipcode = 79010
+percent_zip_in_county = 36.28
+
+[[zipcodes]]
+zipcode = 79012
+percent_zip_in_county = 92.42
+
+[[zipcodes]]
+zipcode = 79036
+percent_zip_in_county = 0.1
+
+[[zipcodes]]
+zipcode = 79058
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79098
+percent_zip_in_county = 12.57
+
+[[zipcodes]]
+zipcode = 79101
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79102
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79103
+percent_zip_in_county = 60.58
+
+[[zipcodes]]
+zipcode = 79104
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79106
+percent_zip_in_county = 87.85
+
+[[zipcodes]]
+zipcode = 79107
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79108
+percent_zip_in_county = 99.57
+
+[[zipcodes]]
+zipcode = 79109
+percent_zip_in_county = 15.71
+
+[[zipcodes]]
+zipcode = 79111
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79118
+percent_zip_in_county = 0.52
+
+[[zipcodes]]
+zipcode = 79121
+percent_zip_in_county = 2.66
+
+[[zipcodes]]
+zipcode = 79124
+percent_zip_in_county = 98.86

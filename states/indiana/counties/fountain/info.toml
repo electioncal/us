@@ -1,2 +1,30 @@
 name = "Fountain County"
 fips_code = 18045
+
+[[zipcodes]]
+zipcode = 47918
+percent_zip_in_county = 78.06
+
+[[zipcodes]]
+zipcode = 47932
+percent_zip_in_county = 83.29
+
+[[zipcodes]]
+zipcode = 47949
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47952
+percent_zip_in_county = 75.38
+
+[[zipcodes]]
+zipcode = 47958
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47969
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47987
+percent_zip_in_county = 100.0

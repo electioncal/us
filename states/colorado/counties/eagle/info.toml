@@ -1,2 +1,54 @@
 name = "Eagle County"
 fips_code = 8037
+
+[[zipcodes]]
+zipcode = 80423
+percent_zip_in_county = 85.21
+
+[[zipcodes]]
+zipcode = 80426
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80463
+percent_zip_in_county = 47.79
+
+[[zipcodes]]
+zipcode = 81620
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81621
+percent_zip_in_county = 70.36
+
+[[zipcodes]]
+zipcode = 81623
+percent_zip_in_county = 26.79
+
+[[zipcodes]]
+zipcode = 81631
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81632
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81637
+percent_zip_in_county = 99.17
+
+[[zipcodes]]
+zipcode = 81645
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81649
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81655
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81657
+percent_zip_in_county = 100.0

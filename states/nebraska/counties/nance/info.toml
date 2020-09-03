@@ -1,2 +1,26 @@
 name = "Nance County"
 fips_code = 31125
+
+[[zipcodes]]
+zipcode = 68623
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68638
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68640
+percent_zip_in_county = 91.2
+
+[[zipcodes]]
+zipcode = 68660
+percent_zip_in_county = 2.9
+
+[[zipcodes]]
+zipcode = 68663
+percent_zip_in_county = 9.46
+
+[[zipcodes]]
+zipcode = 68864
+percent_zip_in_county = 9.44

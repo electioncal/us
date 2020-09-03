@@ -1,2 +1,42 @@
 name = "Pulaski County"
 fips_code = 17153
+
+[[zipcodes]]
+zipcode = 62923
+percent_zip_in_county = 7.92
+
+[[zipcodes]]
+zipcode = 62926
+percent_zip_in_county = 10.47
+
+[[zipcodes]]
+zipcode = 62941
+percent_zip_in_county = 72.9
+
+[[zipcodes]]
+zipcode = 62956
+percent_zip_in_county = 69.04
+
+[[zipcodes]]
+zipcode = 62963
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62964
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62970
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62976
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62992
+percent_zip_in_county = 95.35
+
+[[zipcodes]]
+zipcode = 62996
+percent_zip_in_county = 100.0

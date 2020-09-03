@@ -1,2 +1,46 @@
 name = "Banks County"
 fips_code = 13011
+
+[[zipcodes]]
+zipcode = 30510
+percent_zip_in_county = 27.44
+
+[[zipcodes]]
+zipcode = 30511
+percent_zip_in_county = 70.24
+
+[[zipcodes]]
+zipcode = 30521
+percent_zip_in_county = 4.75
+
+[[zipcodes]]
+zipcode = 30529
+percent_zip_in_county = 10.99
+
+[[zipcodes]]
+zipcode = 30530
+percent_zip_in_county = 46.13
+
+[[zipcodes]]
+zipcode = 30543
+percent_zip_in_county = 16.49
+
+[[zipcodes]]
+zipcode = 30547
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30554
+percent_zip_in_county = 29.85
+
+[[zipcodes]]
+zipcode = 30558
+percent_zip_in_county = 46.43
+
+[[zipcodes]]
+zipcode = 30577
+percent_zip_in_county = 0.84
+
+[[zipcodes]]
+zipcode = 30633
+percent_zip_in_county = 0.66

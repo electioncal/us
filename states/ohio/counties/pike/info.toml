@@ -1,2 +1,50 @@
 name = "Pike County"
 fips_code = 39131
+
+[[zipcodes]]
+zipcode = 45133
+percent_zip_in_county = 1.13
+
+[[zipcodes]]
+zipcode = 45601
+percent_zip_in_county = 0.43
+
+[[zipcodes]]
+zipcode = 45612
+percent_zip_in_county = 17.1
+
+[[zipcodes]]
+zipcode = 45613
+percent_zip_in_county = 88.21
+
+[[zipcodes]]
+zipcode = 45624
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45642
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45646
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45648
+percent_zip_in_county = 13.48
+
+[[zipcodes]]
+zipcode = 45660
+percent_zip_in_county = 16.03
+
+[[zipcodes]]
+zipcode = 45661
+percent_zip_in_county = 99.53
+
+[[zipcodes]]
+zipcode = 45671
+percent_zip_in_county = 13.35
+
+[[zipcodes]]
+zipcode = 45690
+percent_zip_in_county = 89.26

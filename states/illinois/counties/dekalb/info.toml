@@ -1,2 +1,90 @@
 name = "DeKalb County"
 fips_code = 17037
+
+[[zipcodes]]
+zipcode = 60111
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60112
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60115
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60129
+percent_zip_in_county = 57.44
+
+[[zipcodes]]
+zipcode = 60135
+percent_zip_in_county = 99.75
+
+[[zipcodes]]
+zipcode = 60140
+percent_zip_in_county = 0.43
+
+[[zipcodes]]
+zipcode = 60145
+percent_zip_in_county = 96.88
+
+[[zipcodes]]
+zipcode = 60146
+percent_zip_in_county = 96.79
+
+[[zipcodes]]
+zipcode = 60150
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60151
+percent_zip_in_county = 25.14
+
+[[zipcodes]]
+zipcode = 60152
+percent_zip_in_county = 0.23
+
+[[zipcodes]]
+zipcode = 60178
+percent_zip_in_county = 99.03
+
+[[zipcodes]]
+zipcode = 60511
+percent_zip_in_county = 1.23
+
+[[zipcodes]]
+zipcode = 60518
+percent_zip_in_county = 7.79
+
+[[zipcodes]]
+zipcode = 60520
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60530
+percent_zip_in_county = 32.82
+
+[[zipcodes]]
+zipcode = 60531
+percent_zip_in_county = 9.78
+
+[[zipcodes]]
+zipcode = 60548
+percent_zip_in_county = 64.26
+
+[[zipcodes]]
+zipcode = 60550
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60552
+percent_zip_in_county = 46.72
+
+[[zipcodes]]
+zipcode = 60556
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61068
+percent_zip_in_county = 0.22

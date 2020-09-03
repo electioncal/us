@@ -1,2 +1,26 @@
 name = "Hall County"
 fips_code = 48191
+
+[[zipcodes]]
+zipcode = 79226
+percent_zip_in_county = 0.38
+
+[[zipcodes]]
+zipcode = 79233
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79239
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79245
+percent_zip_in_county = 97.21
+
+[[zipcodes]]
+zipcode = 79259
+percent_zip_in_county = 33.33
+
+[[zipcodes]]
+zipcode = 79261
+percent_zip_in_county = 100.0

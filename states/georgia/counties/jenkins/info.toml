@@ -1,2 +1,18 @@
 name = "Jenkins County"
 fips_code = 13165
+
+[[zipcodes]]
+zipcode = 30425
+percent_zip_in_county = 30.88
+
+[[zipcodes]]
+zipcode = 30441
+percent_zip_in_county = 1.08
+
+[[zipcodes]]
+zipcode = 30442
+percent_zip_in_county = 96.47
+
+[[zipcodes]]
+zipcode = 30822
+percent_zip_in_county = 100.0

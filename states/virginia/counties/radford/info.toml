@@ -1,2 +1,10 @@
 name = "Radford city"
 fips_code = 51750
+
+[[zipcodes]]
+zipcode = 24141
+percent_zip_in_county = 67.44
+
+[[zipcodes]]
+zipcode = 24142
+percent_zip_in_county = 100.0

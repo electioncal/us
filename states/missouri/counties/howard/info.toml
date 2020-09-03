@@ -1,2 +1,38 @@
 name = "Howard County"
 fips_code = 29089
+
+[[zipcodes]]
+zipcode = 65230
+percent_zip_in_county = 91.32
+
+[[zipcodes]]
+zipcode = 65243
+percent_zip_in_county = 3.99
+
+[[zipcodes]]
+zipcode = 65248
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65250
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65254
+percent_zip_in_county = 93.43
+
+[[zipcodes]]
+zipcode = 65256
+percent_zip_in_county = 15.61
+
+[[zipcodes]]
+zipcode = 65257
+percent_zip_in_county = 19.5
+
+[[zipcodes]]
+zipcode = 65274
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65279
+percent_zip_in_county = 9.57

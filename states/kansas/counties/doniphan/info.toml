@@ -1,2 +1,42 @@
 name = "Doniphan County"
 fips_code = 20043
+
+[[zipcodes]]
+zipcode = 66002
+percent_zip_in_county = 1.13
+
+[[zipcodes]]
+zipcode = 66008
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66017
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66041
+percent_zip_in_county = 3.31
+
+[[zipcodes]]
+zipcode = 66087
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66090
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66094
+percent_zip_in_county = 57.69
+
+[[zipcodes]]
+zipcode = 66532
+percent_zip_in_county = 20.21

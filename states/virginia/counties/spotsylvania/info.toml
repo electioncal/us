@@ -1,2 +1,46 @@
 name = "Spotsylvania County"
 fips_code = 51177
+
+[[zipcodes]]
+zipcode = 22407
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22408
+percent_zip_in_county = 99.08
+
+[[zipcodes]]
+zipcode = 22508
+percent_zip_in_county = 8.13
+
+[[zipcodes]]
+zipcode = 22534
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22551
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22553
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22580
+percent_zip_in_county = 8.62
+
+[[zipcodes]]
+zipcode = 22960
+percent_zip_in_county = 3.12
+
+[[zipcodes]]
+zipcode = 23015
+percent_zip_in_county = 14.47
+
+[[zipcodes]]
+zipcode = 23024
+percent_zip_in_county = 14.29
+
+[[zipcodes]]
+zipcode = 23117
+percent_zip_in_county = 13.92

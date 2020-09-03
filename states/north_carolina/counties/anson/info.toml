@@ -1,2 +1,34 @@
 name = "Anson County"
 fips_code = 37007
+
+[[zipcodes]]
+zipcode = 28007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28091
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28102
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28103
+percent_zip_in_county = 0.68
+
+[[zipcodes]]
+zipcode = 28119
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28133
+percent_zip_in_county = 95.62
+
+[[zipcodes]]
+zipcode = 28135
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28170
+percent_zip_in_county = 100.0

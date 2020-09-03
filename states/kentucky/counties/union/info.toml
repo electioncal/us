@@ -1,2 +1,22 @@
 name = "Union County"
 fips_code = 21225
+
+[[zipcodes]]
+zipcode = 42404
+percent_zip_in_county = 3.11
+
+[[zipcodes]]
+zipcode = 42437
+percent_zip_in_county = 99.74
+
+[[zipcodes]]
+zipcode = 42459
+percent_zip_in_county = 95.43
+
+[[zipcodes]]
+zipcode = 42461
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42462
+percent_zip_in_county = 69.98

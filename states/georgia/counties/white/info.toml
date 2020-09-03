@@ -1,2 +1,22 @@
 name = "White County"
 fips_code = 13311
+
+[[zipcodes]]
+zipcode = 30528
+percent_zip_in_county = 98.88
+
+[[zipcodes]]
+zipcode = 30533
+percent_zip_in_county = 0.36
+
+[[zipcodes]]
+zipcode = 30545
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30564
+percent_zip_in_county = 0.27
+
+[[zipcodes]]
+zipcode = 30571
+percent_zip_in_county = 100.0

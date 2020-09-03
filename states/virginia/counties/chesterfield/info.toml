@@ -1,2 +1,70 @@
 name = "Chesterfield County"
 fips_code = 51041
+
+[[zipcodes]]
+zipcode = 23112
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23113
+percent_zip_in_county = 95.67
+
+[[zipcodes]]
+zipcode = 23114
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23120
+percent_zip_in_county = 87.27
+
+[[zipcodes]]
+zipcode = 23224
+percent_zip_in_county = 8.33
+
+[[zipcodes]]
+zipcode = 23225
+percent_zip_in_county = 10.78
+
+[[zipcodes]]
+zipcode = 23234
+percent_zip_in_county = 71.57
+
+[[zipcodes]]
+zipcode = 23235
+percent_zip_in_county = 80.29
+
+[[zipcodes]]
+zipcode = 23236
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23237
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23803
+percent_zip_in_county = 26.42
+
+[[zipcodes]]
+zipcode = 23806
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23831
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23832
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23834
+percent_zip_in_county = 32.02
+
+[[zipcodes]]
+zipcode = 23836
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23838
+percent_zip_in_county = 100.0

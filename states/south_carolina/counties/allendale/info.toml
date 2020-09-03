@@ -1,2 +1,26 @@
 name = "Allendale County"
 fips_code = 45005
+
+[[zipcodes]]
+zipcode = 29810
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29812
+percent_zip_in_county = 0.08
+
+[[zipcodes]]
+zipcode = 29827
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29836
+percent_zip_in_county = 88.59
+
+[[zipcodes]]
+zipcode = 29849
+percent_zip_in_county = 95.92
+
+[[zipcodes]]
+zipcode = 29932
+percent_zip_in_county = 31.97

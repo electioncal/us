@@ -1,2 +1,42 @@
 name = "Maury County"
 fips_code = 47119
+
+[[zipcodes]]
+zipcode = 37091
+percent_zip_in_county = 0.24
+
+[[zipcodes]]
+zipcode = 37174
+percent_zip_in_county = 44.03
+
+[[zipcodes]]
+zipcode = 38401
+percent_zip_in_county = 99.01
+
+[[zipcodes]]
+zipcode = 38451
+percent_zip_in_county = 89.24
+
+[[zipcodes]]
+zipcode = 38461
+percent_zip_in_county = 60.33
+
+[[zipcodes]]
+zipcode = 38474
+percent_zip_in_county = 96.12
+
+[[zipcodes]]
+zipcode = 38476
+percent_zip_in_county = 18.16
+
+[[zipcodes]]
+zipcode = 38482
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38483
+percent_zip_in_county = 2.0
+
+[[zipcodes]]
+zipcode = 38487
+percent_zip_in_county = 80.04

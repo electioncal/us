@@ -1,2 +1,34 @@
 name = "Suwannee County"
 fips_code = 12121
+
+[[zipcodes]]
+zipcode = 32008
+percent_zip_in_county = 48.3
+
+[[zipcodes]]
+zipcode = 32024
+percent_zip_in_county = 11.2
+
+[[zipcodes]]
+zipcode = 32060
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32062
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32064
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32071
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32094
+percent_zip_in_county = 92.47
+
+[[zipcodes]]
+zipcode = 32096
+percent_zip_in_county = 1.02

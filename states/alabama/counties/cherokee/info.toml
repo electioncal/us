@@ -1,2 +1,46 @@
 name = "Cherokee County"
 fips_code = 1019
+
+[[zipcodes]]
+zipcode = 30165
+percent_zip_in_county = 0.18
+
+[[zipcodes]]
+zipcode = 35901
+percent_zip_in_county = 0.28
+
+[[zipcodes]]
+zipcode = 35903
+percent_zip_in_county = 0.24
+
+[[zipcodes]]
+zipcode = 35959
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35960
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35961
+percent_zip_in_county = 9.3
+
+[[zipcodes]]
+zipcode = 35967
+percent_zip_in_county = 2.03
+
+[[zipcodes]]
+zipcode = 35973
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35983
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35984
+percent_zip_in_county = 13.23
+
+[[zipcodes]]
+zipcode = 36272
+percent_zip_in_county = 23.11

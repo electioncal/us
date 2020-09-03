@@ -1,2 +1,66 @@
 name = "Kauai County"
 fips_code = 15007
+
+[[zipcodes]]
+zipcode = 96703
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96705
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96714
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96716
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96722
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96741
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96746
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96747
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96751
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96752
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96754
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96756
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96765
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96766
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96769
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96796
+percent_zip_in_county = 100.0

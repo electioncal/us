@@ -1,2 +1,14 @@
 name = "Asotin County"
 fips_code = 53003
+
+[[zipcodes]]
+zipcode = 99401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99402
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99403
+percent_zip_in_county = 99.63

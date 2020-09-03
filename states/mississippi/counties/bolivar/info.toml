@@ -1,2 +1,74 @@
 name = "Bolivar County"
 fips_code = 28011
+
+[[zipcodes]]
+zipcode = 38614
+percent_zip_in_county = 0.07
+
+[[zipcodes]]
+zipcode = 38702
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38703
+percent_zip_in_county = 0.77
+
+[[zipcodes]]
+zipcode = 38720
+percent_zip_in_county = 49.08
+
+[[zipcodes]]
+zipcode = 38725
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38726
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38732
+percent_zip_in_county = 98.18
+
+[[zipcodes]]
+zipcode = 38740
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38746
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38759
+percent_zip_in_county = 74.12
+
+[[zipcodes]]
+zipcode = 38762
+percent_zip_in_county = 99.91
+
+[[zipcodes]]
+zipcode = 38764
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38769
+percent_zip_in_county = 99.91
+
+[[zipcodes]]
+zipcode = 38772
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38773
+percent_zip_in_county = 87.82
+
+[[zipcodes]]
+zipcode = 38774
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38781
+percent_zip_in_county = 100.0

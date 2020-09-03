@@ -1,2 +1,30 @@
 name = "Cocke County"
 fips_code = 47029
+
+[[zipcodes]]
+zipcode = 37713
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37722
+percent_zip_in_county = 81.55
+
+[[zipcodes]]
+zipcode = 37727
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37743
+percent_zip_in_county = 0.16
+
+[[zipcodes]]
+zipcode = 37753
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37821
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37843
+percent_zip_in_county = 100.0

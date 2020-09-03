@@ -1,2 +1,70 @@
 name = "Putnam County"
 fips_code = 54079
+
+[[zipcodes]]
+zipcode = 25011
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25082
+percent_zip_in_county = 68.8
+
+[[zipcodes]]
+zipcode = 25109
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25123
+percent_zip_in_county = 16.41
+
+[[zipcodes]]
+zipcode = 25124
+percent_zip_in_county = 96.62
+
+[[zipcodes]]
+zipcode = 25143
+percent_zip_in_county = 26.16
+
+[[zipcodes]]
+zipcode = 25159
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25168
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25177
+percent_zip_in_county = 0.19
+
+[[zipcodes]]
+zipcode = 25213
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25245
+percent_zip_in_county = 14.48
+
+[[zipcodes]]
+zipcode = 25510
+percent_zip_in_county = 31.42
+
+[[zipcodes]]
+zipcode = 25523
+percent_zip_in_county = 5.89
+
+[[zipcodes]]
+zipcode = 25526
+percent_zip_in_county = 99.91
+
+[[zipcodes]]
+zipcode = 25560
+percent_zip_in_county = 100.0

@@ -1,2 +1,38 @@
 name = "Watauga County"
 fips_code = 37189
+
+[[zipcodes]]
+zipcode = 28604
+percent_zip_in_county = 52.22
+
+[[zipcodes]]
+zipcode = 28605
+percent_zip_in_county = 94.87
+
+[[zipcodes]]
+zipcode = 28607
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28618
+percent_zip_in_county = 98.34
+
+[[zipcodes]]
+zipcode = 28645
+percent_zip_in_county = 0.18
+
+[[zipcodes]]
+zipcode = 28679
+percent_zip_in_county = 96.22
+
+[[zipcodes]]
+zipcode = 28684
+percent_zip_in_county = 44.28
+
+[[zipcodes]]
+zipcode = 28692
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28698
+percent_zip_in_county = 94.02

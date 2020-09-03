@@ -1,2 +1,54 @@
 name = "Buffalo County"
 fips_code = 31019
+
+[[zipcodes]]
+zipcode = 68812
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68836
+percent_zip_in_county = 81.87
+
+[[zipcodes]]
+zipcode = 68840
+percent_zip_in_county = 96.54
+
+[[zipcodes]]
+zipcode = 68844
+percent_zip_in_county = 27.63
+
+[[zipcodes]]
+zipcode = 68845
+percent_zip_in_county = 98.29
+
+[[zipcodes]]
+zipcode = 68847
+percent_zip_in_county = 98.86
+
+[[zipcodes]]
+zipcode = 68849
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68858
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68861
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68866
+percent_zip_in_county = 97.88
+
+[[zipcodes]]
+zipcode = 68869
+percent_zip_in_county = 91.28
+
+[[zipcodes]]
+zipcode = 68870
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68876
+percent_zip_in_county = 95.47

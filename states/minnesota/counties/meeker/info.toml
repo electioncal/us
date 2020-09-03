@@ -1,2 +1,50 @@
 name = "Meeker County"
 fips_code = 27093
+
+[[zipcodes]]
+zipcode = 55324
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55325
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55329
+percent_zip_in_county = 49.91
+
+[[zipcodes]]
+zipcode = 55350
+percent_zip_in_county = 2.13
+
+[[zipcodes]]
+zipcode = 55353
+percent_zip_in_county = 19.54
+
+[[zipcodes]]
+zipcode = 55355
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55382
+percent_zip_in_county = 9.35
+
+[[zipcodes]]
+zipcode = 55389
+percent_zip_in_county = 84.15
+
+[[zipcodes]]
+zipcode = 56209
+percent_zip_in_county = 6.2
+
+[[zipcodes]]
+zipcode = 56228
+percent_zip_in_county = 97.28
+
+[[zipcodes]]
+zipcode = 56243
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56362
+percent_zip_in_county = 7.72

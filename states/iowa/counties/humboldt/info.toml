@@ -1,2 +1,62 @@
 name = "Humboldt County"
 fips_code = 19091
+
+[[zipcodes]]
+zipcode = 50516
+percent_zip_in_county = 7.51
+
+[[zipcodes]]
+zipcode = 50519
+percent_zip_in_county = 68.27
+
+[[zipcodes]]
+zipcode = 50520
+percent_zip_in_county = 97.92
+
+[[zipcodes]]
+zipcode = 50529
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50533
+percent_zip_in_county = 1.38
+
+[[zipcodes]]
+zipcode = 50541
+percent_zip_in_county = 56.31
+
+[[zipcodes]]
+zipcode = 50542
+percent_zip_in_county = 12.65
+
+[[zipcodes]]
+zipcode = 50545
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50548
+percent_zip_in_county = 98.96
+
+[[zipcodes]]
+zipcode = 50558
+percent_zip_in_county = 90.29
+
+[[zipcodes]]
+zipcode = 50560
+percent_zip_in_county = 13.05
+
+[[zipcodes]]
+zipcode = 50570
+percent_zip_in_county = 72.18
+
+[[zipcodes]]
+zipcode = 50577
+percent_zip_in_county = 80.0
+
+[[zipcodes]]
+zipcode = 50582
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50591
+percent_zip_in_county = 94.38

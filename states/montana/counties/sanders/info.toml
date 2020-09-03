@@ -1,2 +1,42 @@
 name = "Sanders County"
 fips_code = 30089
+
+[[zipcodes]]
+zipcode = 59821
+percent_zip_in_county = 1.22
+
+[[zipcodes]]
+zipcode = 59831
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59844
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59845
+percent_zip_in_county = 94.35
+
+[[zipcodes]]
+zipcode = 59848
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59853
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59856
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59859
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59873
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59874
+percent_zip_in_county = 100.0

@@ -1,2 +1,38 @@
 name = "Kerr County"
 fips_code = 48265
+
+[[zipcodes]]
+zipcode = 78010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78013
+percent_zip_in_county = 27.52
+
+[[zipcodes]]
+zipcode = 78024
+percent_zip_in_county = 99.65
+
+[[zipcodes]]
+zipcode = 78025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78028
+percent_zip_in_county = 98.04
+
+[[zipcodes]]
+zipcode = 78029
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 78055
+percent_zip_in_county = 2.65
+
+[[zipcodes]]
+zipcode = 78058
+percent_zip_in_county = 82.64
+
+[[zipcodes]]
+zipcode = 78631
+percent_zip_in_county = 10.52

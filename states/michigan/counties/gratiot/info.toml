@@ -1,2 +1,82 @@
 name = "Gratiot County"
 fips_code = 26057
+
+[[zipcodes]]
+zipcode = 48614
+percent_zip_in_county = 1.89
+
+[[zipcodes]]
+zipcode = 48615
+percent_zip_in_county = 71.81
+
+[[zipcodes]]
+zipcode = 48637
+percent_zip_in_county = 7.23
+
+[[zipcodes]]
+zipcode = 48662
+percent_zip_in_county = 80.3
+
+[[zipcodes]]
+zipcode = 48801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48806
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48807
+percent_zip_in_county = 70.09
+
+[[zipcodes]]
+zipcode = 48811
+percent_zip_in_county = 6.61
+
+[[zipcodes]]
+zipcode = 48831
+percent_zip_in_county = 0.88
+
+[[zipcodes]]
+zipcode = 48832
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48835
+percent_zip_in_county = 0.93
+
+[[zipcodes]]
+zipcode = 48845
+percent_zip_in_county = 2.69
+
+[[zipcodes]]
+zipcode = 48847
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48856
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48871
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48874
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48877
+percent_zip_in_county = 62.08
+
+[[zipcodes]]
+zipcode = 48879
+percent_zip_in_county = 0.84
+
+[[zipcodes]]
+zipcode = 48880
+percent_zip_in_county = 89.46
+
+[[zipcodes]]
+zipcode = 48889
+percent_zip_in_county = 100.0

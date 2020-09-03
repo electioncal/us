@@ -1,2 +1,38 @@
 name = "Crook County"
 fips_code = 56011
+
+[[zipcodes]]
+zipcode = 57717
+percent_zip_in_county = 0.87
+
+[[zipcodes]]
+zipcode = 82710
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82711
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82712
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82714
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82720
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82721
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82729
+percent_zip_in_county = 98.84
+
+[[zipcodes]]
+zipcode = 82730
+percent_zip_in_county = 2.75

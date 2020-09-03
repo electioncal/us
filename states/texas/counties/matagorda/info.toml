@@ -1,2 +1,54 @@
 name = "Matagorda County"
 fips_code = 48321
+
+[[zipcodes]]
+zipcode = 77414
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77415
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77419
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77428
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77440
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77456
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77457
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77458
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77465
+percent_zip_in_county = 90.48
+
+[[zipcodes]]
+zipcode = 77468
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77480
+percent_zip_in_county = 4.31
+
+[[zipcodes]]
+zipcode = 77482
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77483
+percent_zip_in_county = 100.0

@@ -1,2 +1,354 @@
 name = "Westmoreland County"
 fips_code = 42129
+
+[[zipcodes]]
+zipcode = 15012
+percent_zip_in_county = 73.48
+
+[[zipcodes]]
+zipcode = 15062
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15068
+percent_zip_in_county = 87.78
+
+[[zipcodes]]
+zipcode = 15072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15083
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15085
+percent_zip_in_county = 98.6
+
+[[zipcodes]]
+zipcode = 15087
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15089
+percent_zip_in_county = 98.56
+
+[[zipcodes]]
+zipcode = 15131
+percent_zip_in_county = 5.25
+
+[[zipcodes]]
+zipcode = 15137
+percent_zip_in_county = 0.34
+
+[[zipcodes]]
+zipcode = 15146
+percent_zip_in_county = 0.05
+
+[[zipcodes]]
+zipcode = 15448
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15479
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15501
+percent_zip_in_county = 0.16
+
+[[zipcodes]]
+zipcode = 15531
+percent_zip_in_county = 0.67
+
+[[zipcodes]]
+zipcode = 15601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15610
+percent_zip_in_county = 55.59
+
+[[zipcodes]]
+zipcode = 15611
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15612
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15613
+percent_zip_in_county = 63.13
+
+[[zipcodes]]
+zipcode = 15615
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15616
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15617
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15618
+percent_zip_in_county = 68.72
+
+[[zipcodes]]
+zipcode = 15620
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15621
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15622
+percent_zip_in_county = 22.64
+
+[[zipcodes]]
+zipcode = 15623
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15624
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15625
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15626
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15627
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15628
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15629
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15632
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15633
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15634
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15635
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15636
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15637
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15638
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15639
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15640
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15641
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15642
+percent_zip_in_county = 99.6
+
+[[zipcodes]]
+zipcode = 15644
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15646
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15647
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15650
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15655
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15656
+percent_zip_in_county = 55.57
+
+[[zipcodes]]
+zipcode = 15658
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15660
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15661
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15662
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15663
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15665
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15666
+percent_zip_in_county = 88.17
+
+[[zipcodes]]
+zipcode = 15668
+percent_zip_in_county = 99.82
+
+[[zipcodes]]
+zipcode = 15670
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15671
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15672
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15675
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15676
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15677
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15678
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15679
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15680
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15681
+percent_zip_in_county = 48.75
+
+[[zipcodes]]
+zipcode = 15683
+percent_zip_in_county = 87.6
+
+[[zipcodes]]
+zipcode = 15684
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15687
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15688
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15689
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15690
+percent_zip_in_county = 62.54
+
+[[zipcodes]]
+zipcode = 15691
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15692
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15693
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15695
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15696
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15697
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15698
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15717
+percent_zip_in_county = 21.53
+
+[[zipcodes]]
+zipcode = 15779
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15923
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15944
+percent_zip_in_county = 60.14
+
+[[zipcodes]]
+zipcode = 15954
+percent_zip_in_county = 47.74
+
+[[zipcodes]]
+zipcode = 16229
+percent_zip_in_county = 2.32

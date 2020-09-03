@@ -1,2 +1,70 @@
 name = "Miami County"
 fips_code = 39109
+
+[[zipcodes]]
+zipcode = 45304
+percent_zip_in_county = 0.33
+
+[[zipcodes]]
+zipcode = 45308
+percent_zip_in_county = 38.87
+
+[[zipcodes]]
+zipcode = 45312
+percent_zip_in_county = 99.23
+
+[[zipcodes]]
+zipcode = 45317
+percent_zip_in_county = 45.34
+
+[[zipcodes]]
+zipcode = 45318
+percent_zip_in_county = 99.68
+
+[[zipcodes]]
+zipcode = 45322
+percent_zip_in_county = 1.63
+
+[[zipcodes]]
+zipcode = 45326
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45337
+percent_zip_in_county = 82.96
+
+[[zipcodes]]
+zipcode = 45339
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45344
+percent_zip_in_county = 10.12
+
+[[zipcodes]]
+zipcode = 45356
+percent_zip_in_county = 97.22
+
+[[zipcodes]]
+zipcode = 45359
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45361
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45371
+percent_zip_in_county = 99.64
+
+[[zipcodes]]
+zipcode = 45373
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45383
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45424
+percent_zip_in_county = 0.62

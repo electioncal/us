@@ -1,2 +1,18 @@
 name = "Lancaster County"
 fips_code = 45057
+
+[[zipcodes]]
+zipcode = 29058
+percent_zip_in_county = 98.48
+
+[[zipcodes]]
+zipcode = 29067
+percent_zip_in_county = 74.91
+
+[[zipcodes]]
+zipcode = 29707
+percent_zip_in_county = 99.96
+
+[[zipcodes]]
+zipcode = 29720
+percent_zip_in_county = 100.0

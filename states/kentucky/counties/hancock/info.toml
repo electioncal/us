@@ -1,2 +1,22 @@
 name = "Hancock County"
 fips_code = 21091
+
+[[zipcodes]]
+zipcode = 42343
+percent_zip_in_county = 11.45
+
+[[zipcodes]]
+zipcode = 42348
+percent_zip_in_county = 93.74
+
+[[zipcodes]]
+zipcode = 42351
+percent_zip_in_county = 82.37
+
+[[zipcodes]]
+zipcode = 42366
+percent_zip_in_county = 1.21
+
+[[zipcodes]]
+zipcode = 42368
+percent_zip_in_county = 45.96

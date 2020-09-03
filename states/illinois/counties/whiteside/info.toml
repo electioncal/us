@@ -1,2 +1,58 @@
 name = "Whiteside County"
 fips_code = 17195
+
+[[zipcodes]]
+zipcode = 61014
+percent_zip_in_county = 11.94
+
+[[zipcodes]]
+zipcode = 61037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61064
+percent_zip_in_county = 0.49
+
+[[zipcodes]]
+zipcode = 61071
+percent_zip_in_county = 99.35
+
+[[zipcodes]]
+zipcode = 61081
+percent_zip_in_county = 97.62
+
+[[zipcodes]]
+zipcode = 61230
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61243
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61250
+percent_zip_in_county = 98.87
+
+[[zipcodes]]
+zipcode = 61251
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61252
+percent_zip_in_county = 99.83
+
+[[zipcodes]]
+zipcode = 61261
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61270
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61277
+percent_zip_in_county = 88.7
+
+[[zipcodes]]
+zipcode = 61283
+percent_zip_in_county = 77.32

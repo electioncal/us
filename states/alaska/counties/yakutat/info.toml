@@ -1,2 +1,6 @@
 name = "Yakutat City and Borough"
 fips_code = 2282
+
+[[zipcodes]]
+zipcode = 99689
+percent_zip_in_county = 100.0

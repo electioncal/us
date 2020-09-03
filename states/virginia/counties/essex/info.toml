@@ -1,2 +1,42 @@
 name = "Essex County"
 fips_code = 51057
+
+[[zipcodes]]
+zipcode = 22436
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22437
+percent_zip_in_county = 84.69
+
+[[zipcodes]]
+zipcode = 22438
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22454
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22476
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22504
+percent_zip_in_county = 82.51
+
+[[zipcodes]]
+zipcode = 22509
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22560
+percent_zip_in_county = 97.49
+
+[[zipcodes]]
+zipcode = 23115
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23148
+percent_zip_in_county = 12.75

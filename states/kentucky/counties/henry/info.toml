@@ -1,2 +1,54 @@
 name = "Henry County"
 fips_code = 21103
+
+[[zipcodes]]
+zipcode = 40007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40011
+percent_zip_in_county = 81.48
+
+[[zipcodes]]
+zipcode = 40019
+percent_zip_in_county = 95.38
+
+[[zipcodes]]
+zipcode = 40031
+percent_zip_in_county = 3.55
+
+[[zipcodes]]
+zipcode = 40036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40050
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40055
+percent_zip_in_county = 53.25
+
+[[zipcodes]]
+zipcode = 40057
+percent_zip_in_county = 76.15
+
+[[zipcodes]]
+zipcode = 40058
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40068
+percent_zip_in_county = 86.95
+
+[[zipcodes]]
+zipcode = 40070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40075
+percent_zip_in_county = 84.2
+
+[[zipcodes]]
+zipcode = 40601
+percent_zip_in_county = 0.07

@@ -1,2 +1,82 @@
 name = "Williamson County"
 fips_code = 17199
+
+[[zipcodes]]
+zipcode = 62841
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62890
+percent_zip_in_county = 22.0
+
+[[zipcodes]]
+zipcode = 62896
+percent_zip_in_county = 6.12
+
+[[zipcodes]]
+zipcode = 62901
+percent_zip_in_county = 3.5
+
+[[zipcodes]]
+zipcode = 62902
+percent_zip_in_county = 23.39
+
+[[zipcodes]]
+zipcode = 62915
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62917
+percent_zip_in_county = 5.25
+
+[[zipcodes]]
+zipcode = 62918
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62921
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62922
+percent_zip_in_county = 79.26
+
+[[zipcodes]]
+zipcode = 62924
+percent_zip_in_county = 13.88
+
+[[zipcodes]]
+zipcode = 62933
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62939
+percent_zip_in_county = 3.11
+
+[[zipcodes]]
+zipcode = 62948
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62949
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62951
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62958
+percent_zip_in_county = 10.08
+
+[[zipcodes]]
+zipcode = 62959
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62974
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62987
+percent_zip_in_county = 37.31

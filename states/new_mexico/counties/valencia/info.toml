@@ -1,2 +1,30 @@
 name = "Valencia County"
 fips_code = 35061
+
+[[zipcodes]]
+zipcode = 87002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87006
+percent_zip_in_county = 40.4
+
+[[zipcodes]]
+zipcode = 87023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87026
+percent_zip_in_county = 15.48
+
+[[zipcodes]]
+zipcode = 87031
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87042
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87068
+percent_zip_in_county = 100.0

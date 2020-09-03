@@ -1,2 +1,46 @@
 name = "Clay County"
 fips_code = 21051
+
+[[zipcodes]]
+zipcode = 40486
+percent_zip_in_county = 0.81
+
+[[zipcodes]]
+zipcode = 40741
+percent_zip_in_county = 0.26
+
+[[zipcodes]]
+zipcode = 40744
+percent_zip_in_county = 0.84
+
+[[zipcodes]]
+zipcode = 40874
+percent_zip_in_county = 9.13
+
+[[zipcodes]]
+zipcode = 40913
+percent_zip_in_county = 50.29
+
+[[zipcodes]]
+zipcode = 40914
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40941
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40962
+percent_zip_in_county = 99.77
+
+[[zipcodes]]
+zipcode = 40972
+percent_zip_in_county = 97.66
+
+[[zipcodes]]
+zipcode = 40983
+percent_zip_in_county = 71.31
+
+[[zipcodes]]
+zipcode = 41714
+percent_zip_in_county = 1.2

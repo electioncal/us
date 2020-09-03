@@ -1,2 +1,74 @@
 name = "Marion County"
 fips_code = 54049
+
+[[zipcodes]]
+zipcode = 26354
+percent_zip_in_county = 0.28
+
+[[zipcodes]]
+zipcode = 26437
+percent_zip_in_county = 1.55
+
+[[zipcodes]]
+zipcode = 26448
+percent_zip_in_county = 6.33
+
+[[zipcodes]]
+zipcode = 26554
+percent_zip_in_county = 95.61
+
+[[zipcodes]]
+zipcode = 26559
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26560
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26563
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26570
+percent_zip_in_county = 44.7
+
+[[zipcodes]]
+zipcode = 26571
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26572
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26574
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26576
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26582
+percent_zip_in_county = 98.95
+
+[[zipcodes]]
+zipcode = 26585
+percent_zip_in_county = 81.0
+
+[[zipcodes]]
+zipcode = 26586
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26587
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26588
+percent_zip_in_county = 88.74
+
+[[zipcodes]]
+zipcode = 26591
+percent_zip_in_county = 91.73

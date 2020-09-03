@@ -1,2 +1,34 @@
 name = "Appomattox County"
 fips_code = 51011
+
+[[zipcodes]]
+zipcode = 23958
+percent_zip_in_county = 48.45
+
+[[zipcodes]]
+zipcode = 23960
+percent_zip_in_county = 1.71
+
+[[zipcodes]]
+zipcode = 23963
+percent_zip_in_county = 6.47
+
+[[zipcodes]]
+zipcode = 24504
+percent_zip_in_county = 1.01
+
+[[zipcodes]]
+zipcode = 24522
+percent_zip_in_county = 99.57
+
+[[zipcodes]]
+zipcode = 24538
+percent_zip_in_county = 34.44
+
+[[zipcodes]]
+zipcode = 24553
+percent_zip_in_county = 26.13
+
+[[zipcodes]]
+zipcode = 24593
+percent_zip_in_county = 100.0

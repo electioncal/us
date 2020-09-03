@@ -1,2 +1,6 @@
 name = "Moca Municipio"
 fips_code = 72099
+
+[[zipcodes]]
+zipcode = 676
+percent_zip_in_county = 99.49

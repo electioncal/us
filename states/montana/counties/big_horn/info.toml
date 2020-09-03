@@ -1,2 +1,70 @@
 name = "Big Horn County"
 fips_code = 30003
+
+[[zipcodes]]
+zipcode = 59010
+percent_zip_in_county = 47.06
+
+[[zipcodes]]
+zipcode = 59016
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59024
+percent_zip_in_county = 9.49
+
+[[zipcodes]]
+zipcode = 59025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59031
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59038
+percent_zip_in_county = 3.81
+
+[[zipcodes]]
+zipcode = 59043
+percent_zip_in_county = 22.34
+
+[[zipcodes]]
+zipcode = 59050
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59064
+percent_zip_in_county = 10.92
+
+[[zipcodes]]
+zipcode = 59066
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59075
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59089
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59101
+percent_zip_in_county = 0.06
+
+[[zipcodes]]
+zipcode = 82801
+percent_zip_in_county = 0.05

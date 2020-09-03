@@ -1,2 +1,74 @@
 name = "Lassen County"
 fips_code = 6035
+
+[[zipcodes]]
+zipcode = 96006
+percent_zip_in_county = 30.7
+
+[[zipcodes]]
+zipcode = 96009
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96056
+percent_zip_in_county = 34.35
+
+[[zipcodes]]
+zipcode = 96068
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96105
+percent_zip_in_county = 24.1
+
+[[zipcodes]]
+zipcode = 96109
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96110
+percent_zip_in_county = 6.02
+
+[[zipcodes]]
+zipcode = 96113
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96114
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96117
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96119
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96121
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96123
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96128
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96130
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96132
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96136
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96137
+percent_zip_in_county = 55.14

@@ -1,2 +1,74 @@
 name = "Otero County"
 fips_code = 35035
+
+[[zipcodes]]
+zipcode = 79837
+percent_zip_in_county = 10.36
+
+[[zipcodes]]
+zipcode = 88081
+percent_zip_in_county = 55.66
+
+[[zipcodes]]
+zipcode = 88310
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88311
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88314
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88317
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88325
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88330
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88337
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88339
+percent_zip_in_county = 92.39
+
+[[zipcodes]]
+zipcode = 88340
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88342
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88344
+percent_zip_in_county = 51.57
+
+[[zipcodes]]
+zipcode = 88347
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88349
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88350
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88352
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88354
+percent_zip_in_county = 100.0

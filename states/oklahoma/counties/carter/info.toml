@@ -1,2 +1,46 @@
 name = "Carter County"
 fips_code = 40019
+
+[[zipcodes]]
+zipcode = 73401
+percent_zip_in_county = 99.56
+
+[[zipcodes]]
+zipcode = 73425
+percent_zip_in_county = 51.19
+
+[[zipcodes]]
+zipcode = 73437
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73438
+percent_zip_in_county = 99.24
+
+[[zipcodes]]
+zipcode = 73443
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73444
+percent_zip_in_county = 48.72
+
+[[zipcodes]]
+zipcode = 73456
+percent_zip_in_county = 3.55
+
+[[zipcodes]]
+zipcode = 73458
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73463
+percent_zip_in_county = 93.06
+
+[[zipcodes]]
+zipcode = 73481
+percent_zip_in_county = 79.45
+
+[[zipcodes]]
+zipcode = 73487
+percent_zip_in_county = 100.0

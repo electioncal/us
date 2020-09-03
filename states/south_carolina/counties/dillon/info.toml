@@ -1,2 +1,38 @@
 name = "Dillon County"
 fips_code = 45033
+
+[[zipcodes]]
+zipcode = 29536
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29543
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29547
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29563
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29565
+percent_zip_in_county = 85.74
+
+[[zipcodes]]
+zipcode = 29567
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29574
+percent_zip_in_county = 0.25
+
+[[zipcodes]]
+zipcode = 29581
+percent_zip_in_county = 13.89
+
+[[zipcodes]]
+zipcode = 29592
+percent_zip_in_county = 66.0

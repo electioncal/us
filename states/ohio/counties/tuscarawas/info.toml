@@ -1,2 +1,106 @@
 name = "Tuscarawas County"
 fips_code = 39157
+
+[[zipcodes]]
+zipcode = 43749
+percent_zip_in_county = 1.41
+
+[[zipcodes]]
+zipcode = 43804
+percent_zip_in_county = 29.89
+
+[[zipcodes]]
+zipcode = 43824
+percent_zip_in_county = 5.81
+
+[[zipcodes]]
+zipcode = 43832
+percent_zip_in_county = 83.53
+
+[[zipcodes]]
+zipcode = 43837
+percent_zip_in_county = 94.68
+
+[[zipcodes]]
+zipcode = 43840
+percent_zip_in_county = 99.04
+
+[[zipcodes]]
+zipcode = 44608
+percent_zip_in_county = 16.05
+
+[[zipcodes]]
+zipcode = 44612
+percent_zip_in_county = 96.05
+
+[[zipcodes]]
+zipcode = 44621
+percent_zip_in_county = 94.49
+
+[[zipcodes]]
+zipcode = 44622
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44624
+percent_zip_in_county = 36.0
+
+[[zipcodes]]
+zipcode = 44626
+percent_zip_in_county = 1.44
+
+[[zipcodes]]
+zipcode = 44629
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44643
+percent_zip_in_county = 28.68
+
+[[zipcodes]]
+zipcode = 44653
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44656
+percent_zip_in_county = 96.36
+
+[[zipcodes]]
+zipcode = 44663
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44671
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44675
+percent_zip_in_county = 20.75
+
+[[zipcodes]]
+zipcode = 44678
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44680
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44681
+percent_zip_in_county = 61.6
+
+[[zipcodes]]
+zipcode = 44682
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44683
+percent_zip_in_county = 94.47
+
+[[zipcodes]]
+zipcode = 44697
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44699
+percent_zip_in_county = 26.25

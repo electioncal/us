@@ -1,2 +1,10 @@
 name = "Washakie County"
 fips_code = 56043
+
+[[zipcodes]]
+zipcode = 82401
+percent_zip_in_county = 99.17
+
+[[zipcodes]]
+zipcode = 82442
+percent_zip_in_county = 100.0

@@ -1,2 +1,62 @@
 name = "Walsh County"
 fips_code = 38099
+
+[[zipcodes]]
+zipcode = 56744
+percent_zip_in_county = 8.53
+
+[[zipcodes]]
+zipcode = 58210
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58225
+percent_zip_in_county = 8.71
+
+[[zipcodes]]
+zipcode = 58227
+percent_zip_in_county = 72.42
+
+[[zipcodes]]
+zipcode = 58229
+percent_zip_in_county = 81.58
+
+[[zipcodes]]
+zipcode = 58231
+percent_zip_in_county = 67.76
+
+[[zipcodes]]
+zipcode = 58233
+percent_zip_in_county = 92.93
+
+[[zipcodes]]
+zipcode = 58237
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58243
+percent_zip_in_county = 95.18
+
+[[zipcodes]]
+zipcode = 58250
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58261
+percent_zip_in_county = 93.79
+
+[[zipcodes]]
+zipcode = 58270
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58273
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58321
+percent_zip_in_county = 18.01
+
+[[zipcodes]]
+zipcode = 58345
+percent_zip_in_county = 34.18

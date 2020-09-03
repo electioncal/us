@@ -1,2 +1,66 @@
 name = "Black Hawk County"
 fips_code = 19013
+
+[[zipcodes]]
+zipcode = 50612
+percent_zip_in_county = 4.78
+
+[[zipcodes]]
+zipcode = 50613
+percent_zip_in_county = 98.63
+
+[[zipcodes]]
+zipcode = 50626
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50629
+percent_zip_in_county = 6.7
+
+[[zipcodes]]
+zipcode = 50634
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50643
+percent_zip_in_county = 98.98
+
+[[zipcodes]]
+zipcode = 50647
+percent_zip_in_county = 34.69
+
+[[zipcodes]]
+zipcode = 50648
+percent_zip_in_county = 20.1
+
+[[zipcodes]]
+zipcode = 50651
+percent_zip_in_county = 91.17
+
+[[zipcodes]]
+zipcode = 50667
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50669
+percent_zip_in_county = 0.16
+
+[[zipcodes]]
+zipcode = 50675
+percent_zip_in_county = 0.94
+
+[[zipcodes]]
+zipcode = 50701
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50702
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50703
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50707
+percent_zip_in_county = 100.0

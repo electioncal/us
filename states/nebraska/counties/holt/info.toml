@@ -1,2 +1,54 @@
 name = "Holt County"
 fips_code = 31089
+
+[[zipcodes]]
+zipcode = 68711
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68713
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68725
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68726
+percent_zip_in_county = 3.7
+
+[[zipcodes]]
+zipcode = 68734
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68735
+percent_zip_in_county = 78.09
+
+[[zipcodes]]
+zipcode = 68742
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68746
+percent_zip_in_county = 11.46
+
+[[zipcodes]]
+zipcode = 68763
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68764
+percent_zip_in_county = 3.59
+
+[[zipcodes]]
+zipcode = 68766
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68777
+percent_zip_in_county = 5.17
+
+[[zipcodes]]
+zipcode = 68780
+percent_zip_in_county = 100.0

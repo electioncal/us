@@ -1,2 +1,158 @@
 name = "Jefferson County"
 fips_code = 21111
+
+[[zipcodes]]
+zipcode = 40023
+percent_zip_in_county = 50.0
+
+[[zipcodes]]
+zipcode = 40025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40059
+percent_zip_in_county = 54.57
+
+[[zipcodes]]
+zipcode = 40118
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40177
+percent_zip_in_county = 5.19
+
+[[zipcodes]]
+zipcode = 40202
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40203
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40204
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40205
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40206
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40207
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40208
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40209
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40210
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40211
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40212
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40213
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40214
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40215
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40216
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40217
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40218
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40219
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40220
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40222
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40223
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40228
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40229
+percent_zip_in_county = 62.78
+
+[[zipcodes]]
+zipcode = 40231
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 40241
+percent_zip_in_county = 98.99
+
+[[zipcodes]]
+zipcode = 40242
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40243
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40245
+percent_zip_in_county = 92.78
+
+[[zipcodes]]
+zipcode = 40258
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40272
+percent_zip_in_county = 99.63
+
+[[zipcodes]]
+zipcode = 40280
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40291
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40299
+percent_zip_in_county = 99.52

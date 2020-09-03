@@ -1,2 +1,50 @@
 name = "Oregon County"
 fips_code = 29149
+
+[[zipcodes]]
+zipcode = 63935
+percent_zip_in_county = 0.69
+
+[[zipcodes]]
+zipcode = 63941
+percent_zip_in_county = 21.56
+
+[[zipcodes]]
+zipcode = 63942
+percent_zip_in_county = 13.96
+
+[[zipcodes]]
+zipcode = 65438
+percent_zip_in_county = 14.53
+
+[[zipcodes]]
+zipcode = 65588
+percent_zip_in_county = 1.16
+
+[[zipcodes]]
+zipcode = 65606
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65690
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65692
+percent_zip_in_county = 73.8
+
+[[zipcodes]]
+zipcode = 65775
+percent_zip_in_county = 0.63
+
+[[zipcodes]]
+zipcode = 65778
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65788
+percent_zip_in_county = 3.79
+
+[[zipcodes]]
+zipcode = 65791
+percent_zip_in_county = 100.0

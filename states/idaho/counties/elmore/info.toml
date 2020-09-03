@@ -1,2 +1,38 @@
 name = "Elmore County"
 fips_code = 16039
+
+[[zipcodes]]
+zipcode = 83337
+percent_zip_in_county = 15.15
+
+[[zipcodes]]
+zipcode = 83601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83623
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83624
+percent_zip_in_county = 20.67
+
+[[zipcodes]]
+zipcode = 83627
+percent_zip_in_county = 81.45
+
+[[zipcodes]]
+zipcode = 83633
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83647
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83648
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83716
+percent_zip_in_county = 1.07

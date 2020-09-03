@@ -1,2 +1,42 @@
 name = "Seminole County"
 fips_code = 40133
+
+[[zipcodes]]
+zipcode = 74830
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74837
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74840
+percent_zip_in_county = 32.54
+
+[[zipcodes]]
+zipcode = 74848
+percent_zip_in_county = 2.76
+
+[[zipcodes]]
+zipcode = 74849
+percent_zip_in_county = 87.13
+
+[[zipcodes]]
+zipcode = 74854
+percent_zip_in_county = 44.18
+
+[[zipcodes]]
+zipcode = 74859
+percent_zip_in_county = 5.45
+
+[[zipcodes]]
+zipcode = 74867
+percent_zip_in_county = 97.7
+
+[[zipcodes]]
+zipcode = 74868
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74884
+percent_zip_in_county = 99.73

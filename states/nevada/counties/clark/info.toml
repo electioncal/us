@@ -1,2 +1,294 @@
 name = "Clark County"
 fips_code = 32003
+
+[[zipcodes]]
+zipcode = 89002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89004
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89005
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89011
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89012
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89014
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89015
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89018
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89019
+percent_zip_in_county = 97.42
+
+[[zipcodes]]
+zipcode = 89021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89026
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89029
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89031
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89044
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89052
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89054
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89074
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89081
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89084
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89085
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89086
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89101
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89102
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89104
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89106
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89107
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89108
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89109
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89110
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89113
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89115
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89117
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89118
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89119
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89120
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89121
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89122
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89123
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89124
+percent_zip_in_county = 98.3
+
+[[zipcodes]]
+zipcode = 89128
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89129
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89130
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89131
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89134
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89135
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89138
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89139
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89141
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89142
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89143
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89144
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89145
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89146
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89147
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89148
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89149
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89156
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89161
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89166
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89169
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89178
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89179
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89183
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89191
+percent_zip_in_county = 100.0

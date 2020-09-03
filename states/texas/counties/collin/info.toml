@@ -1,2 +1,150 @@
 name = "Collin County"
 fips_code = 48085
+
+[[zipcodes]]
+zipcode = 75002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75009
+percent_zip_in_county = 94.8
+
+[[zipcodes]]
+zipcode = 75013
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75024
+percent_zip_in_county = 94.2
+
+[[zipcodes]]
+zipcode = 75025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75034
+percent_zip_in_county = 34.04
+
+[[zipcodes]]
+zipcode = 75035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75044
+percent_zip_in_county = 0.64
+
+[[zipcodes]]
+zipcode = 75048
+percent_zip_in_county = 31.09
+
+[[zipcodes]]
+zipcode = 75069
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75071
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75074
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75075
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75078
+percent_zip_in_county = 92.73
+
+[[zipcodes]]
+zipcode = 75080
+percent_zip_in_county = 22.48
+
+[[zipcodes]]
+zipcode = 75082
+percent_zip_in_county = 88.75
+
+[[zipcodes]]
+zipcode = 75087
+percent_zip_in_county = 0.58
+
+[[zipcodes]]
+zipcode = 75093
+percent_zip_in_county = 93.14
+
+[[zipcodes]]
+zipcode = 75094
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75098
+percent_zip_in_county = 93.4
+
+[[zipcodes]]
+zipcode = 75164
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75166
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75173
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75189
+percent_zip_in_county = 10.13
+
+[[zipcodes]]
+zipcode = 75248
+percent_zip_in_county = 0.71
+
+[[zipcodes]]
+zipcode = 75252
+percent_zip_in_county = 97.44
+
+[[zipcodes]]
+zipcode = 75287
+percent_zip_in_county = 47.25
+
+[[zipcodes]]
+zipcode = 75407
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75409
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75424
+percent_zip_in_county = 93.9
+
+[[zipcodes]]
+zipcode = 75442
+percent_zip_in_county = 89.03
+
+[[zipcodes]]
+zipcode = 75452
+percent_zip_in_county = 1.98
+
+[[zipcodes]]
+zipcode = 75454
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75491
+percent_zip_in_county = 0.29
+
+[[zipcodes]]
+zipcode = 75495
+percent_zip_in_county = 4.1

@@ -1,2 +1,22 @@
 name = "Buffalo County"
 fips_code = 46017
+
+[[zipcodes]]
+zipcode = 57325
+percent_zip_in_county = 1.57
+
+[[zipcodes]]
+zipcode = 57339
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57341
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57355
+percent_zip_in_county = 2.51
+
+[[zipcodes]]
+zipcode = 57370
+percent_zip_in_county = 18.92

@@ -1,2 +1,66 @@
 name = "Pine County"
 fips_code = 27115
+
+[[zipcodes]]
+zipcode = 55006
+percent_zip_in_county = 13.57
+
+[[zipcodes]]
+zipcode = 55007
+percent_zip_in_county = 41.99
+
+[[zipcodes]]
+zipcode = 55030
+percent_zip_in_county = 76.73
+
+[[zipcodes]]
+zipcode = 55036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55037
+percent_zip_in_county = 97.75
+
+[[zipcodes]]
+zipcode = 55063
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55069
+percent_zip_in_county = 6.34
+
+[[zipcodes]]
+zipcode = 55072
+percent_zip_in_county = 96.77
+
+[[zipcodes]]
+zipcode = 55704
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55712
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55735
+percent_zip_in_county = 79.1
+
+[[zipcodes]]
+zipcode = 55749
+percent_zip_in_county = 30.29
+
+[[zipcodes]]
+zipcode = 55756
+percent_zip_in_county = 95.13
+
+[[zipcodes]]
+zipcode = 55767
+percent_zip_in_county = 6.66
+
+[[zipcodes]]
+zipcode = 55783
+percent_zip_in_county = 96.64
+
+[[zipcodes]]
+zipcode = 55795
+percent_zip_in_county = 100.0

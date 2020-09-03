@@ -1,2 +1,38 @@
 name = "Brown County"
 fips_code = 18013
+
+[[zipcodes]]
+zipcode = 46160
+percent_zip_in_county = 48.43
+
+[[zipcodes]]
+zipcode = 46164
+percent_zip_in_county = 49.51
+
+[[zipcodes]]
+zipcode = 46181
+percent_zip_in_county = 14.03
+
+[[zipcodes]]
+zipcode = 47201
+percent_zip_in_county = 2.88
+
+[[zipcodes]]
+zipcode = 47235
+percent_zip_in_county = 21.19
+
+[[zipcodes]]
+zipcode = 47274
+percent_zip_in_county = 0.51
+
+[[zipcodes]]
+zipcode = 47401
+percent_zip_in_county = 0.1
+
+[[zipcodes]]
+zipcode = 47448
+percent_zip_in_county = 99.33
+
+[[zipcodes]]
+zipcode = 47468
+percent_zip_in_county = 22.24

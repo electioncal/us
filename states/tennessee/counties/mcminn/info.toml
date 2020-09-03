@@ -1,2 +1,46 @@
 name = "McMinn County"
 fips_code = 47107
+
+[[zipcodes]]
+zipcode = 37303
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37309
+percent_zip_in_county = 86.76
+
+[[zipcodes]]
+zipcode = 37322
+percent_zip_in_county = 7.43
+
+[[zipcodes]]
+zipcode = 37325
+percent_zip_in_county = 13.33
+
+[[zipcodes]]
+zipcode = 37329
+percent_zip_in_county = 93.63
+
+[[zipcodes]]
+zipcode = 37331
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37354
+percent_zip_in_county = 0.75
+
+[[zipcodes]]
+zipcode = 37370
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37826
+percent_zip_in_county = 98.05
+
+[[zipcodes]]
+zipcode = 37846
+percent_zip_in_county = 2.11
+
+[[zipcodes]]
+zipcode = 37874
+percent_zip_in_county = 13.67

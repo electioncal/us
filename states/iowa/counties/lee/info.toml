@@ -1,2 +1,50 @@
 name = "Lee County"
 fips_code = 19111
+
+[[zipcodes]]
+zipcode = 52619
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52624
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52625
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52626
+percent_zip_in_county = 28.9
+
+[[zipcodes]]
+zipcode = 52627
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52630
+percent_zip_in_county = 20.9
+
+[[zipcodes]]
+zipcode = 52632
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52639
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52649
+percent_zip_in_county = 9.24
+
+[[zipcodes]]
+zipcode = 52656
+percent_zip_in_county = 98.86
+
+[[zipcodes]]
+zipcode = 52657
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52658
+percent_zip_in_county = 92.62

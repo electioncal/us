@@ -1,2 +1,66 @@
 name = "Mahaska County"
 fips_code = 19123
+
+[[zipcodes]]
+zipcode = 50027
+percent_zip_in_county = 94.04
+
+[[zipcodes]]
+zipcode = 50044
+percent_zip_in_county = 17.14
+
+[[zipcodes]]
+zipcode = 50104
+percent_zip_in_county = 2.34
+
+[[zipcodes]]
+zipcode = 50143
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50153
+percent_zip_in_county = 4.09
+
+[[zipcodes]]
+zipcode = 50207
+percent_zip_in_county = 99.25
+
+[[zipcodes]]
+zipcode = 50219
+percent_zip_in_county = 5.33
+
+[[zipcodes]]
+zipcode = 50256
+percent_zip_in_county = 8.98
+
+[[zipcodes]]
+zipcode = 50268
+percent_zip_in_county = 4.13
+
+[[zipcodes]]
+zipcode = 52534
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52543
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52553
+percent_zip_in_county = 26.42
+
+[[zipcodes]]
+zipcode = 52561
+percent_zip_in_county = 99.06
+
+[[zipcodes]]
+zipcode = 52577
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52586
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52595
+percent_zip_in_county = 100.0

@@ -1,2 +1,54 @@
 name = "Montgomery County"
 fips_code = 47125
+
+[[zipcodes]]
+zipcode = 37010
+percent_zip_in_county = 63.8
+
+[[zipcodes]]
+zipcode = 37015
+percent_zip_in_county = 0.93
+
+[[zipcodes]]
+zipcode = 37040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37042
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37043
+percent_zip_in_county = 99.52
+
+[[zipcodes]]
+zipcode = 37050
+percent_zip_in_county = 16.72
+
+[[zipcodes]]
+zipcode = 37051
+percent_zip_in_county = 31.71
+
+[[zipcodes]]
+zipcode = 37052
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37079
+percent_zip_in_county = 19.2
+
+[[zipcodes]]
+zipcode = 37142
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37171
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37191
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42223
+percent_zip_in_county = 31.01

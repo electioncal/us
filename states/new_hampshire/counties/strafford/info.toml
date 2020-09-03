@@ -1,2 +1,70 @@
 name = "Strafford County"
 fips_code = 33017
+
+[[zipcodes]]
+zipcode = 3225
+percent_zip_in_county = 0.74
+
+[[zipcodes]]
+zipcode = 3820
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3823
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3824
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3825
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3835
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3839
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3851
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3852
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3855
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3861
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3867
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3868
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3869
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3878
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3884
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3887
+percent_zip_in_county = 82.78

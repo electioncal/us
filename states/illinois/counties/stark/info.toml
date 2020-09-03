@@ -1,2 +1,46 @@
 name = "Stark County"
 fips_code = 17175
+
+[[zipcodes]]
+zipcode = 61345
+percent_zip_in_county = 5.08
+
+[[zipcodes]]
+zipcode = 61421
+percent_zip_in_county = 81.18
+
+[[zipcodes]]
+zipcode = 61426
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61434
+percent_zip_in_county = 0.33
+
+[[zipcodes]]
+zipcode = 61443
+percent_zip_in_county = 0.18
+
+[[zipcodes]]
+zipcode = 61449
+percent_zip_in_county = 75.0
+
+[[zipcodes]]
+zipcode = 61451
+percent_zip_in_county = 8.65
+
+[[zipcodes]]
+zipcode = 61479
+percent_zip_in_county = 58.79
+
+[[zipcodes]]
+zipcode = 61483
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61491
+percent_zip_in_county = 96.95
+
+[[zipcodes]]
+zipcode = 61559
+percent_zip_in_county = 2.13

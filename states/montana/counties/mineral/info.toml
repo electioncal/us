@@ -1,2 +1,26 @@
 name = "Mineral County"
 fips_code = 30061
+
+[[zipcodes]]
+zipcode = 59820
+percent_zip_in_county = 51.95
+
+[[zipcodes]]
+zipcode = 59830
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59842
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59866
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59867
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59872
+percent_zip_in_county = 100.0

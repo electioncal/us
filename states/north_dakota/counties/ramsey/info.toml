@@ -1,2 +1,54 @@
 name = "Ramsey County"
 fips_code = 38071
+
+[[zipcodes]]
+zipcode = 58229
+percent_zip_in_county = 5.26
+
+[[zipcodes]]
+zipcode = 58301
+percent_zip_in_county = 99.64
+
+[[zipcodes]]
+zipcode = 58321
+percent_zip_in_county = 65.84
+
+[[zipcodes]]
+zipcode = 58325
+percent_zip_in_county = 52.17
+
+[[zipcodes]]
+zipcode = 58327
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58330
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58338
+percent_zip_in_county = 70.48
+
+[[zipcodes]]
+zipcode = 58344
+percent_zip_in_county = 2.09
+
+[[zipcodes]]
+zipcode = 58345
+percent_zip_in_county = 65.82
+
+[[zipcodes]]
+zipcode = 58351
+percent_zip_in_county = 2.51
+
+[[zipcodes]]
+zipcode = 58362
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58377
+percent_zip_in_county = 82.93
+
+[[zipcodes]]
+zipcode = 58382
+percent_zip_in_county = 100.0

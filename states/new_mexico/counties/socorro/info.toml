@@ -1,2 +1,50 @@
 name = "Socorro County"
 fips_code = 35053
+
+[[zipcodes]]
+zipcode = 87006
+percent_zip_in_county = 59.6
+
+[[zipcodes]]
+zipcode = 87011
+percent_zip_in_county = 42.86
+
+[[zipcodes]]
+zipcode = 87028
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87036
+percent_zip_in_county = 1.18
+
+[[zipcodes]]
+zipcode = 87062
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87823
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87825
+percent_zip_in_county = 98.73
+
+[[zipcodes]]
+zipcode = 87828
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87831
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87832
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87943
+percent_zip_in_county = 15.79

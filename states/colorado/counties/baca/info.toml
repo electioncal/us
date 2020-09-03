@@ -1,2 +1,30 @@
 name = "Baca County"
 fips_code = 8009
+
+[[zipcodes]]
+zipcode = 81029
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81054
+percent_zip_in_county = 0.33
+
+[[zipcodes]]
+zipcode = 81064
+percent_zip_in_county = 92.2
+
+[[zipcodes]]
+zipcode = 81073
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81084
+percent_zip_in_county = 92.7
+
+[[zipcodes]]
+zipcode = 81087
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81090
+percent_zip_in_county = 100.0

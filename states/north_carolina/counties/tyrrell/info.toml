@@ -1,2 +1,14 @@
 name = "Tyrrell County"
 fips_code = 37177
+
+[[zipcodes]]
+zipcode = 27826
+percent_zip_in_county = 6.6
+
+[[zipcodes]]
+zipcode = 27925
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27928
+percent_zip_in_county = 4.88

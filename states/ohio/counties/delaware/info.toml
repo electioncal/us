@@ -1,2 +1,82 @@
 name = "Delaware County"
 fips_code = 39041
+
+[[zipcodes]]
+zipcode = 43003
+percent_zip_in_county = 74.7
+
+[[zipcodes]]
+zipcode = 43011
+percent_zip_in_county = 8.48
+
+[[zipcodes]]
+zipcode = 43015
+percent_zip_in_county = 99.85
+
+[[zipcodes]]
+zipcode = 43016
+percent_zip_in_county = 0.65
+
+[[zipcodes]]
+zipcode = 43017
+percent_zip_in_county = 15.81
+
+[[zipcodes]]
+zipcode = 43021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43031
+percent_zip_in_county = 3.1
+
+[[zipcodes]]
+zipcode = 43032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43040
+percent_zip_in_county = 0.19
+
+[[zipcodes]]
+zipcode = 43061
+percent_zip_in_county = 82.35
+
+[[zipcodes]]
+zipcode = 43065
+percent_zip_in_county = 81.8
+
+[[zipcodes]]
+zipcode = 43066
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43074
+percent_zip_in_county = 98.93
+
+[[zipcodes]]
+zipcode = 43082
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43240
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43334
+percent_zip_in_county = 2.26
+
+[[zipcodes]]
+zipcode = 43342
+percent_zip_in_county = 2.17
+
+[[zipcodes]]
+zipcode = 43344
+percent_zip_in_county = 1.3
+
+[[zipcodes]]
+zipcode = 43356
+percent_zip_in_county = 7.34

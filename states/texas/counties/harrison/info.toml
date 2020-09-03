@@ -1,2 +1,50 @@
 name = "Harrison County"
 fips_code = 48203
+
+[[zipcodes]]
+zipcode = 75601
+percent_zip_in_county = 10.92
+
+[[zipcodes]]
+zipcode = 75602
+percent_zip_in_county = 22.43
+
+[[zipcodes]]
+zipcode = 75605
+percent_zip_in_county = 14.44
+
+[[zipcodes]]
+zipcode = 75640
+percent_zip_in_county = 23.8
+
+[[zipcodes]]
+zipcode = 75642
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75650
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75651
+percent_zip_in_county = 97.26
+
+[[zipcodes]]
+zipcode = 75657
+percent_zip_in_county = 3.53
+
+[[zipcodes]]
+zipcode = 75661
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75670
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75672
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75692
+percent_zip_in_county = 100.0

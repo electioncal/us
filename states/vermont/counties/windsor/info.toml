@@ -1,2 +1,130 @@
 name = "Windsor County"
 fips_code = 50027
+
+[[zipcodes]]
+zipcode = 5001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5031
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5048
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5052
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5053
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5055
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5056
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5059
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5060
+percent_zip_in_county = 3.9
+
+[[zipcodes]]
+zipcode = 5062
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5065
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5068
+percent_zip_in_county = 99.3
+
+[[zipcodes]]
+zipcode = 5071
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5084
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5089
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5091
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5142
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5143
+percent_zip_in_county = 85.82
+
+[[zipcodes]]
+zipcode = 5148
+percent_zip_in_county = 1.23
+
+[[zipcodes]]
+zipcode = 5149
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5150
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5151
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5153
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5156
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5161
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5767
+percent_zip_in_county = 99.65
+
+[[zipcodes]]
+zipcode = 5772
+percent_zip_in_county = 100.0

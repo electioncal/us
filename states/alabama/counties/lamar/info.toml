@@ -1,2 +1,38 @@
 name = "Lamar County"
 fips_code = 1075
+
+[[zipcodes]]
+zipcode = 35544
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35552
+percent_zip_in_county = 52.59
+
+[[zipcodes]]
+zipcode = 35555
+percent_zip_in_county = 0.93
+
+[[zipcodes]]
+zipcode = 35563
+percent_zip_in_county = 1.2
+
+[[zipcodes]]
+zipcode = 35570
+percent_zip_in_county = 0.07
+
+[[zipcodes]]
+zipcode = 35574
+percent_zip_in_county = 74.59
+
+[[zipcodes]]
+zipcode = 35576
+percent_zip_in_county = 91.08
+
+[[zipcodes]]
+zipcode = 35586
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35592
+percent_zip_in_county = 100.0

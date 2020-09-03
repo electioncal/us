@@ -1,2 +1,42 @@
 name = "Clearwater County"
 fips_code = 27029
+
+[[zipcodes]]
+zipcode = 56470
+percent_zip_in_county = 0.25
+
+[[zipcodes]]
+zipcode = 56557
+percent_zip_in_county = 1.99
+
+[[zipcodes]]
+zipcode = 56589
+percent_zip_in_county = 0.25
+
+[[zipcodes]]
+zipcode = 56621
+percent_zip_in_county = 98.38
+
+[[zipcodes]]
+zipcode = 56634
+percent_zip_in_county = 99.63
+
+[[zipcodes]]
+zipcode = 56644
+percent_zip_in_county = 98.86
+
+[[zipcodes]]
+zipcode = 56652
+percent_zip_in_county = 90.17
+
+[[zipcodes]]
+zipcode = 56671
+percent_zip_in_county = 2.58
+
+[[zipcodes]]
+zipcode = 56676
+percent_zip_in_county = 62.54
+
+[[zipcodes]]
+zipcode = 56678
+percent_zip_in_county = 1.51

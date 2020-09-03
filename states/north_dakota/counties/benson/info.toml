@@ -1,2 +1,70 @@
 name = "Benson County"
 fips_code = 38005
+
+[[zipcodes]]
+zipcode = 58301
+percent_zip_in_county = 0.36
+
+[[zipcodes]]
+zipcode = 58325
+percent_zip_in_county = 47.83
+
+[[zipcodes]]
+zipcode = 58332
+percent_zip_in_county = 90.94
+
+[[zipcodes]]
+zipcode = 58335
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58341
+percent_zip_in_county = 0.42
+
+[[zipcodes]]
+zipcode = 58343
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58346
+percent_zip_in_county = 97.85
+
+[[zipcodes]]
+zipcode = 58348
+percent_zip_in_county = 96.7
+
+[[zipcodes]]
+zipcode = 58351
+percent_zip_in_county = 97.49
+
+[[zipcodes]]
+zipcode = 58357
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58368
+percent_zip_in_county = 1.63
+
+[[zipcodes]]
+zipcode = 58370
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58374
+percent_zip_in_county = 43.91
+
+[[zipcodes]]
+zipcode = 58379
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58380
+percent_zip_in_county = 2.94
+
+[[zipcodes]]
+zipcode = 58381
+percent_zip_in_county = 72.24
+
+[[zipcodes]]
+zipcode = 58386
+percent_zip_in_county = 81.34

@@ -1,2 +1,78 @@
 name = "Anoka County"
 fips_code = 27003
+
+[[zipcodes]]
+zipcode = 55005
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55011
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55014
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55025
+percent_zip_in_county = 16.04
+
+[[zipcodes]]
+zipcode = 55038
+percent_zip_in_county = 38.84
+
+[[zipcodes]]
+zipcode = 55070
+percent_zip_in_county = 95.8
+
+[[zipcodes]]
+zipcode = 55079
+percent_zip_in_county = 42.5
+
+[[zipcodes]]
+zipcode = 55092
+percent_zip_in_county = 41.37
+
+[[zipcodes]]
+zipcode = 55110
+percent_zip_in_county = 1.43
+
+[[zipcodes]]
+zipcode = 55126
+percent_zip_in_county = 0.27
+
+[[zipcodes]]
+zipcode = 55303
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55304
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55330
+percent_zip_in_county = 4.75
+
+[[zipcodes]]
+zipcode = 55421
+percent_zip_in_county = 88.16
+
+[[zipcodes]]
+zipcode = 55432
+percent_zip_in_county = 99.41
+
+[[zipcodes]]
+zipcode = 55433
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55434
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55448
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55449
+percent_zip_in_county = 100.0

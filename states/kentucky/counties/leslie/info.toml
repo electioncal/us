@@ -1,2 +1,78 @@
 name = "Leslie County"
 fips_code = 21131
+
+[[zipcodes]]
+zipcode = 40808
+percent_zip_in_county = 38.38
+
+[[zipcodes]]
+zipcode = 40810
+percent_zip_in_county = 14.79
+
+[[zipcodes]]
+zipcode = 40816
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40827
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40840
+percent_zip_in_county = 91.35
+
+[[zipcodes]]
+zipcode = 40844
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40858
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40868
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40874
+percent_zip_in_county = 90.87
+
+[[zipcodes]]
+zipcode = 40979
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41714
+percent_zip_in_county = 98.8
+
+[[zipcodes]]
+zipcode = 41723
+percent_zip_in_county = 17.05
+
+[[zipcodes]]
+zipcode = 41749
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41762
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41764
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41766
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41775
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41776
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41777
+percent_zip_in_county = 100.0

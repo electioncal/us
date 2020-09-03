@@ -1,2 +1,46 @@
 name = "Clay County"
 fips_code = 12019
+
+[[zipcodes]]
+zipcode = 32003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32043
+percent_zip_in_county = 99.3
+
+[[zipcodes]]
+zipcode = 32058
+percent_zip_in_county = 0.66
+
+[[zipcodes]]
+zipcode = 32065
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32068
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32073
+percent_zip_in_county = 99.02
+
+[[zipcodes]]
+zipcode = 32079
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32091
+percent_zip_in_county = 2.88
+
+[[zipcodes]]
+zipcode = 32234
+percent_zip_in_county = 34.82
+
+[[zipcodes]]
+zipcode = 32656
+percent_zip_in_county = 90.62
+
+[[zipcodes]]
+zipcode = 32666
+percent_zip_in_county = 21.11

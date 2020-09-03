@@ -1,2 +1,10 @@
 name = "Cabo Rojo Municipio"
 fips_code = 72023
+
+[[zipcodes]]
+zipcode = 622
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 623
+percent_zip_in_county = 100.0

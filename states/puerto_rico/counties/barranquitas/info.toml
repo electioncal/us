@@ -1,2 +1,6 @@
 name = "Barranquitas Municipio"
 fips_code = 72019
+
+[[zipcodes]]
+zipcode = 794
+percent_zip_in_county = 99.13

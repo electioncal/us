@@ -1,2 +1,6 @@
 name = "Maricao Municipio"
 fips_code = 72093
+
+[[zipcodes]]
+zipcode = 606
+percent_zip_in_county = 94.88

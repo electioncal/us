@@ -1,2 +1,26 @@
 name = "Bailey County"
 fips_code = 48017
+
+[[zipcodes]]
+zipcode = 79324
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79325
+percent_zip_in_county = 0.99
+
+[[zipcodes]]
+zipcode = 79344
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79346
+percent_zip_in_county = 0.91
+
+[[zipcodes]]
+zipcode = 79347
+percent_zip_in_county = 92.62
+
+[[zipcodes]]
+zipcode = 79371
+percent_zip_in_county = 6.99

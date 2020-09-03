@@ -1,2 +1,22 @@
 name = "Camden County"
 fips_code = 37029
+
+[[zipcodes]]
+zipcode = 27909
+percent_zip_in_county = 0.09
+
+[[zipcodes]]
+zipcode = 27921
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27973
+percent_zip_in_county = 30.46
+
+[[zipcodes]]
+zipcode = 27974
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27976
+percent_zip_in_county = 100.0

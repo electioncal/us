@@ -1,2 +1,78 @@
 name = "Taney County"
 fips_code = 29213
+
+[[zipcodes]]
+zipcode = 65608
+percent_zip_in_county = 1.65
+
+[[zipcodes]]
+zipcode = 65611
+percent_zip_in_county = 1.83
+
+[[zipcodes]]
+zipcode = 65614
+percent_zip_in_county = 84.6
+
+[[zipcodes]]
+zipcode = 65616
+percent_zip_in_county = 95.03
+
+[[zipcodes]]
+zipcode = 65627
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65653
+percent_zip_in_county = 96.5
+
+[[zipcodes]]
+zipcode = 65672
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65679
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65680
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65731
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65733
+percent_zip_in_county = 68.75
+
+[[zipcodes]]
+zipcode = 65737
+percent_zip_in_county = 5.08
+
+[[zipcodes]]
+zipcode = 65739
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65740
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65744
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65759
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65761
+percent_zip_in_county = 5.81
+
+[[zipcodes]]
+zipcode = 65771
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72644
+percent_zip_in_county = 0.66

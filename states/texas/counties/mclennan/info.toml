@@ -1,2 +1,106 @@
 name = "McLennan County"
 fips_code = 48309
+
+[[zipcodes]]
+zipcode = 76524
+percent_zip_in_county = 81.03
+
+[[zipcodes]]
+zipcode = 76557
+percent_zip_in_county = 60.2
+
+[[zipcodes]]
+zipcode = 76624
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76630
+percent_zip_in_county = 99.4
+
+[[zipcodes]]
+zipcode = 76633
+percent_zip_in_county = 90.25
+
+[[zipcodes]]
+zipcode = 76638
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76640
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76643
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76654
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76655
+percent_zip_in_county = 92.5
+
+[[zipcodes]]
+zipcode = 76657
+percent_zip_in_county = 98.36
+
+[[zipcodes]]
+zipcode = 76664
+percent_zip_in_county = 88.22
+
+[[zipcodes]]
+zipcode = 76673
+percent_zip_in_county = 0.51
+
+[[zipcodes]]
+zipcode = 76682
+percent_zip_in_county = 78.57
+
+[[zipcodes]]
+zipcode = 76689
+percent_zip_in_county = 28.53
+
+[[zipcodes]]
+zipcode = 76691
+percent_zip_in_county = 98.79
+
+[[zipcodes]]
+zipcode = 76701
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76704
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76705
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76706
+percent_zip_in_county = 99.97
+
+[[zipcodes]]
+zipcode = 76707
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76708
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76710
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76711
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76712
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76798
+percent_zip_in_county = 100.0

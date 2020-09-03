@@ -1,2 +1,22 @@
 name = "Lafayette County"
 fips_code = 5073
+
+[[zipcodes]]
+zipcode = 71826
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71827
+percent_zip_in_county = 79.31
+
+[[zipcodes]]
+zipcode = 71845
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71860
+percent_zip_in_county = 92.1
+
+[[zipcodes]]
+zipcode = 71861
+percent_zip_in_county = 38.53

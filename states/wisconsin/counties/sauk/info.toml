@@ -1,2 +1,70 @@
 name = "Sauk County"
 fips_code = 55111
+
+[[zipcodes]]
+zipcode = 53556
+percent_zip_in_county = 12.03
+
+[[zipcodes]]
+zipcode = 53561
+percent_zip_in_county = 84.3
+
+[[zipcodes]]
+zipcode = 53577
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53578
+percent_zip_in_county = 88.28
+
+[[zipcodes]]
+zipcode = 53583
+percent_zip_in_county = 73.74
+
+[[zipcodes]]
+zipcode = 53588
+percent_zip_in_county = 90.61
+
+[[zipcodes]]
+zipcode = 53913
+percent_zip_in_county = 99.96
+
+[[zipcodes]]
+zipcode = 53924
+percent_zip_in_county = 2.94
+
+[[zipcodes]]
+zipcode = 53937
+percent_zip_in_county = 85.28
+
+[[zipcodes]]
+zipcode = 53941
+percent_zip_in_county = 98.36
+
+[[zipcodes]]
+zipcode = 53943
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53944
+percent_zip_in_county = 7.91
+
+[[zipcodes]]
+zipcode = 53951
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53959
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53961
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53965
+percent_zip_in_county = 33.71
+
+[[zipcodes]]
+zipcode = 53968
+percent_zip_in_county = 21.6

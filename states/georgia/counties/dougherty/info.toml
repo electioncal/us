@@ -1,2 +1,26 @@
 name = "Dougherty County"
 fips_code = 13095
+
+[[zipcodes]]
+zipcode = 31701
+percent_zip_in_county = 96.27
+
+[[zipcodes]]
+zipcode = 31705
+percent_zip_in_county = 91.35
+
+[[zipcodes]]
+zipcode = 31707
+percent_zip_in_county = 96.61
+
+[[zipcodes]]
+zipcode = 31721
+percent_zip_in_county = 88.25
+
+[[zipcodes]]
+zipcode = 31763
+percent_zip_in_county = 0.31
+
+[[zipcodes]]
+zipcode = 31791
+percent_zip_in_county = 0.35

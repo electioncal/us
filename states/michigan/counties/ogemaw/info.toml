@@ -1,2 +1,34 @@
 name = "Ogemaw County"
 fips_code = 26129
+
+[[zipcodes]]
+zipcode = 48610
+percent_zip_in_county = 38.01
+
+[[zipcodes]]
+zipcode = 48624
+percent_zip_in_county = 0.97
+
+[[zipcodes]]
+zipcode = 48635
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48654
+percent_zip_in_county = 89.96
+
+[[zipcodes]]
+zipcode = 48661
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48739
+percent_zip_in_county = 22.8
+
+[[zipcodes]]
+zipcode = 48756
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48761
+percent_zip_in_county = 27.19

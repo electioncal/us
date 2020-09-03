@@ -1,2 +1,18 @@
 name = "Elbert County"
 fips_code = 13105
+
+[[zipcodes]]
+zipcode = 30624
+percent_zip_in_county = 89.31
+
+[[zipcodes]]
+zipcode = 30634
+percent_zip_in_county = 74.35
+
+[[zipcodes]]
+zipcode = 30635
+percent_zip_in_county = 99.64
+
+[[zipcodes]]
+zipcode = 30662
+percent_zip_in_county = 1.02

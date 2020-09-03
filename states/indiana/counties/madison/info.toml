@@ -1,2 +1,74 @@
 name = "Madison County"
 fips_code = 18095
+
+[[zipcodes]]
+zipcode = 46001
+percent_zip_in_county = 99.35
+
+[[zipcodes]]
+zipcode = 46011
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46012
+percent_zip_in_county = 99.23
+
+[[zipcodes]]
+zipcode = 46013
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46016
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46017
+percent_zip_in_county = 99.17
+
+[[zipcodes]]
+zipcode = 46036
+percent_zip_in_county = 93.51
+
+[[zipcodes]]
+zipcode = 46040
+percent_zip_in_county = 8.48
+
+[[zipcodes]]
+zipcode = 46044
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46048
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46056
+percent_zip_in_county = 95.24
+
+[[zipcodes]]
+zipcode = 46060
+percent_zip_in_county = 0.11
+
+[[zipcodes]]
+zipcode = 46063
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46064
+percent_zip_in_county = 97.82
+
+[[zipcodes]]
+zipcode = 46070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46928
+percent_zip_in_county = 0.65
+
+[[zipcodes]]
+zipcode = 47356
+percent_zip_in_county = 7.85

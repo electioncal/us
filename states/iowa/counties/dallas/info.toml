@@ -1,2 +1,102 @@
 name = "Dallas County"
 fips_code = 19049
+
+[[zipcodes]]
+zipcode = 50003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50038
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50061
+percent_zip_in_county = 28.34
+
+[[zipcodes]]
+zipcode = 50063
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50066
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50069
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50070
+percent_zip_in_county = 47.75
+
+[[zipcodes]]
+zipcode = 50072
+percent_zip_in_county = 23.44
+
+[[zipcodes]]
+zipcode = 50109
+percent_zip_in_county = 52.61
+
+[[zipcodes]]
+zipcode = 50111
+percent_zip_in_county = 1.83
+
+[[zipcodes]]
+zipcode = 50128
+percent_zip_in_county = 6.67
+
+[[zipcodes]]
+zipcode = 50146
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50156
+percent_zip_in_county = 2.31
+
+[[zipcodes]]
+zipcode = 50167
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50220
+percent_zip_in_county = 94.61
+
+[[zipcodes]]
+zipcode = 50233
+percent_zip_in_county = 92.65
+
+[[zipcodes]]
+zipcode = 50235
+percent_zip_in_county = 2.48
+
+[[zipcodes]]
+zipcode = 50261
+percent_zip_in_county = 66.03
+
+[[zipcodes]]
+zipcode = 50263
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50266
+percent_zip_in_county = 43.73
+
+[[zipcodes]]
+zipcode = 50276
+percent_zip_in_county = 61.3
+
+[[zipcodes]]
+zipcode = 50277
+percent_zip_in_county = 10.35
+
+[[zipcodes]]
+zipcode = 50323
+percent_zip_in_county = 61.39
+
+[[zipcodes]]
+zipcode = 50325
+percent_zip_in_county = 30.55

@@ -1,2 +1,46 @@
 name = "Pulaski County"
 fips_code = 18131
+
+[[zipcodes]]
+zipcode = 46366
+percent_zip_in_county = 2.92
+
+[[zipcodes]]
+zipcode = 46374
+percent_zip_in_county = 6.72
+
+[[zipcodes]]
+zipcode = 46511
+percent_zip_in_county = 1.94
+
+[[zipcodes]]
+zipcode = 46939
+percent_zip_in_county = 5.62
+
+[[zipcodes]]
+zipcode = 46960
+percent_zip_in_county = 62.07
+
+[[zipcodes]]
+zipcode = 46968
+percent_zip_in_county = 9.59
+
+[[zipcodes]]
+zipcode = 46978
+percent_zip_in_county = 1.21
+
+[[zipcodes]]
+zipcode = 46985
+percent_zip_in_county = 97.43
+
+[[zipcodes]]
+zipcode = 46996
+percent_zip_in_county = 99.48
+
+[[zipcodes]]
+zipcode = 47946
+percent_zip_in_county = 93.05
+
+[[zipcodes]]
+zipcode = 47957
+percent_zip_in_county = 93.19

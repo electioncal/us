@@ -1,2 +1,30 @@
 name = "Dukes County"
 fips_code = 25007
+
+[[zipcodes]]
+zipcode = 2535
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2539
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2543
+percent_zip_in_county = 3.62
+
+[[zipcodes]]
+zipcode = 2557
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2568
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2575
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2713
+percent_zip_in_county = 100.0

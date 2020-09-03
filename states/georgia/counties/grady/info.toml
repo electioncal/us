@@ -1,2 +1,26 @@
 name = "Grady County"
 fips_code = 13131
+
+[[zipcodes]]
+zipcode = 31773
+percent_zip_in_county = 21.43
+
+[[zipcodes]]
+zipcode = 31779
+percent_zip_in_county = 12.44
+
+[[zipcodes]]
+zipcode = 31792
+percent_zip_in_county = 2.58
+
+[[zipcodes]]
+zipcode = 39827
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39828
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39897
+percent_zip_in_county = 98.28

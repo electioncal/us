@@ -1,2 +1,14 @@
 name = "Jackson County"
 fips_code = 8057
+
+[[zipcodes]]
+zipcode = 80434
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80473
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80480
+percent_zip_in_county = 100.0

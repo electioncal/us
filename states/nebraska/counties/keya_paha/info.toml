@@ -1,2 +1,26 @@
 name = "Keya Paha County"
 fips_code = 31103
+
+[[zipcodes]]
+zipcode = 68753
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68759
+percent_zip_in_county = 26.78
+
+[[zipcodes]]
+zipcode = 68778
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69201
+percent_zip_in_county = 0.67
+
+[[zipcodes]]
+zipcode = 69210
+percent_zip_in_county = 0.48
+
+[[zipcodes]]
+zipcode = 69220
+percent_zip_in_county = 38.98

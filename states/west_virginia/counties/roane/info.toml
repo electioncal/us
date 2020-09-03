@@ -1,2 +1,54 @@
 name = "Roane County"
 fips_code = 54087
+
+[[zipcodes]]
+zipcode = 25005
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25045
+percent_zip_in_county = 13.1
+
+[[zipcodes]]
+zipcode = 25071
+percent_zip_in_county = 1.07
+
+[[zipcodes]]
+zipcode = 25164
+percent_zip_in_county = 19.01
+
+[[zipcodes]]
+zipcode = 25243
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25244
+percent_zip_in_county = 12.02
+
+[[zipcodes]]
+zipcode = 25251
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25252
+percent_zip_in_county = 19.61
+
+[[zipcodes]]
+zipcode = 25259
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25266
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25270
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25276
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25286
+percent_zip_in_county = 100.0

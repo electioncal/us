@@ -1,2 +1,58 @@
 name = "Bartow County"
 fips_code = 13015
+
+[[zipcodes]]
+zipcode = 30101
+percent_zip_in_county = 2.03
+
+[[zipcodes]]
+zipcode = 30102
+percent_zip_in_county = 17.88
+
+[[zipcodes]]
+zipcode = 30103
+percent_zip_in_county = 74.89
+
+[[zipcodes]]
+zipcode = 30104
+percent_zip_in_county = 4.35
+
+[[zipcodes]]
+zipcode = 30120
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30121
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30137
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30139
+percent_zip_in_county = 8.84
+
+[[zipcodes]]
+zipcode = 30145
+percent_zip_in_county = 76.87
+
+[[zipcodes]]
+zipcode = 30161
+percent_zip_in_county = 0.37
+
+[[zipcodes]]
+zipcode = 30171
+percent_zip_in_county = 91.01
+
+[[zipcodes]]
+zipcode = 30178
+percent_zip_in_county = 94.29
+
+[[zipcodes]]
+zipcode = 30183
+percent_zip_in_county = 0.64
+
+[[zipcodes]]
+zipcode = 30184
+percent_zip_in_county = 85.83

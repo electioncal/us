@@ -1,2 +1,46 @@
 name = "Lewis County"
 fips_code = 29111
+
+[[zipcodes]]
+zipcode = 63435
+percent_zip_in_county = 90.87
+
+[[zipcodes]]
+zipcode = 63438
+percent_zip_in_county = 76.61
+
+[[zipcodes]]
+zipcode = 63440
+percent_zip_in_county = 88.42
+
+[[zipcodes]]
+zipcode = 63446
+percent_zip_in_county = 3.47
+
+[[zipcodes]]
+zipcode = 63447
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63448
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63452
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63454
+percent_zip_in_county = 38.9
+
+[[zipcodes]]
+zipcode = 63457
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63471
+percent_zip_in_county = 9.39
+
+[[zipcodes]]
+zipcode = 63473
+percent_zip_in_county = 63.74

@@ -1,2 +1,26 @@
 name = "Baldwin County"
 fips_code = 13009
+
+[[zipcodes]]
+zipcode = 31031
+percent_zip_in_county = 23.75
+
+[[zipcodes]]
+zipcode = 31033
+percent_zip_in_county = 14.62
+
+[[zipcodes]]
+zipcode = 31061
+percent_zip_in_county = 98.02
+
+[[zipcodes]]
+zipcode = 31062
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31082
+percent_zip_in_county = 0.36
+
+[[zipcodes]]
+zipcode = 31087
+percent_zip_in_county = 3.62

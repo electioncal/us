@@ -1,2 +1,78 @@
 name = "Crow Wing County"
 fips_code = 27035
+
+[[zipcodes]]
+zipcode = 56338
+percent_zip_in_county = 8.57
+
+[[zipcodes]]
+zipcode = 56364
+percent_zip_in_county = 1.66
+
+[[zipcodes]]
+zipcode = 56401
+percent_zip_in_county = 94.28
+
+[[zipcodes]]
+zipcode = 56425
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56431
+percent_zip_in_county = 7.48
+
+[[zipcodes]]
+zipcode = 56435
+percent_zip_in_county = 0.21
+
+[[zipcodes]]
+zipcode = 56441
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56442
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56444
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56447
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56448
+percent_zip_in_county = 92.47
+
+[[zipcodes]]
+zipcode = 56449
+percent_zip_in_county = 76.43
+
+[[zipcodes]]
+zipcode = 56450
+percent_zip_in_county = 61.75
+
+[[zipcodes]]
+zipcode = 56455
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56456
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56465
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56468
+percent_zip_in_county = 70.3
+
+[[zipcodes]]
+zipcode = 56472
+percent_zip_in_county = 83.07
+
+[[zipcodes]]
+zipcode = 56474
+percent_zip_in_county = 15.55

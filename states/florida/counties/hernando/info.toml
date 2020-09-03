@@ -1,2 +1,50 @@
 name = "Hernando County"
 fips_code = 12053
+
+[[zipcodes]]
+zipcode = 33523
+percent_zip_in_county = 23.94
+
+[[zipcodes]]
+zipcode = 33597
+percent_zip_in_county = 16.65
+
+[[zipcodes]]
+zipcode = 34601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34602
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34604
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34606
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34607
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34608
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34609
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34613
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34614
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34661
+percent_zip_in_county = 100.0

@@ -1,2 +1,34 @@
 name = "Adams County"
 fips_code = 18001
+
+[[zipcodes]]
+zipcode = 46711
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46714
+percent_zip_in_county = 2.85
+
+[[zipcodes]]
+zipcode = 46733
+percent_zip_in_county = 99.25
+
+[[zipcodes]]
+zipcode = 46740
+percent_zip_in_county = 97.04
+
+[[zipcodes]]
+zipcode = 46772
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46773
+percent_zip_in_county = 4.34
+
+[[zipcodes]]
+zipcode = 46777
+percent_zip_in_county = 1.01
+
+[[zipcodes]]
+zipcode = 47326
+percent_zip_in_county = 2.7

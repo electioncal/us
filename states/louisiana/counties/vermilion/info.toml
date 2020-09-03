@@ -1,2 +1,46 @@
 name = "Vermilion Parish"
 fips_code = 22113
+
+[[zipcodes]]
+zipcode = 70510
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70526
+percent_zip_in_county = 0.46
+
+[[zipcodes]]
+zipcode = 70528
+percent_zip_in_county = 78.53
+
+[[zipcodes]]
+zipcode = 70533
+percent_zip_in_county = 98.67
+
+[[zipcodes]]
+zipcode = 70542
+percent_zip_in_county = 94.93
+
+[[zipcodes]]
+zipcode = 70548
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70555
+percent_zip_in_county = 96.36
+
+[[zipcodes]]
+zipcode = 70560
+percent_zip_in_county = 1.53
+
+[[zipcodes]]
+zipcode = 70575
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70578
+percent_zip_in_county = 5.5
+
+[[zipcodes]]
+zipcode = 70592
+percent_zip_in_county = 6.2

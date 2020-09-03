@@ -1,2 +1,46 @@
 name = "Newton County"
 fips_code = 48351
+
+[[zipcodes]]
+zipcode = 75928
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75932
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75933
+percent_zip_in_county = 70.79
+
+[[zipcodes]]
+zipcode = 75948
+percent_zip_in_county = 0.35
+
+[[zipcodes]]
+zipcode = 75951
+percent_zip_in_county = 0.02
+
+[[zipcodes]]
+zipcode = 75956
+percent_zip_in_county = 8.11
+
+[[zipcodes]]
+zipcode = 75966
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75977
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77612
+percent_zip_in_county = 8.19
+
+[[zipcodes]]
+zipcode = 77614
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77632
+percent_zip_in_county = 10.4

@@ -1,2 +1,82 @@
 name = "Creek County"
 fips_code = 40037
+
+[[zipcodes]]
+zipcode = 74010
+percent_zip_in_county = 99.78
+
+[[zipcodes]]
+zipcode = 74028
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74030
+percent_zip_in_county = 93.53
+
+[[zipcodes]]
+zipcode = 74038
+percent_zip_in_county = 39.84
+
+[[zipcodes]]
+zipcode = 74039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74044
+percent_zip_in_county = 89.99
+
+[[zipcodes]]
+zipcode = 74046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74047
+percent_zip_in_county = 34.12
+
+[[zipcodes]]
+zipcode = 74050
+percent_zip_in_county = 82.04
+
+[[zipcodes]]
+zipcode = 74052
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74063
+percent_zip_in_county = 2.17
+
+[[zipcodes]]
+zipcode = 74066
+percent_zip_in_county = 96.3
+
+[[zipcodes]]
+zipcode = 74068
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74071
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74079
+percent_zip_in_county = 7.55
+
+[[zipcodes]]
+zipcode = 74081
+percent_zip_in_county = 8.71
+
+[[zipcodes]]
+zipcode = 74085
+percent_zip_in_county = 0.19
+
+[[zipcodes]]
+zipcode = 74131
+percent_zip_in_county = 99.1
+
+[[zipcodes]]
+zipcode = 74132
+percent_zip_in_county = 33.09

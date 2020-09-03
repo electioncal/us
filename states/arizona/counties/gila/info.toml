@@ -1,2 +1,50 @@
 name = "Gila County"
 fips_code = 4007
+
+[[zipcodes]]
+zipcode = 85135
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85192
+percent_zip_in_county = 32.74
+
+[[zipcodes]]
+zipcode = 85501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85539
+percent_zip_in_county = 94.89
+
+[[zipcodes]]
+zipcode = 85541
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85542
+percent_zip_in_county = 15.58
+
+[[zipcodes]]
+zipcode = 85544
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85545
+percent_zip_in_county = 97.43
+
+[[zipcodes]]
+zipcode = 85550
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85553
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85554
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85941
+percent_zip_in_county = 16.88

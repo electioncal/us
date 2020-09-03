@@ -1,2 +1,30 @@
 name = "Whitley County"
 fips_code = 21235
+
+[[zipcodes]]
+zipcode = 40701
+percent_zip_in_county = 46.25
+
+[[zipcodes]]
+zipcode = 40759
+percent_zip_in_county = 94.63
+
+[[zipcodes]]
+zipcode = 40763
+percent_zip_in_county = 97.65
+
+[[zipcodes]]
+zipcode = 40769
+percent_zip_in_county = 98.56
+
+[[zipcodes]]
+zipcode = 40771
+percent_zip_in_county = 41.95
+
+[[zipcodes]]
+zipcode = 40906
+percent_zip_in_county = 1.63
+
+[[zipcodes]]
+zipcode = 40940
+percent_zip_in_county = 56.69

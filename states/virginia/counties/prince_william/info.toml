@@ -1,2 +1,74 @@
 name = "Prince William County"
 fips_code = 51153
+
+[[zipcodes]]
+zipcode = 20109
+percent_zip_in_county = 99.72
+
+[[zipcodes]]
+zipcode = 20110
+percent_zip_in_county = 14.04
+
+[[zipcodes]]
+zipcode = 20111
+percent_zip_in_county = 53.34
+
+[[zipcodes]]
+zipcode = 20112
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20136
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20137
+percent_zip_in_county = 32.19
+
+[[zipcodes]]
+zipcode = 20143
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20155
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20169
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20181
+percent_zip_in_county = 90.16
+
+[[zipcodes]]
+zipcode = 22025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22026
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22125
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22134
+percent_zip_in_county = 71.87
+
+[[zipcodes]]
+zipcode = 22172
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22191
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22192
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22193
+percent_zip_in_county = 100.0

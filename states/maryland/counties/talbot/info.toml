@@ -1,2 +1,66 @@
 name = "Talbot County"
 fips_code = 24041
+
+[[zipcodes]]
+zipcode = 21601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21612
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21624
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21625
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21647
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21652
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21653
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21654
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21657
+percent_zip_in_county = 11.07
+
+[[zipcodes]]
+zipcode = 21662
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21663
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21665
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21671
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21673
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21676
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21679
+percent_zip_in_county = 100.0

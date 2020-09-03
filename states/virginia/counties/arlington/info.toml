@@ -1,2 +1,50 @@
 name = "Arlington County"
 fips_code = 51013
+
+[[zipcodes]]
+zipcode = 22101
+percent_zip_in_county = 0.12
+
+[[zipcodes]]
+zipcode = 22201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22202
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22203
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22204
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22205
+percent_zip_in_county = 99.9
+
+[[zipcodes]]
+zipcode = 22206
+percent_zip_in_county = 98.08
+
+[[zipcodes]]
+zipcode = 22207
+percent_zip_in_county = 99.72
+
+[[zipcodes]]
+zipcode = 22209
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22211
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22213
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22214
+percent_zip_in_county = 0.0

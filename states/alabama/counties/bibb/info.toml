@@ -1,2 +1,50 @@
 name = "Bibb County"
 fips_code = 1007
+
+[[zipcodes]]
+zipcode = 35034
+percent_zip_in_county = 98.99
+
+[[zipcodes]]
+zipcode = 35035
+percent_zip_in_county = 98.73
+
+[[zipcodes]]
+zipcode = 35042
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35074
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35111
+percent_zip_in_county = 2.24
+
+[[zipcodes]]
+zipcode = 35115
+percent_zip_in_county = 0.76
+
+[[zipcodes]]
+zipcode = 35184
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35188
+percent_zip_in_county = 91.79
+
+[[zipcodes]]
+zipcode = 35456
+percent_zip_in_county = 0.43
+
+[[zipcodes]]
+zipcode = 36750
+percent_zip_in_county = 1.93
+
+[[zipcodes]]
+zipcode = 36792
+percent_zip_in_county = 61.08
+
+[[zipcodes]]
+zipcode = 36793
+percent_zip_in_county = 62.68

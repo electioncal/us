@@ -1,2 +1,62 @@
 name = "Iron County"
 fips_code = 29093
+
+[[zipcodes]]
+zipcode = 63620
+percent_zip_in_county = 84.0
+
+[[zipcodes]]
+zipcode = 63621
+percent_zip_in_county = 97.07
+
+[[zipcodes]]
+zipcode = 63623
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63624
+percent_zip_in_county = 3.25
+
+[[zipcodes]]
+zipcode = 63625
+percent_zip_in_county = 9.41
+
+[[zipcodes]]
+zipcode = 63631
+percent_zip_in_county = 19.91
+
+[[zipcodes]]
+zipcode = 63636
+percent_zip_in_county = 87.66
+
+[[zipcodes]]
+zipcode = 63650
+percent_zip_in_county = 88.39
+
+[[zipcodes]]
+zipcode = 63654
+percent_zip_in_county = 2.97
+
+[[zipcodes]]
+zipcode = 63656
+percent_zip_in_county = 84.75
+
+[[zipcodes]]
+zipcode = 63663
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63675
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65439
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65565
+percent_zip_in_county = 1.2
+
+[[zipcodes]]
+zipcode = 65566
+percent_zip_in_county = 100.0

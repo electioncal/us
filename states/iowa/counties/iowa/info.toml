@@ -1,2 +1,78 @@
 name = "Iowa County"
 fips_code = 19095
+
+[[zipcodes]]
+zipcode = 50136
+percent_zip_in_county = 2.25
+
+[[zipcodes]]
+zipcode = 52203
+percent_zip_in_county = 92.34
+
+[[zipcodes]]
+zipcode = 52208
+percent_zip_in_county = 5.33
+
+[[zipcodes]]
+zipcode = 52220
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52221
+percent_zip_in_county = 10.86
+
+[[zipcodes]]
+zipcode = 52222
+percent_zip_in_county = 17.07
+
+[[zipcodes]]
+zipcode = 52236
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52251
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52301
+percent_zip_in_county = 98.89
+
+[[zipcodes]]
+zipcode = 52307
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52308
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52316
+percent_zip_in_county = 99.4
+
+[[zipcodes]]
+zipcode = 52318
+percent_zip_in_county = 9.97
+
+[[zipcodes]]
+zipcode = 52325
+percent_zip_in_county = 94.96
+
+[[zipcodes]]
+zipcode = 52334
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52347
+percent_zip_in_county = 79.43
+
+[[zipcodes]]
+zipcode = 52355
+percent_zip_in_county = 6.5
+
+[[zipcodes]]
+zipcode = 52356
+percent_zip_in_county = 8.28
+
+[[zipcodes]]
+zipcode = 52361
+percent_zip_in_county = 100.0

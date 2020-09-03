@@ -1,2 +1,10 @@
 name = "Lajas Municipio"
 fips_code = 72079
+
+[[zipcodes]]
+zipcode = 647
+percent_zip_in_county = 1.12
+
+[[zipcodes]]
+zipcode = 667
+percent_zip_in_county = 98.91

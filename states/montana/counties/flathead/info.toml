@@ -1,2 +1,66 @@
 name = "Flathead County"
 fips_code = 30029
+
+[[zipcodes]]
+zipcode = 59845
+percent_zip_in_county = 1.77
+
+[[zipcodes]]
+zipcode = 59901
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59911
+percent_zip_in_county = 65.6
+
+[[zipcodes]]
+zipcode = 59912
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59913
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59916
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59919
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59920
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59922
+percent_zip_in_county = 97.47
+
+[[zipcodes]]
+zipcode = 59925
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59926
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59927
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59928
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59932
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59936
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59937
+percent_zip_in_county = 100.0

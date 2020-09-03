@@ -1,2 +1,38 @@
 name = "Greenwood County"
 fips_code = 45047
+
+[[zipcodes]]
+zipcode = 29138
+percent_zip_in_county = 1.54
+
+[[zipcodes]]
+zipcode = 29638
+percent_zip_in_county = 16.13
+
+[[zipcodes]]
+zipcode = 29646
+percent_zip_in_county = 99.51
+
+[[zipcodes]]
+zipcode = 29649
+percent_zip_in_county = 99.06
+
+[[zipcodes]]
+zipcode = 29653
+percent_zip_in_county = 97.26
+
+[[zipcodes]]
+zipcode = 29666
+percent_zip_in_county = 96.93
+
+[[zipcodes]]
+zipcode = 29692
+percent_zip_in_county = 41.08
+
+[[zipcodes]]
+zipcode = 29819
+percent_zip_in_county = 94.48
+
+[[zipcodes]]
+zipcode = 29848
+percent_zip_in_county = 67.51

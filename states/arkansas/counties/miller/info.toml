@@ -1,2 +1,22 @@
 name = "Miller County"
 fips_code = 5091
+
+[[zipcodes]]
+zipcode = 71834
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71837
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71839
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71854
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75556
+percent_zip_in_county = 2.29

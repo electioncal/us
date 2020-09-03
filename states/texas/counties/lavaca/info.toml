@@ -1,2 +1,26 @@
 name = "Lavaca County"
 fips_code = 48285
+
+[[zipcodes]]
+zipcode = 77964
+percent_zip_in_county = 99.31
+
+[[zipcodes]]
+zipcode = 77975
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77984
+percent_zip_in_county = 90.17
+
+[[zipcodes]]
+zipcode = 77987
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77995
+percent_zip_in_county = 56.86
+
+[[zipcodes]]
+zipcode = 78956
+percent_zip_in_county = 7.66

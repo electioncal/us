@@ -1,2 +1,62 @@
 name = "Shenandoah County"
 fips_code = 51171
+
+[[zipcodes]]
+zipcode = 22641
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22644
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22652
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22654
+percent_zip_in_county = 18.28
+
+[[zipcodes]]
+zipcode = 22657
+percent_zip_in_county = 92.24
+
+[[zipcodes]]
+zipcode = 22660
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22664
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22810
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22815
+percent_zip_in_county = 0.34
+
+[[zipcodes]]
+zipcode = 22824
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22842
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22844
+percent_zip_in_county = 94.5
+
+[[zipcodes]]
+zipcode = 22845
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22847
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22853
+percent_zip_in_county = 0.94

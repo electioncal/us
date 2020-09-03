@@ -1,2 +1,34 @@
 name = "Dent County"
 fips_code = 29065
+
+[[zipcodes]]
+zipcode = 63629
+percent_zip_in_county = 20.85
+
+[[zipcodes]]
+zipcode = 65401
+percent_zip_in_county = 1.57
+
+[[zipcodes]]
+zipcode = 65440
+percent_zip_in_county = 70.02
+
+[[zipcodes]]
+zipcode = 65462
+percent_zip_in_county = 8.1
+
+[[zipcodes]]
+zipcode = 65501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65541
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65542
+percent_zip_in_county = 2.13
+
+[[zipcodes]]
+zipcode = 65560
+percent_zip_in_county = 96.11

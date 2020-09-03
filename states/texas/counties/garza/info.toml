@@ -1,2 +1,14 @@
 name = "Garza County"
 fips_code = 48169
+
+[[zipcodes]]
+zipcode = 79330
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79356
+percent_zip_in_county = 98.13
+
+[[zipcodes]]
+zipcode = 79364
+percent_zip_in_county = 1.26

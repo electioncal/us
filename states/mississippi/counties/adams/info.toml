@@ -1,2 +1,10 @@
 name = "Adams County"
 fips_code = 28001
+
+[[zipcodes]]
+zipcode = 39120
+percent_zip_in_county = 97.76
+
+[[zipcodes]]
+zipcode = 39661
+percent_zip_in_county = 22.92

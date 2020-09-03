@@ -1,2 +1,42 @@
 name = "Allen County"
 fips_code = 20001
+
+[[zipcodes]]
+zipcode = 66015
+percent_zip_in_county = 8.44
+
+[[zipcodes]]
+zipcode = 66039
+percent_zip_in_county = 0.32
+
+[[zipcodes]]
+zipcode = 66716
+percent_zip_in_county = 10.93
+
+[[zipcodes]]
+zipcode = 66720
+percent_zip_in_county = 1.04
+
+[[zipcodes]]
+zipcode = 66732
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66748
+percent_zip_in_county = 94.95
+
+[[zipcodes]]
+zipcode = 66749
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66751
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66755
+percent_zip_in_county = 97.28
+
+[[zipcodes]]
+zipcode = 66772
+percent_zip_in_county = 100.0

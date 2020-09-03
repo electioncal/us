@@ -1,2 +1,58 @@
 name = "Morgan County"
 fips_code = 29141
+
+[[zipcodes]]
+zipcode = 65011
+percent_zip_in_county = 96.08
+
+[[zipcodes]]
+zipcode = 65026
+percent_zip_in_county = 0.41
+
+[[zipcodes]]
+zipcode = 65034
+percent_zip_in_county = 55.52
+
+[[zipcodes]]
+zipcode = 65037
+percent_zip_in_county = 80.66
+
+[[zipcodes]]
+zipcode = 65072
+percent_zip_in_county = 80.62
+
+[[zipcodes]]
+zipcode = 65078
+percent_zip_in_county = 99.65
+
+[[zipcodes]]
+zipcode = 65079
+percent_zip_in_county = 6.05
+
+[[zipcodes]]
+zipcode = 65081
+percent_zip_in_county = 2.6
+
+[[zipcodes]]
+zipcode = 65084
+percent_zip_in_county = 99.07
+
+[[zipcodes]]
+zipcode = 65329
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65345
+percent_zip_in_county = 18.86
+
+[[zipcodes]]
+zipcode = 65348
+percent_zip_in_county = 19.33
+
+[[zipcodes]]
+zipcode = 65350
+percent_zip_in_county = 7.08
+
+[[zipcodes]]
+zipcode = 65354
+percent_zip_in_county = 92.2

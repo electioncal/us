@@ -1,2 +1,14 @@
 name = "Petersburg Borough"
 fips_code = 2195
+
+[[zipcodes]]
+zipcode = 99830
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99833
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99836
+percent_zip_in_county = 100.0

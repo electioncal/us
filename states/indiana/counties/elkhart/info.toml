@@ -1,2 +1,66 @@
 name = "Elkhart County"
 fips_code = 18039
+
+[[zipcodes]]
+zipcode = 46507
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46514
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46516
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46517
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46526
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46528
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46530
+percent_zip_in_county = 6.03
+
+[[zipcodes]]
+zipcode = 46540
+percent_zip_in_county = 92.46
+
+[[zipcodes]]
+zipcode = 46542
+percent_zip_in_county = 4.72
+
+[[zipcodes]]
+zipcode = 46543
+percent_zip_in_county = 68.25
+
+[[zipcodes]]
+zipcode = 46550
+percent_zip_in_county = 74.75
+
+[[zipcodes]]
+zipcode = 46553
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46561
+percent_zip_in_county = 12.82
+
+[[zipcodes]]
+zipcode = 46567
+percent_zip_in_county = 12.82
+
+[[zipcodes]]
+zipcode = 46573
+percent_zip_in_county = 85.92
+
+[[zipcodes]]
+zipcode = 46767
+percent_zip_in_county = 1.87

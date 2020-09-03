@@ -1,2 +1,42 @@
 name = "Lake County"
 fips_code = 26085
+
+[[zipcodes]]
+zipcode = 49304
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49309
+percent_zip_in_county = 3.2
+
+[[zipcodes]]
+zipcode = 49402
+percent_zip_in_county = 29.71
+
+[[zipcodes]]
+zipcode = 49623
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49642
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49644
+percent_zip_in_county = 94.05
+
+[[zipcodes]]
+zipcode = 49655
+percent_zip_in_county = 5.48
+
+[[zipcodes]]
+zipcode = 49656
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49677
+percent_zip_in_county = 14.49
+
+[[zipcodes]]
+zipcode = 49688
+percent_zip_in_county = 5.73

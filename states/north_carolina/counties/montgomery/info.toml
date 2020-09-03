@@ -1,2 +1,34 @@
 name = "Montgomery County"
 fips_code = 37123
+
+[[zipcodes]]
+zipcode = 27209
+percent_zip_in_county = 92.22
+
+[[zipcodes]]
+zipcode = 27229
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27281
+percent_zip_in_county = 45.55
+
+[[zipcodes]]
+zipcode = 27306
+percent_zip_in_county = 94.82
+
+[[zipcodes]]
+zipcode = 27341
+percent_zip_in_county = 10.3
+
+[[zipcodes]]
+zipcode = 27356
+percent_zip_in_county = 90.55
+
+[[zipcodes]]
+zipcode = 27371
+percent_zip_in_county = 97.43
+
+[[zipcodes]]
+zipcode = 28127
+percent_zip_in_county = 21.03

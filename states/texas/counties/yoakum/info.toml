@@ -1,2 +1,18 @@
 name = "Yoakum County"
 fips_code = 48501
+
+[[zipcodes]]
+zipcode = 79323
+percent_zip_in_county = 87.99
+
+[[zipcodes]]
+zipcode = 79355
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79359
+percent_zip_in_county = 2.45
+
+[[zipcodes]]
+zipcode = 79376
+percent_zip_in_county = 100.0

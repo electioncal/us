@@ -1,2 +1,50 @@
 name = "Overton County"
 fips_code = 47133
+
+[[zipcodes]]
+zipcode = 38501
+percent_zip_in_county = 0.08
+
+[[zipcodes]]
+zipcode = 38506
+percent_zip_in_county = 12.68
+
+[[zipcodes]]
+zipcode = 38541
+percent_zip_in_county = 65.78
+
+[[zipcodes]]
+zipcode = 38542
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38543
+percent_zip_in_county = 83.04
+
+[[zipcodes]]
+zipcode = 38554
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38568
+percent_zip_in_county = 65.29
+
+[[zipcodes]]
+zipcode = 38570
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38573
+percent_zip_in_county = 73.34
+
+[[zipcodes]]
+zipcode = 38574
+percent_zip_in_county = 19.08
+
+[[zipcodes]]
+zipcode = 38580
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38589
+percent_zip_in_county = 64.0

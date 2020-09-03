@@ -1,2 +1,42 @@
 name = "Randolph County"
 fips_code = 29175
+
+[[zipcodes]]
+zipcode = 65230
+percent_zip_in_county = 8.68
+
+[[zipcodes]]
+zipcode = 65239
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65243
+percent_zip_in_county = 43.26
+
+[[zipcodes]]
+zipcode = 65244
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65257
+percent_zip_in_county = 80.5
+
+[[zipcodes]]
+zipcode = 65259
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65260
+percent_zip_in_county = 87.8
+
+[[zipcodes]]
+zipcode = 65263
+percent_zip_in_county = 1.95
+
+[[zipcodes]]
+zipcode = 65270
+percent_zip_in_county = 99.75
+
+[[zipcodes]]
+zipcode = 65278
+percent_zip_in_county = 100.0

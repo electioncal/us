@@ -1,2 +1,38 @@
 name = "Rabun County"
 fips_code = 13241
+
+[[zipcodes]]
+zipcode = 30523
+percent_zip_in_county = 1.81
+
+[[zipcodes]]
+zipcode = 30525
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30537
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30552
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30562
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30568
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30573
+percent_zip_in_county = 82.21
+
+[[zipcodes]]
+zipcode = 30576
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30581
+percent_zip_in_county = 100.0

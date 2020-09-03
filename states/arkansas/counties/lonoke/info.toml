@@ -1,2 +1,50 @@
 name = "Lonoke County"
 fips_code = 5085
+
+[[zipcodes]]
+zipcode = 72007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72023
+percent_zip_in_county = 89.88
+
+[[zipcodes]]
+zipcode = 72024
+percent_zip_in_county = 93.83
+
+[[zipcodes]]
+zipcode = 72037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72046
+percent_zip_in_county = 85.82
+
+[[zipcodes]]
+zipcode = 72072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72076
+percent_zip_in_county = 5.66
+
+[[zipcodes]]
+zipcode = 72083
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72086
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72142
+percent_zip_in_county = 50.58
+
+[[zipcodes]]
+zipcode = 72160
+percent_zip_in_county = 0.39
+
+[[zipcodes]]
+zipcode = 72176
+percent_zip_in_county = 95.77

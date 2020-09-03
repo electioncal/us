@@ -1,2 +1,62 @@
 name = "Jackson County"
 fips_code = 13157
+
+[[zipcodes]]
+zipcode = 30517
+percent_zip_in_county = 42.06
+
+[[zipcodes]]
+zipcode = 30529
+percent_zip_in_county = 89.01
+
+[[zipcodes]]
+zipcode = 30530
+percent_zip_in_county = 24.19
+
+[[zipcodes]]
+zipcode = 30543
+percent_zip_in_county = 10.72
+
+[[zipcodes]]
+zipcode = 30548
+percent_zip_in_county = 40.79
+
+[[zipcodes]]
+zipcode = 30549
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30558
+percent_zip_in_county = 53.57
+
+[[zipcodes]]
+zipcode = 30565
+percent_zip_in_county = 88.4
+
+[[zipcodes]]
+zipcode = 30567
+percent_zip_in_county = 98.73
+
+[[zipcodes]]
+zipcode = 30575
+percent_zip_in_county = 67.35
+
+[[zipcodes]]
+zipcode = 30601
+percent_zip_in_county = 0.3
+
+[[zipcodes]]
+zipcode = 30607
+percent_zip_in_county = 26.07
+
+[[zipcodes]]
+zipcode = 30622
+percent_zip_in_county = 4.82
+
+[[zipcodes]]
+zipcode = 30666
+percent_zip_in_county = 1.82
+
+[[zipcodes]]
+zipcode = 30680
+percent_zip_in_county = 0.23

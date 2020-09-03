@@ -1,2 +1,66 @@
 name = "Putnam County"
 fips_code = 12107
+
+[[zipcodes]]
+zipcode = 32043
+percent_zip_in_county = 0.7
+
+[[zipcodes]]
+zipcode = 32112
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32131
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32134
+percent_zip_in_county = 2.89
+
+[[zipcodes]]
+zipcode = 32139
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32140
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32147
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32148
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32157
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32177
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32181
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32187
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32189
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32193
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32640
+percent_zip_in_county = 53.38
+
+[[zipcodes]]
+zipcode = 32666
+percent_zip_in_county = 47.92

@@ -1,2 +1,74 @@
 name = "Buncombe County"
 fips_code = 37021
+
+[[zipcodes]]
+zipcode = 28701
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28704
+percent_zip_in_county = 97.68
+
+[[zipcodes]]
+zipcode = 28709
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28711
+percent_zip_in_county = 98.57
+
+[[zipcodes]]
+zipcode = 28715
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28732
+percent_zip_in_county = 27.43
+
+[[zipcodes]]
+zipcode = 28748
+percent_zip_in_county = 99.49
+
+[[zipcodes]]
+zipcode = 28753
+percent_zip_in_county = 9.54
+
+[[zipcodes]]
+zipcode = 28757
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28759
+percent_zip_in_county = 2.15
+
+[[zipcodes]]
+zipcode = 28778
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28787
+percent_zip_in_county = 97.5
+
+[[zipcodes]]
+zipcode = 28801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28803
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28804
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28805
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28806
+percent_zip_in_county = 100.0

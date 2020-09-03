@@ -1,2 +1,46 @@
 name = "North Slope Borough"
 fips_code = 2185
+
+[[zipcodes]]
+zipcode = 99510
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99519
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99721
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99723
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99734
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99747
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99759
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99766
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99782
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99789
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99791
+percent_zip_in_county = 100.0

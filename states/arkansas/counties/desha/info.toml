@@ -1,2 +1,46 @@
 name = "Desha County"
 fips_code = 5041
+
+[[zipcodes]]
+zipcode = 38769
+percent_zip_in_county = 0.09
+
+[[zipcodes]]
+zipcode = 71630
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71638
+percent_zip_in_county = 2.4
+
+[[zipcodes]]
+zipcode = 71639
+percent_zip_in_county = 89.85
+
+[[zipcodes]]
+zipcode = 71654
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71662
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71666
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71670
+percent_zip_in_county = 68.07
+
+[[zipcodes]]
+zipcode = 71674
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72328
+percent_zip_in_county = 37.5
+
+[[zipcodes]]
+zipcode = 72379
+percent_zip_in_county = 100.0

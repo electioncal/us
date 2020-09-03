@@ -1,2 +1,98 @@
 name = "Washington County"
 fips_code = 50023
+
+[[zipcodes]]
+zipcode = 5060
+percent_zip_in_county = 0.23
+
+[[zipcodes]]
+zipcode = 5602
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5640
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5641
+percent_zip_in_county = 96.76
+
+[[zipcodes]]
+zipcode = 5647
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5648
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5649
+percent_zip_in_county = 40.07
+
+[[zipcodes]]
+zipcode = 5650
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5651
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5654
+percent_zip_in_county = 82.99
+
+[[zipcodes]]
+zipcode = 5658
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5660
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5663
+percent_zip_in_county = 99.79
+
+[[zipcodes]]
+zipcode = 5664
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5667
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5669
+percent_zip_in_county = 95.27
+
+[[zipcodes]]
+zipcode = 5673
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5674
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5676
+percent_zip_in_county = 90.21
+
+[[zipcodes]]
+zipcode = 5677
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5678
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5681
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5682
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5843
+percent_zip_in_county = 0.63

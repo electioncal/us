@@ -1,2 +1,30 @@
 name = "Issaquena County"
 fips_code = 28055
+
+[[zipcodes]]
+zipcode = 38704
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38744
+percent_zip_in_county = 15.84
+
+[[zipcodes]]
+zipcode = 38745
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39113
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39159
+percent_zip_in_county = 11.34
+
+[[zipcodes]]
+zipcode = 39177
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39183
+percent_zip_in_county = 0.03

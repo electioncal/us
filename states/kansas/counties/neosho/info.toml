@@ -1,2 +1,38 @@
 name = "Neosho County"
 fips_code = 20133
+
+[[zipcodes]]
+zipcode = 66720
+percent_zip_in_county = 96.18
+
+[[zipcodes]]
+zipcode = 66733
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66740
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66748
+percent_zip_in_county = 2.87
+
+[[zipcodes]]
+zipcode = 66771
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66775
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66776
+percent_zip_in_county = 81.75
+
+[[zipcodes]]
+zipcode = 66780
+percent_zip_in_county = 20.88
+
+[[zipcodes]]
+zipcode = 67357
+percent_zip_in_county = 3.68

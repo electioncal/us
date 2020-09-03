@@ -1,2 +1,102 @@
 name = "Ontario County"
 fips_code = 36069
+
+[[zipcodes]]
+zipcode = 14424
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14425
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14432
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14456
+percent_zip_in_county = 93.2
+
+[[zipcodes]]
+zipcode = 14466
+percent_zip_in_county = 56.31
+
+[[zipcodes]]
+zipcode = 14469
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14471
+percent_zip_in_county = 99.89
+
+[[zipcodes]]
+zipcode = 14472
+percent_zip_in_county = 4.09
+
+[[zipcodes]]
+zipcode = 14475
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14485
+percent_zip_in_county = 4.5
+
+[[zipcodes]]
+zipcode = 14487
+percent_zip_in_county = 6.01
+
+[[zipcodes]]
+zipcode = 14489
+percent_zip_in_county = 1.78
+
+[[zipcodes]]
+zipcode = 14504
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14512
+percent_zip_in_county = 75.77
+
+[[zipcodes]]
+zipcode = 14513
+percent_zip_in_county = 2.33
+
+[[zipcodes]]
+zipcode = 14522
+percent_zip_in_county = 9.53
+
+[[zipcodes]]
+zipcode = 14532
+percent_zip_in_county = 95.08
+
+[[zipcodes]]
+zipcode = 14534
+percent_zip_in_county = 1.2
+
+[[zipcodes]]
+zipcode = 14537
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14544
+percent_zip_in_county = 38.79
+
+[[zipcodes]]
+zipcode = 14548
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14560
+percent_zip_in_county = 38.91
+
+[[zipcodes]]
+zipcode = 14561
+percent_zip_in_county = 97.93
+
+[[zipcodes]]
+zipcode = 14564
+percent_zip_in_county = 98.54
+
+[[zipcodes]]
+zipcode = 14585
+percent_zip_in_county = 100.0

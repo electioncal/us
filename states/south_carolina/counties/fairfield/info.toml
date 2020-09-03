@@ -1,2 +1,34 @@
 name = "Fairfield County"
 fips_code = 45039
+
+[[zipcodes]]
+zipcode = 29014
+percent_zip_in_county = 33.0
+
+[[zipcodes]]
+zipcode = 29015
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29016
+percent_zip_in_county = 2.22
+
+[[zipcodes]]
+zipcode = 29031
+percent_zip_in_county = 6.23
+
+[[zipcodes]]
+zipcode = 29055
+percent_zip_in_county = 22.0
+
+[[zipcodes]]
+zipcode = 29065
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29130
+percent_zip_in_county = 82.37
+
+[[zipcodes]]
+zipcode = 29180
+percent_zip_in_county = 98.36

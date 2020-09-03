@@ -1,2 +1,22 @@
 name = "Valley County"
 fips_code = 16085
+
+[[zipcodes]]
+zipcode = 83611
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83615
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83638
+percent_zip_in_county = 98.14
+
+[[zipcodes]]
+zipcode = 83657
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 83677
+percent_zip_in_county = 100.0

@@ -1,2 +1,26 @@
 name = "Willacy County"
 fips_code = 48489
+
+[[zipcodes]]
+zipcode = 78561
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78569
+percent_zip_in_county = 96.43
+
+[[zipcodes]]
+zipcode = 78580
+percent_zip_in_county = 99.68
+
+[[zipcodes]]
+zipcode = 78590
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78594
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78598
+percent_zip_in_county = 100.0

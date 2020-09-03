@@ -1,2 +1,62 @@
 name = "Boone County"
 fips_code = 17007
+
+[[zipcodes]]
+zipcode = 60033
+percent_zip_in_county = 0.7
+
+[[zipcodes]]
+zipcode = 60135
+percent_zip_in_county = 0.21
+
+[[zipcodes]]
+zipcode = 60145
+percent_zip_in_county = 3.12
+
+[[zipcodes]]
+zipcode = 60146
+percent_zip_in_county = 2.54
+
+[[zipcodes]]
+zipcode = 61008
+percent_zip_in_county = 99.43
+
+[[zipcodes]]
+zipcode = 61011
+percent_zip_in_county = 58.27
+
+[[zipcodes]]
+zipcode = 61012
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61016
+percent_zip_in_county = 11.56
+
+[[zipcodes]]
+zipcode = 61038
+percent_zip_in_county = 93.35
+
+[[zipcodes]]
+zipcode = 61065
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61073
+percent_zip_in_county = 0.54
+
+[[zipcodes]]
+zipcode = 61080
+percent_zip_in_county = 2.14
+
+[[zipcodes]]
+zipcode = 61107
+percent_zip_in_county = 1.75
+
+[[zipcodes]]
+zipcode = 61111
+percent_zip_in_county = 6.81
+
+[[zipcodes]]
+zipcode = 61114
+percent_zip_in_county = 2.84

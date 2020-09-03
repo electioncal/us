@@ -1,2 +1,42 @@
 name = "Carroll County"
 fips_code = 29033
+
+[[zipcodes]]
+zipcode = 64035
+percent_zip_in_county = 0.93
+
+[[zipcodes]]
+zipcode = 64622
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64623
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64624
+percent_zip_in_county = 10.05
+
+[[zipcodes]]
+zipcode = 64633
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64638
+percent_zip_in_county = 22.07
+
+[[zipcodes]]
+zipcode = 64639
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64643
+percent_zip_in_county = 70.62
+
+[[zipcodes]]
+zipcode = 64668
+percent_zip_in_county = 85.03
+
+[[zipcodes]]
+zipcode = 64682
+percent_zip_in_county = 100.0

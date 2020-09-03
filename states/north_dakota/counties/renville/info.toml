@@ -1,2 +1,38 @@
 name = "Renville County"
 fips_code = 38075
+
+[[zipcodes]]
+zipcode = 58718
+percent_zip_in_county = 1.83
+
+[[zipcodes]]
+zipcode = 58725
+percent_zip_in_county = 26.39
+
+[[zipcodes]]
+zipcode = 58734
+percent_zip_in_county = 11.2
+
+[[zipcodes]]
+zipcode = 58740
+percent_zip_in_county = 76.16
+
+[[zipcodes]]
+zipcode = 58746
+percent_zip_in_county = 6.17
+
+[[zipcodes]]
+zipcode = 58750
+percent_zip_in_county = 15.72
+
+[[zipcodes]]
+zipcode = 58761
+percent_zip_in_county = 92.3
+
+[[zipcodes]]
+zipcode = 58782
+percent_zip_in_county = 96.56
+
+[[zipcodes]]
+zipcode = 58787
+percent_zip_in_county = 100.0

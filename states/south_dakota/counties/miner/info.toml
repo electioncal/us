@@ -1,2 +1,26 @@
 name = "Miner County"
 fips_code = 46097
+
+[[zipcodes]]
+zipcode = 57076
+percent_zip_in_county = 42.42
+
+[[zipcodes]]
+zipcode = 57321
+percent_zip_in_county = 79.38
+
+[[zipcodes]]
+zipcode = 57323
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57337
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57340
+percent_zip_in_county = 3.38
+
+[[zipcodes]]
+zipcode = 57349
+percent_zip_in_county = 100.0

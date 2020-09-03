@@ -1,2 +1,58 @@
 name = "Vernon County"
 fips_code = 29217
+
+[[zipcodes]]
+zipcode = 64728
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64741
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64744
+percent_zip_in_county = 8.27
+
+[[zipcodes]]
+zipcode = 64750
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64752
+percent_zip_in_county = 26.8
+
+[[zipcodes]]
+zipcode = 64765
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64767
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64771
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64772
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64778
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64779
+percent_zip_in_county = 12.77
+
+[[zipcodes]]
+zipcode = 64783
+percent_zip_in_county = 83.74
+
+[[zipcodes]]
+zipcode = 64784
+percent_zip_in_county = 87.93
+
+[[zipcodes]]
+zipcode = 64790
+percent_zip_in_county = 100.0

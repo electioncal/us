@@ -1,2 +1,6 @@
 name = "Patillas Municipio"
 fips_code = 72109
+
+[[zipcodes]]
+zipcode = 723
+percent_zip_in_county = 100.0

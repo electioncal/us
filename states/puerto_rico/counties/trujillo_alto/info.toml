@@ -1,2 +1,14 @@
 name = "Trujillo Alto Municipio"
 fips_code = 72139
+
+[[zipcodes]]
+zipcode = 926
+percent_zip_in_county = 11.47
+
+[[zipcodes]]
+zipcode = 976
+percent_zip_in_county = 95.15
+
+[[zipcodes]]
+zipcode = 987
+percent_zip_in_county = 0.58

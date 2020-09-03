@@ -1,2 +1,18 @@
 name = "Camas County"
 fips_code = 16025
+
+[[zipcodes]]
+zipcode = 83322
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83327
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83337
+percent_zip_in_county = 84.85
+
+[[zipcodes]]
+zipcode = 83352
+percent_zip_in_county = 2.31

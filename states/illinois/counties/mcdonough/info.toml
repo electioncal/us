@@ -1,2 +1,66 @@
 name = "McDonough County"
 fips_code = 17109
+
+[[zipcodes]]
+zipcode = 61411
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61416
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61420
+percent_zip_in_county = 92.03
+
+[[zipcodes]]
+zipcode = 61422
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61438
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61440
+percent_zip_in_county = 94.52
+
+[[zipcodes]]
+zipcode = 61450
+percent_zip_in_county = 1.49
+
+[[zipcodes]]
+zipcode = 61455
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61459
+percent_zip_in_county = 18.24
+
+[[zipcodes]]
+zipcode = 61470
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61475
+percent_zip_in_county = 92.68
+
+[[zipcodes]]
+zipcode = 61482
+percent_zip_in_county = 7.08
+
+[[zipcodes]]
+zipcode = 61484
+percent_zip_in_county = 4.97
+
+[[zipcodes]]
+zipcode = 62326
+percent_zip_in_county = 98.87
+
+[[zipcodes]]
+zipcode = 62367
+percent_zip_in_county = 32.79
+
+[[zipcodes]]
+zipcode = 62374
+percent_zip_in_county = 70.81

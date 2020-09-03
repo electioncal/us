@@ -1,2 +1,34 @@
 name = "Cameron Parish"
 fips_code = 22023
+
+[[zipcodes]]
+zipcode = 70542
+percent_zip_in_county = 5.07
+
+[[zipcodes]]
+zipcode = 70549
+percent_zip_in_county = 1.72
+
+[[zipcodes]]
+zipcode = 70607
+percent_zip_in_county = 12.29
+
+[[zipcodes]]
+zipcode = 70630
+percent_zip_in_county = 35.28
+
+[[zipcodes]]
+zipcode = 70631
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70632
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70643
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70645
+percent_zip_in_county = 100.0

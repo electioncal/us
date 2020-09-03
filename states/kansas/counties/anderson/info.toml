@@ -1,2 +1,42 @@
 name = "Anderson County"
 fips_code = 20003
+
+[[zipcodes]]
+zipcode = 66014
+percent_zip_in_county = 2.87
+
+[[zipcodes]]
+zipcode = 66015
+percent_zip_in_county = 91.56
+
+[[zipcodes]]
+zipcode = 66032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66033
+percent_zip_in_county = 84.09
+
+[[zipcodes]]
+zipcode = 66039
+percent_zip_in_county = 99.68
+
+[[zipcodes]]
+zipcode = 66080
+percent_zip_in_county = 14.55
+
+[[zipcodes]]
+zipcode = 66091
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66093
+percent_zip_in_county = 74.88
+
+[[zipcodes]]
+zipcode = 66095
+percent_zip_in_county = 1.79
+
+[[zipcodes]]
+zipcode = 66758
+percent_zip_in_county = 5.09

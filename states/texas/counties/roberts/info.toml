@@ -1,2 +1,10 @@
 name = "Roberts County"
 fips_code = 48393
+
+[[zipcodes]]
+zipcode = 79059
+percent_zip_in_county = 96.65
+
+[[zipcodes]]
+zipcode = 79065
+percent_zip_in_county = 0.57

@@ -1,2 +1,10 @@
 name = "Estill County"
 fips_code = 21065
+
+[[zipcodes]]
+zipcode = 40336
+percent_zip_in_county = 99.48
+
+[[zipcodes]]
+zipcode = 40472
+percent_zip_in_county = 100.0

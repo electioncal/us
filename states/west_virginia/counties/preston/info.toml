@@ -1,2 +1,62 @@
 name = "Preston County"
 fips_code = 54077
+
+[[zipcodes]]
+zipcode = 26374
+percent_zip_in_county = 85.45
+
+[[zipcodes]]
+zipcode = 26405
+percent_zip_in_county = 6.62
+
+[[zipcodes]]
+zipcode = 26410
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26425
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26440
+percent_zip_in_county = 27.4
+
+[[zipcodes]]
+zipcode = 26444
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26519
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26520
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26525
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26537
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26542
+percent_zip_in_county = 89.75
+
+[[zipcodes]]
+zipcode = 26547
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26705
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26716
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26764
+percent_zip_in_county = 100.0

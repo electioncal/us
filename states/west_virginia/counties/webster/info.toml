@@ -1,2 +1,46 @@
 name = "Webster County"
 fips_code = 54101
+
+[[zipcodes]]
+zipcode = 26203
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26206
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26208
+percent_zip_in_county = 98.25
+
+[[zipcodes]]
+zipcode = 26215
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26217
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26222
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26266
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26288
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26298
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26610
+percent_zip_in_county = 3.58
+
+[[zipcodes]]
+zipcode = 26691
+percent_zip_in_county = 14.15

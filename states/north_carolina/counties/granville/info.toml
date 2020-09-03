@@ -1,2 +1,46 @@
 name = "Granville County"
 fips_code = 37077
+
+[[zipcodes]]
+zipcode = 27507
+percent_zip_in_county = 87.51
+
+[[zipcodes]]
+zipcode = 27509
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27522
+percent_zip_in_county = 96.99
+
+[[zipcodes]]
+zipcode = 27525
+percent_zip_in_county = 32.45
+
+[[zipcodes]]
+zipcode = 27544
+percent_zip_in_county = 11.26
+
+[[zipcodes]]
+zipcode = 27565
+percent_zip_in_county = 96.85
+
+[[zipcodes]]
+zipcode = 27572
+percent_zip_in_county = 6.66
+
+[[zipcodes]]
+zipcode = 27581
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27582
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27587
+percent_zip_in_county = 3.62
+
+[[zipcodes]]
+zipcode = 27596
+percent_zip_in_county = 7.13

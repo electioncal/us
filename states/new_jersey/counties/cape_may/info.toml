@@ -1,2 +1,62 @@
 name = "Cape May County"
 fips_code = 34009
+
+[[zipcodes]]
+zipcode = 8202
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8204
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8210
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8212
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8223
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8226
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8230
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8242
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8243
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8246
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8247
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8248
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8251
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8260
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8270
+percent_zip_in_county = 92.42

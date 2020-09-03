@@ -1,2 +1,78 @@
 name = "Johnston County"
 fips_code = 37101
+
+[[zipcodes]]
+zipcode = 27501
+percent_zip_in_county = 29.24
+
+[[zipcodes]]
+zipcode = 27504
+percent_zip_in_county = 96.3
+
+[[zipcodes]]
+zipcode = 27520
+percent_zip_in_county = 97.34
+
+[[zipcodes]]
+zipcode = 27524
+percent_zip_in_county = 97.58
+
+[[zipcodes]]
+zipcode = 27527
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27529
+percent_zip_in_county = 25.18
+
+[[zipcodes]]
+zipcode = 27542
+percent_zip_in_county = 70.29
+
+[[zipcodes]]
+zipcode = 27555
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27557
+percent_zip_in_county = 42.11
+
+[[zipcodes]]
+zipcode = 27568
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27569
+percent_zip_in_county = 72.58
+
+[[zipcodes]]
+zipcode = 27576
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27577
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27591
+percent_zip_in_county = 19.67
+
+[[zipcodes]]
+zipcode = 27592
+percent_zip_in_county = 41.8
+
+[[zipcodes]]
+zipcode = 27597
+percent_zip_in_county = 13.95
+
+[[zipcodes]]
+zipcode = 27603
+percent_zip_in_county = 3.13
+
+[[zipcodes]]
+zipcode = 28334
+percent_zip_in_county = 5.58
+
+[[zipcodes]]
+zipcode = 28366
+percent_zip_in_county = 18.89

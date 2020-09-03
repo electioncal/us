@@ -1,2 +1,58 @@
 name = "Catawba County"
 fips_code = 37035
+
+[[zipcodes]]
+zipcode = 28037
+percent_zip_in_county = 9.71
+
+[[zipcodes]]
+zipcode = 28090
+percent_zip_in_county = 0.49
+
+[[zipcodes]]
+zipcode = 28092
+percent_zip_in_county = 0.99
+
+[[zipcodes]]
+zipcode = 28168
+percent_zip_in_county = 34.15
+
+[[zipcodes]]
+zipcode = 28601
+percent_zip_in_county = 83.13
+
+[[zipcodes]]
+zipcode = 28602
+percent_zip_in_county = 86.36
+
+[[zipcodes]]
+zipcode = 28609
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28610
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28612
+percent_zip_in_county = 0.48
+
+[[zipcodes]]
+zipcode = 28613
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28650
+percent_zip_in_county = 79.82
+
+[[zipcodes]]
+zipcode = 28658
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28673
+percent_zip_in_county = 98.33
+
+[[zipcodes]]
+zipcode = 28682
+percent_zip_in_county = 100.0

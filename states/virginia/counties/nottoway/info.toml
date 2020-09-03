@@ -1,2 +1,22 @@
 name = "Nottoway County"
 fips_code = 51135
+
+[[zipcodes]]
+zipcode = 23002
+percent_zip_in_county = 0.54
+
+[[zipcodes]]
+zipcode = 23083
+percent_zip_in_county = 0.87
+
+[[zipcodes]]
+zipcode = 23824
+percent_zip_in_county = 94.84
+
+[[zipcodes]]
+zipcode = 23922
+percent_zip_in_county = 85.87
+
+[[zipcodes]]
+zipcode = 23930
+percent_zip_in_county = 100.0

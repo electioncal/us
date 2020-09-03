@@ -1,2 +1,90 @@
 name = "Henry County"
 fips_code = 17073
+
+[[zipcodes]]
+zipcode = 61234
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61235
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61238
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61240
+percent_zip_in_county = 18.11
+
+[[zipcodes]]
+zipcode = 61241
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61250
+percent_zip_in_county = 1.13
+
+[[zipcodes]]
+zipcode = 61254
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61258
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61262
+percent_zip_in_county = 87.79
+
+[[zipcodes]]
+zipcode = 61273
+percent_zip_in_county = 94.69
+
+[[zipcodes]]
+zipcode = 61274
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61277
+percent_zip_in_county = 11.3
+
+[[zipcodes]]
+zipcode = 61344
+percent_zip_in_county = 2.94
+
+[[zipcodes]]
+zipcode = 61361
+percent_zip_in_county = 1.99
+
+[[zipcodes]]
+zipcode = 61413
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61414
+percent_zip_in_county = 7.61
+
+[[zipcodes]]
+zipcode = 61419
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61434
+percent_zip_in_county = 94.6
+
+[[zipcodes]]
+zipcode = 61443
+percent_zip_in_county = 99.71
+
+[[zipcodes]]
+zipcode = 61465
+percent_zip_in_county = 5.28
+
+[[zipcodes]]
+zipcode = 61468
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61490
+percent_zip_in_county = 97.16

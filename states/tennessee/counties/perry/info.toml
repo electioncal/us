@@ -1,2 +1,14 @@
 name = "Perry County"
 fips_code = 47135
+
+[[zipcodes]]
+zipcode = 37096
+percent_zip_in_county = 99.8
+
+[[zipcodes]]
+zipcode = 37097
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38425
+percent_zip_in_county = 3.46

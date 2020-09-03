@@ -1,2 +1,50 @@
 name = "Monroe County"
 fips_code = 55081
+
+[[zipcodes]]
+zipcode = 53929
+percent_zip_in_county = 8.16
+
+[[zipcodes]]
+zipcode = 54615
+percent_zip_in_county = 0.22
+
+[[zipcodes]]
+zipcode = 54618
+percent_zip_in_county = 34.53
+
+[[zipcodes]]
+zipcode = 54619
+percent_zip_in_county = 75.66
+
+[[zipcodes]]
+zipcode = 54638
+percent_zip_in_county = 92.4
+
+[[zipcodes]]
+zipcode = 54648
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54651
+percent_zip_in_county = 31.19
+
+[[zipcodes]]
+zipcode = 54653
+percent_zip_in_county = 14.77
+
+[[zipcodes]]
+zipcode = 54656
+percent_zip_in_county = 99.95
+
+[[zipcodes]]
+zipcode = 54660
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54666
+percent_zip_in_county = 79.6
+
+[[zipcodes]]
+zipcode = 54670
+percent_zip_in_county = 100.0

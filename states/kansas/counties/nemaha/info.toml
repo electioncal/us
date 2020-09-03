@@ -1,2 +1,58 @@
 name = "Nemaha County"
 fips_code = 20131
+
+[[zipcodes]]
+zipcode = 66403
+percent_zip_in_county = 4.76
+
+[[zipcodes]]
+zipcode = 66404
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66408
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66415
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66416
+percent_zip_in_county = 2.25
+
+[[zipcodes]]
+zipcode = 66417
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66428
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66521
+percent_zip_in_county = 3.79
+
+[[zipcodes]]
+zipcode = 66522
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66534
+percent_zip_in_county = 95.62
+
+[[zipcodes]]
+zipcode = 66538
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66540
+percent_zip_in_county = 6.85
+
+[[zipcodes]]
+zipcode = 66544
+percent_zip_in_county = 7.42
+
+[[zipcodes]]
+zipcode = 66550
+percent_zip_in_county = 92.59

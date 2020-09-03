@@ -1,2 +1,86 @@
 name = "Box Elder County"
 fips_code = 49003
+
+[[zipcodes]]
+zipcode = 83312
+percent_zip_in_county = 14.88
+
+[[zipcodes]]
+zipcode = 83342
+percent_zip_in_county = 5.32
+
+[[zipcodes]]
+zipcode = 84083
+percent_zip_in_county = 1.19
+
+[[zipcodes]]
+zipcode = 84301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84302
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84306
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84307
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84309
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84311
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84312
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84313
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84314
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84316
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84324
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84329
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84330
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84331
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84334
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84336
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84337
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84340
+percent_zip_in_county = 100.0

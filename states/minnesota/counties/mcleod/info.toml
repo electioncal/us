@@ -1,2 +1,38 @@
 name = "McLeod County"
 fips_code = 27085
+
+[[zipcodes]]
+zipcode = 55312
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55336
+percent_zip_in_county = 96.05
+
+[[zipcodes]]
+zipcode = 55350
+percent_zip_in_county = 97.64
+
+[[zipcodes]]
+zipcode = 55354
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55370
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55381
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55385
+percent_zip_in_county = 77.61
+
+[[zipcodes]]
+zipcode = 55395
+percent_zip_in_county = 98.51
+
+[[zipcodes]]
+zipcode = 55397
+percent_zip_in_county = 0.52

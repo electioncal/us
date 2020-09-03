@@ -1,2 +1,18 @@
 name = "Aguada Municipio"
 fips_code = 72003
+
+[[zipcodes]]
+zipcode = 602
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 610
+percent_zip_in_county = 0.55
+
+[[zipcodes]]
+zipcode = 676
+percent_zip_in_county = 0.51
+
+[[zipcodes]]
+zipcode = 677
+percent_zip_in_county = 0.47

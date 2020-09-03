@@ -1,2 +1,58 @@
 name = "Braxton County"
 fips_code = 54007
+
+[[zipcodes]]
+zipcode = 25063
+percent_zip_in_county = 58.49
+
+[[zipcodes]]
+zipcode = 26335
+percent_zip_in_county = 83.6
+
+[[zipcodes]]
+zipcode = 26376
+percent_zip_in_county = 34.99
+
+[[zipcodes]]
+zipcode = 26412
+percent_zip_in_county = 39.01
+
+[[zipcodes]]
+zipcode = 26601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26615
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26619
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26621
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26623
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26624
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26627
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26629
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26631
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26636
+percent_zip_in_county = 39.43

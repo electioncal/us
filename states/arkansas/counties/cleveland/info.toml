@@ -1,2 +1,26 @@
 name = "Cleveland County"
 fips_code = 5025
+
+[[zipcodes]]
+zipcode = 71603
+percent_zip_in_county = 0.26
+
+[[zipcodes]]
+zipcode = 71652
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71660
+percent_zip_in_county = 99.48
+
+[[zipcodes]]
+zipcode = 71665
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71667
+percent_zip_in_county = 2.85
+
+[[zipcodes]]
+zipcode = 71671
+percent_zip_in_county = 2.22

@@ -1,2 +1,42 @@
 name = "Burnett County"
 fips_code = 55013
+
+[[zipcodes]]
+zipcode = 54801
+percent_zip_in_county = 9.38
+
+[[zipcodes]]
+zipcode = 54813
+percent_zip_in_county = 23.63
+
+[[zipcodes]]
+zipcode = 54830
+percent_zip_in_county = 93.2
+
+[[zipcodes]]
+zipcode = 54837
+percent_zip_in_county = 11.73
+
+[[zipcodes]]
+zipcode = 54840
+percent_zip_in_county = 98.88
+
+[[zipcodes]]
+zipcode = 54845
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54853
+percent_zip_in_county = 2.54
+
+[[zipcodes]]
+zipcode = 54871
+percent_zip_in_county = 17.1
+
+[[zipcodes]]
+zipcode = 54872
+percent_zip_in_county = 99.19
+
+[[zipcodes]]
+zipcode = 54893
+percent_zip_in_county = 100.0

@@ -1,2 +1,98 @@
 name = "Clermont County"
 fips_code = 39025
+
+[[zipcodes]]
+zipcode = 45102
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45106
+percent_zip_in_county = 89.98
+
+[[zipcodes]]
+zipcode = 45107
+percent_zip_in_county = 6.19
+
+[[zipcodes]]
+zipcode = 45112
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45118
+percent_zip_in_county = 3.46
+
+[[zipcodes]]
+zipcode = 45120
+percent_zip_in_county = 83.63
+
+[[zipcodes]]
+zipcode = 45121
+percent_zip_in_county = 0.9
+
+[[zipcodes]]
+zipcode = 45122
+percent_zip_in_county = 95.68
+
+[[zipcodes]]
+zipcode = 45130
+percent_zip_in_county = 15.15
+
+[[zipcodes]]
+zipcode = 45140
+percent_zip_in_county = 52.36
+
+[[zipcodes]]
+zipcode = 45145
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45147
+percent_zip_in_county = 93.88
+
+[[zipcodes]]
+zipcode = 45150
+percent_zip_in_county = 99.94
+
+[[zipcodes]]
+zipcode = 45153
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45156
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45157
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45158
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45160
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45162
+percent_zip_in_county = 37.32
+
+[[zipcodes]]
+zipcode = 45176
+percent_zip_in_county = 64.96
+
+[[zipcodes]]
+zipcode = 45244
+percent_zip_in_county = 45.92
+
+[[zipcodes]]
+zipcode = 45245
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45255
+percent_zip_in_county = 29.67

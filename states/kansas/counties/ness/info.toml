@@ -1,2 +1,34 @@
 name = "Ness County"
 fips_code = 20135
+
+[[zipcodes]]
+zipcode = 67515
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67516
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67518
+percent_zip_in_county = 95.65
+
+[[zipcodes]]
+zipcode = 67521
+percent_zip_in_county = 93.55
+
+[[zipcodes]]
+zipcode = 67556
+percent_zip_in_county = 6.88
+
+[[zipcodes]]
+zipcode = 67560
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67572
+percent_zip_in_county = 89.69
+
+[[zipcodes]]
+zipcode = 67584
+percent_zip_in_county = 79.93

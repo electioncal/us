@@ -1,2 +1,26 @@
 name = "Menifee County"
 fips_code = 21165
+
+[[zipcodes]]
+zipcode = 40316
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40322
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40346
+percent_zip_in_county = 80.03
+
+[[zipcodes]]
+zipcode = 40371
+percent_zip_in_county = 6.8
+
+[[zipcodes]]
+zipcode = 40380
+percent_zip_in_county = 0.08
+
+[[zipcodes]]
+zipcode = 40387
+percent_zip_in_county = 93.94

@@ -1,2 +1,54 @@
 name = "Trinity County"
 fips_code = 6105
+
+[[zipcodes]]
+zipcode = 95527
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95552
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95563
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95595
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96048
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96052
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96076
+percent_zip_in_county = 38.55
+
+[[zipcodes]]
+zipcode = 96091
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96093
+percent_zip_in_county = 100.0

@@ -1,2 +1,38 @@
 name = "Pike County"
 fips_code = 1109
+
+[[zipcodes]]
+zipcode = 36005
+percent_zip_in_county = 72.21
+
+[[zipcodes]]
+zipcode = 36010
+percent_zip_in_county = 84.71
+
+[[zipcodes]]
+zipcode = 36034
+percent_zip_in_county = 48.33
+
+[[zipcodes]]
+zipcode = 36035
+percent_zip_in_county = 84.47
+
+[[zipcodes]]
+zipcode = 36049
+percent_zip_in_county = 1.31
+
+[[zipcodes]]
+zipcode = 36069
+percent_zip_in_county = 4.5
+
+[[zipcodes]]
+zipcode = 36079
+percent_zip_in_county = 96.38
+
+[[zipcodes]]
+zipcode = 36081
+percent_zip_in_county = 98.26
+
+[[zipcodes]]
+zipcode = 36082
+percent_zip_in_county = 100.0

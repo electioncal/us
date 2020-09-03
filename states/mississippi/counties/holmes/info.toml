@@ -1,2 +1,34 @@
 name = "Holmes County"
 fips_code = 28051
+
+[[zipcodes]]
+zipcode = 38924
+percent_zip_in_county = 85.73
+
+[[zipcodes]]
+zipcode = 39038
+percent_zip_in_county = 2.22
+
+[[zipcodes]]
+zipcode = 39063
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39079
+percent_zip_in_county = 92.98
+
+[[zipcodes]]
+zipcode = 39095
+percent_zip_in_county = 97.94
+
+[[zipcodes]]
+zipcode = 39146
+percent_zip_in_county = 69.55
+
+[[zipcodes]]
+zipcode = 39169
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39192
+percent_zip_in_county = 44.89

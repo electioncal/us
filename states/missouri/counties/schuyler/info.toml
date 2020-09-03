@@ -1,2 +1,26 @@
 name = "Schuyler County"
 fips_code = 29197
+
+[[zipcodes]]
+zipcode = 63535
+percent_zip_in_county = 87.72
+
+[[zipcodes]]
+zipcode = 63536
+percent_zip_in_county = 81.2
+
+[[zipcodes]]
+zipcode = 63541
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63546
+percent_zip_in_county = 43.03
+
+[[zipcodes]]
+zipcode = 63548
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63561
+percent_zip_in_county = 100.0

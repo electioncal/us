@@ -1,2 +1,78 @@
 name = "Barron County"
 fips_code = 55005
+
+[[zipcodes]]
+zipcode = 54004
+percent_zip_in_county = 41.78
+
+[[zipcodes]]
+zipcode = 54005
+percent_zip_in_county = 5.27
+
+[[zipcodes]]
+zipcode = 54728
+percent_zip_in_county = 93.03
+
+[[zipcodes]]
+zipcode = 54733
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54757
+percent_zip_in_county = 24.86
+
+[[zipcodes]]
+zipcode = 54762
+percent_zip_in_county = 91.89
+
+[[zipcodes]]
+zipcode = 54763
+percent_zip_in_county = 13.4
+
+[[zipcodes]]
+zipcode = 54805
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54812
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54813
+percent_zip_in_county = 60.4
+
+[[zipcodes]]
+zipcode = 54817
+percent_zip_in_county = 27.7
+
+[[zipcodes]]
+zipcode = 54822
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54826
+percent_zip_in_county = 56.51
+
+[[zipcodes]]
+zipcode = 54829
+percent_zip_in_county = 93.83
+
+[[zipcodes]]
+zipcode = 54841
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54857
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54868
+percent_zip_in_county = 99.5
+
+[[zipcodes]]
+zipcode = 54870
+percent_zip_in_county = 2.42
+
+[[zipcodes]]
+zipcode = 54889
+percent_zip_in_county = 62.87

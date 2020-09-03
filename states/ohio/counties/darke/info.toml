@@ -1,2 +1,94 @@
 name = "Darke County"
 fips_code = 39037
+
+[[zipcodes]]
+zipcode = 45303
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45304
+percent_zip_in_county = 98.6
+
+[[zipcodes]]
+zipcode = 45308
+percent_zip_in_county = 61.13
+
+[[zipcodes]]
+zipcode = 45309
+percent_zip_in_county = 0.48
+
+[[zipcodes]]
+zipcode = 45310
+percent_zip_in_county = 30.33
+
+[[zipcodes]]
+zipcode = 45318
+percent_zip_in_county = 0.32
+
+[[zipcodes]]
+zipcode = 45328
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45331
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45332
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45337
+percent_zip_in_county = 17.04
+
+[[zipcodes]]
+zipcode = 45346
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45347
+percent_zip_in_county = 13.92
+
+[[zipcodes]]
+zipcode = 45348
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45350
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45351
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45352
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45358
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45362
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45380
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45382
+percent_zip_in_county = 17.42
+
+[[zipcodes]]
+zipcode = 45388
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45390
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45846
+percent_zip_in_county = 6.58

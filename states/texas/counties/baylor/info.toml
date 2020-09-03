@@ -1,2 +1,6 @@
 name = "Baylor County"
 fips_code = 48023
+
+[[zipcodes]]
+zipcode = 76380
+percent_zip_in_county = 97.54

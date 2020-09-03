@@ -1,2 +1,54 @@
 name = "Elmore County"
 fips_code = 1051
+
+[[zipcodes]]
+zipcode = 35010
+percent_zip_in_county = 1.27
+
+[[zipcodes]]
+zipcode = 36020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36022
+percent_zip_in_county = 67.42
+
+[[zipcodes]]
+zipcode = 36024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36026
+percent_zip_in_county = 30.3
+
+[[zipcodes]]
+zipcode = 36051
+percent_zip_in_county = 12.72
+
+[[zipcodes]]
+zipcode = 36054
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36066
+percent_zip_in_county = 9.47
+
+[[zipcodes]]
+zipcode = 36078
+percent_zip_in_county = 64.06
+
+[[zipcodes]]
+zipcode = 36080
+percent_zip_in_county = 99.65
+
+[[zipcodes]]
+zipcode = 36092
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36093
+percent_zip_in_county = 100.0

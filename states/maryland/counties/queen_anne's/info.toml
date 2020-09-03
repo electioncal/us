@@ -1,2 +1,62 @@
 name = "Queen Anne's County"
 fips_code = 24035
+
+[[zipcodes]]
+zipcode = 21607
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21617
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21619
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21620
+percent_zip_in_county = 25.3
+
+[[zipcodes]]
+zipcode = 21623
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21628
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21638
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21640
+percent_zip_in_county = 5.64
+
+[[zipcodes]]
+zipcode = 21644
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21649
+percent_zip_in_county = 17.17
+
+[[zipcodes]]
+zipcode = 21651
+percent_zip_in_county = 45.51
+
+[[zipcodes]]
+zipcode = 21657
+percent_zip_in_county = 88.93
+
+[[zipcodes]]
+zipcode = 21658
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21666
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21668
+percent_zip_in_county = 100.0

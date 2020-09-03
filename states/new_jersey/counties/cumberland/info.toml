@@ -1,2 +1,86 @@
 name = "Cumberland County"
 fips_code = 34011
+
+[[zipcodes]]
+zipcode = 8302
+percent_zip_in_county = 96.32
+
+[[zipcodes]]
+zipcode = 8311
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8314
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8316
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8318
+percent_zip_in_county = 1.55
+
+[[zipcodes]]
+zipcode = 8320
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8321
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8323
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8324
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8327
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8329
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8332
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8340
+percent_zip_in_county = 32.38
+
+[[zipcodes]]
+zipcode = 8344
+percent_zip_in_county = 21.75
+
+[[zipcodes]]
+zipcode = 8345
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8348
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8349
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8352
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8353
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8360
+percent_zip_in_county = 93.1
+
+[[zipcodes]]
+zipcode = 8361
+percent_zip_in_county = 100.0

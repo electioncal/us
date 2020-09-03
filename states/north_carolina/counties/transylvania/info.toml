@@ -1,2 +1,42 @@
 name = "Transylvania County"
 fips_code = 37175
+
+[[zipcodes]]
+zipcode = 28708
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28712
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28718
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28739
+percent_zip_in_county = 0.86
+
+[[zipcodes]]
+zipcode = 28742
+percent_zip_in_county = 11.22
+
+[[zipcodes]]
+zipcode = 28747
+percent_zip_in_county = 99.82
+
+[[zipcodes]]
+zipcode = 28766
+percent_zip_in_county = 93.34
+
+[[zipcodes]]
+zipcode = 28768
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28772
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28774
+percent_zip_in_county = 53.11

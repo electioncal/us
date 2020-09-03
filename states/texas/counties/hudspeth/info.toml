@@ -1,2 +1,26 @@
 name = "Hudspeth County"
 fips_code = 48229
+
+[[zipcodes]]
+zipcode = 79837
+percent_zip_in_county = 89.64
+
+[[zipcodes]]
+zipcode = 79839
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79847
+percent_zip_in_county = 62.28
+
+[[zipcodes]]
+zipcode = 79851
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79855
+percent_zip_in_county = 0.26
+
+[[zipcodes]]
+zipcode = 79938
+percent_zip_in_county = 0.49

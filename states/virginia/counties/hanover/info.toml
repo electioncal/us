@@ -1,2 +1,50 @@
 name = "Hanover County"
 fips_code = 51085
+
+[[zipcodes]]
+zipcode = 22546
+percent_zip_in_county = 3.14
+
+[[zipcodes]]
+zipcode = 23005
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23015
+percent_zip_in_county = 74.72
+
+[[zipcodes]]
+zipcode = 23024
+percent_zip_in_county = 0.86
+
+[[zipcodes]]
+zipcode = 23047
+percent_zip_in_county = 82.63
+
+[[zipcodes]]
+zipcode = 23059
+percent_zip_in_county = 13.16
+
+[[zipcodes]]
+zipcode = 23069
+percent_zip_in_county = 57.52
+
+[[zipcodes]]
+zipcode = 23102
+percent_zip_in_county = 4.1
+
+[[zipcodes]]
+zipcode = 23111
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23116
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23146
+percent_zip_in_county = 86.84
+
+[[zipcodes]]
+zipcode = 23192
+percent_zip_in_county = 95.2

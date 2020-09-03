@@ -1,2 +1,6 @@
 name = "Poquoson city"
 fips_code = 51735
+
+[[zipcodes]]
+zipcode = 23662
+percent_zip_in_county = 100.0

@@ -1,2 +1,110 @@
 name = "Union County"
 fips_code = 34039
+
+[[zipcodes]]
+zipcode = 7016
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7060
+percent_zip_in_county = 61.31
+
+[[zipcodes]]
+zipcode = 7062
+percent_zip_in_county = 92.07
+
+[[zipcodes]]
+zipcode = 7063
+percent_zip_in_county = 75.31
+
+[[zipcodes]]
+zipcode = 7065
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7066
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7076
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7081
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7083
+percent_zip_in_county = 99.98
+
+[[zipcodes]]
+zipcode = 7088
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7090
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7092
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7202
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7203
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7204
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7205
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7206
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7208
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7901
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7922
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7974
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8812
+percent_zip_in_county = 0.45

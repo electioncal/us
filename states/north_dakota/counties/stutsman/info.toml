@@ -1,2 +1,86 @@
 name = "Stutsman County"
 fips_code = 38093
+
+[[zipcodes]]
+zipcode = 58401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58402
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58405
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58420
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58421
+percent_zip_in_county = 1.16
+
+[[zipcodes]]
+zipcode = 58424
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58426
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58442
+percent_zip_in_county = 7.11
+
+[[zipcodes]]
+zipcode = 58454
+percent_zip_in_county = 23.61
+
+[[zipcodes]]
+zipcode = 58455
+percent_zip_in_county = 81.52
+
+[[zipcodes]]
+zipcode = 58466
+percent_zip_in_county = 3.38
+
+[[zipcodes]]
+zipcode = 58467
+percent_zip_in_county = 96.7
+
+[[zipcodes]]
+zipcode = 58472
+percent_zip_in_county = 65.63
+
+[[zipcodes]]
+zipcode = 58475
+percent_zip_in_county = 2.67
+
+[[zipcodes]]
+zipcode = 58476
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58481
+percent_zip_in_county = 37.13
+
+[[zipcodes]]
+zipcode = 58483
+percent_zip_in_county = 73.24
+
+[[zipcodes]]
+zipcode = 58486
+percent_zip_in_county = 6.49
+
+[[zipcodes]]
+zipcode = 58492
+percent_zip_in_county = 11.23
+
+[[zipcodes]]
+zipcode = 58496
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58497
+percent_zip_in_county = 93.87

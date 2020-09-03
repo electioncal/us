@@ -1,2 +1,74 @@
 name = "Meade County"
 fips_code = 46093
+
+[[zipcodes]]
+zipcode = 57626
+percent_zip_in_county = 60.97
+
+[[zipcodes]]
+zipcode = 57701
+percent_zip_in_county = 2.54
+
+[[zipcodes]]
+zipcode = 57702
+percent_zip_in_county = 1.4
+
+[[zipcodes]]
+zipcode = 57706
+percent_zip_in_county = 86.01
+
+[[zipcodes]]
+zipcode = 57718
+percent_zip_in_county = 99.46
+
+[[zipcodes]]
+zipcode = 57719
+percent_zip_in_county = 13.88
+
+[[zipcodes]]
+zipcode = 57741
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57748
+percent_zip_in_county = 26.1
+
+[[zipcodes]]
+zipcode = 57758
+percent_zip_in_county = 89.5
+
+[[zipcodes]]
+zipcode = 57761
+percent_zip_in_county = 19.17
+
+[[zipcodes]]
+zipcode = 57767
+percent_zip_in_county = 34.23
+
+[[zipcodes]]
+zipcode = 57769
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57785
+percent_zip_in_county = 90.73
+
+[[zipcodes]]
+zipcode = 57787
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57788
+percent_zip_in_county = 34.85
+
+[[zipcodes]]
+zipcode = 57791
+percent_zip_in_county = 42.11
+
+[[zipcodes]]
+zipcode = 57792
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57793
+percent_zip_in_county = 13.96

@@ -1,2 +1,106 @@
 name = "Greenville County"
 fips_code = 45045
+
+[[zipcodes]]
+zipcode = 29322
+percent_zip_in_county = 1.57
+
+[[zipcodes]]
+zipcode = 29356
+percent_zip_in_county = 46.51
+
+[[zipcodes]]
+zipcode = 29601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29605
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29607
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29609
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29611
+percent_zip_in_county = 92.28
+
+[[zipcodes]]
+zipcode = 29613
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29614
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29615
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29617
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29627
+percent_zip_in_county = 9.11
+
+[[zipcodes]]
+zipcode = 29635
+percent_zip_in_county = 56.3
+
+[[zipcodes]]
+zipcode = 29644
+percent_zip_in_county = 59.9
+
+[[zipcodes]]
+zipcode = 29650
+percent_zip_in_county = 99.81
+
+[[zipcodes]]
+zipcode = 29651
+percent_zip_in_county = 62.53
+
+[[zipcodes]]
+zipcode = 29654
+percent_zip_in_county = 10.84
+
+[[zipcodes]]
+zipcode = 29661
+percent_zip_in_county = 81.43
+
+[[zipcodes]]
+zipcode = 29662
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29669
+percent_zip_in_county = 48.76
+
+[[zipcodes]]
+zipcode = 29673
+percent_zip_in_county = 51.24
+
+[[zipcodes]]
+zipcode = 29680
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29681
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29683
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29687
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29690
+percent_zip_in_county = 100.0

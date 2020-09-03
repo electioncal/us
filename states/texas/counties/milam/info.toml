@@ -1,2 +1,54 @@
 name = "Milam County"
 fips_code = 48331
+
+[[zipcodes]]
+zipcode = 76511
+percent_zip_in_county = 4.85
+
+[[zipcodes]]
+zipcode = 76518
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76519
+percent_zip_in_county = 40.73
+
+[[zipcodes]]
+zipcode = 76520
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76523
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76534
+percent_zip_in_county = 3.4
+
+[[zipcodes]]
+zipcode = 76556
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76567
+percent_zip_in_county = 97.75
+
+[[zipcodes]]
+zipcode = 76569
+percent_zip_in_county = 3.6
+
+[[zipcodes]]
+zipcode = 76570
+percent_zip_in_county = 3.77
+
+[[zipcodes]]
+zipcode = 76577
+percent_zip_in_county = 98.39
+
+[[zipcodes]]
+zipcode = 77836
+percent_zip_in_county = 0.47
+
+[[zipcodes]]
+zipcode = 77857
+percent_zip_in_county = 100.0

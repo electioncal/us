@@ -1,2 +1,22 @@
 name = "Gilchrist County"
 fips_code = 12041
+
+[[zipcodes]]
+zipcode = 32008
+percent_zip_in_county = 19.89
+
+[[zipcodes]]
+zipcode = 32619
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32643
+percent_zip_in_county = 18.33
+
+[[zipcodes]]
+zipcode = 32669
+percent_zip_in_county = 6.37
+
+[[zipcodes]]
+zipcode = 32693
+percent_zip_in_county = 69.18

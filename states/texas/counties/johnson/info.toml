@@ -1,2 +1,66 @@
 name = "Johnson County"
 fips_code = 48251
+
+[[zipcodes]]
+zipcode = 76009
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76028
+percent_zip_in_county = 70.93
+
+[[zipcodes]]
+zipcode = 76031
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76033
+percent_zip_in_county = 99.94
+
+[[zipcodes]]
+zipcode = 76035
+percent_zip_in_county = 8.08
+
+[[zipcodes]]
+zipcode = 76036
+percent_zip_in_county = 11.95
+
+[[zipcodes]]
+zipcode = 76044
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76049
+percent_zip_in_county = 0.97
+
+[[zipcodes]]
+zipcode = 76050
+percent_zip_in_county = 90.86
+
+[[zipcodes]]
+zipcode = 76058
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76059
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76063
+percent_zip_in_county = 4.76
+
+[[zipcodes]]
+zipcode = 76070
+percent_zip_in_county = 3.19
+
+[[zipcodes]]
+zipcode = 76084
+percent_zip_in_county = 83.13
+
+[[zipcodes]]
+zipcode = 76093
+percent_zip_in_county = 93.41

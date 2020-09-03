@@ -1,2 +1,86 @@
 name = "Smith County"
 fips_code = 48423
+
+[[zipcodes]]
+zipcode = 75647
+percent_zip_in_county = 9.34
+
+[[zipcodes]]
+zipcode = 75662
+percent_zip_in_county = 1.79
+
+[[zipcodes]]
+zipcode = 75684
+percent_zip_in_county = 10.78
+
+[[zipcodes]]
+zipcode = 75701
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75702
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75703
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75704
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75705
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75706
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75707
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75708
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75709
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75750
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75757
+percent_zip_in_county = 58.98
+
+[[zipcodes]]
+zipcode = 75762
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75771
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75773
+percent_zip_in_county = 7.44
+
+[[zipcodes]]
+zipcode = 75789
+percent_zip_in_county = 62.22
+
+[[zipcodes]]
+zipcode = 75790
+percent_zip_in_county = 1.76
+
+[[zipcodes]]
+zipcode = 75791
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75792
+percent_zip_in_county = 100.0

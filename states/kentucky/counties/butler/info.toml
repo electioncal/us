@@ -1,2 +1,38 @@
 name = "Butler County"
 fips_code = 21031
+
+[[zipcodes]]
+zipcode = 42101
+percent_zip_in_county = 0.3
+
+[[zipcodes]]
+zipcode = 42256
+percent_zip_in_county = 12.13
+
+[[zipcodes]]
+zipcode = 42261
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42273
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42275
+percent_zip_in_county = 62.97
+
+[[zipcodes]]
+zipcode = 42320
+percent_zip_in_county = 0.39
+
+[[zipcodes]]
+zipcode = 42333
+percent_zip_in_county = 7.74
+
+[[zipcodes]]
+zipcode = 42339
+percent_zip_in_county = 7.13
+
+[[zipcodes]]
+zipcode = 42721
+percent_zip_in_county = 3.47

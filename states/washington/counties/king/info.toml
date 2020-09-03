@@ -1,2 +1,350 @@
 name = "King County"
 fips_code = 53033
+
+[[zipcodes]]
+zipcode = 98001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98004
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98005
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98006
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98008
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98011
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98014
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98019
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98022
+percent_zip_in_county = 98.3
+
+[[zipcodes]]
+zipcode = 98023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98028
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98029
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98031
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98038
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98042
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98047
+percent_zip_in_county = 98.34
+
+[[zipcodes]]
+zipcode = 98050
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98052
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98053
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98055
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98056
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98057
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98058
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98059
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98065
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98068
+percent_zip_in_county = 19.6
+
+[[zipcodes]]
+zipcode = 98070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98072
+percent_zip_in_county = 86.67
+
+[[zipcodes]]
+zipcode = 98074
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98075
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98077
+percent_zip_in_county = 93.18
+
+[[zipcodes]]
+zipcode = 98092
+percent_zip_in_county = 82.57
+
+[[zipcodes]]
+zipcode = 98101
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98102
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98104
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98105
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98106
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98107
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98108
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98109
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98112
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98115
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98116
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98117
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98118
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98119
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98121
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98122
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98125
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98126
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98133
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98134
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98136
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98144
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98146
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98148
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98154
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 98155
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98158
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 98164
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98166
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98168
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98174
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 98177
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98178
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98188
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98195
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 98198
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98199
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98224
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98288
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98354
+percent_zip_in_county = 11.84

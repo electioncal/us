@@ -1,2 +1,30 @@
 name = "Marlboro County"
 fips_code = 45069
+
+[[zipcodes]]
+zipcode = 29512
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29516
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29525
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29565
+percent_zip_in_county = 1.45
+
+[[zipcodes]]
+zipcode = 29570
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29594
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29596
+percent_zip_in_county = 100.0

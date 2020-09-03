@@ -1,2 +1,54 @@
 name = "Canyon County"
 fips_code = 16027
+
+[[zipcodes]]
+zipcode = 83605
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83607
+percent_zip_in_county = 96.05
+
+[[zipcodes]]
+zipcode = 83626
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83634
+percent_zip_in_county = 2.32
+
+[[zipcodes]]
+zipcode = 83641
+percent_zip_in_county = 63.35
+
+[[zipcodes]]
+zipcode = 83644
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83651
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83656
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83660
+percent_zip_in_county = 89.08
+
+[[zipcodes]]
+zipcode = 83669
+percent_zip_in_county = 4.33
+
+[[zipcodes]]
+zipcode = 83676
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83686
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83687
+percent_zip_in_county = 98.17

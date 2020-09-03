@@ -1,2 +1,58 @@
 name = "Kenai Peninsula Borough"
 fips_code = 2122
+
+[[zipcodes]]
+zipcode = 99556
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99568
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99572
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99603
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99605
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99610
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99611
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99631
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99639
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99663
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99664
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99669
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99672
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99682
+percent_zip_in_county = 100.0

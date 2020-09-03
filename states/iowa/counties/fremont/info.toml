@@ -1,2 +1,42 @@
 name = "Fremont County"
 fips_code = 19071
+
+[[zipcodes]]
+zipcode = 51601
+percent_zip_in_county = 4.12
+
+[[zipcodes]]
+zipcode = 51639
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51640
+percent_zip_in_county = 99.37
+
+[[zipcodes]]
+zipcode = 51645
+percent_zip_in_county = 71.37
+
+[[zipcodes]]
+zipcode = 51648
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51649
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51650
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51652
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51653
+percent_zip_in_county = 87.89
+
+[[zipcodes]]
+zipcode = 51654
+percent_zip_in_county = 100.0

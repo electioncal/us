@@ -1,2 +1,98 @@
 name = "Windham County"
 fips_code = 50025
+
+[[zipcodes]]
+zipcode = 5101
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5141
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5143
+percent_zip_in_county = 14.18
+
+[[zipcodes]]
+zipcode = 5146
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5148
+percent_zip_in_county = 91.32
+
+[[zipcodes]]
+zipcode = 5154
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5155
+percent_zip_in_county = 99.28
+
+[[zipcodes]]
+zipcode = 5158
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5341
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5342
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5343
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5345
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5346
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5353
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5354
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5355
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5356
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5358
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5359
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5360
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5361
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5362
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5363
+percent_zip_in_county = 94.61

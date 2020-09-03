@@ -1,2 +1,14 @@
 name = "Hansford County"
 fips_code = 48195
+
+[[zipcodes]]
+zipcode = 79040
+percent_zip_in_county = 89.56
+
+[[zipcodes]]
+zipcode = 79062
+percent_zip_in_county = 69.72
+
+[[zipcodes]]
+zipcode = 79081
+percent_zip_in_county = 97.49

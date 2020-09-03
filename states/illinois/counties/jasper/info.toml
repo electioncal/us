@@ -1,2 +1,62 @@
 name = "Jasper County"
 fips_code = 17079
+
+[[zipcodes]]
+zipcode = 62420
+percent_zip_in_county = 0.27
+
+[[zipcodes]]
+zipcode = 62424
+percent_zip_in_county = 3.2
+
+[[zipcodes]]
+zipcode = 62425
+percent_zip_in_county = 6.01
+
+[[zipcodes]]
+zipcode = 62432
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62434
+percent_zip_in_county = 30.61
+
+[[zipcodes]]
+zipcode = 62436
+percent_zip_in_county = 22.24
+
+[[zipcodes]]
+zipcode = 62445
+percent_zip_in_county = 28.67
+
+[[zipcodes]]
+zipcode = 62448
+percent_zip_in_county = 97.34
+
+[[zipcodes]]
+zipcode = 62449
+percent_zip_in_county = 4.6
+
+[[zipcodes]]
+zipcode = 62459
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62467
+percent_zip_in_county = 2.41
+
+[[zipcodes]]
+zipcode = 62475
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62479
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62480
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62481
+percent_zip_in_county = 95.85

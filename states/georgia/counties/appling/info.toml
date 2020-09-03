@@ -1,2 +1,22 @@
 name = "Appling County"
 fips_code = 13001
+
+[[zipcodes]]
+zipcode = 31513
+percent_zip_in_county = 99.8
+
+[[zipcodes]]
+zipcode = 31518
+percent_zip_in_county = 52.13
+
+[[zipcodes]]
+zipcode = 31539
+percent_zip_in_county = 1.82
+
+[[zipcodes]]
+zipcode = 31555
+percent_zip_in_county = 8.02
+
+[[zipcodes]]
+zipcode = 31563
+percent_zip_in_county = 100.0

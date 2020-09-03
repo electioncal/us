@@ -1,2 +1,26 @@
 name = "Wilbarger County"
 fips_code = 48487
+
+[[zipcodes]]
+zipcode = 76360
+percent_zip_in_county = 3.31
+
+[[zipcodes]]
+zipcode = 76364
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76373
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76384
+percent_zip_in_county = 99.85
+
+[[zipcodes]]
+zipcode = 79225
+percent_zip_in_county = 2.87
+
+[[zipcodes]]
+zipcode = 79247
+percent_zip_in_county = 100.0

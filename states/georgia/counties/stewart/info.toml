@@ -1,2 +1,22 @@
 name = "Stewart County"
 fips_code = 13259
+
+[[zipcodes]]
+zipcode = 31805
+percent_zip_in_county = 2.44
+
+[[zipcodes]]
+zipcode = 31814
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31815
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31821
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31825
+percent_zip_in_county = 77.12

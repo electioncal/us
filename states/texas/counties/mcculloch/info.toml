@@ -1,2 +1,34 @@
 name = "McCulloch County"
 fips_code = 48307
+
+[[zipcodes]]
+zipcode = 76825
+percent_zip_in_county = 99.56
+
+[[zipcodes]]
+zipcode = 76836
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76842
+percent_zip_in_county = 9.42
+
+[[zipcodes]]
+zipcode = 76852
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76858
+percent_zip_in_county = 86.61
+
+[[zipcodes]]
+zipcode = 76871
+percent_zip_in_county = 0.64
+
+[[zipcodes]]
+zipcode = 76872
+percent_zip_in_county = 83.82
+
+[[zipcodes]]
+zipcode = 76887
+percent_zip_in_county = 100.0

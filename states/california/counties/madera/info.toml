@@ -1,2 +1,62 @@
 name = "Madera County"
 fips_code = 6039
+
+[[zipcodes]]
+zipcode = 93601
+percent_zip_in_county = 94.76
+
+[[zipcodes]]
+zipcode = 93604
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93610
+percent_zip_in_county = 99.19
+
+[[zipcodes]]
+zipcode = 93614
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93622
+percent_zip_in_county = 5.04
+
+[[zipcodes]]
+zipcode = 93623
+percent_zip_in_county = 2.9
+
+[[zipcodes]]
+zipcode = 93626
+percent_zip_in_county = 24.06
+
+[[zipcodes]]
+zipcode = 93636
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93637
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93638
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93643
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93644
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93645
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93653
+percent_zip_in_county = 91.86
+
+[[zipcodes]]
+zipcode = 93669
+percent_zip_in_county = 100.0

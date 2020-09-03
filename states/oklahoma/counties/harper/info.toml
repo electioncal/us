@@ -1,2 +1,30 @@
 name = "Harper County"
 fips_code = 40059
+
+[[zipcodes]]
+zipcode = 73801
+percent_zip_in_county = 0.33
+
+[[zipcodes]]
+zipcode = 73834
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73842
+percent_zip_in_county = 0.4
+
+[[zipcodes]]
+zipcode = 73844
+percent_zip_in_county = 14.87
+
+[[zipcodes]]
+zipcode = 73848
+percent_zip_in_county = 82.61
+
+[[zipcodes]]
+zipcode = 73851
+percent_zip_in_county = 77.5
+
+[[zipcodes]]
+zipcode = 73855
+percent_zip_in_county = 100.0

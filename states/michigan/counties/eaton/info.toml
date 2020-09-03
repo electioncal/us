@@ -1,2 +1,70 @@
 name = "Eaton County"
 fips_code = 26045
+
+[[zipcodes]]
+zipcode = 48813
+percent_zip_in_county = 99.88
+
+[[zipcodes]]
+zipcode = 48821
+percent_zip_in_county = 94.71
+
+[[zipcodes]]
+zipcode = 48827
+percent_zip_in_county = 88.01
+
+[[zipcodes]]
+zipcode = 48837
+percent_zip_in_county = 88.09
+
+[[zipcodes]]
+zipcode = 48849
+percent_zip_in_county = 2.38
+
+[[zipcodes]]
+zipcode = 48861
+percent_zip_in_county = 90.74
+
+[[zipcodes]]
+zipcode = 48876
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48890
+percent_zip_in_county = 59.99
+
+[[zipcodes]]
+zipcode = 48897
+percent_zip_in_county = 1.9
+
+[[zipcodes]]
+zipcode = 48906
+percent_zip_in_county = 3.27
+
+[[zipcodes]]
+zipcode = 48911
+percent_zip_in_county = 12.69
+
+[[zipcodes]]
+zipcode = 48917
+percent_zip_in_county = 83.2
+
+[[zipcodes]]
+zipcode = 49021
+percent_zip_in_county = 54.51
+
+[[zipcodes]]
+zipcode = 49073
+percent_zip_in_county = 8.18
+
+[[zipcodes]]
+zipcode = 49076
+percent_zip_in_county = 76.81
+
+[[zipcodes]]
+zipcode = 49096
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49284
+percent_zip_in_county = 8.09

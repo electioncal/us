@@ -1,2 +1,74 @@
 name = "Plumas County"
 fips_code = 6063
+
+[[zipcodes]]
+zipcode = 95915
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95923
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95934
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95947
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95956
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95971
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95981
+percent_zip_in_county = 30.93
+
+[[zipcodes]]
+zipcode = 95983
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95984
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96105
+percent_zip_in_county = 72.3
+
+[[zipcodes]]
+zipcode = 96106
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96118
+percent_zip_in_county = 1.17
+
+[[zipcodes]]
+zipcode = 96122
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96129
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96135
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96137
+percent_zip_in_county = 44.86

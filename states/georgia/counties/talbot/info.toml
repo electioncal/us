@@ -1,2 +1,34 @@
 name = "Talbot County"
 fips_code = 13263
+
+[[zipcodes]]
+zipcode = 31801
+percent_zip_in_county = 35.54
+
+[[zipcodes]]
+zipcode = 31810
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31812
+percent_zip_in_county = 79.47
+
+[[zipcodes]]
+zipcode = 31816
+percent_zip_in_county = 6.53
+
+[[zipcodes]]
+zipcode = 31826
+percent_zip_in_county = 45.36
+
+[[zipcodes]]
+zipcode = 31827
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31831
+percent_zip_in_county = 11.95
+
+[[zipcodes]]
+zipcode = 31836
+percent_zip_in_county = 100.0

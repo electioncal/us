@@ -1,2 +1,82 @@
 name = "Chittenden County"
 fips_code = 50007
+
+[[zipcodes]]
+zipcode = 5401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5403
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5404
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5405
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5408
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5439
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5445
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5446
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5452
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5461
+percent_zip_in_county = 96.79
+
+[[zipcodes]]
+zipcode = 5462
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5465
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5468
+percent_zip_in_county = 79.99
+
+[[zipcodes]]
+zipcode = 5477
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5482
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5487
+percent_zip_in_county = 2.0
+
+[[zipcodes]]
+zipcode = 5489
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5494
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5495
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5676
+percent_zip_in_county = 9.79

@@ -1,2 +1,34 @@
 name = "Garfield County"
 fips_code = 8045
+
+[[zipcodes]]
+zipcode = 81601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81623
+percent_zip_in_county = 64.8
+
+[[zipcodes]]
+zipcode = 81630
+percent_zip_in_county = 10.01
+
+[[zipcodes]]
+zipcode = 81635
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81637
+percent_zip_in_county = 0.83
+
+[[zipcodes]]
+zipcode = 81647
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81650
+percent_zip_in_county = 99.55
+
+[[zipcodes]]
+zipcode = 81652
+percent_zip_in_county = 100.0

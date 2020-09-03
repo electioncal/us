@@ -1,2 +1,18 @@
 name = "Del Norte County"
 fips_code = 6015
+
+[[zipcodes]]
+zipcode = 95531
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95543
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95548
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95567
+percent_zip_in_county = 100.0

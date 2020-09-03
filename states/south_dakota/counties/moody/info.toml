@@ -1,2 +1,38 @@
 name = "Moody County"
 fips_code = 46101
+
+[[zipcodes]]
+zipcode = 56144
+percent_zip_in_county = 7.87
+
+[[zipcodes]]
+zipcode = 56164
+percent_zip_in_county = 0.82
+
+[[zipcodes]]
+zipcode = 57006
+percent_zip_in_county = 0.58
+
+[[zipcodes]]
+zipcode = 57017
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57022
+percent_zip_in_county = 8.47
+
+[[zipcodes]]
+zipcode = 57024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57026
+percent_zip_in_county = 11.52
+
+[[zipcodes]]
+zipcode = 57028
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57065
+percent_zip_in_county = 100.0

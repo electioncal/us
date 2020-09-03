@@ -1,2 +1,26 @@
 name = "Flagler County"
 fips_code = 12035
+
+[[zipcodes]]
+zipcode = 32110
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32136
+percent_zip_in_county = 97.39
+
+[[zipcodes]]
+zipcode = 32137
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32164
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32174
+percent_zip_in_county = 3.68
+
+[[zipcodes]]
+zipcode = 32180
+percent_zip_in_county = 0.33

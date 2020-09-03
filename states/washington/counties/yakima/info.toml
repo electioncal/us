@@ -1,2 +1,94 @@
 name = "Yakima County"
 fips_code = 53077
+
+[[zipcodes]]
+zipcode = 98901
+percent_zip_in_county = 99.8
+
+[[zipcodes]]
+zipcode = 98902
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98903
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98908
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98921
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98923
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98929
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 98930
+percent_zip_in_county = 94.15
+
+[[zipcodes]]
+zipcode = 98932
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98933
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98935
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98936
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98937
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98938
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98939
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98942
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98944
+percent_zip_in_county = 99.8
+
+[[zipcodes]]
+zipcode = 98947
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98948
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98951
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98952
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98953
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99350
+percent_zip_in_county = 0.73

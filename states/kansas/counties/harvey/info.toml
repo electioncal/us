@@ -1,2 +1,50 @@
 name = "Harvey County"
 fips_code = 20079
+
+[[zipcodes]]
+zipcode = 66866
+percent_zip_in_county = 5.59
+
+[[zipcodes]]
+zipcode = 67020
+percent_zip_in_county = 77.92
+
+[[zipcodes]]
+zipcode = 67056
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67062
+percent_zip_in_county = 99.49
+
+[[zipcodes]]
+zipcode = 67107
+percent_zip_in_county = 10.07
+
+[[zipcodes]]
+zipcode = 67114
+percent_zip_in_county = 96.91
+
+[[zipcodes]]
+zipcode = 67117
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67135
+percent_zip_in_county = 60.12
+
+[[zipcodes]]
+zipcode = 67147
+percent_zip_in_county = 0.83
+
+[[zipcodes]]
+zipcode = 67151
+percent_zip_in_county = 95.41
+
+[[zipcodes]]
+zipcode = 67154
+percent_zip_in_county = 14.9
+
+[[zipcodes]]
+zipcode = 67522
+percent_zip_in_county = 4.29

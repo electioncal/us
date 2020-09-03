@@ -1,2 +1,30 @@
 name = "Bradley County"
 fips_code = 47011
+
+[[zipcodes]]
+zipcode = 37310
+percent_zip_in_county = 93.23
+
+[[zipcodes]]
+zipcode = 37311
+percent_zip_in_county = 99.57
+
+[[zipcodes]]
+zipcode = 37312
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37323
+percent_zip_in_county = 99.92
+
+[[zipcodes]]
+zipcode = 37336
+percent_zip_in_county = 39.1
+
+[[zipcodes]]
+zipcode = 37353
+percent_zip_in_county = 85.24
+
+[[zipcodes]]
+zipcode = 37362
+percent_zip_in_county = 29.01

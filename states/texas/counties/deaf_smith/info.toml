@@ -1,2 +1,26 @@
 name = "Deaf Smith County"
 fips_code = 48117
+
+[[zipcodes]]
+zipcode = 79001
+percent_zip_in_county = 10.44
+
+[[zipcodes]]
+zipcode = 79025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79035
+percent_zip_in_county = 1.26
+
+[[zipcodes]]
+zipcode = 79045
+percent_zip_in_county = 97.51
+
+[[zipcodes]]
+zipcode = 79092
+percent_zip_in_county = 5.79
+
+[[zipcodes]]
+zipcode = 79098
+percent_zip_in_county = 30.56

@@ -1,2 +1,102 @@
 name = "Iroquois County"
 fips_code = 17075
+
+[[zipcodes]]
+zipcode = 60911
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60912
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60918
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60922
+percent_zip_in_county = 44.73
+
+[[zipcodes]]
+zipcode = 60924
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60926
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60927
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60928
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60930
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60931
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60938
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60941
+percent_zip_in_county = 2.21
+
+[[zipcodes]]
+zipcode = 60942
+percent_zip_in_county = 3.11
+
+[[zipcodes]]
+zipcode = 60945
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60948
+percent_zip_in_county = 93.28
+
+[[zipcodes]]
+zipcode = 60951
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60953
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60955
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60960
+percent_zip_in_county = 3.29
+
+[[zipcodes]]
+zipcode = 60964
+percent_zip_in_county = 6.92
+
+[[zipcodes]]
+zipcode = 60966
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60968
+percent_zip_in_county = 82.22
+
+[[zipcodes]]
+zipcode = 60970
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60973
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60974
+percent_zip_in_county = 100.0

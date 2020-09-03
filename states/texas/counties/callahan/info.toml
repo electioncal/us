@@ -1,2 +1,38 @@
 name = "Callahan County"
 fips_code = 48059
+
+[[zipcodes]]
+zipcode = 76437
+percent_zip_in_county = 2.27
+
+[[zipcodes]]
+zipcode = 76443
+percent_zip_in_county = 93.04
+
+[[zipcodes]]
+zipcode = 76464
+percent_zip_in_county = 6.32
+
+[[zipcodes]]
+zipcode = 76469
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79504
+percent_zip_in_county = 99.57
+
+[[zipcodes]]
+zipcode = 79510
+percent_zip_in_county = 99.55
+
+[[zipcodes]]
+zipcode = 79541
+percent_zip_in_county = 3.92
+
+[[zipcodes]]
+zipcode = 79601
+percent_zip_in_county = 1.41
+
+[[zipcodes]]
+zipcode = 79602
+percent_zip_in_county = 1.93

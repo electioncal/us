@@ -1,2 +1,50 @@
 name = "Lunenburg County"
 fips_code = 51111
+
+[[zipcodes]]
+zipcode = 23824
+percent_zip_in_county = 0.75
+
+[[zipcodes]]
+zipcode = 23920
+percent_zip_in_county = 3.87
+
+[[zipcodes]]
+zipcode = 23924
+percent_zip_in_county = 3.1
+
+[[zipcodes]]
+zipcode = 23937
+percent_zip_in_county = 10.96
+
+[[zipcodes]]
+zipcode = 23938
+percent_zip_in_county = 33.91
+
+[[zipcodes]]
+zipcode = 23942
+percent_zip_in_county = 23.56
+
+[[zipcodes]]
+zipcode = 23944
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23947
+percent_zip_in_county = 33.96
+
+[[zipcodes]]
+zipcode = 23952
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23954
+percent_zip_in_county = 25.93
+
+[[zipcodes]]
+zipcode = 23970
+percent_zip_in_county = 5.39
+
+[[zipcodes]]
+zipcode = 23974
+percent_zip_in_county = 100.0

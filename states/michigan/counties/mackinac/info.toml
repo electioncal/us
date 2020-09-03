@@ -1,2 +1,62 @@
 name = "Mackinac County"
 fips_code = 26097
+
+[[zipcodes]]
+zipcode = 49719
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49745
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49757
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49760
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49762
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49774
+percent_zip_in_county = 19.72
+
+[[zipcodes]]
+zipcode = 49775
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49780
+percent_zip_in_county = 4.47
+
+[[zipcodes]]
+zipcode = 49781
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49793
+percent_zip_in_county = 1.24
+
+[[zipcodes]]
+zipcode = 49820
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49827
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49836
+percent_zip_in_county = 43.28
+
+[[zipcodes]]
+zipcode = 49838
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49853
+percent_zip_in_county = 4.54

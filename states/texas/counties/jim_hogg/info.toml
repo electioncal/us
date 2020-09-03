@@ -1,2 +1,6 @@
 name = "Jim Hogg County"
 fips_code = 48247
+
+[[zipcodes]]
+zipcode = 78361
+percent_zip_in_county = 99.07

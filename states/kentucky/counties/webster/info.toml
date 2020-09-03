@@ -1,2 +1,42 @@
 name = "Webster County"
 fips_code = 21233
+
+[[zipcodes]]
+zipcode = 42404
+percent_zip_in_county = 96.89
+
+[[zipcodes]]
+zipcode = 42406
+percent_zip_in_county = 1.8
+
+[[zipcodes]]
+zipcode = 42409
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42437
+percent_zip_in_county = 0.26
+
+[[zipcodes]]
+zipcode = 42441
+percent_zip_in_county = 1.57
+
+[[zipcodes]]
+zipcode = 42450
+percent_zip_in_county = 93.7
+
+[[zipcodes]]
+zipcode = 42452
+percent_zip_in_county = 1.17
+
+[[zipcodes]]
+zipcode = 42455
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42456
+percent_zip_in_county = 63.37
+
+[[zipcodes]]
+zipcode = 42463
+percent_zip_in_county = 100.0

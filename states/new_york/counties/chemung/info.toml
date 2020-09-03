@@ -1,2 +1,82 @@
 name = "Chemung County"
 fips_code = 36015
+
+[[zipcodes]]
+zipcode = 14812
+percent_zip_in_county = 29.61
+
+[[zipcodes]]
+zipcode = 14814
+percent_zip_in_county = 88.81
+
+[[zipcodes]]
+zipcode = 14816
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14824
+percent_zip_in_county = 33.19
+
+[[zipcodes]]
+zipcode = 14825
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14830
+percent_zip_in_county = 1.0
+
+[[zipcodes]]
+zipcode = 14838
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14845
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14859
+percent_zip_in_county = 30.42
+
+[[zipcodes]]
+zipcode = 14861
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14864
+percent_zip_in_county = 89.14
+
+[[zipcodes]]
+zipcode = 14871
+percent_zip_in_county = 90.65
+
+[[zipcodes]]
+zipcode = 14872
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14889
+percent_zip_in_county = 96.1
+
+[[zipcodes]]
+zipcode = 14892
+percent_zip_in_county = 9.23
+
+[[zipcodes]]
+zipcode = 14894
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14901
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14903
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14904
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14905
+percent_zip_in_county = 100.0

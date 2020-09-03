@@ -1,2 +1,22 @@
 name = "Summit County"
 fips_code = 8117
+
+[[zipcodes]]
+zipcode = 80424
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80435
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80443
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80497
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80498
+percent_zip_in_county = 100.0

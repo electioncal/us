@@ -1,2 +1,42 @@
 name = "Upshur County"
 fips_code = 54097
+
+[[zipcodes]]
+zipcode = 26201
+percent_zip_in_county = 96.61
+
+[[zipcodes]]
+zipcode = 26218
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26224
+percent_zip_in_county = 18.1
+
+[[zipcodes]]
+zipcode = 26228
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26234
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26236
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26237
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26238
+percent_zip_in_county = 17.59
+
+[[zipcodes]]
+zipcode = 26267
+percent_zip_in_county = 36.86
+
+[[zipcodes]]
+zipcode = 26343
+percent_zip_in_county = 37.98

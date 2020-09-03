@@ -1,2 +1,50 @@
 name = "Northampton County"
 fips_code = 51131
+
+[[zipcodes]]
+zipcode = 23307
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23310
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23313
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23316
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23347
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23350
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23354
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23398
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23405
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23408
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23413
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23486
+percent_zip_in_county = 100.0

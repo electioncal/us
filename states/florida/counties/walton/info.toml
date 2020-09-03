@@ -1,2 +1,54 @@
 name = "Walton County"
 fips_code = 12131
+
+[[zipcodes]]
+zipcode = 32413
+percent_zip_in_county = 8.49
+
+[[zipcodes]]
+zipcode = 32433
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32435
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32439
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32455
+percent_zip_in_county = 55.36
+
+[[zipcodes]]
+zipcode = 32459
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32461
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32462
+percent_zip_in_county = 5.28
+
+[[zipcodes]]
+zipcode = 32464
+percent_zip_in_county = 14.12
+
+[[zipcodes]]
+zipcode = 32539
+percent_zip_in_county = 2.03
+
+[[zipcodes]]
+zipcode = 32550
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32567
+percent_zip_in_county = 42.31
+
+[[zipcodes]]
+zipcode = 32578
+percent_zip_in_county = 2.79

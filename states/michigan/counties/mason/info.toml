@@ -1,2 +1,42 @@
 name = "Mason County"
 fips_code = 26105
+
+[[zipcodes]]
+zipcode = 49402
+percent_zip_in_county = 64.06
+
+[[zipcodes]]
+zipcode = 49405
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49410
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49411
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49431
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49449
+percent_zip_in_county = 21.5
+
+[[zipcodes]]
+zipcode = 49454
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49458
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49644
+percent_zip_in_county = 0.1
+
+[[zipcodes]]
+zipcode = 49660
+percent_zip_in_county = 4.08

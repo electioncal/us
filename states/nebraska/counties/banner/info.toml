@@ -1,2 +1,30 @@
 name = "Banner County"
 fips_code = 31007
+
+[[zipcodes]]
+zipcode = 69128
+percent_zip_in_county = 14.9
+
+[[zipcodes]]
+zipcode = 69145
+percent_zip_in_county = 1.12
+
+[[zipcodes]]
+zipcode = 69156
+percent_zip_in_county = 8.15
+
+[[zipcodes]]
+zipcode = 69334
+percent_zip_in_county = 1.11
+
+[[zipcodes]]
+zipcode = 69341
+percent_zip_in_county = 0.47
+
+[[zipcodes]]
+zipcode = 69345
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82082
+percent_zip_in_county = 1.18

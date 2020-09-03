@@ -1,2 +1,162 @@
 name = "Stark County"
 fips_code = 39151
+
+[[zipcodes]]
+zipcode = 44201
+percent_zip_in_county = 1.06
+
+[[zipcodes]]
+zipcode = 44216
+percent_zip_in_county = 6.41
+
+[[zipcodes]]
+zipcode = 44260
+percent_zip_in_county = 7.04
+
+[[zipcodes]]
+zipcode = 44601
+percent_zip_in_county = 91.72
+
+[[zipcodes]]
+zipcode = 44608
+percent_zip_in_county = 83.95
+
+[[zipcodes]]
+zipcode = 44612
+percent_zip_in_county = 3.95
+
+[[zipcodes]]
+zipcode = 44613
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44614
+percent_zip_in_county = 98.52
+
+[[zipcodes]]
+zipcode = 44618
+percent_zip_in_county = 7.58
+
+[[zipcodes]]
+zipcode = 44626
+percent_zip_in_county = 98.56
+
+[[zipcodes]]
+zipcode = 44632
+percent_zip_in_county = 94.72
+
+[[zipcodes]]
+zipcode = 44634
+percent_zip_in_county = 24.54
+
+[[zipcodes]]
+zipcode = 44640
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44641
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44643
+percent_zip_in_county = 47.45
+
+[[zipcodes]]
+zipcode = 44646
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44647
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44652
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44657
+percent_zip_in_county = 45.84
+
+[[zipcodes]]
+zipcode = 44662
+percent_zip_in_county = 93.51
+
+[[zipcodes]]
+zipcode = 44666
+percent_zip_in_county = 84.43
+
+[[zipcodes]]
+zipcode = 44669
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44670
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44685
+percent_zip_in_county = 49.21
+
+[[zipcodes]]
+zipcode = 44688
+percent_zip_in_county = 91.09
+
+[[zipcodes]]
+zipcode = 44689
+percent_zip_in_county = 63.79
+
+[[zipcodes]]
+zipcode = 44702
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44703
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44704
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44705
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44706
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44707
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44708
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44709
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44710
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44714
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44718
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44720
+percent_zip_in_county = 91.06
+
+[[zipcodes]]
+zipcode = 44721
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44730
+percent_zip_in_county = 98.51

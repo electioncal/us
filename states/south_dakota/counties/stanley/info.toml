@@ -1,2 +1,14 @@
 name = "Stanley County"
 fips_code = 46117
+
+[[zipcodes]]
+zipcode = 57532
+percent_zip_in_county = 99.47
+
+[[zipcodes]]
+zipcode = 57537
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57552
+percent_zip_in_county = 11.37

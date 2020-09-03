@@ -1,2 +1,78 @@
 name = "Tangipahoa Parish"
 fips_code = 22105
+
+[[zipcodes]]
+zipcode = 70401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70402
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70403
+percent_zip_in_county = 94.9
+
+[[zipcodes]]
+zipcode = 70422
+percent_zip_in_county = 80.44
+
+[[zipcodes]]
+zipcode = 70433
+percent_zip_in_county = 0.2
+
+[[zipcodes]]
+zipcode = 70435
+percent_zip_in_county = 0.27
+
+[[zipcodes]]
+zipcode = 70436
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70437
+percent_zip_in_county = 12.26
+
+[[zipcodes]]
+zipcode = 70442
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70443
+percent_zip_in_county = 79.38
+
+[[zipcodes]]
+zipcode = 70444
+percent_zip_in_county = 88.01
+
+[[zipcodes]]
+zipcode = 70446
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70451
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70454
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70455
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70456
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70462
+percent_zip_in_county = 2.18
+
+[[zipcodes]]
+zipcode = 70465
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70466
+percent_zip_in_county = 95.18

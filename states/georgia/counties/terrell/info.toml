@@ -1,2 +1,26 @@
 name = "Terrell County"
 fips_code = 13273
+
+[[zipcodes]]
+zipcode = 31721
+percent_zip_in_county = 0.53
+
+[[zipcodes]]
+zipcode = 39826
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39842
+percent_zip_in_county = 99.75
+
+[[zipcodes]]
+zipcode = 39877
+percent_zip_in_county = 62.2
+
+[[zipcodes]]
+zipcode = 39885
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39886
+percent_zip_in_county = 4.15

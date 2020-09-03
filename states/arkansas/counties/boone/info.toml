@@ -1,2 +1,38 @@
 name = "Boone County"
 fips_code = 5009
+
+[[zipcodes]]
+zipcode = 65733
+percent_zip_in_county = 0.69
+
+[[zipcodes]]
+zipcode = 72601
+percent_zip_in_county = 98.33
+
+[[zipcodes]]
+zipcode = 72611
+percent_zip_in_county = 44.34
+
+[[zipcodes]]
+zipcode = 72630
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72633
+percent_zip_in_county = 60.01
+
+[[zipcodes]]
+zipcode = 72644
+percent_zip_in_county = 94.4
+
+[[zipcodes]]
+zipcode = 72662
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72685
+percent_zip_in_county = 4.4
+
+[[zipcodes]]
+zipcode = 72687
+percent_zip_in_county = 0.06

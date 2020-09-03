@@ -1,2 +1,46 @@
 name = "Gentry County"
 fips_code = 29075
+
+[[zipcodes]]
+zipcode = 64402
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64438
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64441
+percent_zip_in_county = 28.09
+
+[[zipcodes]]
+zipcode = 64453
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64463
+percent_zip_in_county = 88.01
+
+[[zipcodes]]
+zipcode = 64471
+percent_zip_in_county = 4.97
+
+[[zipcodes]]
+zipcode = 64479
+percent_zip_in_county = 5.52
+
+[[zipcodes]]
+zipcode = 64489
+percent_zip_in_county = 93.81
+
+[[zipcodes]]
+zipcode = 64499
+percent_zip_in_county = 15.13
+
+[[zipcodes]]
+zipcode = 64657
+percent_zip_in_county = 58.51
+
+[[zipcodes]]
+zipcode = 64670
+percent_zip_in_county = 2.2

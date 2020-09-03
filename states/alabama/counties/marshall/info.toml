@@ -1,2 +1,66 @@
 name = "Marshall County"
 fips_code = 1095
+
+[[zipcodes]]
+zipcode = 35016
+percent_zip_in_county = 86.93
+
+[[zipcodes]]
+zipcode = 35087
+percent_zip_in_county = 5.63
+
+[[zipcodes]]
+zipcode = 35175
+percent_zip_in_county = 77.01
+
+[[zipcodes]]
+zipcode = 35747
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35754
+percent_zip_in_county = 1.31
+
+[[zipcodes]]
+zipcode = 35755
+percent_zip_in_county = 54.27
+
+[[zipcodes]]
+zipcode = 35760
+percent_zip_in_county = 3.67
+
+[[zipcodes]]
+zipcode = 35769
+percent_zip_in_county = 18.58
+
+[[zipcodes]]
+zipcode = 35776
+percent_zip_in_county = 11.43
+
+[[zipcodes]]
+zipcode = 35950
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35951
+percent_zip_in_county = 85.34
+
+[[zipcodes]]
+zipcode = 35957
+percent_zip_in_county = 85.69
+
+[[zipcodes]]
+zipcode = 35962
+percent_zip_in_county = 5.17
+
+[[zipcodes]]
+zipcode = 35975
+percent_zip_in_county = 9.07
+
+[[zipcodes]]
+zipcode = 35976
+percent_zip_in_county = 97.66
+
+[[zipcodes]]
+zipcode = 35980
+percent_zip_in_county = 76.17

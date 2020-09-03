@@ -1,2 +1,94 @@
 name = "Merced County"
 fips_code = 6047
+
+[[zipcodes]]
+zipcode = 93610
+percent_zip_in_county = 0.81
+
+[[zipcodes]]
+zipcode = 93620
+percent_zip_in_county = 93.87
+
+[[zipcodes]]
+zipcode = 93622
+percent_zip_in_county = 0.46
+
+[[zipcodes]]
+zipcode = 93635
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93665
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95303
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95312
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95315
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95317
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95322
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95324
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95333
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95334
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95340
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95341
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95348
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95360
+percent_zip_in_county = 1.55
+
+[[zipcodes]]
+zipcode = 95365
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95369
+percent_zip_in_county = 92.72
+
+[[zipcodes]]
+zipcode = 95374
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95380
+percent_zip_in_county = 3.78
+
+[[zipcodes]]
+zipcode = 95388
+percent_zip_in_county = 100.0

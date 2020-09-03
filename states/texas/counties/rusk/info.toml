@@ -1,2 +1,66 @@
 name = "Rusk County"
 fips_code = 48401
+
+[[zipcodes]]
+zipcode = 75603
+percent_zip_in_county = 25.31
+
+[[zipcodes]]
+zipcode = 75641
+percent_zip_in_county = 31.84
+
+[[zipcodes]]
+zipcode = 75652
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75654
+percent_zip_in_county = 99.88
+
+[[zipcodes]]
+zipcode = 75662
+percent_zip_in_county = 26.09
+
+[[zipcodes]]
+zipcode = 75667
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75669
+percent_zip_in_county = 20.96
+
+[[zipcodes]]
+zipcode = 75681
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75682
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75684
+percent_zip_in_county = 89.22
+
+[[zipcodes]]
+zipcode = 75691
+percent_zip_in_county = 93.24
+
+[[zipcodes]]
+zipcode = 75760
+percent_zip_in_county = 13.85
+
+[[zipcodes]]
+zipcode = 75784
+percent_zip_in_county = 48.02
+
+[[zipcodes]]
+zipcode = 75789
+percent_zip_in_county = 0.67
+
+[[zipcodes]]
+zipcode = 75946
+percent_zip_in_county = 21.24
+
+[[zipcodes]]
+zipcode = 75975
+percent_zip_in_county = 2.6

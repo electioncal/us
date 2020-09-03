@@ -1,2 +1,54 @@
 name = "Henderson County"
 fips_code = 48213
+
+[[zipcodes]]
+zipcode = 75124
+percent_zip_in_county = 79.19
+
+[[zipcodes]]
+zipcode = 75143
+percent_zip_in_county = 53.51
+
+[[zipcodes]]
+zipcode = 75147
+percent_zip_in_county = 9.75
+
+[[zipcodes]]
+zipcode = 75148
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75156
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75163
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75751
+percent_zip_in_county = 98.47
+
+[[zipcodes]]
+zipcode = 75752
+percent_zip_in_county = 95.51
+
+[[zipcodes]]
+zipcode = 75756
+percent_zip_in_county = 97.18
+
+[[zipcodes]]
+zipcode = 75758
+percent_zip_in_county = 93.07
+
+[[zipcodes]]
+zipcode = 75763
+percent_zip_in_county = 48.36
+
+[[zipcodes]]
+zipcode = 75770
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75778
+percent_zip_in_county = 66.53

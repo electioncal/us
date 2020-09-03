@@ -1,2 +1,46 @@
 name = "Sussex County"
 fips_code = 51183
+
+[[zipcodes]]
+zipcode = 23830
+percent_zip_in_county = 15.76
+
+[[zipcodes]]
+zipcode = 23837
+percent_zip_in_county = 1.49
+
+[[zipcodes]]
+zipcode = 23842
+percent_zip_in_county = 5.89
+
+[[zipcodes]]
+zipcode = 23847
+percent_zip_in_county = 0.7
+
+[[zipcodes]]
+zipcode = 23867
+percent_zip_in_county = 43.12
+
+[[zipcodes]]
+zipcode = 23882
+percent_zip_in_county = 71.5
+
+[[zipcodes]]
+zipcode = 23884
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23888
+percent_zip_in_county = 77.76
+
+[[zipcodes]]
+zipcode = 23890
+percent_zip_in_county = 87.17
+
+[[zipcodes]]
+zipcode = 23891
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23897
+percent_zip_in_county = 100.0

@@ -1,2 +1,26 @@
 name = "Bath County"
 fips_code = 51017
+
+[[zipcodes]]
+zipcode = 24412
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24432
+percent_zip_in_county = 6.25
+
+[[zipcodes]]
+zipcode = 24445
+percent_zip_in_county = 78.11
+
+[[zipcodes]]
+zipcode = 24460
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24484
+percent_zip_in_county = 91.09
+
+[[zipcodes]]
+zipcode = 24487
+percent_zip_in_county = 89.38

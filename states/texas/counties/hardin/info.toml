@@ -1,2 +1,46 @@
 name = "Hardin County"
 fips_code = 48199
+
+[[zipcodes]]
+zipcode = 77369
+percent_zip_in_county = 5.5
+
+[[zipcodes]]
+zipcode = 77374
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77376
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77519
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77564
+percent_zip_in_county = 6.54
+
+[[zipcodes]]
+zipcode = 77585
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77625
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77656
+percent_zip_in_county = 98.69
+
+[[zipcodes]]
+zipcode = 77657
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77659
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77663
+percent_zip_in_county = 61.27

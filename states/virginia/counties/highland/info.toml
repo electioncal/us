@@ -1,2 +1,30 @@
 name = "Highland County"
 fips_code = 51091
+
+[[zipcodes]]
+zipcode = 24413
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24433
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24442
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24458
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24465
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24484
+percent_zip_in_county = 8.91
+
+[[zipcodes]]
+zipcode = 24487
+percent_zip_in_county = 10.63

@@ -1,2 +1,54 @@
 name = "Lawrence County"
 fips_code = 5075
+
+[[zipcodes]]
+zipcode = 72410
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72415
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72433
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72434
+percent_zip_in_county = 59.44
+
+[[zipcodes]]
+zipcode = 72440
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72445
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72457
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72458
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72459
+percent_zip_in_county = 65.31
+
+[[zipcodes]]
+zipcode = 72466
+percent_zip_in_county = 60.77
+
+[[zipcodes]]
+zipcode = 72469
+percent_zip_in_county = 88.35
+
+[[zipcodes]]
+zipcode = 72476
+percent_zip_in_county = 98.64
+
+[[zipcodes]]
+zipcode = 72572
+percent_zip_in_county = 87.28

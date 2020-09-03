@@ -1,2 +1,38 @@
 name = "Quay County"
 fips_code = 35037
+
+[[zipcodes]]
+zipcode = 88120
+percent_zip_in_county = 19.67
+
+[[zipcodes]]
+zipcode = 88121
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88124
+percent_zip_in_county = 6.18
+
+[[zipcodes]]
+zipcode = 88401
+percent_zip_in_county = 99.76
+
+[[zipcodes]]
+zipcode = 88411
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88426
+percent_zip_in_county = 92.41
+
+[[zipcodes]]
+zipcode = 88427
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88430
+percent_zip_in_county = 94.44
+
+[[zipcodes]]
+zipcode = 88434
+percent_zip_in_county = 100.0

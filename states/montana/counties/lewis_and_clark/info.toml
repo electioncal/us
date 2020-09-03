@@ -1,2 +1,42 @@
 name = "Lewis and Clark County"
 fips_code = 30049
+
+[[zipcodes]]
+zipcode = 59410
+percent_zip_in_county = 96.25
+
+[[zipcodes]]
+zipcode = 59421
+percent_zip_in_county = 6.88
+
+[[zipcodes]]
+zipcode = 59601
+percent_zip_in_county = 99.94
+
+[[zipcodes]]
+zipcode = 59602
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59633
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59635
+percent_zip_in_county = 94.05
+
+[[zipcodes]]
+zipcode = 59636
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59639
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59640
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59648
+percent_zip_in_county = 100.0

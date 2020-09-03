@@ -1,2 +1,22 @@
 name = "Dawson County"
 fips_code = 13085
+
+[[zipcodes]]
+zipcode = 30143
+percent_zip_in_county = 2.13
+
+[[zipcodes]]
+zipcode = 30148
+percent_zip_in_county = 35.76
+
+[[zipcodes]]
+zipcode = 30533
+percent_zip_in_county = 0.06
+
+[[zipcodes]]
+zipcode = 30534
+percent_zip_in_county = 81.28
+
+[[zipcodes]]
+zipcode = 30536
+percent_zip_in_county = 0.17

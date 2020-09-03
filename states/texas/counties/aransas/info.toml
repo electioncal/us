@@ -1,2 +1,22 @@
 name = "Aransas County"
 fips_code = 48007
+
+[[zipcodes]]
+zipcode = 77950
+percent_zip_in_county = 3.55
+
+[[zipcodes]]
+zipcode = 78336
+percent_zip_in_county = 25.32
+
+[[zipcodes]]
+zipcode = 78358
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78382
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78390
+percent_zip_in_county = 0.94

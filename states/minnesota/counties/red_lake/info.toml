@@ -1,2 +1,30 @@
 name = "Red Lake County"
 fips_code = 27125
+
+[[zipcodes]]
+zipcode = 56535
+percent_zip_in_county = 1.91
+
+[[zipcodes]]
+zipcode = 56715
+percent_zip_in_county = 97.14
+
+[[zipcodes]]
+zipcode = 56716
+percent_zip_in_county = 0.3
+
+[[zipcodes]]
+zipcode = 56736
+percent_zip_in_county = 3.54
+
+[[zipcodes]]
+zipcode = 56742
+percent_zip_in_county = 78.1
+
+[[zipcodes]]
+zipcode = 56748
+percent_zip_in_county = 94.33
+
+[[zipcodes]]
+zipcode = 56750
+percent_zip_in_county = 93.74

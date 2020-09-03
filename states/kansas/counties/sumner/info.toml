@@ -1,2 +1,74 @@
 name = "Sumner County"
 fips_code = 20191
+
+[[zipcodes]]
+zipcode = 67004
+percent_zip_in_county = 92.99
+
+[[zipcodes]]
+zipcode = 67013
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67018
+percent_zip_in_county = 3.36
+
+[[zipcodes]]
+zipcode = 67022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67026
+percent_zip_in_county = 3.51
+
+[[zipcodes]]
+zipcode = 67031
+percent_zip_in_county = 99.44
+
+[[zipcodes]]
+zipcode = 67049
+percent_zip_in_county = 6.33
+
+[[zipcodes]]
+zipcode = 67051
+percent_zip_in_county = 90.57
+
+[[zipcodes]]
+zipcode = 67103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67105
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67106
+percent_zip_in_county = 84.54
+
+[[zipcodes]]
+zipcode = 67110
+percent_zip_in_county = 28.29
+
+[[zipcodes]]
+zipcode = 67118
+percent_zip_in_county = 2.1
+
+[[zipcodes]]
+zipcode = 67119
+percent_zip_in_county = 91.42
+
+[[zipcodes]]
+zipcode = 67120
+percent_zip_in_county = 59.72
+
+[[zipcodes]]
+zipcode = 67140
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67146
+percent_zip_in_county = 7.7
+
+[[zipcodes]]
+zipcode = 67152
+percent_zip_in_county = 100.0

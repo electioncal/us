@@ -1,2 +1,78 @@
 name = "Mason County"
 fips_code = 54053
+
+[[zipcodes]]
+zipcode = 25082
+percent_zip_in_county = 31.2
+
+[[zipcodes]]
+zipcode = 25106
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25123
+percent_zip_in_county = 83.59
+
+[[zipcodes]]
+zipcode = 25187
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25239
+percent_zip_in_county = 4.5
+
+[[zipcodes]]
+zipcode = 25241
+percent_zip_in_county = 11.4
+
+[[zipcodes]]
+zipcode = 25247
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25253
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25260
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25264
+percent_zip_in_county = 43.76
+
+[[zipcodes]]
+zipcode = 25265
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25287
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25502
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25503
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25515
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25520
+percent_zip_in_county = 56.63
+
+[[zipcodes]]
+zipcode = 25526
+percent_zip_in_county = 0.09
+
+[[zipcodes]]
+zipcode = 25541
+percent_zip_in_county = 10.36
+
+[[zipcodes]]
+zipcode = 25550
+percent_zip_in_county = 100.0

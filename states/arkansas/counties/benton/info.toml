@@ -1,2 +1,82 @@
 name = "Benton County"
 fips_code = 5007
+
+[[zipcodes]]
+zipcode = 72712
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72714
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72715
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72718
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72719
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72722
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72732
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72734
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72736
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72738
+percent_zip_in_county = 5.17
+
+[[zipcodes]]
+zipcode = 72739
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72745
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72747
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72751
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72756
+percent_zip_in_county = 99.33
+
+[[zipcodes]]
+zipcode = 72758
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72761
+percent_zip_in_county = 99.19
+
+[[zipcodes]]
+zipcode = 72762
+percent_zip_in_county = 10.36
+
+[[zipcodes]]
+zipcode = 72764
+percent_zip_in_county = 10.75
+
+[[zipcodes]]
+zipcode = 72768
+percent_zip_in_county = 100.0

@@ -1,2 +1,14 @@
 name = "Crane County"
 fips_code = 48103
+
+[[zipcodes]]
+zipcode = 79731
+percent_zip_in_county = 99.95
+
+[[zipcodes]]
+zipcode = 79756
+percent_zip_in_county = 0.08
+
+[[zipcodes]]
+zipcode = 79766
+percent_zip_in_county = 2.89

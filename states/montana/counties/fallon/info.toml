@@ -1,2 +1,18 @@
 name = "Fallon County"
 fips_code = 30025
+
+[[zipcodes]]
+zipcode = 59313
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59336
+percent_zip_in_county = 26.56
+
+[[zipcodes]]
+zipcode = 59344
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59354
+percent_zip_in_county = 100.0

@@ -1,2 +1,34 @@
 name = "Hill County"
 fips_code = 30041
+
+[[zipcodes]]
+zipcode = 59501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59521
+percent_zip_in_county = 63.65
+
+[[zipcodes]]
+zipcode = 59525
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59528
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59530
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59531
+percent_zip_in_county = 1.66
+
+[[zipcodes]]
+zipcode = 59532
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59540
+percent_zip_in_county = 100.0

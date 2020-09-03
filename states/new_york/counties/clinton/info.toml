@@ -1,2 +1,110 @@
 name = "Clinton County"
 fips_code = 36019
+
+[[zipcodes]]
+zipcode = 12901
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12903
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12910
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12911
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12912
+percent_zip_in_county = 55.41
+
+[[zipcodes]]
+zipcode = 12918
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12919
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12920
+percent_zip_in_county = 2.01
+
+[[zipcodes]]
+zipcode = 12921
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12923
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12924
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12929
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12933
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12934
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12935
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12944
+percent_zip_in_county = 46.74
+
+[[zipcodes]]
+zipcode = 12952
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12955
+percent_zip_in_county = 87.14
+
+[[zipcodes]]
+zipcode = 12958
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12959
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12962
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12972
+percent_zip_in_county = 99.81
+
+[[zipcodes]]
+zipcode = 12978
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12979
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12981
+percent_zip_in_county = 99.33
+
+[[zipcodes]]
+zipcode = 12985
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12992
+percent_zip_in_county = 100.0

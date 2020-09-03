@@ -1,2 +1,42 @@
 name = "Jefferson Davis Parish"
 fips_code = 22053
+
+[[zipcodes]]
+zipcode = 70532
+percent_zip_in_county = 70.28
+
+[[zipcodes]]
+zipcode = 70546
+percent_zip_in_county = 93.41
+
+[[zipcodes]]
+zipcode = 70549
+percent_zip_in_county = 98.28
+
+[[zipcodes]]
+zipcode = 70581
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70591
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70640
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70647
+percent_zip_in_county = 33.49
+
+[[zipcodes]]
+zipcode = 70648
+percent_zip_in_county = 6.52
+
+[[zipcodes]]
+zipcode = 70650
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70657
+percent_zip_in_county = 1.92

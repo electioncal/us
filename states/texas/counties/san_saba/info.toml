@@ -1,2 +1,30 @@
 name = "San Saba County"
 fips_code = 48411
+
+[[zipcodes]]
+zipcode = 76824
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76832
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76842
+percent_zip_in_county = 31.94
+
+[[zipcodes]]
+zipcode = 76869
+percent_zip_in_county = 17.6
+
+[[zipcodes]]
+zipcode = 76871
+percent_zip_in_county = 99.36
+
+[[zipcodes]]
+zipcode = 76872
+percent_zip_in_county = 16.18
+
+[[zipcodes]]
+zipcode = 76877
+percent_zip_in_county = 100.0

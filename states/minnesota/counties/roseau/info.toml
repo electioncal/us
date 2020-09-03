@@ -1,2 +1,42 @@
 name = "Roseau County"
 fips_code = 27135
+
+[[zipcodes]]
+zipcode = 56673
+percent_zip_in_county = 62.52
+
+[[zipcodes]]
+zipcode = 56714
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56726
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56732
+percent_zip_in_county = 0.97
+
+[[zipcodes]]
+zipcode = 56735
+percent_zip_in_county = 2.7
+
+[[zipcodes]]
+zipcode = 56751
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56756
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56759
+percent_zip_in_county = 73.9
+
+[[zipcodes]]
+zipcode = 56761
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56763
+percent_zip_in_county = 100.0

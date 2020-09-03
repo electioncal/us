@@ -1,2 +1,30 @@
 name = "Rockcastle County"
 fips_code = 21203
+
+[[zipcodes]]
+zipcode = 40403
+percent_zip_in_county = 5.32
+
+[[zipcodes]]
+zipcode = 40409
+percent_zip_in_county = 98.31
+
+[[zipcodes]]
+zipcode = 40419
+percent_zip_in_county = 12.08
+
+[[zipcodes]]
+zipcode = 40445
+percent_zip_in_county = 96.59
+
+[[zipcodes]]
+zipcode = 40447
+percent_zip_in_county = 0.78
+
+[[zipcodes]]
+zipcode = 40456
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40460
+percent_zip_in_county = 100.0

@@ -1,2 +1,42 @@
 name = "Coweta County"
 fips_code = 13077
+
+[[zipcodes]]
+zipcode = 30220
+percent_zip_in_county = 79.11
+
+[[zipcodes]]
+zipcode = 30230
+percent_zip_in_county = 1.53
+
+[[zipcodes]]
+zipcode = 30259
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30263
+percent_zip_in_county = 99.91
+
+[[zipcodes]]
+zipcode = 30265
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30268
+percent_zip_in_county = 24.84
+
+[[zipcodes]]
+zipcode = 30275
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30276
+percent_zip_in_county = 89.85
+
+[[zipcodes]]
+zipcode = 30277
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30289
+percent_zip_in_county = 100.0

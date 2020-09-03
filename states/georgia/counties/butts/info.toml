@@ -1,2 +1,22 @@
 name = "Butts County"
 fips_code = 13035
+
+[[zipcodes]]
+zipcode = 30216
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30233
+percent_zip_in_county = 84.64
+
+[[zipcodes]]
+zipcode = 30234
+percent_zip_in_county = 86.45
+
+[[zipcodes]]
+zipcode = 30248
+percent_zip_in_county = 0.72
+
+[[zipcodes]]
+zipcode = 31029
+percent_zip_in_county = 0.03

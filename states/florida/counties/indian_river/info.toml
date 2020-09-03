@@ -1,2 +1,38 @@
 name = "Indian River County"
 fips_code = 12061
+
+[[zipcodes]]
+zipcode = 32948
+percent_zip_in_county = 99.23
+
+[[zipcodes]]
+zipcode = 32958
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32960
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32962
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32963
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32966
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32967
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32968
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32970
+percent_zip_in_county = 100.0

@@ -1,2 +1,30 @@
 name = "Schoolcraft County"
 fips_code = 26153
+
+[[zipcodes]]
+zipcode = 49817
+percent_zip_in_county = 87.48
+
+[[zipcodes]]
+zipcode = 49836
+percent_zip_in_county = 56.72
+
+[[zipcodes]]
+zipcode = 49840
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49854
+percent_zip_in_county = 99.21
+
+[[zipcodes]]
+zipcode = 49883
+percent_zip_in_county = 83.44
+
+[[zipcodes]]
+zipcode = 49884
+percent_zip_in_county = 0.72
+
+[[zipcodes]]
+zipcode = 49895
+percent_zip_in_county = 12.55

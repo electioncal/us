@@ -1,2 +1,30 @@
 name = "Clare County"
 fips_code = 26035
+
+[[zipcodes]]
+zipcode = 48617
+percent_zip_in_county = 77.87
+
+[[zipcodes]]
+zipcode = 48622
+percent_zip_in_county = 82.44
+
+[[zipcodes]]
+zipcode = 48624
+percent_zip_in_county = 6.07
+
+[[zipcodes]]
+zipcode = 48625
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48632
+percent_zip_in_county = 74.46
+
+[[zipcodes]]
+zipcode = 48633
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49665
+percent_zip_in_county = 12.26

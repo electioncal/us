@@ -1,2 +1,22 @@
 name = "Mason County"
 fips_code = 21161
+
+[[zipcodes]]
+zipcode = 41034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41044
+percent_zip_in_county = 41.85
+
+[[zipcodes]]
+zipcode = 41055
+percent_zip_in_county = 95.31
+
+[[zipcodes]]
+zipcode = 41056
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41062
+percent_zip_in_county = 100.0

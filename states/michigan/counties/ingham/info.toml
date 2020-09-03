@@ -1,2 +1,94 @@
 name = "Ingham County"
 fips_code = 26065
+
+[[zipcodes]]
+zipcode = 48819
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48821
+percent_zip_in_county = 5.29
+
+[[zipcodes]]
+zipcode = 48823
+percent_zip_in_county = 85.5
+
+[[zipcodes]]
+zipcode = 48825
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48827
+percent_zip_in_county = 11.7
+
+[[zipcodes]]
+zipcode = 48840
+percent_zip_in_county = 85.69
+
+[[zipcodes]]
+zipcode = 48842
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48854
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48864
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48872
+percent_zip_in_county = 5.6
+
+[[zipcodes]]
+zipcode = 48892
+percent_zip_in_county = 81.24
+
+[[zipcodes]]
+zipcode = 48895
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48906
+percent_zip_in_county = 68.33
+
+[[zipcodes]]
+zipcode = 48910
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48911
+percent_zip_in_county = 87.31
+
+[[zipcodes]]
+zipcode = 48912
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48915
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48917
+percent_zip_in_county = 16.8
+
+[[zipcodes]]
+zipcode = 48921
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 48933
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49251
+percent_zip_in_county = 95.25
+
+[[zipcodes]]
+zipcode = 49264
+percent_zip_in_county = 75.7
+
+[[zipcodes]]
+zipcode = 49285
+percent_zip_in_county = 88.95

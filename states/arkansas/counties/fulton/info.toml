@@ -1,2 +1,54 @@
 name = "Fulton County"
 fips_code = 5049
+
+[[zipcodes]]
+zipcode = 72512
+percent_zip_in_county = 0.76
+
+[[zipcodes]]
+zipcode = 72513
+percent_zip_in_county = 34.03
+
+[[zipcodes]]
+zipcode = 72515
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72520
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72529
+percent_zip_in_county = 17.56
+
+[[zipcodes]]
+zipcode = 72531
+percent_zip_in_county = 51.5
+
+[[zipcodes]]
+zipcode = 72538
+percent_zip_in_county = 96.99
+
+[[zipcodes]]
+zipcode = 72539
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72542
+percent_zip_in_county = 14.19
+
+[[zipcodes]]
+zipcode = 72554
+percent_zip_in_county = 91.28
+
+[[zipcodes]]
+zipcode = 72576
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72578
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72583
+percent_zip_in_county = 100.0

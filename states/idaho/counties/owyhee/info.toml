@@ -1,2 +1,46 @@
 name = "Owyhee County"
 fips_code = 16073
+
+[[zipcodes]]
+zipcode = 83302
+percent_zip_in_county = 26.53
+
+[[zipcodes]]
+zipcode = 83316
+percent_zip_in_county = 0.03
+
+[[zipcodes]]
+zipcode = 83604
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83624
+percent_zip_in_county = 79.33
+
+[[zipcodes]]
+zipcode = 83627
+percent_zip_in_county = 18.55
+
+[[zipcodes]]
+zipcode = 83628
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83639
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83641
+percent_zip_in_county = 30.28
+
+[[zipcodes]]
+zipcode = 83650
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89832
+percent_zip_in_county = 27.3
+
+[[zipcodes]]
+zipcode = 97910
+percent_zip_in_county = 10.61

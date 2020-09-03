@@ -1,2 +1,62 @@
 name = "Keokuk County"
 fips_code = 19107
+
+[[zipcodes]]
+zipcode = 50104
+percent_zip_in_county = 97.66
+
+[[zipcodes]]
+zipcode = 50136
+percent_zip_in_county = 97.75
+
+[[zipcodes]]
+zipcode = 50255
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50268
+percent_zip_in_county = 95.87
+
+[[zipcodes]]
+zipcode = 52231
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52248
+percent_zip_in_county = 74.55
+
+[[zipcodes]]
+zipcode = 52316
+percent_zip_in_county = 0.6
+
+[[zipcodes]]
+zipcode = 52335
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52355
+percent_zip_in_county = 93.5
+
+[[zipcodes]]
+zipcode = 52550
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52561
+percent_zip_in_county = 0.94
+
+[[zipcodes]]
+zipcode = 52563
+percent_zip_in_county = 80.54
+
+[[zipcodes]]
+zipcode = 52576
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52585
+percent_zip_in_county = 81.98
+
+[[zipcodes]]
+zipcode = 52591
+percent_zip_in_county = 100.0

@@ -1,2 +1,18 @@
 name = "Briscoe County"
 fips_code = 48045
+
+[[zipcodes]]
+zipcode = 79088
+percent_zip_in_county = 0.61
+
+[[zipcodes]]
+zipcode = 79226
+percent_zip_in_county = 0.51
+
+[[zipcodes]]
+zipcode = 79255
+percent_zip_in_county = 90.72
+
+[[zipcodes]]
+zipcode = 79257
+percent_zip_in_county = 100.0

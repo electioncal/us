@@ -1,2 +1,62 @@
 name = "Ross County"
 fips_code = 39141
+
+[[zipcodes]]
+zipcode = 43101
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43115
+percent_zip_in_county = 88.72
+
+[[zipcodes]]
+zipcode = 43135
+percent_zip_in_county = 13.25
+
+[[zipcodes]]
+zipcode = 43160
+percent_zip_in_county = 0.74
+
+[[zipcodes]]
+zipcode = 43164
+percent_zip_in_county = 3.36
+
+[[zipcodes]]
+zipcode = 45123
+percent_zip_in_county = 13.44
+
+[[zipcodes]]
+zipcode = 45601
+percent_zip_in_county = 99.15
+
+[[zipcodes]]
+zipcode = 45612
+percent_zip_in_county = 70.79
+
+[[zipcodes]]
+zipcode = 45617
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45628
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45644
+percent_zip_in_county = 75.22
+
+[[zipcodes]]
+zipcode = 45647
+percent_zip_in_county = 53.02
+
+[[zipcodes]]
+zipcode = 45673
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45681
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45690
+percent_zip_in_county = 10.74

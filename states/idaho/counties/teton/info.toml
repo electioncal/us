@@ -1,2 +1,22 @@
 name = "Teton County"
 fips_code = 16081
+
+[[zipcodes]]
+zipcode = 83422
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83424
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83436
+percent_zip_in_county = 6.92
+
+[[zipcodes]]
+zipcode = 83452
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83455
+percent_zip_in_county = 100.0

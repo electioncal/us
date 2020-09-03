@@ -1,2 +1,94 @@
 name = "Lewis County"
 fips_code = 36049
+
+[[zipcodes]]
+zipcode = 13305
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13309
+percent_zip_in_county = 15.89
+
+[[zipcodes]]
+zipcode = 13312
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13316
+percent_zip_in_county = 2.83
+
+[[zipcodes]]
+zipcode = 13325
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13327
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13343
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13345
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13367
+percent_zip_in_county = 99.76
+
+[[zipcodes]]
+zipcode = 13368
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13404
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13433
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13437
+percent_zip_in_county = 10.0
+
+[[zipcodes]]
+zipcode = 13471
+percent_zip_in_county = 1.24
+
+[[zipcodes]]
+zipcode = 13473
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13489
+percent_zip_in_county = 96.35
+
+[[zipcodes]]
+zipcode = 13601
+percent_zip_in_county = 0.12
+
+[[zipcodes]]
+zipcode = 13619
+percent_zip_in_county = 11.23
+
+[[zipcodes]]
+zipcode = 13620
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13626
+percent_zip_in_county = 83.33
+
+[[zipcodes]]
+zipcode = 13648
+percent_zip_in_county = 58.83
+
+[[zipcodes]]
+zipcode = 13665
+percent_zip_in_county = 35.71
+
+[[zipcodes]]
+zipcode = 13682
+percent_zip_in_county = 1.94

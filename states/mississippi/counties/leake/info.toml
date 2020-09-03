@@ -1,2 +1,30 @@
 name = "Leake County"
 fips_code = 28079
+
+[[zipcodes]]
+zipcode = 39051
+percent_zip_in_county = 96.98
+
+[[zipcodes]]
+zipcode = 39090
+percent_zip_in_county = 5.48
+
+[[zipcodes]]
+zipcode = 39094
+percent_zip_in_county = 48.38
+
+[[zipcodes]]
+zipcode = 39160
+percent_zip_in_county = 3.77
+
+[[zipcodes]]
+zipcode = 39189
+percent_zip_in_county = 92.0
+
+[[zipcodes]]
+zipcode = 39350
+percent_zip_in_county = 0.45
+
+[[zipcodes]]
+zipcode = 39365
+percent_zip_in_county = 0.34

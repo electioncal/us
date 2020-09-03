@@ -1,2 +1,34 @@
 name = "Newport County"
 fips_code = 44005
+
+[[zipcodes]]
+zipcode = 2835
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2837
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2840
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2841
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2842
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2871
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2872
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2878
+percent_zip_in_county = 100.0

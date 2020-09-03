@@ -1,2 +1,14 @@
 name = "Hamilton County"
 fips_code = 20075
+
+[[zipcodes]]
+zipcode = 67836
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67857
+percent_zip_in_county = 63.79
+
+[[zipcodes]]
+zipcode = 67878
+percent_zip_in_county = 99.84

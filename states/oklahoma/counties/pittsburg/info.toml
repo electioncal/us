@@ -1,2 +1,74 @@
 name = "Pittsburg County"
 fips_code = 40121
+
+[[zipcodes]]
+zipcode = 74425
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74430
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74432
+percent_zip_in_county = 23.16
+
+[[zipcodes]]
+zipcode = 74442
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74462
+percent_zip_in_county = 8.1
+
+[[zipcodes]]
+zipcode = 74501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74522
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74528
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74536
+percent_zip_in_county = 2.22
+
+[[zipcodes]]
+zipcode = 74546
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74547
+percent_zip_in_county = 95.67
+
+[[zipcodes]]
+zipcode = 74553
+percent_zip_in_county = 91.84
+
+[[zipcodes]]
+zipcode = 74554
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74560
+percent_zip_in_county = 89.45
+
+[[zipcodes]]
+zipcode = 74561
+percent_zip_in_county = 75.08
+
+[[zipcodes]]
+zipcode = 74565
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74570
+percent_zip_in_county = 43.99
+
+[[zipcodes]]
+zipcode = 74576
+percent_zip_in_county = 13.81

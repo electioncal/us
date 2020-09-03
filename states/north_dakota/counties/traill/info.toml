@@ -1,2 +1,54 @@
 name = "Traill County"
 fips_code = 38097
+
+[[zipcodes]]
+zipcode = 58009
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58016
+percent_zip_in_county = 71.35
+
+[[zipcodes]]
+zipcode = 58035
+percent_zip_in_county = 76.72
+
+[[zipcodes]]
+zipcode = 58038
+percent_zip_in_county = 27.41
+
+[[zipcodes]]
+zipcode = 58045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58048
+percent_zip_in_county = 8.13
+
+[[zipcodes]]
+zipcode = 58218
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58219
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58223
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58240
+percent_zip_in_county = 76.72
+
+[[zipcodes]]
+zipcode = 58257
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58274
+percent_zip_in_county = 86.78
+
+[[zipcodes]]
+zipcode = 58275
+percent_zip_in_county = 43.93

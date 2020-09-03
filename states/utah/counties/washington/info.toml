@@ -1,2 +1,86 @@
 name = "Washington County"
 fips_code = 49053
+
+[[zipcodes]]
+zipcode = 84722
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84725
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84733
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84737
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84738
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84745
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84746
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84756
+percent_zip_in_county = 2.19
+
+[[zipcodes]]
+zipcode = 84757
+percent_zip_in_county = 94.17
+
+[[zipcodes]]
+zipcode = 84763
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84765
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84767
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84770
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84774
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84779
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84780
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84781
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84782
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84783
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84784
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84790
+percent_zip_in_county = 100.0

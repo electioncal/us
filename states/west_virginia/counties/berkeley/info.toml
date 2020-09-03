@@ -1,2 +1,46 @@
 name = "Berkeley County"
 fips_code = 54003
+
+[[zipcodes]]
+zipcode = 25401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25403
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25404
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25405
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25413
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25419
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25420
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25427
+percent_zip_in_county = 83.68
+
+[[zipcodes]]
+zipcode = 25428
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25430
+percent_zip_in_county = 20.65
+
+[[zipcodes]]
+zipcode = 25443
+percent_zip_in_county = 2.12

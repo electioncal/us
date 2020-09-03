@@ -1,2 +1,38 @@
 name = "Polk County"
 fips_code = 31143
+
+[[zipcodes]]
+zipcode = 68316
+percent_zip_in_county = 5.59
+
+[[zipcodes]]
+zipcode = 68367
+percent_zip_in_county = 12.58
+
+[[zipcodes]]
+zipcode = 68601
+percent_zip_in_county = 1.52
+
+[[zipcodes]]
+zipcode = 68628
+percent_zip_in_county = 10.77
+
+[[zipcodes]]
+zipcode = 68651
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68654
+percent_zip_in_county = 80.96
+
+[[zipcodes]]
+zipcode = 68662
+percent_zip_in_county = 96.1
+
+[[zipcodes]]
+zipcode = 68663
+percent_zip_in_county = 13.53
+
+[[zipcodes]]
+zipcode = 68666
+percent_zip_in_county = 100.0

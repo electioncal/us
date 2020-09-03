@@ -1,2 +1,6 @@
 name = "Quebradillas Municipio"
 fips_code = 72115
+
+[[zipcodes]]
+zipcode = 678
+percent_zip_in_county = 93.17

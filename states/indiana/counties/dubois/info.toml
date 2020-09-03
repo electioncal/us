@@ -1,2 +1,50 @@
 name = "Dubois County"
 fips_code = 18037
+
+[[zipcodes]]
+zipcode = 47432
+percent_zip_in_county = 9.12
+
+[[zipcodes]]
+zipcode = 47513
+percent_zip_in_county = 79.3
+
+[[zipcodes]]
+zipcode = 47521
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47527
+percent_zip_in_county = 99.31
+
+[[zipcodes]]
+zipcode = 47532
+percent_zip_in_county = 87.42
+
+[[zipcodes]]
+zipcode = 47541
+percent_zip_in_county = 96.57
+
+[[zipcodes]]
+zipcode = 47542
+percent_zip_in_county = 98.34
+
+[[zipcodes]]
+zipcode = 47546
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47564
+percent_zip_in_county = 10.13
+
+[[zipcodes]]
+zipcode = 47575
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47580
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47590
+percent_zip_in_county = 14.59

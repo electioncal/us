@@ -1,2 +1,46 @@
 name = "Ashland County"
 fips_code = 55003
+
+[[zipcodes]]
+zipcode = 54514
+percent_zip_in_county = 73.33
+
+[[zipcodes]]
+zipcode = 54517
+percent_zip_in_county = 78.57
+
+[[zipcodes]]
+zipcode = 54527
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54546
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54559
+percent_zip_in_county = 38.74
+
+[[zipcodes]]
+zipcode = 54806
+percent_zip_in_county = 87.78
+
+[[zipcodes]]
+zipcode = 54846
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54850
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54855
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54856
+percent_zip_in_county = 3.47
+
+[[zipcodes]]
+zipcode = 54861
+percent_zip_in_county = 100.0

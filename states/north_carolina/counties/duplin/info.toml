@@ -1,2 +1,78 @@
 name = "Duplin County"
 fips_code = 37061
+
+[[zipcodes]]
+zipcode = 28325
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28341
+percent_zip_in_county = 53.75
+
+[[zipcodes]]
+zipcode = 28349
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28365
+percent_zip_in_county = 36.74
+
+[[zipcodes]]
+zipcode = 28393
+percent_zip_in_county = 0.25
+
+[[zipcodes]]
+zipcode = 28398
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28444
+percent_zip_in_county = 1.73
+
+[[zipcodes]]
+zipcode = 28453
+percent_zip_in_county = 91.98
+
+[[zipcodes]]
+zipcode = 28458
+percent_zip_in_county = 84.73
+
+[[zipcodes]]
+zipcode = 28464
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28466
+percent_zip_in_county = 93.15
+
+[[zipcodes]]
+zipcode = 28478
+percent_zip_in_county = 0.15
+
+[[zipcodes]]
+zipcode = 28508
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28518
+percent_zip_in_county = 84.21
+
+[[zipcodes]]
+zipcode = 28521
+percent_zip_in_county = 93.88
+
+[[zipcodes]]
+zipcode = 28525
+percent_zip_in_county = 6.1
+
+[[zipcodes]]
+zipcode = 28572
+percent_zip_in_county = 55.99
+
+[[zipcodes]]
+zipcode = 28574
+percent_zip_in_county = 0.89
+
+[[zipcodes]]
+zipcode = 28578
+percent_zip_in_county = 18.09

@@ -1,2 +1,126 @@
 name = "Wood County"
 fips_code = 39173
+
+[[zipcodes]]
+zipcode = 43402
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43403
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43406
+percent_zip_in_county = 95.33
+
+[[zipcodes]]
+zipcode = 43413
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43430
+percent_zip_in_county = 2.95
+
+[[zipcodes]]
+zipcode = 43437
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43443
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43447
+percent_zip_in_county = 82.26
+
+[[zipcodes]]
+zipcode = 43450
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43451
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43457
+percent_zip_in_county = 73.35
+
+[[zipcodes]]
+zipcode = 43460
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43462
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43463
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43465
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43466
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43467
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43511
+percent_zip_in_county = 92.87
+
+[[zipcodes]]
+zipcode = 43516
+percent_zip_in_county = 10.3
+
+[[zipcodes]]
+zipcode = 43522
+percent_zip_in_county = 53.5
+
+[[zipcodes]]
+zipcode = 43525
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43529
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43541
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43551
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43565
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43569
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43605
+percent_zip_in_county = 0.64
+
+[[zipcodes]]
+zipcode = 43619
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44817
+percent_zip_in_county = 93.66
+
+[[zipcodes]]
+zipcode = 44830
+percent_zip_in_county = 11.48
+
+[[zipcodes]]
+zipcode = 45872
+percent_zip_in_county = 98.49

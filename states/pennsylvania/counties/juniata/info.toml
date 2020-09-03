@@ -1,2 +1,58 @@
 name = "Juniata County"
 fips_code = 42067
+
+[[zipcodes]]
+zipcode = 17021
+percent_zip_in_county = 89.61
+
+[[zipcodes]]
+zipcode = 17035
+percent_zip_in_county = 98.69
+
+[[zipcodes]]
+zipcode = 17045
+percent_zip_in_county = 23.91
+
+[[zipcodes]]
+zipcode = 17049
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17056
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17058
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17059
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17062
+percent_zip_in_county = 24.23
+
+[[zipcodes]]
+zipcode = 17076
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17082
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17086
+percent_zip_in_county = 63.99
+
+[[zipcodes]]
+zipcode = 17094
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17243
+percent_zip_in_county = 2.33
+
+[[zipcodes]]
+zipcode = 17853
+percent_zip_in_county = 13.47

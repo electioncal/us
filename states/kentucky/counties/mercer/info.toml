@@ -1,2 +1,18 @@
 name = "Mercer County"
 fips_code = 21167
+
+[[zipcodes]]
+zipcode = 40310
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40330
+percent_zip_in_county = 96.48
+
+[[zipcodes]]
+zipcode = 40372
+percent_zip_in_county = 97.6
+
+[[zipcodes]]
+zipcode = 40468
+percent_zip_in_county = 4.15

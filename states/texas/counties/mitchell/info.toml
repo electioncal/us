@@ -1,2 +1,14 @@
 name = "Mitchell County"
 fips_code = 48335
+
+[[zipcodes]]
+zipcode = 79512
+percent_zip_in_county = 99.91
+
+[[zipcodes]]
+zipcode = 79532
+percent_zip_in_county = 97.66
+
+[[zipcodes]]
+zipcode = 79565
+percent_zip_in_county = 100.0

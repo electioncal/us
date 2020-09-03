@@ -1,2 +1,38 @@
 name = "Choctaw County"
 fips_code = 28019
+
+[[zipcodes]]
+zipcode = 39108
+percent_zip_in_county = 25.84
+
+[[zipcodes]]
+zipcode = 39735
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39744
+percent_zip_in_county = 7.71
+
+[[zipcodes]]
+zipcode = 39745
+percent_zip_in_county = 71.85
+
+[[zipcodes]]
+zipcode = 39750
+percent_zip_in_county = 1.33
+
+[[zipcodes]]
+zipcode = 39752
+percent_zip_in_county = 41.29
+
+[[zipcodes]]
+zipcode = 39767
+percent_zip_in_county = 23.46
+
+[[zipcodes]]
+zipcode = 39769
+percent_zip_in_county = 1.2
+
+[[zipcodes]]
+zipcode = 39772
+percent_zip_in_county = 100.0

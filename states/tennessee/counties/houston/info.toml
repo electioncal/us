@@ -1,2 +1,34 @@
 name = "Houston County"
 fips_code = 47083
+
+[[zipcodes]]
+zipcode = 37050
+percent_zip_in_county = 27.43
+
+[[zipcodes]]
+zipcode = 37051
+percent_zip_in_county = 1.09
+
+[[zipcodes]]
+zipcode = 37061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37101
+percent_zip_in_county = 2.48
+
+[[zipcodes]]
+zipcode = 37175
+percent_zip_in_county = 62.17
+
+[[zipcodes]]
+zipcode = 37178
+percent_zip_in_county = 83.9
+
+[[zipcodes]]
+zipcode = 37181
+percent_zip_in_county = 12.13
+
+[[zipcodes]]
+zipcode = 37185
+percent_zip_in_county = 0.22

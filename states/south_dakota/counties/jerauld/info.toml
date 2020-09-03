@@ -1,2 +1,22 @@
 name = "Jerauld County"
 fips_code = 46073
+
+[[zipcodes]]
+zipcode = 57312
+percent_zip_in_county = 70.16
+
+[[zipcodes]]
+zipcode = 57355
+percent_zip_in_county = 1.18
+
+[[zipcodes]]
+zipcode = 57358
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57382
+percent_zip_in_county = 97.17
+
+[[zipcodes]]
+zipcode = 57385
+percent_zip_in_county = 9.25

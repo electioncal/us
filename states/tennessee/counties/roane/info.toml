@@ -1,2 +1,38 @@
 name = "Roane County"
 fips_code = 47145
+
+[[zipcodes]]
+zipcode = 37748
+percent_zip_in_county = 89.3
+
+[[zipcodes]]
+zipcode = 37763
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37771
+percent_zip_in_county = 7.22
+
+[[zipcodes]]
+zipcode = 37774
+percent_zip_in_county = 6.09
+
+[[zipcodes]]
+zipcode = 37830
+percent_zip_in_county = 10.31
+
+[[zipcodes]]
+zipcode = 37840
+percent_zip_in_county = 37.62
+
+[[zipcodes]]
+zipcode = 37846
+percent_zip_in_county = 27.0
+
+[[zipcodes]]
+zipcode = 37854
+percent_zip_in_county = 80.24
+
+[[zipcodes]]
+zipcode = 37880
+percent_zip_in_county = 43.31

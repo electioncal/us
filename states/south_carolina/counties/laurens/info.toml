@@ -1,2 +1,58 @@
 name = "Laurens County"
 fips_code = 45059
+
+[[zipcodes]]
+zipcode = 29178
+percent_zip_in_county = 2.67
+
+[[zipcodes]]
+zipcode = 29325
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29332
+percent_zip_in_county = 93.96
+
+[[zipcodes]]
+zipcode = 29335
+percent_zip_in_county = 10.47
+
+[[zipcodes]]
+zipcode = 29351
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29355
+percent_zip_in_county = 59.26
+
+[[zipcodes]]
+zipcode = 29360
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29370
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29384
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29388
+percent_zip_in_county = 1.96
+
+[[zipcodes]]
+zipcode = 29644
+percent_zip_in_county = 40.1
+
+[[zipcodes]]
+zipcode = 29645
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29654
+percent_zip_in_county = 4.94
+
+[[zipcodes]]
+zipcode = 29692
+percent_zip_in_county = 43.82

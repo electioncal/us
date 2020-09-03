@@ -1,2 +1,46 @@
 name = "Coahoma County"
 fips_code = 28027
+
+[[zipcodes]]
+zipcode = 38614
+percent_zip_in_county = 99.93
+
+[[zipcodes]]
+zipcode = 38617
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38626
+percent_zip_in_county = 25.2
+
+[[zipcodes]]
+zipcode = 38630
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38631
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38639
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38644
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38645
+percent_zip_in_county = 95.49
+
+[[zipcodes]]
+zipcode = 38720
+percent_zip_in_county = 50.92
+
+[[zipcodes]]
+zipcode = 38767
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38963
+percent_zip_in_county = 2.99

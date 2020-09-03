@@ -1,2 +1,290 @@
 name = "Hennepin County"
 fips_code = 27053
+
+[[zipcodes]]
+zipcode = 55111
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 55305
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55311
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55316
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55327
+percent_zip_in_county = 98.22
+
+[[zipcodes]]
+zipcode = 55328
+percent_zip_in_county = 2.61
+
+[[zipcodes]]
+zipcode = 55331
+percent_zip_in_county = 75.47
+
+[[zipcodes]]
+zipcode = 55340
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55341
+percent_zip_in_county = 20.25
+
+[[zipcodes]]
+zipcode = 55343
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55344
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55345
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55346
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55347
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55356
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55357
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55359
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55364
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55369
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55373
+percent_zip_in_county = 26.73
+
+[[zipcodes]]
+zipcode = 55374
+percent_zip_in_county = 94.62
+
+[[zipcodes]]
+zipcode = 55375
+percent_zip_in_county = 86.85
+
+[[zipcodes]]
+zipcode = 55384
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55387
+percent_zip_in_county = 0.13
+
+[[zipcodes]]
+zipcode = 55388
+percent_zip_in_county = 0.96
+
+[[zipcodes]]
+zipcode = 55391
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55402
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55403
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55404
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55405
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55406
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55407
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55408
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55409
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55410
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55411
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55412
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55413
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55414
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55415
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55416
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55417
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55418
+percent_zip_in_county = 99.52
+
+[[zipcodes]]
+zipcode = 55419
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55420
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55421
+percent_zip_in_county = 0.49
+
+[[zipcodes]]
+zipcode = 55422
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55423
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55424
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55425
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55426
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55427
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55428
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55429
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55430
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55431
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55435
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55436
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55437
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55438
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55439
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55441
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55442
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55443
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55444
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55445
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55446
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55447
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55450
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55454
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55455
+percent_zip_in_county = 100.0

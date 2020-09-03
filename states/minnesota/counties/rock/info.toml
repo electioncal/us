@@ -1,2 +1,54 @@
 name = "Rock County"
 fips_code = 27133
+
+[[zipcodes]]
+zipcode = 56116
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56128
+percent_zip_in_county = 5.9
+
+[[zipcodes]]
+zipcode = 56129
+percent_zip_in_county = 17.27
+
+[[zipcodes]]
+zipcode = 56134
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56138
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56144
+percent_zip_in_county = 19.34
+
+[[zipcodes]]
+zipcode = 56146
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56147
+percent_zip_in_county = 80.73
+
+[[zipcodes]]
+zipcode = 56156
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56158
+percent_zip_in_county = 83.64
+
+[[zipcodes]]
+zipcode = 56173
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57030
+percent_zip_in_county = 4.83
+
+[[zipcodes]]
+zipcode = 57068
+percent_zip_in_county = 2.71

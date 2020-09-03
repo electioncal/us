@@ -1,2 +1,38 @@
 name = "Pendleton County"
 fips_code = 54071
+
+[[zipcodes]]
+zipcode = 26802
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26804
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26807
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26814
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26815
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26847
+percent_zip_in_county = 0.22
+
+[[zipcodes]]
+zipcode = 26855
+percent_zip_in_county = 6.42
+
+[[zipcodes]]
+zipcode = 26866
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26884
+percent_zip_in_county = 100.0

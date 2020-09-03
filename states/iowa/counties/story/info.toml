@@ -1,2 +1,86 @@
 name = "Story County"
 fips_code = 19169
+
+[[zipcodes]]
+zipcode = 50010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50011
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50012
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50014
+percent_zip_in_county = 97.48
+
+[[zipcodes]]
+zipcode = 50046
+percent_zip_in_county = 83.73
+
+[[zipcodes]]
+zipcode = 50055
+percent_zip_in_county = 84.88
+
+[[zipcodes]]
+zipcode = 50056
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50105
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50124
+percent_zip_in_county = 98.37
+
+[[zipcodes]]
+zipcode = 50134
+percent_zip_in_county = 92.73
+
+[[zipcodes]]
+zipcode = 50154
+percent_zip_in_county = 98.71
+
+[[zipcodes]]
+zipcode = 50161
+percent_zip_in_county = 74.35
+
+[[zipcodes]]
+zipcode = 50201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50206
+percent_zip_in_county = 3.42
+
+[[zipcodes]]
+zipcode = 50226
+percent_zip_in_county = 0.83
+
+[[zipcodes]]
+zipcode = 50236
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50243
+percent_zip_in_county = 50.41
+
+[[zipcodes]]
+zipcode = 50244
+percent_zip_in_county = 90.24
+
+[[zipcodes]]
+zipcode = 50247
+percent_zip_in_county = 1.51
+
+[[zipcodes]]
+zipcode = 50248
+percent_zip_in_county = 91.33
+
+[[zipcodes]]
+zipcode = 50278
+percent_zip_in_county = 100.0

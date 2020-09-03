@@ -1,2 +1,90 @@
 name = "Cobb County"
 fips_code = 13067
+
+[[zipcodes]]
+zipcode = 30008
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30060
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30062
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30064
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30066
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30068
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30075
+percent_zip_in_county = 21.35
+
+[[zipcodes]]
+zipcode = 30080
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30082
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30101
+percent_zip_in_county = 77.88
+
+[[zipcodes]]
+zipcode = 30102
+percent_zip_in_county = 28.59
+
+[[zipcodes]]
+zipcode = 30106
+percent_zip_in_county = 99.46
+
+[[zipcodes]]
+zipcode = 30126
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30127
+percent_zip_in_county = 86.4
+
+[[zipcodes]]
+zipcode = 30141
+percent_zip_in_county = 7.63
+
+[[zipcodes]]
+zipcode = 30144
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30152
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30157
+percent_zip_in_county = 2.52
+
+[[zipcodes]]
+zipcode = 30168
+percent_zip_in_county = 88.25
+
+[[zipcodes]]
+zipcode = 30188
+percent_zip_in_county = 2.52
+
+[[zipcodes]]
+zipcode = 30339
+percent_zip_in_county = 98.61

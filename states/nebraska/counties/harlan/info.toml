@@ -1,2 +1,34 @@
 name = "Harlan County"
 fips_code = 31083
+
+[[zipcodes]]
+zipcode = 68920
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68949
+percent_zip_in_county = 1.77
+
+[[zipcodes]]
+zipcode = 68966
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68967
+percent_zip_in_county = 29.68
+
+[[zipcodes]]
+zipcode = 68969
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68971
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68977
+percent_zip_in_county = 82.16
+
+[[zipcodes]]
+zipcode = 68982
+percent_zip_in_county = 10.94

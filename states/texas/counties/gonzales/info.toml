@@ -1,2 +1,50 @@
 name = "Gonzales County"
 fips_code = 48177
+
+[[zipcodes]]
+zipcode = 77954
+percent_zip_in_county = 0.14
+
+[[zipcodes]]
+zipcode = 77984
+percent_zip_in_county = 9.83
+
+[[zipcodes]]
+zipcode = 78122
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78140
+percent_zip_in_county = 90.18
+
+[[zipcodes]]
+zipcode = 78159
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78614
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78629
+percent_zip_in_county = 99.76
+
+[[zipcodes]]
+zipcode = 78632
+percent_zip_in_county = 62.31
+
+[[zipcodes]]
+zipcode = 78648
+percent_zip_in_county = 2.06
+
+[[zipcodes]]
+zipcode = 78677
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78941
+percent_zip_in_county = 2.84
+
+[[zipcodes]]
+zipcode = 78959
+percent_zip_in_county = 90.58

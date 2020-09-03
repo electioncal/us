@@ -1,2 +1,42 @@
 name = "Alfalfa County"
 fips_code = 40003
+
+[[zipcodes]]
+zipcode = 73716
+percent_zip_in_county = 77.65
+
+[[zipcodes]]
+zipcode = 73717
+percent_zip_in_county = 0.44
+
+[[zipcodes]]
+zipcode = 73719
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73722
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73726
+percent_zip_in_county = 88.14
+
+[[zipcodes]]
+zipcode = 73728
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73739
+percent_zip_in_county = 94.31
+
+[[zipcodes]]
+zipcode = 73741
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73749
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73758
+percent_zip_in_county = 9.64

@@ -1,2 +1,62 @@
 name = "Medina County"
 fips_code = 48325
+
+[[zipcodes]]
+zipcode = 78003
+percent_zip_in_county = 2.46
+
+[[zipcodes]]
+zipcode = 78009
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78016
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78023
+percent_zip_in_county = 2.58
+
+[[zipcodes]]
+zipcode = 78039
+percent_zip_in_county = 92.4
+
+[[zipcodes]]
+zipcode = 78052
+percent_zip_in_county = 26.06
+
+[[zipcodes]]
+zipcode = 78056
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78057
+percent_zip_in_county = 2.76
+
+[[zipcodes]]
+zipcode = 78059
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78066
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78253
+percent_zip_in_county = 5.77
+
+[[zipcodes]]
+zipcode = 78850
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78861
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78884
+percent_zip_in_county = 1.55
+
+[[zipcodes]]
+zipcode = 78886
+percent_zip_in_county = 97.06

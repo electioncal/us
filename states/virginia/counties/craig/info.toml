@@ -1,2 +1,18 @@
 name = "Craig County"
 fips_code = 51045
+
+[[zipcodes]]
+zipcode = 24070
+percent_zip_in_county = 21.13
+
+[[zipcodes]]
+zipcode = 24127
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24128
+percent_zip_in_county = 26.76
+
+[[zipcodes]]
+zipcode = 24131
+percent_zip_in_county = 100.0

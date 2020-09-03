@@ -1,2 +1,46 @@
 name = "Fayette County"
 fips_code = 39047
+
+[[zipcodes]]
+zipcode = 43106
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43128
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43142
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43143
+percent_zip_in_county = 12.56
+
+[[zipcodes]]
+zipcode = 43145
+percent_zip_in_county = 36.34
+
+[[zipcodes]]
+zipcode = 43153
+percent_zip_in_county = 5.15
+
+[[zipcodes]]
+zipcode = 43160
+percent_zip_in_county = 99.26
+
+[[zipcodes]]
+zipcode = 45123
+percent_zip_in_county = 7.05
+
+[[zipcodes]]
+zipcode = 45135
+percent_zip_in_county = 7.71
+
+[[zipcodes]]
+zipcode = 45169
+percent_zip_in_county = 5.72
+
+[[zipcodes]]
+zipcode = 45335
+percent_zip_in_county = 1.02

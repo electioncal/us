@@ -1,2 +1,10 @@
 name = "Quitman County"
 fips_code = 13239
+
+[[zipcodes]]
+zipcode = 39854
+percent_zip_in_county = 93.06
+
+[[zipcodes]]
+zipcode = 39867
+percent_zip_in_county = 31.46

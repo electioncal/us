@@ -1,2 +1,90 @@
 name = "McKean County"
 fips_code = 42083
+
+[[zipcodes]]
+zipcode = 15870
+percent_zip_in_county = 1.28
+
+[[zipcodes]]
+zipcode = 16333
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16701
+percent_zip_in_county = 99.93
+
+[[zipcodes]]
+zipcode = 16720
+percent_zip_in_county = 2.66
+
+[[zipcodes]]
+zipcode = 16724
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16725
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16726
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16727
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16729
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16731
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16732
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16733
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16735
+percent_zip_in_county = 95.15
+
+[[zipcodes]]
+zipcode = 16738
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16740
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16743
+percent_zip_in_county = 97.59
+
+[[zipcodes]]
+zipcode = 16744
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16745
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16748
+percent_zip_in_county = 22.42
+
+[[zipcodes]]
+zipcode = 16749
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16750
+percent_zip_in_county = 100.0

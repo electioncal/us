@@ -1,2 +1,58 @@
 name = "Wharton County"
 fips_code = 48481
+
+[[zipcodes]]
+zipcode = 77420
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77432
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77434
+percent_zip_in_county = 10.34
+
+[[zipcodes]]
+zipcode = 77435
+percent_zip_in_county = 90.5
+
+[[zipcodes]]
+zipcode = 77436
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77437
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77443
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77448
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77453
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77454
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77455
+percent_zip_in_county = 98.53
+
+[[zipcodes]]
+zipcode = 77467
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77485
+percent_zip_in_county = 0.15
+
+[[zipcodes]]
+zipcode = 77488
+percent_zip_in_county = 100.0

@@ -1,2 +1,146 @@
 name = "York County"
 fips_code = 23031
+
+[[zipcodes]]
+zipcode = 3901
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3902
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3903
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3904
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3905
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3906
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3907
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3908
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3909
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3910
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3911
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4005
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4006
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4042
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4047
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4048
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4049
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4056
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4063
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4064
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4073
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4076
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4083
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4087
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4090
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4093
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4095
+percent_zip_in_county = 100.0

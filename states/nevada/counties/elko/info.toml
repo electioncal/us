@@ -1,2 +1,62 @@
 name = "Elko County"
 fips_code = 32007
+
+[[zipcodes]]
+zipcode = 89414
+percent_zip_in_county = 13.18
+
+[[zipcodes]]
+zipcode = 89801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89815
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89822
+percent_zip_in_county = 94.31
+
+[[zipcodes]]
+zipcode = 89823
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89825
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89826
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89828
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89830
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89831
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89832
+percent_zip_in_county = 72.7
+
+[[zipcodes]]
+zipcode = 89833
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89834
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89835
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89883
+percent_zip_in_county = 100.0

@@ -1,2 +1,54 @@
 name = "Jackson County"
 fips_code = 12063
+
+[[zipcodes]]
+zipcode = 32420
+percent_zip_in_county = 99.07
+
+[[zipcodes]]
+zipcode = 32423
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32426
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32431
+percent_zip_in_county = 84.93
+
+[[zipcodes]]
+zipcode = 32432
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32440
+percent_zip_in_county = 83.41
+
+[[zipcodes]]
+zipcode = 32442
+percent_zip_in_county = 95.4
+
+[[zipcodes]]
+zipcode = 32443
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32445
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32446
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32447
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32448
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32460
+percent_zip_in_county = 100.0

@@ -1,2 +1,42 @@
 name = "Henry County"
 fips_code = 13151
+
+[[zipcodes]]
+zipcode = 30228
+percent_zip_in_county = 51.34
+
+[[zipcodes]]
+zipcode = 30233
+percent_zip_in_county = 3.69
+
+[[zipcodes]]
+zipcode = 30234
+percent_zip_in_county = 13.55
+
+[[zipcodes]]
+zipcode = 30236
+percent_zip_in_county = 6.31
+
+[[zipcodes]]
+zipcode = 30248
+percent_zip_in_county = 96.38
+
+[[zipcodes]]
+zipcode = 30252
+percent_zip_in_county = 99.28
+
+[[zipcodes]]
+zipcode = 30253
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30273
+percent_zip_in_county = 5.86
+
+[[zipcodes]]
+zipcode = 30281
+percent_zip_in_county = 86.55
+
+[[zipcodes]]
+zipcode = 30294
+percent_zip_in_county = 22.69

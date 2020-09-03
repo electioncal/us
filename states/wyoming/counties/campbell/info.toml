@@ -1,2 +1,30 @@
 name = "Campbell County"
 fips_code = 56005
+
+[[zipcodes]]
+zipcode = 82716
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82718
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82725
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82727
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82731
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82732
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82831
+percent_zip_in_county = 22.69

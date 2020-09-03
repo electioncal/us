@@ -1,2 +1,34 @@
 name = "Woods County"
 fips_code = 40151
+
+[[zipcodes]]
+zipcode = 73716
+percent_zip_in_county = 14.51
+
+[[zipcodes]]
+zipcode = 73717
+percent_zip_in_county = 99.56
+
+[[zipcodes]]
+zipcode = 73726
+percent_zip_in_county = 11.86
+
+[[zipcodes]]
+zipcode = 73729
+percent_zip_in_county = 3.29
+
+[[zipcodes]]
+zipcode = 73731
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73746
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73842
+percent_zip_in_county = 89.68
+
+[[zipcodes]]
+zipcode = 73860
+percent_zip_in_county = 94.39

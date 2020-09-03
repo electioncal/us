@@ -1,2 +1,58 @@
 name = "Alger County"
 fips_code = 26003
+
+[[zipcodes]]
+zipcode = 49806
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49816
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49822
+percent_zip_in_county = 96.82
+
+[[zipcodes]]
+zipcode = 49825
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49826
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49839
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49855
+percent_zip_in_county = 0.07
+
+[[zipcodes]]
+zipcode = 49862
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49878
+percent_zip_in_county = 1.31
+
+[[zipcodes]]
+zipcode = 49883
+percent_zip_in_county = 16.56
+
+[[zipcodes]]
+zipcode = 49884
+percent_zip_in_county = 99.28
+
+[[zipcodes]]
+zipcode = 49885
+percent_zip_in_county = 5.75
+
+[[zipcodes]]
+zipcode = 49891
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49895
+percent_zip_in_county = 69.28

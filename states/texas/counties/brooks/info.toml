@@ -1,2 +1,10 @@
 name = "Brooks County"
 fips_code = 48047
+
+[[zipcodes]]
+zipcode = 78353
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78355
+percent_zip_in_county = 95.74

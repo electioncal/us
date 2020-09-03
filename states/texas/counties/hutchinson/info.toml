@@ -1,2 +1,30 @@
 name = "Hutchinson County"
 fips_code = 48233
+
+[[zipcodes]]
+zipcode = 79007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79036
+percent_zip_in_county = 85.8
+
+[[zipcodes]]
+zipcode = 79062
+percent_zip_in_county = 30.28
+
+[[zipcodes]]
+zipcode = 79078
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79080
+percent_zip_in_county = 20.66
+
+[[zipcodes]]
+zipcode = 79081
+percent_zip_in_county = 1.25
+
+[[zipcodes]]
+zipcode = 79083
+percent_zip_in_county = 97.37

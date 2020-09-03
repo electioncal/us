@@ -1,2 +1,26 @@
 name = "Carbon County"
 fips_code = 49007
+
+[[zipcodes]]
+zipcode = 84501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84520
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84526
+percent_zip_in_county = 99.76
+
+[[zipcodes]]
+zipcode = 84529
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84539
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84542
+percent_zip_in_county = 100.0

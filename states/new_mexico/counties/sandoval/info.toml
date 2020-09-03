@@ -1,2 +1,82 @@
 name = "Sandoval County"
 fips_code = 35043
+
+[[zipcodes]]
+zipcode = 87001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87004
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87013
+percent_zip_in_county = 67.73
+
+[[zipcodes]]
+zipcode = 87014
+percent_zip_in_county = 0.31
+
+[[zipcodes]]
+zipcode = 87018
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87044
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87046
+percent_zip_in_county = 74.19
+
+[[zipcodes]]
+zipcode = 87047
+percent_zip_in_county = 12.85
+
+[[zipcodes]]
+zipcode = 87048
+percent_zip_in_county = 95.76
+
+[[zipcodes]]
+zipcode = 87052
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87053
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87083
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87124
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87144
+percent_zip_in_county = 100.0

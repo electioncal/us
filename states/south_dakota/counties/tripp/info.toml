@@ -1,2 +1,26 @@
 name = "Tripp County"
 fips_code = 46123
+
+[[zipcodes]]
+zipcode = 57528
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57529
+percent_zip_in_county = 39.24
+
+[[zipcodes]]
+zipcode = 57534
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57541
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57580
+percent_zip_in_county = 95.89
+
+[[zipcodes]]
+zipcode = 57584
+percent_zip_in_county = 100.0

@@ -1,2 +1,26 @@
 name = "Ward County"
 fips_code = 48475
+
+[[zipcodes]]
+zipcode = 79719
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79742
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79756
+percent_zip_in_county = 99.92
+
+[[zipcodes]]
+zipcode = 79772
+percent_zip_in_county = 0.28
+
+[[zipcodes]]
+zipcode = 79777
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79788
+percent_zip_in_county = 100.0

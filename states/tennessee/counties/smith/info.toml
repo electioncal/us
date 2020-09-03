@@ -1,2 +1,62 @@
 name = "Smith County"
 fips_code = 47159
+
+[[zipcodes]]
+zipcode = 37012
+percent_zip_in_county = 15.27
+
+[[zipcodes]]
+zipcode = 37030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37057
+percent_zip_in_county = 38.01
+
+[[zipcodes]]
+zipcode = 37087
+percent_zip_in_county = 2.37
+
+[[zipcodes]]
+zipcode = 37090
+percent_zip_in_county = 4.84
+
+[[zipcodes]]
+zipcode = 37145
+percent_zip_in_county = 82.43
+
+[[zipcodes]]
+zipcode = 37151
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37184
+percent_zip_in_county = 5.0
+
+[[zipcodes]]
+zipcode = 38547
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38548
+percent_zip_in_county = 38.44
+
+[[zipcodes]]
+zipcode = 38552
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38560
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38563
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38567
+percent_zip_in_county = 94.9
+
+[[zipcodes]]
+zipcode = 38569
+percent_zip_in_county = 69.42

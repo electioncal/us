@@ -1,2 +1,46 @@
 name = "Franklin County"
 fips_code = 47051
+
+[[zipcodes]]
+zipcode = 37306
+percent_zip_in_county = 96.67
+
+[[zipcodes]]
+zipcode = 37318
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37324
+percent_zip_in_county = 97.82
+
+[[zipcodes]]
+zipcode = 37328
+percent_zip_in_county = 10.19
+
+[[zipcodes]]
+zipcode = 37330
+percent_zip_in_county = 93.91
+
+[[zipcodes]]
+zipcode = 37335
+percent_zip_in_county = 0.86
+
+[[zipcodes]]
+zipcode = 37345
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37375
+percent_zip_in_county = 90.81
+
+[[zipcodes]]
+zipcode = 37376
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37388
+percent_zip_in_county = 17.71
+
+[[zipcodes]]
+zipcode = 37398
+percent_zip_in_county = 99.18

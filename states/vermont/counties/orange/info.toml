@@ -1,2 +1,122 @@
 name = "Orange County"
 fips_code = 50017
+
+[[zipcodes]]
+zipcode = 5033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5038
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5058
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5060
+percent_zip_in_county = 95.88
+
+[[zipcodes]]
+zipcode = 5061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5068
+percent_zip_in_county = 0.7
+
+[[zipcodes]]
+zipcode = 5069
+percent_zip_in_county = 7.39
+
+[[zipcodes]]
+zipcode = 5070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5075
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5076
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5077
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5079
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5081
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5083
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5086
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5641
+percent_zip_in_county = 3.24
+
+[[zipcodes]]
+zipcode = 5649
+percent_zip_in_county = 59.93
+
+[[zipcodes]]
+zipcode = 5654
+percent_zip_in_county = 17.01
+
+[[zipcodes]]
+zipcode = 5663
+percent_zip_in_county = 0.21
+
+[[zipcodes]]
+zipcode = 5669
+percent_zip_in_county = 1.89
+
+[[zipcodes]]
+zipcode = 5675
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5679
+percent_zip_in_county = 100.0

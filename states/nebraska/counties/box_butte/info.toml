@@ -1,2 +1,10 @@
 name = "Box Butte County"
 fips_code = 31013
+
+[[zipcodes]]
+zipcode = 69301
+percent_zip_in_county = 98.08
+
+[[zipcodes]]
+zipcode = 69348
+percent_zip_in_county = 91.62

@@ -1,2 +1,70 @@
 name = "Cache County"
 fips_code = 49005
+
+[[zipcodes]]
+zipcode = 84304
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84305
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84308
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84318
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84319
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84320
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84321
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84325
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84326
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84327
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84328
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84332
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84333
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84335
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84338
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84339
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84341
+percent_zip_in_county = 100.0

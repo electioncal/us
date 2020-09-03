@@ -1,2 +1,30 @@
 name = "Piute County"
 fips_code = 49031
+
+[[zipcodes]]
+zipcode = 84712
+percent_zip_in_county = 26.87
+
+[[zipcodes]]
+zipcode = 84723
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84732
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84740
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84743
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84744
+percent_zip_in_county = 10.71
+
+[[zipcodes]]
+zipcode = 84750
+percent_zip_in_county = 100.0

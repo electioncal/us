@@ -1,2 +1,74 @@
 name = "Imperial County"
 fips_code = 6025
+
+[[zipcodes]]
+zipcode = 92004
+percent_zip_in_county = 0.13
+
+[[zipcodes]]
+zipcode = 92222
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92225
+percent_zip_in_county = 0.09
+
+[[zipcodes]]
+zipcode = 92227
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92231
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92233
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92243
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92249
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92250
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92251
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92257
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92259
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92266
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92273
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92274
+percent_zip_in_county = 19.95
+
+[[zipcodes]]
+zipcode = 92275
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92281
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92283
+percent_zip_in_county = 100.0

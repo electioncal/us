@@ -1,2 +1,34 @@
 name = "Huntington County"
 fips_code = 18069
+
+[[zipcodes]]
+zipcode = 46702
+percent_zip_in_county = 92.8
+
+[[zipcodes]]
+zipcode = 46750
+percent_zip_in_county = 99.88
+
+[[zipcodes]]
+zipcode = 46770
+percent_zip_in_county = 34.76
+
+[[zipcodes]]
+zipcode = 46783
+percent_zip_in_county = 54.64
+
+[[zipcodes]]
+zipcode = 46792
+percent_zip_in_county = 83.51
+
+[[zipcodes]]
+zipcode = 46940
+percent_zip_in_county = 12.05
+
+[[zipcodes]]
+zipcode = 46952
+percent_zip_in_county = 0.26
+
+[[zipcodes]]
+zipcode = 46991
+percent_zip_in_county = 4.34

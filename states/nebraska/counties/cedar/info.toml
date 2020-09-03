@@ -1,2 +1,54 @@
 name = "Cedar County"
 fips_code = 31027
+
+[[zipcodes]]
+zipcode = 57078
+percent_zip_in_county = 0.17
+
+[[zipcodes]]
+zipcode = 68717
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68727
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68730
+percent_zip_in_county = 23.98
+
+[[zipcodes]]
+zipcode = 68736
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68739
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68745
+percent_zip_in_county = 97.71
+
+[[zipcodes]]
+zipcode = 68749
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68757
+percent_zip_in_county = 6.63
+
+[[zipcodes]]
+zipcode = 68771
+percent_zip_in_county = 76.97
+
+[[zipcodes]]
+zipcode = 68774
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68786
+percent_zip_in_county = 4.82
+
+[[zipcodes]]
+zipcode = 68792
+percent_zip_in_county = 100.0

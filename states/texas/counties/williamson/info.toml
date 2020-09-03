@@ -1,2 +1,110 @@
 name = "Williamson County"
 fips_code = 48491
+
+[[zipcodes]]
+zipcode = 76511
+percent_zip_in_county = 65.12
+
+[[zipcodes]]
+zipcode = 76527
+percent_zip_in_county = 88.32
+
+[[zipcodes]]
+zipcode = 76530
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76537
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76573
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76574
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76577
+percent_zip_in_county = 1.61
+
+[[zipcodes]]
+zipcode = 76578
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78613
+percent_zip_in_county = 87.1
+
+[[zipcodes]]
+zipcode = 78615
+percent_zip_in_county = 60.23
+
+[[zipcodes]]
+zipcode = 78621
+percent_zip_in_county = 2.21
+
+[[zipcodes]]
+zipcode = 78626
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78628
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78633
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78634
+percent_zip_in_county = 98.32
+
+[[zipcodes]]
+zipcode = 78641
+percent_zip_in_county = 83.79
+
+[[zipcodes]]
+zipcode = 78642
+percent_zip_in_county = 97.69
+
+[[zipcodes]]
+zipcode = 78664
+percent_zip_in_county = 88.5
+
+[[zipcodes]]
+zipcode = 78665
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78681
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78717
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78726
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 78727
+percent_zip_in_county = 0.07
+
+[[zipcodes]]
+zipcode = 78728
+percent_zip_in_county = 8.62
+
+[[zipcodes]]
+zipcode = 78729
+percent_zip_in_county = 91.62
+
+[[zipcodes]]
+zipcode = 78750
+percent_zip_in_county = 45.99
+
+[[zipcodes]]
+zipcode = 78759
+percent_zip_in_county = 0.78

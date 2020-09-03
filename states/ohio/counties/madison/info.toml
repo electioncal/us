@@ -1,2 +1,50 @@
 name = "Madison County"
 fips_code = 39097
+
+[[zipcodes]]
+zipcode = 43026
+percent_zip_in_county = 0.03
+
+[[zipcodes]]
+zipcode = 43029
+percent_zip_in_county = 72.74
+
+[[zipcodes]]
+zipcode = 43044
+percent_zip_in_county = 2.37
+
+[[zipcodes]]
+zipcode = 43064
+percent_zip_in_county = 55.23
+
+[[zipcodes]]
+zipcode = 43119
+percent_zip_in_county = 2.14
+
+[[zipcodes]]
+zipcode = 43140
+percent_zip_in_county = 98.28
+
+[[zipcodes]]
+zipcode = 43143
+percent_zip_in_county = 61.54
+
+[[zipcodes]]
+zipcode = 43146
+percent_zip_in_county = 0.25
+
+[[zipcodes]]
+zipcode = 43151
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43153
+percent_zip_in_county = 83.32
+
+[[zipcodes]]
+zipcode = 43162
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45369
+percent_zip_in_county = 0.51

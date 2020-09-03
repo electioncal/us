@@ -1,2 +1,42 @@
 name = "Nelson County"
 fips_code = 21179
+
+[[zipcodes]]
+zipcode = 40004
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40008
+percent_zip_in_county = 92.58
+
+[[zipcodes]]
+zipcode = 40012
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40013
+percent_zip_in_county = 85.01
+
+[[zipcodes]]
+zipcode = 40020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40037
+percent_zip_in_county = 8.69
+
+[[zipcodes]]
+zipcode = 40048
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40051
+percent_zip_in_county = 81.83
+
+[[zipcodes]]
+zipcode = 40052
+percent_zip_in_county = 69.13
+
+[[zipcodes]]
+zipcode = 40107
+percent_zip_in_county = 100.0

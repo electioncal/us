@@ -1,2 +1,22 @@
 name = "San Augustine County"
 fips_code = 48405
+
+[[zipcodes]]
+zipcode = 75929
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75930
+percent_zip_in_county = 39.59
+
+[[zipcodes]]
+zipcode = 75935
+percent_zip_in_county = 1.22
+
+[[zipcodes]]
+zipcode = 75968
+percent_zip_in_county = 0.06
+
+[[zipcodes]]
+zipcode = 75972
+percent_zip_in_county = 95.12

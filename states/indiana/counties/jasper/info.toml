@@ -1,2 +1,50 @@
 name = "Jasper County"
 fips_code = 18073
+
+[[zipcodes]]
+zipcode = 46310
+percent_zip_in_county = 76.91
+
+[[zipcodes]]
+zipcode = 46374
+percent_zip_in_county = 11.76
+
+[[zipcodes]]
+zipcode = 46392
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47922
+percent_zip_in_county = 3.14
+
+[[zipcodes]]
+zipcode = 47943
+percent_zip_in_county = 75.32
+
+[[zipcodes]]
+zipcode = 47946
+percent_zip_in_county = 6.95
+
+[[zipcodes]]
+zipcode = 47948
+percent_zip_in_county = 11.63
+
+[[zipcodes]]
+zipcode = 47957
+percent_zip_in_county = 6.81
+
+[[zipcodes]]
+zipcode = 47959
+percent_zip_in_county = 2.48
+
+[[zipcodes]]
+zipcode = 47977
+percent_zip_in_county = 89.08
+
+[[zipcodes]]
+zipcode = 47978
+percent_zip_in_county = 99.39
+
+[[zipcodes]]
+zipcode = 47995
+percent_zip_in_county = 1.78

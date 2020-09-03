@@ -1,2 +1,58 @@
 name = "Pottawatomie County"
 fips_code = 40125
+
+[[zipcodes]]
+zipcode = 73045
+percent_zip_in_county = 1.71
+
+[[zipcodes]]
+zipcode = 74801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74804
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74826
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74840
+percent_zip_in_county = 67.46
+
+[[zipcodes]]
+zipcode = 74849
+percent_zip_in_county = 12.87
+
+[[zipcodes]]
+zipcode = 74851
+percent_zip_in_county = 79.41
+
+[[zipcodes]]
+zipcode = 74852
+percent_zip_in_county = 95.17
+
+[[zipcodes]]
+zipcode = 74854
+percent_zip_in_county = 55.82
+
+[[zipcodes]]
+zipcode = 74855
+percent_zip_in_county = 12.05
+
+[[zipcodes]]
+zipcode = 74857
+percent_zip_in_county = 0.15
+
+[[zipcodes]]
+zipcode = 74864
+percent_zip_in_county = 20.5
+
+[[zipcodes]]
+zipcode = 74873
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74878
+percent_zip_in_county = 90.86

@@ -1,2 +1,110 @@
 name = "Crawford County"
 fips_code = 42039
+
+[[zipcodes]]
+zipcode = 16110
+percent_zip_in_county = 87.58
+
+[[zipcodes]]
+zipcode = 16111
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16125
+percent_zip_in_county = 0.59
+
+[[zipcodes]]
+zipcode = 16131
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16134
+percent_zip_in_county = 59.47
+
+[[zipcodes]]
+zipcode = 16314
+percent_zip_in_county = 86.94
+
+[[zipcodes]]
+zipcode = 16316
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16317
+percent_zip_in_county = 1.58
+
+[[zipcodes]]
+zipcode = 16327
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16328
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16335
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16354
+percent_zip_in_county = 73.2
+
+[[zipcodes]]
+zipcode = 16360
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16401
+percent_zip_in_county = 1.61
+
+[[zipcodes]]
+zipcode = 16403
+percent_zip_in_county = 94.52
+
+[[zipcodes]]
+zipcode = 16404
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16406
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16407
+percent_zip_in_county = 1.56
+
+[[zipcodes]]
+zipcode = 16412
+percent_zip_in_county = 6.35
+
+[[zipcodes]]
+zipcode = 16422
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16424
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16433
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16434
+percent_zip_in_county = 92.34
+
+[[zipcodes]]
+zipcode = 16435
+percent_zip_in_county = 97.77
+
+[[zipcodes]]
+zipcode = 16438
+percent_zip_in_county = 19.23
+
+[[zipcodes]]
+zipcode = 16440
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16441
+percent_zip_in_county = 1.67

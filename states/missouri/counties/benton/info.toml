@@ -1,2 +1,54 @@
 name = "Benton County"
 fips_code = 29015
+
+[[zipcodes]]
+zipcode = 64735
+percent_zip_in_county = 1.45
+
+[[zipcodes]]
+zipcode = 64776
+percent_zip_in_county = 1.09
+
+[[zipcodes]]
+zipcode = 65078
+percent_zip_in_county = 0.35
+
+[[zipcodes]]
+zipcode = 65325
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65326
+percent_zip_in_county = 73.95
+
+[[zipcodes]]
+zipcode = 65335
+percent_zip_in_county = 66.84
+
+[[zipcodes]]
+zipcode = 65338
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65345
+percent_zip_in_county = 29.46
+
+[[zipcodes]]
+zipcode = 65355
+percent_zip_in_county = 99.49
+
+[[zipcodes]]
+zipcode = 65360
+percent_zip_in_county = 7.85
+
+[[zipcodes]]
+zipcode = 65634
+percent_zip_in_county = 1.44
+
+[[zipcodes]]
+zipcode = 65735
+percent_zip_in_county = 8.18
+
+[[zipcodes]]
+zipcode = 65779
+percent_zip_in_county = 0.54

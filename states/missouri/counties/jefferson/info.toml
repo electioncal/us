@@ -1,2 +1,102 @@
 name = "Jefferson County"
 fips_code = 29099
+
+[[zipcodes]]
+zipcode = 63010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63012
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63015
+percent_zip_in_county = 21.44
+
+[[zipcodes]]
+zipcode = 63016
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63019
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63020
+percent_zip_in_county = 99.77
+
+[[zipcodes]]
+zipcode = 63023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63025
+percent_zip_in_county = 19.37
+
+[[zipcodes]]
+zipcode = 63026
+percent_zip_in_county = 45.55
+
+[[zipcodes]]
+zipcode = 63028
+percent_zip_in_county = 97.57
+
+[[zipcodes]]
+zipcode = 63041
+percent_zip_in_county = 17.04
+
+[[zipcodes]]
+zipcode = 63047
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63048
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63049
+percent_zip_in_county = 98.7
+
+[[zipcodes]]
+zipcode = 63050
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63052
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63053
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63057
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63069
+percent_zip_in_county = 13.06
+
+[[zipcodes]]
+zipcode = 63070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63072
+percent_zip_in_county = 4.2
+
+[[zipcodes]]
+zipcode = 63087
+percent_zip_in_county = 8.19
+
+[[zipcodes]]
+zipcode = 63627
+percent_zip_in_county = 5.35
+
+[[zipcodes]]
+zipcode = 63628
+percent_zip_in_county = 0.21

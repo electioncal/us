@@ -1,2 +1,22 @@
 name = "Sweet Grass County"
 fips_code = 30097
+
+[[zipcodes]]
+zipcode = 59011
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59052
+percent_zip_in_county = 82.01
+
+[[zipcodes]]
+zipcode = 59055
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59069
+percent_zip_in_county = 25.38

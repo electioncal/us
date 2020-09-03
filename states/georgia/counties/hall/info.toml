@@ -1,2 +1,78 @@
 name = "Hall County"
 fips_code = 13139
+
+[[zipcodes]]
+zipcode = 30501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30504
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30506
+percent_zip_in_county = 73.87
+
+[[zipcodes]]
+zipcode = 30507
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30510
+percent_zip_in_county = 6.16
+
+[[zipcodes]]
+zipcode = 30517
+percent_zip_in_county = 24.47
+
+[[zipcodes]]
+zipcode = 30518
+percent_zip_in_county = 8.38
+
+[[zipcodes]]
+zipcode = 30519
+percent_zip_in_county = 7.48
+
+[[zipcodes]]
+zipcode = 30527
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30531
+percent_zip_in_county = 1.07
+
+[[zipcodes]]
+zipcode = 30533
+percent_zip_in_county = 1.49
+
+[[zipcodes]]
+zipcode = 30542
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30543
+percent_zip_in_county = 72.79
+
+[[zipcodes]]
+zipcode = 30548
+percent_zip_in_county = 17.59
+
+[[zipcodes]]
+zipcode = 30554
+percent_zip_in_county = 70.15
+
+[[zipcodes]]
+zipcode = 30564
+percent_zip_in_county = 64.19
+
+[[zipcodes]]
+zipcode = 30566
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30567
+percent_zip_in_county = 1.27
+
+[[zipcodes]]
+zipcode = 30575
+percent_zip_in_county = 32.65

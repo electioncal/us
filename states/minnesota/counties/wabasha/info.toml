@@ -1,2 +1,54 @@
 name = "Wabasha County"
 fips_code = 27157
+
+[[zipcodes]]
+zipcode = 55027
+percent_zip_in_county = 1.81
+
+[[zipcodes]]
+zipcode = 55041
+percent_zip_in_county = 78.27
+
+[[zipcodes]]
+zipcode = 55906
+percent_zip_in_county = 0.36
+
+[[zipcodes]]
+zipcode = 55910
+percent_zip_in_county = 11.17
+
+[[zipcodes]]
+zipcode = 55932
+percent_zip_in_county = 84.23
+
+[[zipcodes]]
+zipcode = 55945
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55956
+percent_zip_in_county = 88.43
+
+[[zipcodes]]
+zipcode = 55957
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55960
+percent_zip_in_county = 0.61
+
+[[zipcodes]]
+zipcode = 55964
+percent_zip_in_county = 96.38
+
+[[zipcodes]]
+zipcode = 55968
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55981
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55991
+percent_zip_in_county = 97.32

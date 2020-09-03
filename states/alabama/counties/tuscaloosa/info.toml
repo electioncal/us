@@ -1,2 +1,110 @@
 name = "Tuscaloosa County"
 fips_code = 1125
+
+[[zipcodes]]
+zipcode = 35006
+percent_zip_in_county = 0.26
+
+[[zipcodes]]
+zipcode = 35111
+percent_zip_in_county = 50.43
+
+[[zipcodes]]
+zipcode = 35188
+percent_zip_in_county = 8.21
+
+[[zipcodes]]
+zipcode = 35401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35404
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35405
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35406
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35444
+percent_zip_in_county = 98.05
+
+[[zipcodes]]
+zipcode = 35446
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35452
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35453
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35456
+percent_zip_in_county = 99.57
+
+[[zipcodes]]
+zipcode = 35457
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35458
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35463
+percent_zip_in_county = 96.05
+
+[[zipcodes]]
+zipcode = 35466
+percent_zip_in_county = 11.36
+
+[[zipcodes]]
+zipcode = 35469
+percent_zip_in_county = 26.24
+
+[[zipcodes]]
+zipcode = 35473
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35474
+percent_zip_in_county = 31.84
+
+[[zipcodes]]
+zipcode = 35475
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35476
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35480
+percent_zip_in_county = 81.98
+
+[[zipcodes]]
+zipcode = 35490
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35546
+percent_zip_in_county = 32.17
+
+[[zipcodes]]
+zipcode = 35555
+percent_zip_in_county = 1.87
+
+[[zipcodes]]
+zipcode = 35574
+percent_zip_in_county = 0.6
+
+[[zipcodes]]
+zipcode = 35579
+percent_zip_in_county = 0.45

@@ -1,2 +1,18 @@
 name = "Thomas County"
 fips_code = 31171
+
+[[zipcodes]]
+zipcode = 69142
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69161
+percent_zip_in_county = 76.54
+
+[[zipcodes]]
+zipcode = 69163
+percent_zip_in_county = 3.21
+
+[[zipcodes]]
+zipcode = 69166
+percent_zip_in_county = 70.0

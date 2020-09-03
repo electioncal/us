@@ -1,2 +1,146 @@
 name = "Bristol County"
 fips_code = 25005
+
+[[zipcodes]]
+zipcode = 2048
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2356
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2357
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2375
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2702
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2703
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2715
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2717
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2718
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2719
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2720
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2721
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2723
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2724
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2725
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2726
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2740
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2743
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2744
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2745
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2746
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2747
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2748
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2760
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2763
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2764
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2766
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2767
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2769
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2771
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2777
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2779
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2780
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2790
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2791
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2861
+percent_zip_in_county = 0.05

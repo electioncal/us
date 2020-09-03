@@ -1,2 +1,50 @@
 name = "Matanuska-Susitna Borough"
 fips_code = 2170
+
+[[zipcodes]]
+zipcode = 99588
+percent_zip_in_county = 8.78
+
+[[zipcodes]]
+zipcode = 99645
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99652
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99654
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99667
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99674
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99676
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99683
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99688
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99693
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 99694
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99729
+percent_zip_in_county = 5.19

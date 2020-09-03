@@ -1,2 +1,14 @@
 name = "Graham County"
 fips_code = 37075
+
+[[zipcodes]]
+zipcode = 28702
+percent_zip_in_county = 78.69
+
+[[zipcodes]]
+zipcode = 28733
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28771
+percent_zip_in_county = 99.93

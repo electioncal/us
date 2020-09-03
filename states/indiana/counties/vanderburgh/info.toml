@@ -1,2 +1,46 @@
 name = "Vanderburgh County"
 fips_code = 18163
+
+[[zipcodes]]
+zipcode = 47633
+percent_zip_in_county = 0.47
+
+[[zipcodes]]
+zipcode = 47639
+percent_zip_in_county = 6.96
+
+[[zipcodes]]
+zipcode = 47708
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47710
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47711
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47712
+percent_zip_in_county = 86.88
+
+[[zipcodes]]
+zipcode = 47713
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47714
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47715
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47720
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47725
+percent_zip_in_county = 99.5

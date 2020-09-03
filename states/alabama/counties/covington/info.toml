@@ -1,2 +1,50 @@
 name = "Covington County"
 fips_code = 1039
+
+[[zipcodes]]
+zipcode = 36028
+percent_zip_in_county = 57.62
+
+[[zipcodes]]
+zipcode = 36038
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36420
+percent_zip_in_county = 98.45
+
+[[zipcodes]]
+zipcode = 36421
+percent_zip_in_county = 97.97
+
+[[zipcodes]]
+zipcode = 36442
+percent_zip_in_county = 99.52
+
+[[zipcodes]]
+zipcode = 36453
+percent_zip_in_county = 0.73
+
+[[zipcodes]]
+zipcode = 36455
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36456
+percent_zip_in_county = 6.37
+
+[[zipcodes]]
+zipcode = 36467
+percent_zip_in_county = 97.06
+
+[[zipcodes]]
+zipcode = 36474
+percent_zip_in_county = 97.03
+
+[[zipcodes]]
+zipcode = 36476
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36483
+percent_zip_in_county = 66.04

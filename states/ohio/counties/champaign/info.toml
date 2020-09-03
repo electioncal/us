@@ -1,2 +1,70 @@
 name = "Champaign County"
 fips_code = 39021
+
+[[zipcodes]]
+zipcode = 43009
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43044
+percent_zip_in_county = 84.84
+
+[[zipcodes]]
+zipcode = 43045
+percent_zip_in_county = 1.02
+
+[[zipcodes]]
+zipcode = 43060
+percent_zip_in_county = 88.06
+
+[[zipcodes]]
+zipcode = 43070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43078
+percent_zip_in_county = 99.75
+
+[[zipcodes]]
+zipcode = 43084
+percent_zip_in_county = 98.45
+
+[[zipcodes]]
+zipcode = 43318
+percent_zip_in_county = 19.28
+
+[[zipcodes]]
+zipcode = 43343
+percent_zip_in_county = 10.5
+
+[[zipcodes]]
+zipcode = 43357
+percent_zip_in_county = 21.04
+
+[[zipcodes]]
+zipcode = 45312
+percent_zip_in_county = 0.77
+
+[[zipcodes]]
+zipcode = 45317
+percent_zip_in_county = 45.68
+
+[[zipcodes]]
+zipcode = 45344
+percent_zip_in_county = 0.52
+
+[[zipcodes]]
+zipcode = 45365
+percent_zip_in_county = 0.04
+
+[[zipcodes]]
+zipcode = 45389
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45502
+percent_zip_in_county = 1.55

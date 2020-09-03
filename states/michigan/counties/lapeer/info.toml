@@ -1,2 +1,86 @@
 name = "Lapeer County"
 fips_code = 26087
+
+[[zipcodes]]
+zipcode = 48003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48014
+percent_zip_in_county = 1.17
+
+[[zipcodes]]
+zipcode = 48371
+percent_zip_in_county = 1.37
+
+[[zipcodes]]
+zipcode = 48412
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48416
+percent_zip_in_county = 32.95
+
+[[zipcodes]]
+zipcode = 48421
+percent_zip_in_county = 97.67
+
+[[zipcodes]]
+zipcode = 48423
+percent_zip_in_county = 0.12
+
+[[zipcodes]]
+zipcode = 48428
+percent_zip_in_county = 99.8
+
+[[zipcodes]]
+zipcode = 48435
+percent_zip_in_county = 42.87
+
+[[zipcodes]]
+zipcode = 48438
+percent_zip_in_county = 15.94
+
+[[zipcodes]]
+zipcode = 48440
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48444
+percent_zip_in_county = 99.22
+
+[[zipcodes]]
+zipcode = 48446
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48453
+percent_zip_in_county = 4.82
+
+[[zipcodes]]
+zipcode = 48455
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48461
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48462
+percent_zip_in_county = 4.44
+
+[[zipcodes]]
+zipcode = 48464
+percent_zip_in_county = 78.17
+
+[[zipcodes]]
+zipcode = 48727
+percent_zip_in_county = 67.69
+
+[[zipcodes]]
+zipcode = 48744
+percent_zip_in_county = 8.45
+
+[[zipcodes]]
+zipcode = 48760
+percent_zip_in_county = 45.3

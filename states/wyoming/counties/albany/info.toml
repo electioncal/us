@@ -1,2 +1,54 @@
 name = "Albany County"
 fips_code = 56001
+
+[[zipcodes]]
+zipcode = 82051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82052
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82055
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82058
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82063
+percent_zip_in_county = 71.0
+
+[[zipcodes]]
+zipcode = 82070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82073
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82083
+percent_zip_in_county = 79.09
+
+[[zipcodes]]
+zipcode = 82084
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82201
+percent_zip_in_county = 1.55
+
+[[zipcodes]]
+zipcode = 82329
+percent_zip_in_county = 7.24
+
+[[zipcodes]]
+zipcode = 82637
+percent_zip_in_county = 0.0

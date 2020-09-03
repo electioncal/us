@@ -1,2 +1,78 @@
 name = "Pittsylvania County"
 fips_code = 51143
+
+[[zipcodes]]
+zipcode = 24054
+percent_zip_in_county = 28.78
+
+[[zipcodes]]
+zipcode = 24069
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24137
+percent_zip_in_county = 17.7
+
+[[zipcodes]]
+zipcode = 24139
+percent_zip_in_county = 88.7
+
+[[zipcodes]]
+zipcode = 24161
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24527
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24530
+percent_zip_in_county = 99.08
+
+[[zipcodes]]
+zipcode = 24531
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24540
+percent_zip_in_county = 39.9
+
+[[zipcodes]]
+zipcode = 24541
+percent_zip_in_county = 15.94
+
+[[zipcodes]]
+zipcode = 24549
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24557
+percent_zip_in_county = 99.54
+
+[[zipcodes]]
+zipcode = 24563
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24565
+percent_zip_in_county = 92.79
+
+[[zipcodes]]
+zipcode = 24566
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24569
+percent_zip_in_county = 64.66
+
+[[zipcodes]]
+zipcode = 24586
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24594
+percent_zip_in_county = 69.11
+
+[[zipcodes]]
+zipcode = 24597
+percent_zip_in_county = 9.79

@@ -1,2 +1,30 @@
 name = "Concordia Parish"
 fips_code = 22029
+
+[[zipcodes]]
+zipcode = 71316
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71326
+percent_zip_in_county = 70.36
+
+[[zipcodes]]
+zipcode = 71334
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71343
+percent_zip_in_county = 12.48
+
+[[zipcodes]]
+zipcode = 71354
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71373
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71377
+percent_zip_in_county = 100.0

@@ -1,2 +1,18 @@
 name = "Dickens County"
 fips_code = 48125
+
+[[zipcodes]]
+zipcode = 79220
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79229
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79243
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79370
+percent_zip_in_county = 91.74

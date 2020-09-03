@@ -1,2 +1,42 @@
 name = "Lac qui Parle County"
 fips_code = 27073
+
+[[zipcodes]]
+zipcode = 56208
+percent_zip_in_county = 2.57
+
+[[zipcodes]]
+zipcode = 56212
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56218
+percent_zip_in_county = 71.34
+
+[[zipcodes]]
+zipcode = 56220
+percent_zip_in_county = 6.03
+
+[[zipcodes]]
+zipcode = 56232
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56256
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56257
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56265
+percent_zip_in_county = 5.62
+
+[[zipcodes]]
+zipcode = 56276
+percent_zip_in_county = 18.46
+
+[[zipcodes]]
+zipcode = 56278
+percent_zip_in_county = 1.81

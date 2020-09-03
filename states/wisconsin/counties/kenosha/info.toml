@@ -1,2 +1,70 @@
 name = "Kenosha County"
 fips_code = 55059
+
+[[zipcodes]]
+zipcode = 53104
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53105
+percent_zip_in_county = 14.13
+
+[[zipcodes]]
+zipcode = 53128
+percent_zip_in_county = 12.65
+
+[[zipcodes]]
+zipcode = 53139
+percent_zip_in_county = 16.31
+
+[[zipcodes]]
+zipcode = 53140
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53142
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53143
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53144
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53158
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53168
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53170
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53177
+percent_zip_in_county = 4.02
+
+[[zipcodes]]
+zipcode = 53179
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53181
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53182
+percent_zip_in_county = 7.89
+
+[[zipcodes]]
+zipcode = 53192
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53403
+percent_zip_in_county = 1.71

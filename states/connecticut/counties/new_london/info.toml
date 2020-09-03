@@ -1,2 +1,126 @@
 name = "New London County"
 fips_code = 9011
+
+[[zipcodes]]
+zipcode = 6249
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6254
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6320
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6330
+percent_zip_in_county = 88.88
+
+[[zipcodes]]
+zipcode = 6333
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6334
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6335
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6336
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6339
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6340
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6350
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6351
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6353
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6355
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6357
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6359
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6360
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6365
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6370
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6371
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6375
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6376
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6378
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6379
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6380
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6382
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6384
+percent_zip_in_county = 97.19
+
+[[zipcodes]]
+zipcode = 6385
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6389
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6415
+percent_zip_in_county = 95.4
+
+[[zipcodes]]
+zipcode = 6420
+percent_zip_in_county = 98.95

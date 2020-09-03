@@ -1,2 +1,42 @@
 name = "Brookings County"
 fips_code = 46011
+
+[[zipcodes]]
+zipcode = 57002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57006
+percent_zip_in_county = 99.42
+
+[[zipcodes]]
+zipcode = 57026
+percent_zip_in_county = 83.95
+
+[[zipcodes]]
+zipcode = 57061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57071
+percent_zip_in_county = 98.59
+
+[[zipcodes]]
+zipcode = 57212
+percent_zip_in_county = 22.74
+
+[[zipcodes]]
+zipcode = 57213
+percent_zip_in_county = 43.71
+
+[[zipcodes]]
+zipcode = 57220
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57268
+percent_zip_in_county = 9.93
+
+[[zipcodes]]
+zipcode = 57276
+percent_zip_in_county = 100.0

@@ -1,2 +1,90 @@
 name = "Franklin County"
 fips_code = 29071
+
+[[zipcodes]]
+zipcode = 63013
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63014
+percent_zip_in_county = 88.32
+
+[[zipcodes]]
+zipcode = 63015
+percent_zip_in_county = 78.56
+
+[[zipcodes]]
+zipcode = 63037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63041
+percent_zip_in_county = 82.96
+
+[[zipcodes]]
+zipcode = 63055
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63056
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63060
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63068
+percent_zip_in_county = 98.47
+
+[[zipcodes]]
+zipcode = 63069
+percent_zip_in_county = 66.21
+
+[[zipcodes]]
+zipcode = 63072
+percent_zip_in_county = 95.8
+
+[[zipcodes]]
+zipcode = 63073
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63077
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63079
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63080
+percent_zip_in_county = 76.3
+
+[[zipcodes]]
+zipcode = 63084
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63089
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63090
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63091
+percent_zip_in_county = 13.05
+
+[[zipcodes]]
+zipcode = 65441
+percent_zip_in_county = 0.31

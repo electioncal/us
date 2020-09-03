@@ -1,2 +1,18 @@
 name = "Unicoi County"
 fips_code = 47171
+
+[[zipcodes]]
+zipcode = 37601
+percent_zip_in_county = 0.8
+
+[[zipcodes]]
+zipcode = 37650
+percent_zip_in_county = 96.32
+
+[[zipcodes]]
+zipcode = 37657
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37692
+percent_zip_in_county = 100.0

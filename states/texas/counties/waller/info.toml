@@ -1,2 +1,46 @@
 name = "Waller County"
 fips_code = 48473
+
+[[zipcodes]]
+zipcode = 77355
+percent_zip_in_county = 4.16
+
+[[zipcodes]]
+zipcode = 77363
+percent_zip_in_county = 6.3
+
+[[zipcodes]]
+zipcode = 77423
+percent_zip_in_county = 97.09
+
+[[zipcodes]]
+zipcode = 77445
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77446
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77447
+percent_zip_in_county = 31.78
+
+[[zipcodes]]
+zipcode = 77466
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77484
+percent_zip_in_county = 78.28
+
+[[zipcodes]]
+zipcode = 77493
+percent_zip_in_county = 10.08
+
+[[zipcodes]]
+zipcode = 77494
+percent_zip_in_county = 0.18
+
+[[zipcodes]]
+zipcode = 77868
+percent_zip_in_county = 0.2

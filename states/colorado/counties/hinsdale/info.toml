@@ -1,2 +1,14 @@
 name = "Hinsdale County"
 fips_code = 8053
+
+[[zipcodes]]
+zipcode = 81130
+percent_zip_in_county = 1.64
+
+[[zipcodes]]
+zipcode = 81147
+percent_zip_in_county = 0.26
+
+[[zipcodes]]
+zipcode = 81235
+percent_zip_in_county = 100.0

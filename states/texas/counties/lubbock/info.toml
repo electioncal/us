@@ -1,2 +1,98 @@
 name = "Lubbock County"
 fips_code = 48303
+
+[[zipcodes]]
+zipcode = 79250
+percent_zip_in_county = 3.18
+
+[[zipcodes]]
+zipcode = 79311
+percent_zip_in_county = 28.82
+
+[[zipcodes]]
+zipcode = 79329
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79343
+percent_zip_in_county = 8.78
+
+[[zipcodes]]
+zipcode = 79350
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79358
+percent_zip_in_county = 4.93
+
+[[zipcodes]]
+zipcode = 79363
+percent_zip_in_county = 99.11
+
+[[zipcodes]]
+zipcode = 79364
+percent_zip_in_county = 97.38
+
+[[zipcodes]]
+zipcode = 79366
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79382
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79403
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79404
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79406
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79407
+percent_zip_in_county = 95.05
+
+[[zipcodes]]
+zipcode = 79410
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79411
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79412
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79413
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79414
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79415
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79416
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79423
+percent_zip_in_county = 99.69
+
+[[zipcodes]]
+zipcode = 79424
+percent_zip_in_county = 100.0

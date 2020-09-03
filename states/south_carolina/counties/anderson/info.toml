@@ -1,2 +1,78 @@
 name = "Anderson County"
 fips_code = 45007
+
+[[zipcodes]]
+zipcode = 29611
+percent_zip_in_county = 5.97
+
+[[zipcodes]]
+zipcode = 29621
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29624
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29625
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29626
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29627
+percent_zip_in_county = 90.78
+
+[[zipcodes]]
+zipcode = 29630
+percent_zip_in_county = 4.78
+
+[[zipcodes]]
+zipcode = 29631
+percent_zip_in_county = 0.34
+
+[[zipcodes]]
+zipcode = 29642
+percent_zip_in_county = 39.81
+
+[[zipcodes]]
+zipcode = 29643
+percent_zip_in_county = 23.19
+
+[[zipcodes]]
+zipcode = 29654
+percent_zip_in_county = 63.77
+
+[[zipcodes]]
+zipcode = 29655
+percent_zip_in_county = 72.87
+
+[[zipcodes]]
+zipcode = 29657
+percent_zip_in_county = 13.95
+
+[[zipcodes]]
+zipcode = 29669
+percent_zip_in_county = 51.24
+
+[[zipcodes]]
+zipcode = 29670
+percent_zip_in_county = 99.65
+
+[[zipcodes]]
+zipcode = 29673
+percent_zip_in_county = 48.76
+
+[[zipcodes]]
+zipcode = 29684
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29689
+percent_zip_in_county = 88.61
+
+[[zipcodes]]
+zipcode = 29697
+percent_zip_in_county = 100.0

@@ -1,2 +1,18 @@
 name = "Greensville County"
 fips_code = 51081
+
+[[zipcodes]]
+zipcode = 23847
+percent_zip_in_county = 60.61
+
+[[zipcodes]]
+zipcode = 23856
+percent_zip_in_county = 3.78
+
+[[zipcodes]]
+zipcode = 23867
+percent_zip_in_county = 56.88
+
+[[zipcodes]]
+zipcode = 23879
+percent_zip_in_county = 100.0

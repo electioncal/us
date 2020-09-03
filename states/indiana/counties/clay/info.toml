@@ -1,2 +1,62 @@
 name = "Clay County"
 fips_code = 18021
+
+[[zipcodes]]
+zipcode = 47427
+percent_zip_in_county = 9.97
+
+[[zipcodes]]
+zipcode = 47438
+percent_zip_in_county = 24.2
+
+[[zipcodes]]
+zipcode = 47802
+percent_zip_in_county = 0.05
+
+[[zipcodes]]
+zipcode = 47833
+percent_zip_in_county = 48.71
+
+[[zipcodes]]
+zipcode = 47834
+percent_zip_in_county = 94.59
+
+[[zipcodes]]
+zipcode = 47837
+percent_zip_in_county = 59.71
+
+[[zipcodes]]
+zipcode = 47840
+percent_zip_in_county = 97.47
+
+[[zipcodes]]
+zipcode = 47841
+percent_zip_in_county = 99.25
+
+[[zipcodes]]
+zipcode = 47846
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47853
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47857
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47858
+percent_zip_in_county = 43.12
+
+[[zipcodes]]
+zipcode = 47868
+percent_zip_in_county = 11.99
+
+[[zipcodes]]
+zipcode = 47874
+percent_zip_in_county = 4.54
+
+[[zipcodes]]
+zipcode = 47881
+percent_zip_in_county = 100.0

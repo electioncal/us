@@ -1,2 +1,54 @@
 name = "Harrison County"
 fips_code = 29081
+
+[[zipcodes]]
+zipcode = 64424
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64426
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64442
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64456
+percent_zip_in_county = 0.96
+
+[[zipcodes]]
+zipcode = 64458
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64467
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64471
+percent_zip_in_county = 95.03
+
+[[zipcodes]]
+zipcode = 64481
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64632
+percent_zip_in_county = 68.36
+
+[[zipcodes]]
+zipcode = 64636
+percent_zip_in_county = 3.34
+
+[[zipcodes]]
+zipcode = 64642
+percent_zip_in_county = 79.53
+
+[[zipcodes]]
+zipcode = 64657
+percent_zip_in_county = 28.79
+
+[[zipcodes]]
+zipcode = 64670
+percent_zip_in_county = 2.66

@@ -1,2 +1,62 @@
 name = "Piscataquis County"
 fips_code = 23021
+
+[[zipcodes]]
+zipcode = 4406
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4414
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4415
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4426
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4441
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4442
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4443
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4462
+percent_zip_in_county = 1.03
+
+[[zipcodes]]
+zipcode = 4463
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4464
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4479
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4481
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4485
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4732
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 4942
+percent_zip_in_county = 21.57

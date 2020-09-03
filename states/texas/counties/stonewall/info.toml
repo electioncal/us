@@ -1,2 +1,18 @@
 name = "Stonewall County"
 fips_code = 48433
+
+[[zipcodes]]
+zipcode = 79502
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79528
+percent_zip_in_county = 1.62
+
+[[zipcodes]]
+zipcode = 79540
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79546
+percent_zip_in_county = 2.04

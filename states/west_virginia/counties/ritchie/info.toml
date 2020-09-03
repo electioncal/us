@@ -1,2 +1,58 @@
 name = "Ritchie County"
 fips_code = 54085
+
+[[zipcodes]]
+zipcode = 26137
+percent_zip_in_county = 6.28
+
+[[zipcodes]]
+zipcode = 26143
+percent_zip_in_county = 0.9
+
+[[zipcodes]]
+zipcode = 26148
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26161
+percent_zip_in_county = 99.17
+
+[[zipcodes]]
+zipcode = 26170
+percent_zip_in_county = 1.96
+
+[[zipcodes]]
+zipcode = 26178
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26325
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26327
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26337
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26346
+percent_zip_in_county = 88.58
+
+[[zipcodes]]
+zipcode = 26362
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26415
+percent_zip_in_county = 68.38
+
+[[zipcodes]]
+zipcode = 26421
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26456
+percent_zip_in_county = 1.42

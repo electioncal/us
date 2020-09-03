@@ -1,2 +1,66 @@
 name = "Idaho County"
 fips_code = 16049
+
+[[zipcodes]]
+zipcode = 59847
+percent_zip_in_county = 0.92
+
+[[zipcodes]]
+zipcode = 83522
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83525
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83526
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83530
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83533
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83536
+percent_zip_in_county = 59.98
+
+[[zipcodes]]
+zipcode = 83539
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83542
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83547
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83549
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83552
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83554
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83638
+percent_zip_in_county = 0.17
+
+[[zipcodes]]
+zipcode = 83654
+percent_zip_in_county = 3.83
+
+[[zipcodes]]
+zipcode = 83671
+percent_zip_in_county = 100.0

@@ -1,2 +1,42 @@
 name = "Orange County"
 fips_code = 18117
+
+[[zipcodes]]
+zipcode = 47108
+percent_zip_in_county = 1.18
+
+[[zipcodes]]
+zipcode = 47118
+percent_zip_in_county = 7.02
+
+[[zipcodes]]
+zipcode = 47125
+percent_zip_in_county = 39.14
+
+[[zipcodes]]
+zipcode = 47140
+percent_zip_in_county = 18.7
+
+[[zipcodes]]
+zipcode = 47175
+percent_zip_in_county = 4.29
+
+[[zipcodes]]
+zipcode = 47432
+percent_zip_in_county = 87.46
+
+[[zipcodes]]
+zipcode = 47452
+percent_zip_in_county = 92.55
+
+[[zipcodes]]
+zipcode = 47454
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47469
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47527
+percent_zip_in_county = 0.69

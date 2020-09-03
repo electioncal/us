@@ -1,2 +1,62 @@
 name = "Androscoggin County"
 fips_code = 23001
+
+[[zipcodes]]
+zipcode = 4210
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4222
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4228
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4236
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4240
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4250
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4252
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4253
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4254
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4256
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4258
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4263
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4274
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4280
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4282
+percent_zip_in_county = 100.0

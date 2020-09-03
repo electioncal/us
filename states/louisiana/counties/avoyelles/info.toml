@@ -1,2 +1,62 @@
 name = "Avoyelles Parish"
 fips_code = 22009
+
+[[zipcodes]]
+zipcode = 71322
+percent_zip_in_county = 90.47
+
+[[zipcodes]]
+zipcode = 71323
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71327
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71328
+percent_zip_in_county = 6.19
+
+[[zipcodes]]
+zipcode = 71331
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71333
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71339
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71341
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71350
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71351
+percent_zip_in_county = 99.02
+
+[[zipcodes]]
+zipcode = 71355
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71356
+percent_zip_in_county = 16.98
+
+[[zipcodes]]
+zipcode = 71360
+percent_zip_in_county = 0.71
+
+[[zipcodes]]
+zipcode = 71362
+percent_zip_in_county = 97.05
+
+[[zipcodes]]
+zipcode = 71369
+percent_zip_in_county = 100.0

@@ -1,2 +1,26 @@
 name = "Clay County"
 fips_code = 47027
+
+[[zipcodes]]
+zipcode = 37150
+percent_zip_in_county = 30.04
+
+[[zipcodes]]
+zipcode = 38541
+percent_zip_in_county = 34.22
+
+[[zipcodes]]
+zipcode = 38551
+percent_zip_in_county = 99.34
+
+[[zipcodes]]
+zipcode = 38568
+percent_zip_in_county = 20.11
+
+[[zipcodes]]
+zipcode = 38575
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38588
+percent_zip_in_county = 17.71

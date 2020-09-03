@@ -1,2 +1,66 @@
 name = "Mayes County"
 fips_code = 40097
+
+[[zipcodes]]
+zipcode = 74016
+percent_zip_in_county = 7.58
+
+[[zipcodes]]
+zipcode = 74036
+percent_zip_in_county = 3.37
+
+[[zipcodes]]
+zipcode = 74301
+percent_zip_in_county = 11.62
+
+[[zipcodes]]
+zipcode = 74330
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74332
+percent_zip_in_county = 36.87
+
+[[zipcodes]]
+zipcode = 74337
+percent_zip_in_county = 90.71
+
+[[zipcodes]]
+zipcode = 74340
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74349
+percent_zip_in_county = 8.18
+
+[[zipcodes]]
+zipcode = 74350
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74352
+percent_zip_in_county = 94.28
+
+[[zipcodes]]
+zipcode = 74361
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74364
+percent_zip_in_county = 16.69
+
+[[zipcodes]]
+zipcode = 74365
+percent_zip_in_county = 89.98
+
+[[zipcodes]]
+zipcode = 74366
+percent_zip_in_county = 95.32
+
+[[zipcodes]]
+zipcode = 74367
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74452
+percent_zip_in_county = 44.82

@@ -1,2 +1,38 @@
 name = "Prince of Wales-Hyder Census Area"
 fips_code = 2198
+
+[[zipcodes]]
+zipcode = 99901
+percent_zip_in_county = 0.24
+
+[[zipcodes]]
+zipcode = 99918
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99919
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99921
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99922
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99923
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99925
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99926
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99927
+percent_zip_in_county = 100.0

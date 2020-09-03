@@ -1,2 +1,34 @@
 name = "Pitkin County"
 fips_code = 8097
+
+[[zipcodes]]
+zipcode = 81611
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81612
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81615
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81621
+percent_zip_in_county = 29.64
+
+[[zipcodes]]
+zipcode = 81623
+percent_zip_in_county = 6.05
+
+[[zipcodes]]
+zipcode = 81642
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81654
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81656
+percent_zip_in_county = 100.0

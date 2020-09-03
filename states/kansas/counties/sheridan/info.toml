@@ -1,2 +1,34 @@
 name = "Sheridan County"
 fips_code = 20179
+
+[[zipcodes]]
+zipcode = 67635
+percent_zip_in_county = 24.85
+
+[[zipcodes]]
+zipcode = 67737
+percent_zip_in_county = 15.99
+
+[[zipcodes]]
+zipcode = 67738
+percent_zip_in_county = 24.62
+
+[[zipcodes]]
+zipcode = 67740
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67751
+percent_zip_in_county = 20.08
+
+[[zipcodes]]
+zipcode = 67752
+percent_zip_in_county = 2.64
+
+[[zipcodes]]
+zipcode = 67753
+percent_zip_in_county = 19.06
+
+[[zipcodes]]
+zipcode = 67757
+percent_zip_in_county = 83.2

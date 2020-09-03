@@ -1,2 +1,54 @@
 name = "Kittitas County"
 fips_code = 53037
+
+[[zipcodes]]
+zipcode = 98068
+percent_zip_in_county = 80.4
+
+[[zipcodes]]
+zipcode = 98828
+percent_zip_in_county = 0.37
+
+[[zipcodes]]
+zipcode = 98901
+percent_zip_in_county = 0.2
+
+[[zipcodes]]
+zipcode = 98922
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98925
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98926
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98934
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98937
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 98940
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98941
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98943
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98946
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98950
+percent_zip_in_county = 100.0

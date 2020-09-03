@@ -1,2 +1,62 @@
 name = "Buchanan County"
 fips_code = 29021
+
+[[zipcodes]]
+zipcode = 64401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64439
+percent_zip_in_county = 30.51
+
+[[zipcodes]]
+zipcode = 64440
+percent_zip_in_county = 97.29
+
+[[zipcodes]]
+zipcode = 64443
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64444
+percent_zip_in_county = 5.97
+
+[[zipcodes]]
+zipcode = 64448
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64454
+percent_zip_in_county = 20.55
+
+[[zipcodes]]
+zipcode = 64484
+percent_zip_in_county = 84.46
+
+[[zipcodes]]
+zipcode = 64490
+percent_zip_in_county = 3.45
+
+[[zipcodes]]
+zipcode = 64501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64503
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64504
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64505
+percent_zip_in_county = 72.25
+
+[[zipcodes]]
+zipcode = 64506
+percent_zip_in_county = 96.53
+
+[[zipcodes]]
+zipcode = 64507
+percent_zip_in_county = 100.0

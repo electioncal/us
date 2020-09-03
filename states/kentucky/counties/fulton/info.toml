@@ -1,2 +1,14 @@
 name = "Fulton County"
 fips_code = 21075
+
+[[zipcodes]]
+zipcode = 38079
+percent_zip_in_county = 0.32
+
+[[zipcodes]]
+zipcode = 42041
+percent_zip_in_county = 76.49
+
+[[zipcodes]]
+zipcode = 42050
+percent_zip_in_county = 100.0

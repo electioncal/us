@@ -1,2 +1,62 @@
 name = "Faulkner County"
 fips_code = 5045
+
+[[zipcodes]]
+zipcode = 72023
+percent_zip_in_county = 0.31
+
+[[zipcodes]]
+zipcode = 72032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72039
+percent_zip_in_county = 57.39
+
+[[zipcodes]]
+zipcode = 72047
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72058
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72076
+percent_zip_in_county = 0.53
+
+[[zipcodes]]
+zipcode = 72106
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72111
+percent_zip_in_county = 64.17
+
+[[zipcodes]]
+zipcode = 72120
+percent_zip_in_county = 2.42
+
+[[zipcodes]]
+zipcode = 72131
+percent_zip_in_county = 26.21
+
+[[zipcodes]]
+zipcode = 72173
+percent_zip_in_county = 99.59
+
+[[zipcodes]]
+zipcode = 72181
+percent_zip_in_county = 100.0

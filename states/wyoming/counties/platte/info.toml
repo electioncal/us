@@ -1,2 +1,22 @@
 name = "Platte County"
 fips_code = 56031
+
+[[zipcodes]]
+zipcode = 82201
+percent_zip_in_county = 98.45
+
+[[zipcodes]]
+zipcode = 82210
+percent_zip_in_county = 88.47
+
+[[zipcodes]]
+zipcode = 82213
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82214
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82215
+percent_zip_in_county = 100.0

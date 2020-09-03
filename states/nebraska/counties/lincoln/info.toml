@@ -1,2 +1,58 @@
 name = "Lincoln County"
 fips_code = 31111
+
+[[zipcodes]]
+zipcode = 69025
+percent_zip_in_county = 3.2
+
+[[zipcodes]]
+zipcode = 69029
+percent_zip_in_county = 5.38
+
+[[zipcodes]]
+zipcode = 69039
+percent_zip_in_county = 23.02
+
+[[zipcodes]]
+zipcode = 69101
+percent_zip_in_county = 99.9
+
+[[zipcodes]]
+zipcode = 69120
+percent_zip_in_county = 6.34
+
+[[zipcodes]]
+zipcode = 69123
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69132
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69138
+percent_zip_in_county = 2.54
+
+[[zipcodes]]
+zipcode = 69143
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69151
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69163
+percent_zip_in_county = 18.9
+
+[[zipcodes]]
+zipcode = 69165
+percent_zip_in_county = 96.25
+
+[[zipcodes]]
+zipcode = 69169
+percent_zip_in_county = 87.25
+
+[[zipcodes]]
+zipcode = 69170
+percent_zip_in_county = 100.0

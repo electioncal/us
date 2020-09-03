@@ -1,2 +1,242 @@
 name = "Hartford County"
 fips_code = 9003
+
+[[zipcodes]]
+zipcode = 6001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6013
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6016
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6019
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6020
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 6022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6026
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6042
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6052
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6053
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6060
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6062
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6065
+percent_zip_in_county = 53.17
+
+[[zipcodes]]
+zipcode = 6067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6073
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6074
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6078
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6081
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6082
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6085
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6088
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6089
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6090
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6091
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6092
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6093
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6095
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6096
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6105
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6106
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6107
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6108
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6109
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6110
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6111
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6112
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6114
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6117
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6118
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6119
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6120
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6160
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 6444
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6447
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6451
+percent_zip_in_county = 0.18
+
+[[zipcodes]]
+zipcode = 6467
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6479
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6489
+percent_zip_in_county = 100.0

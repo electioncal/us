@@ -1,2 +1,46 @@
 name = "Steele County"
 fips_code = 38091
+
+[[zipcodes]]
+zipcode = 58016
+percent_zip_in_county = 28.65
+
+[[zipcodes]]
+zipcode = 58035
+percent_zip_in_county = 11.07
+
+[[zipcodes]]
+zipcode = 58046
+percent_zip_in_county = 93.48
+
+[[zipcodes]]
+zipcode = 58056
+percent_zip_in_county = 47.12
+
+[[zipcodes]]
+zipcode = 58064
+percent_zip_in_county = 3.56
+
+[[zipcodes]]
+zipcode = 58212
+percent_zip_in_county = 3.59
+
+[[zipcodes]]
+zipcode = 58230
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58240
+percent_zip_in_county = 14.26
+
+[[zipcodes]]
+zipcode = 58267
+percent_zip_in_county = 1.78
+
+[[zipcodes]]
+zipcode = 58274
+percent_zip_in_county = 13.22
+
+[[zipcodes]]
+zipcode = 58277
+percent_zip_in_county = 100.0

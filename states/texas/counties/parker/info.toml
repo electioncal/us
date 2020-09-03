@@ -1,2 +1,74 @@
 name = "Parker County"
 fips_code = 48367
+
+[[zipcodes]]
+zipcode = 76008
+percent_zip_in_county = 86.15
+
+[[zipcodes]]
+zipcode = 76020
+percent_zip_in_county = 40.75
+
+[[zipcodes]]
+zipcode = 76023
+percent_zip_in_county = 3.4
+
+[[zipcodes]]
+zipcode = 76035
+percent_zip_in_county = 67.51
+
+[[zipcodes]]
+zipcode = 76049
+percent_zip_in_county = 1.93
+
+[[zipcodes]]
+zipcode = 76066
+percent_zip_in_county = 95.16
+
+[[zipcodes]]
+zipcode = 76067
+percent_zip_in_county = 10.39
+
+[[zipcodes]]
+zipcode = 76082
+percent_zip_in_county = 87.31
+
+[[zipcodes]]
+zipcode = 76085
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76086
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76087
+percent_zip_in_county = 98.67
+
+[[zipcodes]]
+zipcode = 76088
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76108
+percent_zip_in_county = 7.44
+
+[[zipcodes]]
+zipcode = 76126
+percent_zip_in_county = 3.92
+
+[[zipcodes]]
+zipcode = 76462
+percent_zip_in_county = 26.32
+
+[[zipcodes]]
+zipcode = 76486
+percent_zip_in_county = 21.09
+
+[[zipcodes]]
+zipcode = 76487
+percent_zip_in_county = 74.31
+
+[[zipcodes]]
+zipcode = 76490
+percent_zip_in_county = 100.0

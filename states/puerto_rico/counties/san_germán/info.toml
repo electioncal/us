@@ -1,2 +1,14 @@
 name = "San Germán Municipio"
 fips_code = 72125
+
+[[zipcodes]]
+zipcode = 667
+percent_zip_in_county = 1.09
+
+[[zipcodes]]
+zipcode = 680
+percent_zip_in_county = 2.53
+
+[[zipcodes]]
+zipcode = 683
+percent_zip_in_county = 100.0

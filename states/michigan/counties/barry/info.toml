@@ -1,2 +1,66 @@
 name = "Barry County"
 fips_code = 26015
+
+[[zipcodes]]
+zipcode = 48849
+percent_zip_in_county = 15.46
+
+[[zipcodes]]
+zipcode = 48897
+percent_zip_in_county = 98.1
+
+[[zipcodes]]
+zipcode = 49017
+percent_zip_in_county = 7.34
+
+[[zipcodes]]
+zipcode = 49021
+percent_zip_in_county = 34.07
+
+[[zipcodes]]
+zipcode = 49046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49050
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49058
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49060
+percent_zip_in_county = 67.55
+
+[[zipcodes]]
+zipcode = 49073
+percent_zip_in_county = 91.82
+
+[[zipcodes]]
+zipcode = 49080
+percent_zip_in_county = 18.59
+
+[[zipcodes]]
+zipcode = 49083
+percent_zip_in_county = 0.34
+
+[[zipcodes]]
+zipcode = 49316
+percent_zip_in_county = 2.94
+
+[[zipcodes]]
+zipcode = 49325
+percent_zip_in_county = 78.37
+
+[[zipcodes]]
+zipcode = 49333
+percent_zip_in_county = 98.11
+
+[[zipcodes]]
+zipcode = 49344
+percent_zip_in_county = 41.0
+
+[[zipcodes]]
+zipcode = 49348
+percent_zip_in_county = 16.87

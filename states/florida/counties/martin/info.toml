@@ -1,2 +1,50 @@
 name = "Martin County"
 fips_code = 12085
+
+[[zipcodes]]
+zipcode = 33438
+percent_zip_in_county = 6.75
+
+[[zipcodes]]
+zipcode = 33455
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33458
+percent_zip_in_county = 1.95
+
+[[zipcodes]]
+zipcode = 33469
+percent_zip_in_county = 32.81
+
+[[zipcodes]]
+zipcode = 33478
+percent_zip_in_county = 3.5
+
+[[zipcodes]]
+zipcode = 34956
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34957
+percent_zip_in_county = 74.62
+
+[[zipcodes]]
+zipcode = 34974
+percent_zip_in_county = 1.95
+
+[[zipcodes]]
+zipcode = 34990
+percent_zip_in_county = 96.45
+
+[[zipcodes]]
+zipcode = 34994
+percent_zip_in_county = 96.69
+
+[[zipcodes]]
+zipcode = 34996
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34997
+percent_zip_in_county = 100.0

@@ -1,2 +1,70 @@
 name = "Pointe Coupee Parish"
 fips_code = 22077
+
+[[zipcodes]]
+zipcode = 70715
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70729
+percent_zip_in_county = 22.48
+
+[[zipcodes]]
+zipcode = 70732
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70736
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70747
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70749
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70750
+percent_zip_in_county = 0.1
+
+[[zipcodes]]
+zipcode = 70752
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70753
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70755
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70756
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70757
+percent_zip_in_county = 39.53
+
+[[zipcodes]]
+zipcode = 70759
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70760
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70762
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70773
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70783
+percent_zip_in_county = 100.0

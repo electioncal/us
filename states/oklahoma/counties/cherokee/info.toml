@@ -1,2 +1,58 @@
 name = "Cherokee County"
 fips_code = 40021
+
+[[zipcodes]]
+zipcode = 74347
+percent_zip_in_county = 3.36
+
+[[zipcodes]]
+zipcode = 74352
+percent_zip_in_county = 3.16
+
+[[zipcodes]]
+zipcode = 74364
+percent_zip_in_county = 17.77
+
+[[zipcodes]]
+zipcode = 74427
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74434
+percent_zip_in_county = 25.12
+
+[[zipcodes]]
+zipcode = 74441
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74451
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74452
+percent_zip_in_county = 55.18
+
+[[zipcodes]]
+zipcode = 74457
+percent_zip_in_county = 47.04
+
+[[zipcodes]]
+zipcode = 74464
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74471
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74931
+percent_zip_in_county = 18.57
+
+[[zipcodes]]
+zipcode = 74960
+percent_zip_in_county = 2.07
+
+[[zipcodes]]
+zipcode = 74962
+percent_zip_in_county = 1.28

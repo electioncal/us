@@ -1,2 +1,58 @@
 name = "Porter County"
 fips_code = 18127
+
+[[zipcodes]]
+zipcode = 46301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46304
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46307
+percent_zip_in_county = 5.67
+
+[[zipcodes]]
+zipcode = 46341
+percent_zip_in_county = 87.29
+
+[[zipcodes]]
+zipcode = 46342
+percent_zip_in_county = 3.94
+
+[[zipcodes]]
+zipcode = 46347
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46348
+percent_zip_in_county = 1.24
+
+[[zipcodes]]
+zipcode = 46360
+percent_zip_in_county = 3.02
+
+[[zipcodes]]
+zipcode = 46368
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46383
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46385
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46390
+percent_zip_in_county = 0.18
+
+[[zipcodes]]
+zipcode = 46391
+percent_zip_in_county = 20.09
+
+[[zipcodes]]
+zipcode = 46393
+percent_zip_in_county = 100.0

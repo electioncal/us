@@ -1,2 +1,58 @@
 name = "Cass County"
 fips_code = 48067
+
+[[zipcodes]]
+zipcode = 75551
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75555
+percent_zip_in_county = 88.21
+
+[[zipcodes]]
+zipcode = 75556
+percent_zip_in_county = 97.71
+
+[[zipcodes]]
+zipcode = 75560
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75562
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75563
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75565
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75566
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75568
+percent_zip_in_county = 31.22
+
+[[zipcodes]]
+zipcode = 75572
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75630
+percent_zip_in_county = 41.31
+
+[[zipcodes]]
+zipcode = 75638
+percent_zip_in_county = 0.81
+
+[[zipcodes]]
+zipcode = 75656
+percent_zip_in_county = 91.34
+
+[[zipcodes]]
+zipcode = 75657
+percent_zip_in_county = 4.18

@@ -1,2 +1,46 @@
 name = "Wythe County"
 fips_code = 51197
+
+[[zipcodes]]
+zipcode = 24312
+percent_zip_in_county = 43.15
+
+[[zipcodes]]
+zipcode = 24313
+percent_zip_in_county = 98.53
+
+[[zipcodes]]
+zipcode = 24322
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24323
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24324
+percent_zip_in_county = 7.75
+
+[[zipcodes]]
+zipcode = 24343
+percent_zip_in_county = 0.43
+
+[[zipcodes]]
+zipcode = 24350
+percent_zip_in_county = 69.71
+
+[[zipcodes]]
+zipcode = 24360
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24368
+percent_zip_in_county = 83.04
+
+[[zipcodes]]
+zipcode = 24374
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24382
+percent_zip_in_county = 100.0

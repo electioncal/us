@@ -1,2 +1,58 @@
 name = "Calhoun County"
 fips_code = 1015
+
+[[zipcodes]]
+zipcode = 35096
+percent_zip_in_county = 4.63
+
+[[zipcodes]]
+zipcode = 35905
+percent_zip_in_county = 11.34
+
+[[zipcodes]]
+zipcode = 36201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36203
+percent_zip_in_county = 73.21
+
+[[zipcodes]]
+zipcode = 36205
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36206
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36207
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36250
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36260
+percent_zip_in_county = 73.02
+
+[[zipcodes]]
+zipcode = 36265
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36271
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36272
+percent_zip_in_county = 66.05
+
+[[zipcodes]]
+zipcode = 36277
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36279
+percent_zip_in_county = 100.0

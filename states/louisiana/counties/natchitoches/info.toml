@@ -1,2 +1,66 @@
 name = "Natchitoches Parish"
 fips_code = 22069
+
+[[zipcodes]]
+zipcode = 71019
+percent_zip_in_county = 6.29
+
+[[zipcodes]]
+zipcode = 71031
+percent_zip_in_county = 61.75
+
+[[zipcodes]]
+zipcode = 71065
+percent_zip_in_county = 1.54
+
+[[zipcodes]]
+zipcode = 71070
+percent_zip_in_county = 51.83
+
+[[zipcodes]]
+zipcode = 71411
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71414
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71416
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71427
+percent_zip_in_county = 25.18
+
+[[zipcodes]]
+zipcode = 71447
+percent_zip_in_county = 38.39
+
+[[zipcodes]]
+zipcode = 71450
+percent_zip_in_county = 72.24
+
+[[zipcodes]]
+zipcode = 71452
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71455
+percent_zip_in_county = 40.97
+
+[[zipcodes]]
+zipcode = 71456
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71457
+percent_zip_in_county = 98.62
+
+[[zipcodes]]
+zipcode = 71468
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71469
+percent_zip_in_county = 83.78

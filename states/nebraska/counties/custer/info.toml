@@ -1,2 +1,66 @@
 name = "Custer County"
 fips_code = 31041
+
+[[zipcodes]]
+zipcode = 68813
+percent_zip_in_county = 90.45
+
+[[zipcodes]]
+zipcode = 68814
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68815
+percent_zip_in_county = 11.24
+
+[[zipcodes]]
+zipcode = 68822
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68825
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68828
+percent_zip_in_county = 74.58
+
+[[zipcodes]]
+zipcode = 68834
+percent_zip_in_county = 17.26
+
+[[zipcodes]]
+zipcode = 68855
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68856
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68860
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68866
+percent_zip_in_county = 2.12
+
+[[zipcodes]]
+zipcode = 68874
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68878
+percent_zip_in_county = 5.16
+
+[[zipcodes]]
+zipcode = 68881
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69120
+percent_zip_in_county = 87.65
+
+[[zipcodes]]
+zipcode = 69138
+percent_zip_in_county = 3.65

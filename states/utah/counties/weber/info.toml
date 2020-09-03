@@ -1,2 +1,38 @@
 name = "Weber County"
 fips_code = 49057
+
+[[zipcodes]]
+zipcode = 84067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84310
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84315
+percent_zip_in_county = 95.77
+
+[[zipcodes]]
+zipcode = 84317
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84403
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84404
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84405
+percent_zip_in_county = 79.89
+
+[[zipcodes]]
+zipcode = 84414
+percent_zip_in_county = 100.0

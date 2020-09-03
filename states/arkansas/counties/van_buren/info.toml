@@ -1,2 +1,50 @@
 name = "Van Buren County"
 fips_code = 5141
+
+[[zipcodes]]
+zipcode = 72013
+percent_zip_in_county = 94.86
+
+[[zipcodes]]
+zipcode = 72030
+percent_zip_in_county = 32.91
+
+[[zipcodes]]
+zipcode = 72031
+percent_zip_in_county = 96.25
+
+[[zipcodes]]
+zipcode = 72039
+percent_zip_in_county = 42.61
+
+[[zipcodes]]
+zipcode = 72067
+percent_zip_in_county = 9.87
+
+[[zipcodes]]
+zipcode = 72080
+percent_zip_in_county = 22.66
+
+[[zipcodes]]
+zipcode = 72088
+percent_zip_in_county = 92.35
+
+[[zipcodes]]
+zipcode = 72131
+percent_zip_in_county = 3.67
+
+[[zipcodes]]
+zipcode = 72141
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72153
+percent_zip_in_county = 93.16
+
+[[zipcodes]]
+zipcode = 72629
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72645
+percent_zip_in_county = 12.27

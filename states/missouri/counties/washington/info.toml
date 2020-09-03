@@ -1,2 +1,66 @@
 name = "Washington County"
 fips_code = 29221
+
+[[zipcodes]]
+zipcode = 63020
+percent_zip_in_county = 0.23
+
+[[zipcodes]]
+zipcode = 63030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63071
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63080
+percent_zip_in_county = 8.74
+
+[[zipcodes]]
+zipcode = 63622
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63624
+percent_zip_in_county = 14.43
+
+[[zipcodes]]
+zipcode = 63626
+percent_zip_in_county = 89.87
+
+[[zipcodes]]
+zipcode = 63628
+percent_zip_in_county = 1.26
+
+[[zipcodes]]
+zipcode = 63630
+percent_zip_in_county = 99.43
+
+[[zipcodes]]
+zipcode = 63631
+percent_zip_in_county = 80.09
+
+[[zipcodes]]
+zipcode = 63648
+percent_zip_in_county = 92.2
+
+[[zipcodes]]
+zipcode = 63660
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63664
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63674
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65441
+percent_zip_in_county = 2.29
+
+[[zipcodes]]
+zipcode = 65565
+percent_zip_in_county = 1.04

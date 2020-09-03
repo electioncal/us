@@ -1,2 +1,62 @@
 name = "Daviess County"
 fips_code = 29061
+
+[[zipcodes]]
+zipcode = 64429
+percent_zip_in_county = 0.72
+
+[[zipcodes]]
+zipcode = 64497
+percent_zip_in_county = 28.09
+
+[[zipcodes]]
+zipcode = 64620
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64625
+percent_zip_in_county = 6.68
+
+[[zipcodes]]
+zipcode = 64636
+percent_zip_in_county = 96.66
+
+[[zipcodes]]
+zipcode = 64640
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64642
+percent_zip_in_county = 5.61
+
+[[zipcodes]]
+zipcode = 64644
+percent_zip_in_county = 5.49
+
+[[zipcodes]]
+zipcode = 64647
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64648
+percent_zip_in_county = 81.35
+
+[[zipcodes]]
+zipcode = 64649
+percent_zip_in_county = 23.73
+
+[[zipcodes]]
+zipcode = 64654
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64657
+percent_zip_in_county = 12.69
+
+[[zipcodes]]
+zipcode = 64670
+percent_zip_in_county = 84.95
+
+[[zipcodes]]
+zipcode = 64689
+percent_zip_in_county = 100.0

@@ -1,2 +1,30 @@
 name = "Upson County"
 fips_code = 13293
+
+[[zipcodes]]
+zipcode = 30204
+percent_zip_in_county = 2.02
+
+[[zipcodes]]
+zipcode = 30256
+percent_zip_in_county = 21.69
+
+[[zipcodes]]
+zipcode = 30258
+percent_zip_in_county = 25.29
+
+[[zipcodes]]
+zipcode = 30285
+percent_zip_in_county = 67.19
+
+[[zipcodes]]
+zipcode = 30286
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31016
+percent_zip_in_county = 29.73
+
+[[zipcodes]]
+zipcode = 31097
+percent_zip_in_county = 91.24

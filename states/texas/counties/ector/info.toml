@@ -1,2 +1,38 @@
 name = "Ector County"
 fips_code = 48135
+
+[[zipcodes]]
+zipcode = 79741
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79758
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79759
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79761
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79762
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79763
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79764
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79765
+percent_zip_in_county = 63.29
+
+[[zipcodes]]
+zipcode = 79766
+percent_zip_in_county = 96.32

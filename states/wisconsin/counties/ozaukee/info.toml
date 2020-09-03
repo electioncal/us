@@ -1,2 +1,54 @@
 name = "Ozaukee County"
 fips_code = 55089
+
+[[zipcodes]]
+zipcode = 53004
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53012
+percent_zip_in_county = 91.41
+
+[[zipcodes]]
+zipcode = 53013
+percent_zip_in_county = 9.4
+
+[[zipcodes]]
+zipcode = 53021
+percent_zip_in_county = 85.45
+
+[[zipcodes]]
+zipcode = 53024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53074
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53075
+percent_zip_in_county = 4.6
+
+[[zipcodes]]
+zipcode = 53080
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53090
+percent_zip_in_county = 0.93
+
+[[zipcodes]]
+zipcode = 53092
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53095
+percent_zip_in_county = 0.83
+
+[[zipcodes]]
+zipcode = 53097
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53217
+percent_zip_in_county = 0.3

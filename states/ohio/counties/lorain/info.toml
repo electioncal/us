@@ -1,2 +1,98 @@
 name = "Lorain County"
 fips_code = 39093
+
+[[zipcodes]]
+zipcode = 44001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44011
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44012
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44028
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44044
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44049
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44050
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44052
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44053
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44054
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44055
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44074
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44089
+percent_zip_in_county = 41.21
+
+[[zipcodes]]
+zipcode = 44090
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44253
+percent_zip_in_county = 6.37
+
+[[zipcodes]]
+zipcode = 44256
+percent_zip_in_county = 0.1
+
+[[zipcodes]]
+zipcode = 44275
+percent_zip_in_county = 2.27
+
+[[zipcodes]]
+zipcode = 44280
+percent_zip_in_county = 2.02
+
+[[zipcodes]]
+zipcode = 44851
+percent_zip_in_county = 8.61
+
+[[zipcodes]]
+zipcode = 44859
+percent_zip_in_county = 4.32
+
+[[zipcodes]]
+zipcode = 44880
+percent_zip_in_county = 9.25
+
+[[zipcodes]]
+zipcode = 44889
+percent_zip_in_county = 10.46

@@ -1,2 +1,74 @@
 name = "Rutherford County"
 fips_code = 47149
+
+[[zipcodes]]
+zipcode = 37014
+percent_zip_in_county = 31.97
+
+[[zipcodes]]
+zipcode = 37020
+percent_zip_in_county = 29.49
+
+[[zipcodes]]
+zipcode = 37037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37046
+percent_zip_in_county = 1.96
+
+[[zipcodes]]
+zipcode = 37060
+percent_zip_in_county = 78.03
+
+[[zipcodes]]
+zipcode = 37085
+percent_zip_in_county = 87.51
+
+[[zipcodes]]
+zipcode = 37086
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37118
+percent_zip_in_county = 74.45
+
+[[zipcodes]]
+zipcode = 37122
+percent_zip_in_county = 2.02
+
+[[zipcodes]]
+zipcode = 37127
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37128
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37129
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37130
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37132
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37135
+percent_zip_in_county = 11.32
+
+[[zipcodes]]
+zipcode = 37149
+percent_zip_in_county = 49.19
+
+[[zipcodes]]
+zipcode = 37153
+percent_zip_in_county = 95.53
+
+[[zipcodes]]
+zipcode = 37167
+percent_zip_in_county = 100.0

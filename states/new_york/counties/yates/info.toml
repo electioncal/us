@@ -1,2 +1,54 @@
 name = "Yates County"
 fips_code = 36123
+
+[[zipcodes]]
+zipcode = 14415
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14418
+percent_zip_in_county = 90.19
+
+[[zipcodes]]
+zipcode = 14441
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14456
+percent_zip_in_county = 0.3
+
+[[zipcodes]]
+zipcode = 14478
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14507
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14512
+percent_zip_in_county = 18.62
+
+[[zipcodes]]
+zipcode = 14527
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14544
+percent_zip_in_county = 61.21
+
+[[zipcodes]]
+zipcode = 14561
+percent_zip_in_county = 2.07
+
+[[zipcodes]]
+zipcode = 14837
+percent_zip_in_county = 79.43
+
+[[zipcodes]]
+zipcode = 14842
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14878
+percent_zip_in_county = 27.78

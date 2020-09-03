@@ -1,2 +1,50 @@
 name = "Washburn County"
 fips_code = 55129
+
+[[zipcodes]]
+zipcode = 54801
+percent_zip_in_county = 90.62
+
+[[zipcodes]]
+zipcode = 54813
+percent_zip_in_county = 15.97
+
+[[zipcodes]]
+zipcode = 54817
+percent_zip_in_county = 44.01
+
+[[zipcodes]]
+zipcode = 54830
+percent_zip_in_county = 0.11
+
+[[zipcodes]]
+zipcode = 54843
+percent_zip_in_county = 3.57
+
+[[zipcodes]]
+zipcode = 54859
+percent_zip_in_county = 85.55
+
+[[zipcodes]]
+zipcode = 54868
+percent_zip_in_county = 0.16
+
+[[zipcodes]]
+zipcode = 54870
+percent_zip_in_county = 97.58
+
+[[zipcodes]]
+zipcode = 54871
+percent_zip_in_county = 82.9
+
+[[zipcodes]]
+zipcode = 54875
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54876
+percent_zip_in_county = 31.21
+
+[[zipcodes]]
+zipcode = 54888
+percent_zip_in_county = 100.0

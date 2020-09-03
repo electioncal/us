@@ -1,2 +1,18 @@
 name = "Echols County"
 fips_code = 13101
+
+[[zipcodes]]
+zipcode = 31630
+percent_zip_in_county = 18.62
+
+[[zipcodes]]
+zipcode = 31631
+percent_zip_in_county = 21.65
+
+[[zipcodes]]
+zipcode = 31636
+percent_zip_in_county = 29.3
+
+[[zipcodes]]
+zipcode = 31648
+percent_zip_in_county = 100.0

@@ -1,2 +1,54 @@
 name = "Liberty County"
 fips_code = 48291
+
+[[zipcodes]]
+zipcode = 77327
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77328
+percent_zip_in_county = 15.89
+
+[[zipcodes]]
+zipcode = 77368
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77369
+percent_zip_in_county = 94.5
+
+[[zipcodes]]
+zipcode = 77371
+percent_zip_in_county = 0.17
+
+[[zipcodes]]
+zipcode = 77372
+percent_zip_in_county = 23.18
+
+[[zipcodes]]
+zipcode = 77533
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77535
+percent_zip_in_county = 94.35
+
+[[zipcodes]]
+zipcode = 77538
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77560
+percent_zip_in_county = 1.19
+
+[[zipcodes]]
+zipcode = 77561
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77564
+percent_zip_in_county = 93.46
+
+[[zipcodes]]
+zipcode = 77575
+percent_zip_in_county = 99.74

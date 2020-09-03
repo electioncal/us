@@ -1,2 +1,50 @@
 name = "Park County"
 fips_code = 8093
+
+[[zipcodes]]
+zipcode = 80420
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80421
+percent_zip_in_county = 99.81
+
+[[zipcodes]]
+zipcode = 80432
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80440
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80448
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80449
+percent_zip_in_county = 99.56
+
+[[zipcodes]]
+zipcode = 80456
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80470
+percent_zip_in_county = 29.54
+
+[[zipcodes]]
+zipcode = 80475
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80816
+percent_zip_in_county = 8.76
+
+[[zipcodes]]
+zipcode = 80820
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80827
+percent_zip_in_county = 69.03

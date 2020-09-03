@@ -1,2 +1,74 @@
 name = "St. Croix County"
 fips_code = 55109
+
+[[zipcodes]]
+zipcode = 54002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54005
+percent_zip_in_county = 7.1
+
+[[zipcodes]]
+zipcode = 54007
+percent_zip_in_county = 73.99
+
+[[zipcodes]]
+zipcode = 54013
+percent_zip_in_county = 99.08
+
+[[zipcodes]]
+zipcode = 54015
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54016
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54017
+percent_zip_in_county = 99.14
+
+[[zipcodes]]
+zipcode = 54020
+percent_zip_in_county = 1.31
+
+[[zipcodes]]
+zipcode = 54022
+percent_zip_in_county = 27.83
+
+[[zipcodes]]
+zipcode = 54023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54026
+percent_zip_in_county = 37.04
+
+[[zipcodes]]
+zipcode = 54027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54028
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54082
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54734
+percent_zip_in_county = 5.14
+
+[[zipcodes]]
+zipcode = 54749
+percent_zip_in_county = 11.37
+
+[[zipcodes]]
+zipcode = 54767
+percent_zip_in_county = 5.87

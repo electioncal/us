@@ -1,2 +1,22 @@
 name = "Stone County"
 fips_code = 28131
+
+[[zipcodes]]
+zipcode = 39455
+percent_zip_in_county = 5.57
+
+[[zipcodes]]
+zipcode = 39561
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39573
+percent_zip_in_county = 70.59
+
+[[zipcodes]]
+zipcode = 39574
+percent_zip_in_county = 0.41
+
+[[zipcodes]]
+zipcode = 39577
+percent_zip_in_county = 87.77

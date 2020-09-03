@@ -1,2 +1,26 @@
 name = "Edwards County"
 fips_code = 17047
+
+[[zipcodes]]
+zipcode = 62476
+percent_zip_in_county = 87.77
+
+[[zipcodes]]
+zipcode = 62806
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62815
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62818
+percent_zip_in_county = 78.18
+
+[[zipcodes]]
+zipcode = 62833
+percent_zip_in_county = 43.34
+
+[[zipcodes]]
+zipcode = 62844
+percent_zip_in_county = 45.46

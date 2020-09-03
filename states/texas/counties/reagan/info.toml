@@ -1,2 +1,10 @@
 name = "Reagan County"
 fips_code = 48383
+
+[[zipcodes]]
+zipcode = 76932
+percent_zip_in_county = 98.88
+
+[[zipcodes]]
+zipcode = 79739
+percent_zip_in_county = 1.56

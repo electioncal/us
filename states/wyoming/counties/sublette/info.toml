@@ -1,2 +1,34 @@
 name = "Sublette County"
 fips_code = 56035
+
+[[zipcodes]]
+zipcode = 82922
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82923
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82925
+percent_zip_in_county = 95.39
+
+[[zipcodes]]
+zipcode = 82932
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 82941
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83001
+percent_zip_in_county = 0.04
+
+[[zipcodes]]
+zipcode = 83113
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83115
+percent_zip_in_county = 100.0

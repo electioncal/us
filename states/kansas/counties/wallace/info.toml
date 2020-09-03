@@ -1,2 +1,14 @@
 name = "Wallace County"
 fips_code = 20199
+
+[[zipcodes]]
+zipcode = 67758
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67761
+percent_zip_in_county = 72.69
+
+[[zipcodes]]
+zipcode = 67762
+percent_zip_in_county = 100.0

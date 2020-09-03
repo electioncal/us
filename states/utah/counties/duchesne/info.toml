@@ -1,2 +1,54 @@
 name = "Duchesne County"
 fips_code = 49013
+
+[[zipcodes]]
+zipcode = 84001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84031
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84052
+percent_zip_in_county = 87.1
+
+[[zipcodes]]
+zipcode = 84053
+percent_zip_in_county = 94.26
+
+[[zipcodes]]
+zipcode = 84066
+percent_zip_in_county = 84.78
+
+[[zipcodes]]
+zipcode = 84072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84073
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84526
+percent_zip_in_county = 0.05

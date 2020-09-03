@@ -1,2 +1,26 @@
 name = "Lee County"
 fips_code = 21129
+
+[[zipcodes]]
+zipcode = 40336
+percent_zip_in_county = 0.52
+
+[[zipcodes]]
+zipcode = 40447
+percent_zip_in_county = 0.44
+
+[[zipcodes]]
+zipcode = 41301
+percent_zip_in_county = 3.44
+
+[[zipcodes]]
+zipcode = 41311
+percent_zip_in_county = 99.22
+
+[[zipcodes]]
+zipcode = 41339
+percent_zip_in_county = 0.26
+
+[[zipcodes]]
+zipcode = 41397
+percent_zip_in_county = 100.0

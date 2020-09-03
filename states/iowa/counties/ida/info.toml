@@ -1,2 +1,46 @@
 name = "Ida County"
 fips_code = 19093
+
+[[zipcodes]]
+zipcode = 51006
+percent_zip_in_county = 95.53
+
+[[zipcodes]]
+zipcode = 51016
+percent_zip_in_county = 2.9
+
+[[zipcodes]]
+zipcode = 51018
+percent_zip_in_county = 22.52
+
+[[zipcodes]]
+zipcode = 51019
+percent_zip_in_county = 7.12
+
+[[zipcodes]]
+zipcode = 51020
+percent_zip_in_county = 87.84
+
+[[zipcodes]]
+zipcode = 51025
+percent_zip_in_county = 96.18
+
+[[zipcodes]]
+zipcode = 51053
+percent_zip_in_county = 2.67
+
+[[zipcodes]]
+zipcode = 51061
+percent_zip_in_county = 14.12
+
+[[zipcodes]]
+zipcode = 51431
+percent_zip_in_county = 94.42
+
+[[zipcodes]]
+zipcode = 51445
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51448
+percent_zip_in_county = 7.04

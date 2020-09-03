@@ -1,2 +1,50 @@
 name = "Green Lake County"
 fips_code = 55047
+
+[[zipcodes]]
+zipcode = 53923
+percent_zip_in_county = 11.15
+
+[[zipcodes]]
+zipcode = 53926
+percent_zip_in_county = 68.0
+
+[[zipcodes]]
+zipcode = 53939
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53946
+percent_zip_in_county = 98.04
+
+[[zipcodes]]
+zipcode = 53947
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53949
+percent_zip_in_county = 0.55
+
+[[zipcodes]]
+zipcode = 53956
+percent_zip_in_county = 1.71
+
+[[zipcodes]]
+zipcode = 54923
+percent_zip_in_county = 78.69
+
+[[zipcodes]]
+zipcode = 54941
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54960
+percent_zip_in_county = 5.25
+
+[[zipcodes]]
+zipcode = 54968
+percent_zip_in_county = 97.16
+
+[[zipcodes]]
+zipcode = 54971
+percent_zip_in_county = 5.6

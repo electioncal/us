@@ -1,2 +1,42 @@
 name = "Carroll County"
 fips_code = 13045
+
+[[zipcodes]]
+zipcode = 30108
+percent_zip_in_county = 97.27
+
+[[zipcodes]]
+zipcode = 30110
+percent_zip_in_county = 4.51
+
+[[zipcodes]]
+zipcode = 30116
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30117
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30118
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30170
+percent_zip_in_county = 60.99
+
+[[zipcodes]]
+zipcode = 30179
+percent_zip_in_county = 66.79
+
+[[zipcodes]]
+zipcode = 30180
+percent_zip_in_county = 72.51
+
+[[zipcodes]]
+zipcode = 30182
+percent_zip_in_county = 54.28
+
+[[zipcodes]]
+zipcode = 30185
+percent_zip_in_county = 94.81

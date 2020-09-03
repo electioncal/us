@@ -1,2 +1,50 @@
 name = "Logan County"
 fips_code = 5083
+
+[[zipcodes]]
+zipcode = 72826
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72834
+percent_zip_in_county = 0.6
+
+[[zipcodes]]
+zipcode = 72835
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72851
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72855
+percent_zip_in_county = 99.45
+
+[[zipcodes]]
+zipcode = 72863
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72865
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72927
+percent_zip_in_county = 93.1
+
+[[zipcodes]]
+zipcode = 72933
+percent_zip_in_county = 1.0
+
+[[zipcodes]]
+zipcode = 72943
+percent_zip_in_county = 98.26
+
+[[zipcodes]]
+zipcode = 72949
+percent_zip_in_county = 1.38
+
+[[zipcodes]]
+zipcode = 72951
+percent_zip_in_county = 63.77

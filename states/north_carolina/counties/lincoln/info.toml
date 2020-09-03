@@ -1,2 +1,46 @@
 name = "Lincoln County"
 fips_code = 37109
+
+[[zipcodes]]
+zipcode = 28006
+percent_zip_in_county = 35.4
+
+[[zipcodes]]
+zipcode = 28021
+percent_zip_in_county = 14.32
+
+[[zipcodes]]
+zipcode = 28033
+percent_zip_in_county = 66.06
+
+[[zipcodes]]
+zipcode = 28037
+percent_zip_in_county = 90.29
+
+[[zipcodes]]
+zipcode = 28080
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28090
+percent_zip_in_county = 1.99
+
+[[zipcodes]]
+zipcode = 28092
+percent_zip_in_county = 93.7
+
+[[zipcodes]]
+zipcode = 28164
+percent_zip_in_county = 33.72
+
+[[zipcodes]]
+zipcode = 28168
+percent_zip_in_county = 65.85
+
+[[zipcodes]]
+zipcode = 28650
+percent_zip_in_county = 20.18
+
+[[zipcodes]]
+zipcode = 28673
+percent_zip_in_county = 1.67

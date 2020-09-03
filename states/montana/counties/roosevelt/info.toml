@@ -1,2 +1,30 @@
 name = "Roosevelt County"
 fips_code = 30085
+
+[[zipcodes]]
+zipcode = 59201
+percent_zip_in_county = 91.59
+
+[[zipcodes]]
+zipcode = 59212
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59213
+percent_zip_in_county = 90.28
+
+[[zipcodes]]
+zipcode = 59218
+percent_zip_in_county = 94.39
+
+[[zipcodes]]
+zipcode = 59226
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59255
+percent_zip_in_county = 98.37
+
+[[zipcodes]]
+zipcode = 59258
+percent_zip_in_county = 23.64

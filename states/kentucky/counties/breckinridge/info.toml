@@ -1,2 +1,70 @@
 name = "Breckinridge County"
 fips_code = 21027
+
+[[zipcodes]]
+zipcode = 40111
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40115
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40119
+percent_zip_in_county = 36.78
+
+[[zipcodes]]
+zipcode = 40140
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40142
+percent_zip_in_county = 3.08
+
+[[zipcodes]]
+zipcode = 40143
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40144
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40145
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40146
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40152
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40157
+percent_zip_in_county = 4.68
+
+[[zipcodes]]
+zipcode = 40170
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40171
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40175
+percent_zip_in_county = 3.96
+
+[[zipcodes]]
+zipcode = 40176
+percent_zip_in_county = 54.67
+
+[[zipcodes]]
+zipcode = 40178
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42754
+percent_zip_in_county = 6.16

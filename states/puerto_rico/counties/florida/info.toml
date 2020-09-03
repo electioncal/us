@@ -1,2 +1,10 @@
 name = "Florida Municipio"
 fips_code = 72054
+
+[[zipcodes]]
+zipcode = 617
+percent_zip_in_county = 0.57
+
+[[zipcodes]]
+zipcode = 650
+percent_zip_in_county = 83.61

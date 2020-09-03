@@ -1,2 +1,34 @@
 name = "McCreary County"
 fips_code = 21147
+
+[[zipcodes]]
+zipcode = 40769
+percent_zip_in_county = 1.44
+
+[[zipcodes]]
+zipcode = 42631
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42634
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42635
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42638
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42647
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42649
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42653
+percent_zip_in_county = 100.0

@@ -1,2 +1,46 @@
 name = "Muscogee County"
 fips_code = 13215
+
+[[zipcodes]]
+zipcode = 31801
+percent_zip_in_county = 3.96
+
+[[zipcodes]]
+zipcode = 31808
+percent_zip_in_county = 14.75
+
+[[zipcodes]]
+zipcode = 31820
+percent_zip_in_county = 70.03
+
+[[zipcodes]]
+zipcode = 31829
+percent_zip_in_county = 77.59
+
+[[zipcodes]]
+zipcode = 31901
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31903
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31904
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31905
+percent_zip_in_county = 49.12
+
+[[zipcodes]]
+zipcode = 31906
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31907
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31909
+percent_zip_in_county = 100.0

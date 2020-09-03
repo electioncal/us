@@ -1,2 +1,86 @@
 name = "Sussex County"
 fips_code = 34037
+
+[[zipcodes]]
+zipcode = 7416
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7418
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7419
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7421
+percent_zip_in_county = 6.65
+
+[[zipcodes]]
+zipcode = 7422
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7439
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7460
+percent_zip_in_county = 90.71
+
+[[zipcodes]]
+zipcode = 7461
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7462
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7821
+percent_zip_in_county = 90.92
+
+[[zipcodes]]
+zipcode = 7822
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7826
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7827
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7843
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7848
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7849
+percent_zip_in_county = 0.51
+
+[[zipcodes]]
+zipcode = 7851
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7860
+percent_zip_in_county = 98.2
+
+[[zipcodes]]
+zipcode = 7871
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7874
+percent_zip_in_county = 99.11
+
+[[zipcodes]]
+zipcode = 7881
+percent_zip_in_county = 100.0

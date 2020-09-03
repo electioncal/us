@@ -1,2 +1,6 @@
 name = "Norton city"
 fips_code = 51720
+
+[[zipcodes]]
+zipcode = 24273
+percent_zip_in_county = 63.21

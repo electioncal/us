@@ -1,2 +1,70 @@
 name = "Clinton County"
 fips_code = 17027
+
+[[zipcodes]]
+zipcode = 62215
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62216
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62218
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62219
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62230
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62231
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62245
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62249
+percent_zip_in_county = 1.47
+
+[[zipcodes]]
+zipcode = 62250
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62253
+percent_zip_in_county = 34.48
+
+[[zipcodes]]
+zipcode = 62265
+percent_zip_in_county = 93.5
+
+[[zipcodes]]
+zipcode = 62266
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62275
+percent_zip_in_county = 6.19
+
+[[zipcodes]]
+zipcode = 62293
+percent_zip_in_county = 81.82
+
+[[zipcodes]]
+zipcode = 62801
+percent_zip_in_county = 25.96
+
+[[zipcodes]]
+zipcode = 62875
+percent_zip_in_county = 1.89
+
+[[zipcodes]]
+zipcode = 62882
+percent_zip_in_county = 1.93

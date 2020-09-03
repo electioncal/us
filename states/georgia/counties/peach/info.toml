@@ -1,2 +1,14 @@
 name = "Peach County"
 fips_code = 13225
+
+[[zipcodes]]
+zipcode = 31008
+percent_zip_in_county = 61.09
+
+[[zipcodes]]
+zipcode = 31030
+percent_zip_in_county = 85.32
+
+[[zipcodes]]
+zipcode = 31069
+percent_zip_in_county = 1.22

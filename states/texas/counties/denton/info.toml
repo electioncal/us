@@ -1,2 +1,150 @@
 name = "Denton County"
 fips_code = 48121
+
+[[zipcodes]]
+zipcode = 75007
+percent_zip_in_county = 94.21
+
+[[zipcodes]]
+zipcode = 75009
+percent_zip_in_county = 5.2
+
+[[zipcodes]]
+zipcode = 75010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75019
+percent_zip_in_county = 1.95
+
+[[zipcodes]]
+zipcode = 75022
+percent_zip_in_county = 99.09
+
+[[zipcodes]]
+zipcode = 75024
+percent_zip_in_county = 5.8
+
+[[zipcodes]]
+zipcode = 75028
+percent_zip_in_county = 99.99
+
+[[zipcodes]]
+zipcode = 75034
+percent_zip_in_county = 65.96
+
+[[zipcodes]]
+zipcode = 75056
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75057
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75065
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75067
+percent_zip_in_county = 98.62
+
+[[zipcodes]]
+zipcode = 75068
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75077
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75078
+percent_zip_in_county = 7.27
+
+[[zipcodes]]
+zipcode = 75093
+percent_zip_in_county = 6.86
+
+[[zipcodes]]
+zipcode = 75287
+percent_zip_in_county = 52.75
+
+[[zipcodes]]
+zipcode = 76052
+percent_zip_in_county = 3.73
+
+[[zipcodes]]
+zipcode = 76078
+percent_zip_in_county = 8.67
+
+[[zipcodes]]
+zipcode = 76092
+percent_zip_in_county = 2.91
+
+[[zipcodes]]
+zipcode = 76177
+percent_zip_in_county = 15.15
+
+[[zipcodes]]
+zipcode = 76201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76205
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76207
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76208
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76209
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76210
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76226
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76227
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76234
+percent_zip_in_county = 1.95
+
+[[zipcodes]]
+zipcode = 76247
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76249
+percent_zip_in_county = 99.53
+
+[[zipcodes]]
+zipcode = 76258
+percent_zip_in_county = 95.03
+
+[[zipcodes]]
+zipcode = 76259
+percent_zip_in_county = 99.24
+
+[[zipcodes]]
+zipcode = 76262
+percent_zip_in_county = 60.77
+
+[[zipcodes]]
+zipcode = 76266
+percent_zip_in_county = 99.93
+
+[[zipcodes]]
+zipcode = 76272
+percent_zip_in_county = 1.12

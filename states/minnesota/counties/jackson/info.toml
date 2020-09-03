@@ -1,2 +1,54 @@
 name = "Jackson County"
 fips_code = 27063
+
+[[zipcodes]]
+zipcode = 51360
+percent_zip_in_county = 1.16
+
+[[zipcodes]]
+zipcode = 56101
+percent_zip_in_county = 8.57
+
+[[zipcodes]]
+zipcode = 56111
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56118
+percent_zip_in_county = 5.94
+
+[[zipcodes]]
+zipcode = 56119
+percent_zip_in_county = 16.72
+
+[[zipcodes]]
+zipcode = 56137
+percent_zip_in_county = 89.3
+
+[[zipcodes]]
+zipcode = 56143
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56150
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56159
+percent_zip_in_county = 1.91
+
+[[zipcodes]]
+zipcode = 56160
+percent_zip_in_county = 11.68
+
+[[zipcodes]]
+zipcode = 56161
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56167
+percent_zip_in_county = 34.49
+
+[[zipcodes]]
+zipcode = 56187
+percent_zip_in_county = 0.71

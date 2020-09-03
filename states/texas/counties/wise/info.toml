@@ -1,2 +1,62 @@
 name = "Wise County"
 fips_code = 48497
+
+[[zipcodes]]
+zipcode = 76020
+percent_zip_in_county = 2.49
+
+[[zipcodes]]
+zipcode = 76023
+percent_zip_in_county = 96.6
+
+[[zipcodes]]
+zipcode = 76052
+percent_zip_in_county = 3.64
+
+[[zipcodes]]
+zipcode = 76071
+percent_zip_in_county = 89.01
+
+[[zipcodes]]
+zipcode = 76073
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76078
+percent_zip_in_county = 91.33
+
+[[zipcodes]]
+zipcode = 76082
+percent_zip_in_county = 12.69
+
+[[zipcodes]]
+zipcode = 76225
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76234
+percent_zip_in_county = 97.79
+
+[[zipcodes]]
+zipcode = 76249
+percent_zip_in_county = 0.47
+
+[[zipcodes]]
+zipcode = 76259
+percent_zip_in_county = 0.76
+
+[[zipcodes]]
+zipcode = 76270
+percent_zip_in_county = 32.92
+
+[[zipcodes]]
+zipcode = 76426
+percent_zip_in_county = 96.94
+
+[[zipcodes]]
+zipcode = 76431
+percent_zip_in_county = 98.35
+
+[[zipcodes]]
+zipcode = 76487
+percent_zip_in_county = 20.26

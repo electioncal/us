@@ -1,2 +1,42 @@
 name = "Clarendon County"
 fips_code = 45027
+
+[[zipcodes]]
+zipcode = 29001
+percent_zip_in_county = 93.06
+
+[[zipcodes]]
+zipcode = 29051
+percent_zip_in_county = 43.22
+
+[[zipcodes]]
+zipcode = 29056
+percent_zip_in_county = 7.6
+
+[[zipcodes]]
+zipcode = 29102
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29111
+percent_zip_in_county = 93.81
+
+[[zipcodes]]
+zipcode = 29114
+percent_zip_in_county = 1.69
+
+[[zipcodes]]
+zipcode = 29125
+percent_zip_in_county = 48.31
+
+[[zipcodes]]
+zipcode = 29148
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29162
+percent_zip_in_county = 99.22
+
+[[zipcodes]]
+zipcode = 29560
+percent_zip_in_county = 5.53

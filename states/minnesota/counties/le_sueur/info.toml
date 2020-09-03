@@ -1,2 +1,54 @@
 name = "Le Sueur County"
 fips_code = 27079
+
+[[zipcodes]]
+zipcode = 56011
+percent_zip_in_county = 1.12
+
+[[zipcodes]]
+zipcode = 56017
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56028
+percent_zip_in_county = 94.17
+
+[[zipcodes]]
+zipcode = 56044
+percent_zip_in_county = 8.69
+
+[[zipcodes]]
+zipcode = 56050
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56052
+percent_zip_in_county = 73.1
+
+[[zipcodes]]
+zipcode = 56057
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56058
+percent_zip_in_county = 90.01
+
+[[zipcodes]]
+zipcode = 56063
+percent_zip_in_county = 25.04
+
+[[zipcodes]]
+zipcode = 56069
+percent_zip_in_county = 89.99
+
+[[zipcodes]]
+zipcode = 56071
+percent_zip_in_county = 42.81
+
+[[zipcodes]]
+zipcode = 56082
+percent_zip_in_county = 5.63
+
+[[zipcodes]]
+zipcode = 56096
+percent_zip_in_county = 91.19

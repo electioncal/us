@@ -1,2 +1,54 @@
 name = "Charlotte County"
 fips_code = 51037
+
+[[zipcodes]]
+zipcode = 23923
+percent_zip_in_county = 96.18
+
+[[zipcodes]]
+zipcode = 23924
+percent_zip_in_county = 1.93
+
+[[zipcodes]]
+zipcode = 23934
+percent_zip_in_county = 59.91
+
+[[zipcodes]]
+zipcode = 23937
+percent_zip_in_county = 89.04
+
+[[zipcodes]]
+zipcode = 23947
+percent_zip_in_county = 57.95
+
+[[zipcodes]]
+zipcode = 23958
+percent_zip_in_county = 5.99
+
+[[zipcodes]]
+zipcode = 23959
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23962
+percent_zip_in_county = 69.7
+
+[[zipcodes]]
+zipcode = 23963
+percent_zip_in_county = 79.73
+
+[[zipcodes]]
+zipcode = 23964
+percent_zip_in_county = 91.48
+
+[[zipcodes]]
+zipcode = 23967
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23976
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24528
+percent_zip_in_county = 17.03

@@ -1,2 +1,62 @@
 name = "Bossier Parish"
 fips_code = 22015
+
+[[zipcodes]]
+zipcode = 71006
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71018
+percent_zip_in_county = 4.69
+
+[[zipcodes]]
+zipcode = 71023
+percent_zip_in_county = 4.85
+
+[[zipcodes]]
+zipcode = 71037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71051
+percent_zip_in_county = 99.67
+
+[[zipcodes]]
+zipcode = 71064
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71067
+percent_zip_in_county = 99.79
+
+[[zipcodes]]
+zipcode = 71071
+percent_zip_in_county = 0.78
+
+[[zipcodes]]
+zipcode = 71075
+percent_zip_in_county = 1.93
+
+[[zipcodes]]
+zipcode = 71104
+percent_zip_in_county = 2.59
+
+[[zipcodes]]
+zipcode = 71105
+percent_zip_in_county = 10.12
+
+[[zipcodes]]
+zipcode = 71107
+percent_zip_in_county = 0.3
+
+[[zipcodes]]
+zipcode = 71110
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71111
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71112
+percent_zip_in_county = 100.0

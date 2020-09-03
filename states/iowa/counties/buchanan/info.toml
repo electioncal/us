@@ -1,2 +1,62 @@
 name = "Buchanan County"
 fips_code = 19019
+
+[[zipcodes]]
+zipcode = 50607
+percent_zip_in_county = 74.64
+
+[[zipcodes]]
+zipcode = 50629
+percent_zip_in_county = 60.63
+
+[[zipcodes]]
+zipcode = 50641
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50644
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50648
+percent_zip_in_county = 79.9
+
+[[zipcodes]]
+zipcode = 50650
+percent_zip_in_county = 84.12
+
+[[zipcodes]]
+zipcode = 50654
+percent_zip_in_county = 39.28
+
+[[zipcodes]]
+zipcode = 50662
+percent_zip_in_county = 0.72
+
+[[zipcodes]]
+zipcode = 50671
+percent_zip_in_county = 63.94
+
+[[zipcodes]]
+zipcode = 50682
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52210
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52218
+percent_zip_in_county = 8.45
+
+[[zipcodes]]
+zipcode = 52326
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52329
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52352
+percent_zip_in_county = 20.69

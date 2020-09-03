@@ -1,2 +1,78 @@
 name = "Addison County"
 fips_code = 50001
+
+[[zipcodes]]
+zipcode = 5443
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5456
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5461
+percent_zip_in_county = 3.21
+
+[[zipcodes]]
+zipcode = 5472
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5473
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5487
+percent_zip_in_county = 98.0
+
+[[zipcodes]]
+zipcode = 5491
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5669
+percent_zip_in_county = 2.84
+
+[[zipcodes]]
+zipcode = 5733
+percent_zip_in_county = 20.07
+
+[[zipcodes]]
+zipcode = 5734
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5740
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5747
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5748
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5753
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5760
+percent_zip_in_county = 96.08
+
+[[zipcodes]]
+zipcode = 5766
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5769
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5770
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5778
+percent_zip_in_county = 92.77

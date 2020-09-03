@@ -1,2 +1,22 @@
 name = "Brown County"
 fips_code = 17009
+
+[[zipcodes]]
+zipcode = 62323
+percent_zip_in_county = 2.76
+
+[[zipcodes]]
+zipcode = 62324
+percent_zip_in_county = 2.13
+
+[[zipcodes]]
+zipcode = 62353
+percent_zip_in_county = 99.96
+
+[[zipcodes]]
+zipcode = 62375
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62378
+percent_zip_in_county = 100.0

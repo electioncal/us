@@ -1,2 +1,110 @@
 name = "Vermilion County"
 fips_code = 17183
+
+[[zipcodes]]
+zipcode = 60932
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60942
+percent_zip_in_county = 96.89
+
+[[zipcodes]]
+zipcode = 60960
+percent_zip_in_county = 79.14
+
+[[zipcodes]]
+zipcode = 60963
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61810
+percent_zip_in_county = 93.91
+
+[[zipcodes]]
+zipcode = 61811
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61812
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61814
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61817
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61831
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61832
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61833
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61834
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61841
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61844
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61846
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61848
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61849
+percent_zip_in_county = 9.01
+
+[[zipcodes]]
+zipcode = 61850
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61857
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61858
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61859
+percent_zip_in_county = 2.24
+
+[[zipcodes]]
+zipcode = 61862
+percent_zip_in_county = 7.25
+
+[[zipcodes]]
+zipcode = 61865
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61870
+percent_zip_in_county = 96.61
+
+[[zipcodes]]
+zipcode = 61876
+percent_zip_in_county = 94.0
+
+[[zipcodes]]
+zipcode = 61883
+percent_zip_in_county = 100.0

@@ -1,2 +1,26 @@
 name = "Titus County"
 fips_code = 48449
+
+[[zipcodes]]
+zipcode = 75455
+percent_zip_in_county = 99.75
+
+[[zipcodes]]
+zipcode = 75487
+percent_zip_in_county = 59.05
+
+[[zipcodes]]
+zipcode = 75493
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75558
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75571
+percent_zip_in_county = 2.6
+
+[[zipcodes]]
+zipcode = 75686
+percent_zip_in_county = 6.78

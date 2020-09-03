@@ -1,2 +1,62 @@
 name = "Yamhill County"
 fips_code = 41071
+
+[[zipcodes]]
+zipcode = 97101
+percent_zip_in_county = 91.59
+
+[[zipcodes]]
+zipcode = 97111
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97114
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97115
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97119
+percent_zip_in_county = 20.59
+
+[[zipcodes]]
+zipcode = 97123
+percent_zip_in_county = 1.71
+
+[[zipcodes]]
+zipcode = 97127
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97128
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97132
+percent_zip_in_county = 98.62
+
+[[zipcodes]]
+zipcode = 97140
+percent_zip_in_county = 1.22
+
+[[zipcodes]]
+zipcode = 97148
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97304
+percent_zip_in_county = 0.89
+
+[[zipcodes]]
+zipcode = 97347
+percent_zip_in_county = 30.94
+
+[[zipcodes]]
+zipcode = 97378
+percent_zip_in_county = 86.97
+
+[[zipcodes]]
+zipcode = 97396
+percent_zip_in_county = 62.46

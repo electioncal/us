@@ -1,2 +1,18 @@
 name = "Phillips County"
 fips_code = 8095
+
+[[zipcodes]]
+zipcode = 80721
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80731
+percent_zip_in_county = 88.35
+
+[[zipcodes]]
+zipcode = 80734
+percent_zip_in_county = 96.52
+
+[[zipcodes]]
+zipcode = 80746
+percent_zip_in_county = 100.0

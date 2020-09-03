@@ -1,2 +1,26 @@
 name = "Denali Borough"
 fips_code = 2068
+
+[[zipcodes]]
+zipcode = 99704
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99729
+percent_zip_in_county = 94.81
+
+[[zipcodes]]
+zipcode = 99743
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99744
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99755
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99760
+percent_zip_in_county = 9.04

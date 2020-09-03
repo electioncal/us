@@ -1,2 +1,86 @@
 name = "Rock Island County"
 fips_code = 17161
+
+[[zipcodes]]
+zipcode = 61201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61232
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61236
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61239
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61240
+percent_zip_in_county = 81.89
+
+[[zipcodes]]
+zipcode = 61242
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61244
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61256
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61257
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61259
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61260
+percent_zip_in_county = 2.8
+
+[[zipcodes]]
+zipcode = 61264
+percent_zip_in_county = 98.94
+
+[[zipcodes]]
+zipcode = 61265
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61272
+percent_zip_in_county = 0.27
+
+[[zipcodes]]
+zipcode = 61273
+percent_zip_in_county = 5.31
+
+[[zipcodes]]
+zipcode = 61275
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61278
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61279
+percent_zip_in_county = 71.63
+
+[[zipcodes]]
+zipcode = 61281
+percent_zip_in_county = 2.39
+
+[[zipcodes]]
+zipcode = 61282
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61284
+percent_zip_in_county = 100.0

@@ -1,2 +1,38 @@
 name = "Lee County"
 fips_code = 5077
+
+[[zipcodes]]
+zipcode = 72311
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72320
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72335
+percent_zip_in_county = 0.04
+
+[[zipcodes]]
+zipcode = 72341
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72348
+percent_zip_in_county = 1.77
+
+[[zipcodes]]
+zipcode = 72355
+percent_zip_in_county = 11.99
+
+[[zipcodes]]
+zipcode = 72360
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72368
+percent_zip_in_county = 92.43
+
+[[zipcodes]]
+zipcode = 72372
+percent_zip_in_county = 11.98

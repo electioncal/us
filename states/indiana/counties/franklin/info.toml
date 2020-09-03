@@ -1,2 +1,58 @@
 name = "Franklin County"
 fips_code = 18047
+
+[[zipcodes]]
+zipcode = 45053
+percent_zip_in_county = 0.29
+
+[[zipcodes]]
+zipcode = 46173
+percent_zip_in_county = 2.4
+
+[[zipcodes]]
+zipcode = 47006
+percent_zip_in_county = 33.56
+
+[[zipcodes]]
+zipcode = 47010
+percent_zip_in_county = 70.26
+
+[[zipcodes]]
+zipcode = 47012
+percent_zip_in_county = 91.62
+
+[[zipcodes]]
+zipcode = 47016
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47060
+percent_zip_in_county = 33.9
+
+[[zipcodes]]
+zipcode = 47240
+percent_zip_in_county = 0.54
+
+[[zipcodes]]
+zipcode = 47331
+percent_zip_in_county = 0.33
+
+[[zipcodes]]
+zipcode = 47353
+percent_zip_in_county = 0.61

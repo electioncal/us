@@ -1,2 +1,58 @@
 name = "Tom Green County"
 fips_code = 48451
+
+[[zipcodes]]
+zipcode = 76861
+percent_zip_in_county = 42.51
+
+[[zipcodes]]
+zipcode = 76901
+percent_zip_in_county = 99.9
+
+[[zipcodes]]
+zipcode = 76903
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76904
+percent_zip_in_county = 99.8
+
+[[zipcodes]]
+zipcode = 76905
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76908
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76934
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76935
+percent_zip_in_county = 95.33
+
+[[zipcodes]]
+zipcode = 76937
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76939
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76940
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76955
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76957
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76958
+percent_zip_in_county = 100.0

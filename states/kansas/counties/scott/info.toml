@@ -1,2 +1,10 @@
 name = "Scott County"
 fips_code = 20171
+
+[[zipcodes]]
+zipcode = 67863
+percent_zip_in_county = 12.46
+
+[[zipcodes]]
+zipcode = 67871
+percent_zip_in_county = 98.49

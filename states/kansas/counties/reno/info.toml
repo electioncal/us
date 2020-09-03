@@ -1,2 +1,82 @@
 name = "Reno County"
 fips_code = 20155
+
+[[zipcodes]]
+zipcode = 67020
+percent_zip_in_county = 18.77
+
+[[zipcodes]]
+zipcode = 67025
+percent_zip_in_county = 2.14
+
+[[zipcodes]]
+zipcode = 67035
+percent_zip_in_county = 3.92
+
+[[zipcodes]]
+zipcode = 67068
+percent_zip_in_county = 1.22
+
+[[zipcodes]]
+zipcode = 67108
+percent_zip_in_county = 27.71
+
+[[zipcodes]]
+zipcode = 67501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67502
+percent_zip_in_county = 99.92
+
+[[zipcodes]]
+zipcode = 67505
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67510
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67514
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67522
+percent_zip_in_county = 95.71
+
+[[zipcodes]]
+zipcode = 67543
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67546
+percent_zip_in_county = 0.35
+
+[[zipcodes]]
+zipcode = 67561
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67566
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67568
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67570
+percent_zip_in_county = 91.11
+
+[[zipcodes]]
+zipcode = 67579
+percent_zip_in_county = 8.27
+
+[[zipcodes]]
+zipcode = 67581
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67583
+percent_zip_in_county = 61.94

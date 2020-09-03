@@ -1,2 +1,14 @@
 name = "Rio Blanco County"
 fips_code = 8103
+
+[[zipcodes]]
+zipcode = 81641
+percent_zip_in_county = 99.09
+
+[[zipcodes]]
+zipcode = 81648
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81650
+percent_zip_in_county = 0.45

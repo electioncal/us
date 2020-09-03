@@ -1,2 +1,50 @@
 name = "Hamilton County"
 fips_code = 17065
+
+[[zipcodes]]
+zipcode = 62810
+percent_zip_in_county = 3.03
+
+[[zipcodes]]
+zipcode = 62817
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62828
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62829
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62835
+percent_zip_in_county = 3.13
+
+[[zipcodes]]
+zipcode = 62859
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62860
+percent_zip_in_county = 33.97
+
+[[zipcodes]]
+zipcode = 62869
+percent_zip_in_county = 0.48
+
+[[zipcodes]]
+zipcode = 62887
+percent_zip_in_county = 36.95
+
+[[zipcodes]]
+zipcode = 62890
+percent_zip_in_county = 6.7
+
+[[zipcodes]]
+zipcode = 62895
+percent_zip_in_county = 4.2
+
+[[zipcodes]]
+zipcode = 62935
+percent_zip_in_county = 0.36

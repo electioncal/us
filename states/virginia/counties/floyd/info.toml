@@ -1,2 +1,46 @@
 name = "Floyd County"
 fips_code = 51063
+
+[[zipcodes]]
+zipcode = 24072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24079
+percent_zip_in_county = 99.89
+
+[[zipcodes]]
+zipcode = 24091
+percent_zip_in_county = 98.95
+
+[[zipcodes]]
+zipcode = 24105
+percent_zip_in_county = 93.8
+
+[[zipcodes]]
+zipcode = 24120
+percent_zip_in_county = 16.08
+
+[[zipcodes]]
+zipcode = 24138
+percent_zip_in_county = 39.99
+
+[[zipcodes]]
+zipcode = 24141
+percent_zip_in_county = 0.72
+
+[[zipcodes]]
+zipcode = 24149
+percent_zip_in_county = 25.94
+
+[[zipcodes]]
+zipcode = 24162
+percent_zip_in_county = 0.95
+
+[[zipcodes]]
+zipcode = 24352
+percent_zip_in_county = 0.11
+
+[[zipcodes]]
+zipcode = 24380
+percent_zip_in_county = 99.55

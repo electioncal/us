@@ -1,2 +1,78 @@
 name = "Ashtabula County"
 fips_code = 39007
+
+[[zipcodes]]
+zipcode = 44003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44004
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44041
+percent_zip_in_county = 99.41
+
+[[zipcodes]]
+zipcode = 44047
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44048
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44057
+percent_zip_in_county = 0.2
+
+[[zipcodes]]
+zipcode = 44062
+percent_zip_in_county = 2.44
+
+[[zipcodes]]
+zipcode = 44064
+percent_zip_in_county = 1.57
+
+[[zipcodes]]
+zipcode = 44076
+percent_zip_in_county = 86.99
+
+[[zipcodes]]
+zipcode = 44082
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44084
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44085
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44086
+percent_zip_in_county = 0.21
+
+[[zipcodes]]
+zipcode = 44093
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44099
+percent_zip_in_county = 82.58
+
+[[zipcodes]]
+zipcode = 44428
+percent_zip_in_county = 1.88

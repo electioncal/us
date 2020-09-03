@@ -1,3 +1,147 @@
 name = "Columbia County"
 fips_code = 36021
 homepage ="https://sites.google.com/a/columbiacountyny.com/elections/"
+
+[[zipcodes]]
+zipcode = 12017
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12029
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12060
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12062
+percent_zip_in_county = 9.63
+
+[[zipcodes]]
+zipcode = 12075
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12106
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12115
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12125
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12130
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12132
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12136
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12156
+percent_zip_in_county = 17.92
+
+[[zipcodes]]
+zipcode = 12165
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12172
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12173
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12174
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12184
+percent_zip_in_county = 98.82
+
+[[zipcodes]]
+zipcode = 12195
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12502
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12503
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12513
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12516
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12517
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12521
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12523
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12526
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12529
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12530
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12534
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12546
+percent_zip_in_county = 6.25
+
+[[zipcodes]]
+zipcode = 12565
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12567
+percent_zip_in_county = 14.4
+
+[[zipcodes]]
+zipcode = 12571
+percent_zip_in_county = 7.27
+
+[[zipcodes]]
+zipcode = 12583
+percent_zip_in_county = 30.8

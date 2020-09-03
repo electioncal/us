@@ -1,2 +1,22 @@
 name = "Rhea County"
 fips_code = 47143
+
+[[zipcodes]]
+zipcode = 37321
+percent_zip_in_county = 99.08
+
+[[zipcodes]]
+zipcode = 37332
+percent_zip_in_county = 98.97
+
+[[zipcodes]]
+zipcode = 37337
+percent_zip_in_county = 59.52
+
+[[zipcodes]]
+zipcode = 37338
+percent_zip_in_county = 47.69
+
+[[zipcodes]]
+zipcode = 37381
+percent_zip_in_county = 89.66

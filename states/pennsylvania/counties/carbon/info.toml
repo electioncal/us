@@ -1,2 +1,86 @@
 name = "Carbon County"
 fips_code = 42025
+
+[[zipcodes]]
+zipcode = 18030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18058
+percent_zip_in_county = 12.58
+
+[[zipcodes]]
+zipcode = 18071
+percent_zip_in_county = 99.2
+
+[[zipcodes]]
+zipcode = 18201
+percent_zip_in_county = 0.26
+
+[[zipcodes]]
+zipcode = 18210
+percent_zip_in_county = 77.45
+
+[[zipcodes]]
+zipcode = 18211
+percent_zip_in_county = 2.61
+
+[[zipcodes]]
+zipcode = 18212
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18216
+percent_zip_in_county = 96.63
+
+[[zipcodes]]
+zipcode = 18229
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18230
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18232
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18235
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18237
+percent_zip_in_county = 0.64
+
+[[zipcodes]]
+zipcode = 18240
+percent_zip_in_county = 86.07
+
+[[zipcodes]]
+zipcode = 18244
+percent_zip_in_county = 74.63
+
+[[zipcodes]]
+zipcode = 18250
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18254
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18255
+percent_zip_in_county = 97.86
+
+[[zipcodes]]
+zipcode = 18610
+percent_zip_in_county = 0.18
+
+[[zipcodes]]
+zipcode = 18624
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18661
+percent_zip_in_county = 14.12

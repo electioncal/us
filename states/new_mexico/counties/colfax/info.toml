@@ -1,2 +1,46 @@
 name = "Colfax County"
 fips_code = 35007
+
+[[zipcodes]]
+zipcode = 87710
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87714
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87718
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87728
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87729
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87734
+percent_zip_in_county = 1.1
+
+[[zipcodes]]
+zipcode = 87740
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87747
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87749
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88419
+percent_zip_in_county = 8.73
+
+[[zipcodes]]
+zipcode = 88422
+percent_zip_in_county = 47.06

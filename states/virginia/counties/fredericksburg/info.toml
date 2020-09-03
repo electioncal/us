@@ -1,2 +1,6 @@
 name = "Fredericksburg city"
 fips_code = 51630
+
+[[zipcodes]]
+zipcode = 22401
+percent_zip_in_county = 100.0

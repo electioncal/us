@@ -1,2 +1,14 @@
 name = "Custer County"
 fips_code = 8027
+
+[[zipcodes]]
+zipcode = 81069
+percent_zip_in_county = 4.34
+
+[[zipcodes]]
+zipcode = 81252
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81253
+percent_zip_in_county = 83.66

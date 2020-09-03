@@ -1,2 +1,30 @@
 name = "Cherokee County"
 fips_code = 45021
+
+[[zipcodes]]
+zipcode = 29307
+percent_zip_in_county = 2.12
+
+[[zipcodes]]
+zipcode = 29323
+percent_zip_in_county = 10.67
+
+[[zipcodes]]
+zipcode = 29330
+percent_zip_in_county = 36.36
+
+[[zipcodes]]
+zipcode = 29340
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29341
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29372
+percent_zip_in_county = 13.36
+
+[[zipcodes]]
+zipcode = 29702
+percent_zip_in_county = 95.96

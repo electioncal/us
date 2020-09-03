@@ -1,2 +1,6 @@
 name = "Garfield County"
 fips_code = 31071
+
+[[zipcodes]]
+zipcode = 68823
+percent_zip_in_county = 85.34

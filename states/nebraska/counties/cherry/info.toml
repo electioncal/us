@@ -1,2 +1,66 @@
 name = "Cherry County"
 fips_code = 31031
+
+[[zipcodes]]
+zipcode = 69135
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69152
+percent_zip_in_county = 16.93
+
+[[zipcodes]]
+zipcode = 69161
+percent_zip_in_county = 23.46
+
+[[zipcodes]]
+zipcode = 69166
+percent_zip_in_county = 30.0
+
+[[zipcodes]]
+zipcode = 69201
+percent_zip_in_county = 92.66
+
+[[zipcodes]]
+zipcode = 69211
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69212
+percent_zip_in_county = 64.11
+
+[[zipcodes]]
+zipcode = 69216
+percent_zip_in_county = 70.69
+
+[[zipcodes]]
+zipcode = 69218
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69219
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69220
+percent_zip_in_county = 61.02
+
+[[zipcodes]]
+zipcode = 69221
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69333
+percent_zip_in_county = 37.24
+
+[[zipcodes]]
+zipcode = 69343
+percent_zip_in_county = 6.3
+
+[[zipcodes]]
+zipcode = 69350
+percent_zip_in_county = 10.18
+
+[[zipcodes]]
+zipcode = 69366
+percent_zip_in_county = 26.88

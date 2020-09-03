@@ -1,2 +1,46 @@
 name = "Fillmore County"
 fips_code = 31059
+
+[[zipcodes]]
+zipcode = 68322
+percent_zip_in_county = 8.64
+
+[[zipcodes]]
+zipcode = 68351
+percent_zip_in_county = 91.21
+
+[[zipcodes]]
+zipcode = 68354
+percent_zip_in_county = 96.07
+
+[[zipcodes]]
+zipcode = 68361
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68365
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68406
+percent_zip_in_county = 88.65
+
+[[zipcodes]]
+zipcode = 68416
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68436
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68444
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68453
+percent_zip_in_county = 8.55
+
+[[zipcodes]]
+zipcode = 68979
+percent_zip_in_county = 6.04

@@ -1,2 +1,38 @@
 name = "Kanabec County"
 fips_code = 27065
+
+[[zipcodes]]
+zipcode = 55006
+percent_zip_in_county = 21.6
+
+[[zipcodes]]
+zipcode = 55007
+percent_zip_in_county = 58.01
+
+[[zipcodes]]
+zipcode = 55030
+percent_zip_in_county = 23.27
+
+[[zipcodes]]
+zipcode = 55037
+percent_zip_in_county = 2.25
+
+[[zipcodes]]
+zipcode = 55051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55072
+percent_zip_in_county = 3.23
+
+[[zipcodes]]
+zipcode = 56342
+percent_zip_in_county = 16.06
+
+[[zipcodes]]
+zipcode = 56353
+percent_zip_in_county = 0.33
+
+[[zipcodes]]
+zipcode = 56358
+percent_zip_in_county = 96.99

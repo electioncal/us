@@ -1,2 +1,110 @@
 name = "Winnebago County"
 fips_code = 17201
+
+[[zipcodes]]
+zipcode = 60146
+percent_zip_in_county = 0.29
+
+[[zipcodes]]
+zipcode = 61008
+percent_zip_in_county = 0.57
+
+[[zipcodes]]
+zipcode = 61011
+percent_zip_in_county = 41.73
+
+[[zipcodes]]
+zipcode = 61016
+percent_zip_in_county = 88.44
+
+[[zipcodes]]
+zipcode = 61019
+percent_zip_in_county = 38.99
+
+[[zipcodes]]
+zipcode = 61020
+percent_zip_in_county = 1.83
+
+[[zipcodes]]
+zipcode = 61024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61047
+percent_zip_in_county = 2.86
+
+[[zipcodes]]
+zipcode = 61063
+percent_zip_in_county = 94.51
+
+[[zipcodes]]
+zipcode = 61072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61073
+percent_zip_in_county = 99.46
+
+[[zipcodes]]
+zipcode = 61077
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61079
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61080
+percent_zip_in_county = 97.86
+
+[[zipcodes]]
+zipcode = 61084
+percent_zip_in_county = 3.72
+
+[[zipcodes]]
+zipcode = 61088
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61101
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61102
+percent_zip_in_county = 98.99
+
+[[zipcodes]]
+zipcode = 61103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61104
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61107
+percent_zip_in_county = 98.25
+
+[[zipcodes]]
+zipcode = 61108
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61109
+percent_zip_in_county = 99.94
+
+[[zipcodes]]
+zipcode = 61111
+percent_zip_in_county = 93.19
+
+[[zipcodes]]
+zipcode = 61112
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61114
+percent_zip_in_county = 97.16
+
+[[zipcodes]]
+zipcode = 61115
+percent_zip_in_county = 100.0

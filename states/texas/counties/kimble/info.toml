@@ -1,2 +1,18 @@
 name = "Kimble County"
 fips_code = 48267
+
+[[zipcodes]]
+zipcode = 76849
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76854
+percent_zip_in_county = 68.33
+
+[[zipcodes]]
+zipcode = 76874
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78631
+percent_zip_in_county = 13.4

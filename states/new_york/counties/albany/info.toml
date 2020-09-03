@@ -1,2 +1,182 @@
 name = "Albany County"
 fips_code = 36001
+
+[[zipcodes]]
+zipcode = 12007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12009
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12023
+percent_zip_in_county = 82.6
+
+[[zipcodes]]
+zipcode = 12041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12046
+percent_zip_in_county = 96.45
+
+[[zipcodes]]
+zipcode = 12047
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12053
+percent_zip_in_county = 9.96
+
+[[zipcodes]]
+zipcode = 12054
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12059
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12077
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12083
+percent_zip_in_county = 33.89
+
+[[zipcodes]]
+zipcode = 12084
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12085
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12087
+percent_zip_in_county = 12.77
+
+[[zipcodes]]
+zipcode = 12110
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12120
+percent_zip_in_county = 95.6
+
+[[zipcodes]]
+zipcode = 12122
+percent_zip_in_county = 3.97
+
+[[zipcodes]]
+zipcode = 12143
+percent_zip_in_county = 93.65
+
+[[zipcodes]]
+zipcode = 12147
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12157
+percent_zip_in_county = 0.15
+
+[[zipcodes]]
+zipcode = 12158
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12159
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12161
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12183
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12186
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12189
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12193
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12202
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12203
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12204
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12205
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12206
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12207
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12208
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12209
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12210
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12211
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12222
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12303
+percent_zip_in_county = 34.69
+
+[[zipcodes]]
+zipcode = 12304
+percent_zip_in_county = 13.13
+
+[[zipcodes]]
+zipcode = 12306
+percent_zip_in_county = 2.94
+
+[[zipcodes]]
+zipcode = 12309
+percent_zip_in_county = 14.9
+
+[[zipcodes]]
+zipcode = 12469
+percent_zip_in_county = 81.68

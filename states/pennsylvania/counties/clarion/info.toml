@@ -1,2 +1,122 @@
 name = "Clarion County"
 fips_code = 42031
+
+[[zipcodes]]
+zipcode = 15829
+percent_zip_in_county = 23.16
+
+[[zipcodes]]
+zipcode = 15860
+percent_zip_in_county = 6.29
+
+[[zipcodes]]
+zipcode = 15864
+percent_zip_in_county = 37.72
+
+[[zipcodes]]
+zipcode = 16028
+percent_zip_in_county = 51.86
+
+[[zipcodes]]
+zipcode = 16036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16049
+percent_zip_in_county = 37.4
+
+[[zipcodes]]
+zipcode = 16054
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16213
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16214
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16224
+percent_zip_in_county = 90.94
+
+[[zipcodes]]
+zipcode = 16230
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16232
+percent_zip_in_county = 99.77
+
+[[zipcodes]]
+zipcode = 16233
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16235
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16240
+percent_zip_in_county = 38.23
+
+[[zipcodes]]
+zipcode = 16242
+percent_zip_in_county = 54.66
+
+[[zipcodes]]
+zipcode = 16248
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16254
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16255
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16258
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16260
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16319
+percent_zip_in_county = 24.5
+
+[[zipcodes]]
+zipcode = 16326
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16331
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16332
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16334
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16353
+percent_zip_in_county = 28.55
+
+[[zipcodes]]
+zipcode = 16361
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16364
+percent_zip_in_county = 30.44
+
+[[zipcodes]]
+zipcode = 16373
+percent_zip_in_county = 25.36

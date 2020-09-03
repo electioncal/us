@@ -1,2 +1,58 @@
 name = "Saline County"
 fips_code = 5125
+
+[[zipcodes]]
+zipcode = 71909
+percent_zip_in_county = 34.9
+
+[[zipcodes]]
+zipcode = 72002
+percent_zip_in_county = 94.23
+
+[[zipcodes]]
+zipcode = 72011
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72015
+percent_zip_in_county = 98.02
+
+[[zipcodes]]
+zipcode = 72019
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72065
+percent_zip_in_county = 80.33
+
+[[zipcodes]]
+zipcode = 72087
+percent_zip_in_county = 60.31
+
+[[zipcodes]]
+zipcode = 72103
+percent_zip_in_county = 69.12
+
+[[zipcodes]]
+zipcode = 72104
+percent_zip_in_county = 0.92
+
+[[zipcodes]]
+zipcode = 72122
+percent_zip_in_county = 81.45
+
+[[zipcodes]]
+zipcode = 72167
+percent_zip_in_county = 68.7
+
+[[zipcodes]]
+zipcode = 72206
+percent_zip_in_county = 9.69
+
+[[zipcodes]]
+zipcode = 72210
+percent_zip_in_county = 5.88

@@ -1,2 +1,66 @@
 name = "Gibson County"
 fips_code = 18051
+
+[[zipcodes]]
+zipcode = 47612
+percent_zip_in_county = 11.03
+
+[[zipcodes]]
+zipcode = 47613
+percent_zip_in_county = 13.92
+
+[[zipcodes]]
+zipcode = 47616
+percent_zip_in_county = 7.14
+
+[[zipcodes]]
+zipcode = 47619
+percent_zip_in_county = 3.89
+
+[[zipcodes]]
+zipcode = 47633
+percent_zip_in_county = 7.2
+
+[[zipcodes]]
+zipcode = 47639
+percent_zip_in_county = 93.04
+
+[[zipcodes]]
+zipcode = 47640
+percent_zip_in_county = 77.32
+
+[[zipcodes]]
+zipcode = 47648
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47649
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47654
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47660
+percent_zip_in_county = 92.6
+
+[[zipcodes]]
+zipcode = 47665
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47666
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47670
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47683
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47725
+percent_zip_in_county = 0.45

@@ -1,2 +1,54 @@
 name = "Richmond County"
 fips_code = 36085
+
+[[zipcodes]]
+zipcode = 10301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10302
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10303
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10304
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10305
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10306
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10307
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10308
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10309
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10310
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10311
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 10312
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10314
+percent_zip_in_county = 100.0

@@ -1,2 +1,22 @@
 name = "Hidalgo County"
 fips_code = 35023
+
+[[zipcodes]]
+zipcode = 88009
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88040
+percent_zip_in_county = 36.21
+
+[[zipcodes]]
+zipcode = 88045
+percent_zip_in_county = 99.65
+
+[[zipcodes]]
+zipcode = 88056
+percent_zip_in_county = 100.0

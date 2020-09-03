@@ -1,2 +1,62 @@
 name = "Nye County"
 fips_code = 32023
+
+[[zipcodes]]
+zipcode = 89001
+percent_zip_in_county = 0.16
+
+[[zipcodes]]
+zipcode = 89003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89048
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89049
+percent_zip_in_county = 99.19
+
+[[zipcodes]]
+zipcode = 89060
+percent_zip_in_county = 99.71
+
+[[zipcodes]]
+zipcode = 89061
+percent_zip_in_county = 99.03
+
+[[zipcodes]]
+zipcode = 89124
+percent_zip_in_county = 1.7
+
+[[zipcodes]]
+zipcode = 89310
+percent_zip_in_county = 23.82
+
+[[zipcodes]]
+zipcode = 89314
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89316
+percent_zip_in_county = 0.5
+
+[[zipcodes]]
+zipcode = 89317
+percent_zip_in_county = 3.98
+
+[[zipcodes]]
+zipcode = 89409
+percent_zip_in_county = 98.59

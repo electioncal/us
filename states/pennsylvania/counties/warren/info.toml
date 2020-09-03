@@ -1,2 +1,82 @@
 name = "Warren County"
 fips_code = 42123
+
+[[zipcodes]]
+zipcode = 16312
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16313
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16329
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16340
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16345
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16347
+percent_zip_in_county = 94.77
+
+[[zipcodes]]
+zipcode = 16350
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16351
+percent_zip_in_county = 94.76
+
+[[zipcodes]]
+zipcode = 16352
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16354
+percent_zip_in_county = 2.19
+
+[[zipcodes]]
+zipcode = 16365
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16371
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16402
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16405
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16407
+percent_zip_in_county = 11.8
+
+[[zipcodes]]
+zipcode = 16416
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16420
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16434
+percent_zip_in_county = 7.66
+
+[[zipcodes]]
+zipcode = 16436
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16701
+percent_zip_in_county = 0.07

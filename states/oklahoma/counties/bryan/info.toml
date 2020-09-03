@@ -1,2 +1,58 @@
 name = "Bryan County"
 fips_code = 40013
+
+[[zipcodes]]
+zipcode = 73449
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74701
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74720
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74723
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74726
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74727
+percent_zip_in_county = 1.57
+
+[[zipcodes]]
+zipcode = 74729
+percent_zip_in_county = 74.43
+
+[[zipcodes]]
+zipcode = 74730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74731
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74733
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74741
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74747
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74748
+percent_zip_in_county = 34.42
+
+[[zipcodes]]
+zipcode = 74753
+percent_zip_in_county = 100.0

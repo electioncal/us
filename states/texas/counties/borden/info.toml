@@ -1,2 +1,30 @@
 name = "Borden County"
 fips_code = 48033
+
+[[zipcodes]]
+zipcode = 79351
+percent_zip_in_county = 8.07
+
+[[zipcodes]]
+zipcode = 79511
+percent_zip_in_county = 6.05
+
+[[zipcodes]]
+zipcode = 79517
+percent_zip_in_county = 34.5
+
+[[zipcodes]]
+zipcode = 79527
+percent_zip_in_county = 18.33
+
+[[zipcodes]]
+zipcode = 79713
+percent_zip_in_county = 2.53
+
+[[zipcodes]]
+zipcode = 79720
+percent_zip_in_county = 0.14
+
+[[zipcodes]]
+zipcode = 79738
+percent_zip_in_county = 100.0

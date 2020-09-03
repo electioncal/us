@@ -1,2 +1,34 @@
 name = "Ripley County"
 fips_code = 29181
+
+[[zipcodes]]
+zipcode = 63901
+percent_zip_in_county = 0.1
+
+[[zipcodes]]
+zipcode = 63935
+percent_zip_in_county = 99.02
+
+[[zipcodes]]
+zipcode = 63939
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63942
+percent_zip_in_county = 86.04
+
+[[zipcodes]]
+zipcode = 63943
+percent_zip_in_county = 10.71
+
+[[zipcodes]]
+zipcode = 63953
+percent_zip_in_county = 96.21
+
+[[zipcodes]]
+zipcode = 63954
+percent_zip_in_county = 4.59
+
+[[zipcodes]]
+zipcode = 63955
+percent_zip_in_county = 100.0

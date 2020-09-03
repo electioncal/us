@@ -1,2 +1,46 @@
 name = "Fergus County"
 fips_code = 30027
+
+[[zipcodes]]
+zipcode = 59032
+percent_zip_in_county = 96.08
+
+[[zipcodes]]
+zipcode = 59418
+percent_zip_in_county = 22.11
+
+[[zipcodes]]
+zipcode = 59424
+percent_zip_in_county = 82.76
+
+[[zipcodes]]
+zipcode = 59430
+percent_zip_in_county = 95.59
+
+[[zipcodes]]
+zipcode = 59441
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59451
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59453
+percent_zip_in_county = 18.78
+
+[[zipcodes]]
+zipcode = 59457
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59464
+percent_zip_in_county = 96.0
+
+[[zipcodes]]
+zipcode = 59471
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59489
+percent_zip_in_county = 100.0

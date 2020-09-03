@@ -1,2 +1,22 @@
 name = "Arecibo Municipio"
 fips_code = 72013
+
+[[zipcodes]]
+zipcode = 612
+percent_zip_in_county = 99.89
+
+[[zipcodes]]
+zipcode = 616
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 650
+percent_zip_in_county = 1.51
+
+[[zipcodes]]
+zipcode = 652
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 688
+percent_zip_in_county = 100.0

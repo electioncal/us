@@ -1,2 +1,42 @@
 name = "Webb County"
 fips_code = 48479
+
+[[zipcodes]]
+zipcode = 78019
+percent_zip_in_county = 6.68
+
+[[zipcodes]]
+zipcode = 78040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78044
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78344
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78369
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78371
+percent_zip_in_county = 100.0

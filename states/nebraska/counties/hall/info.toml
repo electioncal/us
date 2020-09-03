@@ -1,2 +1,34 @@
 name = "Hall County"
 fips_code = 31079
+
+[[zipcodes]]
+zipcode = 68801
+percent_zip_in_county = 97.42
+
+[[zipcodes]]
+zipcode = 68803
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68810
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68824
+percent_zip_in_county = 96.25
+
+[[zipcodes]]
+zipcode = 68832
+percent_zip_in_county = 96.66
+
+[[zipcodes]]
+zipcode = 68876
+percent_zip_in_county = 4.53
+
+[[zipcodes]]
+zipcode = 68883
+percent_zip_in_county = 96.1
+
+[[zipcodes]]
+zipcode = 68956
+percent_zip_in_county = 4.2

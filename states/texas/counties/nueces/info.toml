@@ -1,2 +1,110 @@
 name = "Nueces County"
 fips_code = 48355
+
+[[zipcodes]]
+zipcode = 78330
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78335
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78336
+percent_zip_in_county = 0.08
+
+[[zipcodes]]
+zipcode = 78339
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78343
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78351
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78373
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78380
+percent_zip_in_county = 99.71
+
+[[zipcodes]]
+zipcode = 78383
+percent_zip_in_county = 13.03
+
+[[zipcodes]]
+zipcode = 78401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78402
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78404
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78405
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78406
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78407
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78408
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78409
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78410
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78411
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78412
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78413
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78414
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78415
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78416
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78417
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78418
+percent_zip_in_county = 99.98
+
+[[zipcodes]]
+zipcode = 78419
+percent_zip_in_county = 100.0

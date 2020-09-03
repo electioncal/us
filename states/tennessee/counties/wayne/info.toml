@@ -1,2 +1,42 @@
 name = "Wayne County"
 fips_code = 47181
+
+[[zipcodes]]
+zipcode = 37096
+percent_zip_in_county = 0.2
+
+[[zipcodes]]
+zipcode = 38425
+percent_zip_in_county = 91.17
+
+[[zipcodes]]
+zipcode = 38450
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38452
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38463
+percent_zip_in_county = 72.2
+
+[[zipcodes]]
+zipcode = 38464
+percent_zip_in_county = 2.59
+
+[[zipcodes]]
+zipcode = 38471
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38475
+percent_zip_in_county = 8.19
+
+[[zipcodes]]
+zipcode = 38485
+percent_zip_in_county = 99.23
+
+[[zipcodes]]
+zipcode = 38486
+percent_zip_in_county = 10.34

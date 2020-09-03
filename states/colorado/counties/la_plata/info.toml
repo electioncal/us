@@ -1,2 +1,26 @@
 name = "La Plata County"
 fips_code = 8067
+
+[[zipcodes]]
+zipcode = 81122
+percent_zip_in_county = 98.3
+
+[[zipcodes]]
+zipcode = 81137
+percent_zip_in_county = 94.24
+
+[[zipcodes]]
+zipcode = 81301
+percent_zip_in_county = 99.86
+
+[[zipcodes]]
+zipcode = 81303
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81326
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81328
+percent_zip_in_county = 2.9

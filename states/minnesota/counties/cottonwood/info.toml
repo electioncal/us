@@ -1,2 +1,54 @@
 name = "Cottonwood County"
 fips_code = 27033
+
+[[zipcodes]]
+zipcode = 56019
+percent_zip_in_county = 19.37
+
+[[zipcodes]]
+zipcode = 56083
+percent_zip_in_county = 22.08
+
+[[zipcodes]]
+zipcode = 56101
+percent_zip_in_county = 91.43
+
+[[zipcodes]]
+zipcode = 56118
+percent_zip_in_county = 94.06
+
+[[zipcodes]]
+zipcode = 56131
+percent_zip_in_county = 2.14
+
+[[zipcodes]]
+zipcode = 56137
+percent_zip_in_county = 10.7
+
+[[zipcodes]]
+zipcode = 56145
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56152
+percent_zip_in_county = 14.8
+
+[[zipcodes]]
+zipcode = 56159
+percent_zip_in_county = 98.09
+
+[[zipcodes]]
+zipcode = 56166
+percent_zip_in_county = 27.27
+
+[[zipcodes]]
+zipcode = 56174
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56180
+percent_zip_in_county = 6.25
+
+[[zipcodes]]
+zipcode = 56183
+percent_zip_in_county = 91.37

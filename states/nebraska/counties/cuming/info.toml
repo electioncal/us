@@ -1,2 +1,34 @@
 name = "Cuming County"
 fips_code = 31039
+
+[[zipcodes]]
+zipcode = 68004
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68045
+percent_zip_in_county = 6.39
+
+[[zipcodes]]
+zipcode = 68047
+percent_zip_in_county = 10.97
+
+[[zipcodes]]
+zipcode = 68633
+percent_zip_in_county = 14.5
+
+[[zipcodes]]
+zipcode = 68641
+percent_zip_in_county = 9.78
+
+[[zipcodes]]
+zipcode = 68716
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68788
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68791
+percent_zip_in_county = 98.78

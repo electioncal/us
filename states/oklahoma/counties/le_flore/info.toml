@@ -1,2 +1,90 @@
 name = "Le Flore County"
 fips_code = 40079
+
+[[zipcodes]]
+zipcode = 74549
+percent_zip_in_county = 34.21
+
+[[zipcodes]]
+zipcode = 74563
+percent_zip_in_county = 1.47
+
+[[zipcodes]]
+zipcode = 74571
+percent_zip_in_county = 59.58
+
+[[zipcodes]]
+zipcode = 74577
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74901
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74902
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74930
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74932
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74935
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74937
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74939
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74940
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74941
+percent_zip_in_county = 20.27
+
+[[zipcodes]]
+zipcode = 74942
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74944
+percent_zip_in_county = 13.29
+
+[[zipcodes]]
+zipcode = 74949
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74951
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74953
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74956
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74957
+percent_zip_in_county = 45.56
+
+[[zipcodes]]
+zipcode = 74959
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74966
+percent_zip_in_county = 93.33

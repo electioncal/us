@@ -1,2 +1,46 @@
 name = "Blaine County"
 fips_code = 40011
+
+[[zipcodes]]
+zipcode = 73040
+percent_zip_in_county = 73.13
+
+[[zipcodes]]
+zipcode = 73043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73048
+percent_zip_in_county = 23.42
+
+[[zipcodes]]
+zipcode = 73646
+percent_zip_in_county = 60.94
+
+[[zipcodes]]
+zipcode = 73669
+percent_zip_in_county = 1.37
+
+[[zipcodes]]
+zipcode = 73724
+percent_zip_in_county = 83.36
+
+[[zipcodes]]
+zipcode = 73744
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73755
+percent_zip_in_county = 76.13
+
+[[zipcodes]]
+zipcode = 73763
+percent_zip_in_county = 94.82
+
+[[zipcodes]]
+zipcode = 73764
+percent_zip_in_county = 25.69
+
+[[zipcodes]]
+zipcode = 73772
+percent_zip_in_county = 100.0

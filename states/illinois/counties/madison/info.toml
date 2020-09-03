@@ -1,2 +1,130 @@
 name = "Madison County"
 fips_code = 17119
+
+[[zipcodes]]
+zipcode = 62001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62002
+percent_zip_in_county = 99.22
+
+[[zipcodes]]
+zipcode = 62010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62012
+percent_zip_in_county = 4.3
+
+[[zipcodes]]
+zipcode = 62018
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62035
+percent_zip_in_county = 93.82
+
+[[zipcodes]]
+zipcode = 62040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62048
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62058
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62060
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62062
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62074
+percent_zip_in_county = 77.64
+
+[[zipcodes]]
+zipcode = 62084
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62087
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62088
+percent_zip_in_county = 10.07
+
+[[zipcodes]]
+zipcode = 62090
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62095
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62097
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62201
+percent_zip_in_county = 2.09
+
+[[zipcodes]]
+zipcode = 62234
+percent_zip_in_county = 86.81
+
+[[zipcodes]]
+zipcode = 62249
+percent_zip_in_county = 98.53
+
+[[zipcodes]]
+zipcode = 62275
+percent_zip_in_county = 17.98
+
+[[zipcodes]]
+zipcode = 62281
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62293
+percent_zip_in_county = 8.36
+
+[[zipcodes]]
+zipcode = 62294
+percent_zip_in_county = 99.31

@@ -1,2 +1,158 @@
 name = "Lane County"
 fips_code = 41039
+
+[[zipcodes]]
+zipcode = 97324
+percent_zip_in_county = 1.95
+
+[[zipcodes]]
+zipcode = 97390
+percent_zip_in_county = 8.11
+
+[[zipcodes]]
+zipcode = 97401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97402
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97403
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97404
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97405
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97408
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97412
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97413
+percent_zip_in_county = 99.34
+
+[[zipcodes]]
+zipcode = 97419
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97424
+percent_zip_in_county = 98.46
+
+[[zipcodes]]
+zipcode = 97426
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97430
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97431
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97434
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97437
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97438
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97439
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97446
+percent_zip_in_county = 0.39
+
+[[zipcodes]]
+zipcode = 97448
+percent_zip_in_county = 97.88
+
+[[zipcodes]]
+zipcode = 97451
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97452
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97453
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97454
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97455
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97456
+percent_zip_in_county = 6.83
+
+[[zipcodes]]
+zipcode = 97461
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97463
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97477
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97478
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97480
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97487
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97488
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97489
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97490
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97492
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97493
+percent_zip_in_county = 93.5
+
+[[zipcodes]]
+zipcode = 97498
+percent_zip_in_county = 5.46

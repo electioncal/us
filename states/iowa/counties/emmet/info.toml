@@ -1,2 +1,30 @@
 name = "Emmet County"
 fips_code = 19063
+
+[[zipcodes]]
+zipcode = 50514
+percent_zip_in_county = 88.64
+
+[[zipcodes]]
+zipcode = 50531
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50578
+percent_zip_in_county = 97.83
+
+[[zipcodes]]
+zipcode = 51334
+percent_zip_in_county = 98.67
+
+[[zipcodes]]
+zipcode = 51342
+percent_zip_in_county = 8.25
+
+[[zipcodes]]
+zipcode = 51364
+percent_zip_in_county = 3.77
+
+[[zipcodes]]
+zipcode = 51365
+percent_zip_in_county = 100.0

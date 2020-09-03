@@ -1,2 +1,22 @@
 name = "Trousdale County"
 fips_code = 47169
+
+[[zipcodes]]
+zipcode = 37022
+percent_zip_in_county = 10.93
+
+[[zipcodes]]
+zipcode = 37031
+percent_zip_in_county = 22.23
+
+[[zipcodes]]
+zipcode = 37057
+percent_zip_in_county = 24.22
+
+[[zipcodes]]
+zipcode = 37074
+percent_zip_in_county = 86.16
+
+[[zipcodes]]
+zipcode = 37087
+percent_zip_in_county = 0.59

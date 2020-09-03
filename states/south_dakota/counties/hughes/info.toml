@@ -1,2 +1,14 @@
 name = "Hughes County"
 fips_code = 46065
+
+[[zipcodes]]
+zipcode = 57501
+percent_zip_in_county = 98.8
+
+[[zipcodes]]
+zipcode = 57522
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57536
+percent_zip_in_county = 94.88

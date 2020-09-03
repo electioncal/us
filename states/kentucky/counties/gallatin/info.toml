@@ -1,2 +1,26 @@
 name = "Gallatin County"
 fips_code = 21077
+
+[[zipcodes]]
+zipcode = 41045
+percent_zip_in_county = 25.14
+
+[[zipcodes]]
+zipcode = 41046
+percent_zip_in_county = 85.79
+
+[[zipcodes]]
+zipcode = 41083
+percent_zip_in_county = 36.73
+
+[[zipcodes]]
+zipcode = 41086
+percent_zip_in_county = 59.08
+
+[[zipcodes]]
+zipcode = 41092
+percent_zip_in_county = 39.61
+
+[[zipcodes]]
+zipcode = 41095
+percent_zip_in_county = 100.0

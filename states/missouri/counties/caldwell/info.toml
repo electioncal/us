@@ -1,2 +1,38 @@
 name = "Caldwell County"
 fips_code = 29025
+
+[[zipcodes]]
+zipcode = 64429
+percent_zip_in_county = 6.36
+
+[[zipcodes]]
+zipcode = 64465
+percent_zip_in_county = 6.09
+
+[[zipcodes]]
+zipcode = 64624
+percent_zip_in_county = 80.26
+
+[[zipcodes]]
+zipcode = 64625
+percent_zip_in_county = 88.98
+
+[[zipcodes]]
+zipcode = 64637
+percent_zip_in_county = 80.51
+
+[[zipcodes]]
+zipcode = 64644
+percent_zip_in_county = 94.51
+
+[[zipcodes]]
+zipcode = 64649
+percent_zip_in_county = 76.27
+
+[[zipcodes]]
+zipcode = 64650
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64671
+percent_zip_in_county = 79.53

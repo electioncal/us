@@ -1,2 +1,282 @@
 name = "New York County"
 fips_code = 36061
+
+[[zipcodes]]
+zipcode = 10001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10004
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10005
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10006
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10009
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10011
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10012
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10013
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10014
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10016
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10017
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10018
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10019
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10020
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 10021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10026
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10028
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10029
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10031
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10038
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10044
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10065
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10069
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10075
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10110
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 10111
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 10112
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 10115
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 10119
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10128
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10152
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 10153
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 10154
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 10162
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10165
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10167
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 10168
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 10169
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 10170
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10171
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 10172
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 10173
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10174
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 10177
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 10199
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10271
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 10278
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 10279
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 10280
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10282
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 10463
+percent_zip_in_county = 12.45

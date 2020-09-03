@@ -1,2 +1,38 @@
 name = "Cotton County"
 fips_code = 40033
+
+[[zipcodes]]
+zipcode = 73528
+percent_zip_in_county = 6.18
+
+[[zipcodes]]
+zipcode = 73531
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73533
+percent_zip_in_county = 0.11
+
+[[zipcodes]]
+zipcode = 73540
+percent_zip_in_county = 1.14
+
+[[zipcodes]]
+zipcode = 73543
+percent_zip_in_county = 2.69
+
+[[zipcodes]]
+zipcode = 73548
+percent_zip_in_county = 6.55
+
+[[zipcodes]]
+zipcode = 73562
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73568
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73572
+percent_zip_in_county = 99.41

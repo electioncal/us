@@ -1,2 +1,26 @@
 name = "Dundy County"
 fips_code = 31057
+
+[[zipcodes]]
+zipcode = 69021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69030
+percent_zip_in_county = 94.75
+
+[[zipcodes]]
+zipcode = 69037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69045
+percent_zip_in_county = 7.49
+
+[[zipcodes]]
+zipcode = 80758
+percent_zip_in_county = 0.11

@@ -1,2 +1,46 @@
 name = "Pulaski County"
 fips_code = 21199
+
+[[zipcodes]]
+zipcode = 40409
+percent_zip_in_county = 0.96
+
+[[zipcodes]]
+zipcode = 40419
+percent_zip_in_county = 4.35
+
+[[zipcodes]]
+zipcode = 42501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42503
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42518
+percent_zip_in_county = 93.31
+
+[[zipcodes]]
+zipcode = 42519
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42533
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42544
+percent_zip_in_county = 82.1
+
+[[zipcodes]]
+zipcode = 42553
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42567
+percent_zip_in_county = 91.31
+
+[[zipcodes]]
+zipcode = 42642
+percent_zip_in_county = 0.49

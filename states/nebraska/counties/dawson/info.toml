@@ -1,2 +1,46 @@
 name = "Dawson County"
 fips_code = 31047
+
+[[zipcodes]]
+zipcode = 68834
+percent_zip_in_county = 82.74
+
+[[zipcodes]]
+zipcode = 68836
+percent_zip_in_county = 4.09
+
+[[zipcodes]]
+zipcode = 68850
+percent_zip_in_county = 99.41
+
+[[zipcodes]]
+zipcode = 68863
+percent_zip_in_county = 96.0
+
+[[zipcodes]]
+zipcode = 68878
+percent_zip_in_county = 94.84
+
+[[zipcodes]]
+zipcode = 68937
+percent_zip_in_county = 25.44
+
+[[zipcodes]]
+zipcode = 69028
+percent_zip_in_county = 12.72
+
+[[zipcodes]]
+zipcode = 69029
+percent_zip_in_county = 68.35
+
+[[zipcodes]]
+zipcode = 69130
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69138
+percent_zip_in_county = 93.81
+
+[[zipcodes]]
+zipcode = 69171
+percent_zip_in_county = 100.0

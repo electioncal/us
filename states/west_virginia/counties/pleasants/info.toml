@@ -1,2 +1,22 @@
 name = "Pleasants County"
 fips_code = 54073
+
+[[zipcodes]]
+zipcode = 26134
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26146
+percent_zip_in_county = 29.91
+
+[[zipcodes]]
+zipcode = 26170
+percent_zip_in_county = 98.04
+
+[[zipcodes]]
+zipcode = 26184
+percent_zip_in_county = 12.24
+
+[[zipcodes]]
+zipcode = 26346
+percent_zip_in_county = 11.42

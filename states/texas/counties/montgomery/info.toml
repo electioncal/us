@@ -1,2 +1,106 @@
 name = "Montgomery County"
 fips_code = 48339
+
+[[zipcodes]]
+zipcode = 77301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77302
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77303
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77304
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77306
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77316
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77318
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77328
+percent_zip_in_county = 42.02
+
+[[zipcodes]]
+zipcode = 77339
+percent_zip_in_county = 19.94
+
+[[zipcodes]]
+zipcode = 77354
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77355
+percent_zip_in_county = 95.84
+
+[[zipcodes]]
+zipcode = 77356
+percent_zip_in_county = 99.54
+
+[[zipcodes]]
+zipcode = 77357
+percent_zip_in_county = 97.58
+
+[[zipcodes]]
+zipcode = 77358
+percent_zip_in_county = 7.31
+
+[[zipcodes]]
+zipcode = 77362
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77365
+percent_zip_in_county = 99.45
+
+[[zipcodes]]
+zipcode = 77372
+percent_zip_in_county = 76.82
+
+[[zipcodes]]
+zipcode = 77378
+percent_zip_in_county = 91.07
+
+[[zipcodes]]
+zipcode = 77380
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77381
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77382
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77384
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77385
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77386
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77447
+percent_zip_in_county = 10.02
+
+[[zipcodes]]
+zipcode = 77873
+percent_zip_in_county = 27.17

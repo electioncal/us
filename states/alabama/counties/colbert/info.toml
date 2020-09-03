@@ -1,2 +1,38 @@
 name = "Colbert County"
 fips_code = 1033
+
+[[zipcodes]]
+zipcode = 35616
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35646
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35653
+percent_zip_in_county = 2.51
+
+[[zipcodes]]
+zipcode = 35654
+percent_zip_in_county = 13.33
+
+[[zipcodes]]
+zipcode = 35660
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35661
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35672
+percent_zip_in_county = 1.97
+
+[[zipcodes]]
+zipcode = 35674
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38852
+percent_zip_in_county = 0.54

@@ -1,2 +1,42 @@
 name = "Ellis County"
 fips_code = 20051
+
+[[zipcodes]]
+zipcode = 67556
+percent_zip_in_county = 5.31
+
+[[zipcodes]]
+zipcode = 67601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67637
+percent_zip_in_county = 92.57
+
+[[zipcodes]]
+zipcode = 67640
+percent_zip_in_county = 13.47
+
+[[zipcodes]]
+zipcode = 67651
+percent_zip_in_county = 3.55
+
+[[zipcodes]]
+zipcode = 67660
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67663
+percent_zip_in_county = 1.68
+
+[[zipcodes]]
+zipcode = 67667
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67671
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67674
+percent_zip_in_county = 100.0

@@ -1,2 +1,34 @@
 name = "Carter County"
 fips_code = 47019
+
+[[zipcodes]]
+zipcode = 37601
+percent_zip_in_county = 29.01
+
+[[zipcodes]]
+zipcode = 37604
+percent_zip_in_county = 0.81
+
+[[zipcodes]]
+zipcode = 37640
+percent_zip_in_county = 32.01
+
+[[zipcodes]]
+zipcode = 37643
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37658
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37682
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37687
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37694
+percent_zip_in_county = 85.63

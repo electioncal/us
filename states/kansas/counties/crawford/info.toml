@@ -1,2 +1,62 @@
 name = "Crawford County"
 fips_code = 20037
+
+[[zipcodes]]
+zipcode = 66701
+percent_zip_in_county = 0.15
+
+[[zipcodes]]
+zipcode = 66711
+percent_zip_in_county = 97.7
+
+[[zipcodes]]
+zipcode = 66712
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66724
+percent_zip_in_county = 90.99
+
+[[zipcodes]]
+zipcode = 66734
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66735
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66743
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66746
+percent_zip_in_county = 92.34
+
+[[zipcodes]]
+zipcode = 66753
+percent_zip_in_county = 77.07
+
+[[zipcodes]]
+zipcode = 66756
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66760
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66762
+percent_zip_in_county = 98.79
+
+[[zipcodes]]
+zipcode = 66763
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66780
+percent_zip_in_county = 70.8
+
+[[zipcodes]]
+zipcode = 66781
+percent_zip_in_county = 2.67

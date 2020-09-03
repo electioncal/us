@@ -1,2 +1,46 @@
 name = "Beadle County"
 fips_code = 46005
+
+[[zipcodes]]
+zipcode = 57312
+percent_zip_in_county = 29.84
+
+[[zipcodes]]
+zipcode = 57322
+percent_zip_in_county = 60.81
+
+[[zipcodes]]
+zipcode = 57324
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57348
+percent_zip_in_county = 68.88
+
+[[zipcodes]]
+zipcode = 57350
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57353
+percent_zip_in_county = 43.43
+
+[[zipcodes]]
+zipcode = 57379
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57381
+percent_zip_in_county = 55.1
+
+[[zipcodes]]
+zipcode = 57382
+percent_zip_in_county = 1.38
+
+[[zipcodes]]
+zipcode = 57384
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57386
+percent_zip_in_county = 100.0

@@ -1,2 +1,38 @@
 name = "Sioux County"
 fips_code = 38085
+
+[[zipcodes]]
+zipcode = 57638
+percent_zip_in_county = 1.46
+
+[[zipcodes]]
+zipcode = 57641
+percent_zip_in_county = 7.8
+
+[[zipcodes]]
+zipcode = 57642
+percent_zip_in_county = 1.88
+
+[[zipcodes]]
+zipcode = 57645
+percent_zip_in_county = 23.5
+
+[[zipcodes]]
+zipcode = 57660
+percent_zip_in_county = 13.13
+
+[[zipcodes]]
+zipcode = 58528
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58538
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58568
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58570
+percent_zip_in_county = 45.34

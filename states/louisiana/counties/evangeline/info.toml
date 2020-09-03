@@ -1,2 +1,46 @@
 name = "Evangeline Parish"
 fips_code = 22039
+
+[[zipcodes]]
+zipcode = 70515
+percent_zip_in_county = 74.54
+
+[[zipcodes]]
+zipcode = 70524
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70535
+percent_zip_in_county = 6.29
+
+[[zipcodes]]
+zipcode = 70554
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70576
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70580
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70585
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70586
+percent_zip_in_county = 99.35
+
+[[zipcodes]]
+zipcode = 71325
+percent_zip_in_county = 20.06
+
+[[zipcodes]]
+zipcode = 71367
+percent_zip_in_county = 98.2
+
+[[zipcodes]]
+zipcode = 71463
+percent_zip_in_county = 4.08

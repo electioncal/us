@@ -1,2 +1,82 @@
 name = "Todd County"
 fips_code = 27153
+
+[[zipcodes]]
+zipcode = 56318
+percent_zip_in_county = 63.33
+
+[[zipcodes]]
+zipcode = 56319
+percent_zip_in_county = 3.71
+
+[[zipcodes]]
+zipcode = 56331
+percent_zip_in_county = 0.5
+
+[[zipcodes]]
+zipcode = 56336
+percent_zip_in_county = 94.91
+
+[[zipcodes]]
+zipcode = 56347
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56360
+percent_zip_in_county = 38.91
+
+[[zipcodes]]
+zipcode = 56378
+percent_zip_in_county = 17.91
+
+[[zipcodes]]
+zipcode = 56382
+percent_zip_in_county = 24.03
+
+[[zipcodes]]
+zipcode = 56389
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56434
+percent_zip_in_county = 69.36
+
+[[zipcodes]]
+zipcode = 56437
+percent_zip_in_county = 93.41
+
+[[zipcodes]]
+zipcode = 56438
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56440
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56443
+percent_zip_in_county = 24.56
+
+[[zipcodes]]
+zipcode = 56446
+percent_zip_in_county = 89.42
+
+[[zipcodes]]
+zipcode = 56453
+percent_zip_in_county = 63.61
+
+[[zipcodes]]
+zipcode = 56466
+percent_zip_in_county = 11.01
+
+[[zipcodes]]
+zipcode = 56479
+percent_zip_in_county = 61.79
+
+[[zipcodes]]
+zipcode = 56481
+percent_zip_in_county = 15.26
+
+[[zipcodes]]
+zipcode = 56482
+percent_zip_in_county = 0.53

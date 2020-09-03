@@ -1,2 +1,62 @@
 name = "Eau Claire County"
 fips_code = 55035
+
+[[zipcodes]]
+zipcode = 54701
+percent_zip_in_county = 99.66
+
+[[zipcodes]]
+zipcode = 54703
+percent_zip_in_county = 92.56
+
+[[zipcodes]]
+zipcode = 54720
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54722
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54726
+percent_zip_in_county = 13.2
+
+[[zipcodes]]
+zipcode = 54727
+percent_zip_in_county = 3.68
+
+[[zipcodes]]
+zipcode = 54729
+percent_zip_in_county = 0.67
+
+[[zipcodes]]
+zipcode = 54738
+percent_zip_in_county = 57.32
+
+[[zipcodes]]
+zipcode = 54739
+percent_zip_in_county = 0.59
+
+[[zipcodes]]
+zipcode = 54741
+percent_zip_in_county = 67.47
+
+[[zipcodes]]
+zipcode = 54742
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54755
+percent_zip_in_county = 9.85
+
+[[zipcodes]]
+zipcode = 54758
+percent_zip_in_county = 14.38
+
+[[zipcodes]]
+zipcode = 54768
+percent_zip_in_county = 3.49
+
+[[zipcodes]]
+zipcode = 54770
+percent_zip_in_county = 14.23

@@ -1,2 +1,22 @@
 name = "Fleming County"
 fips_code = 21069
+
+[[zipcodes]]
+zipcode = 41039
+percent_zip_in_county = 97.24
+
+[[zipcodes]]
+zipcode = 41041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41049
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41055
+percent_zip_in_county = 4.69
+
+[[zipcodes]]
+zipcode = 41093
+percent_zip_in_county = 84.21

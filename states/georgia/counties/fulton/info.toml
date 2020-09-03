@@ -1,2 +1,186 @@
 name = "Fulton County"
 fips_code = 13121
+
+[[zipcodes]]
+zipcode = 30004
+percent_zip_in_county = 79.04
+
+[[zipcodes]]
+zipcode = 30005
+percent_zip_in_county = 87.08
+
+[[zipcodes]]
+zipcode = 30009
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30024
+percent_zip_in_county = 3.81
+
+[[zipcodes]]
+zipcode = 30075
+percent_zip_in_county = 77.7
+
+[[zipcodes]]
+zipcode = 30076
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30092
+percent_zip_in_county = 1.02
+
+[[zipcodes]]
+zipcode = 30097
+percent_zip_in_county = 47.54
+
+[[zipcodes]]
+zipcode = 30213
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30268
+percent_zip_in_county = 75.16
+
+[[zipcodes]]
+zipcode = 30291
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30296
+percent_zip_in_county = 16.66
+
+[[zipcodes]]
+zipcode = 30303
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30305
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30306
+percent_zip_in_county = 63.65
+
+[[zipcodes]]
+zipcode = 30307
+percent_zip_in_county = 27.68
+
+[[zipcodes]]
+zipcode = 30308
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30309
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30310
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30311
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30312
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30313
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30314
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30315
+percent_zip_in_county = 99.97
+
+[[zipcodes]]
+zipcode = 30316
+percent_zip_in_county = 23.84
+
+[[zipcodes]]
+zipcode = 30317
+percent_zip_in_county = 0.24
+
+[[zipcodes]]
+zipcode = 30318
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30319
+percent_zip_in_county = 15.79
+
+[[zipcodes]]
+zipcode = 30324
+percent_zip_in_county = 82.02
+
+[[zipcodes]]
+zipcode = 30326
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30327
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30328
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30331
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30332
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30334
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30336
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30337
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30338
+percent_zip_in_county = 0.75
+
+[[zipcodes]]
+zipcode = 30339
+percent_zip_in_county = 1.39
+
+[[zipcodes]]
+zipcode = 30342
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30344
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30349
+percent_zip_in_county = 73.0
+
+[[zipcodes]]
+zipcode = 30350
+percent_zip_in_county = 99.71
+
+[[zipcodes]]
+zipcode = 30354
+percent_zip_in_county = 99.91
+
+[[zipcodes]]
+zipcode = 30363
+percent_zip_in_county = 100.0

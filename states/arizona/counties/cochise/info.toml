@@ -1,2 +1,94 @@
 name = "Cochise County"
 fips_code = 4003
+
+[[zipcodes]]
+zipcode = 85602
+percent_zip_in_county = 90.16
+
+[[zipcodes]]
+zipcode = 85603
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85605
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85606
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85607
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85608
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85609
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85610
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85611
+percent_zip_in_county = 2.07
+
+[[zipcodes]]
+zipcode = 85613
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85615
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85616
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85617
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85620
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85625
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85626
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85627
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85630
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85632
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85635
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85638
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85643
+percent_zip_in_county = 87.08
+
+[[zipcodes]]
+zipcode = 85650
+percent_zip_in_county = 100.0

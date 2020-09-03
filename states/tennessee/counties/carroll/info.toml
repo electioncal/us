@@ -1,2 +1,58 @@
 name = "Carroll County"
 fips_code = 47017
+
+[[zipcodes]]
+zipcode = 38201
+percent_zip_in_county = 78.27
+
+[[zipcodes]]
+zipcode = 38220
+percent_zip_in_county = 92.05
+
+[[zipcodes]]
+zipcode = 38235
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38258
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38305
+percent_zip_in_county = 0.3
+
+[[zipcodes]]
+zipcode = 38317
+percent_zip_in_county = 97.4
+
+[[zipcodes]]
+zipcode = 38318
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38321
+percent_zip_in_county = 63.31
+
+[[zipcodes]]
+zipcode = 38341
+percent_zip_in_county = 0.84
+
+[[zipcodes]]
+zipcode = 38342
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38344
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38348
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38387
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38390
+percent_zip_in_county = 87.1

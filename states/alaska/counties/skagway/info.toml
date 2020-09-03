@@ -1,2 +1,6 @@
 name = "Skagway Municipality"
 fips_code = 2230
+
+[[zipcodes]]
+zipcode = 99840
+percent_zip_in_county = 100.0

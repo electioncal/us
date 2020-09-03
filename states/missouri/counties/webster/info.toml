@@ -1,2 +1,38 @@
 name = "Webster County"
 fips_code = 29225
+
+[[zipcodes]]
+zipcode = 65632
+percent_zip_in_county = 23.41
+
+[[zipcodes]]
+zipcode = 65644
+percent_zip_in_county = 38.78
+
+[[zipcodes]]
+zipcode = 65648
+percent_zip_in_county = 5.75
+
+[[zipcodes]]
+zipcode = 65652
+percent_zip_in_county = 91.53
+
+[[zipcodes]]
+zipcode = 65706
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65713
+percent_zip_in_county = 90.58
+
+[[zipcodes]]
+zipcode = 65742
+percent_zip_in_county = 42.44
+
+[[zipcodes]]
+zipcode = 65746
+percent_zip_in_county = 91.98
+
+[[zipcodes]]
+zipcode = 65757
+percent_zip_in_county = 21.94

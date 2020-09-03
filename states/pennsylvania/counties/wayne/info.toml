@@ -1,2 +1,122 @@
 name = "Wayne County"
 fips_code = 42127
+
+[[zipcodes]]
+zipcode = 18405
+percent_zip_in_county = 91.76
+
+[[zipcodes]]
+zipcode = 18415
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18417
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18421
+percent_zip_in_county = 21.9
+
+[[zipcodes]]
+zipcode = 18424
+percent_zip_in_county = 32.91
+
+[[zipcodes]]
+zipcode = 18427
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18428
+percent_zip_in_county = 35.54
+
+[[zipcodes]]
+zipcode = 18431
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18436
+percent_zip_in_county = 75.44
+
+[[zipcodes]]
+zipcode = 18437
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18438
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18439
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18443
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18444
+percent_zip_in_county = 12.34
+
+[[zipcodes]]
+zipcode = 18445
+percent_zip_in_county = 79.48
+
+[[zipcodes]]
+zipcode = 18453
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18454
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18455
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18456
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18459
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18460
+percent_zip_in_county = 80.98
+
+[[zipcodes]]
+zipcode = 18461
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18462
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18463
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18465
+percent_zip_in_county = 7.31
+
+[[zipcodes]]
+zipcode = 18469
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18470
+percent_zip_in_county = 6.47
+
+[[zipcodes]]
+zipcode = 18472
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18473
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18847
+percent_zip_in_county = 4.66

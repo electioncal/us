@@ -1,2 +1,66 @@
 name = "Marion County"
 fips_code = 19125
+
+[[zipcodes]]
+zipcode = 50044
+percent_zip_in_county = 81.29
+
+[[zipcodes]]
+zipcode = 50057
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50062
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50116
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50119
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50138
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50139
+percent_zip_in_county = 19.33
+
+[[zipcodes]]
+zipcode = 50163
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50170
+percent_zip_in_county = 10.16
+
+[[zipcodes]]
+zipcode = 50214
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50219
+percent_zip_in_county = 94.67
+
+[[zipcodes]]
+zipcode = 50225
+percent_zip_in_county = 93.47
+
+[[zipcodes]]
+zipcode = 50228
+percent_zip_in_county = 0.62
+
+[[zipcodes]]
+zipcode = 50237
+percent_zip_in_county = 6.4
+
+[[zipcodes]]
+zipcode = 50252
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50256
+percent_zip_in_county = 91.02

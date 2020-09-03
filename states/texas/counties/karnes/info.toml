@@ -1,2 +1,34 @@
 name = "Karnes County"
 fips_code = 48255
+
+[[zipcodes]]
+zipcode = 78113
+percent_zip_in_county = 49.08
+
+[[zipcodes]]
+zipcode = 78116
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78117
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78118
+percent_zip_in_county = 99.77
+
+[[zipcodes]]
+zipcode = 78119
+percent_zip_in_county = 95.44
+
+[[zipcodes]]
+zipcode = 78141
+percent_zip_in_county = 0.84
+
+[[zipcodes]]
+zipcode = 78144
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78151
+percent_zip_in_county = 100.0

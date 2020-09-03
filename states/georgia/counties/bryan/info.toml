@@ -1,2 +1,14 @@
 name = "Bryan County"
 fips_code = 13029
+
+[[zipcodes]]
+zipcode = 31308
+percent_zip_in_county = 77.41
+
+[[zipcodes]]
+zipcode = 31321
+percent_zip_in_county = 64.54
+
+[[zipcodes]]
+zipcode = 31324
+percent_zip_in_county = 100.0

@@ -1,2 +1,30 @@
 name = "Sioux County"
 fips_code = 31165
+
+[[zipcodes]]
+zipcode = 69339
+percent_zip_in_county = 4.58
+
+[[zipcodes]]
+zipcode = 69346
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69348
+percent_zip_in_county = 4.26
+
+[[zipcodes]]
+zipcode = 69354
+percent_zip_in_county = 37.11
+
+[[zipcodes]]
+zipcode = 69357
+percent_zip_in_county = 5.44
+
+[[zipcodes]]
+zipcode = 69358
+percent_zip_in_county = 17.04
+
+[[zipcodes]]
+zipcode = 69361
+percent_zip_in_county = 0.18

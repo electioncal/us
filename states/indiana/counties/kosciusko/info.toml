@@ -1,2 +1,82 @@
 name = "Kosciusko County"
 fips_code = 18085
+
+[[zipcodes]]
+zipcode = 46502
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46504
+percent_zip_in_county = 0.82
+
+[[zipcodes]]
+zipcode = 46508
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46510
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46524
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46538
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46539
+percent_zip_in_county = 96.04
+
+[[zipcodes]]
+zipcode = 46542
+percent_zip_in_county = 95.28
+
+[[zipcodes]]
+zipcode = 46550
+percent_zip_in_county = 20.26
+
+[[zipcodes]]
+zipcode = 46555
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46562
+percent_zip_in_county = 91.83
+
+[[zipcodes]]
+zipcode = 46567
+percent_zip_in_county = 87.18
+
+[[zipcodes]]
+zipcode = 46580
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46582
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46590
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46732
+percent_zip_in_county = 39.44
+
+[[zipcodes]]
+zipcode = 46787
+percent_zip_in_county = 4.29
+
+[[zipcodes]]
+zipcode = 46910
+percent_zip_in_county = 14.2
+
+[[zipcodes]]
+zipcode = 46962
+percent_zip_in_county = 3.9
+
+[[zipcodes]]
+zipcode = 46982
+percent_zip_in_county = 83.37

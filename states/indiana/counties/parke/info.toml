@@ -1,2 +1,54 @@
 name = "Parke County"
 fips_code = 18121
+
+[[zipcodes]]
+zipcode = 46135
+percent_zip_in_county = 0.29
+
+[[zipcodes]]
+zipcode = 46175
+percent_zip_in_county = 2.68
+
+[[zipcodes]]
+zipcode = 47832
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47834
+percent_zip_in_county = 1.97
+
+[[zipcodes]]
+zipcode = 47836
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47837
+percent_zip_in_county = 40.29
+
+[[zipcodes]]
+zipcode = 47859
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47860
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47862
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47872
+percent_zip_in_county = 99.84
+
+[[zipcodes]]
+zipcode = 47874
+percent_zip_in_county = 71.94
+
+[[zipcodes]]
+zipcode = 47952
+percent_zip_in_county = 24.62
+
+[[zipcodes]]
+zipcode = 47989
+percent_zip_in_county = 22.17

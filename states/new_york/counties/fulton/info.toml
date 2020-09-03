@@ -1,2 +1,58 @@
 name = "Fulton County"
 fips_code = 36035
+
+[[zipcodes]]
+zipcode = 12010
+percent_zip_in_county = 13.14
+
+[[zipcodes]]
+zipcode = 12025
+percent_zip_in_county = 90.17
+
+[[zipcodes]]
+zipcode = 12032
+percent_zip_in_county = 98.92
+
+[[zipcodes]]
+zipcode = 12068
+percent_zip_in_county = 0.97
+
+[[zipcodes]]
+zipcode = 12070
+percent_zip_in_county = 28.58
+
+[[zipcodes]]
+zipcode = 12078
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12086
+percent_zip_in_county = 11.37
+
+[[zipcodes]]
+zipcode = 12095
+percent_zip_in_county = 97.3
+
+[[zipcodes]]
+zipcode = 12117
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12134
+percent_zip_in_county = 54.86
+
+[[zipcodes]]
+zipcode = 13329
+percent_zip_in_county = 26.28
+
+[[zipcodes]]
+zipcode = 13339
+percent_zip_in_county = 6.67
+
+[[zipcodes]]
+zipcode = 13452
+percent_zip_in_county = 42.82
+
+[[zipcodes]]
+zipcode = 13470
+percent_zip_in_county = 82.9

@@ -1,2 +1,74 @@
 name = "McLean County"
 fips_code = 38055
+
+[[zipcodes]]
+zipcode = 58531
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58540
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58559
+percent_zip_in_county = 96.79
+
+[[zipcodes]]
+zipcode = 58565
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58575
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58576
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58577
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58579
+percent_zip_in_county = 58.91
+
+[[zipcodes]]
+zipcode = 58716
+percent_zip_in_county = 87.07
+
+[[zipcodes]]
+zipcode = 58723
+percent_zip_in_county = 60.59
+
+[[zipcodes]]
+zipcode = 58735
+percent_zip_in_county = 29.3
+
+[[zipcodes]]
+zipcode = 58759
+percent_zip_in_county = 62.48
+
+[[zipcodes]]
+zipcode = 58763
+percent_zip_in_county = 0.17
+
+[[zipcodes]]
+zipcode = 58770
+percent_zip_in_county = 6.61
+
+[[zipcodes]]
+zipcode = 58771
+percent_zip_in_county = 1.32
+
+[[zipcodes]]
+zipcode = 58775
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58778
+percent_zip_in_county = 93.98
+
+[[zipcodes]]
+zipcode = 58779
+percent_zip_in_county = 42.51

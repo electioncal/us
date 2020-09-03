@@ -1,2 +1,26 @@
 name = "Scott County"
 fips_code = 21209
+
+[[zipcodes]]
+zipcode = 40324
+percent_zip_in_county = 99.6
+
+[[zipcodes]]
+zipcode = 40347
+percent_zip_in_county = 13.91
+
+[[zipcodes]]
+zipcode = 40370
+percent_zip_in_county = 74.88
+
+[[zipcodes]]
+zipcode = 40379
+percent_zip_in_county = 94.04
+
+[[zipcodes]]
+zipcode = 40511
+percent_zip_in_county = 1.08
+
+[[zipcodes]]
+zipcode = 41010
+percent_zip_in_county = 3.36

@@ -1,2 +1,38 @@
 name = "Carroll County"
 fips_code = 17015
+
+[[zipcodes]]
+zipcode = 61014
+percent_zip_in_county = 88.06
+
+[[zipcodes]]
+zipcode = 61046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61051
+percent_zip_in_county = 97.9
+
+[[zipcodes]]
+zipcode = 61053
+percent_zip_in_county = 96.74
+
+[[zipcodes]]
+zipcode = 61062
+percent_zip_in_county = 0.1
+
+[[zipcodes]]
+zipcode = 61074
+percent_zip_in_county = 99.41
+
+[[zipcodes]]
+zipcode = 61078
+percent_zip_in_county = 85.59
+
+[[zipcodes]]
+zipcode = 61252
+percent_zip_in_county = 0.17
+
+[[zipcodes]]
+zipcode = 61285
+percent_zip_in_county = 100.0

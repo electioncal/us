@@ -1,2 +1,46 @@
 name = "St. Francis County"
 fips_code = 5123
+
+[[zipcodes]]
+zipcode = 72322
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72326
+percent_zip_in_county = 93.69
+
+[[zipcodes]]
+zipcode = 72335
+percent_zip_in_county = 99.96
+
+[[zipcodes]]
+zipcode = 72340
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72346
+percent_zip_in_county = 98.85
+
+[[zipcodes]]
+zipcode = 72348
+percent_zip_in_county = 70.43
+
+[[zipcodes]]
+zipcode = 72359
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72372
+percent_zip_in_county = 88.02
+
+[[zipcodes]]
+zipcode = 72392
+percent_zip_in_county = 83.37
+
+[[zipcodes]]
+zipcode = 72394
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72396
+percent_zip_in_county = 0.38

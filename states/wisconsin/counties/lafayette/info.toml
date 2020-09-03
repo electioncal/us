@@ -1,2 +1,58 @@
 name = "Lafayette County"
 fips_code = 55065
+
+[[zipcodes]]
+zipcode = 53504
+percent_zip_in_county = 72.84
+
+[[zipcodes]]
+zipcode = 53510
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53516
+percent_zip_in_county = 51.53
+
+[[zipcodes]]
+zipcode = 53522
+percent_zip_in_county = 6.73
+
+[[zipcodes]]
+zipcode = 53530
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53541
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53565
+percent_zip_in_county = 12.32
+
+[[zipcodes]]
+zipcode = 53586
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53587
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53599
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53803
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53807
+percent_zip_in_county = 18.71
+
+[[zipcodes]]
+zipcode = 53811
+percent_zip_in_county = 3.29
+
+[[zipcodes]]
+zipcode = 53818
+percent_zip_in_county = 4.47

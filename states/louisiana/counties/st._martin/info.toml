@@ -1,2 +1,38 @@
 name = "St. Martin Parish"
 fips_code = 22099
+
+[[zipcodes]]
+zipcode = 70339
+percent_zip_in_county = 6.8
+
+[[zipcodes]]
+zipcode = 70380
+percent_zip_in_county = 4.49
+
+[[zipcodes]]
+zipcode = 70392
+percent_zip_in_county = 0.04
+
+[[zipcodes]]
+zipcode = 70512
+percent_zip_in_county = 40.19
+
+[[zipcodes]]
+zipcode = 70517
+percent_zip_in_county = 97.77
+
+[[zipcodes]]
+zipcode = 70518
+percent_zip_in_county = 12.34
+
+[[zipcodes]]
+zipcode = 70519
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70582
+percent_zip_in_county = 96.7
+
+[[zipcodes]]
+zipcode = 70757
+percent_zip_in_county = 0.25

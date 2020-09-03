@@ -1,2 +1,22 @@
 name = "Heard County"
 fips_code = 13149
+
+[[zipcodes]]
+zipcode = 30108
+percent_zip_in_county = 2.73
+
+[[zipcodes]]
+zipcode = 30170
+percent_zip_in_county = 39.01
+
+[[zipcodes]]
+zipcode = 30217
+percent_zip_in_county = 98.99
+
+[[zipcodes]]
+zipcode = 30230
+percent_zip_in_county = 11.89
+
+[[zipcodes]]
+zipcode = 30263
+percent_zip_in_county = 0.09

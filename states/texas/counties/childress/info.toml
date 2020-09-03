@@ -1,2 +1,14 @@
 name = "Childress County"
 fips_code = 48075
+
+[[zipcodes]]
+zipcode = 79201
+percent_zip_in_county = 99.18
+
+[[zipcodes]]
+zipcode = 79230
+percent_zip_in_county = 17.09
+
+[[zipcodes]]
+zipcode = 79259
+percent_zip_in_county = 66.67

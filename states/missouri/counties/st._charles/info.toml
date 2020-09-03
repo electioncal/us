@@ -1,2 +1,58 @@
 name = "St. Charles County"
 fips_code = 29183
+
+[[zipcodes]]
+zipcode = 63301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63303
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63304
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63332
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63341
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63348
+percent_zip_in_county = 65.69
+
+[[zipcodes]]
+zipcode = 63357
+percent_zip_in_county = 5.64
+
+[[zipcodes]]
+zipcode = 63366
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63367
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63368
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63373
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63376
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63385
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63386
+percent_zip_in_county = 100.0

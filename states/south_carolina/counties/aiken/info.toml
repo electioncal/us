@@ -1,2 +1,94 @@
 name = "Aiken County"
 fips_code = 45003
+
+[[zipcodes]]
+zipcode = 29006
+percent_zip_in_county = 18.93
+
+[[zipcodes]]
+zipcode = 29105
+percent_zip_in_county = 79.39
+
+[[zipcodes]]
+zipcode = 29129
+percent_zip_in_county = 52.05
+
+[[zipcodes]]
+zipcode = 29137
+percent_zip_in_county = 90.0
+
+[[zipcodes]]
+zipcode = 29146
+percent_zip_in_county = 25.64
+
+[[zipcodes]]
+zipcode = 29164
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29803
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29805
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29809
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29816
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29828
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29829
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29831
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29834
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29841
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29842
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29847
+percent_zip_in_county = 19.74
+
+[[zipcodes]]
+zipcode = 29850
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29851
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29853
+percent_zip_in_county = 17.52
+
+[[zipcodes]]
+zipcode = 29856
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29860
+percent_zip_in_county = 45.02

@@ -1,2 +1,42 @@
 name = "Sumter County"
 fips_code = 1119
+
+[[zipcodes]]
+zipcode = 35442
+percent_zip_in_county = 3.78
+
+[[zipcodes]]
+zipcode = 35459
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35460
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35464
+percent_zip_in_county = 79.51
+
+[[zipcodes]]
+zipcode = 35470
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35477
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36901
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36907
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36922
+percent_zip_in_county = 26.22
+
+[[zipcodes]]
+zipcode = 36925
+percent_zip_in_county = 100.0

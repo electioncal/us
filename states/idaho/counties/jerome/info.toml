@@ -1,2 +1,22 @@
 name = "Jerome County"
 fips_code = 16053
+
+[[zipcodes]]
+zipcode = 83301
+percent_zip_in_county = 0.06
+
+[[zipcodes]]
+zipcode = 83325
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83335
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83338
+percent_zip_in_county = 98.21
+
+[[zipcodes]]
+zipcode = 83347
+percent_zip_in_county = 4.82

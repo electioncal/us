@@ -1,2 +1,98 @@
 name = "Bradford County"
 fips_code = 42015
+
+[[zipcodes]]
+zipcode = 16914
+percent_zip_in_county = 95.99
+
+[[zipcodes]]
+zipcode = 16925
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16926
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16936
+percent_zip_in_county = 9.31
+
+[[zipcodes]]
+zipcode = 16947
+percent_zip_in_county = 95.5
+
+[[zipcodes]]
+zipcode = 17724
+percent_zip_in_county = 93.62
+
+[[zipcodes]]
+zipcode = 18623
+percent_zip_in_county = 32.2
+
+[[zipcodes]]
+zipcode = 18810
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18814
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18817
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18829
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18830
+percent_zip_in_county = 3.4
+
+[[zipcodes]]
+zipcode = 18831
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18832
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18833
+percent_zip_in_county = 95.67
+
+[[zipcodes]]
+zipcode = 18837
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18840
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18845
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18846
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18848
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18850
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18851
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18853
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18854
+percent_zip_in_county = 100.0

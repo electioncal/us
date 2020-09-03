@@ -1,2 +1,94 @@
 name = "Sussex County"
 fips_code = 10005
+
+[[zipcodes]]
+zipcode = 19930
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19931
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19933
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19939
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19940
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19941
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19944
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19945
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19947
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19950
+percent_zip_in_county = 79.05
+
+[[zipcodes]]
+zipcode = 19951
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19952
+percent_zip_in_county = 0.93
+
+[[zipcodes]]
+zipcode = 19956
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19958
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19960
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19963
+percent_zip_in_county = 59.13
+
+[[zipcodes]]
+zipcode = 19966
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19967
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19968
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19970
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19971
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19973
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19975
+percent_zip_in_county = 100.0

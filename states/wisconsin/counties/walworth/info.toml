@@ -1,2 +1,62 @@
 name = "Walworth County"
 fips_code = 55127
+
+[[zipcodes]]
+zipcode = 53105
+percent_zip_in_county = 17.83
+
+[[zipcodes]]
+zipcode = 53114
+percent_zip_in_county = 92.72
+
+[[zipcodes]]
+zipcode = 53115
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53119
+percent_zip_in_county = 6.44
+
+[[zipcodes]]
+zipcode = 53120
+percent_zip_in_county = 96.45
+
+[[zipcodes]]
+zipcode = 53121
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53125
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53128
+percent_zip_in_county = 87.35
+
+[[zipcodes]]
+zipcode = 53147
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53149
+percent_zip_in_county = 3.59
+
+[[zipcodes]]
+zipcode = 53184
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53190
+percent_zip_in_county = 71.54
+
+[[zipcodes]]
+zipcode = 53191
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53195
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53585
+percent_zip_in_county = 99.01

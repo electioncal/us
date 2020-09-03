@@ -1,2 +1,94 @@
 name = "St. Clair County"
 fips_code = 26147
+
+[[zipcodes]]
+zipcode = 48001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48006
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48014
+percent_zip_in_county = 98.83
+
+[[zipcodes]]
+zipcode = 48022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48028
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48032
+percent_zip_in_county = 81.44
+
+[[zipcodes]]
+zipcode = 48039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48041
+percent_zip_in_county = 81.41
+
+[[zipcodes]]
+zipcode = 48049
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48054
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48059
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48060
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48063
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48064
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48074
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48079
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48097
+percent_zip_in_county = 88.93
+
+[[zipcodes]]
+zipcode = 48416
+percent_zip_in_county = 4.86
+
+[[zipcodes]]
+zipcode = 48444
+percent_zip_in_county = 0.78

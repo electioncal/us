@@ -1,2 +1,22 @@
 name = "Owsley County"
 fips_code = 21189
+
+[[zipcodes]]
+zipcode = 40447
+percent_zip_in_county = 0.36
+
+[[zipcodes]]
+zipcode = 40486
+percent_zip_in_county = 1.03
+
+[[zipcodes]]
+zipcode = 40983
+percent_zip_in_county = 28.69
+
+[[zipcodes]]
+zipcode = 41314
+percent_zip_in_county = 87.34
+
+[[zipcodes]]
+zipcode = 41721
+percent_zip_in_county = 3.17

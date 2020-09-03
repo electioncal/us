@@ -1,2 +1,58 @@
 name = "Van Wert County"
 fips_code = 39161
+
+[[zipcodes]]
+zipcode = 45832
+percent_zip_in_county = 99.48
+
+[[zipcodes]]
+zipcode = 45833
+percent_zip_in_county = 41.0
+
+[[zipcodes]]
+zipcode = 45838
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45844
+percent_zip_in_county = 0.86
+
+[[zipcodes]]
+zipcode = 45849
+percent_zip_in_county = 13.37
+
+[[zipcodes]]
+zipcode = 45863
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45874
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45882
+percent_zip_in_county = 2.76
+
+[[zipcodes]]
+zipcode = 45886
+percent_zip_in_county = 52.45
+
+[[zipcodes]]
+zipcode = 45887
+percent_zip_in_county = 7.42
+
+[[zipcodes]]
+zipcode = 45891
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45894
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45898
+percent_zip_in_county = 82.65
+
+[[zipcodes]]
+zipcode = 45899
+percent_zip_in_county = 100.0

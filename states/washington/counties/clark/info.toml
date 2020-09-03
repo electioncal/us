@@ -1,2 +1,82 @@
 name = "Clark County"
 fips_code = 53011
+
+[[zipcodes]]
+zipcode = 98601
+percent_zip_in_county = 95.61
+
+[[zipcodes]]
+zipcode = 98604
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98606
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98607
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98629
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98642
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98660
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98661
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98662
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98663
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98664
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98665
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98671
+percent_zip_in_county = 87.26
+
+[[zipcodes]]
+zipcode = 98674
+percent_zip_in_county = 21.48
+
+[[zipcodes]]
+zipcode = 98675
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98682
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98683
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98684
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98685
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98686
+percent_zip_in_county = 100.0

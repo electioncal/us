@@ -1,2 +1,42 @@
 name = "Washington County"
 fips_code = 51191
+
+[[zipcodes]]
+zipcode = 24202
+percent_zip_in_county = 90.99
+
+[[zipcodes]]
+zipcode = 24210
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24211
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24236
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24258
+percent_zip_in_county = 2.4
+
+[[zipcodes]]
+zipcode = 24270
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24319
+percent_zip_in_county = 9.59
+
+[[zipcodes]]
+zipcode = 24340
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24361
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24370
+percent_zip_in_county = 13.83

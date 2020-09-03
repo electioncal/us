@@ -1,2 +1,54 @@
 name = "Carbon County"
 fips_code = 30009
+
+[[zipcodes]]
+zipcode = 59001
+percent_zip_in_county = 3.47
+
+[[zipcodes]]
+zipcode = 59007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59008
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59013
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59014
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59019
+percent_zip_in_county = 0.23
+
+[[zipcodes]]
+zipcode = 59026
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59029
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59041
+percent_zip_in_county = 97.44
+
+[[zipcodes]]
+zipcode = 59044
+percent_zip_in_county = 3.24
+
+[[zipcodes]]
+zipcode = 59068
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59071
+percent_zip_in_county = 100.0

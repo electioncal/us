@@ -1,2 +1,78 @@
 name = "Marshall County"
 fips_code = 19127
+
+[[zipcodes]]
+zipcode = 50005
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50078
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50106
+percent_zip_in_county = 82.58
+
+[[zipcodes]]
+zipcode = 50120
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50141
+percent_zip_in_county = 82.25
+
+[[zipcodes]]
+zipcode = 50142
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50148
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50158
+percent_zip_in_county = 99.87
+
+[[zipcodes]]
+zipcode = 50162
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50206
+percent_zip_in_county = 6.65
+
+[[zipcodes]]
+zipcode = 50234
+percent_zip_in_county = 91.03
+
+[[zipcodes]]
+zipcode = 50239
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50247
+percent_zip_in_county = 98.49
+
+[[zipcodes]]
+zipcode = 50258
+percent_zip_in_county = 12.38
+
+[[zipcodes]]
+zipcode = 50609
+percent_zip_in_county = 23.09
+
+[[zipcodes]]
+zipcode = 50621
+percent_zip_in_county = 4.44
+
+[[zipcodes]]
+zipcode = 50632
+percent_zip_in_county = 11.11
+
+[[zipcodes]]
+zipcode = 50635
+percent_zip_in_county = 1.06

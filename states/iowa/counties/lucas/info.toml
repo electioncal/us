@@ -1,2 +1,30 @@
 name = "Lucas County"
 fips_code = 19117
+
+[[zipcodes]]
+zipcode = 50049
+percent_zip_in_county = 99.8
+
+[[zipcodes]]
+zipcode = 50068
+percent_zip_in_county = 90.71
+
+[[zipcodes]]
+zipcode = 50123
+percent_zip_in_county = 6.72
+
+[[zipcodes]]
+zipcode = 50139
+percent_zip_in_county = 10.79
+
+[[zipcodes]]
+zipcode = 50151
+percent_zip_in_county = 93.23
+
+[[zipcodes]]
+zipcode = 50238
+percent_zip_in_county = 90.1
+
+[[zipcodes]]
+zipcode = 50272
+percent_zip_in_county = 100.0

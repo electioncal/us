@@ -1,2 +1,26 @@
 name = "McPherson County"
 fips_code = 46089
+
+[[zipcodes]]
+zipcode = 57437
+percent_zip_in_county = 90.28
+
+[[zipcodes]]
+zipcode = 57448
+percent_zip_in_county = 19.54
+
+[[zipcodes]]
+zipcode = 57456
+percent_zip_in_county = 89.79
+
+[[zipcodes]]
+zipcode = 57457
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57481
+percent_zip_in_county = 34.11
+
+[[zipcodes]]
+zipcode = 58439
+percent_zip_in_county = 52.26

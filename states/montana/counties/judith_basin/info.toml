@@ -1,2 +1,46 @@
 name = "Judith Basin County"
 fips_code = 30045
+
+[[zipcodes]]
+zipcode = 59418
+percent_zip_in_county = 77.89
+
+[[zipcodes]]
+zipcode = 59424
+percent_zip_in_county = 17.24
+
+[[zipcodes]]
+zipcode = 59430
+percent_zip_in_county = 4.41
+
+[[zipcodes]]
+zipcode = 59447
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59452
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59453
+percent_zip_in_county = 4.7
+
+[[zipcodes]]
+zipcode = 59462
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59463
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 59464
+percent_zip_in_county = 4.0
+
+[[zipcodes]]
+zipcode = 59469
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59479
+percent_zip_in_county = 100.0

@@ -1,2 +1,102 @@
 name = "Bernalillo County"
 fips_code = 35001
+
+[[zipcodes]]
+zipcode = 87008
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87015
+percent_zip_in_county = 14.35
+
+[[zipcodes]]
+zipcode = 87022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87026
+percent_zip_in_county = 37.98
+
+[[zipcodes]]
+zipcode = 87047
+percent_zip_in_county = 82.75
+
+[[zipcodes]]
+zipcode = 87048
+percent_zip_in_county = 4.24
+
+[[zipcodes]]
+zipcode = 87059
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87102
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87104
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87105
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87106
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87107
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87108
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87109
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87110
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87111
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87112
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87113
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87114
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87116
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87117
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87120
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87121
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87122
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87123
+percent_zip_in_county = 100.0

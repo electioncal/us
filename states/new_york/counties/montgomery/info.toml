@@ -1,2 +1,78 @@
 name = "Montgomery County"
 fips_code = 36057
+
+[[zipcodes]]
+zipcode = 12010
+percent_zip_in_county = 83.03
+
+[[zipcodes]]
+zipcode = 12053
+percent_zip_in_county = 1.2
+
+[[zipcodes]]
+zipcode = 12066
+percent_zip_in_county = 30.61
+
+[[zipcodes]]
+zipcode = 12068
+percent_zip_in_county = 99.03
+
+[[zipcodes]]
+zipcode = 12069
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12070
+percent_zip_in_county = 71.42
+
+[[zipcodes]]
+zipcode = 12072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12086
+percent_zip_in_county = 71.31
+
+[[zipcodes]]
+zipcode = 12095
+percent_zip_in_county = 2.7
+
+[[zipcodes]]
+zipcode = 12137
+percent_zip_in_county = 22.63
+
+[[zipcodes]]
+zipcode = 12166
+percent_zip_in_county = 99.63
+
+[[zipcodes]]
+zipcode = 12177
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13317
+percent_zip_in_county = 99.6
+
+[[zipcodes]]
+zipcode = 13320
+percent_zip_in_county = 0.55
+
+[[zipcodes]]
+zipcode = 13339
+percent_zip_in_county = 84.31
+
+[[zipcodes]]
+zipcode = 13410
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13428
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13452
+percent_zip_in_county = 57.18
+
+[[zipcodes]]
+zipcode = 13459
+percent_zip_in_county = 3.51

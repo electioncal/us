@@ -1,2 +1,14 @@
 name = "Bacon County"
 fips_code = 13005
+
+[[zipcodes]]
+zipcode = 31510
+percent_zip_in_county = 96.47
+
+[[zipcodes]]
+zipcode = 31551
+percent_zip_in_county = 46.96
+
+[[zipcodes]]
+zipcode = 31554
+percent_zip_in_county = 15.79

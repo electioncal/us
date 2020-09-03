@@ -1,2 +1,78 @@
 name = "Grant County"
 fips_code = 53025
+
+[[zipcodes]]
+zipcode = 98823
+percent_zip_in_county = 99.54
+
+[[zipcodes]]
+zipcode = 98824
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98832
+percent_zip_in_county = 91.88
+
+[[zipcodes]]
+zipcode = 98837
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98848
+percent_zip_in_county = 99.56
+
+[[zipcodes]]
+zipcode = 98851
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98853
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98857
+percent_zip_in_county = 96.33
+
+[[zipcodes]]
+zipcode = 98860
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99103
+percent_zip_in_county = 7.44
+
+[[zipcodes]]
+zipcode = 99115
+percent_zip_in_county = 86.26
+
+[[zipcodes]]
+zipcode = 99116
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 99123
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99133
+percent_zip_in_county = 77.43
+
+[[zipcodes]]
+zipcode = 99135
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99321
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99344
+percent_zip_in_county = 8.3
+
+[[zipcodes]]
+zipcode = 99349
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99357
+percent_zip_in_county = 100.0

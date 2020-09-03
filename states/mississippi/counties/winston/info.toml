@@ -1,2 +1,30 @@
 name = "Winston County"
 fips_code = 28159
+
+[[zipcodes]]
+zipcode = 39108
+percent_zip_in_county = 18.79
+
+[[zipcodes]]
+zipcode = 39339
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39341
+percent_zip_in_county = 1.22
+
+[[zipcodes]]
+zipcode = 39346
+percent_zip_in_county = 94.47
+
+[[zipcodes]]
+zipcode = 39350
+percent_zip_in_county = 0.99
+
+[[zipcodes]]
+zipcode = 39354
+percent_zip_in_county = 22.06
+
+[[zipcodes]]
+zipcode = 39769
+percent_zip_in_county = 15.44

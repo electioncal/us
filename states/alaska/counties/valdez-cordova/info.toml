@@ -1,2 +1,42 @@
 name = "Valdez-Cordova Census Area"
 fips_code = 2261
+
+[[zipcodes]]
+zipcode = 99566
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99573
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99574
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99586
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99588
+percent_zip_in_county = 91.22
+
+[[zipcodes]]
+zipcode = 99677
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99686
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99693
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99737
+percent_zip_in_county = 0.86
+
+[[zipcodes]]
+zipcode = 99780
+percent_zip_in_county = 6.38

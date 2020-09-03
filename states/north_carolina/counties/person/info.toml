@@ -1,2 +1,38 @@
 name = "Person County"
 fips_code = 37145
+
+[[zipcodes]]
+zipcode = 27291
+percent_zip_in_county = 40.25
+
+[[zipcodes]]
+zipcode = 27305
+percent_zip_in_county = 2.26
+
+[[zipcodes]]
+zipcode = 27343
+percent_zip_in_county = 71.33
+
+[[zipcodes]]
+zipcode = 27541
+percent_zip_in_county = 66.18
+
+[[zipcodes]]
+zipcode = 27565
+percent_zip_in_county = 0.44
+
+[[zipcodes]]
+zipcode = 27572
+percent_zip_in_county = 36.6
+
+[[zipcodes]]
+zipcode = 27573
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27574
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27583
+percent_zip_in_county = 97.46

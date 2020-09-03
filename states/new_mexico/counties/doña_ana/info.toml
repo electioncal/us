@@ -1,2 +1,106 @@
 name = "Doña Ana County"
 fips_code = 35013
+
+[[zipcodes]]
+zipcode = 87936
+percent_zip_in_county = 88.54
+
+[[zipcodes]]
+zipcode = 87937
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87940
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87941
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88004
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88005
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88008
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88011
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88012
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88044
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88047
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88048
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88052
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88063
+percent_zip_in_county = 99.79
+
+[[zipcodes]]
+zipcode = 88072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88081
+percent_zip_in_county = 44.34

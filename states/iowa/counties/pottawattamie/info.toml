@@ -1,2 +1,98 @@
 name = "Pottawattamie County"
 fips_code = 19155
+
+[[zipcodes]]
+zipcode = 51501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51503
+percent_zip_in_county = 99.47
+
+[[zipcodes]]
+zipcode = 51510
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51521
+percent_zip_in_county = 92.58
+
+[[zipcodes]]
+zipcode = 51525
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51526
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51532
+percent_zip_in_county = 7.07
+
+[[zipcodes]]
+zipcode = 51535
+percent_zip_in_county = 15.86
+
+[[zipcodes]]
+zipcode = 51536
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51541
+percent_zip_in_county = 7.99
+
+[[zipcodes]]
+zipcode = 51542
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51544
+percent_zip_in_county = 6.24
+
+[[zipcodes]]
+zipcode = 51548
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51549
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51553
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51555
+percent_zip_in_county = 5.91
+
+[[zipcodes]]
+zipcode = 51559
+percent_zip_in_county = 95.02
+
+[[zipcodes]]
+zipcode = 51560
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51566
+percent_zip_in_county = 0.18
+
+[[zipcodes]]
+zipcode = 51570
+percent_zip_in_county = 13.09
+
+[[zipcodes]]
+zipcode = 51571
+percent_zip_in_county = 24.04
+
+[[zipcodes]]
+zipcode = 51575
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51576
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51577
+percent_zip_in_county = 87.08

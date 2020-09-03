@@ -1,2 +1,50 @@
 name = "Chariton County"
 fips_code = 29041
+
+[[zipcodes]]
+zipcode = 63558
+percent_zip_in_county = 24.39
+
+[[zipcodes]]
+zipcode = 64628
+percent_zip_in_county = 1.79
+
+[[zipcodes]]
+zipcode = 64658
+percent_zip_in_county = 20.6
+
+[[zipcodes]]
+zipcode = 64660
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64676
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64681
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65236
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65246
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65254
+percent_zip_in_county = 6.57
+
+[[zipcodes]]
+zipcode = 65261
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65281
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65286
+percent_zip_in_county = 100.0

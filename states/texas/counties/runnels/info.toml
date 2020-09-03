@@ -1,2 +1,42 @@
 name = "Runnels County"
 fips_code = 48399
+
+[[zipcodes]]
+zipcode = 76821
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76861
+percent_zip_in_county = 57.49
+
+[[zipcodes]]
+zipcode = 76865
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76875
+percent_zip_in_county = 93.41
+
+[[zipcodes]]
+zipcode = 76882
+percent_zip_in_county = 21.43
+
+[[zipcodes]]
+zipcode = 76933
+percent_zip_in_county = 7.69
+
+[[zipcodes]]
+zipcode = 79519
+percent_zip_in_county = 37.84
+
+[[zipcodes]]
+zipcode = 79538
+percent_zip_in_county = 15.87
+
+[[zipcodes]]
+zipcode = 79566
+percent_zip_in_county = 48.95
+
+[[zipcodes]]
+zipcode = 79567
+percent_zip_in_county = 98.07

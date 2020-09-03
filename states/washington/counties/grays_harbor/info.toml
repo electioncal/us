@@ -1,2 +1,82 @@
 name = "Grays Harbor County"
 fips_code = 53027
+
+[[zipcodes]]
+zipcode = 98520
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98526
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98535
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98536
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98537
+percent_zip_in_county = 96.15
+
+[[zipcodes]]
+zipcode = 98541
+percent_zip_in_county = 86.28
+
+[[zipcodes]]
+zipcode = 98547
+percent_zip_in_county = 61.0
+
+[[zipcodes]]
+zipcode = 98550
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98552
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98557
+percent_zip_in_county = 98.02
+
+[[zipcodes]]
+zipcode = 98559
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98562
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98563
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98568
+percent_zip_in_county = 98.17
+
+[[zipcodes]]
+zipcode = 98569
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98571
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98575
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98583
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98587
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98595
+percent_zip_in_county = 100.0

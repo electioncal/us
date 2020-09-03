@@ -1,2 +1,30 @@
 name = "Ascension Parish"
 fips_code = 22005
+
+[[zipcodes]]
+zipcode = 70346
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70725
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70734
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70737
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70769
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70774
+percent_zip_in_county = 98.17
+
+[[zipcodes]]
+zipcode = 70778
+percent_zip_in_county = 100.0

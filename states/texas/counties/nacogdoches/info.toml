@@ -1,2 +1,46 @@
 name = "Nacogdoches County"
 fips_code = 48347
+
+[[zipcodes]]
+zipcode = 75760
+percent_zip_in_county = 86.15
+
+[[zipcodes]]
+zipcode = 75788
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75937
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75943
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75944
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75946
+percent_zip_in_county = 78.76
+
+[[zipcodes]]
+zipcode = 75961
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75962
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75964
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75965
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75978
+percent_zip_in_county = 100.0

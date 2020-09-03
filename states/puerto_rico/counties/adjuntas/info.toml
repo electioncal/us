@@ -1,2 +1,18 @@
 name = "Adjuntas Municipio"
 fips_code = 72001
+
+[[zipcodes]]
+zipcode = 601
+percent_zip_in_county = 99.43
+
+[[zipcodes]]
+zipcode = 631
+percent_zip_in_county = 32.99
+
+[[zipcodes]]
+zipcode = 641
+percent_zip_in_county = 0.21
+
+[[zipcodes]]
+zipcode = 731
+percent_zip_in_county = 2.2

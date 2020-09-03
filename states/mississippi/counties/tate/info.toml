@@ -1,2 +1,22 @@
 name = "Tate County"
 fips_code = 28137
+
+[[zipcodes]]
+zipcode = 38618
+percent_zip_in_county = 97.92
+
+[[zipcodes]]
+zipcode = 38619
+percent_zip_in_county = 2.38
+
+[[zipcodes]]
+zipcode = 38635
+percent_zip_in_county = 2.16
+
+[[zipcodes]]
+zipcode = 38665
+percent_zip_in_county = 81.25
+
+[[zipcodes]]
+zipcode = 38668
+percent_zip_in_county = 100.0

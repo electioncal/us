@@ -1,2 +1,18 @@
 name = "Irion County"
 fips_code = 48235
+
+[[zipcodes]]
+zipcode = 76901
+percent_zip_in_county = 0.1
+
+[[zipcodes]]
+zipcode = 76904
+percent_zip_in_county = 0.2
+
+[[zipcodes]]
+zipcode = 76930
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76941
+percent_zip_in_county = 100.0

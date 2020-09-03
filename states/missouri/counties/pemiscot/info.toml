@@ -1,2 +1,50 @@
 name = "Pemiscot County"
 fips_code = 29155
+
+[[zipcodes]]
+zipcode = 63826
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63827
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63830
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63839
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63848
+percent_zip_in_county = 1.7
+
+[[zipcodes]]
+zipcode = 63849
+percent_zip_in_county = 46.77
+
+[[zipcodes]]
+zipcode = 63851
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63852
+percent_zip_in_county = 2.15
+
+[[zipcodes]]
+zipcode = 63853
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63873
+percent_zip_in_county = 10.55
+
+[[zipcodes]]
+zipcode = 63877
+percent_zip_in_county = 98.86
+
+[[zipcodes]]
+zipcode = 63879
+percent_zip_in_county = 100.0

@@ -1,2 +1,18 @@
 name = "Seminole County"
 fips_code = 13253
+
+[[zipcodes]]
+zipcode = 39825
+percent_zip_in_county = 6.02
+
+[[zipcodes]]
+zipcode = 39845
+percent_zip_in_county = 93.44
+
+[[zipcodes]]
+zipcode = 39859
+percent_zip_in_county = 97.81
+
+[[zipcodes]]
+zipcode = 39861
+percent_zip_in_county = 3.29

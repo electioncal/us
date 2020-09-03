@@ -1,2 +1,6 @@
 name = "Wibaux County"
 fips_code = 30109
+
+[[zipcodes]]
+zipcode = 59353
+percent_zip_in_county = 100.0

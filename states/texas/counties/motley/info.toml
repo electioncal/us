@@ -1,2 +1,26 @@
 name = "Motley County"
 fips_code = 48345
+
+[[zipcodes]]
+zipcode = 79201
+percent_zip_in_county = 0.47
+
+[[zipcodes]]
+zipcode = 79234
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79235
+percent_zip_in_county = 0.21
+
+[[zipcodes]]
+zipcode = 79244
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79255
+percent_zip_in_county = 3.5
+
+[[zipcodes]]
+zipcode = 79256
+percent_zip_in_county = 100.0

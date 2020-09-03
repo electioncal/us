@@ -1,2 +1,58 @@
 name = "DeKalb County"
 fips_code = 18033
+
+[[zipcodes]]
+zipcode = 46705
+percent_zip_in_county = 62.6
+
+[[zipcodes]]
+zipcode = 46706
+percent_zip_in_county = 98.36
+
+[[zipcodes]]
+zipcode = 46710
+percent_zip_in_county = 4.23
+
+[[zipcodes]]
+zipcode = 46721
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46738
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46742
+percent_zip_in_county = 20.81
+
+[[zipcodes]]
+zipcode = 46747
+percent_zip_in_county = 7.24
+
+[[zipcodes]]
+zipcode = 46748
+percent_zip_in_county = 1.48
+
+[[zipcodes]]
+zipcode = 46755
+percent_zip_in_county = 0.37
+
+[[zipcodes]]
+zipcode = 46763
+percent_zip_in_county = 10.42
+
+[[zipcodes]]
+zipcode = 46785
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46788
+percent_zip_in_county = 40.58
+
+[[zipcodes]]
+zipcode = 46793
+percent_zip_in_county = 99.37

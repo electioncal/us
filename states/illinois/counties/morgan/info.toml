@@ -1,2 +1,62 @@
 name = "Morgan County"
 fips_code = 17137
+
+[[zipcodes]]
+zipcode = 62601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62611
+percent_zip_in_county = 22.02
+
+[[zipcodes]]
+zipcode = 62612
+percent_zip_in_county = 18.17
+
+[[zipcodes]]
+zipcode = 62621
+percent_zip_in_county = 1.79
+
+[[zipcodes]]
+zipcode = 62628
+percent_zip_in_county = 95.2
+
+[[zipcodes]]
+zipcode = 62631
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62638
+percent_zip_in_county = 98.8
+
+[[zipcodes]]
+zipcode = 62650
+percent_zip_in_county = 99.7
+
+[[zipcodes]]
+zipcode = 62665
+percent_zip_in_county = 89.38
+
+[[zipcodes]]
+zipcode = 62667
+percent_zip_in_county = 2.16
+
+[[zipcodes]]
+zipcode = 62668
+percent_zip_in_county = 94.78
+
+[[zipcodes]]
+zipcode = 62670
+percent_zip_in_county = 1.7
+
+[[zipcodes]]
+zipcode = 62692
+percent_zip_in_county = 89.11
+
+[[zipcodes]]
+zipcode = 62694
+percent_zip_in_county = 1.57
+
+[[zipcodes]]
+zipcode = 62695
+percent_zip_in_county = 100.0

@@ -1,2 +1,42 @@
 name = "Greenwood County"
 fips_code = 20073
+
+[[zipcodes]]
+zipcode = 66777
+percent_zip_in_county = 8.76
+
+[[zipcodes]]
+zipcode = 66852
+percent_zip_in_county = 5.55
+
+[[zipcodes]]
+zipcode = 66853
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66860
+percent_zip_in_county = 89.03
+
+[[zipcodes]]
+zipcode = 66863
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66870
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67047
+percent_zip_in_county = 59.23
+
+[[zipcodes]]
+zipcode = 67122
+percent_zip_in_county = 71.95
+
+[[zipcodes]]
+zipcode = 67137
+percent_zip_in_county = 92.11

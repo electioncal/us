@@ -1,2 +1,10 @@
 name = "Churchill County"
 fips_code = 32001
+
+[[zipcodes]]
+zipcode = 89406
+percent_zip_in_county = 99.99
+
+[[zipcodes]]
+zipcode = 89408
+percent_zip_in_county = 0.55

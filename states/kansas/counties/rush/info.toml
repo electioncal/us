@@ -1,2 +1,42 @@
 name = "Rush County"
 fips_code = 20165
+
+[[zipcodes]]
+zipcode = 67511
+percent_zip_in_county = 21.38
+
+[[zipcodes]]
+zipcode = 67513
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67520
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67548
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67553
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67556
+percent_zip_in_county = 87.81
+
+[[zipcodes]]
+zipcode = 67559
+percent_zip_in_county = 84.62
+
+[[zipcodes]]
+zipcode = 67565
+percent_zip_in_county = 81.12
+
+[[zipcodes]]
+zipcode = 67567
+percent_zip_in_county = 4.94
+
+[[zipcodes]]
+zipcode = 67575
+percent_zip_in_county = 96.99

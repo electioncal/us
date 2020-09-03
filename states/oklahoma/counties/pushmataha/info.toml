@@ -1,2 +1,66 @@
 name = "Pushmataha County"
 fips_code = 40127
+
+[[zipcodes]]
+zipcode = 74521
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74523
+percent_zip_in_county = 96.11
+
+[[zipcodes]]
+zipcode = 74536
+percent_zip_in_county = 97.33
+
+[[zipcodes]]
+zipcode = 74540
+percent_zip_in_county = 5.81
+
+[[zipcodes]]
+zipcode = 74543
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74549
+percent_zip_in_county = 65.79
+
+[[zipcodes]]
+zipcode = 74557
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74558
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74562
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74567
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74571
+percent_zip_in_county = 3.59
+
+[[zipcodes]]
+zipcode = 74574
+percent_zip_in_county = 51.2
+
+[[zipcodes]]
+zipcode = 74728
+percent_zip_in_county = 0.48
+
+[[zipcodes]]
+zipcode = 74735
+percent_zip_in_county = 18.85
+
+[[zipcodes]]
+zipcode = 74754
+percent_zip_in_county = 37.14
+
+[[zipcodes]]
+zipcode = 74760
+percent_zip_in_county = 41.02

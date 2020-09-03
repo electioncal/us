@@ -1,2 +1,58 @@
 name = "Cooke County"
 fips_code = 48097
+
+[[zipcodes]]
+zipcode = 76233
+percent_zip_in_county = 15.86
+
+[[zipcodes]]
+zipcode = 76234
+percent_zip_in_county = 0.26
+
+[[zipcodes]]
+zipcode = 76238
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76239
+percent_zip_in_county = 19.14
+
+[[zipcodes]]
+zipcode = 76240
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76250
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76252
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76253
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76263
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76265
+percent_zip_in_county = 5.76
+
+[[zipcodes]]
+zipcode = 76266
+percent_zip_in_county = 0.07
+
+[[zipcodes]]
+zipcode = 76271
+percent_zip_in_county = 8.88
+
+[[zipcodes]]
+zipcode = 76272
+percent_zip_in_county = 98.88
+
+[[zipcodes]]
+zipcode = 76273
+percent_zip_in_county = 23.21

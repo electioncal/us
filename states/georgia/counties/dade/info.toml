@@ -1,2 +1,22 @@
 name = "Dade County"
 fips_code = 13083
+
+[[zipcodes]]
+zipcode = 30731
+percent_zip_in_county = 15.32
+
+[[zipcodes]]
+zipcode = 30738
+percent_zip_in_county = 69.65
+
+[[zipcodes]]
+zipcode = 30750
+percent_zip_in_county = 49.16
+
+[[zipcodes]]
+zipcode = 30752
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30757
+percent_zip_in_county = 100.0

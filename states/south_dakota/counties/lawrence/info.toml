@@ -1,2 +1,38 @@
 name = "Lawrence County"
 fips_code = 46081
+
+[[zipcodes]]
+zipcode = 57717
+percent_zip_in_county = 0.39
+
+[[zipcodes]]
+zipcode = 57732
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57754
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57759
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57779
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57783
+percent_zip_in_county = 99.86
+
+[[zipcodes]]
+zipcode = 57785
+percent_zip_in_county = 9.27
+
+[[zipcodes]]
+zipcode = 57793
+percent_zip_in_county = 84.47
+
+[[zipcodes]]
+zipcode = 57799
+percent_zip_in_county = 100.0

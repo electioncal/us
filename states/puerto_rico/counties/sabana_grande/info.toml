@@ -1,2 +1,10 @@
 name = "Sabana Grande Municipio"
 fips_code = 72121
+
+[[zipcodes]]
+zipcode = 606
+percent_zip_in_county = 1.35
+
+[[zipcodes]]
+zipcode = 637
+percent_zip_in_county = 99.56

@@ -1,2 +1,30 @@
 name = "Ziebach County"
 fips_code = 46137
+
+[[zipcodes]]
+zipcode = 57622
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57623
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57625
+percent_zip_in_county = 21.61
+
+[[zipcodes]]
+zipcode = 57626
+percent_zip_in_county = 18.54
+
+[[zipcodes]]
+zipcode = 57633
+percent_zip_in_county = 12.08
+
+[[zipcodes]]
+zipcode = 57644
+percent_zip_in_county = 18.51
+
+[[zipcodes]]
+zipcode = 57748
+percent_zip_in_county = 73.9

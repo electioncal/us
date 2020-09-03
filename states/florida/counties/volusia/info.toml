@@ -1,2 +1,118 @@
 name = "Volusia County"
 fips_code = 12127
+
+[[zipcodes]]
+zipcode = 32102
+percent_zip_in_county = 22.07
+
+[[zipcodes]]
+zipcode = 32114
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32117
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32118
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32119
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32124
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32127
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32128
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32129
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32130
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32132
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32136
+percent_zip_in_county = 2.61
+
+[[zipcodes]]
+zipcode = 32141
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32168
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32169
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32174
+percent_zip_in_county = 96.32
+
+[[zipcodes]]
+zipcode = 32176
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32180
+percent_zip_in_county = 99.67
+
+[[zipcodes]]
+zipcode = 32190
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32713
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32720
+percent_zip_in_county = 91.64
+
+[[zipcodes]]
+zipcode = 32724
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32725
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32738
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32744
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32754
+percent_zip_in_county = 5.29
+
+[[zipcodes]]
+zipcode = 32759
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32763
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32764
+percent_zip_in_county = 100.0

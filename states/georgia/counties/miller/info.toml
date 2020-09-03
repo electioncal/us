@@ -1,2 +1,22 @@
 name = "Miller County"
 fips_code = 13201
+
+[[zipcodes]]
+zipcode = 39823
+percent_zip_in_county = 1.72
+
+[[zipcodes]]
+zipcode = 39837
+percent_zip_in_county = 88.1
+
+[[zipcodes]]
+zipcode = 39841
+percent_zip_in_county = 8.54
+
+[[zipcodes]]
+zipcode = 39845
+percent_zip_in_county = 5.63
+
+[[zipcodes]]
+zipcode = 39859
+percent_zip_in_county = 2.19

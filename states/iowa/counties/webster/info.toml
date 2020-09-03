@@ -1,2 +1,86 @@
 name = "Webster County"
 fips_code = 19187
+
+[[zipcodes]]
+zipcode = 50249
+percent_zip_in_county = 10.51
+
+[[zipcodes]]
+zipcode = 50501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50516
+percent_zip_in_county = 92.49
+
+[[zipcodes]]
+zipcode = 50518
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50521
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50523
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50524
+percent_zip_in_county = 98.08
+
+[[zipcodes]]
+zipcode = 50530
+percent_zip_in_county = 98.67
+
+[[zipcodes]]
+zipcode = 50532
+percent_zip_in_county = 98.63
+
+[[zipcodes]]
+zipcode = 50533
+percent_zip_in_county = 0.9
+
+[[zipcodes]]
+zipcode = 50538
+percent_zip_in_county = 0.99
+
+[[zipcodes]]
+zipcode = 50543
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50544
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50548
+percent_zip_in_county = 1.04
+
+[[zipcodes]]
+zipcode = 50557
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50563
+percent_zip_in_county = 0.88
+
+[[zipcodes]]
+zipcode = 50566
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50569
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50586
+percent_zip_in_county = 4.23
+
+[[zipcodes]]
+zipcode = 50591
+percent_zip_in_county = 5.63
+
+[[zipcodes]]
+zipcode = 50594
+percent_zip_in_county = 100.0

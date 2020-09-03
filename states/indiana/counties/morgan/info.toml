@@ -1,2 +1,58 @@
 name = "Morgan County"
 fips_code = 18109
+
+[[zipcodes]]
+zipcode = 46106
+percent_zip_in_county = 1.54
+
+[[zipcodes]]
+zipcode = 46111
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46113
+percent_zip_in_county = 42.99
+
+[[zipcodes]]
+zipcode = 46118
+percent_zip_in_county = 1.66
+
+[[zipcodes]]
+zipcode = 46120
+percent_zip_in_county = 2.87
+
+[[zipcodes]]
+zipcode = 46125
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46151
+percent_zip_in_county = 99.62
+
+[[zipcodes]]
+zipcode = 46157
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46158
+percent_zip_in_county = 95.65
+
+[[zipcodes]]
+zipcode = 46160
+percent_zip_in_county = 36.51
+
+[[zipcodes]]
+zipcode = 46166
+percent_zip_in_county = 95.62
+
+[[zipcodes]]
+zipcode = 46180
+percent_zip_in_county = 34.34
+
+[[zipcodes]]
+zipcode = 47433
+percent_zip_in_county = 8.89
+
+[[zipcodes]]
+zipcode = 47456
+percent_zip_in_county = 31.42

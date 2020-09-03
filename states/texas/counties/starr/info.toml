@@ -1,2 +1,34 @@
 name = "Starr County"
 fips_code = 48427
+
+[[zipcodes]]
+zipcode = 78536
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78545
+percent_zip_in_county = 64.32
+
+[[zipcodes]]
+zipcode = 78548
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78582
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78584
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78585
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78588
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78591
+percent_zip_in_county = 100.0

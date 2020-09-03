@@ -1,2 +1,58 @@
 name = "Nome Census Area"
 fips_code = 2180
+
+[[zipcodes]]
+zipcode = 99659
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99671
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99684
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99739
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99742
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99753
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99762
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99769
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99771
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99772
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99778
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99783
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99784
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99785
+percent_zip_in_county = 100.0

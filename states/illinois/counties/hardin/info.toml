@@ -1,2 +1,22 @@
 name = "Hardin County"
 fips_code = 17069
+
+[[zipcodes]]
+zipcode = 62919
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62931
+percent_zip_in_county = 97.14
+
+[[zipcodes]]
+zipcode = 62938
+percent_zip_in_county = 5.41
+
+[[zipcodes]]
+zipcode = 62947
+percent_zip_in_county = 55.47
+
+[[zipcodes]]
+zipcode = 62982
+percent_zip_in_county = 100.0

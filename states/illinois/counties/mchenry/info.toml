@@ -1,2 +1,90 @@
 name = "McHenry County"
 fips_code = 17111
+
+[[zipcodes]]
+zipcode = 60010
+percent_zip_in_county = 5.08
+
+[[zipcodes]]
+zipcode = 60012
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60013
+percent_zip_in_county = 96.03
+
+[[zipcodes]]
+zipcode = 60014
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60021
+percent_zip_in_county = 91.24
+
+[[zipcodes]]
+zipcode = 60033
+percent_zip_in_county = 99.3
+
+[[zipcodes]]
+zipcode = 60034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60042
+percent_zip_in_county = 55.96
+
+[[zipcodes]]
+zipcode = 60050
+percent_zip_in_county = 99.05
+
+[[zipcodes]]
+zipcode = 60051
+percent_zip_in_county = 83.61
+
+[[zipcodes]]
+zipcode = 60071
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60081
+percent_zip_in_county = 81.41
+
+[[zipcodes]]
+zipcode = 60097
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60098
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60102
+percent_zip_in_county = 72.5
+
+[[zipcodes]]
+zipcode = 60135
+percent_zip_in_county = 0.04
+
+[[zipcodes]]
+zipcode = 60142
+percent_zip_in_county = 76.11
+
+[[zipcodes]]
+zipcode = 60152
+percent_zip_in_county = 99.77
+
+[[zipcodes]]
+zipcode = 60156
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60180
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61038
+percent_zip_in_county = 6.65

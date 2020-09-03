@@ -1,2 +1,50 @@
 name = "Wells County"
 fips_code = 38103
+
+[[zipcodes]]
+zipcode = 58341
+percent_zip_in_county = 93.11
+
+[[zipcodes]]
+zipcode = 58348
+percent_zip_in_county = 3.3
+
+[[zipcodes]]
+zipcode = 58356
+percent_zip_in_county = 2.68
+
+[[zipcodes]]
+zipcode = 58374
+percent_zip_in_county = 3.44
+
+[[zipcodes]]
+zipcode = 58418
+percent_zip_in_county = 96.32
+
+[[zipcodes]]
+zipcode = 58421
+percent_zip_in_county = 0.25
+
+[[zipcodes]]
+zipcode = 58422
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58423
+percent_zip_in_county = 85.9
+
+[[zipcodes]]
+zipcode = 58438
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58451
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58486
+percent_zip_in_county = 93.51
+
+[[zipcodes]]
+zipcode = 58758
+percent_zip_in_county = 14.41

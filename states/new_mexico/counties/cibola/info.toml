@@ -1,2 +1,74 @@
 name = "Cibola County"
 fips_code = 35006
+
+[[zipcodes]]
+zipcode = 87005
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87014
+percent_zip_in_county = 99.69
+
+[[zipcodes]]
+zipcode = 87020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87026
+percent_zip_in_county = 46.54
+
+[[zipcodes]]
+zipcode = 87034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87038
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87045
+percent_zip_in_county = 2.46
+
+[[zipcodes]]
+zipcode = 87049
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87315
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87321
+percent_zip_in_county = 72.87
+
+[[zipcodes]]
+zipcode = 87323
+percent_zip_in_county = 5.68
+
+[[zipcodes]]
+zipcode = 87327
+percent_zip_in_county = 0.08
+
+[[zipcodes]]
+zipcode = 87357
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87829
+percent_zip_in_county = 1.95

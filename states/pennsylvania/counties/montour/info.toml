@@ -1,2 +1,38 @@
 name = "Montour County"
 fips_code = 42093
+
+[[zipcodes]]
+zipcode = 17756
+percent_zip_in_county = 1.61
+
+[[zipcodes]]
+zipcode = 17772
+percent_zip_in_county = 39.6
+
+[[zipcodes]]
+zipcode = 17777
+percent_zip_in_county = 2.21
+
+[[zipcodes]]
+zipcode = 17815
+percent_zip_in_county = 0.25
+
+[[zipcodes]]
+zipcode = 17820
+percent_zip_in_county = 2.92
+
+[[zipcodes]]
+zipcode = 17821
+percent_zip_in_county = 86.32
+
+[[zipcodes]]
+zipcode = 17822
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 17847
+percent_zip_in_county = 5.73
+
+[[zipcodes]]
+zipcode = 17884
+percent_zip_in_county = 100.0

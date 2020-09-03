@@ -1,2 +1,78 @@
 name = "Jasper County"
 fips_code = 29097
+
+[[zipcodes]]
+zipcode = 64748
+percent_zip_in_county = 11.99
+
+[[zipcodes]]
+zipcode = 64755
+percent_zip_in_county = 82.94
+
+[[zipcodes]]
+zipcode = 64801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64804
+percent_zip_in_county = 56.0
+
+[[zipcodes]]
+zipcode = 64830
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64832
+percent_zip_in_county = 74.28
+
+[[zipcodes]]
+zipcode = 64833
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64834
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64835
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64836
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64840
+percent_zip_in_county = 11.06
+
+[[zipcodes]]
+zipcode = 64841
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64848
+percent_zip_in_county = 24.06
+
+[[zipcodes]]
+zipcode = 64849
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64855
+percent_zip_in_county = 96.78
+
+[[zipcodes]]
+zipcode = 64857
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64859
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64862
+percent_zip_in_county = 81.93
+
+[[zipcodes]]
+zipcode = 64870
+percent_zip_in_county = 100.0

@@ -1,2 +1,42 @@
 name = "Maries County"
 fips_code = 29125
+
+[[zipcodes]]
+zipcode = 65001
+percent_zip_in_county = 23.19
+
+[[zipcodes]]
+zipcode = 65013
+percent_zip_in_county = 75.45
+
+[[zipcodes]]
+zipcode = 65014
+percent_zip_in_county = 3.15
+
+[[zipcodes]]
+zipcode = 65058
+percent_zip_in_county = 47.39
+
+[[zipcodes]]
+zipcode = 65401
+percent_zip_in_county = 0.79
+
+[[zipcodes]]
+zipcode = 65443
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65459
+percent_zip_in_county = 21.6
+
+[[zipcodes]]
+zipcode = 65559
+percent_zip_in_county = 7.82
+
+[[zipcodes]]
+zipcode = 65580
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65582
+percent_zip_in_county = 100.0

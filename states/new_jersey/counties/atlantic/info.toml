@@ -1,2 +1,122 @@
 name = "Atlantic County"
 fips_code = 34001
+
+[[zipcodes]]
+zipcode = 8037
+percent_zip_in_county = 80.73
+
+[[zipcodes]]
+zipcode = 8094
+percent_zip_in_county = 7.87
+
+[[zipcodes]]
+zipcode = 8201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8203
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8205
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8215
+percent_zip_in_county = 95.0
+
+[[zipcodes]]
+zipcode = 8217
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8221
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8225
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8232
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8234
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8240
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8241
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8244
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8270
+percent_zip_in_county = 7.58
+
+[[zipcodes]]
+zipcode = 8310
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8317
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8319
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8326
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8330
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8340
+percent_zip_in_county = 67.62
+
+[[zipcodes]]
+zipcode = 8341
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8344
+percent_zip_in_county = 2.86
+
+[[zipcodes]]
+zipcode = 8346
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8350
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8360
+percent_zip_in_county = 4.21
+
+[[zipcodes]]
+zipcode = 8401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8402
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8403
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8406
+percent_zip_in_county = 100.0

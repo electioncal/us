@@ -1,2 +1,22 @@
 name = "Archuleta County"
 fips_code = 8007
+
+[[zipcodes]]
+zipcode = 81121
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81122
+percent_zip_in_county = 1.7
+
+[[zipcodes]]
+zipcode = 81128
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81137
+percent_zip_in_county = 2.78
+
+[[zipcodes]]
+zipcode = 81147
+percent_zip_in_county = 99.72

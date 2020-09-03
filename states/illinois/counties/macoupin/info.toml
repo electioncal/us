@@ -1,2 +1,110 @@
 name = "Macoupin County"
 fips_code = 17117
+
+[[zipcodes]]
+zipcode = 62002
+percent_zip_in_county = 0.78
+
+[[zipcodes]]
+zipcode = 62009
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62012
+percent_zip_in_county = 53.07
+
+[[zipcodes]]
+zipcode = 62014
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62044
+percent_zip_in_county = 5.28
+
+[[zipcodes]]
+zipcode = 62056
+percent_zip_in_county = 3.09
+
+[[zipcodes]]
+zipcode = 62063
+percent_zip_in_county = 66.8
+
+[[zipcodes]]
+zipcode = 62069
+percent_zip_in_county = 99.79
+
+[[zipcodes]]
+zipcode = 62074
+percent_zip_in_county = 8.83
+
+[[zipcodes]]
+zipcode = 62079
+percent_zip_in_county = 55.47
+
+[[zipcodes]]
+zipcode = 62085
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62088
+percent_zip_in_county = 89.93
+
+[[zipcodes]]
+zipcode = 62093
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62560
+percent_zip_in_county = 1.99
+
+[[zipcodes]]
+zipcode = 62572
+percent_zip_in_county = 37.54
+
+[[zipcodes]]
+zipcode = 62626
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62630
+percent_zip_in_county = 98.87
+
+[[zipcodes]]
+zipcode = 62638
+percent_zip_in_county = 1.2
+
+[[zipcodes]]
+zipcode = 62640
+percent_zip_in_county = 99.09
+
+[[zipcodes]]
+zipcode = 62649
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62667
+percent_zip_in_county = 97.84
+
+[[zipcodes]]
+zipcode = 62672
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62674
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62685
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62690
+percent_zip_in_county = 91.92

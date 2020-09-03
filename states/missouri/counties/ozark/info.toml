@@ -1,2 +1,78 @@
 name = "Ozark County"
 fips_code = 29153
+
+[[zipcodes]]
+zipcode = 65608
+percent_zip_in_county = 0.48
+
+[[zipcodes]]
+zipcode = 65609
+percent_zip_in_county = 75.45
+
+[[zipcodes]]
+zipcode = 65618
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65626
+percent_zip_in_county = 50.7
+
+[[zipcodes]]
+zipcode = 65637
+percent_zip_in_county = 58.77
+
+[[zipcodes]]
+zipcode = 65638
+percent_zip_in_county = 19.31
+
+[[zipcodes]]
+zipcode = 65655
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65676
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65715
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65729
+percent_zip_in_county = 86.36
+
+[[zipcodes]]
+zipcode = 65733
+percent_zip_in_county = 1.11
+
+[[zipcodes]]
+zipcode = 65755
+percent_zip_in_county = 26.78
+
+[[zipcodes]]
+zipcode = 65760
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65761
+percent_zip_in_county = 86.88
+
+[[zipcodes]]
+zipcode = 65762
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65766
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65773
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65784
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65790
+percent_zip_in_county = 12.99

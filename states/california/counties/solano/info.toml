@@ -1,2 +1,78 @@
 name = "Solano County"
 fips_code = 6095
+
+[[zipcodes]]
+zipcode = 94510
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94512
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94533
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94534
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94535
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94571
+percent_zip_in_county = 96.94
+
+[[zipcodes]]
+zipcode = 94585
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94589
+percent_zip_in_county = 99.98
+
+[[zipcodes]]
+zipcode = 94590
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94591
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94592
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95612
+percent_zip_in_county = 1.61
+
+[[zipcodes]]
+zipcode = 95618
+percent_zip_in_county = 0.34
+
+[[zipcodes]]
+zipcode = 95620
+percent_zip_in_county = 99.52
+
+[[zipcodes]]
+zipcode = 95625
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95687
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95688
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95690
+percent_zip_in_county = 13.26
+
+[[zipcodes]]
+zipcode = 95694
+percent_zip_in_county = 12.25

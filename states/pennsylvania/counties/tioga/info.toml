@@ -1,2 +1,102 @@
 name = "Tioga County"
 fips_code = 42117
+
+[[zipcodes]]
+zipcode = 16901
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16911
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16912
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16914
+percent_zip_in_county = 4.01
+
+[[zipcodes]]
+zipcode = 16917
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16920
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16921
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16928
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16929
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16930
+percent_zip_in_county = 82.15
+
+[[zipcodes]]
+zipcode = 16932
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16933
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16935
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16936
+percent_zip_in_county = 90.69
+
+[[zipcodes]]
+zipcode = 16938
+percent_zip_in_county = 80.59
+
+[[zipcodes]]
+zipcode = 16939
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16940
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16942
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16943
+percent_zip_in_county = 65.94
+
+[[zipcodes]]
+zipcode = 16946
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16947
+percent_zip_in_county = 4.5
+
+[[zipcodes]]
+zipcode = 16950
+percent_zip_in_county = 91.27
+
+[[zipcodes]]
+zipcode = 17724
+percent_zip_in_county = 6.16
+
+[[zipcodes]]
+zipcode = 17727
+percent_zip_in_county = 5.56
+
+[[zipcodes]]
+zipcode = 17765
+percent_zip_in_county = 80.46

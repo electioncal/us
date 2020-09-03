@@ -1,2 +1,78 @@
 name = "Newton County"
 fips_code = 5101
+
+[[zipcodes]]
+zipcode = 72601
+percent_zip_in_county = 1.09
+
+[[zipcodes]]
+zipcode = 72624
+percent_zip_in_county = 90.24
+
+[[zipcodes]]
+zipcode = 72628
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72638
+percent_zip_in_county = 0.81
+
+[[zipcodes]]
+zipcode = 72640
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72641
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72648
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72655
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72666
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72670
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72683
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72685
+percent_zip_in_county = 86.23
+
+[[zipcodes]]
+zipcode = 72740
+percent_zip_in_county = 0.02
+
+[[zipcodes]]
+zipcode = 72742
+percent_zip_in_county = 11.19
+
+[[zipcodes]]
+zipcode = 72752
+percent_zip_in_county = 7.85
+
+[[zipcodes]]
+zipcode = 72839
+percent_zip_in_county = 4.13
+
+[[zipcodes]]
+zipcode = 72852
+percent_zip_in_county = 8.89
+
+[[zipcodes]]
+zipcode = 72854
+percent_zip_in_county = 20.48
+
+[[zipcodes]]
+zipcode = 72856
+percent_zip_in_county = 92.67

@@ -1,2 +1,10 @@
 name = "Las Piedras Municipio"
 fips_code = 72085
+
+[[zipcodes]]
+zipcode = 771
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 777
+percent_zip_in_county = 0.69

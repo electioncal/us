@@ -1,2 +1,58 @@
 name = "Butler County"
 fips_code = 19023
+
+[[zipcodes]]
+zipcode = 50433
+percent_zip_in_county = 5.08
+
+[[zipcodes]]
+zipcode = 50601
+percent_zip_in_county = 5.36
+
+[[zipcodes]]
+zipcode = 50602
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50604
+percent_zip_in_county = 93.35
+
+[[zipcodes]]
+zipcode = 50605
+percent_zip_in_county = 66.67
+
+[[zipcodes]]
+zipcode = 50611
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50613
+percent_zip_in_county = 0.1
+
+[[zipcodes]]
+zipcode = 50619
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50625
+percent_zip_in_county = 93.73
+
+[[zipcodes]]
+zipcode = 50636
+percent_zip_in_county = 85.12
+
+[[zipcodes]]
+zipcode = 50660
+percent_zip_in_county = 90.1
+
+[[zipcodes]]
+zipcode = 50665
+percent_zip_in_county = 87.82
+
+[[zipcodes]]
+zipcode = 50666
+percent_zip_in_county = 10.81
+
+[[zipcodes]]
+zipcode = 50670
+percent_zip_in_county = 98.76

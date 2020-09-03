@@ -1,2 +1,38 @@
 name = "Ralls County"
 fips_code = 29173
+
+[[zipcodes]]
+zipcode = 63352
+percent_zip_in_county = 5.19
+
+[[zipcodes]]
+zipcode = 63382
+percent_zip_in_county = 5.9
+
+[[zipcodes]]
+zipcode = 63401
+percent_zip_in_county = 11.16
+
+[[zipcodes]]
+zipcode = 63436
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63441
+percent_zip_in_county = 5.89
+
+[[zipcodes]]
+zipcode = 63456
+percent_zip_in_county = 16.23
+
+[[zipcodes]]
+zipcode = 63459
+percent_zip_in_county = 98.72
+
+[[zipcodes]]
+zipcode = 63462
+percent_zip_in_county = 87.11
+
+[[zipcodes]]
+zipcode = 63467
+percent_zip_in_county = 100.0

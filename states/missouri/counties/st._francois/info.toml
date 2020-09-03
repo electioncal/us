@@ -1,2 +1,54 @@
 name = "St. Francois County"
 fips_code = 29187
+
+[[zipcodes]]
+zipcode = 63036
+percent_zip_in_county = 83.46
+
+[[zipcodes]]
+zipcode = 63087
+percent_zip_in_county = 91.81
+
+[[zipcodes]]
+zipcode = 63601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63624
+percent_zip_in_county = 82.33
+
+[[zipcodes]]
+zipcode = 63626
+percent_zip_in_county = 10.13
+
+[[zipcodes]]
+zipcode = 63628
+percent_zip_in_county = 97.55
+
+[[zipcodes]]
+zipcode = 63630
+percent_zip_in_county = 0.57
+
+[[zipcodes]]
+zipcode = 63637
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63640
+percent_zip_in_county = 94.22
+
+[[zipcodes]]
+zipcode = 63645
+percent_zip_in_county = 2.79
+
+[[zipcodes]]
+zipcode = 63648
+percent_zip_in_county = 7.8
+
+[[zipcodes]]
+zipcode = 63650
+percent_zip_in_county = 10.72
+
+[[zipcodes]]
+zipcode = 63653
+percent_zip_in_county = 100.0

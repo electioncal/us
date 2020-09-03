@@ -1,2 +1,282 @@
 name = "Nassau County"
 fips_code = 36059
+
+[[zipcodes]]
+zipcode = 11001
+percent_zip_in_county = 84.29
+
+[[zipcodes]]
+zipcode = 11003
+percent_zip_in_county = 99.62
+
+[[zipcodes]]
+zipcode = 11010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11040
+percent_zip_in_county = 94.67
+
+[[zipcodes]]
+zipcode = 11042
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11050
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11096
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11507
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11509
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11510
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11514
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11516
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11518
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11520
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11530
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11542
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11545
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11547
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11548
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11549
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11550
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11552
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11553
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11554
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11556
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11557
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11558
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11559
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11560
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11561
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11563
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11565
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11566
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11568
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11569
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11570
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11572
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11575
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11576
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11577
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11579
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11580
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11581
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11590
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11596
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11598
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11709
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11710
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11714
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11732
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11735
+percent_zip_in_county = 79.8
+
+[[zipcodes]]
+zipcode = 11753
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11756
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11758
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11762
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11765
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11771
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11783
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11791
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11793
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11797
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11803
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 11804
+percent_zip_in_county = 100.0

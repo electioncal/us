@@ -1,2 +1,126 @@
 name = "El Paso County"
 fips_code = 48141
+
+[[zipcodes]]
+zipcode = 79821
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79835
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79836
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79838
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79849
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79853
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79901
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79902
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79903
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79904
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79905
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79906
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79907
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79908
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79911
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79912
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79915
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79916
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79920
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79922
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79924
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79925
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79927
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79928
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79930
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79932
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79934
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79935
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79936
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79938
+percent_zip_in_county = 99.51
+
+[[zipcodes]]
+zipcode = 88063
+percent_zip_in_county = 0.21

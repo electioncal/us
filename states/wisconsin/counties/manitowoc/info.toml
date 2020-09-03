@@ -1,2 +1,78 @@
 name = "Manitowoc County"
 fips_code = 55071
+
+[[zipcodes]]
+zipcode = 53014
+percent_zip_in_county = 3.0
+
+[[zipcodes]]
+zipcode = 53015
+percent_zip_in_county = 84.06
+
+[[zipcodes]]
+zipcode = 53020
+percent_zip_in_county = 1.89
+
+[[zipcodes]]
+zipcode = 53042
+percent_zip_in_county = 92.39
+
+[[zipcodes]]
+zipcode = 53061
+percent_zip_in_county = 0.98
+
+[[zipcodes]]
+zipcode = 53063
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54110
+percent_zip_in_county = 10.94
+
+[[zipcodes]]
+zipcode = 54126
+percent_zip_in_county = 0.41
+
+[[zipcodes]]
+zipcode = 54207
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54208
+percent_zip_in_county = 8.88
+
+[[zipcodes]]
+zipcode = 54214
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54220
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54227
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54228
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54230
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54232
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54241
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54245
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54247
+percent_zip_in_county = 100.0

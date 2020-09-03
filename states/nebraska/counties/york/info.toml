@@ -1,2 +1,42 @@
 name = "York County"
 fips_code = 31185
+
+[[zipcodes]]
+zipcode = 68316
+percent_zip_in_county = 94.41
+
+[[zipcodes]]
+zipcode = 68319
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68351
+percent_zip_in_county = 8.79
+
+[[zipcodes]]
+zipcode = 68354
+percent_zip_in_county = 3.93
+
+[[zipcodes]]
+zipcode = 68367
+percent_zip_in_county = 70.07
+
+[[zipcodes]]
+zipcode = 68371
+percent_zip_in_county = 91.89
+
+[[zipcodes]]
+zipcode = 68401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68460
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68467
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68654
+percent_zip_in_county = 12.75

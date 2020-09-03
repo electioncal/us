@@ -1,2 +1,106 @@
 name = "Northampton County"
 fips_code = 42095
+
+[[zipcodes]]
+zipcode = 18013
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18014
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18015
+percent_zip_in_county = 78.13
+
+[[zipcodes]]
+zipcode = 18017
+percent_zip_in_county = 96.76
+
+[[zipcodes]]
+zipcode = 18018
+percent_zip_in_county = 44.07
+
+[[zipcodes]]
+zipcode = 18020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18032
+percent_zip_in_county = 30.68
+
+[[zipcodes]]
+zipcode = 18035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18038
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18042
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18055
+percent_zip_in_county = 98.95
+
+[[zipcodes]]
+zipcode = 18063
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18064
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18077
+percent_zip_in_county = 8.06
+
+[[zipcodes]]
+zipcode = 18083
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18085
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18086
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18088
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18091
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18109
+percent_zip_in_county = 1.22
+
+[[zipcodes]]
+zipcode = 18343
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18351
+percent_zip_in_county = 100.0

@@ -1,2 +1,18 @@
 name = "Swisher County"
 fips_code = 48437
+
+[[zipcodes]]
+zipcode = 79042
+percent_zip_in_county = 62.96
+
+[[zipcodes]]
+zipcode = 79052
+percent_zip_in_county = 97.14
+
+[[zipcodes]]
+zipcode = 79072
+percent_zip_in_county = 0.01
+
+[[zipcodes]]
+zipcode = 79088
+percent_zip_in_county = 99.09

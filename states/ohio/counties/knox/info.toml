@@ -1,2 +1,62 @@
 name = "Knox County"
 fips_code = 39083
+
+[[zipcodes]]
+zipcode = 43005
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43006
+percent_zip_in_county = 23.97
+
+[[zipcodes]]
+zipcode = 43011
+percent_zip_in_county = 68.36
+
+[[zipcodes]]
+zipcode = 43014
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43019
+percent_zip_in_county = 78.61
+
+[[zipcodes]]
+zipcode = 43022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43028
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43050
+percent_zip_in_county = 99.61
+
+[[zipcodes]]
+zipcode = 43080
+percent_zip_in_county = 26.26
+
+[[zipcodes]]
+zipcode = 43822
+percent_zip_in_county = 8.58
+
+[[zipcodes]]
+zipcode = 43843
+percent_zip_in_county = 38.47
+
+[[zipcodes]]
+zipcode = 44628
+percent_zip_in_county = 22.59
+
+[[zipcodes]]
+zipcode = 44813
+percent_zip_in_county = 3.27
+
+[[zipcodes]]
+zipcode = 44822
+percent_zip_in_county = 31.17

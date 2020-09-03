@@ -1,2 +1,42 @@
 name = "Marion County"
 fips_code = 29127
+
+[[zipcodes]]
+zipcode = 63401
+percent_zip_in_county = 88.84
+
+[[zipcodes]]
+zipcode = 63438
+percent_zip_in_county = 23.39
+
+[[zipcodes]]
+zipcode = 63439
+percent_zip_in_county = 25.98
+
+[[zipcodes]]
+zipcode = 63440
+percent_zip_in_county = 10.52
+
+[[zipcodes]]
+zipcode = 63443
+percent_zip_in_county = 13.86
+
+[[zipcodes]]
+zipcode = 63454
+percent_zip_in_county = 61.1
+
+[[zipcodes]]
+zipcode = 63456
+percent_zip_in_county = 26.72
+
+[[zipcodes]]
+zipcode = 63461
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63463
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63471
+percent_zip_in_county = 90.61

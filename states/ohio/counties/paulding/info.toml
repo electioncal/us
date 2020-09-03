@@ -1,2 +1,58 @@
 name = "Paulding County"
 fips_code = 39125
+
+[[zipcodes]]
+zipcode = 43512
+percent_zip_in_county = 3.55
+
+[[zipcodes]]
+zipcode = 43526
+percent_zip_in_county = 1.48
+
+[[zipcodes]]
+zipcode = 45813
+percent_zip_in_county = 99.32
+
+[[zipcodes]]
+zipcode = 45821
+percent_zip_in_county = 98.4
+
+[[zipcodes]]
+zipcode = 45827
+percent_zip_in_county = 8.36
+
+[[zipcodes]]
+zipcode = 45832
+percent_zip_in_county = 0.52
+
+[[zipcodes]]
+zipcode = 45849
+percent_zip_in_county = 85.07
+
+[[zipcodes]]
+zipcode = 45851
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45855
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45861
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45873
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45879
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45880
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45886
+percent_zip_in_county = 47.55

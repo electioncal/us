@@ -1,2 +1,34 @@
 name = "Bamberg County"
 fips_code = 45009
+
+[[zipcodes]]
+zipcode = 29003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29042
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29081
+percent_zip_in_county = 98.96
+
+[[zipcodes]]
+zipcode = 29082
+percent_zip_in_county = 1.75
+
+[[zipcodes]]
+zipcode = 29432
+percent_zip_in_county = 15.88
+
+[[zipcodes]]
+zipcode = 29481
+percent_zip_in_county = 12.71
+
+[[zipcodes]]
+zipcode = 29817
+percent_zip_in_county = 4.66
+
+[[zipcodes]]
+zipcode = 29843
+percent_zip_in_county = 67.08

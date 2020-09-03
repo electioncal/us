@@ -1,2 +1,22 @@
 name = "Zapata County"
 fips_code = 48505
+
+[[zipcodes]]
+zipcode = 78067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78076
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78361
+percent_zip_in_county = 0.41
+
+[[zipcodes]]
+zipcode = 78545
+percent_zip_in_county = 35.68
+
+[[zipcodes]]
+zipcode = 78564
+percent_zip_in_county = 100.0

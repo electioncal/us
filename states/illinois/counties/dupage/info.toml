@@ -1,2 +1,174 @@
 name = "DuPage County"
 fips_code = 17043
+
+[[zipcodes]]
+zipcode = 60007
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 60101
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60103
+percent_zip_in_county = 59.73
+
+[[zipcodes]]
+zipcode = 60106
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60108
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60126
+percent_zip_in_county = 99.28
+
+[[zipcodes]]
+zipcode = 60133
+percent_zip_in_county = 45.84
+
+[[zipcodes]]
+zipcode = 60137
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60139
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60143
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60148
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60157
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60172
+percent_zip_in_county = 83.67
+
+[[zipcodes]]
+zipcode = 60174
+percent_zip_in_county = 1.77
+
+[[zipcodes]]
+zipcode = 60181
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60184
+percent_zip_in_county = 64.95
+
+[[zipcodes]]
+zipcode = 60185
+percent_zip_in_county = 99.59
+
+[[zipcodes]]
+zipcode = 60187
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60188
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60189
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60190
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60191
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60439
+percent_zip_in_county = 6.63
+
+[[zipcodes]]
+zipcode = 60440
+percent_zip_in_county = 2.97
+
+[[zipcodes]]
+zipcode = 60502
+percent_zip_in_county = 82.53
+
+[[zipcodes]]
+zipcode = 60504
+percent_zip_in_county = 75.06
+
+[[zipcodes]]
+zipcode = 60510
+percent_zip_in_county = 0.73
+
+[[zipcodes]]
+zipcode = 60514
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60515
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60516
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60517
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60519
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60521
+percent_zip_in_county = 87.34
+
+[[zipcodes]]
+zipcode = 60523
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60527
+percent_zip_in_county = 85.32
+
+[[zipcodes]]
+zipcode = 60532
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60540
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60555
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60559
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60561
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60563
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60564
+percent_zip_in_county = 12.48
+
+[[zipcodes]]
+zipcode = 60565
+percent_zip_in_county = 62.47

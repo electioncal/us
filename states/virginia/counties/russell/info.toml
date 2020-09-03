@@ -1,2 +1,42 @@
 name = "Russell County"
 fips_code = 51167
+
+[[zipcodes]]
+zipcode = 24224
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24225
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24237
+percent_zip_in_county = 47.65
+
+[[zipcodes]]
+zipcode = 24260
+percent_zip_in_county = 81.08
+
+[[zipcodes]]
+zipcode = 24266
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24280
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24283
+percent_zip_in_county = 11.05
+
+[[zipcodes]]
+zipcode = 24609
+percent_zip_in_county = 24.88
+
+[[zipcodes]]
+zipcode = 24639
+percent_zip_in_county = 0.48
+
+[[zipcodes]]
+zipcode = 24649
+percent_zip_in_county = 99.64

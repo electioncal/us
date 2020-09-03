@@ -1,2 +1,50 @@
 name = "Edmonson County"
 fips_code = 21061
+
+[[zipcodes]]
+zipcode = 42101
+percent_zip_in_county = 2.53
+
+[[zipcodes]]
+zipcode = 42160
+percent_zip_in_county = 22.04
+
+[[zipcodes]]
+zipcode = 42163
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42171
+percent_zip_in_county = 33.24
+
+[[zipcodes]]
+zipcode = 42207
+percent_zip_in_county = 98.92
+
+[[zipcodes]]
+zipcode = 42210
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42259
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42275
+percent_zip_in_county = 37.03
+
+[[zipcodes]]
+zipcode = 42285
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42721
+percent_zip_in_county = 2.86
+
+[[zipcodes]]
+zipcode = 42729
+percent_zip_in_county = 21.95
+
+[[zipcodes]]
+zipcode = 42754
+percent_zip_in_county = 0.68

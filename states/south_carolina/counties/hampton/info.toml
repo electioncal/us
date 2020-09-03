@@ -1,2 +1,50 @@
 name = "Hampton County"
 fips_code = 45049
+
+[[zipcodes]]
+zipcode = 29911
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29916
+percent_zip_in_county = 59.88
+
+[[zipcodes]]
+zipcode = 29918
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29921
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29922
+percent_zip_in_county = 70.84
+
+[[zipcodes]]
+zipcode = 29923
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29924
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29932
+percent_zip_in_county = 68.03
+
+[[zipcodes]]
+zipcode = 29934
+percent_zip_in_county = 8.53
+
+[[zipcodes]]
+zipcode = 29939
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29944
+percent_zip_in_county = 98.36
+
+[[zipcodes]]
+zipcode = 29945
+percent_zip_in_county = 35.94

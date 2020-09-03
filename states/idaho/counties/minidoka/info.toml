@@ -1,2 +1,18 @@
 name = "Minidoka County"
 fips_code = 16067
+
+[[zipcodes]]
+zipcode = 83318
+percent_zip_in_county = 1.96
+
+[[zipcodes]]
+zipcode = 83336
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83347
+percent_zip_in_county = 90.76
+
+[[zipcodes]]
+zipcode = 83350
+percent_zip_in_county = 96.37

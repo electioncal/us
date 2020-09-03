@@ -1,2 +1,26 @@
 name = "Chesapeake city"
 fips_code = 51550
+
+[[zipcodes]]
+zipcode = 23320
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23321
+percent_zip_in_county = 99.81
+
+[[zipcodes]]
+zipcode = 23322
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23323
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23324
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23325
+percent_zip_in_county = 100.0

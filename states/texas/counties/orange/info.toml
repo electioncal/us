@@ -1,2 +1,18 @@
 name = "Orange County"
 fips_code = 48361
+
+[[zipcodes]]
+zipcode = 77611
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77630
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77632
+percent_zip_in_county = 89.6
+
+[[zipcodes]]
+zipcode = 77662
+percent_zip_in_county = 97.71

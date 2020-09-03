@@ -1,2 +1,66 @@
 name = "Waushara County"
 fips_code = 55137
+
+[[zipcodes]]
+zipcode = 53964
+percent_zip_in_county = 0.53
+
+[[zipcodes]]
+zipcode = 54909
+percent_zip_in_county = 8.76
+
+[[zipcodes]]
+zipcode = 54923
+percent_zip_in_county = 18.7
+
+[[zipcodes]]
+zipcode = 54930
+percent_zip_in_county = 87.01
+
+[[zipcodes]]
+zipcode = 54940
+percent_zip_in_county = 18.23
+
+[[zipcodes]]
+zipcode = 54943
+percent_zip_in_county = 72.85
+
+[[zipcodes]]
+zipcode = 54960
+percent_zip_in_county = 37.54
+
+[[zipcodes]]
+zipcode = 54965
+percent_zip_in_county = 98.51
+
+[[zipcodes]]
+zipcode = 54966
+percent_zip_in_county = 86.01
+
+[[zipcodes]]
+zipcode = 54967
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54970
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54981
+percent_zip_in_county = 1.45
+
+[[zipcodes]]
+zipcode = 54982
+percent_zip_in_county = 99.06
+
+[[zipcodes]]
+zipcode = 54983
+percent_zip_in_county = 6.07
+
+[[zipcodes]]
+zipcode = 54984
+percent_zip_in_county = 98.29
+
+[[zipcodes]]
+zipcode = 54986
+percent_zip_in_county = 0.69

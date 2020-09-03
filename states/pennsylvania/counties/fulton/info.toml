@@ -1,2 +1,70 @@
 name = "Fulton County"
 fips_code = 42057
+
+[[zipcodes]]
+zipcode = 15533
+percent_zip_in_county = 6.57
+
+[[zipcodes]]
+zipcode = 15536
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16674
+percent_zip_in_county = 4.62
+
+[[zipcodes]]
+zipcode = 16689
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16691
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16694
+percent_zip_in_county = 3.15
+
+[[zipcodes]]
+zipcode = 17212
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17215
+percent_zip_in_county = 58.79
+
+[[zipcodes]]
+zipcode = 17223
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17224
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 17228
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17229
+percent_zip_in_county = 86.68
+
+[[zipcodes]]
+zipcode = 17233
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17236
+percent_zip_in_county = 2.59
+
+[[zipcodes]]
+zipcode = 17238
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17264
+percent_zip_in_county = 4.9
+
+[[zipcodes]]
+zipcode = 17267
+percent_zip_in_county = 100.0

@@ -1,2 +1,50 @@
 name = "Williams County"
 fips_code = 39171
+
+[[zipcodes]]
+zipcode = 43501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43502
+percent_zip_in_county = 0.27
+
+[[zipcodes]]
+zipcode = 43505
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43506
+percent_zip_in_county = 96.39
+
+[[zipcodes]]
+zipcode = 43517
+percent_zip_in_county = 80.56
+
+[[zipcodes]]
+zipcode = 43518
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43521
+percent_zip_in_county = 1.67
+
+[[zipcodes]]
+zipcode = 43531
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43543
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43554
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43557
+percent_zip_in_county = 95.96
+
+[[zipcodes]]
+zipcode = 43570
+percent_zip_in_county = 96.72

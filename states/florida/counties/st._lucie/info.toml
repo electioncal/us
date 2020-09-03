@@ -1,2 +1,74 @@
 name = "St. Lucie County"
 fips_code = 12111
+
+[[zipcodes]]
+zipcode = 34945
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34946
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34947
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34949
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34950
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34951
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34952
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34953
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34957
+percent_zip_in_county = 25.38
+
+[[zipcodes]]
+zipcode = 34972
+percent_zip_in_county = 0.14
+
+[[zipcodes]]
+zipcode = 34981
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34982
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34983
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34984
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34986
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34987
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34990
+percent_zip_in_county = 3.55
+
+[[zipcodes]]
+zipcode = 34994
+percent_zip_in_county = 3.31

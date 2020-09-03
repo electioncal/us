@@ -1,2 +1,74 @@
 name = "Jackson County"
 fips_code = 17077
+
+[[zipcodes]]
+zipcode = 62280
+percent_zip_in_county = 43.24
+
+[[zipcodes]]
+zipcode = 62832
+percent_zip_in_county = 0.76
+
+[[zipcodes]]
+zipcode = 62901
+percent_zip_in_county = 96.5
+
+[[zipcodes]]
+zipcode = 62902
+percent_zip_in_county = 76.45
+
+[[zipcodes]]
+zipcode = 62903
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62905
+percent_zip_in_county = 10.49
+
+[[zipcodes]]
+zipcode = 62907
+percent_zip_in_county = 99.63
+
+[[zipcodes]]
+zipcode = 62916
+percent_zip_in_county = 84.12
+
+[[zipcodes]]
+zipcode = 62924
+percent_zip_in_county = 86.12
+
+[[zipcodes]]
+zipcode = 62927
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62932
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62940
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62942
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62950
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62958
+percent_zip_in_county = 82.71
+
+[[zipcodes]]
+zipcode = 62966
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62975
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62994
+percent_zip_in_county = 100.0

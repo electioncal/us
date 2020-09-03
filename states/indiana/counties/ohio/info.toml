@@ -1,2 +1,22 @@
 name = "Ohio County"
 fips_code = 18115
+
+[[zipcodes]]
+zipcode = 47001
+percent_zip_in_county = 6.99
+
+[[zipcodes]]
+zipcode = 47011
+percent_zip_in_county = 0.86
+
+[[zipcodes]]
+zipcode = 47017
+percent_zip_in_county = 1.38
+
+[[zipcodes]]
+zipcode = 47018
+percent_zip_in_county = 14.34
+
+[[zipcodes]]
+zipcode = 47040
+percent_zip_in_county = 87.01

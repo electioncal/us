@@ -1,2 +1,46 @@
 name = "Antelope County"
 fips_code = 31003
+
+[[zipcodes]]
+zipcode = 68636
+percent_zip_in_county = 97.77
+
+[[zipcodes]]
+zipcode = 68720
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68726
+percent_zip_in_county = 96.3
+
+[[zipcodes]]
+zipcode = 68729
+percent_zip_in_county = 7.51
+
+[[zipcodes]]
+zipcode = 68735
+percent_zip_in_county = 8.13
+
+[[zipcodes]]
+zipcode = 68756
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68761
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68764
+percent_zip_in_county = 81.14
+
+[[zipcodes]]
+zipcode = 68769
+percent_zip_in_county = 10.19
+
+[[zipcodes]]
+zipcode = 68773
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68781
+percent_zip_in_county = 42.15

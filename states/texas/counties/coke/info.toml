@@ -1,2 +1,22 @@
 name = "Coke County"
 fips_code = 48081
+
+[[zipcodes]]
+zipcode = 76933
+percent_zip_in_county = 92.31
+
+[[zipcodes]]
+zipcode = 76945
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76949
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76953
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79506
+percent_zip_in_county = 43.01

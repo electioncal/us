@@ -1,2 +1,38 @@
 name = "Chickasaw County"
 fips_code = 19037
+
+[[zipcodes]]
+zipcode = 50603
+percent_zip_in_county = 87.36
+
+[[zipcodes]]
+zipcode = 50616
+percent_zip_in_county = 0.84
+
+[[zipcodes]]
+zipcode = 50630
+percent_zip_in_county = 96.47
+
+[[zipcodes]]
+zipcode = 50645
+percent_zip_in_county = 93.36
+
+[[zipcodes]]
+zipcode = 50658
+percent_zip_in_county = 89.36
+
+[[zipcodes]]
+zipcode = 50659
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50674
+percent_zip_in_county = 2.33
+
+[[zipcodes]]
+zipcode = 52154
+percent_zip_in_county = 98.09
+
+[[zipcodes]]
+zipcode = 52171
+percent_zip_in_county = 20.8

@@ -1,2 +1,14 @@
 name = "Petroleum County"
 fips_code = 30069
+
+[[zipcodes]]
+zipcode = 59032
+percent_zip_in_county = 3.92
+
+[[zipcodes]]
+zipcode = 59072
+percent_zip_in_county = 1.01
+
+[[zipcodes]]
+zipcode = 59087
+percent_zip_in_county = 100.0

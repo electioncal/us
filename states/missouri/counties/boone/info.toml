@@ -1,2 +1,50 @@
 name = "Boone County"
 fips_code = 29019
+
+[[zipcodes]]
+zipcode = 65010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65039
+percent_zip_in_county = 94.76
+
+[[zipcodes]]
+zipcode = 65201
+percent_zip_in_county = 99.84
+
+[[zipcodes]]
+zipcode = 65202
+percent_zip_in_county = 98.93
+
+[[zipcodes]]
+zipcode = 65203
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65215
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65240
+percent_zip_in_county = 81.67
+
+[[zipcodes]]
+zipcode = 65243
+percent_zip_in_county = 18.82
+
+[[zipcodes]]
+zipcode = 65255
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65256
+percent_zip_in_county = 84.39
+
+[[zipcodes]]
+zipcode = 65279
+percent_zip_in_county = 90.43
+
+[[zipcodes]]
+zipcode = 65284
+percent_zip_in_county = 95.68

@@ -1,2 +1,50 @@
 name = "Mountrail County"
 fips_code = 38061
+
+[[zipcodes]]
+zipcode = 58718
+percent_zip_in_county = 11.92
+
+[[zipcodes]]
+zipcode = 58734
+percent_zip_in_county = 31.54
+
+[[zipcodes]]
+zipcode = 58756
+percent_zip_in_county = 6.0
+
+[[zipcodes]]
+zipcode = 58763
+percent_zip_in_county = 77.64
+
+[[zipcodes]]
+zipcode = 58769
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58770
+percent_zip_in_county = 93.39
+
+[[zipcodes]]
+zipcode = 58771
+percent_zip_in_county = 83.66
+
+[[zipcodes]]
+zipcode = 58773
+percent_zip_in_county = 18.63
+
+[[zipcodes]]
+zipcode = 58776
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58784
+percent_zip_in_county = 99.18
+
+[[zipcodes]]
+zipcode = 58794
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58852
+percent_zip_in_county = 4.4

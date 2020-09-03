@@ -1,2 +1,14 @@
 name = "Barceloneta Municipio"
 fips_code = 72017
+
+[[zipcodes]]
+zipcode = 612
+percent_zip_in_county = 0.11
+
+[[zipcodes]]
+zipcode = 617
+percent_zip_in_county = 99.43
+
+[[zipcodes]]
+zipcode = 650
+percent_zip_in_county = 1.91

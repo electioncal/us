@@ -1,2 +1,62 @@
 name = "Limestone County"
 fips_code = 1083
+
+[[zipcodes]]
+zipcode = 35610
+percent_zip_in_county = 20.78
+
+[[zipcodes]]
+zipcode = 35611
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35613
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35614
+percent_zip_in_county = 99.91
+
+[[zipcodes]]
+zipcode = 35615
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35620
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35647
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35649
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35652
+percent_zip_in_county = 1.28
+
+[[zipcodes]]
+zipcode = 35671
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35739
+percent_zip_in_county = 62.94
+
+[[zipcodes]]
+zipcode = 35749
+percent_zip_in_county = 15.41
+
+[[zipcodes]]
+zipcode = 35756
+percent_zip_in_county = 88.07
+
+[[zipcodes]]
+zipcode = 35757
+percent_zip_in_county = 2.38
+
+[[zipcodes]]
+zipcode = 35773
+percent_zip_in_county = 16.65

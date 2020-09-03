@@ -1,2 +1,78 @@
 name = "Rock County"
 fips_code = 55105
+
+[[zipcodes]]
+zipcode = 53114
+percent_zip_in_county = 7.28
+
+[[zipcodes]]
+zipcode = 53190
+percent_zip_in_county = 6.83
+
+[[zipcodes]]
+zipcode = 53501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53505
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53511
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53520
+percent_zip_in_county = 18.55
+
+[[zipcodes]]
+zipcode = 53521
+percent_zip_in_county = 8.12
+
+[[zipcodes]]
+zipcode = 53525
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53534
+percent_zip_in_county = 79.81
+
+[[zipcodes]]
+zipcode = 53536
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53537
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53538
+percent_zip_in_county = 0.67
+
+[[zipcodes]]
+zipcode = 53545
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53546
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53548
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53563
+percent_zip_in_county = 99.07
+
+[[zipcodes]]
+zipcode = 53576
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53585
+percent_zip_in_county = 0.99
+
+[[zipcodes]]
+zipcode = 53589
+percent_zip_in_county = 0.1

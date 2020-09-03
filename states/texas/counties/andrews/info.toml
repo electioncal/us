@@ -1,2 +1,6 @@
 name = "Andrews County"
 fips_code = 48003
+
+[[zipcodes]]
+zipcode = 79714
+percent_zip_in_county = 100.0

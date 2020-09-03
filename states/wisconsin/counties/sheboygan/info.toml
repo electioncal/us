@@ -1,2 +1,70 @@
 name = "Sheboygan County"
 fips_code = 55117
+
+[[zipcodes]]
+zipcode = 53001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53011
+percent_zip_in_county = 97.04
+
+[[zipcodes]]
+zipcode = 53013
+percent_zip_in_county = 90.6
+
+[[zipcodes]]
+zipcode = 53015
+percent_zip_in_county = 15.94
+
+[[zipcodes]]
+zipcode = 53020
+percent_zip_in_county = 96.26
+
+[[zipcodes]]
+zipcode = 53023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53031
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53040
+percent_zip_in_county = 4.59
+
+[[zipcodes]]
+zipcode = 53044
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53073
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53075
+percent_zip_in_county = 95.4
+
+[[zipcodes]]
+zipcode = 53079
+percent_zip_in_county = 1.77
+
+[[zipcodes]]
+zipcode = 53081
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53083
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53085
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53093
+percent_zip_in_county = 100.0

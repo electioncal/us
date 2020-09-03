@@ -1,2 +1,54 @@
 name = "Nevada County"
 fips_code = 6057
+
+[[zipcodes]]
+zipcode = 95602
+percent_zip_in_county = 32.82
+
+[[zipcodes]]
+zipcode = 95715
+percent_zip_in_county = 6.96
+
+[[zipcodes]]
+zipcode = 95728
+percent_zip_in_county = 27.98
+
+[[zipcodes]]
+zipcode = 95945
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95946
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95949
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95959
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95960
+percent_zip_in_county = 73.24
+
+[[zipcodes]]
+zipcode = 95975
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95977
+percent_zip_in_county = 61.56
+
+[[zipcodes]]
+zipcode = 95986
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96111
+percent_zip_in_county = 45.63
+
+[[zipcodes]]
+zipcode = 96161
+percent_zip_in_county = 90.56

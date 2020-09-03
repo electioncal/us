@@ -1,2 +1,66 @@
 name = "Monroe County"
 fips_code = 29137
+
+[[zipcodes]]
+zipcode = 63437
+percent_zip_in_county = 2.26
+
+[[zipcodes]]
+zipcode = 63443
+percent_zip_in_county = 26.82
+
+[[zipcodes]]
+zipcode = 63450
+percent_zip_in_county = 15.15
+
+[[zipcodes]]
+zipcode = 63456
+percent_zip_in_county = 57.06
+
+[[zipcodes]]
+zipcode = 63462
+percent_zip_in_county = 12.89
+
+[[zipcodes]]
+zipcode = 63468
+percent_zip_in_county = 11.57
+
+[[zipcodes]]
+zipcode = 65240
+percent_zip_in_county = 0.2
+
+[[zipcodes]]
+zipcode = 65243
+percent_zip_in_county = 2.46
+
+[[zipcodes]]
+zipcode = 65258
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65260
+percent_zip_in_county = 4.18
+
+[[zipcodes]]
+zipcode = 65263
+percent_zip_in_county = 98.05
+
+[[zipcodes]]
+zipcode = 65265
+percent_zip_in_county = 0.48
+
+[[zipcodes]]
+zipcode = 65270
+percent_zip_in_county = 0.25
+
+[[zipcodes]]
+zipcode = 65275
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65282
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65283
+percent_zip_in_county = 100.0

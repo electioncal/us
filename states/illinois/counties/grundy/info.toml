@@ -1,2 +1,66 @@
 name = "Grundy County"
 fips_code = 17063
+
+[[zipcodes]]
+zipcode = 60407
+percent_zip_in_county = 65.26
+
+[[zipcodes]]
+zipcode = 60410
+percent_zip_in_county = 25.92
+
+[[zipcodes]]
+zipcode = 60416
+percent_zip_in_county = 99.76
+
+[[zipcodes]]
+zipcode = 60420
+percent_zip_in_county = 4.08
+
+[[zipcodes]]
+zipcode = 60424
+percent_zip_in_county = 99.67
+
+[[zipcodes]]
+zipcode = 60437
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60444
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60447
+percent_zip_in_county = 68.12
+
+[[zipcodes]]
+zipcode = 60450
+percent_zip_in_county = 99.77
+
+[[zipcodes]]
+zipcode = 60470
+percent_zip_in_county = 1.79
+
+[[zipcodes]]
+zipcode = 60474
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60479
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60481
+percent_zip_in_county = 2.08
+
+[[zipcodes]]
+zipcode = 60541
+percent_zip_in_county = 4.42
+
+[[zipcodes]]
+zipcode = 60961
+percent_zip_in_county = 0.57
+
+[[zipcodes]]
+zipcode = 61360
+percent_zip_in_county = 3.8

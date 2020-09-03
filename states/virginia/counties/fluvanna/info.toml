@@ -1,2 +1,38 @@
 name = "Fluvanna County"
 fips_code = 51065
+
+[[zipcodes]]
+zipcode = 22947
+percent_zip_in_county = 1.5
+
+[[zipcodes]]
+zipcode = 22963
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22974
+percent_zip_in_county = 74.39
+
+[[zipcodes]]
+zipcode = 23022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23038
+percent_zip_in_county = 22.03
+
+[[zipcodes]]
+zipcode = 23055
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23084
+percent_zip_in_county = 64.54
+
+[[zipcodes]]
+zipcode = 23093
+percent_zip_in_county = 0.28
+
+[[zipcodes]]
+zipcode = 24590
+percent_zip_in_county = 34.53

@@ -1,2 +1,54 @@
 name = "Hardin County"
 fips_code = 47071
+
+[[zipcodes]]
+zipcode = 38310
+percent_zip_in_county = 33.28
+
+[[zipcodes]]
+zipcode = 38326
+percent_zip_in_county = 98.95
+
+[[zipcodes]]
+zipcode = 38327
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38357
+percent_zip_in_county = 12.99
+
+[[zipcodes]]
+zipcode = 38359
+percent_zip_in_county = 42.45
+
+[[zipcodes]]
+zipcode = 38361
+percent_zip_in_county = 98.09
+
+[[zipcodes]]
+zipcode = 38365
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38370
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38371
+percent_zip_in_county = 24.78
+
+[[zipcodes]]
+zipcode = 38372
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38376
+percent_zip_in_county = 64.38
+
+[[zipcodes]]
+zipcode = 38425
+percent_zip_in_county = 5.37
+
+[[zipcodes]]
+zipcode = 38475
+percent_zip_in_county = 91.81

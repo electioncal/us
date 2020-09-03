@@ -1,2 +1,22 @@
 name = "Davison County"
 fips_code = 46035
+
+[[zipcodes]]
+zipcode = 57301
+percent_zip_in_county = 96.78
+
+[[zipcodes]]
+zipcode = 57331
+percent_zip_in_county = 9.15
+
+[[zipcodes]]
+zipcode = 57334
+percent_zip_in_county = 70.06
+
+[[zipcodes]]
+zipcode = 57359
+percent_zip_in_county = 10.79
+
+[[zipcodes]]
+zipcode = 57363
+percent_zip_in_county = 97.81

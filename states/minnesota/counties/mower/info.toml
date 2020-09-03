@@ -1,2 +1,70 @@
 name = "Mower County"
 fips_code = 27099
+
+[[zipcodes]]
+zipcode = 55909
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55912
+percent_zip_in_county = 98.12
+
+[[zipcodes]]
+zipcode = 55917
+percent_zip_in_county = 5.55
+
+[[zipcodes]]
+zipcode = 55918
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55926
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55933
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55936
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55950
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55951
+percent_zip_in_county = 89.41
+
+[[zipcodes]]
+zipcode = 55953
+percent_zip_in_county = 97.87
+
+[[zipcodes]]
+zipcode = 55961
+percent_zip_in_county = 24.16
+
+[[zipcodes]]
+zipcode = 55967
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55970
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55973
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55975
+percent_zip_in_county = 4.22
+
+[[zipcodes]]
+zipcode = 55977
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55982
+percent_zip_in_county = 100.0

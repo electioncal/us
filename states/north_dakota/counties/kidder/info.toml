@@ -1,2 +1,54 @@
 name = "Kidder County"
 fips_code = 38043
+
+[[zipcodes]]
+zipcode = 58418
+percent_zip_in_county = 3.68
+
+[[zipcodes]]
+zipcode = 58423
+percent_zip_in_county = 14.1
+
+[[zipcodes]]
+zipcode = 58428
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58467
+percent_zip_in_county = 3.3
+
+[[zipcodes]]
+zipcode = 58475
+percent_zip_in_county = 97.33
+
+[[zipcodes]]
+zipcode = 58478
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58482
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58483
+percent_zip_in_county = 10.0
+
+[[zipcodes]]
+zipcode = 58487
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58488
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58524
+percent_zip_in_county = 31.0
+
+[[zipcodes]]
+zipcode = 58532
+percent_zip_in_county = 19.87
+
+[[zipcodes]]
+zipcode = 58549
+percent_zip_in_county = 4.67

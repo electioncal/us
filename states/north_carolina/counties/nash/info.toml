@@ -1,2 +1,58 @@
 name = "Nash County"
 fips_code = 37127
+
+[[zipcodes]]
+zipcode = 27557
+percent_zip_in_county = 56.81
+
+[[zipcodes]]
+zipcode = 27597
+percent_zip_in_county = 5.52
+
+[[zipcodes]]
+zipcode = 27803
+percent_zip_in_county = 96.23
+
+[[zipcodes]]
+zipcode = 27804
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27807
+percent_zip_in_county = 94.3
+
+[[zipcodes]]
+zipcode = 27809
+percent_zip_in_county = 57.93
+
+[[zipcodes]]
+zipcode = 27816
+percent_zip_in_county = 54.69
+
+[[zipcodes]]
+zipcode = 27822
+percent_zip_in_county = 18.9
+
+[[zipcodes]]
+zipcode = 27856
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27878
+percent_zip_in_county = 62.82
+
+[[zipcodes]]
+zipcode = 27880
+percent_zip_in_county = 4.66
+
+[[zipcodes]]
+zipcode = 27882
+percent_zip_in_county = 86.81
+
+[[zipcodes]]
+zipcode = 27891
+percent_zip_in_county = 61.28
+
+[[zipcodes]]
+zipcode = 27896
+percent_zip_in_county = 3.0

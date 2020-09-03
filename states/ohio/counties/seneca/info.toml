@@ -1,2 +1,78 @@
 name = "Seneca County"
 fips_code = 39147
+
+[[zipcodes]]
+zipcode = 43316
+percent_zip_in_county = 8.09
+
+[[zipcodes]]
+zipcode = 43410
+percent_zip_in_county = 2.27
+
+[[zipcodes]]
+zipcode = 43457
+percent_zip_in_county = 2.27
+
+[[zipcodes]]
+zipcode = 44802
+percent_zip_in_county = 56.88
+
+[[zipcodes]]
+zipcode = 44807
+percent_zip_in_county = 93.91
+
+[[zipcodes]]
+zipcode = 44809
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44811
+percent_zip_in_county = 10.48
+
+[[zipcodes]]
+zipcode = 44815
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44818
+percent_zip_in_county = 68.42
+
+[[zipcodes]]
+zipcode = 44828
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44830
+percent_zip_in_county = 69.19
+
+[[zipcodes]]
+zipcode = 44836
+percent_zip_in_county = 60.02
+
+[[zipcodes]]
+zipcode = 44841
+percent_zip_in_county = 65.92
+
+[[zipcodes]]
+zipcode = 44844
+percent_zip_in_county = 46.2
+
+[[zipcodes]]
+zipcode = 44853
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44861
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44867
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44882
+percent_zip_in_county = 5.23
+
+[[zipcodes]]
+zipcode = 44883
+percent_zip_in_county = 100.0

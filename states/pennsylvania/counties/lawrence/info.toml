@@ -1,2 +1,90 @@
 name = "Lawrence County"
 fips_code = 42073
+
+[[zipcodes]]
+zipcode = 16037
+percent_zip_in_county = 4.86
+
+[[zipcodes]]
+zipcode = 16051
+percent_zip_in_county = 38.55
+
+[[zipcodes]]
+zipcode = 16057
+percent_zip_in_county = 5.32
+
+[[zipcodes]]
+zipcode = 16101
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16102
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16105
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16112
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16116
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16117
+percent_zip_in_county = 68.16
+
+[[zipcodes]]
+zipcode = 16120
+percent_zip_in_county = 91.11
+
+[[zipcodes]]
+zipcode = 16123
+percent_zip_in_county = 5.45
+
+[[zipcodes]]
+zipcode = 16127
+percent_zip_in_county = 0.19
+
+[[zipcodes]]
+zipcode = 16132
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16140
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16141
+percent_zip_in_county = 50.78
+
+[[zipcodes]]
+zipcode = 16142
+percent_zip_in_county = 63.53
+
+[[zipcodes]]
+zipcode = 16143
+percent_zip_in_county = 79.25
+
+[[zipcodes]]
+zipcode = 16155
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16156
+percent_zip_in_county = 76.2
+
+[[zipcodes]]
+zipcode = 16157
+percent_zip_in_county = 83.92
+
+[[zipcodes]]
+zipcode = 16159
+percent_zip_in_county = 8.12
+
+[[zipcodes]]
+zipcode = 16160
+percent_zip_in_county = 100.0

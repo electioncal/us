@@ -1,2 +1,62 @@
 name = "Bay County"
 fips_code = 12005
+
+[[zipcodes]]
+zipcode = 32401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32403
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32404
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32405
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32407
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32408
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32409
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32410
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32413
+percent_zip_in_county = 91.51
+
+[[zipcodes]]
+zipcode = 32437
+percent_zip_in_county = 16.79
+
+[[zipcodes]]
+zipcode = 32438
+percent_zip_in_county = 91.8
+
+[[zipcodes]]
+zipcode = 32444
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32456
+percent_zip_in_county = 4.81
+
+[[zipcodes]]
+zipcode = 32462
+percent_zip_in_county = 1.2
+
+[[zipcodes]]
+zipcode = 32466
+percent_zip_in_county = 96.77

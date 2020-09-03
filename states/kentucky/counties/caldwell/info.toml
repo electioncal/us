@@ -1,2 +1,22 @@
 name = "Caldwell County"
 fips_code = 21033
+
+[[zipcodes]]
+zipcode = 42038
+percent_zip_in_county = 0.13
+
+[[zipcodes]]
+zipcode = 42064
+percent_zip_in_county = 0.4
+
+[[zipcodes]]
+zipcode = 42408
+percent_zip_in_county = 13.8
+
+[[zipcodes]]
+zipcode = 42411
+percent_zip_in_county = 75.79
+
+[[zipcodes]]
+zipcode = 42445
+percent_zip_in_county = 94.94

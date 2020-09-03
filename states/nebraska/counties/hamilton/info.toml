@@ -1,2 +1,50 @@
 name = "Hamilton County"
 fips_code = 31081
+
+[[zipcodes]]
+zipcode = 68371
+percent_zip_in_county = 8.11
+
+[[zipcodes]]
+zipcode = 68628
+percent_zip_in_county = 3.39
+
+[[zipcodes]]
+zipcode = 68654
+percent_zip_in_county = 6.28
+
+[[zipcodes]]
+zipcode = 68818
+percent_zip_in_county = 99.2
+
+[[zipcodes]]
+zipcode = 68832
+percent_zip_in_county = 3.34
+
+[[zipcodes]]
+zipcode = 68841
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68843
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68846
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68854
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68865
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68944
+percent_zip_in_county = 4.16
+
+[[zipcodes]]
+zipcode = 68980
+percent_zip_in_county = 13.92

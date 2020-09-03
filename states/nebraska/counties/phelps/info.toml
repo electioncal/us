@@ -1,2 +1,38 @@
 name = "Phelps County"
 fips_code = 31137
+
+[[zipcodes]]
+zipcode = 68836
+percent_zip_in_county = 14.04
+
+[[zipcodes]]
+zipcode = 68863
+percent_zip_in_county = 4.0
+
+[[zipcodes]]
+zipcode = 68923
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68924
+percent_zip_in_county = 1.44
+
+[[zipcodes]]
+zipcode = 68927
+percent_zip_in_county = 92.96
+
+[[zipcodes]]
+zipcode = 68940
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68949
+percent_zip_in_county = 98.23
+
+[[zipcodes]]
+zipcode = 68958
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68982
+percent_zip_in_county = 10.32

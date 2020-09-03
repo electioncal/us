@@ -1,2 +1,34 @@
 name = "Wasco County"
 fips_code = 41065
+
+[[zipcodes]]
+zipcode = 97001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97057
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97058
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97063
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97761
+percent_zip_in_county = 21.42

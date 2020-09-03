@@ -1,2 +1,34 @@
 name = "Green County"
 fips_code = 21087
+
+[[zipcodes]]
+zipcode = 42214
+percent_zip_in_county = 19.79
+
+[[zipcodes]]
+zipcode = 42716
+percent_zip_in_county = 5.75
+
+[[zipcodes]]
+zipcode = 42718
+percent_zip_in_county = 2.32
+
+[[zipcodes]]
+zipcode = 42743
+percent_zip_in_county = 98.75
+
+[[zipcodes]]
+zipcode = 42746
+percent_zip_in_county = 7.93
+
+[[zipcodes]]
+zipcode = 42757
+percent_zip_in_county = 11.67
+
+[[zipcodes]]
+zipcode = 42764
+percent_zip_in_county = 60.29
+
+[[zipcodes]]
+zipcode = 42782
+percent_zip_in_county = 91.82

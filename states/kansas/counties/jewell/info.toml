@@ -1,2 +1,50 @@
 name = "Jewell County"
 fips_code = 20089
+
+[[zipcodes]]
+zipcode = 66936
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66939
+percent_zip_in_county = 5.21
+
+[[zipcodes]]
+zipcode = 66941
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66942
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66949
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66952
+percent_zip_in_county = 1.2
+
+[[zipcodes]]
+zipcode = 66956
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66963
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66970
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67430
+percent_zip_in_county = 8.18
+
+[[zipcodes]]
+zipcode = 67446
+percent_zip_in_county = 5.35
+
+[[zipcodes]]
+zipcode = 68978
+percent_zip_in_county = 2.94

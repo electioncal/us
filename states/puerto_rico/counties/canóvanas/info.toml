@@ -1,2 +1,14 @@
 name = "Canóvanas Municipio"
 fips_code = 72029
+
+[[zipcodes]]
+zipcode = 729
+percent_zip_in_county = 87.09
+
+[[zipcodes]]
+zipcode = 745
+percent_zip_in_county = 1.4
+
+[[zipcodes]]
+zipcode = 777
+percent_zip_in_county = 0.16

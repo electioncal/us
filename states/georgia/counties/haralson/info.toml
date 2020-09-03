@@ -1,2 +1,26 @@
 name = "Haralson County"
 fips_code = 13143
+
+[[zipcodes]]
+zipcode = 30110
+percent_zip_in_county = 95.49
+
+[[zipcodes]]
+zipcode = 30113
+percent_zip_in_county = 92.97
+
+[[zipcodes]]
+zipcode = 30153
+percent_zip_in_county = 1.96
+
+[[zipcodes]]
+zipcode = 30176
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30179
+percent_zip_in_county = 9.66
+
+[[zipcodes]]
+zipcode = 30182
+percent_zip_in_county = 45.72

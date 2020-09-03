@@ -1,2 +1,22 @@
 name = "Weston County"
 fips_code = 56045
+
+[[zipcodes]]
+zipcode = 82701
+percent_zip_in_county = 98.64
+
+[[zipcodes]]
+zipcode = 82715
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 82723
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82729
+percent_zip_in_county = 1.16
+
+[[zipcodes]]
+zipcode = 82730
+percent_zip_in_county = 97.25

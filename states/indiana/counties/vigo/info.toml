@@ -1,2 +1,74 @@
 name = "Vigo County"
 fips_code = 18167
+
+[[zipcodes]]
+zipcode = 47802
+percent_zip_in_county = 99.95
+
+[[zipcodes]]
+zipcode = 47803
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47804
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47805
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47807
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47809
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47834
+percent_zip_in_county = 3.44
+
+[[zipcodes]]
+zipcode = 47842
+percent_zip_in_county = 1.07
+
+[[zipcodes]]
+zipcode = 47850
+percent_zip_in_county = 19.42
+
+[[zipcodes]]
+zipcode = 47858
+percent_zip_in_county = 28.51
+
+[[zipcodes]]
+zipcode = 47863
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47866
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47869
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47871
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47874
+percent_zip_in_county = 23.52
+
+[[zipcodes]]
+zipcode = 47876
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47880
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47885
+percent_zip_in_county = 100.0

@@ -1,2 +1,42 @@
 name = "New Hanover County"
 fips_code = 37129
+
+[[zipcodes]]
+zipcode = 28401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28403
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28405
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28409
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28411
+percent_zip_in_county = 94.69
+
+[[zipcodes]]
+zipcode = 28412
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28428
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28429
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28449
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28480
+percent_zip_in_county = 100.0

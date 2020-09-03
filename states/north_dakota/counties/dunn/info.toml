@@ -1,2 +1,50 @@
 name = "Dunn County"
 fips_code = 38025
+
+[[zipcodes]]
+zipcode = 58601
+percent_zip_in_county = 1.64
+
+[[zipcodes]]
+zipcode = 58625
+percent_zip_in_county = 85.95
+
+[[zipcodes]]
+zipcode = 58626
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58630
+percent_zip_in_county = 16.53
+
+[[zipcodes]]
+zipcode = 58636
+percent_zip_in_county = 96.03
+
+[[zipcodes]]
+zipcode = 58638
+percent_zip_in_county = 1.01
+
+[[zipcodes]]
+zipcode = 58640
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58642
+percent_zip_in_county = 94.31
+
+[[zipcodes]]
+zipcode = 58652
+percent_zip_in_county = 7.7
+
+[[zipcodes]]
+zipcode = 58656
+percent_zip_in_county = 9.84
+
+[[zipcodes]]
+zipcode = 58757
+percent_zip_in_county = 24.42
+
+[[zipcodes]]
+zipcode = 58854
+percent_zip_in_county = 0.18

@@ -1,2 +1,50 @@
 name = "Monroe County"
 fips_code = 28095
+
+[[zipcodes]]
+zipcode = 38821
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38844
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38848
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38858
+percent_zip_in_county = 44.01
+
+[[zipcodes]]
+zipcode = 38860
+percent_zip_in_county = 13.33
+
+[[zipcodes]]
+zipcode = 38868
+percent_zip_in_county = 3.43
+
+[[zipcodes]]
+zipcode = 38870
+percent_zip_in_county = 95.48
+
+[[zipcodes]]
+zipcode = 39730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39740
+percent_zip_in_county = 9.57
+
+[[zipcodes]]
+zipcode = 39746
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39756
+percent_zip_in_county = 37.36
+
+[[zipcodes]]
+zipcode = 39773
+percent_zip_in_county = 1.22

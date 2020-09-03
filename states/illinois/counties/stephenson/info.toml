@@ -1,2 +1,78 @@
 name = "Stephenson County"
 fips_code = 17177
+
+[[zipcodes]]
+zipcode = 61007
+percent_zip_in_county = 35.02
+
+[[zipcodes]]
+zipcode = 61013
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61018
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61019
+percent_zip_in_county = 61.01
+
+[[zipcodes]]
+zipcode = 61027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61039
+percent_zip_in_county = 86.41
+
+[[zipcodes]]
+zipcode = 61044
+percent_zip_in_county = 77.16
+
+[[zipcodes]]
+zipcode = 61047
+percent_zip_in_county = 0.7
+
+[[zipcodes]]
+zipcode = 61048
+percent_zip_in_county = 98.0
+
+[[zipcodes]]
+zipcode = 61050
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61060
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61062
+percent_zip_in_county = 98.29
+
+[[zipcodes]]
+zipcode = 61063
+percent_zip_in_county = 5.49
+
+[[zipcodes]]
+zipcode = 61067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61078
+percent_zip_in_county = 6.55
+
+[[zipcodes]]
+zipcode = 61087
+percent_zip_in_county = 0.48
+
+[[zipcodes]]
+zipcode = 61089
+percent_zip_in_county = 100.0

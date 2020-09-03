@@ -1,2 +1,90 @@
 name = "Clayton County"
 fips_code = 19043
+
+[[zipcodes]]
+zipcode = 50606
+percent_zip_in_county = 1.92
+
+[[zipcodes]]
+zipcode = 52035
+percent_zip_in_county = 41.09
+
+[[zipcodes]]
+zipcode = 52042
+percent_zip_in_county = 61.78
+
+[[zipcodes]]
+zipcode = 52043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52044
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52047
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52048
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52049
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52050
+percent_zip_in_county = 5.44
+
+[[zipcodes]]
+zipcode = 52052
+percent_zip_in_county = 95.15
+
+[[zipcodes]]
+zipcode = 52053
+percent_zip_in_county = 18.06
+
+[[zipcodes]]
+zipcode = 52066
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52073
+percent_zip_in_county = 2.12
+
+[[zipcodes]]
+zipcode = 52076
+percent_zip_in_county = 94.12
+
+[[zipcodes]]
+zipcode = 52077
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52141
+percent_zip_in_county = 20.14
+
+[[zipcodes]]
+zipcode = 52156
+percent_zip_in_county = 84.67
+
+[[zipcodes]]
+zipcode = 52157
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52158
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52159
+percent_zip_in_county = 83.86
+
+[[zipcodes]]
+zipcode = 52162
+percent_zip_in_county = 18.39

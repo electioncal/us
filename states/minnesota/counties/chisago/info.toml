@@ -1,2 +1,62 @@
 name = "Chisago County"
 fips_code = 27025
+
+[[zipcodes]]
+zipcode = 55006
+percent_zip_in_county = 5.23
+
+[[zipcodes]]
+zipcode = 55008
+percent_zip_in_county = 0.07
+
+[[zipcodes]]
+zipcode = 55012
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55013
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55025
+percent_zip_in_county = 4.99
+
+[[zipcodes]]
+zipcode = 55032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55056
+percent_zip_in_county = 87.58
+
+[[zipcodes]]
+zipcode = 55069
+percent_zip_in_county = 93.66
+
+[[zipcodes]]
+zipcode = 55073
+percent_zip_in_county = 12.54
+
+[[zipcodes]]
+zipcode = 55074
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55079
+percent_zip_in_county = 48.43
+
+[[zipcodes]]
+zipcode = 55080
+percent_zip_in_county = 38.13
+
+[[zipcodes]]
+zipcode = 55084
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55092
+percent_zip_in_county = 58.63

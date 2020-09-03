@@ -1,2 +1,38 @@
 name = "Fentress County"
 fips_code = 47049
+
+[[zipcodes]]
+zipcode = 37726
+percent_zip_in_county = 8.79
+
+[[zipcodes]]
+zipcode = 38504
+percent_zip_in_county = 96.34
+
+[[zipcodes]]
+zipcode = 38549
+percent_zip_in_county = 1.2
+
+[[zipcodes]]
+zipcode = 38553
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38556
+percent_zip_in_county = 99.73
+
+[[zipcodes]]
+zipcode = 38565
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38574
+percent_zip_in_county = 4.84
+
+[[zipcodes]]
+zipcode = 38577
+percent_zip_in_county = 41.02
+
+[[zipcodes]]
+zipcode = 38589
+percent_zip_in_county = 36.0

@@ -1,2 +1,146 @@
 name = "Armstrong County"
 fips_code = 42005
+
+[[zipcodes]]
+zipcode = 15613
+percent_zip_in_county = 36.87
+
+[[zipcodes]]
+zipcode = 15618
+percent_zip_in_county = 30.26
+
+[[zipcodes]]
+zipcode = 15656
+percent_zip_in_county = 44.43
+
+[[zipcodes]]
+zipcode = 15673
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15686
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15690
+percent_zip_in_county = 37.46
+
+[[zipcodes]]
+zipcode = 15732
+percent_zip_in_county = 7.37
+
+[[zipcodes]]
+zipcode = 15736
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15774
+percent_zip_in_county = 48.83
+
+[[zipcodes]]
+zipcode = 16025
+percent_zip_in_county = 7.71
+
+[[zipcodes]]
+zipcode = 16028
+percent_zip_in_county = 48.14
+
+[[zipcodes]]
+zipcode = 16041
+percent_zip_in_county = 23.99
+
+[[zipcodes]]
+zipcode = 16049
+percent_zip_in_county = 30.85
+
+[[zipcodes]]
+zipcode = 16055
+percent_zip_in_county = 3.0
+
+[[zipcodes]]
+zipcode = 16201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16210
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16212
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16218
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16222
+percent_zip_in_county = 89.94
+
+[[zipcodes]]
+zipcode = 16223
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16224
+percent_zip_in_county = 9.06
+
+[[zipcodes]]
+zipcode = 16226
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16228
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16229
+percent_zip_in_county = 80.71
+
+[[zipcodes]]
+zipcode = 16236
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16238
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16240
+percent_zip_in_county = 32.62
+
+[[zipcodes]]
+zipcode = 16242
+percent_zip_in_county = 45.34
+
+[[zipcodes]]
+zipcode = 16244
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16245
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16249
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16250
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16253
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16259
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16262
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16263
+percent_zip_in_county = 100.0

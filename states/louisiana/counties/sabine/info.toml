@@ -1,2 +1,50 @@
 name = "Sabine Parish"
 fips_code = 22085
+
+[[zipcodes]]
+zipcode = 71065
+percent_zip_in_county = 98.46
+
+[[zipcodes]]
+zipcode = 71403
+percent_zip_in_county = 0.94
+
+[[zipcodes]]
+zipcode = 71406
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71419
+percent_zip_in_county = 88.13
+
+[[zipcodes]]
+zipcode = 71426
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71429
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71439
+percent_zip_in_county = 20.08
+
+[[zipcodes]]
+zipcode = 71449
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71450
+percent_zip_in_county = 27.76
+
+[[zipcodes]]
+zipcode = 71462
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71469
+percent_zip_in_county = 16.22
+
+[[zipcodes]]
+zipcode = 71486
+percent_zip_in_county = 100.0

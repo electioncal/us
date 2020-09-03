@@ -1,2 +1,54 @@
 name = "Guthrie County"
 fips_code = 19077
+
+[[zipcodes]]
+zipcode = 50002
+percent_zip_in_county = 23.05
+
+[[zipcodes]]
+zipcode = 50026
+percent_zip_in_county = 85.45
+
+[[zipcodes]]
+zipcode = 50029
+percent_zip_in_county = 98.7
+
+[[zipcodes]]
+zipcode = 50048
+percent_zip_in_county = 77.35
+
+[[zipcodes]]
+zipcode = 50058
+percent_zip_in_county = 10.85
+
+[[zipcodes]]
+zipcode = 50070
+percent_zip_in_county = 31.7
+
+[[zipcodes]]
+zipcode = 50115
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50128
+percent_zip_in_county = 82.22
+
+[[zipcodes]]
+zipcode = 50164
+percent_zip_in_county = 81.29
+
+[[zipcodes]]
+zipcode = 50216
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50233
+percent_zip_in_county = 7.35
+
+[[zipcodes]]
+zipcode = 50250
+percent_zip_in_county = 54.42
+
+[[zipcodes]]
+zipcode = 50277
+percent_zip_in_county = 89.65

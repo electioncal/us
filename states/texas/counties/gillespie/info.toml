@@ -1,2 +1,30 @@
 name = "Gillespie County"
 fips_code = 48171
+
+[[zipcodes]]
+zipcode = 78028
+percent_zip_in_county = 1.96
+
+[[zipcodes]]
+zipcode = 78058
+percent_zip_in_county = 9.55
+
+[[zipcodes]]
+zipcode = 78618
+percent_zip_in_county = 81.79
+
+[[zipcodes]]
+zipcode = 78624
+percent_zip_in_county = 97.94
+
+[[zipcodes]]
+zipcode = 78631
+percent_zip_in_county = 76.08
+
+[[zipcodes]]
+zipcode = 78671
+percent_zip_in_county = 97.25
+
+[[zipcodes]]
+zipcode = 78675
+percent_zip_in_county = 100.0

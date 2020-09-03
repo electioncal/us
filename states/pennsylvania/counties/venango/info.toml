@@ -1,2 +1,90 @@
 name = "Venango County"
 fips_code = 42121
+
+[[zipcodes]]
+zipcode = 16038
+percent_zip_in_county = 36.74
+
+[[zipcodes]]
+zipcode = 16127
+percent_zip_in_county = 0.92
+
+[[zipcodes]]
+zipcode = 16153
+percent_zip_in_county = 6.48
+
+[[zipcodes]]
+zipcode = 16232
+percent_zip_in_county = 0.23
+
+[[zipcodes]]
+zipcode = 16301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16311
+percent_zip_in_county = 4.08
+
+[[zipcodes]]
+zipcode = 16314
+percent_zip_in_county = 6.17
+
+[[zipcodes]]
+zipcode = 16317
+percent_zip_in_county = 98.42
+
+[[zipcodes]]
+zipcode = 16319
+percent_zip_in_county = 75.5
+
+[[zipcodes]]
+zipcode = 16323
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16341
+percent_zip_in_county = 87.54
+
+[[zipcodes]]
+zipcode = 16342
+percent_zip_in_county = 99.56
+
+[[zipcodes]]
+zipcode = 16343
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16344
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16346
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16353
+percent_zip_in_county = 3.02
+
+[[zipcodes]]
+zipcode = 16354
+percent_zip_in_county = 24.62
+
+[[zipcodes]]
+zipcode = 16362
+percent_zip_in_county = 92.56
+
+[[zipcodes]]
+zipcode = 16364
+percent_zip_in_county = 69.56
+
+[[zipcodes]]
+zipcode = 16372
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16373
+percent_zip_in_county = 64.33
+
+[[zipcodes]]
+zipcode = 16374
+percent_zip_in_county = 100.0

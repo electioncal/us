@@ -1,2 +1,50 @@
 name = "Grant County"
 fips_code = 5053
+
+[[zipcodes]]
+zipcode = 71602
+percent_zip_in_county = 1.36
+
+[[zipcodes]]
+zipcode = 71603
+percent_zip_in_county = 0.25
+
+[[zipcodes]]
+zipcode = 72015
+percent_zip_in_county = 1.98
+
+[[zipcodes]]
+zipcode = 72057
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72065
+percent_zip_in_county = 5.76
+
+[[zipcodes]]
+zipcode = 72079
+percent_zip_in_county = 5.73
+
+[[zipcodes]]
+zipcode = 72084
+percent_zip_in_county = 62.16
+
+[[zipcodes]]
+zipcode = 72128
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72129
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72132
+percent_zip_in_county = 18.48
+
+[[zipcodes]]
+zipcode = 72150
+percent_zip_in_county = 99.01
+
+[[zipcodes]]
+zipcode = 72167
+percent_zip_in_county = 5.35

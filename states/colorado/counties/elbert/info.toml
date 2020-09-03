@@ -1,2 +1,58 @@
 name = "Elbert County"
 fips_code = 8039
+
+[[zipcodes]]
+zipcode = 80101
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80102
+percent_zip_in_county = 1.9
+
+[[zipcodes]]
+zipcode = 80105
+percent_zip_in_county = 32.71
+
+[[zipcodes]]
+zipcode = 80106
+percent_zip_in_county = 32.3
+
+[[zipcodes]]
+zipcode = 80107
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80117
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80138
+percent_zip_in_county = 14.55
+
+[[zipcodes]]
+zipcode = 80808
+percent_zip_in_county = 3.35
+
+[[zipcodes]]
+zipcode = 80828
+percent_zip_in_county = 5.54
+
+[[zipcodes]]
+zipcode = 80830
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80831
+percent_zip_in_county = 0.47
+
+[[zipcodes]]
+zipcode = 80832
+percent_zip_in_county = 27.78
+
+[[zipcodes]]
+zipcode = 80833
+percent_zip_in_county = 3.32
+
+[[zipcodes]]
+zipcode = 80835
+percent_zip_in_county = 100.0

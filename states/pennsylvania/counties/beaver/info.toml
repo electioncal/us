@@ -1,2 +1,110 @@
 name = "Beaver County"
 fips_code = 42007
+
+[[zipcodes]]
+zipcode = 15001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15003
+percent_zip_in_county = 92.22
+
+[[zipcodes]]
+zipcode = 15005
+percent_zip_in_county = 91.29
+
+[[zipcodes]]
+zipcode = 15009
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15026
+percent_zip_in_county = 74.9
+
+[[zipcodes]]
+zipcode = 15027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15042
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15050
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15052
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15059
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15066
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15074
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15077
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15081
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15143
+percent_zip_in_county = 5.37
+
+[[zipcodes]]
+zipcode = 16037
+percent_zip_in_county = 1.57
+
+[[zipcodes]]
+zipcode = 16063
+percent_zip_in_county = 7.5
+
+[[zipcodes]]
+zipcode = 16115
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16117
+percent_zip_in_county = 31.84
+
+[[zipcodes]]
+zipcode = 16120
+percent_zip_in_county = 8.89
+
+[[zipcodes]]
+zipcode = 16123
+percent_zip_in_county = 94.55
+
+[[zipcodes]]
+zipcode = 16136
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16141
+percent_zip_in_county = 49.22
+
+[[zipcodes]]
+zipcode = 16157
+percent_zip_in_county = 16.08

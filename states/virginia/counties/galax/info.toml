@@ -1,2 +1,6 @@
 name = "Galax city"
 fips_code = 51640
+
+[[zipcodes]]
+zipcode = 24333
+percent_zip_in_county = 39.13

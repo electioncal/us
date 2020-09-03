@@ -1,2 +1,46 @@
 name = "Randolph County"
 fips_code = 5121
+
+[[zipcodes]]
+zipcode = 72413
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72425
+percent_zip_in_county = 2.02
+
+[[zipcodes]]
+zipcode = 72434
+percent_zip_in_county = 40.56
+
+[[zipcodes]]
+zipcode = 72444
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72449
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72455
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72459
+percent_zip_in_county = 17.16
+
+[[zipcodes]]
+zipcode = 72460
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72462
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72476
+percent_zip_in_county = 1.36
+
+[[zipcodes]]
+zipcode = 72478
+percent_zip_in_county = 100.0

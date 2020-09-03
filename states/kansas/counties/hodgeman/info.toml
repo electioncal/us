@@ -1,2 +1,26 @@
 name = "Hodgeman County"
 fips_code = 20083
+
+[[zipcodes]]
+zipcode = 67523
+percent_zip_in_county = 9.65
+
+[[zipcodes]]
+zipcode = 67547
+percent_zip_in_county = 1.7
+
+[[zipcodes]]
+zipcode = 67563
+percent_zip_in_county = 4.04
+
+[[zipcodes]]
+zipcode = 67849
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67854
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67876
+percent_zip_in_county = 4.15

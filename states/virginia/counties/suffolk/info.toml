@@ -1,2 +1,34 @@
 name = "Suffolk city"
 fips_code = 51800
+
+[[zipcodes]]
+zipcode = 23321
+percent_zip_in_county = 0.19
+
+[[zipcodes]]
+zipcode = 23432
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23433
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23434
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23435
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23436
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23437
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23438
+percent_zip_in_county = 100.0

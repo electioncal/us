@@ -1,2 +1,86 @@
 name = "Manatee County"
 fips_code = 12081
+
+[[zipcodes]]
+zipcode = 33598
+percent_zip_in_county = 1.17
+
+[[zipcodes]]
+zipcode = 33834
+percent_zip_in_county = 1.77
+
+[[zipcodes]]
+zipcode = 34201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34202
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34203
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34205
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34207
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34208
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34209
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34210
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34211
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34212
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34215
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34216
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34217
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34219
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34221
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34222
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34228
+percent_zip_in_county = 34.81
+
+[[zipcodes]]
+zipcode = 34243
+percent_zip_in_county = 82.47
+
+[[zipcodes]]
+zipcode = 34251
+percent_zip_in_county = 98.65

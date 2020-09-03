@@ -1,2 +1,10 @@
 name = "Naguabo Municipio"
 fips_code = 72103
+
+[[zipcodes]]
+zipcode = 718
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 735
+percent_zip_in_county = 0.82

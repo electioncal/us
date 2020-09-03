@@ -1,2 +1,6 @@
 name = "Yabucoa Municipio"
 fips_code = 72151
+
+[[zipcodes]]
+zipcode = 767
+percent_zip_in_county = 99.79

@@ -1,2 +1,6 @@
 name = "Kalawao County"
 fips_code = 15005
+
+[[zipcodes]]
+zipcode = 96742
+percent_zip_in_county = 100.0

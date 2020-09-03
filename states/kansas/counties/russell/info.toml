@@ -1,2 +1,46 @@
 name = "Russell County"
 fips_code = 20167
+
+[[zipcodes]]
+zipcode = 67481
+percent_zip_in_county = 1.36
+
+[[zipcodes]]
+zipcode = 67490
+percent_zip_in_county = 4.45
+
+[[zipcodes]]
+zipcode = 67626
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67634
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67640
+percent_zip_in_county = 86.53
+
+[[zipcodes]]
+zipcode = 67648
+percent_zip_in_county = 87.25
+
+[[zipcodes]]
+zipcode = 67649
+percent_zip_in_county = 88.89
+
+[[zipcodes]]
+zipcode = 67651
+percent_zip_in_county = 1.97
+
+[[zipcodes]]
+zipcode = 67658
+percent_zip_in_county = 86.67
+
+[[zipcodes]]
+zipcode = 67665
+percent_zip_in_county = 99.26
+
+[[zipcodes]]
+zipcode = 67673
+percent_zip_in_county = 47.22

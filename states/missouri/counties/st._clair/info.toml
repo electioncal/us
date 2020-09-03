@@ -1,2 +1,54 @@
 name = "St. Clair County"
 fips_code = 29185
+
+[[zipcodes]]
+zipcode = 64724
+percent_zip_in_county = 87.04
+
+[[zipcodes]]
+zipcode = 64738
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64740
+percent_zip_in_county = 14.17
+
+[[zipcodes]]
+zipcode = 64744
+percent_zip_in_county = 6.88
+
+[[zipcodes]]
+zipcode = 64763
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64770
+percent_zip_in_county = 3.41
+
+[[zipcodes]]
+zipcode = 64776
+percent_zip_in_county = 98.91
+
+[[zipcodes]]
+zipcode = 64780
+percent_zip_in_county = 36.93
+
+[[zipcodes]]
+zipcode = 64781
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64783
+percent_zip_in_county = 16.26
+
+[[zipcodes]]
+zipcode = 65674
+percent_zip_in_county = 2.47
+
+[[zipcodes]]
+zipcode = 65774
+percent_zip_in_county = 7.97
+
+[[zipcodes]]
+zipcode = 65785
+percent_zip_in_county = 2.11

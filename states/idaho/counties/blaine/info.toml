@@ -1,2 +1,38 @@
 name = "Blaine County"
 fips_code = 16013
+
+[[zipcodes]]
+zipcode = 83313
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83320
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83333
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83340
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83348
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83350
+percent_zip_in_county = 0.37
+
+[[zipcodes]]
+zipcode = 83352
+percent_zip_in_county = 1.8
+
+[[zipcodes]]
+zipcode = 83353
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83354
+percent_zip_in_county = 100.0

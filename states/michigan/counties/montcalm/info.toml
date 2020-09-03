@@ -1,2 +1,98 @@
 name = "Montcalm County"
 fips_code = 26117
+
+[[zipcodes]]
+zipcode = 48809
+percent_zip_in_county = 0.06
+
+[[zipcodes]]
+zipcode = 48811
+percent_zip_in_county = 93.39
+
+[[zipcodes]]
+zipcode = 48818
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48829
+percent_zip_in_county = 98.16
+
+[[zipcodes]]
+zipcode = 48834
+percent_zip_in_county = 68.42
+
+[[zipcodes]]
+zipcode = 48838
+percent_zip_in_county = 85.66
+
+[[zipcodes]]
+zipcode = 48845
+percent_zip_in_county = 8.08
+
+[[zipcodes]]
+zipcode = 48850
+percent_zip_in_county = 81.96
+
+[[zipcodes]]
+zipcode = 48852
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48877
+percent_zip_in_county = 33.11
+
+[[zipcodes]]
+zipcode = 48884
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48885
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48886
+percent_zip_in_county = 97.59
+
+[[zipcodes]]
+zipcode = 48888
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48891
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49310
+percent_zip_in_county = 2.69
+
+[[zipcodes]]
+zipcode = 49322
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49326
+percent_zip_in_county = 27.45
+
+[[zipcodes]]
+zipcode = 49329
+percent_zip_in_county = 84.94
+
+[[zipcodes]]
+zipcode = 49336
+percent_zip_in_county = 5.26
+
+[[zipcodes]]
+zipcode = 49337
+percent_zip_in_county = 1.89
+
+[[zipcodes]]
+zipcode = 49339
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49343
+percent_zip_in_county = 11.7
+
+[[zipcodes]]
+zipcode = 49347
+percent_zip_in_county = 97.77

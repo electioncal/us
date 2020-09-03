@@ -1,2 +1,86 @@
 name = "Scott County"
 fips_code = 19163
+
+[[zipcodes]]
+zipcode = 52722
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52726
+percent_zip_in_county = 89.08
+
+[[zipcodes]]
+zipcode = 52728
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52745
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52746
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52747
+percent_zip_in_county = 6.84
+
+[[zipcodes]]
+zipcode = 52748
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52753
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52756
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52758
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52765
+percent_zip_in_county = 85.65
+
+[[zipcodes]]
+zipcode = 52767
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52768
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52769
+percent_zip_in_county = 38.45
+
+[[zipcodes]]
+zipcode = 52773
+percent_zip_in_county = 99.33
+
+[[zipcodes]]
+zipcode = 52801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52802
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52803
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52804
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52806
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52807
+percent_zip_in_county = 100.0

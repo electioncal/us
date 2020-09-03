@@ -1,2 +1,22 @@
 name = "Lynchburg city"
 fips_code = 51680
+
+[[zipcodes]]
+zipcode = 24501
+percent_zip_in_county = 82.46
+
+[[zipcodes]]
+zipcode = 24502
+percent_zip_in_county = 72.7
+
+[[zipcodes]]
+zipcode = 24503
+percent_zip_in_county = 76.04
+
+[[zipcodes]]
+zipcode = 24504
+percent_zip_in_county = 72.23
+
+[[zipcodes]]
+zipcode = 24551
+percent_zip_in_county = 0.83

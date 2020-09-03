@@ -1,2 +1,46 @@
 name = "Grand Traverse County"
 fips_code = 26055
+
+[[zipcodes]]
+zipcode = 49620
+percent_zip_in_county = 37.34
+
+[[zipcodes]]
+zipcode = 49633
+percent_zip_in_county = 31.62
+
+[[zipcodes]]
+zipcode = 49637
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49643
+percent_zip_in_county = 67.94
+
+[[zipcodes]]
+zipcode = 49649
+percent_zip_in_county = 97.88
+
+[[zipcodes]]
+zipcode = 49666
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49680
+percent_zip_in_county = 0.1
+
+[[zipcodes]]
+zipcode = 49683
+percent_zip_in_county = 5.52
+
+[[zipcodes]]
+zipcode = 49684
+percent_zip_in_county = 83.97
+
+[[zipcodes]]
+zipcode = 49686
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49690
+percent_zip_in_county = 88.56

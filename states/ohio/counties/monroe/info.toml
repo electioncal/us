@@ -1,2 +1,66 @@
 name = "Monroe County"
 fips_code = 39111
+
+[[zipcodes]]
+zipcode = 43716
+percent_zip_in_county = 81.04
+
+[[zipcodes]]
+zipcode = 43747
+percent_zip_in_county = 64.54
+
+[[zipcodes]]
+zipcode = 43754
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43773
+percent_zip_in_county = 3.23
+
+[[zipcodes]]
+zipcode = 43786
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43788
+percent_zip_in_county = 24.05
+
+[[zipcodes]]
+zipcode = 43793
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43914
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43915
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43931
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43942
+percent_zip_in_county = 4.64
+
+[[zipcodes]]
+zipcode = 43946
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45734
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45745
+percent_zip_in_county = 13.77
+
+[[zipcodes]]
+zipcode = 45767
+percent_zip_in_county = 18.93
+
+[[zipcodes]]
+zipcode = 45789
+percent_zip_in_county = 11.3

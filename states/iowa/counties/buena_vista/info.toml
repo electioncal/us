@@ -1,2 +1,50 @@
 name = "Buena Vista County"
 fips_code = 19021
+
+[[zipcodes]]
+zipcode = 50510
+percent_zip_in_county = 93.91
+
+[[zipcodes]]
+zipcode = 50554
+percent_zip_in_county = 0.62
+
+[[zipcodes]]
+zipcode = 50565
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50568
+percent_zip_in_county = 96.92
+
+[[zipcodes]]
+zipcode = 50576
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50585
+percent_zip_in_county = 85.8
+
+[[zipcodes]]
+zipcode = 50588
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51002
+percent_zip_in_county = 99.85
+
+[[zipcodes]]
+zipcode = 51005
+percent_zip_in_county = 3.96
+
+[[zipcodes]]
+zipcode = 51033
+percent_zip_in_county = 69.16
+
+[[zipcodes]]
+zipcode = 51047
+percent_zip_in_county = 13.78
+
+[[zipcodes]]
+zipcode = 51366
+percent_zip_in_county = 2.64

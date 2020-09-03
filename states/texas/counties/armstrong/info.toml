@@ -1,2 +1,18 @@
 name = "Armstrong County"
 fips_code = 48011
+
+[[zipcodes]]
+zipcode = 79019
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79042
+percent_zip_in_county = 2.31
+
+[[zipcodes]]
+zipcode = 79094
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79226
+percent_zip_in_county = 2.92

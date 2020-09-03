@@ -1,2 +1,50 @@
 name = "Johnson County"
 fips_code = 5071
+
+[[zipcodes]]
+zipcode = 72752
+percent_zip_in_county = 16.72
+
+[[zipcodes]]
+zipcode = 72821
+percent_zip_in_county = 17.63
+
+[[zipcodes]]
+zipcode = 72830
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72832
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72839
+percent_zip_in_county = 93.8
+
+[[zipcodes]]
+zipcode = 72840
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72845
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72846
+percent_zip_in_county = 98.88
+
+[[zipcodes]]
+zipcode = 72847
+percent_zip_in_county = 27.37
+
+[[zipcodes]]
+zipcode = 72852
+percent_zip_in_county = 91.11
+
+[[zipcodes]]
+zipcode = 72854
+percent_zip_in_county = 79.52
+
+[[zipcodes]]
+zipcode = 72949
+percent_zip_in_county = 2.2

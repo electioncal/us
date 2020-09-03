@@ -1,2 +1,34 @@
 name = "Jefferson County"
 fips_code = 31095
+
+[[zipcodes]]
+zipcode = 68338
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68341
+percent_zip_in_county = 4.13
+
+[[zipcodes]]
+zipcode = 68342
+percent_zip_in_county = 90.0
+
+[[zipcodes]]
+zipcode = 68350
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68352
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68377
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68424
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68440
+percent_zip_in_county = 100.0

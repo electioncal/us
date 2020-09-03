@@ -1,2 +1,18 @@
 name = "Union County"
 fips_code = 12125
+
+[[zipcodes]]
+zipcode = 32054
+percent_zip_in_county = 95.82
+
+[[zipcodes]]
+zipcode = 32058
+percent_zip_in_county = 3.19
+
+[[zipcodes]]
+zipcode = 32083
+percent_zip_in_county = 71.39
+
+[[zipcodes]]
+zipcode = 32697
+percent_zip_in_county = 100.0

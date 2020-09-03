@@ -1,2 +1,30 @@
 name = "Haywood County"
 fips_code = 37087
+
+[[zipcodes]]
+zipcode = 28716
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28721
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28743
+percent_zip_in_county = 0.52
+
+[[zipcodes]]
+zipcode = 28745
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28751
+percent_zip_in_county = 98.87
+
+[[zipcodes]]
+zipcode = 28785
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28786
+percent_zip_in_county = 100.0

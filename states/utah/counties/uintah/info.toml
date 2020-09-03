@@ -1,2 +1,46 @@
 name = "Uintah County"
 fips_code = 49047
+
+[[zipcodes]]
+zipcode = 84026
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84052
+percent_zip_in_county = 12.9
+
+[[zipcodes]]
+zipcode = 84053
+percent_zip_in_county = 5.74
+
+[[zipcodes]]
+zipcode = 84063
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84066
+percent_zip_in_county = 15.22
+
+[[zipcodes]]
+zipcode = 84076
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84078
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84085
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84540
+percent_zip_in_county = 4.35

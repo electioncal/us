@@ -1,2 +1,46 @@
 name = "Wichita County"
 fips_code = 48485
+
+[[zipcodes]]
+zipcode = 76301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76302
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76305
+percent_zip_in_county = 58.45
+
+[[zipcodes]]
+zipcode = 76306
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76308
+percent_zip_in_county = 94.31
+
+[[zipcodes]]
+zipcode = 76309
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76310
+percent_zip_in_county = 85.56
+
+[[zipcodes]]
+zipcode = 76311
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76354
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76360
+percent_zip_in_county = 95.06
+
+[[zipcodes]]
+zipcode = 76367
+percent_zip_in_county = 100.0

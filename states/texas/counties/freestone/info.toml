@@ -1,2 +1,38 @@
 name = "Freestone County"
 fips_code = 48161
+
+[[zipcodes]]
+zipcode = 75831
+percent_zip_in_county = 16.49
+
+[[zipcodes]]
+zipcode = 75838
+percent_zip_in_county = 70.57
+
+[[zipcodes]]
+zipcode = 75840
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75848
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75855
+percent_zip_in_county = 45.59
+
+[[zipcodes]]
+zipcode = 75859
+percent_zip_in_county = 83.0
+
+[[zipcodes]]
+zipcode = 75860
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76667
+percent_zip_in_county = 3.07
+
+[[zipcodes]]
+zipcode = 76693
+percent_zip_in_county = 98.3

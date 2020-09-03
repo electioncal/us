@@ -1,2 +1,38 @@
 name = "Taylor County"
 fips_code = 54091
+
+[[zipcodes]]
+zipcode = 26330
+percent_zip_in_county = 12.26
+
+[[zipcodes]]
+zipcode = 26347
+percent_zip_in_county = 76.5
+
+[[zipcodes]]
+zipcode = 26354
+percent_zip_in_county = 99.72
+
+[[zipcodes]]
+zipcode = 26374
+percent_zip_in_county = 4.51
+
+[[zipcodes]]
+zipcode = 26424
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26431
+percent_zip_in_county = 9.6
+
+[[zipcodes]]
+zipcode = 26435
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26440
+percent_zip_in_county = 63.35
+
+[[zipcodes]]
+zipcode = 26554
+percent_zip_in_county = 1.64

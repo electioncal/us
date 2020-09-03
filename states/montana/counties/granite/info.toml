@@ -1,2 +1,22 @@
 name = "Granite County"
 fips_code = 30039
+
+[[zipcodes]]
+zipcode = 59711
+percent_zip_in_county = 1.82
+
+[[zipcodes]]
+zipcode = 59825
+percent_zip_in_county = 8.54
+
+[[zipcodes]]
+zipcode = 59832
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59837
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59858
+percent_zip_in_county = 100.0

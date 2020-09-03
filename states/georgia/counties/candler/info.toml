@@ -1,2 +1,14 @@
 name = "Candler County"
 fips_code = 13043
+
+[[zipcodes]]
+zipcode = 30420
+percent_zip_in_county = 12.67
+
+[[zipcodes]]
+zipcode = 30439
+percent_zip_in_county = 99.11
+
+[[zipcodes]]
+zipcode = 30451
+percent_zip_in_county = 100.0

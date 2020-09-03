@@ -1,2 +1,58 @@
 name = "Lake and Peninsula Borough"
 fips_code = 2164
+
+[[zipcodes]]
+zipcode = 99548
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99549
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99564
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99565
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99579
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99606
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99613
+percent_zip_in_county = 13.82
+
+[[zipcodes]]
+zipcode = 99625
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99640
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99647
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99648
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99649
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99653
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99695
+percent_zip_in_county = 100.0

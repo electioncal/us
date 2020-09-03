@@ -1,2 +1,62 @@
 name = "Shoshone County"
 fips_code = 16079
+
+[[zipcodes]]
+zipcode = 83802
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83808
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83810
+percent_zip_in_county = 6.14
+
+[[zipcodes]]
+zipcode = 83812
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83830
+percent_zip_in_county = 3.14
+
+[[zipcodes]]
+zipcode = 83837
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83839
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83846
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83849
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83850
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83861
+percent_zip_in_county = 0.66
+
+[[zipcodes]]
+zipcode = 83867
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83868
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83873
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83874
+percent_zip_in_county = 100.0

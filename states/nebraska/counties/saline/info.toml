@@ -1,2 +1,38 @@
 name = "Saline County"
 fips_code = 31151
+
+[[zipcodes]]
+zipcode = 68333
+percent_zip_in_county = 93.14
+
+[[zipcodes]]
+zipcode = 68341
+percent_zip_in_county = 70.12
+
+[[zipcodes]]
+zipcode = 68343
+percent_zip_in_county = 97.81
+
+[[zipcodes]]
+zipcode = 68359
+percent_zip_in_county = 85.49
+
+[[zipcodes]]
+zipcode = 68406
+percent_zip_in_county = 11.35
+
+[[zipcodes]]
+zipcode = 68445
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68453
+percent_zip_in_county = 91.45
+
+[[zipcodes]]
+zipcode = 68464
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68465
+percent_zip_in_county = 98.67

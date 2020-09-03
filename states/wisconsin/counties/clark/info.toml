@@ -1,2 +1,86 @@
 name = "Clark County"
 fips_code = 55019
+
+[[zipcodes]]
+zipcode = 54405
+percent_zip_in_county = 62.66
+
+[[zipcodes]]
+zipcode = 54420
+percent_zip_in_county = 96.4
+
+[[zipcodes]]
+zipcode = 54421
+percent_zip_in_county = 62.29
+
+[[zipcodes]]
+zipcode = 54422
+percent_zip_in_county = 74.36
+
+[[zipcodes]]
+zipcode = 54425
+percent_zip_in_county = 72.4
+
+[[zipcodes]]
+zipcode = 54436
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54437
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54446
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54449
+percent_zip_in_county = 0.03
+
+[[zipcodes]]
+zipcode = 54456
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54460
+percent_zip_in_county = 91.88
+
+[[zipcodes]]
+zipcode = 54466
+percent_zip_in_county = 3.8
+
+[[zipcodes]]
+zipcode = 54479
+percent_zip_in_county = 26.83
+
+[[zipcodes]]
+zipcode = 54488
+percent_zip_in_county = 55.55
+
+[[zipcodes]]
+zipcode = 54493
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54498
+percent_zip_in_county = 76.21
+
+[[zipcodes]]
+zipcode = 54741
+percent_zip_in_county = 1.01
+
+[[zipcodes]]
+zipcode = 54746
+percent_zip_in_county = 78.82
+
+[[zipcodes]]
+zipcode = 54754
+percent_zip_in_county = 15.91
+
+[[zipcodes]]
+zipcode = 54768
+percent_zip_in_county = 13.19
+
+[[zipcodes]]
+zipcode = 54771
+percent_zip_in_county = 91.44

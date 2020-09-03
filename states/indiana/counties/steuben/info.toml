@@ -1,2 +1,38 @@
 name = "Steuben County"
 fips_code = 18151
+
+[[zipcodes]]
+zipcode = 46703
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46705
+percent_zip_in_county = 37.4
+
+[[zipcodes]]
+zipcode = 46737
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46742
+percent_zip_in_county = 79.19
+
+[[zipcodes]]
+zipcode = 46747
+percent_zip_in_county = 75.6
+
+[[zipcodes]]
+zipcode = 46761
+percent_zip_in_county = 2.2
+
+[[zipcodes]]
+zipcode = 46776
+percent_zip_in_county = 83.56
+
+[[zipcodes]]
+zipcode = 46779
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46793
+percent_zip_in_county = 0.63

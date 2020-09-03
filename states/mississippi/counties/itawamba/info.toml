@@ -1,2 +1,42 @@
 name = "Itawamba County"
 fips_code = 28057
+
+[[zipcodes]]
+zipcode = 38804
+percent_zip_in_county = 1.52
+
+[[zipcodes]]
+zipcode = 38824
+percent_zip_in_county = 7.12
+
+[[zipcodes]]
+zipcode = 38843
+percent_zip_in_county = 99.7
+
+[[zipcodes]]
+zipcode = 38847
+percent_zip_in_county = 74.95
+
+[[zipcodes]]
+zipcode = 38849
+percent_zip_in_county = 0.53
+
+[[zipcodes]]
+zipcode = 38855
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38856
+percent_zip_in_county = 50.11
+
+[[zipcodes]]
+zipcode = 38858
+percent_zip_in_county = 21.36
+
+[[zipcodes]]
+zipcode = 38870
+percent_zip_in_county = 4.52
+
+[[zipcodes]]
+zipcode = 38876
+percent_zip_in_county = 100.0

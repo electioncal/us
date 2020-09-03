@@ -1,2 +1,46 @@
 name = "Gibson County"
 fips_code = 47053
+
+[[zipcodes]]
+zipcode = 38059
+percent_zip_in_county = 3.09
+
+[[zipcodes]]
+zipcode = 38220
+percent_zip_in_county = 7.95
+
+[[zipcodes]]
+zipcode = 38233
+percent_zip_in_county = 54.1
+
+[[zipcodes]]
+zipcode = 38259
+percent_zip_in_county = 2.67
+
+[[zipcodes]]
+zipcode = 38316
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38330
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38343
+percent_zip_in_county = 78.35
+
+[[zipcodes]]
+zipcode = 38355
+percent_zip_in_county = 79.09
+
+[[zipcodes]]
+zipcode = 38358
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38369
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38382
+percent_zip_in_county = 100.0

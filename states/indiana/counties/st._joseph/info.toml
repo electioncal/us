@@ -1,2 +1,94 @@
 name = "St. Joseph County"
 fips_code = 18141
+
+[[zipcodes]]
+zipcode = 46506
+percent_zip_in_county = 11.68
+
+[[zipcodes]]
+zipcode = 46530
+percent_zip_in_county = 93.97
+
+[[zipcodes]]
+zipcode = 46536
+percent_zip_in_county = 90.65
+
+[[zipcodes]]
+zipcode = 46544
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46545
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46550
+percent_zip_in_county = 1.17
+
+[[zipcodes]]
+zipcode = 46552
+percent_zip_in_county = 66.77
+
+[[zipcodes]]
+zipcode = 46554
+percent_zip_in_county = 99.21
+
+[[zipcodes]]
+zipcode = 46556
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46561
+percent_zip_in_county = 87.18
+
+[[zipcodes]]
+zipcode = 46573
+percent_zip_in_county = 14.08
+
+[[zipcodes]]
+zipcode = 46574
+percent_zip_in_county = 40.08
+
+[[zipcodes]]
+zipcode = 46595
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46613
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46614
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46615
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46616
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46617
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46619
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46628
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46635
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46637
+percent_zip_in_county = 100.0

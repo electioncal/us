@@ -1,2 +1,26 @@
 name = "Lancaster County"
 fips_code = 51103
+
+[[zipcodes]]
+zipcode = 22473
+percent_zip_in_county = 1.61
+
+[[zipcodes]]
+zipcode = 22480
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22482
+percent_zip_in_county = 65.69
+
+[[zipcodes]]
+zipcode = 22503
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22576
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22578
+percent_zip_in_county = 100.0

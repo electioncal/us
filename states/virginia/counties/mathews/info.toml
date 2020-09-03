@@ -1,2 +1,70 @@
 name = "Mathews County"
 fips_code = 51115
+
+[[zipcodes]]
+zipcode = 23021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23050
+percent_zip_in_county = 82.27
+
+[[zipcodes]]
+zipcode = 23056
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23064
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23066
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23068
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23076
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23109
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23119
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23125
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23128
+percent_zip_in_county = 60.86
+
+[[zipcodes]]
+zipcode = 23130
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23138
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23163
+percent_zip_in_county = 100.0

@@ -1,2 +1,22 @@
 name = "Davie County"
 fips_code = 37059
+
+[[zipcodes]]
+zipcode = 27006
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27014
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27028
+percent_zip_in_county = 99.83
+
+[[zipcodes]]
+zipcode = 27055
+percent_zip_in_county = 0.24
+
+[[zipcodes]]
+zipcode = 28634
+percent_zip_in_county = 8.06

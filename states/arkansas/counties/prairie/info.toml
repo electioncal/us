@@ -1,2 +1,38 @@
 name = "Prairie County"
 fips_code = 5117
+
+[[zipcodes]]
+zipcode = 72017
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72024
+percent_zip_in_county = 6.17
+
+[[zipcodes]]
+zipcode = 72040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72060
+percent_zip_in_county = 24.17
+
+[[zipcodes]]
+zipcode = 72064
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72160
+percent_zip_in_county = 2.55
+
+[[zipcodes]]
+zipcode = 72170
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72176
+percent_zip_in_county = 4.23

@@ -1,2 +1,42 @@
 name = "Pratt County"
 fips_code = 20151
+
+[[zipcodes]]
+zipcode = 67021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67028
+percent_zip_in_county = 63.56
+
+[[zipcodes]]
+zipcode = 67035
+percent_zip_in_county = 10.21
+
+[[zipcodes]]
+zipcode = 67059
+percent_zip_in_county = 2.98
+
+[[zipcodes]]
+zipcode = 67065
+percent_zip_in_county = 32.89
+
+[[zipcodes]]
+zipcode = 67066
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67124
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67134
+percent_zip_in_county = 89.52
+
+[[zipcodes]]
+zipcode = 67557
+percent_zip_in_county = 2.21
+
+[[zipcodes]]
+zipcode = 67583
+percent_zip_in_county = 33.86

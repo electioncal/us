@@ -1,2 +1,50 @@
 name = "Phillips County"
 fips_code = 5107
+
+[[zipcodes]]
+zipcode = 72069
+percent_zip_in_county = 6.72
+
+[[zipcodes]]
+zipcode = 72328
+percent_zip_in_county = 62.5
+
+[[zipcodes]]
+zipcode = 72333
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72342
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72353
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72355
+percent_zip_in_county = 88.01
+
+[[zipcodes]]
+zipcode = 72366
+percent_zip_in_county = 99.37
+
+[[zipcodes]]
+zipcode = 72367
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72374
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72383
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72389
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72390
+percent_zip_in_county = 100.0

@@ -1,2 +1,58 @@
 name = "Colleton County"
 fips_code = 45029
+
+[[zipcodes]]
+zipcode = 29081
+percent_zip_in_county = 1.04
+
+[[zipcodes]]
+zipcode = 29082
+percent_zip_in_county = 98.25
+
+[[zipcodes]]
+zipcode = 29435
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29438
+percent_zip_in_county = 21.97
+
+[[zipcodes]]
+zipcode = 29446
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29452
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29472
+percent_zip_in_county = 6.43
+
+[[zipcodes]]
+zipcode = 29474
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29475
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29481
+percent_zip_in_county = 87.29
+
+[[zipcodes]]
+zipcode = 29488
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29493
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29929
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29945
+percent_zip_in_county = 28.9

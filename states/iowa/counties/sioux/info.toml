@@ -1,2 +1,66 @@
 name = "Sioux County"
 fips_code = 19167
+
+[[zipcodes]]
+zipcode = 51003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51011
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51022
+percent_zip_in_county = 66.29
+
+[[zipcodes]]
+zipcode = 51023
+percent_zip_in_county = 96.74
+
+[[zipcodes]]
+zipcode = 51027
+percent_zip_in_county = 91.67
+
+[[zipcodes]]
+zipcode = 51036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51201
+percent_zip_in_county = 11.03
+
+[[zipcodes]]
+zipcode = 51234
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51235
+percent_zip_in_county = 2.41
+
+[[zipcodes]]
+zipcode = 51238
+percent_zip_in_county = 90.2
+
+[[zipcodes]]
+zipcode = 51239
+percent_zip_in_county = 98.82
+
+[[zipcodes]]
+zipcode = 51240
+percent_zip_in_county = 8.02
+
+[[zipcodes]]
+zipcode = 51244
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51247
+percent_zip_in_county = 99.28
+
+[[zipcodes]]
+zipcode = 51250
+percent_zip_in_county = 100.0

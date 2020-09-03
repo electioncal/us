@@ -1,2 +1,46 @@
 name = "Cass County"
 fips_code = 19029
+
+[[zipcodes]]
+zipcode = 50020
+percent_zip_in_county = 93.67
+
+[[zipcodes]]
+zipcode = 50022
+percent_zip_in_county = 98.8
+
+[[zipcodes]]
+zipcode = 50274
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50837
+percent_zip_in_county = 5.32
+
+[[zipcodes]]
+zipcode = 50843
+percent_zip_in_county = 98.49
+
+[[zipcodes]]
+zipcode = 50853
+percent_zip_in_county = 98.43
+
+[[zipcodes]]
+zipcode = 50864
+percent_zip_in_county = 0.63
+
+[[zipcodes]]
+zipcode = 51532
+percent_zip_in_county = 1.13
+
+[[zipcodes]]
+zipcode = 51535
+percent_zip_in_county = 84.14
+
+[[zipcodes]]
+zipcode = 51544
+percent_zip_in_county = 93.76
+
+[[zipcodes]]
+zipcode = 51552
+percent_zip_in_county = 78.41

@@ -1,2 +1,102 @@
 name = "Hunterdon County"
 fips_code = 34019
+
+[[zipcodes]]
+zipcode = 7830
+percent_zip_in_county = 84.02
+
+[[zipcodes]]
+zipcode = 7865
+percent_zip_in_county = 17.18
+
+[[zipcodes]]
+zipcode = 7882
+percent_zip_in_county = 2.05
+
+[[zipcodes]]
+zipcode = 7979
+percent_zip_in_county = 59.59
+
+[[zipcodes]]
+zipcode = 8525
+percent_zip_in_county = 13.03
+
+[[zipcodes]]
+zipcode = 8530
+percent_zip_in_county = 93.28
+
+[[zipcodes]]
+zipcode = 8551
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8559
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8802
+percent_zip_in_county = 69.68
+
+[[zipcodes]]
+zipcode = 8804
+percent_zip_in_county = 71.82
+
+[[zipcodes]]
+zipcode = 8809
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8822
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8825
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8826
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8827
+percent_zip_in_county = 93.37
+
+[[zipcodes]]
+zipcode = 8829
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8833
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8848
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8853
+percent_zip_in_county = 12.01
+
+[[zipcodes]]
+zipcode = 8858
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8867
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8876
+percent_zip_in_county = 1.08
+
+[[zipcodes]]
+zipcode = 8887
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8889
+percent_zip_in_county = 100.0

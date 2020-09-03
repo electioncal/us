@@ -1,2 +1,66 @@
 name = "Shelby County"
 fips_code = 18145
+
+[[zipcodes]]
+zipcode = 46110
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46124
+percent_zip_in_county = 20.71
+
+[[zipcodes]]
+zipcode = 46126
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46130
+percent_zip_in_county = 72.85
+
+[[zipcodes]]
+zipcode = 46131
+percent_zip_in_county = 0.74
+
+[[zipcodes]]
+zipcode = 46144
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46150
+percent_zip_in_county = 13.74
+
+[[zipcodes]]
+zipcode = 46161
+percent_zip_in_county = 91.19
+
+[[zipcodes]]
+zipcode = 46162
+percent_zip_in_county = 42.79
+
+[[zipcodes]]
+zipcode = 46163
+percent_zip_in_county = 3.36
+
+[[zipcodes]]
+zipcode = 46176
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46182
+percent_zip_in_county = 94.5
+
+[[zipcodes]]
+zipcode = 46259
+percent_zip_in_county = 3.42
+
+[[zipcodes]]
+zipcode = 47234
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47240
+percent_zip_in_county = 0.3
+
+[[zipcodes]]
+zipcode = 47272
+percent_zip_in_county = 35.13

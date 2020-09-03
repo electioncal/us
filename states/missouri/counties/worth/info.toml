@@ -1,2 +1,26 @@
 name = "Worth County"
 fips_code = 29227
+
+[[zipcodes]]
+zipcode = 64420
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64441
+percent_zip_in_county = 71.91
+
+[[zipcodes]]
+zipcode = 64456
+percent_zip_in_county = 99.04
+
+[[zipcodes]]
+zipcode = 64475
+percent_zip_in_county = 18.16
+
+[[zipcodes]]
+zipcode = 64486
+percent_zip_in_county = 78.9
+
+[[zipcodes]]
+zipcode = 64499
+percent_zip_in_county = 84.87

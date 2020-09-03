@@ -1,2 +1,70 @@
 name = "Ohio County"
 fips_code = 21183
+
+[[zipcodes]]
+zipcode = 40119
+percent_zip_in_county = 2.84
+
+[[zipcodes]]
+zipcode = 42320
+percent_zip_in_county = 99.61
+
+[[zipcodes]]
+zipcode = 42328
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42333
+percent_zip_in_county = 92.26
+
+[[zipcodes]]
+zipcode = 42338
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42343
+percent_zip_in_county = 88.55
+
+[[zipcodes]]
+zipcode = 42347
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42349
+percent_zip_in_county = 91.22
+
+[[zipcodes]]
+zipcode = 42352
+percent_zip_in_county = 4.76
+
+[[zipcodes]]
+zipcode = 42354
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42361
+percent_zip_in_county = 77.85
+
+[[zipcodes]]
+zipcode = 42366
+percent_zip_in_county = 0.58
+
+[[zipcodes]]
+zipcode = 42368
+percent_zip_in_county = 54.04
+
+[[zipcodes]]
+zipcode = 42369
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42370
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42376
+percent_zip_in_county = 19.26
+
+[[zipcodes]]
+zipcode = 42378
+percent_zip_in_county = 31.63

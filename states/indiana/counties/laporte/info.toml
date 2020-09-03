@@ -1,2 +1,62 @@
 name = "LaPorte County"
 fips_code = 18091
+
+[[zipcodes]]
+zipcode = 46340
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46345
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46346
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46348
+percent_zip_in_county = 98.76
+
+[[zipcodes]]
+zipcode = 46350
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46360
+percent_zip_in_county = 96.98
+
+[[zipcodes]]
+zipcode = 46365
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46371
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46382
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46390
+percent_zip_in_county = 99.82
+
+[[zipcodes]]
+zipcode = 46391
+percent_zip_in_county = 79.91
+
+[[zipcodes]]
+zipcode = 46532
+percent_zip_in_county = 35.07
+
+[[zipcodes]]
+zipcode = 46552
+percent_zip_in_county = 33.23
+
+[[zipcodes]]
+zipcode = 46554
+percent_zip_in_county = 0.79
+
+[[zipcodes]]
+zipcode = 46574
+percent_zip_in_county = 17.06

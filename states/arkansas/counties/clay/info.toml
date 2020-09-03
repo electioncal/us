@@ -1,2 +1,50 @@
 name = "Clay County"
 fips_code = 5021
+
+[[zipcodes]]
+zipcode = 72422
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72424
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72430
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72435
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72436
+percent_zip_in_county = 9.87
+
+[[zipcodes]]
+zipcode = 72441
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72453
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72454
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72456
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72461
+percent_zip_in_county = 94.48
+
+[[zipcodes]]
+zipcode = 72464
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72470
+percent_zip_in_county = 100.0

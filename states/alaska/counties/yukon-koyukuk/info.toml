@@ -1,2 +1,130 @@
 name = "Yukon-Koyukuk Census Area"
 fips_code = 2290
+
+[[zipcodes]]
+zipcode = 99558
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99590
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99602
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99627
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99665
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99691
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99701
+percent_zip_in_county = 0.28
+
+[[zipcodes]]
+zipcode = 99720
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99722
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99724
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99726
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99733
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99738
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 99740
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99741
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99745
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99746
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99748
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99754
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99756
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99757
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99758
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99760
+percent_zip_in_county = 87.39
+
+[[zipcodes]]
+zipcode = 99765
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99767
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99768
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99774
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99777
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99781
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99788
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99790
+percent_zip_in_county = 100.0

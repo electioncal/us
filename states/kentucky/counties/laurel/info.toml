@@ -1,2 +1,38 @@
 name = "Laurel County"
 fips_code = 21125
+
+[[zipcodes]]
+zipcode = 40701
+percent_zip_in_county = 28.3
+
+[[zipcodes]]
+zipcode = 40729
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40734
+percent_zip_in_county = 1.17
+
+[[zipcodes]]
+zipcode = 40737
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40740
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40741
+percent_zip_in_county = 99.74
+
+[[zipcodes]]
+zipcode = 40743
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40744
+percent_zip_in_county = 99.16
+
+[[zipcodes]]
+zipcode = 40962
+percent_zip_in_county = 0.23

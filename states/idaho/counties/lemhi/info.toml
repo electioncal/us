@@ -1,2 +1,46 @@
 name = "Lemhi County"
 fips_code = 16059
+
+[[zipcodes]]
+zipcode = 83226
+percent_zip_in_county = 0.28
+
+[[zipcodes]]
+zipcode = 83235
+percent_zip_in_county = 44.44
+
+[[zipcodes]]
+zipcode = 83253
+percent_zip_in_county = 59.39
+
+[[zipcodes]]
+zipcode = 83462
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83463
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83464
+percent_zip_in_county = 98.26
+
+[[zipcodes]]
+zipcode = 83465
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83466
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83467
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83468
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83469
+percent_zip_in_county = 100.0

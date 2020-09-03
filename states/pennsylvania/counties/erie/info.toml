@@ -1,2 +1,130 @@
 name = "Erie County"
 fips_code = 42049
+
+[[zipcodes]]
+zipcode = 16401
+percent_zip_in_county = 98.39
+
+[[zipcodes]]
+zipcode = 16403
+percent_zip_in_county = 5.48
+
+[[zipcodes]]
+zipcode = 16407
+percent_zip_in_county = 86.65
+
+[[zipcodes]]
+zipcode = 16410
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16411
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16412
+percent_zip_in_county = 93.65
+
+[[zipcodes]]
+zipcode = 16415
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16417
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16421
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16423
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16426
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16427
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16428
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16435
+percent_zip_in_county = 2.23
+
+[[zipcodes]]
+zipcode = 16438
+percent_zip_in_county = 80.77
+
+[[zipcodes]]
+zipcode = 16441
+percent_zip_in_county = 98.33
+
+[[zipcodes]]
+zipcode = 16442
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16443
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16444
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16502
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16503
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16504
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16505
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16506
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16507
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16508
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16509
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16510
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16511
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16546
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16563
+percent_zip_in_county = 100.0

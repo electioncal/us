@@ -1,2 +1,58 @@
 name = "Fayette County"
 fips_code = 48149
+
+[[zipcodes]]
+zipcode = 78932
+percent_zip_in_county = 67.77
+
+[[zipcodes]]
+zipcode = 78938
+percent_zip_in_county = 80.68
+
+[[zipcodes]]
+zipcode = 78940
+percent_zip_in_county = 78.93
+
+[[zipcodes]]
+zipcode = 78941
+percent_zip_in_county = 94.26
+
+[[zipcodes]]
+zipcode = 78942
+percent_zip_in_county = 1.65
+
+[[zipcodes]]
+zipcode = 78945
+percent_zip_in_county = 99.76
+
+[[zipcodes]]
+zipcode = 78946
+percent_zip_in_county = 31.15
+
+[[zipcodes]]
+zipcode = 78949
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78954
+percent_zip_in_county = 95.99
+
+[[zipcodes]]
+zipcode = 78956
+percent_zip_in_county = 92.34
+
+[[zipcodes]]
+zipcode = 78957
+percent_zip_in_county = 2.7
+
+[[zipcodes]]
+zipcode = 78959
+percent_zip_in_county = 6.97
+
+[[zipcodes]]
+zipcode = 78962
+percent_zip_in_county = 10.59
+
+[[zipcodes]]
+zipcode = 78963
+percent_zip_in_county = 100.0

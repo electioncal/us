@@ -1,2 +1,10 @@
 name = "Salem city"
 fips_code = 51775
+
+[[zipcodes]]
+zipcode = 24018
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 24153
+percent_zip_in_county = 65.68

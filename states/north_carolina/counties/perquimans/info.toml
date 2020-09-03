@@ -1,2 +1,18 @@
 name = "Perquimans County"
 fips_code = 37143
+
+[[zipcodes]]
+zipcode = 27919
+percent_zip_in_county = 85.75
+
+[[zipcodes]]
+zipcode = 27944
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27980
+percent_zip_in_county = 13.38
+
+[[zipcodes]]
+zipcode = 27985
+percent_zip_in_county = 100.0

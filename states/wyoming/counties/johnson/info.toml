@@ -1,2 +1,22 @@
 name = "Johnson County"
 fips_code = 56019
+
+[[zipcodes]]
+zipcode = 82639
+percent_zip_in_county = 94.29
+
+[[zipcodes]]
+zipcode = 82640
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82831
+percent_zip_in_county = 28.24
+
+[[zipcodes]]
+zipcode = 82832
+percent_zip_in_county = 21.84
+
+[[zipcodes]]
+zipcode = 82834
+percent_zip_in_county = 100.0

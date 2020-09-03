@@ -1,2 +1,46 @@
 name = "Chester County"
 fips_code = 45023
+
+[[zipcodes]]
+zipcode = 29014
+percent_zip_in_county = 67.0
+
+[[zipcodes]]
+zipcode = 29031
+percent_zip_in_county = 27.35
+
+[[zipcodes]]
+zipcode = 29055
+percent_zip_in_county = 78.0
+
+[[zipcodes]]
+zipcode = 29704
+percent_zip_in_county = 14.94
+
+[[zipcodes]]
+zipcode = 29706
+percent_zip_in_county = 99.88
+
+[[zipcodes]]
+zipcode = 29712
+percent_zip_in_county = 86.06
+
+[[zipcodes]]
+zipcode = 29714
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29724
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29729
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29730
+percent_zip_in_county = 0.53
+
+[[zipcodes]]
+zipcode = 29742
+percent_zip_in_county = 9.31

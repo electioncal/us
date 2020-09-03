@@ -1,2 +1,74 @@
 name = "Tazewell County"
 fips_code = 51185
+
+[[zipcodes]]
+zipcode = 24314
+percent_zip_in_county = 10.51
+
+[[zipcodes]]
+zipcode = 24316
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24377
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24602
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24604
+percent_zip_in_county = 76.61
+
+[[zipcodes]]
+zipcode = 24605
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24606
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24609
+percent_zip_in_county = 75.12
+
+[[zipcodes]]
+zipcode = 24612
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24613
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24622
+percent_zip_in_county = 46.89
+
+[[zipcodes]]
+zipcode = 24630
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24635
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24637
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24639
+percent_zip_in_county = 64.79
+
+[[zipcodes]]
+zipcode = 24641
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24651
+percent_zip_in_county = 100.0

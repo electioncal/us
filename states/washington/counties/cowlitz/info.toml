@@ -1,2 +1,46 @@
 name = "Cowlitz County"
 fips_code = 53015
+
+[[zipcodes]]
+zipcode = 98581
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98601
+percent_zip_in_county = 4.39
+
+[[zipcodes]]
+zipcode = 98603
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98611
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98616
+percent_zip_in_county = 74.67
+
+[[zipcodes]]
+zipcode = 98625
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98626
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98632
+percent_zip_in_county = 99.92
+
+[[zipcodes]]
+zipcode = 98645
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98649
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98674
+percent_zip_in_county = 78.52

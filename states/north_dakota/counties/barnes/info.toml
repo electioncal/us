@@ -1,2 +1,78 @@
 name = "Barnes County"
 fips_code = 38003
+
+[[zipcodes]]
+zipcode = 58027
+percent_zip_in_county = 4.6
+
+[[zipcodes]]
+zipcode = 58031
+percent_zip_in_county = 54.35
+
+[[zipcodes]]
+zipcode = 58046
+percent_zip_in_county = 4.63
+
+[[zipcodes]]
+zipcode = 58049
+percent_zip_in_county = 71.28
+
+[[zipcodes]]
+zipcode = 58056
+percent_zip_in_county = 43.98
+
+[[zipcodes]]
+zipcode = 58062
+percent_zip_in_county = 72.99
+
+[[zipcodes]]
+zipcode = 58063
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58064
+percent_zip_in_county = 4.22
+
+[[zipcodes]]
+zipcode = 58065
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58071
+percent_zip_in_county = 17.36
+
+[[zipcodes]]
+zipcode = 58072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58429
+percent_zip_in_county = 97.76
+
+[[zipcodes]]
+zipcode = 58461
+percent_zip_in_county = 75.79
+
+[[zipcodes]]
+zipcode = 58466
+percent_zip_in_county = 28.17
+
+[[zipcodes]]
+zipcode = 58479
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58480
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58481
+percent_zip_in_county = 62.87
+
+[[zipcodes]]
+zipcode = 58492
+percent_zip_in_county = 82.95
+
+[[zipcodes]]
+zipcode = 58497
+percent_zip_in_county = 6.13

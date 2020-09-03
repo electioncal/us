@@ -1,2 +1,46 @@
 name = "O'Brien County"
 fips_code = 19141
+
+[[zipcodes]]
+zipcode = 51009
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51022
+percent_zip_in_county = 32.95
+
+[[zipcodes]]
+zipcode = 51046
+percent_zip_in_county = 98.73
+
+[[zipcodes]]
+zipcode = 51047
+percent_zip_in_county = 2.79
+
+[[zipcodes]]
+zipcode = 51058
+percent_zip_in_county = 97.72
+
+[[zipcodes]]
+zipcode = 51201
+percent_zip_in_county = 88.81
+
+[[zipcodes]]
+zipcode = 51231
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51238
+percent_zip_in_county = 9.8
+
+[[zipcodes]]
+zipcode = 51245
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51248
+percent_zip_in_county = 97.63
+
+[[zipcodes]]
+zipcode = 51346
+percent_zip_in_county = 92.33

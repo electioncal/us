@@ -1,2 +1,102 @@
 name = "Howard County"
 fips_code = 24027
+
+[[zipcodes]]
+zipcode = 20701
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20723
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20759
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20763
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20777
+percent_zip_in_county = 98.64
+
+[[zipcodes]]
+zipcode = 20794
+percent_zip_in_county = 53.94
+
+[[zipcodes]]
+zipcode = 20833
+percent_zip_in_county = 1.09
+
+[[zipcodes]]
+zipcode = 21029
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21042
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21043
+percent_zip_in_county = 97.88
+
+[[zipcodes]]
+zipcode = 21044
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21075
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21076
+percent_zip_in_county = 12.67
+
+[[zipcodes]]
+zipcode = 21104
+percent_zip_in_county = 41.86
+
+[[zipcodes]]
+zipcode = 21163
+percent_zip_in_county = 63.08
+
+[[zipcodes]]
+zipcode = 21723
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21737
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21738
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21771
+percent_zip_in_county = 10.11
+
+[[zipcodes]]
+zipcode = 21784
+percent_zip_in_county = 5.57
+
+[[zipcodes]]
+zipcode = 21794
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21797
+percent_zip_in_county = 65.43

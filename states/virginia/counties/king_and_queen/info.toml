@@ -1,2 +1,58 @@
 name = "King and Queen County"
 fips_code = 51097
+
+[[zipcodes]]
+zipcode = 22437
+percent_zip_in_county = 15.31
+
+[[zipcodes]]
+zipcode = 22514
+percent_zip_in_county = 0.27
+
+[[zipcodes]]
+zipcode = 22560
+percent_zip_in_county = 2.51
+
+[[zipcodes]]
+zipcode = 23023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23085
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23091
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23108
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23110
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23126
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23148
+percent_zip_in_county = 87.25
+
+[[zipcodes]]
+zipcode = 23149
+percent_zip_in_county = 10.72
+
+[[zipcodes]]
+zipcode = 23156
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23161
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23177
+percent_zip_in_county = 82.79

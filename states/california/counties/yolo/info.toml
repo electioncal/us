@@ -1,2 +1,86 @@
 name = "Yolo County"
 fips_code = 6113
+
+[[zipcodes]]
+zipcode = 95605
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95606
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95607
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95612
+percent_zip_in_county = 98.39
+
+[[zipcodes]]
+zipcode = 95615
+percent_zip_in_county = 1.8
+
+[[zipcodes]]
+zipcode = 95616
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95618
+percent_zip_in_county = 99.66
+
+[[zipcodes]]
+zipcode = 95620
+percent_zip_in_county = 0.48
+
+[[zipcodes]]
+zipcode = 95627
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95637
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95645
+percent_zip_in_county = 55.57
+
+[[zipcodes]]
+zipcode = 95653
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95679
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95691
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95694
+percent_zip_in_county = 87.75
+
+[[zipcodes]]
+zipcode = 95695
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95697
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95698
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95776
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95912
+percent_zip_in_county = 2.6
+
+[[zipcodes]]
+zipcode = 95937
+percent_zip_in_county = 100.0

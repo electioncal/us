@@ -1,2 +1,50 @@
 name = "Hot Spring County"
 fips_code = 5059
+
+[[zipcodes]]
+zipcode = 71901
+percent_zip_in_county = 0.2
+
+[[zipcodes]]
+zipcode = 71913
+percent_zip_in_county = 1.66
+
+[[zipcodes]]
+zipcode = 71921
+percent_zip_in_county = 8.87
+
+[[zipcodes]]
+zipcode = 71923
+percent_zip_in_county = 3.21
+
+[[zipcodes]]
+zipcode = 71929
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71933
+percent_zip_in_county = 32.05
+
+[[zipcodes]]
+zipcode = 71941
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71943
+percent_zip_in_county = 2.88
+
+[[zipcodes]]
+zipcode = 71964
+percent_zip_in_county = 7.0
+
+[[zipcodes]]
+zipcode = 72084
+percent_zip_in_county = 17.41
+
+[[zipcodes]]
+zipcode = 72104
+percent_zip_in_county = 99.08
+
+[[zipcodes]]
+zipcode = 72167
+percent_zip_in_county = 25.95

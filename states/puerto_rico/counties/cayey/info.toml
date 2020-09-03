@@ -1,2 +1,10 @@
 name = "Cayey Municipio"
 fips_code = 72035
+
+[[zipcodes]]
+zipcode = 725
+percent_zip_in_county = 0.43
+
+[[zipcodes]]
+zipcode = 736
+percent_zip_in_county = 92.62

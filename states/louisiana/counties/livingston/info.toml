@@ -1,2 +1,62 @@
 name = "Livingston Parish"
 fips_code = 22063
+
+[[zipcodes]]
+zipcode = 70403
+percent_zip_in_county = 5.1
+
+[[zipcodes]]
+zipcode = 70443
+percent_zip_in_county = 17.6
+
+[[zipcodes]]
+zipcode = 70449
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70453
+percent_zip_in_county = 17.22
+
+[[zipcodes]]
+zipcode = 70462
+percent_zip_in_county = 97.82
+
+[[zipcodes]]
+zipcode = 70466
+percent_zip_in_county = 4.82
+
+[[zipcodes]]
+zipcode = 70706
+percent_zip_in_county = 96.72
+
+[[zipcodes]]
+zipcode = 70711
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70726
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70733
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70739
+percent_zip_in_county = 3.09
+
+[[zipcodes]]
+zipcode = 70744
+percent_zip_in_county = 94.82
+
+[[zipcodes]]
+zipcode = 70754
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70774
+percent_zip_in_county = 1.83
+
+[[zipcodes]]
+zipcode = 70785
+percent_zip_in_county = 100.0

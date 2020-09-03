@@ -1,2 +1,82 @@
 name = "Muskingum County"
 fips_code = 39119
+
+[[zipcodes]]
+zipcode = 43701
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43720
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43727
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43732
+percent_zip_in_county = 3.64
+
+[[zipcodes]]
+zipcode = 43734
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43735
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43738
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43740
+percent_zip_in_county = 34.38
+
+[[zipcodes]]
+zipcode = 43746
+percent_zip_in_county = 91.09
+
+[[zipcodes]]
+zipcode = 43760
+percent_zip_in_county = 31.57
+
+[[zipcodes]]
+zipcode = 43762
+percent_zip_in_county = 83.17
+
+[[zipcodes]]
+zipcode = 43767
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43771
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43777
+percent_zip_in_county = 57.59
+
+[[zipcodes]]
+zipcode = 43802
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43812
+percent_zip_in_county = 0.04
+
+[[zipcodes]]
+zipcode = 43821
+percent_zip_in_county = 82.51
+
+[[zipcodes]]
+zipcode = 43822
+percent_zip_in_county = 58.97
+
+[[zipcodes]]
+zipcode = 43830
+percent_zip_in_county = 87.63
+
+[[zipcodes]]
+zipcode = 43842
+percent_zip_in_county = 100.0

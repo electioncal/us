@@ -1,2 +1,42 @@
 name = "Bear Lake County"
 fips_code = 16007
+
+[[zipcodes]]
+zipcode = 83220
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83223
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83233
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83238
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83239
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83254
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83261
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83272
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83276
+percent_zip_in_county = 3.78
+
+[[zipcodes]]
+zipcode = 83287
+percent_zip_in_county = 100.0

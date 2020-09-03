@@ -1,2 +1,66 @@
 name = "St. Tammany Parish"
 fips_code = 22103
+
+[[zipcodes]]
+zipcode = 70420
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70427
+percent_zip_in_county = 3.35
+
+[[zipcodes]]
+zipcode = 70431
+percent_zip_in_county = 99.24
+
+[[zipcodes]]
+zipcode = 70433
+percent_zip_in_county = 99.8
+
+[[zipcodes]]
+zipcode = 70435
+percent_zip_in_county = 99.73
+
+[[zipcodes]]
+zipcode = 70437
+percent_zip_in_county = 87.74
+
+[[zipcodes]]
+zipcode = 70445
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70447
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70448
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70452
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70458
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70460
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70461
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70463
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70464
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70471
+percent_zip_in_county = 100.0

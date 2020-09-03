@@ -1,2 +1,14 @@
 name = "Kimball County"
 fips_code = 31105
+
+[[zipcodes]]
+zipcode = 69128
+percent_zip_in_county = 85.1
+
+[[zipcodes]]
+zipcode = 69133
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69145
+percent_zip_in_county = 98.88

@@ -1,2 +1,18 @@
 name = "Pershing County"
 fips_code = 32027
+
+[[zipcodes]]
+zipcode = 89405
+percent_zip_in_county = 0.42
+
+[[zipcodes]]
+zipcode = 89418
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89419
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89445
+percent_zip_in_county = 7.53

@@ -1,2 +1,58 @@
 name = "Meigs County"
 fips_code = 39105
+
+[[zipcodes]]
+zipcode = 45620
+percent_zip_in_county = 5.45
+
+[[zipcodes]]
+zipcode = 45686
+percent_zip_in_county = 5.77
+
+[[zipcodes]]
+zipcode = 45710
+percent_zip_in_county = 28.14
+
+[[zipcodes]]
+zipcode = 45723
+percent_zip_in_county = 10.75
+
+[[zipcodes]]
+zipcode = 45741
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45743
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45760
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45769
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45770
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45771
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45772
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45775
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45776
+percent_zip_in_county = 58.43
+
+[[zipcodes]]
+zipcode = 45779
+percent_zip_in_county = 100.0

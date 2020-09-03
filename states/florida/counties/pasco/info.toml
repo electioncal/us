@@ -1,2 +1,118 @@
 name = "Pasco County"
 fips_code = 12101
+
+[[zipcodes]]
+zipcode = 33523
+percent_zip_in_county = 76.06
+
+[[zipcodes]]
+zipcode = 33525
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33540
+percent_zip_in_county = 99.04
+
+[[zipcodes]]
+zipcode = 33541
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33542
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33543
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33544
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33545
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33548
+percent_zip_in_county = 2.69
+
+[[zipcodes]]
+zipcode = 33549
+percent_zip_in_county = 23.61
+
+[[zipcodes]]
+zipcode = 33556
+percent_zip_in_county = 28.45
+
+[[zipcodes]]
+zipcode = 33558
+percent_zip_in_county = 14.56
+
+[[zipcodes]]
+zipcode = 33559
+percent_zip_in_county = 47.03
+
+[[zipcodes]]
+zipcode = 33576
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33597
+percent_zip_in_county = 0.52
+
+[[zipcodes]]
+zipcode = 34610
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34637
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34638
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34639
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34652
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34653
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34654
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34655
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34667
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34668
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34669
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34679
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34690
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34691
+percent_zip_in_county = 100.0

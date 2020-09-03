@@ -1,2 +1,50 @@
 name = "Green County"
 fips_code = 55045
+
+[[zipcodes]]
+zipcode = 53502
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53504
+percent_zip_in_county = 27.16
+
+[[zipcodes]]
+zipcode = 53508
+percent_zip_in_county = 42.51
+
+[[zipcodes]]
+zipcode = 53516
+percent_zip_in_county = 32.34
+
+[[zipcodes]]
+zipcode = 53520
+percent_zip_in_county = 81.45
+
+[[zipcodes]]
+zipcode = 53521
+percent_zip_in_county = 39.2
+
+[[zipcodes]]
+zipcode = 53522
+percent_zip_in_county = 93.27
+
+[[zipcodes]]
+zipcode = 53550
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53566
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53570
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53572
+percent_zip_in_county = 0.16
+
+[[zipcodes]]
+zipcode = 53574
+percent_zip_in_county = 98.81

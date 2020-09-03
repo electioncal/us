@@ -1,2 +1,62 @@
 name = "Cherokee County"
 fips_code = 19035
+
+[[zipcodes]]
+zipcode = 51002
+percent_zip_in_county = 0.15
+
+[[zipcodes]]
+zipcode = 51005
+percent_zip_in_county = 96.04
+
+[[zipcodes]]
+zipcode = 51012
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51014
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51020
+percent_zip_in_county = 4.86
+
+[[zipcodes]]
+zipcode = 51025
+percent_zip_in_county = 3.82
+
+[[zipcodes]]
+zipcode = 51029
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51046
+percent_zip_in_county = 1.27
+
+[[zipcodes]]
+zipcode = 51047
+percent_zip_in_county = 5.73
+
+[[zipcodes]]
+zipcode = 51048
+percent_zip_in_county = 14.26
+
+[[zipcodes]]
+zipcode = 51049
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51058
+percent_zip_in_county = 1.89
+
+[[zipcodes]]
+zipcode = 51061
+percent_zip_in_county = 85.88

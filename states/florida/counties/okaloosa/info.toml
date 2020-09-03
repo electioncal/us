@@ -1,2 +1,58 @@
 name = "Okaloosa County"
 fips_code = 12091
+
+[[zipcodes]]
+zipcode = 32531
+percent_zip_in_county = 99.24
+
+[[zipcodes]]
+zipcode = 32536
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32539
+percent_zip_in_county = 97.97
+
+[[zipcodes]]
+zipcode = 32541
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32542
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32544
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32547
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32548
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32564
+percent_zip_in_county = 84.42
+
+[[zipcodes]]
+zipcode = 32567
+percent_zip_in_county = 57.69
+
+[[zipcodes]]
+zipcode = 32569
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32578
+percent_zip_in_county = 97.21
+
+[[zipcodes]]
+zipcode = 32579
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32580
+percent_zip_in_county = 100.0

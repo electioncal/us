@@ -1,2 +1,22 @@
 name = "Johnson County"
 fips_code = 47091
+
+[[zipcodes]]
+zipcode = 37640
+percent_zip_in_county = 67.99
+
+[[zipcodes]]
+zipcode = 37680
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37683
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37688
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37691
+percent_zip_in_county = 100.0

@@ -1,2 +1,50 @@
 name = "Gilmer County"
 fips_code = 54021
+
+[[zipcodes]]
+zipcode = 25267
+percent_zip_in_county = 97.89
+
+[[zipcodes]]
+zipcode = 26137
+percent_zip_in_county = 27.05
+
+[[zipcodes]]
+zipcode = 26335
+percent_zip_in_county = 16.4
+
+[[zipcodes]]
+zipcode = 26342
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26351
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26384
+percent_zip_in_county = 90.19
+
+[[zipcodes]]
+zipcode = 26412
+percent_zip_in_county = 11.17
+
+[[zipcodes]]
+zipcode = 26430
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26443
+percent_zip_in_county = 93.8
+
+[[zipcodes]]
+zipcode = 26611
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26636
+percent_zip_in_county = 52.16
+
+[[zipcodes]]
+zipcode = 26638
+percent_zip_in_county = 70.79

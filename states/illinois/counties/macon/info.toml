@@ -1,2 +1,106 @@
 name = "Macon County"
 fips_code = 17115
+
+[[zipcodes]]
+zipcode = 61749
+percent_zip_in_county = 3.78
+
+[[zipcodes]]
+zipcode = 61756
+percent_zip_in_county = 93.75
+
+[[zipcodes]]
+zipcode = 61818
+percent_zip_in_county = 3.66
+
+[[zipcodes]]
+zipcode = 61830
+percent_zip_in_county = 9.41
+
+[[zipcodes]]
+zipcode = 61882
+percent_zip_in_county = 2.52
+
+[[zipcodes]]
+zipcode = 61925
+percent_zip_in_county = 34.1
+
+[[zipcodes]]
+zipcode = 61937
+percent_zip_in_county = 2.03
+
+[[zipcodes]]
+zipcode = 62501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62513
+percent_zip_in_county = 86.41
+
+[[zipcodes]]
+zipcode = 62514
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62521
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62522
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62523
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62526
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62532
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62535
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62537
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62539
+percent_zip_in_county = 4.2
+
+[[zipcodes]]
+zipcode = 62543
+percent_zip_in_county = 6.67
+
+[[zipcodes]]
+zipcode = 62544
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62547
+percent_zip_in_county = 2.61
+
+[[zipcodes]]
+zipcode = 62549
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62550
+percent_zip_in_county = 1.57
+
+[[zipcodes]]
+zipcode = 62551
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62554
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62573
+percent_zip_in_county = 100.0

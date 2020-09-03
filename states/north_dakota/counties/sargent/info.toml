@@ -1,2 +1,42 @@
 name = "Sargent County"
 fips_code = 38081
+
+[[zipcodes]]
+zipcode = 58013
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58017
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58053
+percent_zip_in_county = 9.14
+
+[[zipcodes]]
+zipcode = 58060
+percent_zip_in_county = 77.73
+
+[[zipcodes]]
+zipcode = 58067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58069
+percent_zip_in_county = 94.89
+
+[[zipcodes]]
+zipcode = 58474
+percent_zip_in_county = 2.09

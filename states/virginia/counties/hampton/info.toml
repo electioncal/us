@@ -1,2 +1,34 @@
 name = "Hampton city"
 fips_code = 51650
+
+[[zipcodes]]
+zipcode = 23605
+percent_zip_in_county = 26.14
+
+[[zipcodes]]
+zipcode = 23651
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23661
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23663
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23664
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23665
+percent_zip_in_county = 26.23
+
+[[zipcodes]]
+zipcode = 23666
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23669
+percent_zip_in_county = 100.0

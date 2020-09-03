@@ -1,2 +1,50 @@
 name = "Amador County"
 fips_code = 6005
+
+[[zipcodes]]
+zipcode = 95601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95629
+percent_zip_in_county = 78.25
+
+[[zipcodes]]
+zipcode = 95640
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95642
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95646
+percent_zip_in_county = 38.61
+
+[[zipcodes]]
+zipcode = 95665
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95666
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95669
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95675
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95685
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95689
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95699
+percent_zip_in_county = 100.0

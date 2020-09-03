@@ -1,2 +1,14 @@
 name = "Vega Baja Municipio"
 fips_code = 72145
+
+[[zipcodes]]
+zipcode = 674
+percent_zip_in_county = 1.51
+
+[[zipcodes]]
+zipcode = 693
+percent_zip_in_county = 96.07
+
+[[zipcodes]]
+zipcode = 694
+percent_zip_in_county = 100.0

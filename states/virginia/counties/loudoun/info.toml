@@ -1,2 +1,86 @@
 name = "Loudoun County"
 fips_code = 51107
+
+[[zipcodes]]
+zipcode = 20105
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20117
+percent_zip_in_county = 93.72
+
+[[zipcodes]]
+zipcode = 20118
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20120
+percent_zip_in_county = 0.04
+
+[[zipcodes]]
+zipcode = 20129
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20132
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20135
+percent_zip_in_county = 32.04
+
+[[zipcodes]]
+zipcode = 20141
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20147
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20148
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20152
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20158
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20164
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20165
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20166
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20175
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20176
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20180
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20184
+percent_zip_in_county = 44.7
+
+[[zipcodes]]
+zipcode = 20197
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22066
+percent_zip_in_county = 6.46

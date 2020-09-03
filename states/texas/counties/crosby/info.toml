@@ -1,2 +1,30 @@
 name = "Crosby County"
 fips_code = 48107
+
+[[zipcodes]]
+zipcode = 79235
+percent_zip_in_county = 1.23
+
+[[zipcodes]]
+zipcode = 79250
+percent_zip_in_county = 2.59
+
+[[zipcodes]]
+zipcode = 79322
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79343
+percent_zip_in_county = 91.22
+
+[[zipcodes]]
+zipcode = 79356
+percent_zip_in_county = 0.5
+
+[[zipcodes]]
+zipcode = 79357
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79370
+percent_zip_in_county = 8.26

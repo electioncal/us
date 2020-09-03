@@ -1,2 +1,114 @@
 name = "Northumberland County"
 fips_code = 42097
+
+[[zipcodes]]
+zipcode = 17017
+percent_zip_in_county = 92.71
+
+[[zipcodes]]
+zipcode = 17730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17749
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17756
+percent_zip_in_county = 7.41
+
+[[zipcodes]]
+zipcode = 17772
+percent_zip_in_county = 60.4
+
+[[zipcodes]]
+zipcode = 17777
+percent_zip_in_county = 97.79
+
+[[zipcodes]]
+zipcode = 17801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17821
+percent_zip_in_county = 11.45
+
+[[zipcodes]]
+zipcode = 17823
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17824
+percent_zip_in_county = 84.5
+
+[[zipcodes]]
+zipcode = 17830
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17832
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17834
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17836
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17840
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17847
+percent_zip_in_county = 94.27
+
+[[zipcodes]]
+zipcode = 17850
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17851
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17857
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17860
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17865
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17866
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17867
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17868
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17872
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17881
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17941
+percent_zip_in_county = 21.1
+
+[[zipcodes]]
+zipcode = 17964
+percent_zip_in_county = 5.39

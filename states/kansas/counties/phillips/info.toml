@@ -1,2 +1,34 @@
 name = "Phillips County"
 fips_code = 20147
+
+[[zipcodes]]
+zipcode = 66951
+percent_zip_in_county = 11.39
+
+[[zipcodes]]
+zipcode = 67621
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67639
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67644
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67646
+percent_zip_in_county = 95.54
+
+[[zipcodes]]
+zipcode = 67647
+percent_zip_in_county = 97.66
+
+[[zipcodes]]
+zipcode = 67661
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67664
+percent_zip_in_county = 93.77

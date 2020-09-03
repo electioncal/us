@@ -1,2 +1,46 @@
 name = "Kemper County"
 fips_code = 28069
+
+[[zipcodes]]
+zipcode = 39320
+percent_zip_in_county = 17.45
+
+[[zipcodes]]
+zipcode = 39325
+percent_zip_in_county = 7.74
+
+[[zipcodes]]
+zipcode = 39326
+percent_zip_in_county = 38.47
+
+[[zipcodes]]
+zipcode = 39328
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39335
+percent_zip_in_county = 6.01
+
+[[zipcodes]]
+zipcode = 39350
+percent_zip_in_county = 1.66
+
+[[zipcodes]]
+zipcode = 39352
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39354
+percent_zip_in_county = 70.96
+
+[[zipcodes]]
+zipcode = 39358
+percent_zip_in_county = 99.64
+
+[[zipcodes]]
+zipcode = 39361
+percent_zip_in_county = 0.89
+
+[[zipcodes]]
+zipcode = 39365
+percent_zip_in_county = 0.04

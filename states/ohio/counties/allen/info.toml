@@ -1,2 +1,74 @@
 name = "Allen County"
 fips_code = 39003
+
+[[zipcodes]]
+zipcode = 45801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45804
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45805
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45806
+percent_zip_in_county = 76.43
+
+[[zipcodes]]
+zipcode = 45807
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45808
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45809
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45810
+percent_zip_in_county = 2.58
+
+[[zipcodes]]
+zipcode = 45817
+percent_zip_in_county = 82.56
+
+[[zipcodes]]
+zipcode = 45820
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45830
+percent_zip_in_county = 20.62
+
+[[zipcodes]]
+zipcode = 45833
+percent_zip_in_county = 55.35
+
+[[zipcodes]]
+zipcode = 45844
+percent_zip_in_county = 2.4
+
+[[zipcodes]]
+zipcode = 45850
+percent_zip_in_county = 90.64
+
+[[zipcodes]]
+zipcode = 45854
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45877
+percent_zip_in_county = 4.49
+
+[[zipcodes]]
+zipcode = 45887
+percent_zip_in_county = 80.19
+
+[[zipcodes]]
+zipcode = 45896
+percent_zip_in_county = 9.33

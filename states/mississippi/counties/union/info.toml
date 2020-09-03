@@ -1,2 +1,46 @@
 name = "Union County"
 fips_code = 28145
+
+[[zipcodes]]
+zipcode = 38610
+percent_zip_in_county = 9.66
+
+[[zipcodes]]
+zipcode = 38625
+percent_zip_in_county = 32.99
+
+[[zipcodes]]
+zipcode = 38627
+percent_zip_in_county = 80.36
+
+[[zipcodes]]
+zipcode = 38633
+percent_zip_in_county = 19.03
+
+[[zipcodes]]
+zipcode = 38650
+percent_zip_in_county = 99.25
+
+[[zipcodes]]
+zipcode = 38652
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38824
+percent_zip_in_county = 6.49
+
+[[zipcodes]]
+zipcode = 38828
+percent_zip_in_county = 87.33
+
+[[zipcodes]]
+zipcode = 38841
+percent_zip_in_county = 3.57
+
+[[zipcodes]]
+zipcode = 38849
+percent_zip_in_county = 8.7
+
+[[zipcodes]]
+zipcode = 38871
+percent_zip_in_county = 1.71

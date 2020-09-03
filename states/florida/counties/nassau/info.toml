@@ -1,2 +1,26 @@
 name = "Nassau County"
 fips_code = 12089
+
+[[zipcodes]]
+zipcode = 32009
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32011
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32097
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32234
+percent_zip_in_county = 1.53

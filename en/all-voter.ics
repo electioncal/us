@@ -1494,6 +1494,10 @@ SUMMARY:Last day to register to vote online in Wisconsin
 DTSTART;VALUE=DATE:20201014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Illinois
+DTSTART;VALUE=DATE:20201018
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
   in Alabama
 DTSTART;VALUE=DATE:20201019
@@ -1858,6 +1862,18 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to vote in person in Idaho
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots in Illinois
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Illinois
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Illinois
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
@@ -2250,6 +2266,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote online in Louisiana
 DTSTART;VALUE=DATE:20201114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Ill
+ inois
+DTSTART;VALUE=DATE:20201117
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form

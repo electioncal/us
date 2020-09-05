@@ -1,3 +1,14 @@
 date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
 2020-03-17 00:00:00,20200317,,election,,Congressional & Presidential Primary,2020-03-17 00:00:00,Illinois,,
+2020-10-18 23:59:59,,20201103,deadline,registration.online_by,Last day to register to vote online,,Illinois,,
+2020-10-18 23:59:59,,20201103,reminder,registration.online_by,Register to vote online,,Illinois,,
+2020-11-02 23:59:59,,20201103,reminder,absentee.postmarked_by,Mail ballot,,Illinois,,False
+2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,Illinois,,
 2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,Illinois,,
+2020-11-03 23:59:59,,20201103,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,Illinois,,False
+2020-11-03 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,Illinois,,
+2020-11-03 23:59:59,,20201103,deadline,registration.in_person_by,Last day to register to vote in person,,Illinois,,
+2020-11-03 23:59:59,,20201103,reminder,absentee.postmarked_by,Mail ballot at the post office,,Illinois,,False
+2020-11-03 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,Illinois,,
+2020-11-03 23:59:59,,20201103,reminder,registration.in_person_by,Register to vote in person,,Illinois,,
+2020-11-17 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Illinois,,False

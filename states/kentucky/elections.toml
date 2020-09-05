@@ -30,7 +30,7 @@ in_person_by = 2020-10-05T16:00:00
 sources = ["https://elect.ky.gov/Resources/Documents/2020%20Election%20Calendar%20with%20Primary%20Postponement.pdf"]
 
 [20201103.absentee.application]
-received_by = 2020-10-27
+received_by = 2020-10-09T23:59:59
 sources = ["https://elect.ky.gov/Resources/Documents/2020%20Election%20Calendar%20with%20Primary%20Postponement.pdf"]
 
 [20201103.absentee]
@@ -45,5 +45,4 @@ sources = ["https://vrsws.sos.ky.gov/abrweb/"]
 [20201103.poll]
 in_person_start = 2020-11-03T06:00:00
 in_person_by = 2020-11-03T18:00:00
-received_by = 2020-11-03T18:00:00
 sources = ["https://elect.ky.gov/Resources/Documents/2020%20Election%20Calendar%20with%20Primary%20Postponement.pdf"]

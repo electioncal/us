@@ -31,6 +31,6 @@ in_person_by = 2020-11-02
 sources = ["https://www.elections.il.gov/DocDisplay.aspx?Doc=/Downloads/ElectionOperations/PDF/EarlyVoting.pdf&MID=10"]
 
 [20201103.poll]
-2020-11-03T06:00:00
-2020-11-03T19:00:00
+in_person_start = 2020-11-03T06:00:00
+in_person_by = 2020-11-03T19:00:00
 sources = ["https://www.elections.il.gov/ElectionOperations/ElectionDayVoting.aspx"]

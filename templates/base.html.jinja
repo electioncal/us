@@ -28,6 +28,7 @@
     {% endblock %}
 </head>
 <body>
+    {% block logo %}<img src="/static/img/sm_logo.png"/>{% endblock logo  %}
     {% block navigation %}{% endblock navigation%}
     {% block slogan %}<h1>Voting reminders for {{ demonym }}s who put things off.</h1>{% endblock %}
     {% block reminder %}

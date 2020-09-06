@@ -8,33 +8,35 @@ date = 2020-11-03
 name = "General"
 original_date = 2020-11-03
 
-# UNPUBLISHED 
-# Review this again when the ND GE Information is Published
-# Everything below is estimated based on the Primary
-# https://vip.sos.nd.gov/PortalListDetails.aspx?ptlhPKID=130&ptlPKID=7#content-start
-
 # [20201103.registration]
 # North Dakota is the only state without voter registration/
 # sources = ["https://vip.sos.nd.gov/pdfs/Portals/votereg.pdf"]
 
 [20201103.absentee.application]
-# Available 40 days prior
-# No specific deadline is called out, but early polling is 1 week
-# prior to election day so I'm going with that.
-email_by = 2020-10-27
-fax_by = 2020-10-27
-in_person_by = 2020-10-27
-sources = ["https://vip.sos.nd.gov/votebymail.aspx?ptlhPKID=129&ptlPKID=7"]
+# No specific deadline is called out, just within time to receive the ballot
+# 14 day pad to send, receive and send in ballot
+email_by = 2020-10-20
+fax_by = 2020-10-20
+in_person_by = 2020-10-20
+sources = ["https://www.legis.nd.gov/cencode/t16-1c07.pdf#nameddest=16p1-07-05"]
 
 [20201103.absentee]
-postmarked_by = 2020-11-02 # Day before postmark required
-sources = ["https://vip.sos.nd.gov/votebymail.aspx?ptlhPKID=129&ptlPKID=7"]
+received_by = 2020-11-02
+sources = ["https://vip.sos.nd.gov/PortalListDetails.aspx?ptlhPKID=104&ptlPKID=7#content-start"]
 
 [20201103.poll.early]
-in_person_starts = 2020-10-27
-sources = ["https://vip.sos.nd.gov/votebymail.aspx?ptlhPKID=129&ptlPKID=7"]
+# Based on a random address in Fargo. This Varies by county
+in_person_by = 2020-11-02
+in_person_starts = 2020-10-19
+sources = [
+  "https://vip.sos.nd.gov/votebymail.aspx?ptlhPKID=129&ptlPKID=7",
+  "https://vip.sos.nd.gov/WhereToVoteDetail.aspx?Part=09110201&tab=AddressandVotingTimes&ptlPKID=7&ptlhPKID=50",
+]
 
 [20201103.poll]
-# NOTE: Hours vary by precinct
-in_person_by = 2020-11-03
-sources = ["https://vip.sos.nd.gov/pdfs/Portals/electioncalendar.pdf"]
+# NOTE: Hours vary by county, 7pm in Fargo
+in_person_by = 2020-11-03T19:00:00
+sources = [
+  "https://vip.sos.nd.gov/pdfs/Portals/electioncalendar.pdf",
+  "https://vip.sos.nd.gov/PortalListDetails.aspx?ptlhPKID=75&ptlPKID=7",
+]

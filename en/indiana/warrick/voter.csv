@@ -1,3 +1,16 @@
 date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
 2020-06-02 00:00:00,20200602,,election,,Congressional & Presidential Primary,2020-06-02 00:00:00,Indiana,,
+2020-09-27 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration,,Indiana,,True
+2020-09-28 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration at the post office,,Indiana,,True
+2020-10-05 23:59:59,,20201103,deadline,registration.received_by,Last day for election officials to receive voter registration form,,Indiana,,True
+2020-10-05 23:59:59,,20201103,deadline,registration.in_person_by,Last day to register to vote in person,,Indiana,,
+2020-10-05 23:59:59,,20201103,deadline,registration.online_by,Last day to register to vote online,,Indiana,,
+2020-10-05 23:59:59,,20201103,reminder,registration.in_person_by,Register to vote in person,,Indiana,,
+2020-10-05 23:59:59,,20201103,reminder,registration.online_by,Register to vote online,,Indiana,,
+2020-10-26 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,Indiana,,True
+2020-10-27 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,Indiana,,True
+2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,Indiana,,
 2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,Indiana,,
+2020-11-03 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Indiana,,True
+2020-11-03 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,Indiana,,
+2020-11-03 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,Indiana,,

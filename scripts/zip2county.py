@@ -31,7 +31,3 @@ for county_path in root.glob("*/counties/*/info.toml"):
         continue
     county_info["zipcodes"] = zips_by_county[fips]
     county_path.write_text(tomlkit.dumps(county_info))
-    # if "fips_code" in state_info:
-    #     by_fips[state_info["fips_code"]] = fn
-    # if "postal_code" in state_info:
-    #     by_postal_code[state_info["postal_code"]] = fn

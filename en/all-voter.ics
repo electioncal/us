@@ -1504,6 +1504,19 @@ DTSTART;VALUE=DATE:20201013
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
+  in West Virginia
+DTSTART;VALUE=DATE:20201013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in West Virginia
+DTSTART;VALUE=DATE:20201013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in West Virginia
+DTSTART;VALUE=DATE:20201013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive voter registration form
   in New York
 DTSTART;VALUE=DATE:20201014
 END:VEVENT
@@ -2199,6 +2212,14 @@ SUMMARY:Last day to register to vote in person in Washington
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots in West Virginia
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in West Virginia
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in Wis
  consin
 DTSTART;VALUE=DATE:20201103
@@ -2274,6 +2295,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in Iow
  a
+DTSTART;VALUE=DATE:20201109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Wes
+ t Virginia
 DTSTART;VALUE=DATE:20201109
 END:VEVENT
 BEGIN:VEVENT

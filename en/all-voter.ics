@@ -1542,6 +1542,14 @@ SUMMARY:Last day to register to vote online in Wisconsin
 DTSTART;VALUE=DATE:20201014
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to postmark voter registration form in Nebraska
+DTSTART;VALUE=DATE:20201016
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote online in Nebraska
+DTSTART;VALUE=DATE:20201016
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to register to vote online in Illinois
 DTSTART;VALUE=DATE:20201018
 END:VEVENT
@@ -1597,6 +1605,10 @@ BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
   in Wyoming
 DTSTART;VALUE=DATE:20201019
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to register to vote in person in Nebraska
+DTSTART;VALUE=DATE:20201023
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
@@ -2051,6 +2063,15 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person in Montana
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Neb
+ raska
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in Nebraska
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

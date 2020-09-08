@@ -1,3 +1,16 @@
 date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
 2020-05-12 00:00:00,20200512,,election,,Congressional & Presidential Primary,2020-05-12 00:00:00,Nebraska,,
+2020-10-15 23:59:59,,20201103,reminder,registration.postmarked_by,Mail voter registration,,Nebraska,,False
+2020-10-16 23:59:59,,20201103,deadline,registration.postmarked_by,Last day to postmark voter registration form,,Nebraska,,False
+2020-10-16 23:59:59,,20201103,deadline,registration.online_by,Last day to register to vote online,,Nebraska,,
+2020-10-16 23:59:59,,20201103,reminder,registration.postmarked_by,Mail voter registration at the post office,,Nebraska,,False
+2020-10-16 23:59:59,,20201103,reminder,registration.online_by,Register to vote online,,Nebraska,,
+2020-10-23 23:59:59,,20201103,deadline,registration.in_person_by,Last day to register to vote in person,,Nebraska,,
+2020-10-23 23:59:59,,20201103,reminder,registration.in_person_by,Register to vote in person,,Nebraska,,
+2020-10-26 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,Nebraska,,True
+2020-10-27 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,Nebraska,,True
+2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,Nebraska,,
 2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,Nebraska,,
+2020-11-03 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Nebraska,,True
+2020-11-03 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,Nebraska,,
+2020-11-03 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,Nebraska,,

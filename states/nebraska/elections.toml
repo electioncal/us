@@ -11,6 +11,7 @@ original_date = 2020-11-03
 [20201103.registration]
 in_person_by = 2020-10-23
 postmarked_by = 2020-10-16
+online_by = 2020-10-16
 sources = ["https://sos.nebraska.gov/sites/sos.nebraska.gov/files/doc/elections/2020/2020%20Election%20Calendar%20-%204.8.20%20Update.pdf"]
 
 [20201103.absentee.application]

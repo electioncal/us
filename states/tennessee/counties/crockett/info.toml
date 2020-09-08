@@ -1,2 +1,34 @@
 name = "Crockett County"
 fips_code = 47033
+
+[[zipcodes]]
+zipcode = 38001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38006
+percent_zip_in_county = 79.53
+
+[[zipcodes]]
+zipcode = 38021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38034
+percent_zip_in_county = 76.05
+
+[[zipcodes]]
+zipcode = 38040
+percent_zip_in_county = 11.23
+
+[[zipcodes]]
+zipcode = 38050
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38337
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38343
+percent_zip_in_county = 6.27

@@ -1,2 +1,66 @@
 name = "Grundy County"
 fips_code = 19075
+
+[[zipcodes]]
+zipcode = 50601
+percent_zip_in_county = 7.26
+
+[[zipcodes]]
+zipcode = 50604
+percent_zip_in_county = 6.65
+
+[[zipcodes]]
+zipcode = 50609
+percent_zip_in_county = 75.34
+
+[[zipcodes]]
+zipcode = 50613
+percent_zip_in_county = 1.27
+
+[[zipcodes]]
+zipcode = 50621
+percent_zip_in_county = 95.56
+
+[[zipcodes]]
+zipcode = 50624
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50627
+percent_zip_in_county = 2.95
+
+[[zipcodes]]
+zipcode = 50638
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50642
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50643
+percent_zip_in_county = 1.02
+
+[[zipcodes]]
+zipcode = 50660
+percent_zip_in_county = 9.9
+
+[[zipcodes]]
+zipcode = 50665
+percent_zip_in_county = 12.18
+
+[[zipcodes]]
+zipcode = 50669
+percent_zip_in_county = 91.54
+
+[[zipcodes]]
+zipcode = 50672
+percent_zip_in_county = 5.22
+
+[[zipcodes]]
+zipcode = 50673
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50680
+percent_zip_in_county = 100.0

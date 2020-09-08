@@ -1,2 +1,54 @@
 name = "Levy County"
 fips_code = 12075
+
+[[zipcodes]]
+zipcode = 32618
+percent_zip_in_county = 23.9
+
+[[zipcodes]]
+zipcode = 32621
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32625
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32626
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32639
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32668
+percent_zip_in_county = 83.94
+
+[[zipcodes]]
+zipcode = 32669
+percent_zip_in_county = 0.64
+
+[[zipcodes]]
+zipcode = 32683
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32693
+percent_zip_in_county = 30.82
+
+[[zipcodes]]
+zipcode = 32696
+percent_zip_in_county = 91.28
+
+[[zipcodes]]
+zipcode = 34431
+percent_zip_in_county = 9.02
+
+[[zipcodes]]
+zipcode = 34449
+percent_zip_in_county = 89.43
+
+[[zipcodes]]
+zipcode = 34498
+percent_zip_in_county = 100.0

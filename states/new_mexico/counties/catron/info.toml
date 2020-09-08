@@ -1,2 +1,38 @@
 name = "Catron County"
 fips_code = 35003
+
+[[zipcodes]]
+zipcode = 87820
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87821
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87824
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87825
+percent_zip_in_county = 1.27
+
+[[zipcodes]]
+zipcode = 87827
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87829
+percent_zip_in_county = 98.05
+
+[[zipcodes]]
+zipcode = 87830
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87943
+percent_zip_in_county = 7.02
+
+[[zipcodes]]
+zipcode = 88039
+percent_zip_in_county = 100.0

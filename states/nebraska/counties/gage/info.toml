@@ -1,2 +1,66 @@
 name = "Gage County"
 fips_code = 31067
+
+[[zipcodes]]
+zipcode = 68301
+percent_zip_in_county = 81.72
+
+[[zipcodes]]
+zipcode = 68309
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68310
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68318
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68328
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68331
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68341
+percent_zip_in_county = 25.74
+
+[[zipcodes]]
+zipcode = 68342
+percent_zip_in_county = 10.0
+
+[[zipcodes]]
+zipcode = 68357
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68358
+percent_zip_in_county = 20.67
+
+[[zipcodes]]
+zipcode = 68381
+percent_zip_in_county = 84.34
+
+[[zipcodes]]
+zipcode = 68415
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68422
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68458
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68465
+percent_zip_in_county = 1.33
+
+[[zipcodes]]
+zipcode = 68466
+percent_zip_in_county = 100.0

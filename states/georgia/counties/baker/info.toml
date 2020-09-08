@@ -1,2 +1,26 @@
 name = "Baker County"
 fips_code = 13007
+
+[[zipcodes]]
+zipcode = 31721
+percent_zip_in_county = 0.35
+
+[[zipcodes]]
+zipcode = 39813
+percent_zip_in_county = 6.64
+
+[[zipcodes]]
+zipcode = 39837
+percent_zip_in_county = 6.26
+
+[[zipcodes]]
+zipcode = 39841
+percent_zip_in_county = 16.4
+
+[[zipcodes]]
+zipcode = 39862
+percent_zip_in_county = 35.6
+
+[[zipcodes]]
+zipcode = 39870
+percent_zip_in_county = 100.0

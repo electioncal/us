@@ -1,2 +1,18 @@
 name = "Anderson County"
 fips_code = 21005
+
+[[zipcodes]]
+zipcode = 40046
+percent_zip_in_county = 10.34
+
+[[zipcodes]]
+zipcode = 40076
+percent_zip_in_county = 2.58
+
+[[zipcodes]]
+zipcode = 40342
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40372
+percent_zip_in_county = 2.4

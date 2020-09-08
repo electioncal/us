@@ -1,2 +1,54 @@
 name = "Calvert County"
 fips_code = 24009
+
+[[zipcodes]]
+zipcode = 20615
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20629
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20639
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20657
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20676
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20678
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20685
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20688
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20689
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20714
+percent_zip_in_county = 79.17
+
+[[zipcodes]]
+zipcode = 20732
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20736
+percent_zip_in_county = 99.85
+
+[[zipcodes]]
+zipcode = 20754
+percent_zip_in_county = 85.28

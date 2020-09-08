@@ -1,2 +1,46 @@
 name = "McKenzie County"
 fips_code = 38053
+
+[[zipcodes]]
+zipcode = 58634
+percent_zip_in_county = 88.84
+
+[[zipcodes]]
+zipcode = 58757
+percent_zip_in_county = 75.58
+
+[[zipcodes]]
+zipcode = 58763
+percent_zip_in_county = 22.19
+
+[[zipcodes]]
+zipcode = 58801
+percent_zip_in_county = 0.34
+
+[[zipcodes]]
+zipcode = 58831
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58835
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58838
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58847
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58854
+percent_zip_in_county = 99.82
+
+[[zipcodes]]
+zipcode = 59221
+percent_zip_in_county = 25.15
+
+[[zipcodes]]
+zipcode = 59270
+percent_zip_in_county = 1.73

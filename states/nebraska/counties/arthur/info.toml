@@ -1,2 +1,18 @@
 name = "Arthur County"
 fips_code = 31005
+
+[[zipcodes]]
+zipcode = 69121
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69146
+percent_zip_in_county = 7.19
+
+[[zipcodes]]
+zipcode = 69350
+percent_zip_in_county = 1.31
+
+[[zipcodes]]
+zipcode = 69366
+percent_zip_in_county = 12.25

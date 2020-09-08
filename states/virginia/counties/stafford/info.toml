@@ -1,2 +1,22 @@
 name = "Stafford County"
 fips_code = 51179
+
+[[zipcodes]]
+zipcode = 22134
+percent_zip_in_county = 28.13
+
+[[zipcodes]]
+zipcode = 22405
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22406
+percent_zip_in_county = 99.92
+
+[[zipcodes]]
+zipcode = 22554
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22556
+percent_zip_in_county = 100.0

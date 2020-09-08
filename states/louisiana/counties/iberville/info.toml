@@ -1,2 +1,34 @@
 name = "Iberville Parish"
 fips_code = 22047
+
+[[zipcodes]]
+zipcode = 70721
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70740
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70757
+percent_zip_in_county = 60.21
+
+[[zipcodes]]
+zipcode = 70764
+percent_zip_in_county = 99.88
+
+[[zipcodes]]
+zipcode = 70772
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70776
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70780
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70788
+percent_zip_in_county = 100.0

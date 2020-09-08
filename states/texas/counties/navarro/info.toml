@@ -1,2 +1,62 @@
 name = "Navarro County"
 fips_code = 48349
+
+[[zipcodes]]
+zipcode = 75102
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75105
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75109
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75110
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75119
+percent_zip_in_county = 0.7
+
+[[zipcodes]]
+zipcode = 75144
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75153
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75155
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75859
+percent_zip_in_county = 17.0
+
+[[zipcodes]]
+zipcode = 76626
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76639
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76641
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76648
+percent_zip_in_county = 9.08
+
+[[zipcodes]]
+zipcode = 76679
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76681
+percent_zip_in_county = 100.0

@@ -1,2 +1,30 @@
 name = "Oktibbeha County"
 fips_code = 28105
+
+[[zipcodes]]
+zipcode = 39743
+percent_zip_in_county = 23.17
+
+[[zipcodes]]
+zipcode = 39750
+percent_zip_in_county = 44.05
+
+[[zipcodes]]
+zipcode = 39755
+percent_zip_in_county = 18.36
+
+[[zipcodes]]
+zipcode = 39759
+percent_zip_in_county = 99.6
+
+[[zipcodes]]
+zipcode = 39760
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39762
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39769
+percent_zip_in_county = 83.36

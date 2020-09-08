@@ -1,2 +1,62 @@
 name = "Osage County"
 fips_code = 29151
+
+[[zipcodes]]
+zipcode = 65001
+percent_zip_in_county = 76.81
+
+[[zipcodes]]
+zipcode = 65013
+percent_zip_in_county = 24.55
+
+[[zipcodes]]
+zipcode = 65014
+percent_zip_in_county = 17.14
+
+[[zipcodes]]
+zipcode = 65016
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65048
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65051
+percent_zip_in_county = 99.96
+
+[[zipcodes]]
+zipcode = 65054
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65058
+percent_zip_in_county = 30.48
+
+[[zipcodes]]
+zipcode = 65061
+percent_zip_in_county = 22.52
+
+[[zipcodes]]
+zipcode = 65062
+percent_zip_in_county = 28.57
+
+[[zipcodes]]
+zipcode = 65076
+percent_zip_in_county = 22.2
+
+[[zipcodes]]
+zipcode = 65085
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65101
+percent_zip_in_county = 0.8

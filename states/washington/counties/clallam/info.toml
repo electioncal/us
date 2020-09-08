@@ -1,2 +1,38 @@
 name = "Clallam County"
 fips_code = 53009
+
+[[zipcodes]]
+zipcode = 98305
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98326
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98331
+percent_zip_in_county = 85.93
+
+[[zipcodes]]
+zipcode = 98350
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98357
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98362
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98363
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98381
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98382
+percent_zip_in_county = 98.44

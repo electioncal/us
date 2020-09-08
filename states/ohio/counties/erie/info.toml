@@ -1,2 +1,58 @@
 name = "Erie County"
 fips_code = 39043
+
+[[zipcodes]]
+zipcode = 43438
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43464
+percent_zip_in_county = 25.96
+
+[[zipcodes]]
+zipcode = 44089
+percent_zip_in_county = 58.79
+
+[[zipcodes]]
+zipcode = 44811
+percent_zip_in_county = 4.97
+
+[[zipcodes]]
+zipcode = 44814
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44816
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44824
+percent_zip_in_county = 97.93
+
+[[zipcodes]]
+zipcode = 44826
+percent_zip_in_county = 9.78
+
+[[zipcodes]]
+zipcode = 44839
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44846
+percent_zip_in_county = 89.09
+
+[[zipcodes]]
+zipcode = 44847
+percent_zip_in_county = 20.78
+
+[[zipcodes]]
+zipcode = 44857
+percent_zip_in_county = 1.3
+
+[[zipcodes]]
+zipcode = 44870
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44889
+percent_zip_in_county = 25.56

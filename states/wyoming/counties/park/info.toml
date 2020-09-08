@@ -1,2 +1,34 @@
 name = "Park County"
 fips_code = 56029
+
+[[zipcodes]]
+zipcode = 82190
+percent_zip_in_county = 78.05
+
+[[zipcodes]]
+zipcode = 82414
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82421
+percent_zip_in_county = 21.65
+
+[[zipcodes]]
+zipcode = 82423
+percent_zip_in_county = 9.87
+
+[[zipcodes]]
+zipcode = 82433
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82435
+percent_zip_in_county = 99.46
+
+[[zipcodes]]
+zipcode = 82440
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82450
+percent_zip_in_county = 100.0

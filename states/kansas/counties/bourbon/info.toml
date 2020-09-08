@@ -1,2 +1,50 @@
 name = "Bourbon County"
 fips_code = 20011
+
+[[zipcodes]]
+zipcode = 66010
+percent_zip_in_county = 3.14
+
+[[zipcodes]]
+zipcode = 66701
+percent_zip_in_county = 99.85
+
+[[zipcodes]]
+zipcode = 66711
+percent_zip_in_county = 2.3
+
+[[zipcodes]]
+zipcode = 66716
+percent_zip_in_county = 89.07
+
+[[zipcodes]]
+zipcode = 66738
+percent_zip_in_county = 94.41
+
+[[zipcodes]]
+zipcode = 66741
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66746
+percent_zip_in_county = 7.66
+
+[[zipcodes]]
+zipcode = 66754
+percent_zip_in_county = 95.12
+
+[[zipcodes]]
+zipcode = 66755
+percent_zip_in_county = 2.72
+
+[[zipcodes]]
+zipcode = 66769
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66779
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66780
+percent_zip_in_county = 8.32

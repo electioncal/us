@@ -1,2 +1,38 @@
 name = "Eddy County"
 fips_code = 35015
+
+[[zipcodes]]
+zipcode = 88210
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88220
+percent_zip_in_county = 99.99
+
+[[zipcodes]]
+zipcode = 88250
+percent_zip_in_county = 81.85
+
+[[zipcodes]]
+zipcode = 88253
+percent_zip_in_county = 26.1
+
+[[zipcodes]]
+zipcode = 88254
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88255
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88256
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88263
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88268
+percent_zip_in_county = 100.0

@@ -1,2 +1,10 @@
 name = "Guayanilla Municipio"
 fips_code = 72059
+
+[[zipcodes]]
+zipcode = 656
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 698
+percent_zip_in_county = 0.24

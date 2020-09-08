@@ -1,2 +1,14 @@
 name = "Cochran County"
 fips_code = 48079
+
+[[zipcodes]]
+zipcode = 79314
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79346
+percent_zip_in_county = 99.09
+
+[[zipcodes]]
+zipcode = 79379
+percent_zip_in_county = 100.0

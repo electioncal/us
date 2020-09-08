@@ -1,2 +1,18 @@
 name = "McDuffie County"
 fips_code = 13189
+
+[[zipcodes]]
+zipcode = 30802
+percent_zip_in_county = 0.57
+
+[[zipcodes]]
+zipcode = 30808
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30814
+percent_zip_in_county = 1.36
+
+[[zipcodes]]
+zipcode = 30824
+percent_zip_in_county = 99.49

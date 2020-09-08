@@ -1,2 +1,54 @@
 name = "Walker County"
 fips_code = 13295
+
+[[zipcodes]]
+zipcode = 30707
+percent_zip_in_county = 96.64
+
+[[zipcodes]]
+zipcode = 30725
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30728
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30731
+percent_zip_in_county = 10.87
+
+[[zipcodes]]
+zipcode = 30736
+percent_zip_in_county = 0.64
+
+[[zipcodes]]
+zipcode = 30738
+percent_zip_in_county = 30.35
+
+[[zipcodes]]
+zipcode = 30739
+percent_zip_in_county = 82.18
+
+[[zipcodes]]
+zipcode = 30740
+percent_zip_in_county = 2.6
+
+[[zipcodes]]
+zipcode = 30741
+percent_zip_in_county = 62.88
+
+[[zipcodes]]
+zipcode = 30742
+percent_zip_in_county = 0.09
+
+[[zipcodes]]
+zipcode = 30747
+percent_zip_in_county = 1.36
+
+[[zipcodes]]
+zipcode = 30750
+percent_zip_in_county = 50.84
+
+[[zipcodes]]
+zipcode = 30753
+percent_zip_in_county = 19.92

@@ -1,2 +1,34 @@
 name = "Santa Cruz County"
 fips_code = 4023
+
+[[zipcodes]]
+zipcode = 85611
+percent_zip_in_county = 80.0
+
+[[zipcodes]]
+zipcode = 85621
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85624
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85637
+percent_zip_in_county = 83.12
+
+[[zipcodes]]
+zipcode = 85640
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85645
+percent_zip_in_county = 12.64
+
+[[zipcodes]]
+zipcode = 85646
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85648
+percent_zip_in_county = 100.0

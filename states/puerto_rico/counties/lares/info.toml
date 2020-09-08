@@ -1,2 +1,10 @@
 name = "Lares Municipio"
 fips_code = 72081
+
+[[zipcodes]]
+zipcode = 631
+percent_zip_in_county = 67.01
+
+[[zipcodes]]
+zipcode = 669
+percent_zip_in_county = 99.22

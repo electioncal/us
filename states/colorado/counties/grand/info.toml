@@ -1,2 +1,38 @@
 name = "Grand County"
 fips_code = 8049
+
+[[zipcodes]]
+zipcode = 80423
+percent_zip_in_county = 14.79
+
+[[zipcodes]]
+zipcode = 80442
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80446
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80447
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80451
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80459
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80468
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80478
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80482
+percent_zip_in_county = 100.0

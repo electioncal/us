@@ -1,2 +1,54 @@
 name = "Latah County"
 fips_code = 16057
+
+[[zipcodes]]
+zipcode = 83535
+percent_zip_in_county = 62.26
+
+[[zipcodes]]
+zipcode = 83537
+percent_zip_in_county = 69.73
+
+[[zipcodes]]
+zipcode = 83806
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83823
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83832
+percent_zip_in_county = 87.86
+
+[[zipcodes]]
+zipcode = 83834
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83843
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83844
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83855
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83857
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83871
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83872
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99128
+percent_zip_in_county = 13.4

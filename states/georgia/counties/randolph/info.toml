@@ -1,2 +1,18 @@
 name = "Randolph County"
 fips_code = 13243
+
+[[zipcodes]]
+zipcode = 39836
+percent_zip_in_county = 85.25
+
+[[zipcodes]]
+zipcode = 39840
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39867
+percent_zip_in_county = 30.84
+
+[[zipcodes]]
+zipcode = 39886
+percent_zip_in_county = 92.88

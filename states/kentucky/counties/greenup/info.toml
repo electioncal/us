@@ -1,2 +1,46 @@
 name = "Greenup County"
 fips_code = 21089
+
+[[zipcodes]]
+zipcode = 41101
+percent_zip_in_county = 8.2
+
+[[zipcodes]]
+zipcode = 41102
+percent_zip_in_county = 2.85
+
+[[zipcodes]]
+zipcode = 41121
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41139
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41141
+percent_zip_in_county = 22.88
+
+[[zipcodes]]
+zipcode = 41143
+percent_zip_in_county = 2.38
+
+[[zipcodes]]
+zipcode = 41144
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41169
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41174
+percent_zip_in_county = 78.43
+
+[[zipcodes]]
+zipcode = 41175
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41183
+percent_zip_in_county = 100.0

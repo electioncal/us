@@ -1,2 +1,42 @@
 name = "Faulk County"
 fips_code = 46049
+
+[[zipcodes]]
+zipcode = 57424
+percent_zip_in_county = 4.12
+
+[[zipcodes]]
+zipcode = 57435
+percent_zip_in_county = 85.43
+
+[[zipcodes]]
+zipcode = 57438
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57460
+percent_zip_in_county = 8.49
+
+[[zipcodes]]
+zipcode = 57465
+percent_zip_in_county = 26.42
+
+[[zipcodes]]
+zipcode = 57466
+percent_zip_in_county = 77.42
+
+[[zipcodes]]
+zipcode = 57467
+percent_zip_in_county = 27.65
+
+[[zipcodes]]
+zipcode = 57469
+percent_zip_in_county = 1.72
+
+[[zipcodes]]
+zipcode = 57470
+percent_zip_in_county = 54.55
+
+[[zipcodes]]
+zipcode = 57473
+percent_zip_in_county = 74.53

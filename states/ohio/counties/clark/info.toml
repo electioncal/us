@@ -1,2 +1,90 @@
 name = "Clark County"
 fips_code = 39023
+
+[[zipcodes]]
+zipcode = 43010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43044
+percent_zip_in_county = 12.79
+
+[[zipcodes]]
+zipcode = 43078
+percent_zip_in_county = 0.25
+
+[[zipcodes]]
+zipcode = 43140
+percent_zip_in_county = 0.22
+
+[[zipcodes]]
+zipcode = 43153
+percent_zip_in_county = 9.89
+
+[[zipcodes]]
+zipcode = 45314
+percent_zip_in_county = 0.56
+
+[[zipcodes]]
+zipcode = 45316
+percent_zip_in_county = 23.48
+
+[[zipcodes]]
+zipcode = 45319
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45323
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45324
+percent_zip_in_county = 4.84
+
+[[zipcodes]]
+zipcode = 45341
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45344
+percent_zip_in_county = 89.27
+
+[[zipcodes]]
+zipcode = 45349
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45368
+percent_zip_in_county = 98.88
+
+[[zipcodes]]
+zipcode = 45369
+percent_zip_in_county = 99.49
+
+[[zipcodes]]
+zipcode = 45372
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45387
+percent_zip_in_county = 4.24
+
+[[zipcodes]]
+zipcode = 45502
+percent_zip_in_county = 98.45
+
+[[zipcodes]]
+zipcode = 45503
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45504
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45505
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45506
+percent_zip_in_county = 100.0

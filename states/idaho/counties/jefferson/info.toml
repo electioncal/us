@@ -1,2 +1,42 @@
 name = "Jefferson County"
 fips_code = 16051
+
+[[zipcodes]]
+zipcode = 83401
+percent_zip_in_county = 0.03
+
+[[zipcodes]]
+zipcode = 83402
+percent_zip_in_county = 1.04
+
+[[zipcodes]]
+zipcode = 83425
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83431
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83434
+percent_zip_in_county = 86.39
+
+[[zipcodes]]
+zipcode = 83435
+percent_zip_in_county = 89.59
+
+[[zipcodes]]
+zipcode = 83442
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83443
+percent_zip_in_county = 51.49
+
+[[zipcodes]]
+zipcode = 83444
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83450
+percent_zip_in_county = 100.0

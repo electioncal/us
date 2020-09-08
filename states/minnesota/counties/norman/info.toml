@@ -1,2 +1,50 @@
 name = "Norman County"
 fips_code = 27107
+
+[[zipcodes]]
+zipcode = 56510
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56516
+percent_zip_in_county = 18.03
+
+[[zipcodes]]
+zipcode = 56519
+percent_zip_in_county = 69.67
+
+[[zipcodes]]
+zipcode = 56540
+percent_zip_in_county = 10.6
+
+[[zipcodes]]
+zipcode = 56541
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56545
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56548
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56550
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56557
+percent_zip_in_county = 1.85
+
+[[zipcodes]]
+zipcode = 56574
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56581
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56584
+percent_zip_in_county = 100.0

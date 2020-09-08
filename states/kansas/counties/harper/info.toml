@@ -1,2 +1,42 @@
 name = "Harper County"
 fips_code = 20077
+
+[[zipcodes]]
+zipcode = 67003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67004
+percent_zip_in_county = 7.01
+
+[[zipcodes]]
+zipcode = 67009
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67018
+percent_zip_in_county = 96.64
+
+[[zipcodes]]
+zipcode = 67036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67049
+percent_zip_in_county = 93.67
+
+[[zipcodes]]
+zipcode = 67058
+percent_zip_in_county = 98.14
+
+[[zipcodes]]
+zipcode = 67061
+percent_zip_in_county = 17.54
+
+[[zipcodes]]
+zipcode = 67150
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67159
+percent_zip_in_county = 17.16

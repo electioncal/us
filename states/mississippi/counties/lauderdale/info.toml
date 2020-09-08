@@ -1,2 +1,50 @@
 name = "Lauderdale County"
 fips_code = 28075
+
+[[zipcodes]]
+zipcode = 39301
+percent_zip_in_county = 94.1
+
+[[zipcodes]]
+zipcode = 39305
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39307
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39309
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39320
+percent_zip_in_county = 82.55
+
+[[zipcodes]]
+zipcode = 39323
+percent_zip_in_county = 20.39
+
+[[zipcodes]]
+zipcode = 39325
+percent_zip_in_county = 83.12
+
+[[zipcodes]]
+zipcode = 39326
+percent_zip_in_county = 61.53
+
+[[zipcodes]]
+zipcode = 39330
+percent_zip_in_county = 13.36
+
+[[zipcodes]]
+zipcode = 39335
+percent_zip_in_county = 93.99
+
+[[zipcodes]]
+zipcode = 39342
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39364
+percent_zip_in_county = 100.0

@@ -1,2 +1,46 @@
 name = "Mason County"
 fips_code = 53045
+
+[[zipcodes]]
+zipcode = 98524
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98528
+percent_zip_in_county = 99.68
+
+[[zipcodes]]
+zipcode = 98541
+percent_zip_in_county = 13.72
+
+[[zipcodes]]
+zipcode = 98546
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98548
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98555
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98557
+percent_zip_in_county = 1.98
+
+[[zipcodes]]
+zipcode = 98560
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98584
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98588
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98592
+percent_zip_in_county = 100.0

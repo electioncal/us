@@ -1,2 +1,34 @@
 name = "Morris County"
 fips_code = 20127
+
+[[zipcodes]]
+zipcode = 66834
+percent_zip_in_county = 13.92
+
+[[zipcodes]]
+zipcode = 66838
+percent_zip_in_county = 94.51
+
+[[zipcodes]]
+zipcode = 66846
+percent_zip_in_county = 97.32
+
+[[zipcodes]]
+zipcode = 66849
+percent_zip_in_county = 83.3
+
+[[zipcodes]]
+zipcode = 66859
+percent_zip_in_county = 4.49
+
+[[zipcodes]]
+zipcode = 66872
+percent_zip_in_county = 98.41
+
+[[zipcodes]]
+zipcode = 66873
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67449
+percent_zip_in_county = 11.22

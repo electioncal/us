@@ -1,2 +1,66 @@
 name = "Williamson County"
 fips_code = 47187
+
+[[zipcodes]]
+zipcode = 37014
+percent_zip_in_county = 68.03
+
+[[zipcodes]]
+zipcode = 37025
+percent_zip_in_county = 0.95
+
+[[zipcodes]]
+zipcode = 37027
+percent_zip_in_county = 80.47
+
+[[zipcodes]]
+zipcode = 37046
+percent_zip_in_county = 96.4
+
+[[zipcodes]]
+zipcode = 37060
+percent_zip_in_county = 9.82
+
+[[zipcodes]]
+zipcode = 37062
+percent_zip_in_county = 98.82
+
+[[zipcodes]]
+zipcode = 37064
+percent_zip_in_county = 99.88
+
+[[zipcodes]]
+zipcode = 37067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37069
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37135
+percent_zip_in_county = 82.63
+
+[[zipcodes]]
+zipcode = 37174
+percent_zip_in_county = 55.97
+
+[[zipcodes]]
+zipcode = 37179
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37215
+percent_zip_in_county = 0.29
+
+[[zipcodes]]
+zipcode = 37221
+percent_zip_in_county = 5.78
+
+[[zipcodes]]
+zipcode = 38401
+percent_zip_in_county = 0.23
+
+[[zipcodes]]
+zipcode = 38476
+percent_zip_in_county = 46.25

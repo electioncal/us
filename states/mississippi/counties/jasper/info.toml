@@ -1,2 +1,58 @@
 name = "Jasper County"
 fips_code = 28061
+
+[[zipcodes]]
+zipcode = 39330
+percent_zip_in_county = 3.79
+
+[[zipcodes]]
+zipcode = 39332
+percent_zip_in_county = 5.82
+
+[[zipcodes]]
+zipcode = 39336
+percent_zip_in_county = 2.19
+
+[[zipcodes]]
+zipcode = 39338
+percent_zip_in_county = 79.87
+
+[[zipcodes]]
+zipcode = 39345
+percent_zip_in_county = 2.68
+
+[[zipcodes]]
+zipcode = 39347
+percent_zip_in_county = 59.65
+
+[[zipcodes]]
+zipcode = 39348
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39356
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39366
+percent_zip_in_county = 58.99
+
+[[zipcodes]]
+zipcode = 39422
+percent_zip_in_county = 87.95
+
+[[zipcodes]]
+zipcode = 39439
+percent_zip_in_county = 72.75
+
+[[zipcodes]]
+zipcode = 39443
+percent_zip_in_county = 4.63
+
+[[zipcodes]]
+zipcode = 39480
+percent_zip_in_county = 2.31
+
+[[zipcodes]]
+zipcode = 39481
+percent_zip_in_county = 100.0

@@ -1,2 +1,74 @@
 name = "Ashland County"
 fips_code = 39005
+
+[[zipcodes]]
+zipcode = 44235
+percent_zip_in_county = 2.25
+
+[[zipcodes]]
+zipcode = 44287
+percent_zip_in_county = 35.03
+
+[[zipcodes]]
+zipcode = 44638
+percent_zip_in_county = 16.43
+
+[[zipcodes]]
+zipcode = 44691
+percent_zip_in_county = 0.1
+
+[[zipcodes]]
+zipcode = 44805
+percent_zip_in_county = 98.69
+
+[[zipcodes]]
+zipcode = 44837
+percent_zip_in_county = 8.46
+
+[[zipcodes]]
+zipcode = 44838
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44840
+percent_zip_in_county = 99.21
+
+[[zipcodes]]
+zipcode = 44842
+percent_zip_in_county = 88.61
+
+[[zipcodes]]
+zipcode = 44843
+percent_zip_in_county = 1.38
+
+[[zipcodes]]
+zipcode = 44851
+percent_zip_in_county = 5.75
+
+[[zipcodes]]
+zipcode = 44859
+percent_zip_in_county = 95.68
+
+[[zipcodes]]
+zipcode = 44864
+percent_zip_in_county = 78.31
+
+[[zipcodes]]
+zipcode = 44866
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44874
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44878
+percent_zip_in_county = 2.76
+
+[[zipcodes]]
+zipcode = 44880
+percent_zip_in_county = 90.15
+
+[[zipcodes]]
+zipcode = 44903
+percent_zip_in_county = 0.25

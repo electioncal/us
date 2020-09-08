@@ -1,2 +1,50 @@
 name = "Colquitt County"
 fips_code = 13071
+
+[[zipcodes]]
+zipcode = 31637
+percent_zip_in_county = 7.02
+
+[[zipcodes]]
+zipcode = 31722
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31738
+percent_zip_in_county = 8.04
+
+[[zipcodes]]
+zipcode = 31744
+percent_zip_in_county = 59.31
+
+[[zipcodes]]
+zipcode = 31747
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31756
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31765
+percent_zip_in_county = 17.19
+
+[[zipcodes]]
+zipcode = 31768
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31771
+percent_zip_in_county = 98.62
+
+[[zipcodes]]
+zipcode = 31775
+percent_zip_in_county = 38.0
+
+[[zipcodes]]
+zipcode = 31778
+percent_zip_in_county = 3.71
+
+[[zipcodes]]
+zipcode = 31788
+percent_zip_in_county = 100.0

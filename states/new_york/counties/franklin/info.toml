@@ -1,2 +1,98 @@
 name = "Franklin County"
 fips_code = 36033
+
+[[zipcodes]]
+zipcode = 12912
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 12913
+percent_zip_in_county = 7.35
+
+[[zipcodes]]
+zipcode = 12914
+percent_zip_in_county = 90.33
+
+[[zipcodes]]
+zipcode = 12916
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12917
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12920
+percent_zip_in_county = 97.99
+
+[[zipcodes]]
+zipcode = 12926
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12930
+percent_zip_in_county = 98.11
+
+[[zipcodes]]
+zipcode = 12937
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12939
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12945
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12953
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12955
+percent_zip_in_county = 12.86
+
+[[zipcodes]]
+zipcode = 12957
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12966
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12969
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12970
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12976
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12980
+percent_zip_in_county = 85.2
+
+[[zipcodes]]
+zipcode = 12981
+percent_zip_in_county = 0.67
+
+[[zipcodes]]
+zipcode = 12983
+percent_zip_in_county = 70.8
+
+[[zipcodes]]
+zipcode = 12986
+percent_zip_in_county = 98.81
+
+[[zipcodes]]
+zipcode = 12989
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13655
+percent_zip_in_county = 95.16

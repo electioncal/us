@@ -1,2 +1,34 @@
 name = "Nolan County"
 fips_code = 48353
+
+[[zipcodes]]
+zipcode = 79506
+percent_zip_in_county = 56.99
+
+[[zipcodes]]
+zipcode = 79532
+percent_zip_in_county = 1.17
+
+[[zipcodes]]
+zipcode = 79535
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79536
+percent_zip_in_county = 0.32
+
+[[zipcodes]]
+zipcode = 79537
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79545
+percent_zip_in_county = 97.43
+
+[[zipcodes]]
+zipcode = 79556
+percent_zip_in_county = 97.24
+
+[[zipcodes]]
+zipcode = 79561
+percent_zip_in_county = 15.26

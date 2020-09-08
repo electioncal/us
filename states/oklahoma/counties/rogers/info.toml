@@ -1,2 +1,46 @@
 name = "Rogers County"
 fips_code = 40131
+
+[[zipcodes]]
+zipcode = 74015
+percent_zip_in_county = 73.46
+
+[[zipcodes]]
+zipcode = 74016
+percent_zip_in_county = 85.96
+
+[[zipcodes]]
+zipcode = 74017
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74019
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74021
+percent_zip_in_county = 23.11
+
+[[zipcodes]]
+zipcode = 74036
+percent_zip_in_county = 95.16
+
+[[zipcodes]]
+zipcode = 74053
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74055
+percent_zip_in_county = 28.82
+
+[[zipcodes]]
+zipcode = 74080
+percent_zip_in_county = 91.59
+
+[[zipcodes]]
+zipcode = 74116
+percent_zip_in_county = 32.67
+
+[[zipcodes]]
+zipcode = 74332
+percent_zip_in_county = 18.86

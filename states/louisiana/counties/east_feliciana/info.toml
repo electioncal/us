@@ -1,2 +1,30 @@
 name = "East Feliciana Parish"
 fips_code = 22037
+
+[[zipcodes]]
+zipcode = 70722
+percent_zip_in_county = 97.37
+
+[[zipcodes]]
+zipcode = 70730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70748
+percent_zip_in_county = 96.77
+
+[[zipcodes]]
+zipcode = 70761
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70777
+percent_zip_in_county = 68.56
+
+[[zipcodes]]
+zipcode = 70789
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70791
+percent_zip_in_county = 0.76

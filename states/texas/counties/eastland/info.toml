@@ -1,2 +1,38 @@
 name = "Eastland County"
 fips_code = 48133
+
+[[zipcodes]]
+zipcode = 76435
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76437
+percent_zip_in_county = 95.33
+
+[[zipcodes]]
+zipcode = 76445
+percent_zip_in_county = 77.4
+
+[[zipcodes]]
+zipcode = 76448
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76454
+percent_zip_in_county = 91.41
+
+[[zipcodes]]
+zipcode = 76466
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76470
+percent_zip_in_county = 94.07
+
+[[zipcodes]]
+zipcode = 76471
+percent_zip_in_county = 85.57
+
+[[zipcodes]]
+zipcode = 76475
+percent_zip_in_county = 2.25

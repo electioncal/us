@@ -1,2 +1,38 @@
 name = "Glynn County"
 fips_code = 13127
+
+[[zipcodes]]
+zipcode = 31520
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31522
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31523
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31524
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 31525
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31527
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31543
+percent_zip_in_county = 2.38
+
+[[zipcodes]]
+zipcode = 31561
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31566
+percent_zip_in_county = 4.32

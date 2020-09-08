@@ -1,2 +1,58 @@
 name = "Harrison County"
 fips_code = 18061
+
+[[zipcodes]]
+zipcode = 47110
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47112
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47114
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47115
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47117
+percent_zip_in_county = 96.12
+
+[[zipcodes]]
+zipcode = 47122
+percent_zip_in_county = 17.11
+
+[[zipcodes]]
+zipcode = 47124
+percent_zip_in_county = 10.86
+
+[[zipcodes]]
+zipcode = 47135
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47136
+percent_zip_in_county = 50.84
+
+[[zipcodes]]
+zipcode = 47142
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47160
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47161
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47164
+percent_zip_in_county = 80.55
+
+[[zipcodes]]
+zipcode = 47166
+percent_zip_in_county = 100.0

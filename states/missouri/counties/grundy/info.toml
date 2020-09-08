@@ -1,2 +1,30 @@
 name = "Grundy County"
 fips_code = 29079
+
+[[zipcodes]]
+zipcode = 64635
+percent_zip_in_county = 4.66
+
+[[zipcodes]]
+zipcode = 64641
+percent_zip_in_county = 83.63
+
+[[zipcodes]]
+zipcode = 64642
+percent_zip_in_county = 14.85
+
+[[zipcodes]]
+zipcode = 64648
+percent_zip_in_county = 15.03
+
+[[zipcodes]]
+zipcode = 64652
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64679
+percent_zip_in_county = 91.55
+
+[[zipcodes]]
+zipcode = 64683
+percent_zip_in_county = 98.91

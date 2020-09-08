@@ -1,2 +1,34 @@
 name = "Kearney County"
 fips_code = 31099
+
+[[zipcodes]]
+zipcode = 68840
+percent_zip_in_county = 3.46
+
+[[zipcodes]]
+zipcode = 68845
+percent_zip_in_county = 1.71
+
+[[zipcodes]]
+zipcode = 68847
+percent_zip_in_county = 1.14
+
+[[zipcodes]]
+zipcode = 68924
+percent_zip_in_county = 98.56
+
+[[zipcodes]]
+zipcode = 68945
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68956
+percent_zip_in_county = 4.28
+
+[[zipcodes]]
+zipcode = 68959
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68982
+percent_zip_in_county = 65.02

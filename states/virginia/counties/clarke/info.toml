@@ -1,2 +1,30 @@
 name = "Clarke County"
 fips_code = 51043
+
+[[zipcodes]]
+zipcode = 20130
+percent_zip_in_county = 77.58
+
+[[zipcodes]]
+zipcode = 20135
+percent_zip_in_county = 63.02
+
+[[zipcodes]]
+zipcode = 22611
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22620
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22630
+percent_zip_in_county = 0.07
+
+[[zipcodes]]
+zipcode = 22646
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22663
+percent_zip_in_county = 45.44

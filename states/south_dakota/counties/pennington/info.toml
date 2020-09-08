@@ -1,2 +1,74 @@
 name = "Pennington County"
 fips_code = 46103
+
+[[zipcodes]]
+zipcode = 57701
+percent_zip_in_county = 97.46
+
+[[zipcodes]]
+zipcode = 57702
+percent_zip_in_county = 98.6
+
+[[zipcodes]]
+zipcode = 57703
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57706
+percent_zip_in_county = 13.99
+
+[[zipcodes]]
+zipcode = 57718
+percent_zip_in_county = 0.54
+
+[[zipcodes]]
+zipcode = 57719
+percent_zip_in_county = 86.12
+
+[[zipcodes]]
+zipcode = 57725
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57730
+percent_zip_in_county = 2.6
+
+[[zipcodes]]
+zipcode = 57744
+percent_zip_in_county = 12.33
+
+[[zipcodes]]
+zipcode = 57745
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57751
+percent_zip_in_county = 98.82
+
+[[zipcodes]]
+zipcode = 57761
+percent_zip_in_county = 80.83
+
+[[zipcodes]]
+zipcode = 57767
+percent_zip_in_county = 65.77
+
+[[zipcodes]]
+zipcode = 57775
+percent_zip_in_county = 68.26
+
+[[zipcodes]]
+zipcode = 57780
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57790
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57791
+percent_zip_in_county = 57.89
+
+[[zipcodes]]
+zipcode = 82701
+percent_zip_in_county = 0.0

@@ -1,2 +1,46 @@
 name = "Miami County"
 fips_code = 20121
+
+[[zipcodes]]
+zipcode = 66013
+percent_zip_in_county = 56.17
+
+[[zipcodes]]
+zipcode = 66021
+percent_zip_in_county = 7.7
+
+[[zipcodes]]
+zipcode = 66026
+percent_zip_in_county = 73.35
+
+[[zipcodes]]
+zipcode = 66040
+percent_zip_in_county = 8.4
+
+[[zipcodes]]
+zipcode = 66042
+percent_zip_in_county = 30.9
+
+[[zipcodes]]
+zipcode = 66053
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66064
+percent_zip_in_county = 99.26
+
+[[zipcodes]]
+zipcode = 66071
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66072
+percent_zip_in_county = 1.8
+
+[[zipcodes]]
+zipcode = 66083
+percent_zip_in_county = 46.89
+
+[[zipcodes]]
+zipcode = 66092
+percent_zip_in_county = 10.24

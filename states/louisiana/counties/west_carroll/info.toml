@@ -1,2 +1,18 @@
 name = "West Carroll Parish"
 fips_code = 22123
+
+[[zipcodes]]
+zipcode = 71237
+percent_zip_in_county = 87.14
+
+[[zipcodes]]
+zipcode = 71253
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71263
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71266
+percent_zip_in_county = 100.0

@@ -1,2 +1,14 @@
 name = "Golden Valley County"
 fips_code = 30037
+
+[[zipcodes]]
+zipcode = 59046
+percent_zip_in_county = 97.69
+
+[[zipcodes]]
+zipcode = 59074
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59078
+percent_zip_in_county = 8.97

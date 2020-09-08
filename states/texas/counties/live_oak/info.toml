@@ -1,2 +1,46 @@
 name = "Live Oak County"
 fips_code = 48297
+
+[[zipcodes]]
+zipcode = 78008
+percent_zip_in_county = 6.38
+
+[[zipcodes]]
+zipcode = 78022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78060
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78071
+percent_zip_in_county = 99.81
+
+[[zipcodes]]
+zipcode = 78075
+percent_zip_in_county = 80.49
+
+[[zipcodes]]
+zipcode = 78102
+percent_zip_in_county = 0.15
+
+[[zipcodes]]
+zipcode = 78118
+percent_zip_in_county = 0.23
+
+[[zipcodes]]
+zipcode = 78119
+percent_zip_in_county = 0.43
+
+[[zipcodes]]
+zipcode = 78368
+percent_zip_in_county = 11.42
+
+[[zipcodes]]
+zipcode = 78372
+percent_zip_in_county = 0.77
+
+[[zipcodes]]
+zipcode = 78383
+percent_zip_in_county = 37.5

@@ -1,2 +1,178 @@
 name = "Aroostook County"
 fips_code = 23003
+
+[[zipcodes]]
+zipcode = 4424
+percent_zip_in_county = 28.43
+
+[[zipcodes]]
+zipcode = 4451
+percent_zip_in_county = 30.5
+
+[[zipcodes]]
+zipcode = 4459
+percent_zip_in_county = 11.13
+
+[[zipcodes]]
+zipcode = 4460
+percent_zip_in_county = 0.99
+
+[[zipcodes]]
+zipcode = 4471
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4497
+percent_zip_in_county = 88.17
+
+[[zipcodes]]
+zipcode = 4730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4732
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4733
+percent_zip_in_county = 92.76
+
+[[zipcodes]]
+zipcode = 4734
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4735
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4736
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4739
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4740
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4741
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4742
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4743
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4745
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4746
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4747
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4750
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4756
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4757
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4758
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4760
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4761
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4762
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4763
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4764
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4765
+percent_zip_in_county = 1.66
+
+[[zipcodes]]
+zipcode = 4766
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4768
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4769
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4772
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4773
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4774
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4776
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4779
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4780
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4781
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4783
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4785
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4786
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4787
+percent_zip_in_county = 100.0

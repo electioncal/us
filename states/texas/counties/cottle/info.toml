@@ -1,2 +1,14 @@
 name = "Cottle County"
 fips_code = 48101
+
+[[zipcodes]]
+zipcode = 79201
+percent_zip_in_county = 0.36
+
+[[zipcodes]]
+zipcode = 79248
+percent_zip_in_county = 98.39
+
+[[zipcodes]]
+zipcode = 79252
+percent_zip_in_county = 0.34

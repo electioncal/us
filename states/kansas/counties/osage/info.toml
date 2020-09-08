@@ -1,2 +1,54 @@
 name = "Osage County"
 fips_code = 20139
+
+[[zipcodes]]
+zipcode = 66413
+percent_zip_in_county = 97.23
+
+[[zipcodes]]
+zipcode = 66414
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66451
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66510
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66523
+percent_zip_in_county = 99.03
+
+[[zipcodes]]
+zipcode = 66524
+percent_zip_in_county = 78.87
+
+[[zipcodes]]
+zipcode = 66528
+percent_zip_in_county = 86.67
+
+[[zipcodes]]
+zipcode = 66537
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66543
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66546
+percent_zip_in_county = 2.27
+
+[[zipcodes]]
+zipcode = 66856
+percent_zip_in_county = 12.34
+
+[[zipcodes]]
+zipcode = 66868
+percent_zip_in_county = 5.63
+
+[[zipcodes]]
+zipcode = 66871
+percent_zip_in_county = 2.45

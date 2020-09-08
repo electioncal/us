@@ -1,2 +1,66 @@
 name = "Morrison County"
 fips_code = 27097
+
+[[zipcodes]]
+zipcode = 56314
+percent_zip_in_county = 95.55
+
+[[zipcodes]]
+zipcode = 56318
+percent_zip_in_county = 36.67
+
+[[zipcodes]]
+zipcode = 56328
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56329
+percent_zip_in_county = 5.62
+
+[[zipcodes]]
+zipcode = 56338
+percent_zip_in_county = 91.43
+
+[[zipcodes]]
+zipcode = 56340
+percent_zip_in_county = 18.09
+
+[[zipcodes]]
+zipcode = 56345
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56364
+percent_zip_in_county = 98.34
+
+[[zipcodes]]
+zipcode = 56373
+percent_zip_in_county = 90.59
+
+[[zipcodes]]
+zipcode = 56382
+percent_zip_in_county = 75.97
+
+[[zipcodes]]
+zipcode = 56384
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56443
+percent_zip_in_county = 75.44
+
+[[zipcodes]]
+zipcode = 56449
+percent_zip_in_county = 23.57
+
+[[zipcodes]]
+zipcode = 56466
+percent_zip_in_county = 44.03
+
+[[zipcodes]]
+zipcode = 56473
+percent_zip_in_county = 4.53
+
+[[zipcodes]]
+zipcode = 56475
+percent_zip_in_county = 100.0

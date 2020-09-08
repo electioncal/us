@@ -1,2 +1,22 @@
 name = "Ochiltree County"
 fips_code = 48357
+
+[[zipcodes]]
+zipcode = 79005
+percent_zip_in_county = 4.44
+
+[[zipcodes]]
+zipcode = 79033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79081
+percent_zip_in_county = 1.25
+
+[[zipcodes]]
+zipcode = 79093
+percent_zip_in_county = 100.0

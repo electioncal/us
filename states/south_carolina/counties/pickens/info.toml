@@ -1,2 +1,62 @@
 name = "Pickens County"
 fips_code = 45077
+
+[[zipcodes]]
+zipcode = 29611
+percent_zip_in_county = 1.75
+
+[[zipcodes]]
+zipcode = 29630
+percent_zip_in_county = 95.22
+
+[[zipcodes]]
+zipcode = 29631
+percent_zip_in_county = 99.66
+
+[[zipcodes]]
+zipcode = 29634
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29635
+percent_zip_in_county = 43.7
+
+[[zipcodes]]
+zipcode = 29640
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29642
+percent_zip_in_county = 60.19
+
+[[zipcodes]]
+zipcode = 29657
+percent_zip_in_county = 86.05
+
+[[zipcodes]]
+zipcode = 29661
+percent_zip_in_county = 18.57
+
+[[zipcodes]]
+zipcode = 29667
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29670
+percent_zip_in_county = 0.35
+
+[[zipcodes]]
+zipcode = 29671
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29678
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 29682
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29685
+percent_zip_in_county = 100.0

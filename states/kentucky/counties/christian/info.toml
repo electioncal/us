@@ -1,2 +1,54 @@
 name = "Christian County"
 fips_code = 21047
+
+[[zipcodes]]
+zipcode = 42215
+percent_zip_in_county = 55.77
+
+[[zipcodes]]
+zipcode = 42217
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42223
+percent_zip_in_county = 68.99
+
+[[zipcodes]]
+zipcode = 42232
+percent_zip_in_county = 75.86
+
+[[zipcodes]]
+zipcode = 42236
+percent_zip_in_county = 84.28
+
+[[zipcodes]]
+zipcode = 42240
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42254
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42262
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42266
+percent_zip_in_county = 94.21
+
+[[zipcodes]]
+zipcode = 42408
+percent_zip_in_county = 4.79
+
+[[zipcodes]]
+zipcode = 42442
+percent_zip_in_county = 2.2
+
+[[zipcodes]]
+zipcode = 42453
+percent_zip_in_county = 3.95
+
+[[zipcodes]]
+zipcode = 42464
+percent_zip_in_county = 4.67

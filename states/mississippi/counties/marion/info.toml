@@ -1,2 +1,34 @@
 name = "Marion County"
 fips_code = 28091
+
+[[zipcodes]]
+zipcode = 39421
+percent_zip_in_county = 12.23
+
+[[zipcodes]]
+zipcode = 39429
+percent_zip_in_county = 99.61
+
+[[zipcodes]]
+zipcode = 39455
+percent_zip_in_county = 0.23
+
+[[zipcodes]]
+zipcode = 39478
+percent_zip_in_county = 55.11
+
+[[zipcodes]]
+zipcode = 39482
+percent_zip_in_county = 4.94
+
+[[zipcodes]]
+zipcode = 39483
+percent_zip_in_county = 98.84
+
+[[zipcodes]]
+zipcode = 39643
+percent_zip_in_county = 79.58
+
+[[zipcodes]]
+zipcode = 39667
+percent_zip_in_county = 1.37

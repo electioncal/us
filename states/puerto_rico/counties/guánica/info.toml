@@ -1,2 +1,10 @@
 name = "Guánica Municipio"
 fips_code = 72055
+
+[[zipcodes]]
+zipcode = 647
+percent_zip_in_county = 98.88
+
+[[zipcodes]]
+zipcode = 653
+percent_zip_in_county = 100.0

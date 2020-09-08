@@ -1,2 +1,46 @@
 name = "Newberry County"
 fips_code = 45071
+
+[[zipcodes]]
+zipcode = 29036
+percent_zip_in_county = 1.83
+
+[[zipcodes]]
+zipcode = 29037
+percent_zip_in_county = 58.01
+
+[[zipcodes]]
+zipcode = 29075
+percent_zip_in_county = 62.77
+
+[[zipcodes]]
+zipcode = 29108
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29122
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29126
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29127
+percent_zip_in_county = 95.67
+
+[[zipcodes]]
+zipcode = 29145
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29178
+percent_zip_in_county = 81.23
+
+[[zipcodes]]
+zipcode = 29332
+percent_zip_in_county = 6.04
+
+[[zipcodes]]
+zipcode = 29355
+percent_zip_in_county = 40.74

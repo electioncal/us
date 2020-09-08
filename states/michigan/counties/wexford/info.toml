@@ -1,2 +1,46 @@
 name = "Wexford County"
 fips_code = 26165
+
+[[zipcodes]]
+zipcode = 49601
+percent_zip_in_county = 98.33
+
+[[zipcodes]]
+zipcode = 49618
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49620
+percent_zip_in_county = 62.66
+
+[[zipcodes]]
+zipcode = 49625
+percent_zip_in_county = 4.42
+
+[[zipcodes]]
+zipcode = 49633
+percent_zip_in_county = 2.89
+
+[[zipcodes]]
+zipcode = 49638
+percent_zip_in_county = 91.5
+
+[[zipcodes]]
+zipcode = 49649
+percent_zip_in_county = 2.12
+
+[[zipcodes]]
+zipcode = 49663
+percent_zip_in_county = 79.79
+
+[[zipcodes]]
+zipcode = 49668
+percent_zip_in_county = 99.61
+
+[[zipcodes]]
+zipcode = 49688
+percent_zip_in_county = 1.11
+
+[[zipcodes]]
+zipcode = 49689
+percent_zip_in_county = 9.36

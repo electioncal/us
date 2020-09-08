@@ -1,2 +1,30 @@
 name = "Baraga County"
 fips_code = 26013
+
+[[zipcodes]]
+zipcode = 49861
+percent_zip_in_county = 47.08
+
+[[zipcodes]]
+zipcode = 49908
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49919
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49946
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49958
+percent_zip_in_county = 38.82
+
+[[zipcodes]]
+zipcode = 49962
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49970
+percent_zip_in_county = 100.0

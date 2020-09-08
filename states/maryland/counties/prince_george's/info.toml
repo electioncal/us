@@ -1,2 +1,158 @@
 name = "Prince George's County"
 fips_code = 24033
+
+[[zipcodes]]
+zipcode = 20601
+percent_zip_in_county = 1.2
+
+[[zipcodes]]
+zipcode = 20607
+percent_zip_in_county = 99.56
+
+[[zipcodes]]
+zipcode = 20608
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20613
+percent_zip_in_county = 86.7
+
+[[zipcodes]]
+zipcode = 20623
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20705
+percent_zip_in_county = 99.35
+
+[[zipcodes]]
+zipcode = 20706
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20707
+percent_zip_in_county = 99.06
+
+[[zipcodes]]
+zipcode = 20708
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20710
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20712
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20715
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20716
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20720
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20721
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20722
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20735
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20737
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20740
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20742
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20743
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20744
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20745
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20746
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20747
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20748
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20762
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20769
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20770
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20772
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20774
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20781
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20782
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20783
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20784
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20785
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 20903
+percent_zip_in_county = 22.57
+
+[[zipcodes]]
+zipcode = 20904
+percent_zip_in_county = 0.59
+
+[[zipcodes]]
+zipcode = 20912
+percent_zip_in_county = 13.93

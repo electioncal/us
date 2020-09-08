@@ -1,2 +1,82 @@
 name = "Hancock County"
 fips_code = 17067
+
+[[zipcodes]]
+zipcode = 61420
+percent_zip_in_county = 7.4
+
+[[zipcodes]]
+zipcode = 61450
+percent_zip_in_county = 96.61
+
+[[zipcodes]]
+zipcode = 62311
+percent_zip_in_county = 86.74
+
+[[zipcodes]]
+zipcode = 62313
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62316
+percent_zip_in_county = 99.7
+
+[[zipcodes]]
+zipcode = 62321
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62326
+percent_zip_in_county = 1.13
+
+[[zipcodes]]
+zipcode = 62330
+percent_zip_in_county = 86.83
+
+[[zipcodes]]
+zipcode = 62334
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62336
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62341
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62349
+percent_zip_in_county = 0.31
+
+[[zipcodes]]
+zipcode = 62351
+percent_zip_in_county = 5.6
+
+[[zipcodes]]
+zipcode = 62354
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62358
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62367
+percent_zip_in_county = 52.04
+
+[[zipcodes]]
+zipcode = 62373
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62374
+percent_zip_in_county = 29.19
+
+[[zipcodes]]
+zipcode = 62379
+percent_zip_in_county = 99.32
+
+[[zipcodes]]
+zipcode = 62380
+percent_zip_in_county = 100.0

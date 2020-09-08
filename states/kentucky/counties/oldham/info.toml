@@ -1,2 +1,42 @@
 name = "Oldham County"
 fips_code = 21185
+
+[[zipcodes]]
+zipcode = 40010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40014
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40026
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40031
+percent_zip_in_county = 96.45
+
+[[zipcodes]]
+zipcode = 40055
+percent_zip_in_county = 21.18
+
+[[zipcodes]]
+zipcode = 40056
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40059
+percent_zip_in_county = 45.43
+
+[[zipcodes]]
+zipcode = 40068
+percent_zip_in_county = 7.18
+
+[[zipcodes]]
+zipcode = 40077
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40241
+percent_zip_in_county = 1.01

@@ -1,2 +1,54 @@
 name = "Kootenai County"
 fips_code = 16055
+
+[[zipcodes]]
+zipcode = 83801
+percent_zip_in_county = 84.07
+
+[[zipcodes]]
+zipcode = 83803
+percent_zip_in_county = 85.89
+
+[[zipcodes]]
+zipcode = 83810
+percent_zip_in_county = 93.86
+
+[[zipcodes]]
+zipcode = 83814
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83815
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83833
+percent_zip_in_county = 99.66
+
+[[zipcodes]]
+zipcode = 83835
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83842
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83854
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83858
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83861
+percent_zip_in_county = 6.57
+
+[[zipcodes]]
+zipcode = 83869
+percent_zip_in_county = 75.08
+
+[[zipcodes]]
+zipcode = 83876
+percent_zip_in_county = 100.0

@@ -1,2 +1,74 @@
 name = "Camden County"
 fips_code = 29029
+
+[[zipcodes]]
+zipcode = 65017
+percent_zip_in_county = 0.19
+
+[[zipcodes]]
+zipcode = 65020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65037
+percent_zip_in_county = 19.34
+
+[[zipcodes]]
+zipcode = 65047
+percent_zip_in_county = 15.17
+
+[[zipcodes]]
+zipcode = 65049
+percent_zip_in_county = 70.41
+
+[[zipcodes]]
+zipcode = 65052
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65065
+percent_zip_in_county = 95.1
+
+[[zipcodes]]
+zipcode = 65079
+percent_zip_in_county = 93.89
+
+[[zipcodes]]
+zipcode = 65324
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65326
+percent_zip_in_county = 26.05
+
+[[zipcodes]]
+zipcode = 65463
+percent_zip_in_county = 0.69
+
+[[zipcodes]]
+zipcode = 65536
+percent_zip_in_county = 0.16
+
+[[zipcodes]]
+zipcode = 65556
+percent_zip_in_county = 17.87
+
+[[zipcodes]]
+zipcode = 65567
+percent_zip_in_county = 87.79
+
+[[zipcodes]]
+zipcode = 65591
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65634
+percent_zip_in_county = 0.52
+
+[[zipcodes]]
+zipcode = 65786
+percent_zip_in_county = 96.44
+
+[[zipcodes]]
+zipcode = 65787
+percent_zip_in_county = 100.0

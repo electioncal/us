@@ -1,2 +1,94 @@
 name = "Lenawee County"
 fips_code = 26091
+
+[[zipcodes]]
+zipcode = 48176
+percent_zip_in_county = 0.14
+
+[[zipcodes]]
+zipcode = 49220
+percent_zip_in_county = 84.76
+
+[[zipcodes]]
+zipcode = 49221
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49228
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49229
+percent_zip_in_county = 96.46
+
+[[zipcodes]]
+zipcode = 49230
+percent_zip_in_county = 21.34
+
+[[zipcodes]]
+zipcode = 49233
+percent_zip_in_county = 32.16
+
+[[zipcodes]]
+zipcode = 49235
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49236
+percent_zip_in_county = 86.69
+
+[[zipcodes]]
+zipcode = 49238
+percent_zip_in_county = 81.1
+
+[[zipcodes]]
+zipcode = 49247
+percent_zip_in_county = 75.68
+
+[[zipcodes]]
+zipcode = 49248
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49253
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49256
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49265
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49267
+percent_zip_in_county = 6.97
+
+[[zipcodes]]
+zipcode = 49268
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49276
+percent_zip_in_county = 66.6
+
+[[zipcodes]]
+zipcode = 49279
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49286
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49287
+percent_zip_in_county = 94.66
+
+[[zipcodes]]
+zipcode = 49288
+percent_zip_in_county = 7.08
+
+[[zipcodes]]
+zipcode = 49289
+percent_zip_in_county = 100.0

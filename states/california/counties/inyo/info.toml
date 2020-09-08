@@ -1,2 +1,62 @@
 name = "Inyo County"
 fips_code = 6027
+
+[[zipcodes]]
+zipcode = 89019
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 89060
+percent_zip_in_county = 0.29
+
+[[zipcodes]]
+zipcode = 89061
+percent_zip_in_county = 0.97
+
+[[zipcodes]]
+zipcode = 92328
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92384
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 92389
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93513
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93514
+percent_zip_in_county = 91.44
+
+[[zipcodes]]
+zipcode = 93522
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93526
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93527
+percent_zip_in_county = 0.71
+
+[[zipcodes]]
+zipcode = 93530
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93545
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93549
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93592
+percent_zip_in_county = 100.0

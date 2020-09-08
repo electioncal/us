@@ -1,2 +1,22 @@
 name = "Montmorency County"
 fips_code = 26119
+
+[[zipcodes]]
+zipcode = 48619
+percent_zip_in_county = 10.97
+
+[[zipcodes]]
+zipcode = 49709
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49746
+percent_zip_in_county = 89.72
+
+[[zipcodes]]
+zipcode = 49751
+percent_zip_in_county = 12.51
+
+[[zipcodes]]
+zipcode = 49756
+percent_zip_in_county = 65.57

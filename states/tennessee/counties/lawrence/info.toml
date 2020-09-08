@@ -1,2 +1,42 @@
 name = "Lawrence County"
 fips_code = 47099
+
+[[zipcodes]]
+zipcode = 38456
+percent_zip_in_county = 84.29
+
+[[zipcodes]]
+zipcode = 38457
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38463
+percent_zip_in_county = 27.8
+
+[[zipcodes]]
+zipcode = 38464
+percent_zip_in_county = 95.15
+
+[[zipcodes]]
+zipcode = 38468
+percent_zip_in_county = 96.71
+
+[[zipcodes]]
+zipcode = 38469
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38474
+percent_zip_in_county = 1.53
+
+[[zipcodes]]
+zipcode = 38481
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38483
+percent_zip_in_county = 74.52
+
+[[zipcodes]]
+zipcode = 38486
+percent_zip_in_county = 89.66

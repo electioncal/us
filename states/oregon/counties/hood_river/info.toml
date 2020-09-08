@@ -1,2 +1,14 @@
 name = "Hood River County"
 fips_code = 41027
+
+[[zipcodes]]
+zipcode = 97014
+percent_zip_in_county = 89.6
+
+[[zipcodes]]
+zipcode = 97031
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97041
+percent_zip_in_county = 100.0

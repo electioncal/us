@@ -1,2 +1,54 @@
 name = "Johnston County"
 fips_code = 40069
+
+[[zipcodes]]
+zipcode = 73401
+percent_zip_in_county = 0.07
+
+[[zipcodes]]
+zipcode = 73432
+percent_zip_in_county = 87.58
+
+[[zipcodes]]
+zipcode = 73447
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73450
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73455
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73460
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73461
+percent_zip_in_county = 91.07
+
+[[zipcodes]]
+zipcode = 74530
+percent_zip_in_county = 84.11
+
+[[zipcodes]]
+zipcode = 74748
+percent_zip_in_county = 37.85
+
+[[zipcodes]]
+zipcode = 74820
+percent_zip_in_county = 0.5
+
+[[zipcodes]]
+zipcode = 74836
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74856
+percent_zip_in_county = 88.24
+
+[[zipcodes]]
+zipcode = 74871
+percent_zip_in_county = 1.78

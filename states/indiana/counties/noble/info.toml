@@ -1,2 +1,66 @@
 name = "Noble County"
 fips_code = 18113
+
+[[zipcodes]]
+zipcode = 46562
+percent_zip_in_county = 2.49
+
+[[zipcodes]]
+zipcode = 46571
+percent_zip_in_county = 2.15
+
+[[zipcodes]]
+zipcode = 46701
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46710
+percent_zip_in_county = 95.77
+
+[[zipcodes]]
+zipcode = 46723
+percent_zip_in_county = 16.64
+
+[[zipcodes]]
+zipcode = 46725
+percent_zip_in_county = 3.25
+
+[[zipcodes]]
+zipcode = 46732
+percent_zip_in_county = 60.56
+
+[[zipcodes]]
+zipcode = 46748
+percent_zip_in_county = 0.72
+
+[[zipcodes]]
+zipcode = 46755
+percent_zip_in_county = 99.63
+
+[[zipcodes]]
+zipcode = 46760
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46763
+percent_zip_in_county = 89.58
+
+[[zipcodes]]
+zipcode = 46764
+percent_zip_in_county = 11.29
+
+[[zipcodes]]
+zipcode = 46767
+percent_zip_in_county = 95.99
+
+[[zipcodes]]
+zipcode = 46784
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46794
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46795
+percent_zip_in_county = 14.1

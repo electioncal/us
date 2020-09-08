@@ -1,2 +1,30 @@
 name = "Marshall County"
 fips_code = 21157
+
+[[zipcodes]]
+zipcode = 42025
+percent_zip_in_county = 99.19
+
+[[zipcodes]]
+zipcode = 42029
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42044
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42048
+percent_zip_in_county = 97.3
+
+[[zipcodes]]
+zipcode = 42054
+percent_zip_in_county = 7.22
+
+[[zipcodes]]
+zipcode = 42066
+percent_zip_in_county = 0.41
+
+[[zipcodes]]
+zipcode = 42082
+percent_zip_in_county = 17.4

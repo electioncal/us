@@ -1,2 +1,58 @@
 name = "Monongalia County"
 fips_code = 54061
+
+[[zipcodes]]
+zipcode = 26374
+percent_zip_in_county = 10.04
+
+[[zipcodes]]
+zipcode = 26501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26505
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26508
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26521
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26534
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26541
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26542
+percent_zip_in_county = 10.25
+
+[[zipcodes]]
+zipcode = 26543
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26554
+percent_zip_in_county = 2.2
+
+[[zipcodes]]
+zipcode = 26562
+percent_zip_in_county = 37.7
+
+[[zipcodes]]
+zipcode = 26570
+percent_zip_in_county = 55.3
+
+[[zipcodes]]
+zipcode = 26588
+percent_zip_in_county = 11.26
+
+[[zipcodes]]
+zipcode = 26590
+percent_zip_in_county = 100.0

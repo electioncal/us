@@ -1,2 +1,50 @@
 name = "Garfield County"
 fips_code = 49017
+
+[[zipcodes]]
+zipcode = 84533
+percent_zip_in_county = 33.33
+
+[[zipcodes]]
+zipcode = 84712
+percent_zip_in_county = 73.13
+
+[[zipcodes]]
+zipcode = 84716
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84718
+percent_zip_in_county = 93.65
+
+[[zipcodes]]
+zipcode = 84726
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84735
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84736
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84759
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84762
+percent_zip_in_county = 2.82
+
+[[zipcodes]]
+zipcode = 84764
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84775
+percent_zip_in_county = 2.09
+
+[[zipcodes]]
+zipcode = 84776
+percent_zip_in_county = 100.0

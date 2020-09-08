@@ -1,2 +1,50 @@
 name = "Crawford County"
 fips_code = 29055
+
+[[zipcodes]]
+zipcode = 63080
+percent_zip_in_county = 14.96
+
+[[zipcodes]]
+zipcode = 65066
+percent_zip_in_county = 3.92
+
+[[zipcodes]]
+zipcode = 65441
+percent_zip_in_county = 97.4
+
+[[zipcodes]]
+zipcode = 65446
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65449
+percent_zip_in_county = 78.06
+
+[[zipcodes]]
+zipcode = 65453
+percent_zip_in_county = 98.47
+
+[[zipcodes]]
+zipcode = 65456
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65535
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65559
+percent_zip_in_county = 0.31
+
+[[zipcodes]]
+zipcode = 65560
+percent_zip_in_county = 1.97
+
+[[zipcodes]]
+zipcode = 65565
+percent_zip_in_county = 97.76
+
+[[zipcodes]]
+zipcode = 65586
+percent_zip_in_county = 100.0

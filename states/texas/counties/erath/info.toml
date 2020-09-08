@@ -1,2 +1,42 @@
 name = "Erath County"
 fips_code = 48143
+
+[[zipcodes]]
+zipcode = 76401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76402
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76433
+percent_zip_in_county = 87.92
+
+[[zipcodes]]
+zipcode = 76445
+percent_zip_in_county = 1.97
+
+[[zipcodes]]
+zipcode = 76446
+percent_zip_in_county = 88.37
+
+[[zipcodes]]
+zipcode = 76453
+percent_zip_in_county = 9.69
+
+[[zipcodes]]
+zipcode = 76457
+percent_zip_in_county = 33.96
+
+[[zipcodes]]
+zipcode = 76462
+percent_zip_in_county = 13.55
+
+[[zipcodes]]
+zipcode = 76463
+percent_zip_in_county = 43.66
+
+[[zipcodes]]
+zipcode = 76649
+percent_zip_in_county = 8.48

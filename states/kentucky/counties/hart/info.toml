@@ -1,2 +1,42 @@
 name = "Hart County"
 fips_code = 21099
+
+[[zipcodes]]
+zipcode = 42127
+percent_zip_in_county = 2.9
+
+[[zipcodes]]
+zipcode = 42713
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42722
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42729
+percent_zip_in_county = 78.05
+
+[[zipcodes]]
+zipcode = 42746
+percent_zip_in_county = 84.36
+
+[[zipcodes]]
+zipcode = 42749
+percent_zip_in_county = 91.88
+
+[[zipcodes]]
+zipcode = 42757
+percent_zip_in_county = 45.39
+
+[[zipcodes]]
+zipcode = 42765
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42782
+percent_zip_in_county = 8.18
+
+[[zipcodes]]
+zipcode = 42784
+percent_zip_in_county = 26.78

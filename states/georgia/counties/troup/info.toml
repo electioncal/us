@@ -1,2 +1,26 @@
 name = "Troup County"
 fips_code = 13285
+
+[[zipcodes]]
+zipcode = 30217
+percent_zip_in_county = 1.01
+
+[[zipcodes]]
+zipcode = 30230
+percent_zip_in_county = 78.97
+
+[[zipcodes]]
+zipcode = 30240
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30241
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31822
+percent_zip_in_county = 31.7
+
+[[zipcodes]]
+zipcode = 31833
+percent_zip_in_county = 70.28

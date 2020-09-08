@@ -1,2 +1,30 @@
 name = "Benewah County"
 fips_code = 16009
+
+[[zipcodes]]
+zipcode = 83824
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83830
+percent_zip_in_county = 96.86
+
+[[zipcodes]]
+zipcode = 83833
+percent_zip_in_county = 0.34
+
+[[zipcodes]]
+zipcode = 83851
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83861
+percent_zip_in_county = 92.77
+
+[[zipcodes]]
+zipcode = 83866
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83870
+percent_zip_in_county = 100.0

@@ -1,2 +1,14 @@
 name = "McPherson County"
 fips_code = 31117
+
+[[zipcodes]]
+zipcode = 69101
+percent_zip_in_county = 0.1
+
+[[zipcodes]]
+zipcode = 69165
+percent_zip_in_county = 3.75
+
+[[zipcodes]]
+zipcode = 69167
+percent_zip_in_county = 100.0

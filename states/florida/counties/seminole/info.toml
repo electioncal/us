@@ -1,2 +1,66 @@
 name = "Seminole County"
 fips_code = 12117
+
+[[zipcodes]]
+zipcode = 32701
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32703
+percent_zip_in_county = 23.99
+
+[[zipcodes]]
+zipcode = 32707
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32708
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32714
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32732
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32746
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32750
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32751
+percent_zip_in_county = 29.26
+
+[[zipcodes]]
+zipcode = 32765
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32766
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32771
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32773
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32779
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32792
+percent_zip_in_county = 42.45

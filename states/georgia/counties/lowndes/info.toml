@@ -1,2 +1,42 @@
 name = "Lowndes County"
 fips_code = 13185
+
+[[zipcodes]]
+zipcode = 31601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31602
+percent_zip_in_county = 92.0
+
+[[zipcodes]]
+zipcode = 31605
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31606
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31632
+percent_zip_in_county = 89.41
+
+[[zipcodes]]
+zipcode = 31636
+percent_zip_in_county = 70.7
+
+[[zipcodes]]
+zipcode = 31641
+percent_zip_in_county = 57.84
+
+[[zipcodes]]
+zipcode = 31645
+percent_zip_in_county = 13.15
+
+[[zipcodes]]
+zipcode = 31698
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31699
+percent_zip_in_county = 100.0

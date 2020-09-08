@@ -1,2 +1,90 @@
 name = "Dunn County"
 fips_code = 55033
+
+[[zipcodes]]
+zipcode = 54005
+percent_zip_in_county = 3.44
+
+[[zipcodes]]
+zipcode = 54013
+percent_zip_in_county = 0.92
+
+[[zipcodes]]
+zipcode = 54701
+percent_zip_in_county = 0.34
+
+[[zipcodes]]
+zipcode = 54703
+percent_zip_in_county = 0.51
+
+[[zipcodes]]
+zipcode = 54721
+percent_zip_in_county = 5.75
+
+[[zipcodes]]
+zipcode = 54724
+percent_zip_in_county = 0.1
+
+[[zipcodes]]
+zipcode = 54725
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54730
+percent_zip_in_county = 87.88
+
+[[zipcodes]]
+zipcode = 54734
+percent_zip_in_county = 94.86
+
+[[zipcodes]]
+zipcode = 54736
+percent_zip_in_county = 0.78
+
+[[zipcodes]]
+zipcode = 54737
+percent_zip_in_county = 92.81
+
+[[zipcodes]]
+zipcode = 54739
+percent_zip_in_county = 77.31
+
+[[zipcodes]]
+zipcode = 54740
+percent_zip_in_county = 24.17
+
+[[zipcodes]]
+zipcode = 54749
+percent_zip_in_county = 88.63
+
+[[zipcodes]]
+zipcode = 54751
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54755
+percent_zip_in_county = 14.38
+
+[[zipcodes]]
+zipcode = 54757
+percent_zip_in_county = 12.73
+
+[[zipcodes]]
+zipcode = 54762
+percent_zip_in_county = 8.11
+
+[[zipcodes]]
+zipcode = 54763
+percent_zip_in_county = 86.6
+
+[[zipcodes]]
+zipcode = 54765
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54767
+percent_zip_in_county = 0.56
+
+[[zipcodes]]
+zipcode = 54772
+percent_zip_in_county = 100.0

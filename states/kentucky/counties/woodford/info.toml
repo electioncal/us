@@ -1,2 +1,18 @@
 name = "Woodford County"
 fips_code = 21239
+
+[[zipcodes]]
+zipcode = 40347
+percent_zip_in_county = 83.77
+
+[[zipcodes]]
+zipcode = 40383
+percent_zip_in_county = 97.8
+
+[[zipcodes]]
+zipcode = 40390
+percent_zip_in_county = 0.56
+
+[[zipcodes]]
+zipcode = 40601
+percent_zip_in_county = 1.34

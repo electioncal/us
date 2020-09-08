@@ -1,2 +1,34 @@
 name = "Lyman County"
 fips_code = 46085
+
+[[zipcodes]]
+zipcode = 57365
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57532
+percent_zip_in_county = 0.53
+
+[[zipcodes]]
+zipcode = 57533
+percent_zip_in_county = 4.68
+
+[[zipcodes]]
+zipcode = 57544
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57548
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57568
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57569
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57576
+percent_zip_in_county = 96.08

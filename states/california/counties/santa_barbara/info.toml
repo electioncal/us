@@ -1,2 +1,102 @@
 name = "Santa Barbara County"
 fips_code = 6083
+
+[[zipcodes]]
+zipcode = 93001
+percent_zip_in_county = 0.02
+
+[[zipcodes]]
+zipcode = 93013
+percent_zip_in_county = 99.46
+
+[[zipcodes]]
+zipcode = 93067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93101
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93105
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93108
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93109
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93110
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93111
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93117
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93252
+percent_zip_in_county = 5.46
+
+[[zipcodes]]
+zipcode = 93254
+percent_zip_in_county = 97.04
+
+[[zipcodes]]
+zipcode = 93427
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93429
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93434
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93436
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93437
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93440
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93441
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93454
+percent_zip_in_county = 99.22
+
+[[zipcodes]]
+zipcode = 93455
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93458
+percent_zip_in_county = 99.89
+
+[[zipcodes]]
+zipcode = 93460
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93463
+percent_zip_in_county = 100.0

@@ -1,2 +1,42 @@
 name = "Blanco County"
 fips_code = 48031
+
+[[zipcodes]]
+zipcode = 78070
+percent_zip_in_county = 4.1
+
+[[zipcodes]]
+zipcode = 78606
+percent_zip_in_county = 95.81
+
+[[zipcodes]]
+zipcode = 78620
+percent_zip_in_county = 0.41
+
+[[zipcodes]]
+zipcode = 78635
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78636
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78643
+percent_zip_in_county = 0.28
+
+[[zipcodes]]
+zipcode = 78663
+percent_zip_in_county = 91.55
+
+[[zipcodes]]
+zipcode = 78669
+percent_zip_in_county = 2.36
+
+[[zipcodes]]
+zipcode = 78671
+percent_zip_in_county = 2.75
+
+[[zipcodes]]
+zipcode = 78676
+percent_zip_in_county = 0.24

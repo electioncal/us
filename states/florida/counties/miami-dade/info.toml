@@ -1,2 +1,322 @@
 name = "Miami-Dade County"
 fips_code = 12086
+
+[[zipcodes]]
+zipcode = 33010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33012
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33013
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33014
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33015
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33016
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33018
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33031
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33034
+percent_zip_in_county = 99.98
+
+[[zipcodes]]
+zipcode = 33035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33054
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33055
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33056
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33101
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 33109
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33122
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33125
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33126
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33127
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33128
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33129
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33130
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33131
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33132
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33133
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33134
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33135
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33136
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33137
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33138
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33139
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33140
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33141
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33142
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33143
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33144
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33145
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33146
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33147
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33149
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33150
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33154
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33155
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33156
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33157
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33158
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33160
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33161
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33162
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33165
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33166
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33167
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33168
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33169
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33170
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33172
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33173
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33174
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33175
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33176
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33177
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33178
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33179
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33180
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33181
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33182
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33183
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33184
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33185
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33186
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33187
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33189
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33190
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33193
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33194
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33196
+percent_zip_in_county = 100.0

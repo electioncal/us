@@ -1,2 +1,30 @@
 name = "Lee County"
 fips_code = 13177
+
+[[zipcodes]]
+zipcode = 31701
+percent_zip_in_county = 3.73
+
+[[zipcodes]]
+zipcode = 31707
+percent_zip_in_county = 3.39
+
+[[zipcodes]]
+zipcode = 31721
+percent_zip_in_county = 10.86
+
+[[zipcodes]]
+zipcode = 31743
+percent_zip_in_county = 9.05
+
+[[zipcodes]]
+zipcode = 31763
+percent_zip_in_county = 99.69
+
+[[zipcodes]]
+zipcode = 31764
+percent_zip_in_county = 4.86
+
+[[zipcodes]]
+zipcode = 31787
+percent_zip_in_county = 76.61

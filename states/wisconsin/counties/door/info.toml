@@ -1,2 +1,54 @@
 name = "Door County"
 fips_code = 55029
+
+[[zipcodes]]
+zipcode = 54201
+percent_zip_in_county = 2.9
+
+[[zipcodes]]
+zipcode = 54202
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54204
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54205
+percent_zip_in_county = 2.99
+
+[[zipcodes]]
+zipcode = 54209
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54210
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54211
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54212
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54213
+percent_zip_in_county = 94.91
+
+[[zipcodes]]
+zipcode = 54217
+percent_zip_in_county = 5.46
+
+[[zipcodes]]
+zipcode = 54234
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54235
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54246
+percent_zip_in_county = 100.0

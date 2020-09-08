@@ -1,2 +1,70 @@
 name = "Marshall County"
 fips_code = 17123
+
+[[zipcodes]]
+zipcode = 61336
+percent_zip_in_county = 21.34
+
+[[zipcodes]]
+zipcode = 61358
+percent_zip_in_county = 21.34
+
+[[zipcodes]]
+zipcode = 61369
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61375
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61377
+percent_zip_in_county = 83.87
+
+[[zipcodes]]
+zipcode = 61421
+percent_zip_in_county = 4.31
+
+[[zipcodes]]
+zipcode = 61424
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61479
+percent_zip_in_county = 41.21
+
+[[zipcodes]]
+zipcode = 61491
+percent_zip_in_county = 3.05
+
+[[zipcodes]]
+zipcode = 61523
+percent_zip_in_county = 0.48
+
+[[zipcodes]]
+zipcode = 61526
+percent_zip_in_county = 6.07
+
+[[zipcodes]]
+zipcode = 61537
+percent_zip_in_county = 98.99
+
+[[zipcodes]]
+zipcode = 61540
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61541
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61565
+percent_zip_in_county = 96.81
+
+[[zipcodes]]
+zipcode = 61570
+percent_zip_in_county = 20.86
+
+[[zipcodes]]
+zipcode = 61760
+percent_zip_in_county = 2.2

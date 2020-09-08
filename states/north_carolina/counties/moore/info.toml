@@ -1,2 +1,74 @@
 name = "Moore County"
 fips_code = 37125
+
+[[zipcodes]]
+zipcode = 27208
+percent_zip_in_county = 12.29
+
+[[zipcodes]]
+zipcode = 27209
+percent_zip_in_county = 7.78
+
+[[zipcodes]]
+zipcode = 27242
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27281
+percent_zip_in_county = 54.45
+
+[[zipcodes]]
+zipcode = 27325
+percent_zip_in_county = 99.43
+
+[[zipcodes]]
+zipcode = 27330
+percent_zip_in_county = 0.45
+
+[[zipcodes]]
+zipcode = 27341
+percent_zip_in_county = 24.63
+
+[[zipcodes]]
+zipcode = 27356
+percent_zip_in_county = 9.45
+
+[[zipcodes]]
+zipcode = 27376
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28315
+percent_zip_in_county = 86.7
+
+[[zipcodes]]
+zipcode = 28326
+percent_zip_in_county = 16.99
+
+[[zipcodes]]
+zipcode = 28327
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28347
+percent_zip_in_county = 0.76
+
+[[zipcodes]]
+zipcode = 28350
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28373
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28374
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28387
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28394
+percent_zip_in_county = 100.0

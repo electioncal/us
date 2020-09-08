@@ -1,2 +1,42 @@
 name = "Nez Perce County"
 fips_code = 16069
+
+[[zipcodes]]
+zipcode = 83501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83524
+percent_zip_in_county = 96.26
+
+[[zipcodes]]
+zipcode = 83535
+percent_zip_in_county = 37.74
+
+[[zipcodes]]
+zipcode = 83537
+percent_zip_in_county = 22.51
+
+[[zipcodes]]
+zipcode = 83540
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83541
+percent_zip_in_county = 47.03
+
+[[zipcodes]]
+zipcode = 83545
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83548
+percent_zip_in_county = 31.62
+
+[[zipcodes]]
+zipcode = 83555
+percent_zip_in_county = 6.21
+
+[[zipcodes]]
+zipcode = 83832
+percent_zip_in_county = 12.14

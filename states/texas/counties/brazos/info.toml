@@ -1,2 +1,38 @@
 name = "Brazos County"
 fips_code = 48041
+
+[[zipcodes]]
+zipcode = 77801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77802
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77803
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77807
+percent_zip_in_county = 93.5
+
+[[zipcodes]]
+zipcode = 77808
+percent_zip_in_county = 94.48
+
+[[zipcodes]]
+zipcode = 77840
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77845
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77859
+percent_zip_in_county = 6.46
+
+[[zipcodes]]
+zipcode = 77868
+percent_zip_in_county = 7.65

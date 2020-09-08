@@ -1,2 +1,90 @@
 name = "Kitsap County"
 fips_code = 53035
+
+[[zipcodes]]
+zipcode = 98110
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98310
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98311
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98312
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98314
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98315
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98329
+percent_zip_in_county = 1.36
+
+[[zipcodes]]
+zipcode = 98337
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98340
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98342
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98345
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98346
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98353
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98359
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98364
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98366
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98367
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98370
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98380
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98383
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98392
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98528
+percent_zip_in_county = 0.32

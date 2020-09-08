@@ -1,2 +1,130 @@
 name = "Stearns County"
 fips_code = 27145
+
+[[zipcodes]]
+zipcode = 55320
+percent_zip_in_county = 38.67
+
+[[zipcodes]]
+zipcode = 55329
+percent_zip_in_county = 50.09
+
+[[zipcodes]]
+zipcode = 55353
+percent_zip_in_county = 80.46
+
+[[zipcodes]]
+zipcode = 55382
+percent_zip_in_county = 51.78
+
+[[zipcodes]]
+zipcode = 55389
+percent_zip_in_county = 15.85
+
+[[zipcodes]]
+zipcode = 56301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56303
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56307
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56310
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56312
+percent_zip_in_county = 81.56
+
+[[zipcodes]]
+zipcode = 56314
+percent_zip_in_county = 4.45
+
+[[zipcodes]]
+zipcode = 56316
+percent_zip_in_county = 68.86
+
+[[zipcodes]]
+zipcode = 56320
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56321
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56325
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56331
+percent_zip_in_county = 99.5
+
+[[zipcodes]]
+zipcode = 56335
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56336
+percent_zip_in_county = 5.09
+
+[[zipcodes]]
+zipcode = 56340
+percent_zip_in_county = 81.91
+
+[[zipcodes]]
+zipcode = 56352
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56356
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56362
+percent_zip_in_county = 88.55
+
+[[zipcodes]]
+zipcode = 56367
+percent_zip_in_county = 20.47
+
+[[zipcodes]]
+zipcode = 56368
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56369
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56371
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56374
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56375
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56376
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56377
+percent_zip_in_county = 87.31
+
+[[zipcodes]]
+zipcode = 56378
+percent_zip_in_county = 82.09
+
+[[zipcodes]]
+zipcode = 56387
+percent_zip_in_county = 100.0

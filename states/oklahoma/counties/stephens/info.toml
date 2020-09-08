@@ -1,2 +1,42 @@
 name = "Stephens County"
 fips_code = 40137
+
+[[zipcodes]]
+zipcode = 73055
+percent_zip_in_county = 93.71
+
+[[zipcodes]]
+zipcode = 73425
+percent_zip_in_county = 48.81
+
+[[zipcodes]]
+zipcode = 73434
+percent_zip_in_county = 57.94
+
+[[zipcodes]]
+zipcode = 73438
+percent_zip_in_county = 0.76
+
+[[zipcodes]]
+zipcode = 73442
+percent_zip_in_county = 88.79
+
+[[zipcodes]]
+zipcode = 73481
+percent_zip_in_county = 14.72
+
+[[zipcodes]]
+zipcode = 73491
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73529
+percent_zip_in_county = 99.59
+
+[[zipcodes]]
+zipcode = 73533
+percent_zip_in_county = 99.89
+
+[[zipcodes]]
+zipcode = 73548
+percent_zip_in_county = 55.11

@@ -1,2 +1,314 @@
 name = "Bexar County"
 fips_code = 48029
+
+[[zipcodes]]
+zipcode = 78002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78006
+percent_zip_in_county = 11.2
+
+[[zipcodes]]
+zipcode = 78015
+percent_zip_in_county = 68.77
+
+[[zipcodes]]
+zipcode = 78023
+percent_zip_in_county = 97.08
+
+[[zipcodes]]
+zipcode = 78039
+percent_zip_in_county = 7.6
+
+[[zipcodes]]
+zipcode = 78052
+percent_zip_in_county = 2.79
+
+[[zipcodes]]
+zipcode = 78069
+percent_zip_in_county = 40.63
+
+[[zipcodes]]
+zipcode = 78073
+percent_zip_in_county = 86.22
+
+[[zipcodes]]
+zipcode = 78101
+percent_zip_in_county = 51.91
+
+[[zipcodes]]
+zipcode = 78108
+percent_zip_in_county = 1.89
+
+[[zipcodes]]
+zipcode = 78109
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78112
+percent_zip_in_county = 98.5
+
+[[zipcodes]]
+zipcode = 78124
+percent_zip_in_county = 7.76
+
+[[zipcodes]]
+zipcode = 78148
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78150
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78152
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78154
+percent_zip_in_county = 18.74
+
+[[zipcodes]]
+zipcode = 78201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78202
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78203
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78204
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78205
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78207
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78208
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78209
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78210
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78211
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78212
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78213
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78214
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78215
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78216
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78217
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78218
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78219
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78220
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78221
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78222
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78223
+percent_zip_in_county = 99.48
+
+[[zipcodes]]
+zipcode = 78224
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78225
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78226
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78227
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78228
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78229
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78230
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78231
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78232
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78233
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78234
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78235
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78236
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78237
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78238
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78239
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78240
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78242
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78243
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78244
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78245
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78247
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78248
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78249
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78250
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78251
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78252
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78253
+percent_zip_in_county = 94.23
+
+[[zipcodes]]
+zipcode = 78254
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78255
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78256
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78257
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78258
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78259
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78260
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78261
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78263
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78264
+percent_zip_in_county = 90.09
+
+[[zipcodes]]
+zipcode = 78266
+percent_zip_in_county = 19.78

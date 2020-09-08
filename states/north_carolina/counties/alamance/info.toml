@@ -1,2 +1,50 @@
 name = "Alamance County"
 fips_code = 37001
+
+[[zipcodes]]
+zipcode = 27201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27215
+percent_zip_in_county = 96.32
+
+[[zipcodes]]
+zipcode = 27217
+percent_zip_in_county = 96.9
+
+[[zipcodes]]
+zipcode = 27244
+percent_zip_in_county = 89.44
+
+[[zipcodes]]
+zipcode = 27249
+percent_zip_in_county = 27.04
+
+[[zipcodes]]
+zipcode = 27253
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27258
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27298
+percent_zip_in_county = 23.81
+
+[[zipcodes]]
+zipcode = 27302
+percent_zip_in_county = 68.81
+
+[[zipcodes]]
+zipcode = 27312
+percent_zip_in_county = 0.29
+
+[[zipcodes]]
+zipcode = 27340
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27349
+percent_zip_in_county = 94.18

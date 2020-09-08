@@ -1,2 +1,54 @@
 name = "Gunnison County"
 fips_code = 8051
+
+[[zipcodes]]
+zipcode = 81210
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81220
+percent_zip_in_county = 68.79
+
+[[zipcodes]]
+zipcode = 81224
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81225
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81230
+percent_zip_in_county = 99.03
+
+[[zipcodes]]
+zipcode = 81231
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81237
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81239
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81241
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81243
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81248
+percent_zip_in_county = 4.17
+
+[[zipcodes]]
+zipcode = 81434
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81623
+percent_zip_in_county = 2.36

@@ -1,2 +1,54 @@
 name = "Riley County"
 fips_code = 20161
+
+[[zipcodes]]
+zipcode = 66411
+percent_zip_in_county = 4.8
+
+[[zipcodes]]
+zipcode = 66441
+percent_zip_in_county = 0.03
+
+[[zipcodes]]
+zipcode = 66442
+percent_zip_in_county = 59.13
+
+[[zipcodes]]
+zipcode = 66449
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66502
+percent_zip_in_county = 92.54
+
+[[zipcodes]]
+zipcode = 66503
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66506
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66517
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66531
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66554
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66933
+percent_zip_in_county = 4.36
+
+[[zipcodes]]
+zipcode = 67432
+percent_zip_in_county = 0.13
+
+[[zipcodes]]
+zipcode = 67447
+percent_zip_in_county = 24.06

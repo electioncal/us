@@ -1,2 +1,58 @@
 name = "Turner County"
 fips_code = 46125
+
+[[zipcodes]]
+zipcode = 57014
+percent_zip_in_county = 77.77
+
+[[zipcodes]]
+zipcode = 57015
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57029
+percent_zip_in_county = 11.76
+
+[[zipcodes]]
+zipcode = 57036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57037
+percent_zip_in_county = 35.78
+
+[[zipcodes]]
+zipcode = 57039
+percent_zip_in_county = 2.39
+
+[[zipcodes]]
+zipcode = 57043
+percent_zip_in_county = 96.01
+
+[[zipcodes]]
+zipcode = 57047
+percent_zip_in_county = 67.58
+
+[[zipcodes]]
+zipcode = 57053
+percent_zip_in_county = 95.62
+
+[[zipcodes]]
+zipcode = 57064
+percent_zip_in_county = 0.65
+
+[[zipcodes]]
+zipcode = 57070
+percent_zip_in_county = 94.74
+
+[[zipcodes]]
+zipcode = 57073
+percent_zip_in_county = 1.97
+
+[[zipcodes]]
+zipcode = 57319
+percent_zip_in_county = 5.28

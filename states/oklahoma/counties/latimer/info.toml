@@ -1,2 +1,30 @@
 name = "Latimer County"
 fips_code = 40077
+
+[[zipcodes]]
+zipcode = 74536
+percent_zip_in_county = 0.45
+
+[[zipcodes]]
+zipcode = 74547
+percent_zip_in_county = 4.33
+
+[[zipcodes]]
+zipcode = 74563
+percent_zip_in_county = 98.53
+
+[[zipcodes]]
+zipcode = 74571
+percent_zip_in_county = 36.84
+
+[[zipcodes]]
+zipcode = 74574
+percent_zip_in_county = 48.8
+
+[[zipcodes]]
+zipcode = 74578
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74966
+percent_zip_in_county = 6.67

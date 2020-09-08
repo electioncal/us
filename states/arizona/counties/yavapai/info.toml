@@ -1,2 +1,130 @@
 name = "Yavapai County"
 fips_code = 4025
+
+[[zipcodes]]
+zipcode = 85320
+percent_zip_in_county = 1.34
+
+[[zipcodes]]
+zipcode = 85324
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85332
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85342
+percent_zip_in_county = 2.79
+
+[[zipcodes]]
+zipcode = 85362
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85390
+percent_zip_in_county = 8.34
+
+[[zipcodes]]
+zipcode = 86301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86303
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86305
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86313
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86314
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86315
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86320
+percent_zip_in_county = 53.05
+
+[[zipcodes]]
+zipcode = 86321
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86322
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86323
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86324
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86325
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86326
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86327
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86329
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86331
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86332
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86333
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86334
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86335
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86336
+percent_zip_in_county = 72.17
+
+[[zipcodes]]
+zipcode = 86337
+percent_zip_in_county = 95.58
+
+[[zipcodes]]
+zipcode = 86338
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86343
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86351
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86434
+percent_zip_in_county = 6.17

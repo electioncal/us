@@ -1,2 +1,38 @@
 name = "Jay County"
 fips_code = 18075
+
+[[zipcodes]]
+zipcode = 47320
+percent_zip_in_county = 0.63
+
+[[zipcodes]]
+zipcode = 47326
+percent_zip_in_county = 97.3
+
+[[zipcodes]]
+zipcode = 47336
+percent_zip_in_county = 79.43
+
+[[zipcodes]]
+zipcode = 47369
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47371
+percent_zip_in_county = 99.93
+
+[[zipcodes]]
+zipcode = 47373
+percent_zip_in_county = 91.82
+
+[[zipcodes]]
+zipcode = 47380
+percent_zip_in_county = 6.09
+
+[[zipcodes]]
+zipcode = 47381
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47390
+percent_zip_in_county = 1.85

@@ -1,2 +1,58 @@
 name = "Beaufort County"
 fips_code = 37013
+
+[[zipcodes]]
+zipcode = 27806
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27808
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27810
+percent_zip_in_county = 88.97
+
+[[zipcodes]]
+zipcode = 27814
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27817
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27821
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27834
+percent_zip_in_county = 0.08
+
+[[zipcodes]]
+zipcode = 27837
+percent_zip_in_county = 5.12
+
+[[zipcodes]]
+zipcode = 27860
+percent_zip_in_county = 88.78
+
+[[zipcodes]]
+zipcode = 27865
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27871
+percent_zip_in_county = 0.3
+
+[[zipcodes]]
+zipcode = 27889
+percent_zip_in_county = 91.78
+
+[[zipcodes]]
+zipcode = 27892
+percent_zip_in_county = 0.32
+
+[[zipcodes]]
+zipcode = 28586
+percent_zip_in_county = 4.59

@@ -1,2 +1,54 @@
 name = "Linn County"
 fips_code = 29115
+
+[[zipcodes]]
+zipcode = 63557
+percent_zip_in_county = 78.69
+
+[[zipcodes]]
+zipcode = 63566
+percent_zip_in_county = 20.8
+
+[[zipcodes]]
+zipcode = 64628
+percent_zip_in_county = 98.21
+
+[[zipcodes]]
+zipcode = 64630
+percent_zip_in_county = 60.47
+
+[[zipcodes]]
+zipcode = 64631
+percent_zip_in_county = 81.49
+
+[[zipcodes]]
+zipcode = 64635
+percent_zip_in_county = 2.52
+
+[[zipcodes]]
+zipcode = 64646
+percent_zip_in_county = 8.75
+
+[[zipcodes]]
+zipcode = 64651
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64653
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64658
+percent_zip_in_county = 79.4
+
+[[zipcodes]]
+zipcode = 64659
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64674
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64688
+percent_zip_in_county = 15.15

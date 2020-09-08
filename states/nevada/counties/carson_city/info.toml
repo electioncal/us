@@ -1,2 +1,22 @@
 name = "Carson City"
 fips_code = 32510
+
+[[zipcodes]]
+zipcode = 89701
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89702
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 89703
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89705
+percent_zip_in_county = 0.91
+
+[[zipcodes]]
+zipcode = 89706
+percent_zip_in_county = 91.7

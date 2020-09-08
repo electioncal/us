@@ -1,2 +1,46 @@
 name = "McCook County"
 fips_code = 46087
+
+[[zipcodes]]
+zipcode = 57012
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57035
+percent_zip_in_county = 2.5
+
+[[zipcodes]]
+zipcode = 57043
+percent_zip_in_county = 3.12
+
+[[zipcodes]]
+zipcode = 57047
+percent_zip_in_county = 32.42
+
+[[zipcodes]]
+zipcode = 57048
+percent_zip_in_county = 92.05
+
+[[zipcodes]]
+zipcode = 57053
+percent_zip_in_county = 4.38
+
+[[zipcodes]]
+zipcode = 57058
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57319
+percent_zip_in_county = 81.46
+
+[[zipcodes]]
+zipcode = 57321
+percent_zip_in_county = 10.82
+
+[[zipcodes]]
+zipcode = 57332
+percent_zip_in_county = 7.53
+
+[[zipcodes]]
+zipcode = 57374
+percent_zip_in_county = 74.34

@@ -1,2 +1,58 @@
 name = "Wayne County"
 fips_code = 18177
+
+[[zipcodes]]
+zipcode = 47324
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47327
+percent_zip_in_county = 93.02
+
+[[zipcodes]]
+zipcode = 47330
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47335
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47339
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47341
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47345
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47346
+percent_zip_in_county = 96.52
+
+[[zipcodes]]
+zipcode = 47354
+percent_zip_in_county = 5.93
+
+[[zipcodes]]
+zipcode = 47357
+percent_zip_in_county = 83.21
+
+[[zipcodes]]
+zipcode = 47358
+percent_zip_in_county = 5.02
+
+[[zipcodes]]
+zipcode = 47360
+percent_zip_in_county = 4.79
+
+[[zipcodes]]
+zipcode = 47374
+percent_zip_in_county = 99.97
+
+[[zipcodes]]
+zipcode = 47393
+percent_zip_in_county = 93.08

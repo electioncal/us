@@ -1,2 +1,58 @@
 name = "Taylor County"
 fips_code = 55119
+
+[[zipcodes]]
+zipcode = 54411
+percent_zip_in_county = 2.52
+
+[[zipcodes]]
+zipcode = 54422
+percent_zip_in_county = 25.64
+
+[[zipcodes]]
+zipcode = 54425
+percent_zip_in_county = 6.53
+
+[[zipcodes]]
+zipcode = 54433
+percent_zip_in_county = 89.16
+
+[[zipcodes]]
+zipcode = 54447
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54451
+percent_zip_in_county = 99.63
+
+[[zipcodes]]
+zipcode = 54460
+percent_zip_in_county = 8.12
+
+[[zipcodes]]
+zipcode = 54470
+percent_zip_in_county = 99.23
+
+[[zipcodes]]
+zipcode = 54480
+percent_zip_in_county = 97.15
+
+[[zipcodes]]
+zipcode = 54490
+percent_zip_in_county = 97.87
+
+[[zipcodes]]
+zipcode = 54498
+percent_zip_in_county = 23.79
+
+[[zipcodes]]
+zipcode = 54766
+percent_zip_in_county = 44.35
+
+[[zipcodes]]
+zipcode = 54768
+percent_zip_in_county = 1.89
+
+[[zipcodes]]
+zipcode = 54771
+percent_zip_in_county = 8.56

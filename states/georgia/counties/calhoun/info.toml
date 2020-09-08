@@ -1,2 +1,26 @@
 name = "Calhoun County"
 fips_code = 13037
+
+[[zipcodes]]
+zipcode = 39813
+percent_zip_in_county = 62.99
+
+[[zipcodes]]
+zipcode = 39842
+percent_zip_in_county = 0.25
+
+[[zipcodes]]
+zipcode = 39846
+percent_zip_in_county = 95.08
+
+[[zipcodes]]
+zipcode = 39862
+percent_zip_in_county = 64.4
+
+[[zipcodes]]
+zipcode = 39866
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39886
+percent_zip_in_county = 2.97

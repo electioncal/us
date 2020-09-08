@@ -1,2 +1,14 @@
 name = "San Sebastián Municipio"
 fips_code = 72131
+
+[[zipcodes]]
+zipcode = 669
+percent_zip_in_county = 0.16
+
+[[zipcodes]]
+zipcode = 678
+percent_zip_in_county = 1.47
+
+[[zipcodes]]
+zipcode = 685
+percent_zip_in_county = 98.0

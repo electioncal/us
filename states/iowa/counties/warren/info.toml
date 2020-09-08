@@ -1,2 +1,66 @@
 name = "Warren County"
 fips_code = 19181
+
+[[zipcodes]]
+zipcode = 50001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50047
+percent_zip_in_county = 91.2
+
+[[zipcodes]]
+zipcode = 50061
+percent_zip_in_county = 44.44
+
+[[zipcodes]]
+zipcode = 50118
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50125
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50139
+percent_zip_in_county = 69.88
+
+[[zipcodes]]
+zipcode = 50151
+percent_zip_in_county = 6.77
+
+[[zipcodes]]
+zipcode = 50160
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50166
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50210
+percent_zip_in_county = 81.31
+
+[[zipcodes]]
+zipcode = 50211
+percent_zip_in_county = 99.62
+
+[[zipcodes]]
+zipcode = 50225
+percent_zip_in_county = 6.53
+
+[[zipcodes]]
+zipcode = 50229
+percent_zip_in_county = 72.0
+
+[[zipcodes]]
+zipcode = 50240
+percent_zip_in_county = 37.42
+
+[[zipcodes]]
+zipcode = 50257
+percent_zip_in_county = 2.42
+
+[[zipcodes]]
+zipcode = 50320
+percent_zip_in_county = 9.04

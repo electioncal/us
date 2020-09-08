@@ -1,2 +1,14 @@
 name = "San Lorenzo Municipio"
 fips_code = 72129
+
+[[zipcodes]]
+zipcode = 725
+percent_zip_in_county = 0.14
+
+[[zipcodes]]
+zipcode = 754
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 778
+percent_zip_in_county = 0.24

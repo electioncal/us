@@ -1,2 +1,54 @@
 name = "Davis County"
 fips_code = 49011
+
+[[zipcodes]]
+zipcode = 84010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84014
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84015
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84054
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84056
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84075
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84087
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84315
+percent_zip_in_county = 4.23
+
+[[zipcodes]]
+zipcode = 84405
+percent_zip_in_county = 20.11

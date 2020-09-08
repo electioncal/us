@@ -1,2 +1,42 @@
 name = "Twin Falls County"
 fips_code = 16083
+
+[[zipcodes]]
+zipcode = 83301
+percent_zip_in_county = 99.94
+
+[[zipcodes]]
+zipcode = 83302
+percent_zip_in_county = 73.47
+
+[[zipcodes]]
+zipcode = 83314
+percent_zip_in_county = 1.11
+
+[[zipcodes]]
+zipcode = 83316
+percent_zip_in_county = 99.48
+
+[[zipcodes]]
+zipcode = 83321
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83328
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83332
+percent_zip_in_county = 7.2
+
+[[zipcodes]]
+zipcode = 83334
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83341
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83344
+percent_zip_in_county = 79.96

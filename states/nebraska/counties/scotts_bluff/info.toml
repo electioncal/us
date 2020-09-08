@@ -1,2 +1,38 @@
 name = "Scotts Bluff County"
 fips_code = 31157
+
+[[zipcodes]]
+zipcode = 69334
+percent_zip_in_county = 12.04
+
+[[zipcodes]]
+zipcode = 69341
+percent_zip_in_county = 99.53
+
+[[zipcodes]]
+zipcode = 69352
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69353
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69355
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69356
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69357
+percent_zip_in_county = 94.56
+
+[[zipcodes]]
+zipcode = 69358
+percent_zip_in_county = 82.96
+
+[[zipcodes]]
+zipcode = 69361
+percent_zip_in_county = 99.82

@@ -1,2 +1,66 @@
 name = "Washita County"
 fips_code = 40149
+
+[[zipcodes]]
+zipcode = 73015
+percent_zip_in_county = 3.72
+
+[[zipcodes]]
+zipcode = 73021
+percent_zip_in_county = 87.5
+
+[[zipcodes]]
+zipcode = 73024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73041
+percent_zip_in_county = 13.66
+
+[[zipcodes]]
+zipcode = 73062
+percent_zip_in_county = 12.32
+
+[[zipcodes]]
+zipcode = 73096
+percent_zip_in_county = 1.4
+
+[[zipcodes]]
+zipcode = 73601
+percent_zip_in_county = 3.92
+
+[[zipcodes]]
+zipcode = 73622
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73624
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73626
+percent_zip_in_county = 86.44
+
+[[zipcodes]]
+zipcode = 73632
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73641
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73644
+percent_zip_in_county = 1.2
+
+[[zipcodes]]
+zipcode = 73647
+percent_zip_in_county = 79.0
+
+[[zipcodes]]
+zipcode = 73661
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73664
+percent_zip_in_county = 100.0

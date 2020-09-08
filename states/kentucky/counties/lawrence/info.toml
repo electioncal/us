@@ -1,2 +1,42 @@
 name = "Lawrence County"
 fips_code = 21127
+
+[[zipcodes]]
+zipcode = 41124
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41129
+percent_zip_in_county = 5.39
+
+[[zipcodes]]
+zipcode = 41132
+percent_zip_in_county = 11.76
+
+[[zipcodes]]
+zipcode = 41159
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41180
+percent_zip_in_county = 80.59
+
+[[zipcodes]]
+zipcode = 41201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41230
+percent_zip_in_county = 98.7
+
+[[zipcodes]]
+zipcode = 41232
+percent_zip_in_county = 67.01
+
+[[zipcodes]]
+zipcode = 41254
+percent_zip_in_county = 8.58
+
+[[zipcodes]]
+zipcode = 41264
+percent_zip_in_county = 100.0

@@ -1,2 +1,46 @@
 name = "McPherson County"
 fips_code = 20113
+
+[[zipcodes]]
+zipcode = 67062
+percent_zip_in_county = 0.51
+
+[[zipcodes]]
+zipcode = 67107
+percent_zip_in_county = 89.93
+
+[[zipcodes]]
+zipcode = 67114
+percent_zip_in_county = 0.15
+
+[[zipcodes]]
+zipcode = 67428
+percent_zip_in_county = 96.52
+
+[[zipcodes]]
+zipcode = 67443
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67448
+percent_zip_in_county = 16.96
+
+[[zipcodes]]
+zipcode = 67456
+percent_zip_in_county = 86.51
+
+[[zipcodes]]
+zipcode = 67460
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67464
+percent_zip_in_county = 84.86
+
+[[zipcodes]]
+zipcode = 67491
+percent_zip_in_county = 82.71
+
+[[zipcodes]]
+zipcode = 67546
+percent_zip_in_county = 95.76

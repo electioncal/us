@@ -1,2 +1,14 @@
 name = "Daggett County"
 fips_code = 49009
+
+[[zipcodes]]
+zipcode = 84023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84078
+percent_zip_in_county = 0.0

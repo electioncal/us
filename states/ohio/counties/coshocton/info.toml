@@ -1,2 +1,70 @@
 name = "Coshocton County"
 fips_code = 39031
+
+[[zipcodes]]
+zipcode = 43006
+percent_zip_in_county = 31.39
+
+[[zipcodes]]
+zipcode = 43749
+percent_zip_in_county = 5.47
+
+[[zipcodes]]
+zipcode = 43804
+percent_zip_in_county = 14.91
+
+[[zipcodes]]
+zipcode = 43805
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43811
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43812
+percent_zip_in_county = 99.96
+
+[[zipcodes]]
+zipcode = 43821
+percent_zip_in_county = 17.49
+
+[[zipcodes]]
+zipcode = 43822
+percent_zip_in_county = 10.4
+
+[[zipcodes]]
+zipcode = 43824
+percent_zip_in_county = 94.19
+
+[[zipcodes]]
+zipcode = 43832
+percent_zip_in_county = 13.75
+
+[[zipcodes]]
+zipcode = 43836
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43840
+percent_zip_in_county = 0.96
+
+[[zipcodes]]
+zipcode = 43843
+percent_zip_in_county = 61.53
+
+[[zipcodes]]
+zipcode = 43844
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43845
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44637
+percent_zip_in_county = 10.69
+
+[[zipcodes]]
+zipcode = 44654
+percent_zip_in_county = 2.31

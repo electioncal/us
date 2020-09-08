@@ -1,2 +1,6 @@
 name = "Camuy Municipio"
 fips_code = 72027
+
+[[zipcodes]]
+zipcode = 627
+percent_zip_in_county = 100.0

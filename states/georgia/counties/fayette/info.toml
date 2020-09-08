@@ -1,2 +1,30 @@
 name = "Fayette County"
 fips_code = 13113
+
+[[zipcodes]]
+zipcode = 30205
+percent_zip_in_county = 72.92
+
+[[zipcodes]]
+zipcode = 30214
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30215
+percent_zip_in_county = 89.97
+
+[[zipcodes]]
+zipcode = 30238
+percent_zip_in_county = 2.11
+
+[[zipcodes]]
+zipcode = 30269
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30276
+percent_zip_in_county = 7.54
+
+[[zipcodes]]
+zipcode = 30290
+percent_zip_in_county = 100.0

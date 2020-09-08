@@ -1,2 +1,26 @@
 name = "Sevier County"
 fips_code = 5133
+
+[[zipcodes]]
+zipcode = 71823
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71832
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71833
+percent_zip_in_county = 0.53
+
+[[zipcodes]]
+zipcode = 71841
+percent_zip_in_county = 89.81
+
+[[zipcodes]]
+zipcode = 71842
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71846
+percent_zip_in_county = 99.89

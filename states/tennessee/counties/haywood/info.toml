@@ -1,2 +1,26 @@
 name = "Haywood County"
 fips_code = 47075
+
+[[zipcodes]]
+zipcode = 38006
+percent_zip_in_county = 16.52
+
+[[zipcodes]]
+zipcode = 38012
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38037
+percent_zip_in_county = 26.85
+
+[[zipcodes]]
+zipcode = 38063
+percent_zip_in_county = 1.65
+
+[[zipcodes]]
+zipcode = 38069
+percent_zip_in_county = 84.64
+
+[[zipcodes]]
+zipcode = 38075
+percent_zip_in_county = 8.33

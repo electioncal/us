@@ -1,2 +1,42 @@
 name = "Hubbard County"
 fips_code = 27057
+
+[[zipcodes]]
+zipcode = 56433
+percent_zip_in_county = 81.2
+
+[[zipcodes]]
+zipcode = 56436
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56458
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56461
+percent_zip_in_county = 96.24
+
+[[zipcodes]]
+zipcode = 56464
+percent_zip_in_county = 12.85
+
+[[zipcodes]]
+zipcode = 56467
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56470
+percent_zip_in_county = 92.02
+
+[[zipcodes]]
+zipcode = 56601
+percent_zip_in_county = 5.59
+
+[[zipcodes]]
+zipcode = 56633
+percent_zip_in_county = 14.56
+
+[[zipcodes]]
+zipcode = 56678
+percent_zip_in_county = 34.14

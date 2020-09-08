@@ -1,2 +1,22 @@
 name = "Swain County"
 fips_code = 37173
+
+[[zipcodes]]
+zipcode = 28702
+percent_zip_in_county = 21.31
+
+[[zipcodes]]
+zipcode = 28713
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28719
+percent_zip_in_county = 54.44
+
+[[zipcodes]]
+zipcode = 28771
+percent_zip_in_county = 0.07
+
+[[zipcodes]]
+zipcode = 28789
+percent_zip_in_county = 16.28

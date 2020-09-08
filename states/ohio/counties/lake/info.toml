@@ -1,2 +1,46 @@
 name = "Lake County"
 fips_code = 39085
+
+[[zipcodes]]
+zipcode = 44024
+percent_zip_in_county = 1.13
+
+[[zipcodes]]
+zipcode = 44041
+percent_zip_in_county = 0.59
+
+[[zipcodes]]
+zipcode = 44045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44057
+percent_zip_in_county = 98.35
+
+[[zipcodes]]
+zipcode = 44060
+percent_zip_in_county = 99.83
+
+[[zipcodes]]
+zipcode = 44077
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44081
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44086
+percent_zip_in_county = 12.42
+
+[[zipcodes]]
+zipcode = 44092
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44094
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44095
+percent_zip_in_county = 100.0

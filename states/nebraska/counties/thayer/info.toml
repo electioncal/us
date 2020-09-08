@@ -1,2 +1,46 @@
 name = "Thayer County"
 fips_code = 31169
+
+[[zipcodes]]
+zipcode = 68303
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68315
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68322
+percent_zip_in_county = 91.36
+
+[[zipcodes]]
+zipcode = 68325
+percent_zip_in_county = 85.34
+
+[[zipcodes]]
+zipcode = 68326
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68327
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68335
+percent_zip_in_county = 84.17
+
+[[zipcodes]]
+zipcode = 68340
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68362
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68370
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68375
+percent_zip_in_county = 100.0

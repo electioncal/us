@@ -1,2 +1,38 @@
 name = "Breathitt County"
 fips_code = 21025
+
+[[zipcodes]]
+zipcode = 41301
+percent_zip_in_county = 4.5
+
+[[zipcodes]]
+zipcode = 41311
+percent_zip_in_county = 0.78
+
+[[zipcodes]]
+zipcode = 41314
+percent_zip_in_county = 12.66
+
+[[zipcodes]]
+zipcode = 41317
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41339
+percent_zip_in_county = 99.74
+
+[[zipcodes]]
+zipcode = 41348
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41366
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41385
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41390
+percent_zip_in_county = 100.0

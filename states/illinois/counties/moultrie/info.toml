@@ -1,2 +1,34 @@
 name = "Moultrie County"
 fips_code = 17139
+
+[[zipcodes]]
+zipcode = 61911
+percent_zip_in_county = 37.8
+
+[[zipcodes]]
+zipcode = 61914
+percent_zip_in_county = 97.19
+
+[[zipcodes]]
+zipcode = 61925
+percent_zip_in_county = 65.9
+
+[[zipcodes]]
+zipcode = 61928
+percent_zip_in_county = 64.46
+
+[[zipcodes]]
+zipcode = 61937
+percent_zip_in_county = 97.97
+
+[[zipcodes]]
+zipcode = 61951
+percent_zip_in_county = 99.63
+
+[[zipcodes]]
+zipcode = 61957
+percent_zip_in_county = 3.8
+
+[[zipcodes]]
+zipcode = 62534
+percent_zip_in_county = 1.33

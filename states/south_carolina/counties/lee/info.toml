@@ -1,2 +1,50 @@
 name = "Lee County"
 fips_code = 45061
+
+[[zipcodes]]
+zipcode = 29009
+percent_zip_in_county = 2.62
+
+[[zipcodes]]
+zipcode = 29010
+percent_zip_in_county = 99.22
+
+[[zipcodes]]
+zipcode = 29020
+percent_zip_in_county = 2.66
+
+[[zipcodes]]
+zipcode = 29032
+percent_zip_in_county = 2.8
+
+[[zipcodes]]
+zipcode = 29040
+percent_zip_in_county = 10.03
+
+[[zipcodes]]
+zipcode = 29046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29069
+percent_zip_in_county = 6.67
+
+[[zipcodes]]
+zipcode = 29080
+percent_zip_in_county = 52.53
+
+[[zipcodes]]
+zipcode = 29104
+percent_zip_in_county = 44.61
+
+[[zipcodes]]
+zipcode = 29128
+percent_zip_in_county = 10.83
+
+[[zipcodes]]
+zipcode = 29153
+percent_zip_in_county = 2.86
+
+[[zipcodes]]
+zipcode = 29550
+percent_zip_in_county = 0.41

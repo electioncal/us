@@ -1,2 +1,54 @@
 name = "Delta County"
 fips_code = 26041
+
+[[zipcodes]]
+zipcode = 49807
+percent_zip_in_county = 79.59
+
+[[zipcodes]]
+zipcode = 49817
+percent_zip_in_county = 12.52
+
+[[zipcodes]]
+zipcode = 49818
+percent_zip_in_county = 86.44
+
+[[zipcodes]]
+zipcode = 49829
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49835
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49837
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49854
+percent_zip_in_county = 0.79
+
+[[zipcodes]]
+zipcode = 49864
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49872
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49878
+percent_zip_in_county = 98.69
+
+[[zipcodes]]
+zipcode = 49880
+percent_zip_in_county = 72.68
+
+[[zipcodes]]
+zipcode = 49894
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49895
+percent_zip_in_county = 18.17

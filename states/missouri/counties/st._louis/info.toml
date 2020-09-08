@@ -1,2 +1,118 @@
 name = "St. Louis city"
 fips_code = 29510
+
+[[zipcodes]]
+zipcode = 63101
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63102
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63104
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63105
+percent_zip_in_county = 5.97
+
+[[zipcodes]]
+zipcode = 63106
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63107
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63108
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63109
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63110
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63111
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63112
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63113
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63115
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63116
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63117
+percent_zip_in_county = 6.48
+
+[[zipcodes]]
+zipcode = 63118
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63119
+percent_zip_in_county = 0.94
+
+[[zipcodes]]
+zipcode = 63120
+percent_zip_in_county = 88.48
+
+[[zipcodes]]
+zipcode = 63123
+percent_zip_in_county = 4.57
+
+[[zipcodes]]
+zipcode = 63125
+percent_zip_in_county = 1.11
+
+[[zipcodes]]
+zipcode = 63130
+percent_zip_in_county = 1.21
+
+[[zipcodes]]
+zipcode = 63133
+percent_zip_in_county = 1.78
+
+[[zipcodes]]
+zipcode = 63136
+percent_zip_in_county = 6.99
+
+[[zipcodes]]
+zipcode = 63137
+percent_zip_in_county = 5.35
+
+[[zipcodes]]
+zipcode = 63139
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63143
+percent_zip_in_county = 17.17
+
+[[zipcodes]]
+zipcode = 63147
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63155
+percent_zip_in_county = 0.0

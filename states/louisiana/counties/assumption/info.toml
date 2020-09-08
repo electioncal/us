@@ -1,2 +1,34 @@
 name = "Assumption Parish"
 fips_code = 22007
+
+[[zipcodes]]
+zipcode = 70301
+percent_zip_in_county = 1.91
+
+[[zipcodes]]
+zipcode = 70339
+percent_zip_in_county = 93.2
+
+[[zipcodes]]
+zipcode = 70341
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70372
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70380
+percent_zip_in_county = 9.0
+
+[[zipcodes]]
+zipcode = 70390
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70391
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70393
+percent_zip_in_county = 100.0

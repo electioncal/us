@@ -1,2 +1,54 @@
 name = "Price County"
 fips_code = 55099
+
+[[zipcodes]]
+zipcode = 54459
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54470
+percent_zip_in_county = 0.77
+
+[[zipcodes]]
+zipcode = 54490
+percent_zip_in_county = 2.13
+
+[[zipcodes]]
+zipcode = 54513
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54514
+percent_zip_in_county = 22.89
+
+[[zipcodes]]
+zipcode = 54515
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54524
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54530
+percent_zip_in_county = 10.14
+
+[[zipcodes]]
+zipcode = 54537
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54538
+percent_zip_in_county = 0.48
+
+[[zipcodes]]
+zipcode = 54552
+percent_zip_in_county = 93.5
+
+[[zipcodes]]
+zipcode = 54555
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54556
+percent_zip_in_county = 100.0

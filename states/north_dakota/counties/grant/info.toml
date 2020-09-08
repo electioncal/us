@@ -1,2 +1,50 @@
 name = "Grant County"
 fips_code = 38037
+
+[[zipcodes]]
+zipcode = 57638
+percent_zip_in_county = 0.99
+
+[[zipcodes]]
+zipcode = 57645
+percent_zip_in_county = 17.97
+
+[[zipcodes]]
+zipcode = 57660
+percent_zip_in_county = 10.1
+
+[[zipcodes]]
+zipcode = 58520
+percent_zip_in_county = 15.53
+
+[[zipcodes]]
+zipcode = 58529
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58533
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58535
+percent_zip_in_county = 16.46
+
+[[zipcodes]]
+zipcode = 58562
+percent_zip_in_county = 83.37
+
+[[zipcodes]]
+zipcode = 58564
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58569
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58631
+percent_zip_in_county = 5.48
+
+[[zipcodes]]
+zipcode = 58638
+percent_zip_in_county = 0.81

@@ -1,2 +1,58 @@
 name = "Wabaunsee County"
 fips_code = 20197
+
+[[zipcodes]]
+zipcode = 66401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66407
+percent_zip_in_county = 27.97
+
+[[zipcodes]]
+zipcode = 66413
+percent_zip_in_county = 0.17
+
+[[zipcodes]]
+zipcode = 66423
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66431
+percent_zip_in_county = 92.7
+
+[[zipcodes]]
+zipcode = 66501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66502
+percent_zip_in_county = 0.08
+
+[[zipcodes]]
+zipcode = 66507
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66526
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66536
+percent_zip_in_county = 0.43
+
+[[zipcodes]]
+zipcode = 66547
+percent_zip_in_county = 4.81
+
+[[zipcodes]]
+zipcode = 66614
+percent_zip_in_county = 0.16
+
+[[zipcodes]]
+zipcode = 66615
+percent_zip_in_county = 6.04
+
+[[zipcodes]]
+zipcode = 66834
+percent_zip_in_county = 75.71

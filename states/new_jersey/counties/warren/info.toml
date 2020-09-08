@@ -1,2 +1,86 @@
 name = "Warren County"
 fips_code = 34041
+
+[[zipcodes]]
+zipcode = 7820
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7821
+percent_zip_in_county = 9.08
+
+[[zipcodes]]
+zipcode = 7823
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7825
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7832
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7833
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7838
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7840
+percent_zip_in_county = 76.93
+
+[[zipcodes]]
+zipcode = 7846
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7860
+percent_zip_in_county = 1.8
+
+[[zipcodes]]
+zipcode = 7863
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7865
+percent_zip_in_county = 64.78
+
+[[zipcodes]]
+zipcode = 7874
+percent_zip_in_county = 0.89
+
+[[zipcodes]]
+zipcode = 7880
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7882
+percent_zip_in_county = 97.95
+
+[[zipcodes]]
+zipcode = 8802
+percent_zip_in_county = 30.32
+
+[[zipcodes]]
+zipcode = 8804
+percent_zip_in_county = 28.18
+
+[[zipcodes]]
+zipcode = 8808
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8827
+percent_zip_in_county = 6.63
+
+[[zipcodes]]
+zipcode = 8865
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8886
+percent_zip_in_county = 100.0

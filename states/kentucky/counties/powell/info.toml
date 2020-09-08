@@ -1,2 +1,18 @@
 name = "Powell County"
 fips_code = 21197
+
+[[zipcodes]]
+zipcode = 40312
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40376
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40380
+percent_zip_in_county = 99.92
+
+[[zipcodes]]
+zipcode = 41360
+percent_zip_in_county = 11.2

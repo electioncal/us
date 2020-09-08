@@ -1,2 +1,50 @@
 name = "Boone County"
 fips_code = 18011
+
+[[zipcodes]]
+zipcode = 46035
+percent_zip_in_county = 6.02
+
+[[zipcodes]]
+zipcode = 46050
+percent_zip_in_county = 14.3
+
+[[zipcodes]]
+zipcode = 46052
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46069
+percent_zip_in_county = 15.89
+
+[[zipcodes]]
+zipcode = 46071
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46075
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46077
+percent_zip_in_county = 94.95
+
+[[zipcodes]]
+zipcode = 46112
+percent_zip_in_county = 0.13
+
+[[zipcodes]]
+zipcode = 46147
+percent_zip_in_county = 92.8
+
+[[zipcodes]]
+zipcode = 46268
+percent_zip_in_county = 1.79
+
+[[zipcodes]]
+zipcode = 47933
+percent_zip_in_county = 0.06
+
+[[zipcodes]]
+zipcode = 47968
+percent_zip_in_county = 7.03

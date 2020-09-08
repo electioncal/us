@@ -1,2 +1,70 @@
 name = "Adams County"
 fips_code = 42001
+
+[[zipcodes]]
+zipcode = 17019
+percent_zip_in_county = 0.49
+
+[[zipcodes]]
+zipcode = 17222
+percent_zip_in_county = 6.32
+
+[[zipcodes]]
+zipcode = 17301
+percent_zip_in_county = 74.24
+
+[[zipcodes]]
+zipcode = 17304
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17306
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17307
+percent_zip_in_county = 99.49
+
+[[zipcodes]]
+zipcode = 17316
+percent_zip_in_county = 78.27
+
+[[zipcodes]]
+zipcode = 17320
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17324
+percent_zip_in_county = 40.15
+
+[[zipcodes]]
+zipcode = 17325
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17331
+percent_zip_in_county = 19.74
+
+[[zipcodes]]
+zipcode = 17340
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17343
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17344
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17350
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17353
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17372
+percent_zip_in_county = 97.71

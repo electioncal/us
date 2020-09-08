@@ -1,2 +1,10 @@
 name = "Lander County"
 fips_code = 32015
+
+[[zipcodes]]
+zipcode = 89310
+percent_zip_in_county = 76.18
+
+[[zipcodes]]
+zipcode = 89820
+percent_zip_in_county = 99.96

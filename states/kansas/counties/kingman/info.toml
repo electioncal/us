@@ -1,2 +1,42 @@
 name = "Kingman County"
 fips_code = 20095
+
+[[zipcodes]]
+zipcode = 67025
+percent_zip_in_county = 16.19
+
+[[zipcodes]]
+zipcode = 67035
+percent_zip_in_county = 85.88
+
+[[zipcodes]]
+zipcode = 67058
+percent_zip_in_county = 1.86
+
+[[zipcodes]]
+zipcode = 67068
+percent_zip_in_county = 98.78
+
+[[zipcodes]]
+zipcode = 67111
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67112
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67118
+percent_zip_in_county = 95.43
+
+[[zipcodes]]
+zipcode = 67142
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67159
+percent_zip_in_county = 82.84
+
+[[zipcodes]]
+zipcode = 67570
+percent_zip_in_county = 8.89

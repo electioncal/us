@@ -1,2 +1,50 @@
 name = "Madison County"
 fips_code = 5087
+
+[[zipcodes]]
+zipcode = 72632
+percent_zip_in_county = 0.72
+
+[[zipcodes]]
+zipcode = 72703
+percent_zip_in_county = 0.2
+
+[[zipcodes]]
+zipcode = 72721
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72727
+percent_zip_in_county = 24.57
+
+[[zipcodes]]
+zipcode = 72738
+percent_zip_in_county = 73.63
+
+[[zipcodes]]
+zipcode = 72740
+percent_zip_in_county = 97.62
+
+[[zipcodes]]
+zipcode = 72742
+percent_zip_in_county = 88.81
+
+[[zipcodes]]
+zipcode = 72752
+percent_zip_in_county = 75.43
+
+[[zipcodes]]
+zipcode = 72756
+percent_zip_in_county = 0.67
+
+[[zipcodes]]
+zipcode = 72760
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72773
+percent_zip_in_county = 91.71
+
+[[zipcodes]]
+zipcode = 72776
+percent_zip_in_county = 100.0

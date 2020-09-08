@@ -1,2 +1,66 @@
 name = "Jackson County"
 fips_code = 55053
+
+[[zipcodes]]
+zipcode = 54466
+percent_zip_in_county = 6.79
+
+[[zipcodes]]
+zipcode = 54611
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54615
+percent_zip_in_county = 99.78
+
+[[zipcodes]]
+zipcode = 54616
+percent_zip_in_county = 0.96
+
+[[zipcodes]]
+zipcode = 54627
+percent_zip_in_county = 4.12
+
+[[zipcodes]]
+zipcode = 54635
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54641
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54642
+percent_zip_in_county = 88.42
+
+[[zipcodes]]
+zipcode = 54643
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54644
+percent_zip_in_county = 1.67
+
+[[zipcodes]]
+zipcode = 54659
+percent_zip_in_county = 97.8
+
+[[zipcodes]]
+zipcode = 54666
+percent_zip_in_county = 16.58
+
+[[zipcodes]]
+zipcode = 54741
+percent_zip_in_county = 31.52
+
+[[zipcodes]]
+zipcode = 54746
+percent_zip_in_county = 21.18
+
+[[zipcodes]]
+zipcode = 54754
+percent_zip_in_county = 84.09
+
+[[zipcodes]]
+zipcode = 54758
+percent_zip_in_county = 14.03

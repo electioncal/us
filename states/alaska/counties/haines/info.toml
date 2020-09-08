@@ -1,2 +1,6 @@
 name = "Haines Borough"
 fips_code = 2100
+
+[[zipcodes]]
+zipcode = 99827
+percent_zip_in_county = 96.35

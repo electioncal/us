@@ -1,2 +1,22 @@
 name = "Lane County"
 fips_code = 20101
+
+[[zipcodes]]
+zipcode = 67518
+percent_zip_in_county = 4.35
+
+[[zipcodes]]
+zipcode = 67584
+percent_zip_in_county = 4.09
+
+[[zipcodes]]
+zipcode = 67839
+percent_zip_in_county = 98.38
+
+[[zipcodes]]
+zipcode = 67846
+percent_zip_in_county = 0.02
+
+[[zipcodes]]
+zipcode = 67850
+percent_zip_in_county = 100.0

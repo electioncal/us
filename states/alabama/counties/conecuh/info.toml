@@ -1,2 +1,54 @@
 name = "Conecuh County"
 fips_code = 1035
+
+[[zipcodes]]
+zipcode = 36033
+percent_zip_in_county = 2.51
+
+[[zipcodes]]
+zipcode = 36401
+percent_zip_in_county = 99.55
+
+[[zipcodes]]
+zipcode = 36421
+percent_zip_in_county = 2.03
+
+[[zipcodes]]
+zipcode = 36426
+percent_zip_in_county = 0.7
+
+[[zipcodes]]
+zipcode = 36432
+percent_zip_in_county = 84.38
+
+[[zipcodes]]
+zipcode = 36454
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36456
+percent_zip_in_county = 25.16
+
+[[zipcodes]]
+zipcode = 36460
+percent_zip_in_county = 0.31
+
+[[zipcodes]]
+zipcode = 36471
+percent_zip_in_county = 2.94
+
+[[zipcodes]]
+zipcode = 36473
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36474
+percent_zip_in_county = 2.73
+
+[[zipcodes]]
+zipcode = 36475
+percent_zip_in_county = 74.59
+
+[[zipcodes]]
+zipcode = 36502
+percent_zip_in_county = 0.47

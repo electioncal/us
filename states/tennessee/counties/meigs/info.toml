@@ -1,2 +1,22 @@
 name = "Meigs County"
 fips_code = 47121
+
+[[zipcodes]]
+zipcode = 37308
+percent_zip_in_county = 31.28
+
+[[zipcodes]]
+zipcode = 37322
+percent_zip_in_county = 92.57
+
+[[zipcodes]]
+zipcode = 37336
+percent_zip_in_county = 28.63
+
+[[zipcodes]]
+zipcode = 37826
+percent_zip_in_county = 1.95
+
+[[zipcodes]]
+zipcode = 37880
+percent_zip_in_county = 56.69

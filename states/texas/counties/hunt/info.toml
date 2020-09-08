@@ -1,2 +1,62 @@
 name = "Hunt County"
 fips_code = 48231
+
+[[zipcodes]]
+zipcode = 75135
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75160
+percent_zip_in_county = 5.89
+
+[[zipcodes]]
+zipcode = 75169
+percent_zip_in_county = 12.26
+
+[[zipcodes]]
+zipcode = 75189
+percent_zip_in_county = 23.9
+
+[[zipcodes]]
+zipcode = 75401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75402
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75422
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75423
+percent_zip_in_county = 98.89
+
+[[zipcodes]]
+zipcode = 75428
+percent_zip_in_county = 97.27
+
+[[zipcodes]]
+zipcode = 75442
+percent_zip_in_county = 10.97
+
+[[zipcodes]]
+zipcode = 75449
+percent_zip_in_county = 16.61
+
+[[zipcodes]]
+zipcode = 75452
+percent_zip_in_county = 4.23
+
+[[zipcodes]]
+zipcode = 75453
+percent_zip_in_county = 82.92
+
+[[zipcodes]]
+zipcode = 75474
+percent_zip_in_county = 98.63
+
+[[zipcodes]]
+zipcode = 75496
+percent_zip_in_county = 84.78

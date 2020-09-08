@@ -1,2 +1,70 @@
 name = "Franklin County"
 fips_code = 17055
+
+[[zipcodes]]
+zipcode = 62812
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62819
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62822
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62825
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62836
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62856
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62860
+percent_zip_in_county = 66.03
+
+[[zipcodes]]
+zipcode = 62865
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62874
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62883
+percent_zip_in_county = 17.09
+
+[[zipcodes]]
+zipcode = 62884
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62890
+percent_zip_in_county = 67.07
+
+[[zipcodes]]
+zipcode = 62891
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62896
+percent_zip_in_county = 93.88
+
+[[zipcodes]]
+zipcode = 62897
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62983
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62999
+percent_zip_in_county = 100.0

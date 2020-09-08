@@ -1,2 +1,30 @@
 name = "Slope County"
 fips_code = 38087
+
+[[zipcodes]]
+zipcode = 58620
+percent_zip_in_county = 93.94
+
+[[zipcodes]]
+zipcode = 58623
+percent_zip_in_county = 4.68
+
+[[zipcodes]]
+zipcode = 58643
+percent_zip_in_county = 88.48
+
+[[zipcodes]]
+zipcode = 58647
+percent_zip_in_county = 14.36
+
+[[zipcodes]]
+zipcode = 58651
+percent_zip_in_county = 21.26
+
+[[zipcodes]]
+zipcode = 58653
+percent_zip_in_county = 9.15
+
+[[zipcodes]]
+zipcode = 58654
+percent_zip_in_county = 1.04

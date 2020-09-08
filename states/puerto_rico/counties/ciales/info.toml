@@ -1,2 +1,10 @@
 name = "Ciales Municipio"
 fips_code = 72039
+
+[[zipcodes]]
+zipcode = 638
+percent_zip_in_county = 98.27
+
+[[zipcodes]]
+zipcode = 650
+percent_zip_in_county = 1.13

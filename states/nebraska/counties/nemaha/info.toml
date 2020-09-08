@@ -1,2 +1,38 @@
 name = "Nemaha County"
 fips_code = 31127
+
+[[zipcodes]]
+zipcode = 68305
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68320
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68321
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68376
+percent_zip_in_county = 4.78
+
+[[zipcodes]]
+zipcode = 68378
+percent_zip_in_county = 96.03
+
+[[zipcodes]]
+zipcode = 68379
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68414
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68421
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68442
+percent_zip_in_county = 11.18

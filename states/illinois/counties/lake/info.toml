@@ -1,2 +1,138 @@
 name = "Lake County"
 fips_code = 17097
+
+[[zipcodes]]
+zipcode = 60002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60010
+percent_zip_in_county = 50.32
+
+[[zipcodes]]
+zipcode = 60013
+percent_zip_in_county = 3.97
+
+[[zipcodes]]
+zipcode = 60015
+percent_zip_in_county = 99.36
+
+[[zipcodes]]
+zipcode = 60020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60021
+percent_zip_in_county = 8.76
+
+[[zipcodes]]
+zipcode = 60030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60031
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60042
+percent_zip_in_county = 44.04
+
+[[zipcodes]]
+zipcode = 60044
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60047
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60048
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60050
+percent_zip_in_county = 0.95
+
+[[zipcodes]]
+zipcode = 60051
+percent_zip_in_county = 16.39
+
+[[zipcodes]]
+zipcode = 60060
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60064
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60069
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60073
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60074
+percent_zip_in_county = 0.47
+
+[[zipcodes]]
+zipcode = 60081
+percent_zip_in_county = 18.59
+
+[[zipcodes]]
+zipcode = 60083
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60084
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60085
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60087
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60088
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60089
+percent_zip_in_county = 67.15
+
+[[zipcodes]]
+zipcode = 60096
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60099
+percent_zip_in_county = 100.0

@@ -1,2 +1,66 @@
 name = "Stokes County"
 fips_code = 37169
+
+[[zipcodes]]
+zipcode = 27009
+percent_zip_in_county = 0.3
+
+[[zipcodes]]
+zipcode = 27016
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27019
+percent_zip_in_county = 63.07
+
+[[zipcodes]]
+zipcode = 27021
+percent_zip_in_county = 99.24
+
+[[zipcodes]]
+zipcode = 27022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27025
+percent_zip_in_county = 20.43
+
+[[zipcodes]]
+zipcode = 27030
+percent_zip_in_county = 0.87
+
+[[zipcodes]]
+zipcode = 27041
+percent_zip_in_county = 16.8
+
+[[zipcodes]]
+zipcode = 27042
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27043
+percent_zip_in_county = 57.28
+
+[[zipcodes]]
+zipcode = 27045
+percent_zip_in_county = 1.82
+
+[[zipcodes]]
+zipcode = 27046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27050
+percent_zip_in_county = 16.0
+
+[[zipcodes]]
+zipcode = 27052
+percent_zip_in_county = 87.7
+
+[[zipcodes]]
+zipcode = 27053
+percent_zip_in_county = 91.75
+
+[[zipcodes]]
+zipcode = 27357
+percent_zip_in_county = 0.09

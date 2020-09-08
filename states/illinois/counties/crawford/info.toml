@@ -1,2 +1,42 @@
 name = "Crawford County"
 fips_code = 17033
+
+[[zipcodes]]
+zipcode = 62413
+percent_zip_in_county = 94.3
+
+[[zipcodes]]
+zipcode = 62421
+percent_zip_in_county = 1.29
+
+[[zipcodes]]
+zipcode = 62427
+percent_zip_in_county = 82.37
+
+[[zipcodes]]
+zipcode = 62433
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62442
+percent_zip_in_county = 1.24
+
+[[zipcodes]]
+zipcode = 62449
+percent_zip_in_county = 95.02
+
+[[zipcodes]]
+zipcode = 62451
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62454
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62466
+percent_zip_in_county = 1.79
+
+[[zipcodes]]
+zipcode = 62478
+percent_zip_in_county = 63.57

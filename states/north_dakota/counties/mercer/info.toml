@@ -1,2 +1,38 @@
 name = "Mercer County"
 fips_code = 38057
+
+[[zipcodes]]
+zipcode = 58523
+percent_zip_in_county = 97.79
+
+[[zipcodes]]
+zipcode = 58541
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58545
+percent_zip_in_county = 97.49
+
+[[zipcodes]]
+zipcode = 58571
+percent_zip_in_county = 88.72
+
+[[zipcodes]]
+zipcode = 58580
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58625
+percent_zip_in_county = 14.05
+
+[[zipcodes]]
+zipcode = 58631
+percent_zip_in_county = 3.39
+
+[[zipcodes]]
+zipcode = 58636
+percent_zip_in_county = 3.97
+
+[[zipcodes]]
+zipcode = 58638
+percent_zip_in_county = 6.45

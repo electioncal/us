@@ -1,2 +1,30 @@
 name = "Keith County"
 fips_code = 31101
+
+[[zipcodes]]
+zipcode = 69122
+percent_zip_in_county = 7.43
+
+[[zipcodes]]
+zipcode = 69127
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69144
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69146
+percent_zip_in_county = 92.81
+
+[[zipcodes]]
+zipcode = 69147
+percent_zip_in_county = 36.36
+
+[[zipcodes]]
+zipcode = 69153
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69155
+percent_zip_in_county = 100.0

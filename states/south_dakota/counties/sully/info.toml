@@ -1,2 +1,22 @@
 name = "Sully County"
 fips_code = 46119
+
+[[zipcodes]]
+zipcode = 57442
+percent_zip_in_county = 0.84
+
+[[zipcodes]]
+zipcode = 57501
+percent_zip_in_county = 1.2
+
+[[zipcodes]]
+zipcode = 57520
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57536
+percent_zip_in_county = 5.12
+
+[[zipcodes]]
+zipcode = 57564
+percent_zip_in_county = 99.2

@@ -1,2 +1,70 @@
 name = "Polk County"
 fips_code = 29167
+
+[[zipcodes]]
+zipcode = 65601
+percent_zip_in_county = 74.01
+
+[[zipcodes]]
+zipcode = 65613
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65617
+percent_zip_in_county = 63.31
+
+[[zipcodes]]
+zipcode = 65622
+percent_zip_in_county = 5.93
+
+[[zipcodes]]
+zipcode = 65640
+percent_zip_in_county = 86.7
+
+[[zipcodes]]
+zipcode = 65648
+percent_zip_in_county = 3.6
+
+[[zipcodes]]
+zipcode = 65649
+percent_zip_in_county = 71.31
+
+[[zipcodes]]
+zipcode = 65650
+percent_zip_in_county = 43.09
+
+[[zipcodes]]
+zipcode = 65663
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65674
+percent_zip_in_county = 63.76
+
+[[zipcodes]]
+zipcode = 65685
+percent_zip_in_county = 21.09
+
+[[zipcodes]]
+zipcode = 65710
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65725
+percent_zip_in_county = 70.92
+
+[[zipcodes]]
+zipcode = 65727
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65767
+percent_zip_in_county = 4.42
+
+[[zipcodes]]
+zipcode = 65770
+percent_zip_in_county = 24.32
+
+[[zipcodes]]
+zipcode = 65781
+percent_zip_in_county = 2.29

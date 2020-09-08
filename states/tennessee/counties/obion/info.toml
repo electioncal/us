@@ -1,2 +1,42 @@
 name = "Obion County"
 fips_code = 47131
+
+[[zipcodes]]
+zipcode = 38080
+percent_zip_in_county = 1.83
+
+[[zipcodes]]
+zipcode = 38232
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38233
+percent_zip_in_county = 45.9
+
+[[zipcodes]]
+zipcode = 38240
+percent_zip_in_county = 96.55
+
+[[zipcodes]]
+zipcode = 38253
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38254
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38257
+percent_zip_in_county = 96.88
+
+[[zipcodes]]
+zipcode = 38259
+percent_zip_in_county = 5.58
+
+[[zipcodes]]
+zipcode = 38260
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38261
+percent_zip_in_county = 100.0

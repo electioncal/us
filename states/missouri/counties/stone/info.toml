@@ -1,2 +1,62 @@
 name = "Stone County"
 fips_code = 29209
+
+[[zipcodes]]
+zipcode = 65610
+percent_zip_in_county = 13.82
+
+[[zipcodes]]
+zipcode = 65611
+percent_zip_in_county = 98.17
+
+[[zipcodes]]
+zipcode = 65616
+percent_zip_in_county = 4.97
+
+[[zipcodes]]
+zipcode = 65624
+percent_zip_in_county = 93.02
+
+[[zipcodes]]
+zipcode = 65631
+percent_zip_in_county = 13.83
+
+[[zipcodes]]
+zipcode = 65633
+percent_zip_in_county = 85.02
+
+[[zipcodes]]
+zipcode = 65656
+percent_zip_in_county = 99.09
+
+[[zipcodes]]
+zipcode = 65669
+percent_zip_in_county = 10.73
+
+[[zipcodes]]
+zipcode = 65681
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65686
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65705
+percent_zip_in_county = 8.55
+
+[[zipcodes]]
+zipcode = 65714
+percent_zip_in_county = 1.94
+
+[[zipcodes]]
+zipcode = 65728
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65737
+percent_zip_in_county = 94.77
+
+[[zipcodes]]
+zipcode = 65747
+percent_zip_in_county = 36.76

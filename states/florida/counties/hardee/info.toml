@@ -1,2 +1,22 @@
 name = "Hardee County"
 fips_code = 12049
+
+[[zipcodes]]
+zipcode = 33825
+percent_zip_in_county = 0.29
+
+[[zipcodes]]
+zipcode = 33834
+percent_zip_in_county = 94.92
+
+[[zipcodes]]
+zipcode = 33865
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33873
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33890
+percent_zip_in_county = 100.0

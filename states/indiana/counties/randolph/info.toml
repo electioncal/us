@@ -1,2 +1,58 @@
 name = "Randolph County"
 fips_code = 18135
+
+[[zipcodes]]
+zipcode = 47320
+percent_zip_in_county = 7.16
+
+[[zipcodes]]
+zipcode = 47340
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47354
+percent_zip_in_county = 57.13
+
+[[zipcodes]]
+zipcode = 47355
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47358
+percent_zip_in_county = 94.98
+
+[[zipcodes]]
+zipcode = 47360
+percent_zip_in_county = 0.65
+
+[[zipcodes]]
+zipcode = 47368
+percent_zip_in_county = 84.46
+
+[[zipcodes]]
+zipcode = 47371
+percent_zip_in_county = 0.07
+
+[[zipcodes]]
+zipcode = 47373
+percent_zip_in_county = 8.18
+
+[[zipcodes]]
+zipcode = 47380
+percent_zip_in_county = 93.91
+
+[[zipcodes]]
+zipcode = 47382
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47390
+percent_zip_in_county = 98.15
+
+[[zipcodes]]
+zipcode = 47393
+percent_zip_in_county = 6.92
+
+[[zipcodes]]
+zipcode = 47394
+percent_zip_in_county = 100.0

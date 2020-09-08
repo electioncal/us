@@ -1,2 +1,30 @@
 name = "Tattnall County"
 fips_code = 13267
+
+[[zipcodes]]
+zipcode = 30417
+percent_zip_in_county = 3.76
+
+[[zipcodes]]
+zipcode = 30420
+percent_zip_in_county = 87.33
+
+[[zipcodes]]
+zipcode = 30421
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30427
+percent_zip_in_county = 82.38
+
+[[zipcodes]]
+zipcode = 30436
+percent_zip_in_county = 0.6
+
+[[zipcodes]]
+zipcode = 30438
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30453
+percent_zip_in_county = 100.0

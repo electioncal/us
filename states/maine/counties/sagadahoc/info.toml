@@ -1,2 +1,38 @@
 name = "Sagadahoc County"
 fips_code = 23023
+
+[[zipcodes]]
+zipcode = 4008
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4086
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4287
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4345
+percent_zip_in_county = 0.1
+
+[[zipcodes]]
+zipcode = 4357
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4530
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4548
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4562
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4579
+percent_zip_in_county = 100.0

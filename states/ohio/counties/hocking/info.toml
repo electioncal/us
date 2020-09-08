@@ -1,2 +1,62 @@
 name = "Hocking County"
 fips_code = 39073
+
+[[zipcodes]]
+zipcode = 43102
+percent_zip_in_county = 5.34
+
+[[zipcodes]]
+zipcode = 43107
+percent_zip_in_county = 2.73
+
+[[zipcodes]]
+zipcode = 43111
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43127
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43135
+percent_zip_in_county = 70.44
+
+[[zipcodes]]
+zipcode = 43138
+percent_zip_in_county = 97.42
+
+[[zipcodes]]
+zipcode = 43144
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43149
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43152
+percent_zip_in_county = 91.53
+
+[[zipcodes]]
+zipcode = 43155
+percent_zip_in_county = 34.25
+
+[[zipcodes]]
+zipcode = 43158
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43766
+percent_zip_in_county = 11.77
+
+[[zipcodes]]
+zipcode = 45622
+percent_zip_in_county = 7.17
+
+[[zipcodes]]
+zipcode = 45654
+percent_zip_in_county = 40.24
+
+[[zipcodes]]
+zipcode = 45764
+percent_zip_in_county = 19.67

@@ -1,2 +1,30 @@
 name = "Washington County"
 fips_code = 48477
+
+[[zipcodes]]
+zipcode = 77426
+percent_zip_in_county = 93.33
+
+[[zipcodes]]
+zipcode = 77833
+percent_zip_in_county = 98.75
+
+[[zipcodes]]
+zipcode = 77835
+percent_zip_in_county = 96.85
+
+[[zipcodes]]
+zipcode = 77868
+percent_zip_in_county = 0.17
+
+[[zipcodes]]
+zipcode = 77880
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78932
+percent_zip_in_county = 32.23
+
+[[zipcodes]]
+zipcode = 78946
+percent_zip_in_county = 18.96

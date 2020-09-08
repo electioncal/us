@@ -1,2 +1,90 @@
 name = "Ottawa County"
 fips_code = 26139
+
+[[zipcodes]]
+zipcode = 49315
+percent_zip_in_county = 4.01
+
+[[zipcodes]]
+zipcode = 49318
+percent_zip_in_county = 17.95
+
+[[zipcodes]]
+zipcode = 49330
+percent_zip_in_county = 1.69
+
+[[zipcodes]]
+zipcode = 49401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49403
+percent_zip_in_county = 94.38
+
+[[zipcodes]]
+zipcode = 49404
+percent_zip_in_county = 98.31
+
+[[zipcodes]]
+zipcode = 49415
+percent_zip_in_county = 8.98
+
+[[zipcodes]]
+zipcode = 49417
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49418
+percent_zip_in_county = 15.73
+
+[[zipcodes]]
+zipcode = 49423
+percent_zip_in_county = 65.47
+
+[[zipcodes]]
+zipcode = 49424
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49426
+percent_zip_in_county = 99.92
+
+[[zipcodes]]
+zipcode = 49428
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49434
+percent_zip_in_county = 75.0
+
+[[zipcodes]]
+zipcode = 49435
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49448
+percent_zip_in_county = 89.94
+
+[[zipcodes]]
+zipcode = 49451
+percent_zip_in_county = 3.36
+
+[[zipcodes]]
+zipcode = 49456
+percent_zip_in_county = 94.16
+
+[[zipcodes]]
+zipcode = 49460
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49464
+percent_zip_in_county = 98.64
+
+[[zipcodes]]
+zipcode = 49534
+percent_zip_in_county = 22.82
+
+[[zipcodes]]
+zipcode = 49544
+percent_zip_in_county = 0.57

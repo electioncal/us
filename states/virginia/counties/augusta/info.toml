@@ -1,2 +1,110 @@
 name = "Augusta County"
 fips_code = 51015
+
+[[zipcodes]]
+zipcode = 22812
+percent_zip_in_county = 8.24
+
+[[zipcodes]]
+zipcode = 22841
+percent_zip_in_county = 3.73
+
+[[zipcodes]]
+zipcode = 22843
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22920
+percent_zip_in_county = 0.98
+
+[[zipcodes]]
+zipcode = 22939
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22952
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22958
+percent_zip_in_county = 1.16
+
+[[zipcodes]]
+zipcode = 22980
+percent_zip_in_county = 33.21
+
+[[zipcodes]]
+zipcode = 24401
+percent_zip_in_county = 33.11
+
+[[zipcodes]]
+zipcode = 24411
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24421
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24430
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24431
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24432
+percent_zip_in_county = 93.75
+
+[[zipcodes]]
+zipcode = 24437
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24439
+percent_zip_in_county = 17.96
+
+[[zipcodes]]
+zipcode = 24440
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24441
+percent_zip_in_county = 37.64
+
+[[zipcodes]]
+zipcode = 24459
+percent_zip_in_county = 92.05
+
+[[zipcodes]]
+zipcode = 24467
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24472
+percent_zip_in_county = 40.6
+
+[[zipcodes]]
+zipcode = 24476
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24477
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24479
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24482
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24485
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24486
+percent_zip_in_county = 93.95

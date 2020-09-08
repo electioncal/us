@@ -1,2 +1,38 @@
 name = "Lyon County"
 fips_code = 32019
+
+[[zipcodes]]
+zipcode = 89403
+percent_zip_in_county = 95.19
+
+[[zipcodes]]
+zipcode = 89406
+percent_zip_in_county = 0.01
+
+[[zipcodes]]
+zipcode = 89408
+percent_zip_in_county = 99.45
+
+[[zipcodes]]
+zipcode = 89428
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89429
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89430
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89444
+percent_zip_in_county = 43.6
+
+[[zipcodes]]
+zipcode = 89447
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89706
+percent_zip_in_county = 8.3

@@ -1,2 +1,74 @@
 name = "Galveston County"
 fips_code = 48167
+
+[[zipcodes]]
+zipcode = 77510
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77511
+percent_zip_in_county = 6.12
+
+[[zipcodes]]
+zipcode = 77517
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77518
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77539
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77546
+percent_zip_in_county = 53.56
+
+[[zipcodes]]
+zipcode = 77550
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77551
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77554
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77563
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77565
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77568
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77573
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77590
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77591
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77617
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77623
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77650
+percent_zip_in_county = 100.0

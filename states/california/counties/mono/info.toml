@@ -1,2 +1,38 @@
 name = "Mono County"
 fips_code = 6051
+
+[[zipcodes]]
+zipcode = 89010
+percent_zip_in_county = 7.47
+
+[[zipcodes]]
+zipcode = 93512
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93514
+percent_zip_in_county = 8.56
+
+[[zipcodes]]
+zipcode = 93517
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93529
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93541
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 93546
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96107
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96133
+percent_zip_in_county = 100.0

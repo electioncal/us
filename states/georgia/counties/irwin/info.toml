@@ -1,2 +1,26 @@
 name = "Irwin County"
 fips_code = 13155
+
+[[zipcodes]]
+zipcode = 31733
+percent_zip_in_county = 29.43
+
+[[zipcodes]]
+zipcode = 31749
+percent_zip_in_county = 0.61
+
+[[zipcodes]]
+zipcode = 31750
+percent_zip_in_county = 7.61
+
+[[zipcodes]]
+zipcode = 31774
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31783
+percent_zip_in_county = 40.2
+
+[[zipcodes]]
+zipcode = 31798
+percent_zip_in_county = 48.22

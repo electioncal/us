@@ -1,2 +1,38 @@
 name = "Tillman County"
 fips_code = 40141
+
+[[zipcodes]]
+zipcode = 73528
+percent_zip_in_county = 19.26
+
+[[zipcodes]]
+zipcode = 73530
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73542
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73546
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73551
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73553
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73555
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73566
+percent_zip_in_county = 4.48
+
+[[zipcodes]]
+zipcode = 73570
+percent_zip_in_county = 100.0

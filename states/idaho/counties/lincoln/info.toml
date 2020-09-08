@@ -1,2 +1,22 @@
 name = "Lincoln County"
 fips_code = 16063
+
+[[zipcodes]]
+zipcode = 83324
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83338
+percent_zip_in_county = 0.11
+
+[[zipcodes]]
+zipcode = 83347
+percent_zip_in_county = 4.42
+
+[[zipcodes]]
+zipcode = 83349
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83352
+percent_zip_in_county = 95.89

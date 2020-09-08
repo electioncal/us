@@ -1,2 +1,22 @@
 name = "Parmer County"
 fips_code = 48369
+
+[[zipcodes]]
+zipcode = 79009
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79035
+percent_zip_in_county = 98.74
+
+[[zipcodes]]
+zipcode = 79053
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79325
+percent_zip_in_county = 99.01
+
+[[zipcodes]]
+zipcode = 79347
+percent_zip_in_county = 5.74

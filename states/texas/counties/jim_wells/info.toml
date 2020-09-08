@@ -1,2 +1,34 @@
 name = "Jim Wells County"
 fips_code = 48249
+
+[[zipcodes]]
+zipcode = 78332
+percent_zip_in_county = 99.29
+
+[[zipcodes]]
+zipcode = 78342
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78355
+percent_zip_in_county = 4.17
+
+[[zipcodes]]
+zipcode = 78372
+percent_zip_in_county = 99.23
+
+[[zipcodes]]
+zipcode = 78375
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78380
+percent_zip_in_county = 0.29
+
+[[zipcodes]]
+zipcode = 78383
+percent_zip_in_county = 49.48
+
+[[zipcodes]]
+zipcode = 78384
+percent_zip_in_county = 16.14

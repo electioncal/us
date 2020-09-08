@@ -1,2 +1,14 @@
 name = "Alpine County"
 fips_code = 6003
+
+[[zipcodes]]
+zipcode = 95223
+percent_zip_in_county = 2.62
+
+[[zipcodes]]
+zipcode = 95646
+percent_zip_in_county = 61.39
+
+[[zipcodes]]
+zipcode = 96120
+percent_zip_in_county = 100.0

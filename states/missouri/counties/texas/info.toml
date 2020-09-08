@@ -1,3 +1,79 @@
 name = "Texas County"
 fips_code = 29215
 registration_form_url = "https://s1.sos.mo.gov/cmsimages/ElectionGoVoteMissouri/register2vote/Texas.pdf"
+
+[[zipcodes]]
+zipcode = 65444
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65464
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65468
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65479
+percent_zip_in_county = 50.57
+
+[[zipcodes]]
+zipcode = 65483
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65484
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65542
+percent_zip_in_county = 97.87
+
+[[zipcodes]]
+zipcode = 65548
+percent_zip_in_county = 2.01
+
+[[zipcodes]]
+zipcode = 65552
+percent_zip_in_county = 87.83
+
+[[zipcodes]]
+zipcode = 65555
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65557
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65564
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65570
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65571
+percent_zip_in_county = 73.1
+
+[[zipcodes]]
+zipcode = 65589
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65660
+percent_zip_in_county = 12.64
+
+[[zipcodes]]
+zipcode = 65689
+percent_zip_in_county = 93.78
+
+[[zipcodes]]
+zipcode = 65711
+percent_zip_in_county = 16.92
+
+[[zipcodes]]
+zipcode = 65793
+percent_zip_in_county = 10.32

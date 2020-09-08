@@ -1,2 +1,30 @@
 name = "Garfield County"
 fips_code = 30033
+
+[[zipcodes]]
+zipcode = 59058
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59077
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59301
+percent_zip_in_county = 0.11
+
+[[zipcodes]]
+zipcode = 59312
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59318
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59322
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59337
+percent_zip_in_county = 100.0

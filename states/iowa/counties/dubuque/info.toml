@@ -1,2 +1,78 @@
 name = "Dubuque County"
 fips_code = 19061
+
+[[zipcodes]]
+zipcode = 52001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52031
+percent_zip_in_county = 9.1
+
+[[zipcodes]]
+zipcode = 52032
+percent_zip_in_county = 50.14
+
+[[zipcodes]]
+zipcode = 52033
+percent_zip_in_county = 70.21
+
+[[zipcodes]]
+zipcode = 52039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52040
+percent_zip_in_county = 84.06
+
+[[zipcodes]]
+zipcode = 52045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52052
+percent_zip_in_county = 4.85
+
+[[zipcodes]]
+zipcode = 52053
+percent_zip_in_county = 81.94
+
+[[zipcodes]]
+zipcode = 52054
+percent_zip_in_county = 10.43
+
+[[zipcodes]]
+zipcode = 52065
+percent_zip_in_county = 87.52
+
+[[zipcodes]]
+zipcode = 52068
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52073
+percent_zip_in_county = 97.88
+
+[[zipcodes]]
+zipcode = 52078
+percent_zip_in_county = 74.51
+
+[[zipcodes]]
+zipcode = 52079
+percent_zip_in_county = 41.69
+
+[[zipcodes]]
+zipcode = 52237
+percent_zip_in_county = 0.99

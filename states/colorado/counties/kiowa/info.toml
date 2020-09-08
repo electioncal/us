@@ -1,2 +1,18 @@
 name = "Kiowa County"
 fips_code = 8061
+
+[[zipcodes]]
+zipcode = 81021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81071
+percent_zip_in_county = 100.0

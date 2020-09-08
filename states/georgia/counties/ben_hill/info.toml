@@ -1,2 +1,18 @@
 name = "Ben Hill County"
 fips_code = 13017
+
+[[zipcodes]]
+zipcode = 31079
+percent_zip_in_county = 5.46
+
+[[zipcodes]]
+zipcode = 31750
+percent_zip_in_county = 92.34
+
+[[zipcodes]]
+zipcode = 31783
+percent_zip_in_county = 10.48
+
+[[zipcodes]]
+zipcode = 31798
+percent_zip_in_county = 13.33

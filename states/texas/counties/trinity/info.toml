@@ -1,2 +1,30 @@
 name = "Trinity County"
 fips_code = 48455
+
+[[zipcodes]]
+zipcode = 75845
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75847
+percent_zip_in_county = 14.15
+
+[[zipcodes]]
+zipcode = 75851
+percent_zip_in_county = 3.62
+
+[[zipcodes]]
+zipcode = 75856
+percent_zip_in_county = 58.67
+
+[[zipcodes]]
+zipcode = 75862
+percent_zip_in_county = 95.92
+
+[[zipcodes]]
+zipcode = 75904
+percent_zip_in_county = 0.05
+
+[[zipcodes]]
+zipcode = 75926
+percent_zip_in_county = 100.0

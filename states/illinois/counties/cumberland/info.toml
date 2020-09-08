@@ -1,2 +1,46 @@
 name = "Cumberland County"
 fips_code = 17035
+
+[[zipcodes]]
+zipcode = 62420
+percent_zip_in_county = 9.39
+
+[[zipcodes]]
+zipcode = 62428
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62436
+percent_zip_in_county = 77.76
+
+[[zipcodes]]
+zipcode = 62440
+percent_zip_in_county = 17.78
+
+[[zipcodes]]
+zipcode = 62445
+percent_zip_in_county = 45.87
+
+[[zipcodes]]
+zipcode = 62447
+percent_zip_in_county = 82.29
+
+[[zipcodes]]
+zipcode = 62462
+percent_zip_in_county = 36.99
+
+[[zipcodes]]
+zipcode = 62467
+percent_zip_in_county = 7.03
+
+[[zipcodes]]
+zipcode = 62468
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62469
+percent_zip_in_county = 81.38
+
+[[zipcodes]]
+zipcode = 62481
+percent_zip_in_county = 4.15

@@ -1,2 +1,30 @@
 name = "Scotland County"
 fips_code = 37165
+
+[[zipcodes]]
+zipcode = 28343
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28345
+percent_zip_in_county = 1.21
+
+[[zipcodes]]
+zipcode = 28351
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28352
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28363
+percent_zip_in_county = 59.82
+
+[[zipcodes]]
+zipcode = 28364
+percent_zip_in_county = 3.17
+
+[[zipcodes]]
+zipcode = 28396
+percent_zip_in_county = 100.0

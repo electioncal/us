@@ -1,2 +1,30 @@
 name = "McLean County"
 fips_code = 21149
+
+[[zipcodes]]
+zipcode = 42322
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42327
+percent_zip_in_county = 99.11
+
+[[zipcodes]]
+zipcode = 42350
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42352
+percent_zip_in_county = 95.24
+
+[[zipcodes]]
+zipcode = 42371
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42372
+percent_zip_in_county = 73.68
+
+[[zipcodes]]
+zipcode = 42376
+percent_zip_in_county = 4.24

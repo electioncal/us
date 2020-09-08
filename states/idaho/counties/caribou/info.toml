@@ -1,2 +1,30 @@
 name = "Caribou County"
 fips_code = 16029
+
+[[zipcodes]]
+zipcode = 83111
+percent_zip_in_county = 10.4
+
+[[zipcodes]]
+zipcode = 83120
+percent_zip_in_county = 23.78
+
+[[zipcodes]]
+zipcode = 83217
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83241
+percent_zip_in_county = 99.75
+
+[[zipcodes]]
+zipcode = 83254
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 83276
+percent_zip_in_county = 96.22
+
+[[zipcodes]]
+zipcode = 83285
+percent_zip_in_county = 28.24

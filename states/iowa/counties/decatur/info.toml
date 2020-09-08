@@ -1,2 +1,46 @@
 name = "Decatur County"
 fips_code = 19053
+
+[[zipcodes]]
+zipcode = 50065
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50108
+percent_zip_in_county = 91.08
+
+[[zipcodes]]
+zipcode = 50123
+percent_zip_in_county = 2.57
+
+[[zipcodes]]
+zipcode = 50133
+percent_zip_in_county = 4.23
+
+[[zipcodes]]
+zipcode = 50140
+percent_zip_in_county = 97.47
+
+[[zipcodes]]
+zipcode = 50144
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50147
+percent_zip_in_county = 24.32
+
+[[zipcodes]]
+zipcode = 50262
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50264
+percent_zip_in_county = 62.45

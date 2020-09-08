@@ -1,2 +1,30 @@
 name = "Powder River County"
 fips_code = 30075
+
+[[zipcodes]]
+zipcode = 59003
+percent_zip_in_county = 14.74
+
+[[zipcodes]]
+zipcode = 59062
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59301
+percent_zip_in_county = 0.19
+
+[[zipcodes]]
+zipcode = 59314
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59317
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59343
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59351
+percent_zip_in_county = 78.5

@@ -1,2 +1,42 @@
 name = "Warren County"
 fips_code = 21227
+
+[[zipcodes]]
+zipcode = 42101
+percent_zip_in_county = 97.18
+
+[[zipcodes]]
+zipcode = 42102
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42104
+percent_zip_in_county = 99.35
+
+[[zipcodes]]
+zipcode = 42122
+percent_zip_in_county = 97.87
+
+[[zipcodes]]
+zipcode = 42159
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42170
+percent_zip_in_county = 66.07
+
+[[zipcodes]]
+zipcode = 42171
+percent_zip_in_county = 40.02
+
+[[zipcodes]]
+zipcode = 42206
+percent_zip_in_county = 0.31
+
+[[zipcodes]]
+zipcode = 42274
+percent_zip_in_county = 89.46

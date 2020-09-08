@@ -1,2 +1,42 @@
 name = "Jefferson County"
 fips_code = 18077
+
+[[zipcodes]]
+zipcode = 47043
+percent_zip_in_county = 1.68
+
+[[zipcodes]]
+zipcode = 47138
+percent_zip_in_county = 44.8
+
+[[zipcodes]]
+zipcode = 47147
+percent_zip_in_county = 9.31
+
+[[zipcodes]]
+zipcode = 47224
+percent_zip_in_county = 43.87
+
+[[zipcodes]]
+zipcode = 47227
+percent_zip_in_county = 16.15
+
+[[zipcodes]]
+zipcode = 47230
+percent_zip_in_county = 79.25
+
+[[zipcodes]]
+zipcode = 47231
+percent_zip_in_county = 77.04
+
+[[zipcodes]]
+zipcode = 47243
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47250
+percent_zip_in_county = 96.82
+
+[[zipcodes]]
+zipcode = 47270
+percent_zip_in_county = 6.44

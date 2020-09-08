@@ -1,2 +1,130 @@
 name = "Arapahoe County"
 fips_code = 8005
+
+[[zipcodes]]
+zipcode = 80010
+percent_zip_in_county = 50.66
+
+[[zipcodes]]
+zipcode = 80011
+percent_zip_in_county = 61.41
+
+[[zipcodes]]
+zipcode = 80012
+percent_zip_in_county = 99.02
+
+[[zipcodes]]
+zipcode = 80013
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80014
+percent_zip_in_county = 87.84
+
+[[zipcodes]]
+zipcode = 80015
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80016
+percent_zip_in_county = 99.72
+
+[[zipcodes]]
+zipcode = 80017
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80018
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80102
+percent_zip_in_county = 37.18
+
+[[zipcodes]]
+zipcode = 80103
+percent_zip_in_county = 80.68
+
+[[zipcodes]]
+zipcode = 80105
+percent_zip_in_county = 64.3
+
+[[zipcodes]]
+zipcode = 80110
+percent_zip_in_county = 94.94
+
+[[zipcodes]]
+zipcode = 80111
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80112
+percent_zip_in_county = 92.98
+
+[[zipcodes]]
+zipcode = 80113
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80120
+percent_zip_in_county = 99.93
+
+[[zipcodes]]
+zipcode = 80121
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80122
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80123
+percent_zip_in_county = 24.36
+
+[[zipcodes]]
+zipcode = 80128
+percent_zip_in_county = 5.21
+
+[[zipcodes]]
+zipcode = 80129
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 80136
+percent_zip_in_county = 32.27
+
+[[zipcodes]]
+zipcode = 80137
+percent_zip_in_county = 66.67
+
+[[zipcodes]]
+zipcode = 80220
+percent_zip_in_county = 0.72
+
+[[zipcodes]]
+zipcode = 80222
+percent_zip_in_county = 12.56
+
+[[zipcodes]]
+zipcode = 80224
+percent_zip_in_county = 0.68
+
+[[zipcodes]]
+zipcode = 80231
+percent_zip_in_county = 42.16
+
+[[zipcodes]]
+zipcode = 80236
+percent_zip_in_county = 8.04
+
+[[zipcodes]]
+zipcode = 80237
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 80246
+percent_zip_in_county = 32.5
+
+[[zipcodes]]
+zipcode = 80247
+percent_zip_in_county = 52.13

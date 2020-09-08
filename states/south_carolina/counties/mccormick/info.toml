@@ -1,2 +1,46 @@
 name = "McCormick County"
 fips_code = 45065
+
+[[zipcodes]]
+zipcode = 29620
+percent_zip_in_county = 0.21
+
+[[zipcodes]]
+zipcode = 29628
+percent_zip_in_county = 1.3
+
+[[zipcodes]]
+zipcode = 29819
+percent_zip_in_county = 2.76
+
+[[zipcodes]]
+zipcode = 29821
+percent_zip_in_county = 53.33
+
+[[zipcodes]]
+zipcode = 29835
+percent_zip_in_county = 94.35
+
+[[zipcodes]]
+zipcode = 29838
+percent_zip_in_county = 45.51
+
+[[zipcodes]]
+zipcode = 29840
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29844
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29845
+percent_zip_in_county = 98.64
+
+[[zipcodes]]
+zipcode = 29848
+percent_zip_in_county = 27.3
+
+[[zipcodes]]
+zipcode = 29899
+percent_zip_in_county = 100.0

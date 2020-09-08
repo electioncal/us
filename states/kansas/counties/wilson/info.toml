@@ -1,2 +1,38 @@
 name = "Wilson County"
 fips_code = 20205
+
+[[zipcodes]]
+zipcode = 66710
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66714
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66717
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66720
+percent_zip_in_county = 2.79
+
+[[zipcodes]]
+zipcode = 66736
+percent_zip_in_county = 99.14
+
+[[zipcodes]]
+zipcode = 66757
+percent_zip_in_county = 94.35
+
+[[zipcodes]]
+zipcode = 66776
+percent_zip_in_county = 12.11
+
+[[zipcodes]]
+zipcode = 66777
+percent_zip_in_county = 4.23
+
+[[zipcodes]]
+zipcode = 67047
+percent_zip_in_county = 29.0

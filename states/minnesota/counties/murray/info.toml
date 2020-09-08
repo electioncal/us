@@ -1,2 +1,66 @@
 name = "Murray County"
 fips_code = 27101
+
+[[zipcodes]]
+zipcode = 56114
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56115
+percent_zip_in_county = 17.2
+
+[[zipcodes]]
+zipcode = 56122
+percent_zip_in_county = 95.9
+
+[[zipcodes]]
+zipcode = 56123
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56125
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56128
+percent_zip_in_county = 3.73
+
+[[zipcodes]]
+zipcode = 56131
+percent_zip_in_county = 77.71
+
+[[zipcodes]]
+zipcode = 56132
+percent_zip_in_county = 39.26
+
+[[zipcodes]]
+zipcode = 56141
+percent_zip_in_county = 95.05
+
+[[zipcodes]]
+zipcode = 56151
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56170
+percent_zip_in_county = 12.95
+
+[[zipcodes]]
+zipcode = 56172
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56175
+percent_zip_in_county = 9.08
+
+[[zipcodes]]
+zipcode = 56180
+percent_zip_in_county = 5.68
+
+[[zipcodes]]
+zipcode = 56183
+percent_zip_in_county = 8.63
+
+[[zipcodes]]
+zipcode = 56186
+percent_zip_in_county = 20.88

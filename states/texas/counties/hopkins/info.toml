@@ -1,2 +1,50 @@
 name = "Hopkins County"
 fips_code = 48223
+
+[[zipcodes]]
+zipcode = 75420
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75431
+percent_zip_in_county = 88.45
+
+[[zipcodes]]
+zipcode = 75433
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75437
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75453
+percent_zip_in_county = 3.47
+
+[[zipcodes]]
+zipcode = 75471
+percent_zip_in_county = 96.49
+
+[[zipcodes]]
+zipcode = 75472
+percent_zip_in_county = 0.45
+
+[[zipcodes]]
+zipcode = 75478
+percent_zip_in_county = 98.5
+
+[[zipcodes]]
+zipcode = 75481
+percent_zip_in_county = 80.76
+
+[[zipcodes]]
+zipcode = 75482
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75494
+percent_zip_in_county = 8.47
+
+[[zipcodes]]
+zipcode = 75497
+percent_zip_in_county = 11.16

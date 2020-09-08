@@ -1,2 +1,66 @@
 name = "Perry County"
 fips_code = 42099
+
+[[zipcodes]]
+zipcode = 17006
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17020
+percent_zip_in_county = 99.83
+
+[[zipcodes]]
+zipcode = 17021
+percent_zip_in_county = 9.47
+
+[[zipcodes]]
+zipcode = 17024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17035
+percent_zip_in_county = 1.31
+
+[[zipcodes]]
+zipcode = 17037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17045
+percent_zip_in_county = 67.82
+
+[[zipcodes]]
+zipcode = 17047
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17053
+percent_zip_in_county = 98.38
+
+[[zipcodes]]
+zipcode = 17062
+percent_zip_in_county = 75.77
+
+[[zipcodes]]
+zipcode = 17068
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17069
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17071
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17074
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17090
+percent_zip_in_county = 100.0

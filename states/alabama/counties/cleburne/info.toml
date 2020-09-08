@@ -1,2 +1,30 @@
 name = "Cleburne County"
 fips_code = 1029
+
+[[zipcodes]]
+zipcode = 36207
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 36258
+percent_zip_in_county = 36.59
+
+[[zipcodes]]
+zipcode = 36262
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36264
+percent_zip_in_county = 95.06
+
+[[zipcodes]]
+zipcode = 36269
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36272
+percent_zip_in_county = 2.98
+
+[[zipcodes]]
+zipcode = 36273
+percent_zip_in_county = 100.0

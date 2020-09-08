@@ -1,2 +1,34 @@
 name = "Conejos County"
 fips_code = 8021
+
+[[zipcodes]]
+zipcode = 81101
+percent_zip_in_county = 0.75
+
+[[zipcodes]]
+zipcode = 81120
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81124
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81129
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81140
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81141
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81148
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81151
+percent_zip_in_county = 92.31

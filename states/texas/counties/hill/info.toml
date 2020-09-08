@@ -1,2 +1,78 @@
 name = "Hill County"
 fips_code = 48217
+
+[[zipcodes]]
+zipcode = 76050
+percent_zip_in_county = 5.4
+
+[[zipcodes]]
+zipcode = 76055
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76093
+percent_zip_in_county = 6.59
+
+[[zipcodes]]
+zipcode = 76621
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76622
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76627
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76628
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76631
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76636
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76645
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76648
+percent_zip_in_county = 88.62
+
+[[zipcodes]]
+zipcode = 76650
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76660
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76666
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76670
+percent_zip_in_county = 28.54
+
+[[zipcodes]]
+zipcode = 76673
+percent_zip_in_county = 70.35
+
+[[zipcodes]]
+zipcode = 76676
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76691
+percent_zip_in_county = 1.21
+
+[[zipcodes]]
+zipcode = 76692
+percent_zip_in_county = 100.0

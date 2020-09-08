@@ -1,2 +1,114 @@
 name = "Peoria County"
 fips_code = 17143
+
+[[zipcodes]]
+zipcode = 61451
+percent_zip_in_county = 91.35
+
+[[zipcodes]]
+zipcode = 61489
+percent_zip_in_county = 0.67
+
+[[zipcodes]]
+zipcode = 61517
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61523
+percent_zip_in_county = 99.52
+
+[[zipcodes]]
+zipcode = 61525
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61526
+percent_zip_in_county = 93.93
+
+[[zipcodes]]
+zipcode = 61528
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61529
+percent_zip_in_county = 98.82
+
+[[zipcodes]]
+zipcode = 61531
+percent_zip_in_county = 2.9
+
+[[zipcodes]]
+zipcode = 61533
+percent_zip_in_county = 90.52
+
+[[zipcodes]]
+zipcode = 61536
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61539
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61547
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61552
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61559
+percent_zip_in_county = 97.87
+
+[[zipcodes]]
+zipcode = 61562
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61565
+percent_zip_in_county = 3.19
+
+[[zipcodes]]
+zipcode = 61569
+percent_zip_in_county = 99.43
+
+[[zipcodes]]
+zipcode = 61602
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61603
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61604
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61605
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61606
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61607
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61614
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61615
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61616
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61625
+percent_zip_in_county = 100.0

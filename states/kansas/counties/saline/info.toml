@@ -1,2 +1,38 @@
 name = "Saline County"
 fips_code = 20169
+
+[[zipcodes]]
+zipcode = 67401
+percent_zip_in_county = 99.8
+
+[[zipcodes]]
+zipcode = 67416
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67425
+percent_zip_in_county = 79.25
+
+[[zipcodes]]
+zipcode = 67442
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67448
+percent_zip_in_county = 66.67
+
+[[zipcodes]]
+zipcode = 67456
+percent_zip_in_county = 13.49
+
+[[zipcodes]]
+zipcode = 67470
+percent_zip_in_county = 96.49
+
+[[zipcodes]]
+zipcode = 67480
+percent_zip_in_county = 7.87
+
+[[zipcodes]]
+zipcode = 67484
+percent_zip_in_county = 12.68

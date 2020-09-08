@@ -1,2 +1,38 @@
 name = "Robertson County"
 fips_code = 48395
+
+[[zipcodes]]
+zipcode = 76629
+percent_zip_in_county = 90.5
+
+[[zipcodes]]
+zipcode = 76653
+percent_zip_in_county = 1.66
+
+[[zipcodes]]
+zipcode = 76687
+percent_zip_in_county = 18.35
+
+[[zipcodes]]
+zipcode = 77807
+percent_zip_in_county = 6.5
+
+[[zipcodes]]
+zipcode = 77808
+percent_zip_in_county = 5.52
+
+[[zipcodes]]
+zipcode = 77837
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77856
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77859
+percent_zip_in_county = 93.54
+
+[[zipcodes]]
+zipcode = 77867
+percent_zip_in_county = 100.0

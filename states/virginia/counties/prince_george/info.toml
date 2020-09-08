@@ -1,2 +1,30 @@
 name = "Prince George County"
 fips_code = 51149
+
+[[zipcodes]]
+zipcode = 23801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23805
+percent_zip_in_county = 22.78
+
+[[zipcodes]]
+zipcode = 23830
+percent_zip_in_county = 44.0
+
+[[zipcodes]]
+zipcode = 23842
+percent_zip_in_county = 93.64
+
+[[zipcodes]]
+zipcode = 23860
+percent_zip_in_county = 29.34
+
+[[zipcodes]]
+zipcode = 23875
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23881
+percent_zip_in_county = 23.53

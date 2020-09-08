@@ -1,2 +1,18 @@
 name = "Falls Church city"
 fips_code = 51610
+
+[[zipcodes]]
+zipcode = 22042
+percent_zip_in_county = 0.84
+
+[[zipcodes]]
+zipcode = 22044
+percent_zip_in_county = 10.64
+
+[[zipcodes]]
+zipcode = 22046
+percent_zip_in_county = 64.88
+
+[[zipcodes]]
+zipcode = 22205
+percent_zip_in_county = 0.1

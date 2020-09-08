@@ -1,2 +1,38 @@
 name = "Simpson County"
 fips_code = 28127
+
+[[zipcodes]]
+zipcode = 39044
+percent_zip_in_county = 68.03
+
+[[zipcodes]]
+zipcode = 39062
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39073
+percent_zip_in_county = 6.57
+
+[[zipcodes]]
+zipcode = 39082
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39111
+percent_zip_in_county = 94.45
+
+[[zipcodes]]
+zipcode = 39114
+percent_zip_in_county = 92.25
+
+[[zipcodes]]
+zipcode = 39119
+percent_zip_in_county = 12.75
+
+[[zipcodes]]
+zipcode = 39140
+percent_zip_in_county = 15.24
+
+[[zipcodes]]
+zipcode = 39149
+percent_zip_in_county = 100.0

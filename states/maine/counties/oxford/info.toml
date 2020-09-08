@@ -1,2 +1,142 @@
 name = "Oxford County"
 fips_code = 23017
+
+[[zipcodes]]
+zipcode = 3579
+percent_zip_in_county = 22.34
+
+[[zipcodes]]
+zipcode = 4010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4040
+percent_zip_in_county = 12.15
+
+[[zipcodes]]
+zipcode = 4041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4068
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4088
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4216
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4217
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4219
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4220
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4221
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4224
+percent_zip_in_county = 81.28
+
+[[zipcodes]]
+zipcode = 4226
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4227
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4231
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4237
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4238
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4255
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4257
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4261
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4267
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4268
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4270
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4271
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4275
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4276
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4281
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4286
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4289
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4290
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4292
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 4964
+percent_zip_in_county = 0.45

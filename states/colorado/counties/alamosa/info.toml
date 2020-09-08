@@ -1,2 +1,22 @@
 name = "Alamosa County"
 fips_code = 8003
+
+[[zipcodes]]
+zipcode = 81101
+percent_zip_in_county = 99.25
+
+[[zipcodes]]
+zipcode = 81125
+percent_zip_in_county = 1.33
+
+[[zipcodes]]
+zipcode = 81136
+percent_zip_in_county = 85.06
+
+[[zipcodes]]
+zipcode = 81144
+percent_zip_in_county = 1.1
+
+[[zipcodes]]
+zipcode = 81146
+percent_zip_in_county = 100.0

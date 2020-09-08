@@ -1,2 +1,50 @@
 name = "Ray County"
 fips_code = 29177
+
+[[zipcodes]]
+zipcode = 64017
+percent_zip_in_county = 96.77
+
+[[zipcodes]]
+zipcode = 64024
+percent_zip_in_county = 21.9
+
+[[zipcodes]]
+zipcode = 64035
+percent_zip_in_county = 99.07
+
+[[zipcodes]]
+zipcode = 64036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64062
+percent_zip_in_county = 81.18
+
+[[zipcodes]]
+zipcode = 64077
+percent_zip_in_county = 99.18
+
+[[zipcodes]]
+zipcode = 64084
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64085
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64624
+percent_zip_in_county = 7.4
+
+[[zipcodes]]
+zipcode = 64637
+percent_zip_in_county = 19.49
+
+[[zipcodes]]
+zipcode = 64668
+percent_zip_in_county = 14.97
+
+[[zipcodes]]
+zipcode = 64671
+percent_zip_in_county = 20.47

@@ -1,2 +1,46 @@
 name = "Newton County"
 fips_code = 28101
+
+[[zipcodes]]
+zipcode = 39057
+percent_zip_in_county = 92.75
+
+[[zipcodes]]
+zipcode = 39092
+percent_zip_in_county = 19.22
+
+[[zipcodes]]
+zipcode = 39323
+percent_zip_in_county = 79.61
+
+[[zipcodes]]
+zipcode = 39325
+percent_zip_in_county = 2.62
+
+[[zipcodes]]
+zipcode = 39327
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39330
+percent_zip_in_county = 1.31
+
+[[zipcodes]]
+zipcode = 39332
+percent_zip_in_county = 94.18
+
+[[zipcodes]]
+zipcode = 39336
+percent_zip_in_county = 96.84
+
+[[zipcodes]]
+zipcode = 39337
+percent_zip_in_county = 94.3
+
+[[zipcodes]]
+zipcode = 39345
+percent_zip_in_county = 97.32
+
+[[zipcodes]]
+zipcode = 39365
+percent_zip_in_county = 39.04

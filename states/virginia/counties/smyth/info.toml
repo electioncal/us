@@ -1,2 +1,34 @@
 name = "Smyth County"
 fips_code = 51173
+
+[[zipcodes]]
+zipcode = 24311
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24318
+percent_zip_in_county = 40.38
+
+[[zipcodes]]
+zipcode = 24319
+percent_zip_in_county = 90.41
+
+[[zipcodes]]
+zipcode = 24354
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24368
+percent_zip_in_county = 16.96
+
+[[zipcodes]]
+zipcode = 24370
+percent_zip_in_county = 86.17
+
+[[zipcodes]]
+zipcode = 24375
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24378
+percent_zip_in_county = 19.04

@@ -1,2 +1,58 @@
 name = "Lafourche Parish"
 fips_code = 22057
+
+[[zipcodes]]
+zipcode = 70030
+percent_zip_in_county = 10.01
+
+[[zipcodes]]
+zipcode = 70301
+percent_zip_in_county = 90.93
+
+[[zipcodes]]
+zipcode = 70343
+percent_zip_in_county = 8.39
+
+[[zipcodes]]
+zipcode = 70345
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70354
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70355
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70357
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70359
+percent_zip_in_county = 31.55
+
+[[zipcodes]]
+zipcode = 70364
+percent_zip_in_county = 18.4
+
+[[zipcodes]]
+zipcode = 70373
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70374
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70375
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70377
+percent_zip_in_county = 11.54
+
+[[zipcodes]]
+zipcode = 70394
+percent_zip_in_county = 100.0

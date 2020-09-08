@@ -1,2 +1,30 @@
 name = "Alleghany County"
 fips_code = 51005
+
+[[zipcodes]]
+zipcode = 24085
+percent_zip_in_county = 0.5
+
+[[zipcodes]]
+zipcode = 24422
+percent_zip_in_county = 96.53
+
+[[zipcodes]]
+zipcode = 24426
+percent_zip_in_county = 58.4
+
+[[zipcodes]]
+zipcode = 24445
+percent_zip_in_county = 21.89
+
+[[zipcodes]]
+zipcode = 24448
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24457
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24474
+percent_zip_in_county = 100.0

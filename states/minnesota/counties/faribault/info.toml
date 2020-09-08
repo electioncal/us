@@ -1,2 +1,46 @@
 name = "Faribault County"
 fips_code = 27043
+
+[[zipcodes]]
+zipcode = 56013
+percent_zip_in_county = 98.08
+
+[[zipcodes]]
+zipcode = 56014
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56027
+percent_zip_in_county = 88.54
+
+[[zipcodes]]
+zipcode = 56033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56047
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56068
+percent_zip_in_county = 72.59
+
+[[zipcodes]]
+zipcode = 56097
+percent_zip_in_county = 93.65
+
+[[zipcodes]]
+zipcode = 56098
+percent_zip_in_county = 95.53

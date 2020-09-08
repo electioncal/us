@@ -1,2 +1,66 @@
 name = "Jefferson County"
 fips_code = 17081
+
+[[zipcodes]]
+zipcode = 62801
+percent_zip_in_county = 1.88
+
+[[zipcodes]]
+zipcode = 62808
+percent_zip_in_county = 19.56
+
+[[zipcodes]]
+zipcode = 62810
+percent_zip_in_county = 96.24
+
+[[zipcodes]]
+zipcode = 62814
+percent_zip_in_county = 86.82
+
+[[zipcodes]]
+zipcode = 62816
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62830
+percent_zip_in_county = 98.06
+
+[[zipcodes]]
+zipcode = 62846
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62851
+percent_zip_in_county = 4.26
+
+[[zipcodes]]
+zipcode = 62864
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62872
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62877
+percent_zip_in_county = 3.89
+
+[[zipcodes]]
+zipcode = 62883
+percent_zip_in_county = 70.05
+
+[[zipcodes]]
+zipcode = 62889
+percent_zip_in_county = 81.32
+
+[[zipcodes]]
+zipcode = 62893
+percent_zip_in_county = 40.63
+
+[[zipcodes]]
+zipcode = 62894
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62898
+percent_zip_in_county = 100.0

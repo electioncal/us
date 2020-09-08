@@ -1,2 +1,30 @@
 name = "Jackson Parish"
 fips_code = 22049
+
+[[zipcodes]]
+zipcode = 71226
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71227
+percent_zip_in_county = 15.1
+
+[[zipcodes]]
+zipcode = 71238
+percent_zip_in_county = 28.32
+
+[[zipcodes]]
+zipcode = 71247
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71251
+percent_zip_in_county = 97.13
+
+[[zipcodes]]
+zipcode = 71268
+percent_zip_in_county = 88.26
+
+[[zipcodes]]
+zipcode = 71270
+percent_zip_in_county = 2.71

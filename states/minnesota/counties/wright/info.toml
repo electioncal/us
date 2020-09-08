@@ -1,2 +1,78 @@
 name = "Wright County"
 fips_code = 27171
+
+[[zipcodes]]
+zipcode = 55301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55302
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55313
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55320
+percent_zip_in_county = 61.33
+
+[[zipcodes]]
+zipcode = 55321
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55327
+percent_zip_in_county = 1.78
+
+[[zipcodes]]
+zipcode = 55328
+percent_zip_in_county = 96.19
+
+[[zipcodes]]
+zipcode = 55330
+percent_zip_in_county = 22.5
+
+[[zipcodes]]
+zipcode = 55341
+percent_zip_in_county = 79.75
+
+[[zipcodes]]
+zipcode = 55349
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55358
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55362
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55363
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55373
+percent_zip_in_county = 73.27
+
+[[zipcodes]]
+zipcode = 55374
+percent_zip_in_county = 5.38
+
+[[zipcodes]]
+zipcode = 55376
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55382
+percent_zip_in_county = 38.87
+
+[[zipcodes]]
+zipcode = 55388
+percent_zip_in_county = 4.89
+
+[[zipcodes]]
+zipcode = 55390
+percent_zip_in_county = 100.0

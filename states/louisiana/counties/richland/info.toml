@@ -1,2 +1,30 @@
 name = "Richland Parish"
 fips_code = 22083
+
+[[zipcodes]]
+zipcode = 71232
+percent_zip_in_county = 77.6
+
+[[zipcodes]]
+zipcode = 71237
+percent_zip_in_county = 6.78
+
+[[zipcodes]]
+zipcode = 71259
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71264
+percent_zip_in_county = 51.39
+
+[[zipcodes]]
+zipcode = 71269
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71279
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71418
+percent_zip_in_county = 7.55

@@ -1,2 +1,62 @@
 name = "Durham County"
 fips_code = 37063
+
+[[zipcodes]]
+zipcode = 27278
+percent_zip_in_county = 5.79
+
+[[zipcodes]]
+zipcode = 27503
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27517
+percent_zip_in_county = 24.17
+
+[[zipcodes]]
+zipcode = 27560
+percent_zip_in_county = 11.86
+
+[[zipcodes]]
+zipcode = 27572
+percent_zip_in_county = 29.27
+
+[[zipcodes]]
+zipcode = 27613
+percent_zip_in_county = 2.11
+
+[[zipcodes]]
+zipcode = 27617
+percent_zip_in_county = 0.75
+
+[[zipcodes]]
+zipcode = 27701
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27703
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27704
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27705
+percent_zip_in_county = 90.43
+
+[[zipcodes]]
+zipcode = 27707
+percent_zip_in_county = 99.54
+
+[[zipcodes]]
+zipcode = 27709
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27712
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27713
+percent_zip_in_county = 98.5

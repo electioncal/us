@@ -1,2 +1,42 @@
 name = "Chase County"
 fips_code = 20017
+
+[[zipcodes]]
+zipcode = 66801
+percent_zip_in_county = 0.57
+
+[[zipcodes]]
+zipcode = 66838
+percent_zip_in_county = 5.49
+
+[[zipcodes]]
+zipcode = 66840
+percent_zip_in_county = 6.82
+
+[[zipcodes]]
+zipcode = 66843
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66845
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66846
+percent_zip_in_county = 0.54
+
+[[zipcodes]]
+zipcode = 66850
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66862
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66865
+percent_zip_in_county = 1.42
+
+[[zipcodes]]
+zipcode = 66869
+percent_zip_in_county = 100.0

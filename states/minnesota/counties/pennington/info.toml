@@ -1,2 +1,30 @@
 name = "Pennington County"
 fips_code = 27113
+
+[[zipcodes]]
+zipcode = 56684
+percent_zip_in_county = 18.79
+
+[[zipcodes]]
+zipcode = 56701
+percent_zip_in_county = 96.19
+
+[[zipcodes]]
+zipcode = 56725
+percent_zip_in_county = 82.52
+
+[[zipcodes]]
+zipcode = 56742
+percent_zip_in_county = 19.72
+
+[[zipcodes]]
+zipcode = 56748
+percent_zip_in_county = 5.67
+
+[[zipcodes]]
+zipcode = 56750
+percent_zip_in_county = 4.02
+
+[[zipcodes]]
+zipcode = 56754
+percent_zip_in_county = 100.0

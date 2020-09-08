@@ -1,2 +1,22 @@
 name = "Russell County"
 fips_code = 21207
+
+[[zipcodes]]
+zipcode = 42528
+percent_zip_in_county = 17.32
+
+[[zipcodes]]
+zipcode = 42544
+percent_zip_in_county = 8.95
+
+[[zipcodes]]
+zipcode = 42602
+percent_zip_in_county = 0.16
+
+[[zipcodes]]
+zipcode = 42629
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42642
+percent_zip_in_county = 93.92

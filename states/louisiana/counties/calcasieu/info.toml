@@ -1,2 +1,62 @@
 name = "Calcasieu Parish"
 fips_code = 22019
+
+[[zipcodes]]
+zipcode = 70601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70605
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70607
+percent_zip_in_county = 87.71
+
+[[zipcodes]]
+zipcode = 70611
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70615
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70630
+percent_zip_in_county = 64.72
+
+[[zipcodes]]
+zipcode = 70633
+percent_zip_in_county = 86.47
+
+[[zipcodes]]
+zipcode = 70646
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70647
+percent_zip_in_county = 66.51
+
+[[zipcodes]]
+zipcode = 70657
+percent_zip_in_county = 3.99
+
+[[zipcodes]]
+zipcode = 70661
+percent_zip_in_county = 85.28
+
+[[zipcodes]]
+zipcode = 70663
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70665
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70668
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70669
+percent_zip_in_county = 100.0

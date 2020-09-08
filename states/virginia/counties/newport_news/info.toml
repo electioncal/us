@@ -1,2 +1,34 @@
 name = "Newport News city"
 fips_code = 51700
+
+[[zipcodes]]
+zipcode = 23601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23602
+percent_zip_in_county = 99.76
+
+[[zipcodes]]
+zipcode = 23603
+percent_zip_in_county = 85.64
+
+[[zipcodes]]
+zipcode = 23604
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23605
+percent_zip_in_county = 73.86
+
+[[zipcodes]]
+zipcode = 23606
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23607
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23608
+percent_zip_in_county = 100.0

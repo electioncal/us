@@ -1,2 +1,42 @@
 name = "Pope County"
 fips_code = 17151
+
+[[zipcodes]]
+zipcode = 62910
+percent_zip_in_county = 9.95
+
+[[zipcodes]]
+zipcode = 62928
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62938
+percent_zip_in_county = 94.59
+
+[[zipcodes]]
+zipcode = 62943
+percent_zip_in_county = 8.67
+
+[[zipcodes]]
+zipcode = 62946
+percent_zip_in_county = 0.53
+
+[[zipcodes]]
+zipcode = 62947
+percent_zip_in_county = 31.91
+
+[[zipcodes]]
+zipcode = 62960
+percent_zip_in_county = 0.09
+
+[[zipcodes]]
+zipcode = 62972
+percent_zip_in_county = 6.89
+
+[[zipcodes]]
+zipcode = 62985
+percent_zip_in_county = 48.28
+
+[[zipcodes]]
+zipcode = 62987
+percent_zip_in_county = 18.65

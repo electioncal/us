@@ -1,2 +1,6 @@
 name = "Loving County"
 fips_code = 48301
+
+[[zipcodes]]
+zipcode = 79754
+percent_zip_in_county = 100.0

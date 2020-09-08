@@ -1,2 +1,54 @@
 name = "Rockbridge County"
 fips_code = 51163
+
+[[zipcodes]]
+zipcode = 24066
+percent_zip_in_county = 1.62
+
+[[zipcodes]]
+zipcode = 24415
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24416
+percent_zip_in_county = 24.49
+
+[[zipcodes]]
+zipcode = 24435
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24439
+percent_zip_in_county = 82.04
+
+[[zipcodes]]
+zipcode = 24450
+percent_zip_in_county = 57.94
+
+[[zipcodes]]
+zipcode = 24459
+percent_zip_in_county = 7.95
+
+[[zipcodes]]
+zipcode = 24472
+percent_zip_in_county = 59.4
+
+[[zipcodes]]
+zipcode = 24473
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24483
+percent_zip_in_county = 77.85
+
+[[zipcodes]]
+zipcode = 24555
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24578
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24579
+percent_zip_in_county = 100.0

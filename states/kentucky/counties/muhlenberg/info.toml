@@ -1,2 +1,66 @@
 name = "Muhlenberg County"
 fips_code = 21177
+
+[[zipcodes]]
+zipcode = 42256
+percent_zip_in_county = 0.95
+
+[[zipcodes]]
+zipcode = 42321
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42323
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42324
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42325
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42326
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42330
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42332
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42337
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42339
+percent_zip_in_county = 92.88
+
+[[zipcodes]]
+zipcode = 42344
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42345
+percent_zip_in_county = 99.94
+
+[[zipcodes]]
+zipcode = 42367
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42372
+percent_zip_in_county = 26.32
+
+[[zipcodes]]
+zipcode = 42374
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42464
+percent_zip_in_county = 6.28

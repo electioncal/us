@@ -1,2 +1,58 @@
 name = "Koochiching County"
 fips_code = 27071
+
+[[zipcodes]]
+zipcode = 55771
+percent_zip_in_county = 4.4
+
+[[zipcodes]]
+zipcode = 55772
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56623
+percent_zip_in_county = 3.86
+
+[[zipcodes]]
+zipcode = 56627
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56629
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56639
+percent_zip_in_county = 3.05
+
+[[zipcodes]]
+zipcode = 56649
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56653
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56654
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56658
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56660
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56661
+percent_zip_in_county = 52.65
+
+[[zipcodes]]
+zipcode = 56668
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56669
+percent_zip_in_county = 62.93

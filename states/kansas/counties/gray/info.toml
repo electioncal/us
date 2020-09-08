@@ -1,2 +1,30 @@
 name = "Gray County"
 fips_code = 20069
+
+[[zipcodes]]
+zipcode = 67835
+percent_zip_in_county = 95.13
+
+[[zipcodes]]
+zipcode = 67837
+percent_zip_in_county = 56.7
+
+[[zipcodes]]
+zipcode = 67841
+percent_zip_in_county = 84.96
+
+[[zipcodes]]
+zipcode = 67844
+percent_zip_in_county = 2.46
+
+[[zipcodes]]
+zipcode = 67846
+percent_zip_in_county = 0.06
+
+[[zipcodes]]
+zipcode = 67853
+percent_zip_in_county = 95.35
+
+[[zipcodes]]
+zipcode = 67867
+percent_zip_in_county = 97.21

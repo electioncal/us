@@ -1,2 +1,46 @@
 name = "Wapello County"
 fips_code = 19179
+
+[[zipcodes]]
+zipcode = 52501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52530
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52533
+percent_zip_in_county = 15.8
+
+[[zipcodes]]
+zipcode = 52536
+percent_zip_in_county = 88.0
+
+[[zipcodes]]
+zipcode = 52537
+percent_zip_in_county = 4.99
+
+[[zipcodes]]
+zipcode = 52548
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52552
+percent_zip_in_county = 3.49
+
+[[zipcodes]]
+zipcode = 52553
+percent_zip_in_county = 63.15
+
+[[zipcodes]]
+zipcode = 52554
+percent_zip_in_county = 96.21
+
+[[zipcodes]]
+zipcode = 52563
+percent_zip_in_county = 18.07
+
+[[zipcodes]]
+zipcode = 52566
+percent_zip_in_county = 100.0

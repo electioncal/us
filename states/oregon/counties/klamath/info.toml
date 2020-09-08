@@ -1,2 +1,74 @@
 name = "Klamath County"
 fips_code = 41035
+
+[[zipcodes]]
+zipcode = 97601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97603
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97604
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97621
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97622
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97623
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97624
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97625
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97626
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97627
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97632
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97633
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97634
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97639
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97731
+percent_zip_in_county = 79.86
+
+[[zipcodes]]
+zipcode = 97733
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97737
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97739
+percent_zip_in_county = 13.7

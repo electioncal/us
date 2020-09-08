@@ -1,2 +1,62 @@
 name = "Snyder County"
 fips_code = 42109
+
+[[zipcodes]]
+zipcode = 17045
+percent_zip_in_county = 8.27
+
+[[zipcodes]]
+zipcode = 17063
+percent_zip_in_county = 0.51
+
+[[zipcodes]]
+zipcode = 17086
+percent_zip_in_county = 36.01
+
+[[zipcodes]]
+zipcode = 17812
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17813
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17827
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17841
+percent_zip_in_county = 45.41
+
+[[zipcodes]]
+zipcode = 17842
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17853
+percent_zip_in_county = 86.53
+
+[[zipcodes]]
+zipcode = 17861
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17862
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17864
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17870
+percent_zip_in_county = 99.01
+
+[[zipcodes]]
+zipcode = 17876
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17889
+percent_zip_in_county = 45.41

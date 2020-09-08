@@ -1,2 +1,10 @@
 name = "Aguas Buenas Municipio"
 fips_code = 72007
+
+[[zipcodes]]
+zipcode = 703
+percent_zip_in_county = 95.47
+
+[[zipcodes]]
+zipcode = 725
+percent_zip_in_county = 1.51

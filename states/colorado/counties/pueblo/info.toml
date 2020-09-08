@@ -1,2 +1,54 @@
 name = "Pueblo County"
 fips_code = 8101
+
+[[zipcodes]]
+zipcode = 81001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81004
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81005
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81006
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81008
+percent_zip_in_county = 99.28
+
+[[zipcodes]]
+zipcode = 81019
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81039
+percent_zip_in_county = 10.13
+
+[[zipcodes]]
+zipcode = 81069
+percent_zip_in_county = 83.26

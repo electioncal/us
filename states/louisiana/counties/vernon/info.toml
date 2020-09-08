@@ -1,2 +1,50 @@
 name = "Vernon Parish"
 fips_code = 22115
+
+[[zipcodes]]
+zipcode = 70634
+percent_zip_in_county = 11.38
+
+[[zipcodes]]
+zipcode = 70639
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70656
+percent_zip_in_county = 69.5
+
+[[zipcodes]]
+zipcode = 70659
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71403
+percent_zip_in_county = 99.06
+
+[[zipcodes]]
+zipcode = 71438
+percent_zip_in_county = 32.6
+
+[[zipcodes]]
+zipcode = 71439
+percent_zip_in_county = 79.92
+
+[[zipcodes]]
+zipcode = 71446
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71447
+percent_zip_in_county = 1.43
+
+[[zipcodes]]
+zipcode = 71459
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71461
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71474
+percent_zip_in_county = 100.0

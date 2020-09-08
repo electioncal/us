@@ -1,2 +1,6 @@
 name = "Colonial Heights city"
 fips_code = 51570
+
+[[zipcodes]]
+zipcode = 23834
+percent_zip_in_county = 67.98

@@ -1,2 +1,54 @@
 name = "Clay County"
 fips_code = 27027
+
+[[zipcodes]]
+zipcode = 56514
+percent_zip_in_county = 91.67
+
+[[zipcodes]]
+zipcode = 56519
+percent_zip_in_county = 30.33
+
+[[zipcodes]]
+zipcode = 56525
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56529
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56536
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56546
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56547
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56549
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56552
+percent_zip_in_county = 89.28
+
+[[zipcodes]]
+zipcode = 56554
+percent_zip_in_county = 3.77
+
+[[zipcodes]]
+zipcode = 56560
+percent_zip_in_county = 99.94
+
+[[zipcodes]]
+zipcode = 56580
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56585
+percent_zip_in_county = 90.85

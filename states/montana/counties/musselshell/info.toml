@@ -1,2 +1,22 @@
 name = "Musselshell County"
 fips_code = 30065
+
+[[zipcodes]]
+zipcode = 59015
+percent_zip_in_county = 8.33
+
+[[zipcodes]]
+zipcode = 59046
+percent_zip_in_county = 2.31
+
+[[zipcodes]]
+zipcode = 59054
+percent_zip_in_county = 75.24
+
+[[zipcodes]]
+zipcode = 59059
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59072
+percent_zip_in_county = 98.99

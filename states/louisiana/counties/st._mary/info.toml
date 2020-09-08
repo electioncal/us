@@ -1,2 +1,34 @@
 name = "St. Mary Parish"
 fips_code = 22101
+
+[[zipcodes]]
+zipcode = 70340
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70342
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70380
+percent_zip_in_county = 86.51
+
+[[zipcodes]]
+zipcode = 70392
+percent_zip_in_county = 99.96
+
+[[zipcodes]]
+zipcode = 70514
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70523
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70538
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70544
+percent_zip_in_county = 25.38

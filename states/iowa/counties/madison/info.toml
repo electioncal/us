@@ -1,2 +1,62 @@
 name = "Madison County"
 fips_code = 19121
+
+[[zipcodes]]
+zipcode = 50033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50061
+percent_zip_in_county = 24.4
+
+[[zipcodes]]
+zipcode = 50070
+percent_zip_in_county = 12.56
+
+[[zipcodes]]
+zipcode = 50072
+percent_zip_in_county = 76.56
+
+[[zipcodes]]
+zipcode = 50149
+percent_zip_in_county = 33.82
+
+[[zipcodes]]
+zipcode = 50155
+percent_zip_in_county = 95.29
+
+[[zipcodes]]
+zipcode = 50210
+percent_zip_in_county = 2.13
+
+[[zipcodes]]
+zipcode = 50211
+percent_zip_in_county = 0.38
+
+[[zipcodes]]
+zipcode = 50218
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50222
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50229
+percent_zip_in_county = 28.0
+
+[[zipcodes]]
+zipcode = 50240
+percent_zip_in_county = 62.58
+
+[[zipcodes]]
+zipcode = 50257
+percent_zip_in_county = 91.23
+
+[[zipcodes]]
+zipcode = 50261
+percent_zip_in_county = 33.97
+
+[[zipcodes]]
+zipcode = 50273
+percent_zip_in_county = 100.0

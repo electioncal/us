@@ -1,2 +1,50 @@
 name = "Sweetwater County"
 fips_code = 56037
+
+[[zipcodes]]
+zipcode = 82301
+percent_zip_in_county = 0.18
+
+[[zipcodes]]
+zipcode = 82322
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82336
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82901
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82929
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82932
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82934
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82935
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82938
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82942
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82943
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82945
+percent_zip_in_county = 100.0

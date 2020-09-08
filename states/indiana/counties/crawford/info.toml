@@ -1,2 +1,34 @@
 name = "Crawford County"
 fips_code = 18025
+
+[[zipcodes]]
+zipcode = 47116
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47118
+percent_zip_in_county = 83.64
+
+[[zipcodes]]
+zipcode = 47123
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47137
+percent_zip_in_county = 99.65
+
+[[zipcodes]]
+zipcode = 47140
+percent_zip_in_county = 81.3
+
+[[zipcodes]]
+zipcode = 47145
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47175
+percent_zip_in_county = 95.71
+
+[[zipcodes]]
+zipcode = 47513
+percent_zip_in_county = 18.25

@@ -1,2 +1,50 @@
 name = "Patrick County"
 fips_code = 51141
+
+[[zipcodes]]
+zipcode = 24053
+percent_zip_in_county = 96.8
+
+[[zipcodes]]
+zipcode = 24055
+percent_zip_in_county = 4.21
+
+[[zipcodes]]
+zipcode = 24076
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24082
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24088
+percent_zip_in_county = 3.14
+
+[[zipcodes]]
+zipcode = 24091
+percent_zip_in_county = 0.57
+
+[[zipcodes]]
+zipcode = 24120
+percent_zip_in_county = 72.42
+
+[[zipcodes]]
+zipcode = 24133
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24165
+percent_zip_in_county = 35.15
+
+[[zipcodes]]
+zipcode = 24171
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24185
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24343
+percent_zip_in_county = 0.44

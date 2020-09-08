@@ -1,2 +1,14 @@
 name = "Corozal Municipio"
 fips_code = 72047
+
+[[zipcodes]]
+zipcode = 719
+percent_zip_in_county = 1.42
+
+[[zipcodes]]
+zipcode = 783
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 953
+percent_zip_in_county = 0.2

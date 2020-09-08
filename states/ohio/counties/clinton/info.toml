@@ -1,2 +1,54 @@
 name = "Clinton County"
 fips_code = 39027
+
+[[zipcodes]]
+zipcode = 45068
+percent_zip_in_county = 0.38
+
+[[zipcodes]]
+zipcode = 45107
+percent_zip_in_county = 69.66
+
+[[zipcodes]]
+zipcode = 45113
+percent_zip_in_county = 68.65
+
+[[zipcodes]]
+zipcode = 45135
+percent_zip_in_county = 2.04
+
+[[zipcodes]]
+zipcode = 45142
+percent_zip_in_county = 10.1
+
+[[zipcodes]]
+zipcode = 45146
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45148
+percent_zip_in_county = 94.77
+
+[[zipcodes]]
+zipcode = 45159
+percent_zip_in_county = 62.65
+
+[[zipcodes]]
+zipcode = 45164
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45166
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45169
+percent_zip_in_county = 92.37
+
+[[zipcodes]]
+zipcode = 45177
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45335
+percent_zip_in_county = 1.8

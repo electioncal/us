@@ -1,2 +1,38 @@
 name = "Jones County"
 fips_code = 37103
+
+[[zipcodes]]
+zipcode = 28501
+percent_zip_in_county = 3.16
+
+[[zipcodes]]
+zipcode = 28504
+percent_zip_in_county = 0.21
+
+[[zipcodes]]
+zipcode = 28526
+percent_zip_in_county = 20.13
+
+[[zipcodes]]
+zipcode = 28555
+percent_zip_in_county = 39.38
+
+[[zipcodes]]
+zipcode = 28562
+percent_zip_in_county = 1.06
+
+[[zipcodes]]
+zipcode = 28572
+percent_zip_in_county = 5.83
+
+[[zipcodes]]
+zipcode = 28573
+percent_zip_in_county = 92.42
+
+[[zipcodes]]
+zipcode = 28574
+percent_zip_in_county = 1.36
+
+[[zipcodes]]
+zipcode = 28585
+percent_zip_in_county = 100.0

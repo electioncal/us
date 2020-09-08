@@ -1,2 +1,46 @@
 name = "Louisa County"
 fips_code = 51109
+
+[[zipcodes]]
+zipcode = 22942
+percent_zip_in_county = 48.14
+
+[[zipcodes]]
+zipcode = 22947
+percent_zip_in_county = 4.5
+
+[[zipcodes]]
+zipcode = 22974
+percent_zip_in_county = 18.03
+
+[[zipcodes]]
+zipcode = 23015
+percent_zip_in_county = 1.2
+
+[[zipcodes]]
+zipcode = 23024
+percent_zip_in_county = 84.85
+
+[[zipcodes]]
+zipcode = 23065
+percent_zip_in_county = 41.44
+
+[[zipcodes]]
+zipcode = 23084
+percent_zip_in_county = 11.45
+
+[[zipcodes]]
+zipcode = 23093
+percent_zip_in_county = 93.89
+
+[[zipcodes]]
+zipcode = 23102
+percent_zip_in_county = 9.18
+
+[[zipcodes]]
+zipcode = 23117
+percent_zip_in_county = 83.67
+
+[[zipcodes]]
+zipcode = 23192
+percent_zip_in_county = 4.8

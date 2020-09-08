@@ -1,2 +1,54 @@
 name = "Thurston County"
 fips_code = 53067
+
+[[zipcodes]]
+zipcode = 98501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98502
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98503
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98506
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98512
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98513
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98516
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98530
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98531
+percent_zip_in_county = 8.21
+
+[[zipcodes]]
+zipcode = 98576
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98579
+percent_zip_in_county = 96.89
+
+[[zipcodes]]
+zipcode = 98589
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98597
+percent_zip_in_county = 100.0

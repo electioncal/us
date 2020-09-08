@@ -1,2 +1,62 @@
 name = "Elk County"
 fips_code = 42047
+
+[[zipcodes]]
+zipcode = 15821
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15823
+percent_zip_in_county = 81.34
+
+[[zipcodes]]
+zipcode = 15827
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15832
+percent_zip_in_county = 4.88
+
+[[zipcodes]]
+zipcode = 15841
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15845
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15846
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15853
+percent_zip_in_county = 99.76
+
+[[zipcodes]]
+zipcode = 15857
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15860
+percent_zip_in_county = 9.2
+
+[[zipcodes]]
+zipcode = 15868
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15870
+percent_zip_in_county = 98.72
+
+[[zipcodes]]
+zipcode = 16728
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16734
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16735
+percent_zip_in_county = 4.85

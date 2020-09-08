@@ -1,2 +1,30 @@
 name = "Howard County"
 fips_code = 5061
+
+[[zipcodes]]
+zipcode = 71833
+percent_zip_in_county = 99.47
+
+[[zipcodes]]
+zipcode = 71851
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71852
+percent_zip_in_county = 82.56
+
+[[zipcodes]]
+zipcode = 71859
+percent_zip_in_county = 41.3
+
+[[zipcodes]]
+zipcode = 71959
+percent_zip_in_county = 35.68
+
+[[zipcodes]]
+zipcode = 71971
+percent_zip_in_county = 81.09
+
+[[zipcodes]]
+zipcode = 71973
+percent_zip_in_county = 4.07

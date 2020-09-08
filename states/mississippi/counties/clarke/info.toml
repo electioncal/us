@@ -1,2 +1,38 @@
 name = "Clarke County"
 fips_code = 28023
+
+[[zipcodes]]
+zipcode = 39301
+percent_zip_in_county = 5.9
+
+[[zipcodes]]
+zipcode = 39330
+percent_zip_in_county = 81.54
+
+[[zipcodes]]
+zipcode = 39347
+percent_zip_in_county = 40.35
+
+[[zipcodes]]
+zipcode = 39355
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39360
+percent_zip_in_county = 62.66
+
+[[zipcodes]]
+zipcode = 39363
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39366
+percent_zip_in_county = 41.01
+
+[[zipcodes]]
+zipcode = 39367
+percent_zip_in_county = 1.66
+
+[[zipcodes]]
+zipcode = 39439
+percent_zip_in_county = 3.24

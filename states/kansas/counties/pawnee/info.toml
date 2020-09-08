@@ -1,2 +1,38 @@
 name = "Pawnee County"
 fips_code = 20145
+
+[[zipcodes]]
+zipcode = 67519
+percent_zip_in_county = 5.18
+
+[[zipcodes]]
+zipcode = 67523
+percent_zip_in_county = 90.35
+
+[[zipcodes]]
+zipcode = 67529
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67550
+percent_zip_in_county = 99.31
+
+[[zipcodes]]
+zipcode = 67557
+percent_zip_in_county = 4.7
+
+[[zipcodes]]
+zipcode = 67559
+percent_zip_in_county = 15.38
+
+[[zipcodes]]
+zipcode = 67567
+percent_zip_in_county = 16.92
+
+[[zipcodes]]
+zipcode = 67574
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67575
+percent_zip_in_county = 3.01

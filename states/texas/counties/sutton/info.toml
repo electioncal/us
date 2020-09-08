@@ -1,2 +1,6 @@
 name = "Sutton County"
 fips_code = 48435
+
+[[zipcodes]]
+zipcode = 76950
+percent_zip_in_county = 98.76

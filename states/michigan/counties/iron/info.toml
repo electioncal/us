@@ -1,2 +1,38 @@
 name = "Iron County"
 fips_code = 26071
+
+[[zipcodes]]
+zipcode = 49879
+percent_zip_in_county = 1.25
+
+[[zipcodes]]
+zipcode = 49902
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49903
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49915
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49920
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49927
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49935
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49967
+percent_zip_in_county = 6.91
+
+[[zipcodes]]
+zipcode = 54554
+percent_zip_in_county = 0.89

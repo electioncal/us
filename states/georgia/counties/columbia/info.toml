@@ -1,2 +1,30 @@
 name = "Columbia County"
 fips_code = 13073
+
+[[zipcodes]]
+zipcode = 30802
+percent_zip_in_county = 99.43
+
+[[zipcodes]]
+zipcode = 30809
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30813
+percent_zip_in_county = 95.6
+
+[[zipcodes]]
+zipcode = 30814
+percent_zip_in_county = 98.64
+
+[[zipcodes]]
+zipcode = 30903
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30907
+percent_zip_in_county = 81.46
+
+[[zipcodes]]
+zipcode = 30909
+percent_zip_in_county = 1.02

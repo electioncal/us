@@ -1,2 +1,26 @@
 name = "Twiggs County"
 fips_code = 13289
+
+[[zipcodes]]
+zipcode = 31014
+percent_zip_in_county = 2.89
+
+[[zipcodes]]
+zipcode = 31017
+percent_zip_in_county = 53.0
+
+[[zipcodes]]
+zipcode = 31020
+percent_zip_in_county = 87.29
+
+[[zipcodes]]
+zipcode = 31031
+percent_zip_in_county = 8.17
+
+[[zipcodes]]
+zipcode = 31044
+percent_zip_in_county = 97.05
+
+[[zipcodes]]
+zipcode = 31217
+percent_zip_in_county = 10.83

@@ -1,2 +1,46 @@
 name = "Lincoln County"
 fips_code = 27081
+
+[[zipcodes]]
+zipcode = 56113
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56136
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56142
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56149
+percent_zip_in_county = 99.05
+
+[[zipcodes]]
+zipcode = 56164
+percent_zip_in_county = 2.5
+
+[[zipcodes]]
+zipcode = 56178
+percent_zip_in_county = 96.51
+
+[[zipcodes]]
+zipcode = 56220
+percent_zip_in_county = 4.59
+
+[[zipcodes]]
+zipcode = 56264
+percent_zip_in_county = 0.86
+
+[[zipcodes]]
+zipcode = 56280
+percent_zip_in_county = 32.08
+
+[[zipcodes]]
+zipcode = 56291
+percent_zip_in_county = 17.76
+
+[[zipcodes]]
+zipcode = 57026
+percent_zip_in_county = 4.53

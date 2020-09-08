@@ -1,2 +1,30 @@
 name = "Lynn County"
 fips_code = 48305
+
+[[zipcodes]]
+zipcode = 79345
+percent_zip_in_county = 3.26
+
+[[zipcodes]]
+zipcode = 79351
+percent_zip_in_county = 76.77
+
+[[zipcodes]]
+zipcode = 79356
+percent_zip_in_county = 1.37
+
+[[zipcodes]]
+zipcode = 79364
+percent_zip_in_county = 1.36
+
+[[zipcodes]]
+zipcode = 79373
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79381
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79423
+percent_zip_in_county = 0.31

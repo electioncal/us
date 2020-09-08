@@ -1,2 +1,122 @@
 name = "Marathon County"
 fips_code = 55073
+
+[[zipcodes]]
+zipcode = 54401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54403
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54405
+percent_zip_in_county = 37.34
+
+[[zipcodes]]
+zipcode = 54408
+percent_zip_in_county = 67.7
+
+[[zipcodes]]
+zipcode = 54409
+percent_zip_in_county = 1.03
+
+[[zipcodes]]
+zipcode = 54411
+percent_zip_in_county = 97.48
+
+[[zipcodes]]
+zipcode = 54412
+percent_zip_in_county = 20.36
+
+[[zipcodes]]
+zipcode = 54414
+percent_zip_in_county = 32.26
+
+[[zipcodes]]
+zipcode = 54417
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54421
+percent_zip_in_county = 37.71
+
+[[zipcodes]]
+zipcode = 54425
+percent_zip_in_county = 21.07
+
+[[zipcodes]]
+zipcode = 54426
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54427
+percent_zip_in_county = 66.88
+
+[[zipcodes]]
+zipcode = 54440
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54443
+percent_zip_in_county = 1.17
+
+[[zipcodes]]
+zipcode = 54448
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54449
+percent_zip_in_county = 13.55
+
+[[zipcodes]]
+zipcode = 54451
+percent_zip_in_county = 0.37
+
+[[zipcodes]]
+zipcode = 54452
+percent_zip_in_county = 7.79
+
+[[zipcodes]]
+zipcode = 54454
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 54455
+percent_zip_in_county = 97.84
+
+[[zipcodes]]
+zipcode = 54471
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54473
+percent_zip_in_county = 22.56
+
+[[zipcodes]]
+zipcode = 54474
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54476
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54479
+percent_zip_in_county = 73.17
+
+[[zipcodes]]
+zipcode = 54480
+percent_zip_in_county = 2.85
+
+[[zipcodes]]
+zipcode = 54484
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54488
+percent_zip_in_county = 44.45
+
+[[zipcodes]]
+zipcode = 54499
+percent_zip_in_county = 18.71

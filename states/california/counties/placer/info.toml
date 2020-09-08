@@ -1,2 +1,142 @@
 name = "Placer County"
 fips_code = 6061
+
+[[zipcodes]]
+zipcode = 95602
+percent_zip_in_county = 67.18
+
+[[zipcodes]]
+zipcode = 95603
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95604
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95626
+percent_zip_in_county = 8.54
+
+[[zipcodes]]
+zipcode = 95631
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95648
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95650
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95658
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95661
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95663
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95668
+percent_zip_in_county = 16.81
+
+[[zipcodes]]
+zipcode = 95677
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95678
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95681
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95701
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95703
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95713
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95714
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95715
+percent_zip_in_county = 93.04
+
+[[zipcodes]]
+zipcode = 95717
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95722
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95724
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95728
+percent_zip_in_county = 72.02
+
+[[zipcodes]]
+zipcode = 95736
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95746
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95747
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95765
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96140
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96141
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96142
+percent_zip_in_county = 10.61
+
+[[zipcodes]]
+zipcode = 96143
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96145
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96146
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96148
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96161
+percent_zip_in_county = 9.44

@@ -1,2 +1,6 @@
 name = "Culebra Municipio"
 fips_code = 72049
+
+[[zipcodes]]
+zipcode = 775
+percent_zip_in_county = 100.0

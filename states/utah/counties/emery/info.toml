@@ -1,2 +1,38 @@
 name = "Emery County"
 fips_code = 49015
+
+[[zipcodes]]
+zipcode = 84513
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84516
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84518
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84521
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84522
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84523
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84525
+percent_zip_in_county = 95.69
+
+[[zipcodes]]
+zipcode = 84528
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84537
+percent_zip_in_county = 100.0

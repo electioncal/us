@@ -1,2 +1,38 @@
 name = "Gove County"
 fips_code = 20063
+
+[[zipcodes]]
+zipcode = 67584
+percent_zip_in_county = 5.2
+
+[[zipcodes]]
+zipcode = 67736
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67737
+percent_zip_in_county = 84.01
+
+[[zipcodes]]
+zipcode = 67738
+percent_zip_in_county = 75.38
+
+[[zipcodes]]
+zipcode = 67748
+percent_zip_in_county = 3.66
+
+[[zipcodes]]
+zipcode = 67751
+percent_zip_in_county = 79.92
+
+[[zipcodes]]
+zipcode = 67752
+percent_zip_in_county = 97.36
+
+[[zipcodes]]
+zipcode = 67839
+percent_zip_in_county = 1.62
+
+[[zipcodes]]
+zipcode = 67871
+percent_zip_in_county = 0.06

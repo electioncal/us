@@ -1,2 +1,42 @@
 name = "Dewey County"
 fips_code = 40043
+
+[[zipcodes]]
+zipcode = 73646
+percent_zip_in_county = 35.94
+
+[[zipcodes]]
+zipcode = 73654
+percent_zip_in_county = 72.63
+
+[[zipcodes]]
+zipcode = 73658
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73659
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73663
+percent_zip_in_county = 98.95
+
+[[zipcodes]]
+zipcode = 73667
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73724
+percent_zip_in_county = 16.64
+
+[[zipcodes]]
+zipcode = 73755
+percent_zip_in_county = 5.52
+
+[[zipcodes]]
+zipcode = 73835
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73859
+percent_zip_in_county = 84.37

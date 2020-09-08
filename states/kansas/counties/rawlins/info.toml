@@ -1,2 +1,42 @@
 name = "Rawlins County"
 fips_code = 20153
+
+[[zipcodes]]
+zipcode = 67701
+percent_zip_in_county = 0.75
+
+[[zipcodes]]
+zipcode = 67730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67732
+percent_zip_in_county = 3.87
+
+[[zipcodes]]
+zipcode = 67734
+percent_zip_in_county = 14.84
+
+[[zipcodes]]
+zipcode = 67739
+percent_zip_in_county = 99.61
+
+[[zipcodes]]
+zipcode = 67743
+percent_zip_in_county = 16.46
+
+[[zipcodes]]
+zipcode = 67744
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67745
+percent_zip_in_county = 91.3
+
+[[zipcodes]]
+zipcode = 67749
+percent_zip_in_county = 0.69
+
+[[zipcodes]]
+zipcode = 67753
+percent_zip_in_county = 6.04

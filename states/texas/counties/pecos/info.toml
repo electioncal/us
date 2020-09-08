@@ -1,2 +1,26 @@
 name = "Pecos County"
 fips_code = 48371
+
+[[zipcodes]]
+zipcode = 79730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79735
+percent_zip_in_county = 99.98
+
+[[zipcodes]]
+zipcode = 79743
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79744
+percent_zip_in_county = 97.65
+
+[[zipcodes]]
+zipcode = 79781
+percent_zip_in_county = 85.48
+
+[[zipcodes]]
+zipcode = 79848
+percent_zip_in_county = 0.22

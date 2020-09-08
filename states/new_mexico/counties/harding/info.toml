@@ -1,2 +1,30 @@
 name = "Harding County"
 fips_code = 35021
+
+[[zipcodes]]
+zipcode = 87730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87733
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87743
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87746
+percent_zip_in_county = 14.17
+
+[[zipcodes]]
+zipcode = 88410
+percent_zip_in_county = 10.85
+
+[[zipcodes]]
+zipcode = 88415
+percent_zip_in_county = 0.73
+
+[[zipcodes]]
+zipcode = 88426
+percent_zip_in_county = 7.59

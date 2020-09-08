@@ -1,2 +1,58 @@
 name = "Salem County"
 fips_code = 34033
+
+[[zipcodes]]
+zipcode = 8001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8038
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8069
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8079
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8085
+percent_zip_in_county = 0.74
+
+[[zipcodes]]
+zipcode = 8098
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8302
+percent_zip_in_county = 3.68
+
+[[zipcodes]]
+zipcode = 8318
+percent_zip_in_county = 98.45
+
+[[zipcodes]]
+zipcode = 8343
+percent_zip_in_county = 34.65
+
+[[zipcodes]]
+zipcode = 8344
+percent_zip_in_county = 8.19

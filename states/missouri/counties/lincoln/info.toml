@@ -1,2 +1,74 @@
 name = "Lincoln County"
 fips_code = 29113
+
+[[zipcodes]]
+zipcode = 63333
+percent_zip_in_county = 1.4
+
+[[zipcodes]]
+zipcode = 63334
+percent_zip_in_county = 0.96
+
+[[zipcodes]]
+zipcode = 63343
+percent_zip_in_county = 98.94
+
+[[zipcodes]]
+zipcode = 63344
+percent_zip_in_county = 30.25
+
+[[zipcodes]]
+zipcode = 63347
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63348
+percent_zip_in_county = 4.69
+
+[[zipcodes]]
+zipcode = 63349
+percent_zip_in_county = 97.67
+
+[[zipcodes]]
+zipcode = 63359
+percent_zip_in_county = 2.7
+
+[[zipcodes]]
+zipcode = 63362
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63369
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63370
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63377
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63379
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63381
+percent_zip_in_county = 37.97
+
+[[zipcodes]]
+zipcode = 63383
+percent_zip_in_county = 1.1
+
+[[zipcodes]]
+zipcode = 63387
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63389
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63390
+percent_zip_in_county = 9.73

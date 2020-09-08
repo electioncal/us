@@ -1,2 +1,62 @@
 name = "Wood County"
 fips_code = 55141
+
+[[zipcodes]]
+zipcode = 54410
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54412
+percent_zip_in_county = 79.64
+
+[[zipcodes]]
+zipcode = 54413
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54420
+percent_zip_in_county = 3.6
+
+[[zipcodes]]
+zipcode = 54441
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54443
+percent_zip_in_county = 0.23
+
+[[zipcodes]]
+zipcode = 54449
+percent_zip_in_county = 86.42
+
+[[zipcodes]]
+zipcode = 54454
+percent_zip_in_county = 98.59
+
+[[zipcodes]]
+zipcode = 54457
+percent_zip_in_county = 63.81
+
+[[zipcodes]]
+zipcode = 54466
+percent_zip_in_county = 89.41
+
+[[zipcodes]]
+zipcode = 54469
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54475
+percent_zip_in_county = 91.03
+
+[[zipcodes]]
+zipcode = 54489
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54494
+percent_zip_in_county = 92.77
+
+[[zipcodes]]
+zipcode = 54495
+percent_zip_in_county = 100.0

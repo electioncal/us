@@ -1,2 +1,46 @@
 name = "Williamsburg County"
 fips_code = 45089
+
+[[zipcodes]]
+zipcode = 29056
+percent_zip_in_county = 92.4
+
+[[zipcodes]]
+zipcode = 29111
+percent_zip_in_county = 6.19
+
+[[zipcodes]]
+zipcode = 29510
+percent_zip_in_county = 40.78
+
+[[zipcodes]]
+zipcode = 29518
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29554
+percent_zip_in_county = 59.43
+
+[[zipcodes]]
+zipcode = 29555
+percent_zip_in_county = 1.48
+
+[[zipcodes]]
+zipcode = 29556
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29560
+percent_zip_in_county = 12.4
+
+[[zipcodes]]
+zipcode = 29564
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29580
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29590
+percent_zip_in_county = 100.0

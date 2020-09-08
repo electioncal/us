@@ -1,2 +1,30 @@
 name = "Little River County"
 fips_code = 5081
+
+[[zipcodes]]
+zipcode = 71820
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71822
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71836
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71846
+percent_zip_in_county = 0.11
+
+[[zipcodes]]
+zipcode = 71853
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71865
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71866
+percent_zip_in_county = 100.0

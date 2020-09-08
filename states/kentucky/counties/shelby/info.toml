@@ -1,2 +1,54 @@
 name = "Shelby County"
 fips_code = 21211
+
+[[zipcodes]]
+zipcode = 40003
+percent_zip_in_county = 92.85
+
+[[zipcodes]]
+zipcode = 40019
+percent_zip_in_county = 4.62
+
+[[zipcodes]]
+zipcode = 40022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40023
+percent_zip_in_county = 0.24
+
+[[zipcodes]]
+zipcode = 40046
+percent_zip_in_county = 7.75
+
+[[zipcodes]]
+zipcode = 40057
+percent_zip_in_county = 23.85
+
+[[zipcodes]]
+zipcode = 40065
+percent_zip_in_county = 99.97
+
+[[zipcodes]]
+zipcode = 40067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40068
+percent_zip_in_county = 5.87
+
+[[zipcodes]]
+zipcode = 40071
+percent_zip_in_county = 0.53
+
+[[zipcodes]]
+zipcode = 40076
+percent_zip_in_county = 90.46
+
+[[zipcodes]]
+zipcode = 40245
+percent_zip_in_county = 7.22
+
+[[zipcodes]]
+zipcode = 40601
+percent_zip_in_county = 1.15

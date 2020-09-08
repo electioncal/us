@@ -1,2 +1,46 @@
 name = "Iron County"
 fips_code = 49021
+
+[[zipcodes]]
+zipcode = 84714
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84719
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84720
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84721
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84742
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84753
+percent_zip_in_county = 96.15
+
+[[zipcodes]]
+zipcode = 84756
+percent_zip_in_county = 97.81
+
+[[zipcodes]]
+zipcode = 84757
+percent_zip_in_county = 5.83
+
+[[zipcodes]]
+zipcode = 84760
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84761
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84772
+percent_zip_in_county = 100.0

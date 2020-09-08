@@ -1,2 +1,54 @@
 name = "Harrison County"
 fips_code = 28047
+
+[[zipcodes]]
+zipcode = 39501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39503
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39507
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39530
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39531
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39532
+percent_zip_in_county = 71.6
+
+[[zipcodes]]
+zipcode = 39534
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39540
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39560
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39565
+percent_zip_in_county = 0.2
+
+[[zipcodes]]
+zipcode = 39571
+percent_zip_in_county = 97.81
+
+[[zipcodes]]
+zipcode = 39573
+percent_zip_in_county = 1.11
+
+[[zipcodes]]
+zipcode = 39574
+percent_zip_in_county = 99.59

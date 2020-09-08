@@ -1,2 +1,42 @@
 name = "York County"
 fips_code = 51199
+
+[[zipcodes]]
+zipcode = 23185
+percent_zip_in_county = 20.13
+
+[[zipcodes]]
+zipcode = 23188
+percent_zip_in_county = 7.06
+
+[[zipcodes]]
+zipcode = 23602
+percent_zip_in_county = 0.24
+
+[[zipcodes]]
+zipcode = 23603
+percent_zip_in_county = 14.36
+
+[[zipcodes]]
+zipcode = 23665
+percent_zip_in_county = 73.77
+
+[[zipcodes]]
+zipcode = 23690
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23691
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23692
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23693
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23696
+percent_zip_in_county = 100.0

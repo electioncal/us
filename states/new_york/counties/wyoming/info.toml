@@ -1,2 +1,102 @@
 name = "Wyoming County"
 fips_code = 36121
+
+[[zipcodes]]
+zipcode = 14004
+percent_zip_in_county = 4.49
+
+[[zipcodes]]
+zipcode = 14009
+percent_zip_in_county = 89.17
+
+[[zipcodes]]
+zipcode = 14011
+percent_zip_in_county = 93.28
+
+[[zipcodes]]
+zipcode = 14024
+percent_zip_in_county = 96.98
+
+[[zipcodes]]
+zipcode = 14030
+percent_zip_in_county = 1.33
+
+[[zipcodes]]
+zipcode = 14037
+percent_zip_in_county = 86.45
+
+[[zipcodes]]
+zipcode = 14039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14040
+percent_zip_in_county = 16.19
+
+[[zipcodes]]
+zipcode = 14054
+percent_zip_in_county = 1.86
+
+[[zipcodes]]
+zipcode = 14066
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14082
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14113
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14130
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14145
+percent_zip_in_county = 97.03
+
+[[zipcodes]]
+zipcode = 14167
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14427
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14525
+percent_zip_in_county = 25.86
+
+[[zipcodes]]
+zipcode = 14530
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14533
+percent_zip_in_county = 0.6
+
+[[zipcodes]]
+zipcode = 14536
+percent_zip_in_county = 73.07
+
+[[zipcodes]]
+zipcode = 14549
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14550
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14569
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14591
+percent_zip_in_county = 92.45
+
+[[zipcodes]]
+zipcode = 14735
+percent_zip_in_county = 0.62

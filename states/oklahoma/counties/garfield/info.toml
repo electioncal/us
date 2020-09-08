@@ -1,2 +1,90 @@
 name = "Garfield County"
 fips_code = 40047
+
+[[zipcodes]]
+zipcode = 73056
+percent_zip_in_county = 17.01
+
+[[zipcodes]]
+zipcode = 73073
+percent_zip_in_county = 3.88
+
+[[zipcodes]]
+zipcode = 73701
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73703
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73705
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73718
+percent_zip_in_county = 6.39
+
+[[zipcodes]]
+zipcode = 73720
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73727
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73733
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73735
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73736
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73738
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73739
+percent_zip_in_county = 5.69
+
+[[zipcodes]]
+zipcode = 73743
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73753
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73754
+percent_zip_in_county = 95.83
+
+[[zipcodes]]
+zipcode = 73757
+percent_zip_in_county = 13.48
+
+[[zipcodes]]
+zipcode = 73761
+percent_zip_in_county = 4.3
+
+[[zipcodes]]
+zipcode = 73773
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74630
+percent_zip_in_county = 3.42
+
+[[zipcodes]]
+zipcode = 74640
+percent_zip_in_county = 100.0

@@ -1,2 +1,50 @@
 name = "Clark County"
 fips_code = 46025
+
+[[zipcodes]]
+zipcode = 57217
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57221
+percent_zip_in_county = 7.55
+
+[[zipcodes]]
+zipcode = 57225
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57236
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57243
+percent_zip_in_county = 7.12
+
+[[zipcodes]]
+zipcode = 57258
+percent_zip_in_county = 72.21
+
+[[zipcodes]]
+zipcode = 57271
+percent_zip_in_county = 69.23
+
+[[zipcodes]]
+zipcode = 57272
+percent_zip_in_county = 2.31
+
+[[zipcodes]]
+zipcode = 57274
+percent_zip_in_county = 1.17
+
+[[zipcodes]]
+zipcode = 57278
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57322
+percent_zip_in_county = 22.64
+
+[[zipcodes]]
+zipcode = 57434
+percent_zip_in_county = 9.01

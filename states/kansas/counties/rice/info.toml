@@ -1,2 +1,54 @@
 name = "Rice County"
 fips_code = 20159
+
+[[zipcodes]]
+zipcode = 67427
+percent_zip_in_county = 91.18
+
+[[zipcodes]]
+zipcode = 67444
+percent_zip_in_county = 73.06
+
+[[zipcodes]]
+zipcode = 67457
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67491
+percent_zip_in_county = 17.29
+
+[[zipcodes]]
+zipcode = 67502
+percent_zip_in_county = 0.08
+
+[[zipcodes]]
+zipcode = 67512
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67524
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67525
+percent_zip_in_county = 1.43
+
+[[zipcodes]]
+zipcode = 67526
+percent_zip_in_county = 1.27
+
+[[zipcodes]]
+zipcode = 67546
+percent_zip_in_county = 3.89
+
+[[zipcodes]]
+zipcode = 67554
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67573
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67579
+percent_zip_in_county = 91.73

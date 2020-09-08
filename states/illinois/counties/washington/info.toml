@@ -1,2 +1,54 @@
 name = "Washington County"
 fips_code = 17189
+
+[[zipcodes]]
+zipcode = 62214
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62237
+percent_zip_in_county = 16.1
+
+[[zipcodes]]
+zipcode = 62257
+percent_zip_in_county = 13.19
+
+[[zipcodes]]
+zipcode = 62263
+percent_zip_in_county = 98.61
+
+[[zipcodes]]
+zipcode = 62268
+percent_zip_in_county = 97.29
+
+[[zipcodes]]
+zipcode = 62271
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62801
+percent_zip_in_county = 2.07
+
+[[zipcodes]]
+zipcode = 62803
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62808
+percent_zip_in_county = 80.44
+
+[[zipcodes]]
+zipcode = 62831
+percent_zip_in_county = 87.61
+
+[[zipcodes]]
+zipcode = 62848
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62876
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62877
+percent_zip_in_county = 96.11

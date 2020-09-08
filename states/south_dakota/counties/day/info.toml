@@ -1,2 +1,42 @@
 name = "Day County"
 fips_code = 46037
+
+[[zipcodes]]
+zipcode = 57219
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57235
+percent_zip_in_county = 2.61
+
+[[zipcodes]]
+zipcode = 57239
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57261
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57273
+percent_zip_in_county = 93.84
+
+[[zipcodes]]
+zipcode = 57274
+percent_zip_in_county = 98.83
+
+[[zipcodes]]
+zipcode = 57422
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57434
+percent_zip_in_county = 4.24
+
+[[zipcodes]]
+zipcode = 57454
+percent_zip_in_county = 10.04
+
+[[zipcodes]]
+zipcode = 57468
+percent_zip_in_county = 100.0

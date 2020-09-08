@@ -1,2 +1,50 @@
 name = "Burleigh County"
 fips_code = 38015
+
+[[zipcodes]]
+zipcode = 58477
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58494
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58503
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58504
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58505
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58521
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58532
+percent_zip_in_county = 80.13
+
+[[zipcodes]]
+zipcode = 58558
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58560
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58572
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58579
+percent_zip_in_county = 41.09

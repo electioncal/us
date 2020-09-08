@@ -1,2 +1,150 @@
 name = "Butler County"
 fips_code = 42019
+
+[[zipcodes]]
+zipcode = 15044
+percent_zip_in_county = 5.26
+
+[[zipcodes]]
+zipcode = 15086
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 16001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16025
+percent_zip_in_county = 92.29
+
+[[zipcodes]]
+zipcode = 16027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16029
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16037
+percent_zip_in_county = 93.57
+
+[[zipcodes]]
+zipcode = 16038
+percent_zip_in_county = 63.26
+
+[[zipcodes]]
+zipcode = 16040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16041
+percent_zip_in_county = 76.01
+
+[[zipcodes]]
+zipcode = 16045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16046
+percent_zip_in_county = 87.75
+
+[[zipcodes]]
+zipcode = 16048
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16049
+percent_zip_in_county = 31.75
+
+[[zipcodes]]
+zipcode = 16050
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16051
+percent_zip_in_county = 61.45
+
+[[zipcodes]]
+zipcode = 16052
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16053
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16055
+percent_zip_in_county = 96.87
+
+[[zipcodes]]
+zipcode = 16056
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16057
+percent_zip_in_county = 93.68
+
+[[zipcodes]]
+zipcode = 16059
+percent_zip_in_county = 97.03
+
+[[zipcodes]]
+zipcode = 16061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16063
+percent_zip_in_county = 92.5
+
+[[zipcodes]]
+zipcode = 16066
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16127
+percent_zip_in_county = 0.24
+
+[[zipcodes]]
+zipcode = 16229
+percent_zip_in_county = 16.97
+
+[[zipcodes]]
+zipcode = 16373
+percent_zip_in_county = 10.31

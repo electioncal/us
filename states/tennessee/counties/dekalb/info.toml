@@ -1,2 +1,42 @@
 name = "DeKalb County"
 fips_code = 47041
+
+[[zipcodes]]
+zipcode = 37012
+percent_zip_in_county = 79.23
+
+[[zipcodes]]
+zipcode = 37059
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37095
+percent_zip_in_county = 71.74
+
+[[zipcodes]]
+zipcode = 37166
+percent_zip_in_county = 94.03
+
+[[zipcodes]]
+zipcode = 38544
+percent_zip_in_county = 3.96
+
+[[zipcodes]]
+zipcode = 38567
+percent_zip_in_county = 5.1
+
+[[zipcodes]]
+zipcode = 38569
+percent_zip_in_county = 30.58
+
+[[zipcodes]]
+zipcode = 38581
+percent_zip_in_county = 1.0
+
+[[zipcodes]]
+zipcode = 38582
+percent_zip_in_county = 21.81
+
+[[zipcodes]]
+zipcode = 38583
+percent_zip_in_county = 2.6

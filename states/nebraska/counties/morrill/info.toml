@@ -1,2 +1,30 @@
 name = "Morrill County"
 fips_code = 31123
+
+[[zipcodes]]
+zipcode = 69125
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69131
+percent_zip_in_county = 3.57
+
+[[zipcodes]]
+zipcode = 69148
+percent_zip_in_county = 23.5
+
+[[zipcodes]]
+zipcode = 69301
+percent_zip_in_county = 0.57
+
+[[zipcodes]]
+zipcode = 69331
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69334
+percent_zip_in_county = 86.86
+
+[[zipcodes]]
+zipcode = 69336
+percent_zip_in_county = 100.0

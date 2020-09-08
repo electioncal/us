@@ -1,2 +1,86 @@
 name = "Taos County"
 fips_code = 35055
+
+[[zipcodes]]
+zipcode = 87512
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87513
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87514
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87517
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87519
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87521
+percent_zip_in_county = 76.37
+
+[[zipcodes]]
+zipcode = 87524
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87525
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87529
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87531
+percent_zip_in_county = 33.42
+
+[[zipcodes]]
+zipcode = 87543
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87549
+percent_zip_in_county = 12.34
+
+[[zipcodes]]
+zipcode = 87553
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87556
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87557
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87558
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87564
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87571
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87577
+percent_zip_in_county = 86.34
+
+[[zipcodes]]
+zipcode = 87579
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87580
+percent_zip_in_county = 100.0

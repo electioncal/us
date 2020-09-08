@@ -1,2 +1,14 @@
 name = "Maverick County"
 fips_code = 48323
+
+[[zipcodes]]
+zipcode = 78852
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78860
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78877
+percent_zip_in_county = 100.0

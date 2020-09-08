@@ -1,2 +1,38 @@
 name = "Sumner County"
 fips_code = 47165
+
+[[zipcodes]]
+zipcode = 37022
+percent_zip_in_county = 88.88
+
+[[zipcodes]]
+zipcode = 37031
+percent_zip_in_county = 77.77
+
+[[zipcodes]]
+zipcode = 37048
+percent_zip_in_county = 89.8
+
+[[zipcodes]]
+zipcode = 37066
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37072
+percent_zip_in_county = 38.3
+
+[[zipcodes]]
+zipcode = 37075
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37148
+percent_zip_in_county = 96.49
+
+[[zipcodes]]
+zipcode = 37186
+percent_zip_in_county = 62.9
+
+[[zipcodes]]
+zipcode = 37188
+percent_zip_in_county = 48.25

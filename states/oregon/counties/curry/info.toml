@@ -1,2 +1,26 @@
 name = "Curry County"
 fips_code = 41015
+
+[[zipcodes]]
+zipcode = 97406
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97415
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97444
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97450
+percent_zip_in_county = 99.11
+
+[[zipcodes]]
+zipcode = 97465
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97476
+percent_zip_in_county = 100.0

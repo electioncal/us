@@ -1,2 +1,30 @@
 name = "Ashley County"
 fips_code = 5003
+
+[[zipcodes]]
+zipcode = 71635
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71642
+percent_zip_in_county = 81.64
+
+[[zipcodes]]
+zipcode = 71646
+percent_zip_in_county = 98.53
+
+[[zipcodes]]
+zipcode = 71658
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71661
+percent_zip_in_county = 96.0
+
+[[zipcodes]]
+zipcode = 71663
+percent_zip_in_county = 66.26
+
+[[zipcodes]]
+zipcode = 71676
+percent_zip_in_county = 98.54

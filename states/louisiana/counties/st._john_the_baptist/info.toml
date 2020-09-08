@@ -1,2 +1,26 @@
 name = "St. John the Baptist Parish"
 fips_code = 22095
+
+[[zipcodes]]
+zipcode = 70049
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70068
+percent_zip_in_county = 94.32
+
+[[zipcodes]]
+zipcode = 70076
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70084
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70090
+percent_zip_in_county = 11.95

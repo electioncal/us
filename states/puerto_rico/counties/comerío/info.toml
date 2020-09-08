@@ -1,2 +1,14 @@
 name = "Comerío Municipio"
 fips_code = 72045
+
+[[zipcodes]]
+zipcode = 703
+percent_zip_in_county = 4.53
+
+[[zipcodes]]
+zipcode = 782
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 794
+percent_zip_in_county = 0.59

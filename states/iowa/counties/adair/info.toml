@@ -1,2 +1,54 @@
 name = "Adair County"
 fips_code = 19001
+
+[[zipcodes]]
+zipcode = 50002
+percent_zip_in_county = 76.95
+
+[[zipcodes]]
+zipcode = 50020
+percent_zip_in_county = 3.7
+
+[[zipcodes]]
+zipcode = 50048
+percent_zip_in_county = 22.65
+
+[[zipcodes]]
+zipcode = 50070
+percent_zip_in_county = 7.99
+
+[[zipcodes]]
+zipcode = 50155
+percent_zip_in_county = 4.71
+
+[[zipcodes]]
+zipcode = 50164
+percent_zip_in_county = 18.71
+
+[[zipcodes]]
+zipcode = 50250
+percent_zip_in_county = 45.58
+
+[[zipcodes]]
+zipcode = 50801
+percent_zip_in_county = 1.21
+
+[[zipcodes]]
+zipcode = 50837
+percent_zip_in_county = 88.83
+
+[[zipcodes]]
+zipcode = 50846
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50849
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50858
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50859
+percent_zip_in_county = 2.23

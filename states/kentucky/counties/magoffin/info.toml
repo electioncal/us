@@ -1,2 +1,18 @@
 name = "Magoffin County"
 fips_code = 21153
+
+[[zipcodes]]
+zipcode = 41464
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41465
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41632
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41640
+percent_zip_in_county = 1.34

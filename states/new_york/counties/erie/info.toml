@@ -1,2 +1,282 @@
 name = "Erie County"
 fips_code = 36029
+
+[[zipcodes]]
+zipcode = 14001
+percent_zip_in_county = 89.6
+
+[[zipcodes]]
+zipcode = 14004
+percent_zip_in_county = 94.36
+
+[[zipcodes]]
+zipcode = 14006
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14013
+percent_zip_in_county = 1.54
+
+[[zipcodes]]
+zipcode = 14025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14026
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14030
+percent_zip_in_county = 82.51
+
+[[zipcodes]]
+zipcode = 14031
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14037
+percent_zip_in_county = 13.55
+
+[[zipcodes]]
+zipcode = 14043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14047
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14052
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14055
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14057
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14059
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14068
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14069
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14070
+percent_zip_in_county = 56.71
+
+[[zipcodes]]
+zipcode = 14072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14075
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14080
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14081
+percent_zip_in_county = 65.75
+
+[[zipcodes]]
+zipcode = 14085
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14086
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14091
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14102
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14111
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14112
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14127
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14134
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14139
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14141
+percent_zip_in_county = 95.13
+
+[[zipcodes]]
+zipcode = 14145
+percent_zip_in_county = 2.97
+
+[[zipcodes]]
+zipcode = 14150
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14169
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14170
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14202
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14203
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14204
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14206
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14207
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14208
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14209
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14210
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14211
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14212
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14213
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14214
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14215
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14216
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14217
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14218
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14219
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14220
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14221
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14222
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14223
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14224
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14225
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14226
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14227
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14228
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14261
+percent_zip_in_county = 100.0

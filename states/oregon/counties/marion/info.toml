@@ -1,2 +1,110 @@
 name = "Marion County"
 fips_code = 41047
+
+[[zipcodes]]
+zipcode = 97002
+percent_zip_in_county = 76.28
+
+[[zipcodes]]
+zipcode = 97020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97026
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97032
+percent_zip_in_county = 89.05
+
+[[zipcodes]]
+zipcode = 97071
+percent_zip_in_county = 96.44
+
+[[zipcodes]]
+zipcode = 97137
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97302
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97303
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97305
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97306
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97317
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97325
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97342
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97346
+percent_zip_in_county = 62.17
+
+[[zipcodes]]
+zipcode = 97350
+percent_zip_in_county = 60.99
+
+[[zipcodes]]
+zipcode = 97352
+percent_zip_in_county = 98.52
+
+[[zipcodes]]
+zipcode = 97358
+percent_zip_in_county = 27.17
+
+[[zipcodes]]
+zipcode = 97360
+percent_zip_in_county = 20.41
+
+[[zipcodes]]
+zipcode = 97362
+percent_zip_in_county = 96.96
+
+[[zipcodes]]
+zipcode = 97373
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97375
+percent_zip_in_county = 87.94
+
+[[zipcodes]]
+zipcode = 97381
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97383
+percent_zip_in_county = 91.52
+
+[[zipcodes]]
+zipcode = 97384
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97385
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97392
+percent_zip_in_county = 100.0

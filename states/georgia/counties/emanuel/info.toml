@@ -1,2 +1,50 @@
 name = "Emanuel County"
 fips_code = 13107
+
+[[zipcodes]]
+zipcode = 30401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30425
+percent_zip_in_county = 51.59
+
+[[zipcodes]]
+zipcode = 30436
+percent_zip_in_county = 6.86
+
+[[zipcodes]]
+zipcode = 30439
+percent_zip_in_county = 0.89
+
+[[zipcodes]]
+zipcode = 30441
+percent_zip_in_county = 63.32
+
+[[zipcodes]]
+zipcode = 30448
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30457
+percent_zip_in_county = 0.36
+
+[[zipcodes]]
+zipcode = 30464
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30471
+percent_zip_in_county = 95.43
+
+[[zipcodes]]
+zipcode = 30474
+percent_zip_in_county = 0.8
+
+[[zipcodes]]
+zipcode = 31002
+percent_zip_in_county = 42.03
+
+[[zipcodes]]
+zipcode = 31049
+percent_zip_in_county = 26.85

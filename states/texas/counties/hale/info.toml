@@ -1,2 +1,34 @@
 name = "Hale County"
 fips_code = 48189
+
+[[zipcodes]]
+zipcode = 79021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79041
+percent_zip_in_county = 99.41
+
+[[zipcodes]]
+zipcode = 79052
+percent_zip_in_county = 2.46
+
+[[zipcodes]]
+zipcode = 79064
+percent_zip_in_county = 3.4
+
+[[zipcodes]]
+zipcode = 79072
+percent_zip_in_county = 99.99
+
+[[zipcodes]]
+zipcode = 79250
+percent_zip_in_county = 91.38
+
+[[zipcodes]]
+zipcode = 79311
+percent_zip_in_county = 71.18

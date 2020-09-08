@@ -1,2 +1,58 @@
 name = "Wyoming County"
 fips_code = 42131
+
+[[zipcodes]]
+zipcode = 18414
+percent_zip_in_county = 27.02
+
+[[zipcodes]]
+zipcode = 18419
+percent_zip_in_county = 75.23
+
+[[zipcodes]]
+zipcode = 18446
+percent_zip_in_county = 51.51
+
+[[zipcodes]]
+zipcode = 18612
+percent_zip_in_county = 1.89
+
+[[zipcodes]]
+zipcode = 18614
+percent_zip_in_county = 0.74
+
+[[zipcodes]]
+zipcode = 18615
+percent_zip_in_county = 94.43
+
+[[zipcodes]]
+zipcode = 18618
+percent_zip_in_county = 13.79
+
+[[zipcodes]]
+zipcode = 18623
+percent_zip_in_county = 52.07
+
+[[zipcodes]]
+zipcode = 18625
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18629
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18630
+percent_zip_in_county = 51.8
+
+[[zipcodes]]
+zipcode = 18636
+percent_zip_in_county = 82.27
+
+[[zipcodes]]
+zipcode = 18657
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18844
+percent_zip_in_county = 1.23

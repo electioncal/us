@@ -1,2 +1,18 @@
 name = "Lauderdale County"
 fips_code = 47097
+
+[[zipcodes]]
+zipcode = 38037
+percent_zip_in_county = 73.15
+
+[[zipcodes]]
+zipcode = 38040
+percent_zip_in_county = 83.13
+
+[[zipcodes]]
+zipcode = 38041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38063
+percent_zip_in_county = 98.35

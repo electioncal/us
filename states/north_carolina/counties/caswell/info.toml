@@ -1,2 +1,62 @@
 name = "Caswell County"
 fips_code = 37033
+
+[[zipcodes]]
+zipcode = 27212
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27217
+percent_zip_in_county = 3.1
+
+[[zipcodes]]
+zipcode = 27244
+percent_zip_in_county = 7.96
+
+[[zipcodes]]
+zipcode = 27249
+percent_zip_in_county = 4.86
+
+[[zipcodes]]
+zipcode = 27291
+percent_zip_in_county = 59.75
+
+[[zipcodes]]
+zipcode = 27302
+percent_zip_in_county = 3.38
+
+[[zipcodes]]
+zipcode = 27305
+percent_zip_in_county = 97.74
+
+[[zipcodes]]
+zipcode = 27311
+percent_zip_in_county = 84.3
+
+[[zipcodes]]
+zipcode = 27314
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27315
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27320
+percent_zip_in_county = 5.26
+
+[[zipcodes]]
+zipcode = 27326
+percent_zip_in_county = 33.06
+
+[[zipcodes]]
+zipcode = 27343
+percent_zip_in_county = 28.67
+
+[[zipcodes]]
+zipcode = 27379
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27541
+percent_zip_in_county = 0.42

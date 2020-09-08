@@ -1,2 +1,66 @@
 name = "Fayette County"
 fips_code = 21067
+
+[[zipcodes]]
+zipcode = 40361
+percent_zip_in_county = 0.14
+
+[[zipcodes]]
+zipcode = 40502
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40503
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40504
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40505
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40506
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40507
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40508
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40509
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40510
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40511
+percent_zip_in_county = 98.69
+
+[[zipcodes]]
+zipcode = 40513
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40514
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40515
+percent_zip_in_county = 98.85
+
+[[zipcodes]]
+zipcode = 40516
+percent_zip_in_county = 86.65
+
+[[zipcodes]]
+zipcode = 40517
+percent_zip_in_county = 100.0

@@ -1,2 +1,82 @@
 name = "Logan County"
 fips_code = 17107
+
+[[zipcodes]]
+zipcode = 61721
+percent_zip_in_county = 4.24
+
+[[zipcodes]]
+zipcode = 61723
+percent_zip_in_county = 99.05
+
+[[zipcodes]]
+zipcode = 61749
+percent_zip_in_county = 4.14
+
+[[zipcodes]]
+zipcode = 61751
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61754
+percent_zip_in_county = 2.85
+
+[[zipcodes]]
+zipcode = 62512
+percent_zip_in_county = 93.8
+
+[[zipcodes]]
+zipcode = 62518
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62519
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62541
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62543
+percent_zip_in_county = 93.33
+
+[[zipcodes]]
+zipcode = 62548
+percent_zip_in_county = 99.91
+
+[[zipcodes]]
+zipcode = 62613
+percent_zip_in_county = 0.49
+
+[[zipcodes]]
+zipcode = 62634
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62635
+percent_zip_in_county = 98.1
+
+[[zipcodes]]
+zipcode = 62643
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62656
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62666
+percent_zip_in_county = 89.94
+
+[[zipcodes]]
+zipcode = 62671
+percent_zip_in_county = 93.71
+
+[[zipcodes]]
+zipcode = 62682
+percent_zip_in_county = 35.61
+
+[[zipcodes]]
+zipcode = 62693
+percent_zip_in_county = 3.17

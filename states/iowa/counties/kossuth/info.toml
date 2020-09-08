@@ -1,2 +1,86 @@
 name = "Kossuth County"
 fips_code = 19109
+
+[[zipcodes]]
+zipcode = 50424
+percent_zip_in_county = 11.54
+
+[[zipcodes]]
+zipcode = 50430
+percent_zip_in_county = 16.02
+
+[[zipcodes]]
+zipcode = 50451
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50480
+percent_zip_in_county = 98.75
+
+[[zipcodes]]
+zipcode = 50483
+percent_zip_in_county = 84.25
+
+[[zipcodes]]
+zipcode = 50484
+percent_zip_in_county = 2.48
+
+[[zipcodes]]
+zipcode = 50511
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50514
+percent_zip_in_county = 11.36
+
+[[zipcodes]]
+zipcode = 50517
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50519
+percent_zip_in_county = 31.73
+
+[[zipcodes]]
+zipcode = 50522
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50539
+percent_zip_in_county = 88.52
+
+[[zipcodes]]
+zipcode = 50556
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50558
+percent_zip_in_county = 9.71
+
+[[zipcodes]]
+zipcode = 50559
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50560
+percent_zip_in_county = 86.95
+
+[[zipcodes]]
+zipcode = 50570
+percent_zip_in_county = 27.82
+
+[[zipcodes]]
+zipcode = 50590
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50597
+percent_zip_in_county = 18.41
+
+[[zipcodes]]
+zipcode = 50598
+percent_zip_in_county = 92.0
+
+[[zipcodes]]
+zipcode = 56027
+percent_zip_in_county = 6.91

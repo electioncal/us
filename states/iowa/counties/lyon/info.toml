@@ -1,2 +1,50 @@
 name = "Lyon County"
 fips_code = 19119
+
+[[zipcodes]]
+zipcode = 51201
+percent_zip_in_county = 0.16
+
+[[zipcodes]]
+zipcode = 51230
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51232
+percent_zip_in_county = 12.46
+
+[[zipcodes]]
+zipcode = 51235
+percent_zip_in_county = 97.59
+
+[[zipcodes]]
+zipcode = 51237
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51239
+percent_zip_in_county = 1.18
+
+[[zipcodes]]
+zipcode = 51240
+percent_zip_in_county = 91.98
+
+[[zipcodes]]
+zipcode = 51241
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51242
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51243
+percent_zip_in_county = 95.79
+
+[[zipcodes]]
+zipcode = 51246
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51247
+percent_zip_in_county = 0.72

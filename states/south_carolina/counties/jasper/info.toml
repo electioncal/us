@@ -1,2 +1,42 @@
 name = "Jasper County"
 fips_code = 45053
+
+[[zipcodes]]
+zipcode = 29909
+percent_zip_in_county = 0.35
+
+[[zipcodes]]
+zipcode = 29912
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29916
+percent_zip_in_county = 40.12
+
+[[zipcodes]]
+zipcode = 29922
+percent_zip_in_county = 29.16
+
+[[zipcodes]]
+zipcode = 29927
+percent_zip_in_county = 99.87
+
+[[zipcodes]]
+zipcode = 29934
+percent_zip_in_county = 91.47
+
+[[zipcodes]]
+zipcode = 29936
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29943
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29944
+percent_zip_in_county = 1.64
+
+[[zipcodes]]
+zipcode = 29945
+percent_zip_in_county = 10.25

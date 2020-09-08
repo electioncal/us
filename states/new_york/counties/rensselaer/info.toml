@@ -1,2 +1,122 @@
 name = "Rensselaer County"
 fips_code = 36083
+
+[[zipcodes]]
+zipcode = 12018
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12028
+percent_zip_in_county = 67.75
+
+[[zipcodes]]
+zipcode = 12033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12052
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12057
+percent_zip_in_county = 23.81
+
+[[zipcodes]]
+zipcode = 12061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12062
+percent_zip_in_county = 90.37
+
+[[zipcodes]]
+zipcode = 12063
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12089
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12090
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12094
+percent_zip_in_county = 95.86
+
+[[zipcodes]]
+zipcode = 12118
+percent_zip_in_county = 3.68
+
+[[zipcodes]]
+zipcode = 12121
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12123
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12138
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12140
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12144
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12153
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12154
+percent_zip_in_county = 82.22
+
+[[zipcodes]]
+zipcode = 12156
+percent_zip_in_county = 82.08
+
+[[zipcodes]]
+zipcode = 12168
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12169
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12180
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12182
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12184
+percent_zip_in_county = 1.18
+
+[[zipcodes]]
+zipcode = 12185
+percent_zip_in_county = 87.63
+
+[[zipcodes]]
+zipcode = 12196
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12198
+percent_zip_in_county = 100.0

@@ -1,2 +1,34 @@
 name = "Kiowa County"
 fips_code = 40075
+
+[[zipcodes]]
+zipcode = 73015
+percent_zip_in_county = 3.72
+
+[[zipcodes]]
+zipcode = 73041
+percent_zip_in_county = 86.34
+
+[[zipcodes]]
+zipcode = 73062
+percent_zip_in_county = 87.68
+
+[[zipcodes]]
+zipcode = 73559
+percent_zip_in_county = 98.7
+
+[[zipcodes]]
+zipcode = 73564
+percent_zip_in_county = 97.1
+
+[[zipcodes]]
+zipcode = 73566
+percent_zip_in_county = 95.52
+
+[[zipcodes]]
+zipcode = 73651
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73655
+percent_zip_in_county = 100.0

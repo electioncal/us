@@ -1,2 +1,74 @@
 name = "Pitt County"
 fips_code = 37147
+
+[[zipcodes]]
+zipcode = 27812
+percent_zip_in_county = 90.94
+
+[[zipcodes]]
+zipcode = 27827
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27828
+percent_zip_in_county = 87.98
+
+[[zipcodes]]
+zipcode = 27829
+percent_zip_in_county = 69.84
+
+[[zipcodes]]
+zipcode = 27834
+percent_zip_in_county = 99.84
+
+[[zipcodes]]
+zipcode = 27837
+percent_zip_in_county = 94.88
+
+[[zipcodes]]
+zipcode = 27852
+percent_zip_in_county = 3.93
+
+[[zipcodes]]
+zipcode = 27858
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27871
+percent_zip_in_county = 12.62
+
+[[zipcodes]]
+zipcode = 27879
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27884
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27886
+percent_zip_in_county = 1.57
+
+[[zipcodes]]
+zipcode = 27888
+percent_zip_in_county = 4.88
+
+[[zipcodes]]
+zipcode = 27889
+percent_zip_in_county = 8.22
+
+[[zipcodes]]
+zipcode = 28513
+percent_zip_in_county = 94.94
+
+[[zipcodes]]
+zipcode = 28530
+percent_zip_in_county = 52.32
+
+[[zipcodes]]
+zipcode = 28586
+percent_zip_in_county = 1.67
+
+[[zipcodes]]
+zipcode = 28590
+percent_zip_in_county = 100.0

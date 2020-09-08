@@ -1,2 +1,54 @@
 name = "Kershaw County"
 fips_code = 45055
+
+[[zipcodes]]
+zipcode = 29009
+percent_zip_in_county = 92.62
+
+[[zipcodes]]
+zipcode = 29010
+percent_zip_in_county = 0.78
+
+[[zipcodes]]
+zipcode = 29020
+percent_zip_in_county = 97.34
+
+[[zipcodes]]
+zipcode = 29032
+percent_zip_in_county = 97.2
+
+[[zipcodes]]
+zipcode = 29045
+percent_zip_in_county = 60.21
+
+[[zipcodes]]
+zipcode = 29058
+percent_zip_in_county = 1.52
+
+[[zipcodes]]
+zipcode = 29067
+percent_zip_in_county = 25.09
+
+[[zipcodes]]
+zipcode = 29074
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29078
+percent_zip_in_county = 98.32
+
+[[zipcodes]]
+zipcode = 29128
+percent_zip_in_county = 6.63
+
+[[zipcodes]]
+zipcode = 29130
+percent_zip_in_county = 13.33
+
+[[zipcodes]]
+zipcode = 29175
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29718
+percent_zip_in_county = 6.43

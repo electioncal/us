@@ -1,2 +1,30 @@
 name = "Cumberland County"
 fips_code = 51049
+
+[[zipcodes]]
+zipcode = 23027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23038
+percent_zip_in_county = 29.3
+
+[[zipcodes]]
+zipcode = 23040
+percent_zip_in_county = 93.65
+
+[[zipcodes]]
+zipcode = 23123
+percent_zip_in_county = 3.33
+
+[[zipcodes]]
+zipcode = 23139
+percent_zip_in_county = 0.79
+
+[[zipcodes]]
+zipcode = 23901
+percent_zip_in_county = 20.51
+
+[[zipcodes]]
+zipcode = 23936
+percent_zip_in_county = 1.67

@@ -1,2 +1,10 @@
 name = "Loíza Municipio"
 fips_code = 72087
+
+[[zipcodes]]
+zipcode = 729
+percent_zip_in_county = 12.91
+
+[[zipcodes]]
+zipcode = 772
+percent_zip_in_county = 100.0

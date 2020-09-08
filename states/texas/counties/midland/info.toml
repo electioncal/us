@@ -1,2 +1,30 @@
 name = "Midland County"
 fips_code = 48329
+
+[[zipcodes]]
+zipcode = 79701
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79703
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79705
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79706
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79707
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79765
+percent_zip_in_county = 36.71
+
+[[zipcodes]]
+zipcode = 79766
+percent_zip_in_county = 0.78

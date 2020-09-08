@@ -1,2 +1,106 @@
 name = "Stanislaus County"
 fips_code = 6099
+
+[[zipcodes]]
+zipcode = 95230
+percent_zip_in_county = 23.96
+
+[[zipcodes]]
+zipcode = 95307
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95313
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95316
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95319
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95323
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95326
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95328
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95329
+percent_zip_in_county = 11.1
+
+[[zipcodes]]
+zipcode = 95350
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95351
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95354
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95355
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95356
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95357
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95358
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95360
+percent_zip_in_county = 98.45
+
+[[zipcodes]]
+zipcode = 95361
+percent_zip_in_county = 98.69
+
+[[zipcodes]]
+zipcode = 95363
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95367
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95368
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95380
+percent_zip_in_county = 96.22
+
+[[zipcodes]]
+zipcode = 95382
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95385
+percent_zip_in_county = 64.57
+
+[[zipcodes]]
+zipcode = 95386
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95387
+percent_zip_in_county = 100.0

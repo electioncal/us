@@ -1,2 +1,34 @@
 name = "Silver Bow County"
 fips_code = 30093
+
+[[zipcodes]]
+zipcode = 59701
+percent_zip_in_county = 99.63
+
+[[zipcodes]]
+zipcode = 59703
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59711
+percent_zip_in_county = 2.54
+
+[[zipcodes]]
+zipcode = 59727
+percent_zip_in_county = 82.35
+
+[[zipcodes]]
+zipcode = 59743
+percent_zip_in_county = 84.33
+
+[[zipcodes]]
+zipcode = 59748
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59750
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59759
+percent_zip_in_county = 1.32

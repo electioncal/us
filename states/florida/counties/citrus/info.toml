@@ -1,2 +1,62 @@
 name = "Citrus County"
 fips_code = 12017
+
+[[zipcodes]]
+zipcode = 34428
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34429
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34433
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34434
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34436
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34442
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34445
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34446
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34448
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34449
+percent_zip_in_county = 10.57
+
+[[zipcodes]]
+zipcode = 34450
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34452
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34453
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34461
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34465
+percent_zip_in_county = 100.0

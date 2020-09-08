@@ -1,2 +1,38 @@
 name = "Clarke County"
 fips_code = 13059
+
+[[zipcodes]]
+zipcode = 30601
+percent_zip_in_county = 98.3
+
+[[zipcodes]]
+zipcode = 30602
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30605
+percent_zip_in_county = 99.48
+
+[[zipcodes]]
+zipcode = 30606
+percent_zip_in_county = 90.67
+
+[[zipcodes]]
+zipcode = 30607
+percent_zip_in_county = 73.93
+
+[[zipcodes]]
+zipcode = 30609
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30622
+percent_zip_in_county = 36.87
+
+[[zipcodes]]
+zipcode = 30646
+percent_zip_in_county = 0.78
+
+[[zipcodes]]
+zipcode = 30683
+percent_zip_in_county = 55.22

@@ -1,2 +1,66 @@
 name = "York County"
 fips_code = 45091
+
+[[zipcodes]]
+zipcode = 29702
+percent_zip_in_county = 4.04
+
+[[zipcodes]]
+zipcode = 29704
+percent_zip_in_county = 85.06
+
+[[zipcodes]]
+zipcode = 29706
+percent_zip_in_county = 0.12
+
+[[zipcodes]]
+zipcode = 29707
+percent_zip_in_county = 0.04
+
+[[zipcodes]]
+zipcode = 29708
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29710
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29712
+percent_zip_in_county = 13.94
+
+[[zipcodes]]
+zipcode = 29715
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29717
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29726
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29730
+percent_zip_in_county = 99.47
+
+[[zipcodes]]
+zipcode = 29732
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29733
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29742
+percent_zip_in_county = 90.69
+
+[[zipcodes]]
+zipcode = 29743
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29745
+percent_zip_in_county = 100.0

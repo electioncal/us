@@ -1,2 +1,34 @@
 name = "Oscoda County"
 fips_code = 26135
+
+[[zipcodes]]
+zipcode = 48619
+percent_zip_in_county = 89.03
+
+[[zipcodes]]
+zipcode = 48621
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48636
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48647
+percent_zip_in_county = 99.93
+
+[[zipcodes]]
+zipcode = 48654
+percent_zip_in_county = 10.04
+
+[[zipcodes]]
+zipcode = 48728
+percent_zip_in_county = 13.45
+
+[[zipcodes]]
+zipcode = 48761
+percent_zip_in_county = 3.8
+
+[[zipcodes]]
+zipcode = 49756
+percent_zip_in_county = 32.54

@@ -1,2 +1,34 @@
 name = "Metcalfe County"
 fips_code = 21169
+
+[[zipcodes]]
+zipcode = 42124
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42129
+percent_zip_in_county = 96.21
+
+[[zipcodes]]
+zipcode = 42154
+percent_zip_in_county = 86.69
+
+[[zipcodes]]
+zipcode = 42166
+percent_zip_in_county = 71.91
+
+[[zipcodes]]
+zipcode = 42214
+percent_zip_in_county = 80.21
+
+[[zipcodes]]
+zipcode = 42731
+percent_zip_in_county = 13.2
+
+[[zipcodes]]
+zipcode = 42746
+percent_zip_in_county = 7.72
+
+[[zipcodes]]
+zipcode = 42749
+percent_zip_in_county = 5.4

@@ -1,2 +1,90 @@
 name = "Knox County"
 fips_code = 17095
+
+[[zipcodes]]
+zipcode = 61401
+percent_zip_in_county = 99.3
+
+[[zipcodes]]
+zipcode = 61410
+percent_zip_in_county = 96.96
+
+[[zipcodes]]
+zipcode = 61414
+percent_zip_in_county = 92.39
+
+[[zipcodes]]
+zipcode = 61428
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61430
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61434
+percent_zip_in_county = 5.07
+
+[[zipcodes]]
+zipcode = 61436
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61439
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61448
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61449
+percent_zip_in_county = 25.0
+
+[[zipcodes]]
+zipcode = 61458
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61467
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61472
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61474
+percent_zip_in_county = 95.89
+
+[[zipcodes]]
+zipcode = 61485
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61488
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61489
+percent_zip_in_county = 99.33
+
+[[zipcodes]]
+zipcode = 61490
+percent_zip_in_county = 2.84
+
+[[zipcodes]]
+zipcode = 61529
+percent_zip_in_county = 1.18
+
+[[zipcodes]]
+zipcode = 61531
+percent_zip_in_county = 1.24
+
+[[zipcodes]]
+zipcode = 61544
+percent_zip_in_county = 13.04
+
+[[zipcodes]]
+zipcode = 61572
+percent_zip_in_county = 100.0

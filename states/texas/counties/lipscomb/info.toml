@@ -1,2 +1,26 @@
 name = "Lipscomb County"
 fips_code = 48295
+
+[[zipcodes]]
+zipcode = 79005
+percent_zip_in_county = 95.56
+
+[[zipcodes]]
+zipcode = 79014
+percent_zip_in_county = 1.33
+
+[[zipcodes]]
+zipcode = 79024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79056
+percent_zip_in_county = 100.0

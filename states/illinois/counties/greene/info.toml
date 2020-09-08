@@ -1,2 +1,46 @@
 name = "Greene County"
 fips_code = 17061
+
+[[zipcodes]]
+zipcode = 62016
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62044
+percent_zip_in_county = 94.72
+
+[[zipcodes]]
+zipcode = 62050
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62054
+percent_zip_in_county = 86.35
+
+[[zipcodes]]
+zipcode = 62078
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62081
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62082
+percent_zip_in_county = 93.66
+
+[[zipcodes]]
+zipcode = 62092
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62098
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62630
+percent_zip_in_county = 1.13

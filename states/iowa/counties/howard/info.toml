@@ -1,2 +1,38 @@
 name = "Howard County"
 fips_code = 19089
+
+[[zipcodes]]
+zipcode = 50466
+percent_zip_in_county = 47.21
+
+[[zipcodes]]
+zipcode = 50603
+percent_zip_in_county = 12.64
+
+[[zipcodes]]
+zipcode = 50628
+percent_zip_in_county = 95.92
+
+[[zipcodes]]
+zipcode = 52132
+percent_zip_in_county = 1.29
+
+[[zipcodes]]
+zipcode = 52134
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52136
+percent_zip_in_county = 90.13
+
+[[zipcodes]]
+zipcode = 52154
+percent_zip_in_county = 1.91
+
+[[zipcodes]]
+zipcode = 52155
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52163
+percent_zip_in_county = 100.0

@@ -1,2 +1,14 @@
 name = "Bristol County"
 fips_code = 44001
+
+[[zipcodes]]
+zipcode = 2806
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2809
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2885
+percent_zip_in_county = 100.0

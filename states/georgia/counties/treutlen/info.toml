@@ -1,2 +1,18 @@
 name = "Treutlen County"
 fips_code = 13283
+
+[[zipcodes]]
+zipcode = 30457
+percent_zip_in_county = 98.94
+
+[[zipcodes]]
+zipcode = 30470
+percent_zip_in_county = 44.49
+
+[[zipcodes]]
+zipcode = 30474
+percent_zip_in_county = 0.36
+
+[[zipcodes]]
+zipcode = 31002
+percent_zip_in_county = 8.25

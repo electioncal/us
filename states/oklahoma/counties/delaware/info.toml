@@ -1,2 +1,54 @@
 name = "Delaware County"
 fips_code = 40041
+
+[[zipcodes]]
+zipcode = 74331
+percent_zip_in_county = 75.08
+
+[[zipcodes]]
+zipcode = 74338
+percent_zip_in_county = 99.31
+
+[[zipcodes]]
+zipcode = 74342
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74344
+percent_zip_in_county = 99.65
+
+[[zipcodes]]
+zipcode = 74346
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74347
+percent_zip_in_county = 85.0
+
+[[zipcodes]]
+zipcode = 74359
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74364
+percent_zip_in_county = 65.54
+
+[[zipcodes]]
+zipcode = 74365
+percent_zip_in_county = 10.02
+
+[[zipcodes]]
+zipcode = 74366
+percent_zip_in_county = 4.68
+
+[[zipcodes]]
+zipcode = 74368
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74370
+percent_zip_in_county = 7.72
+
+[[zipcodes]]
+zipcode = 74964
+percent_zip_in_county = 16.44

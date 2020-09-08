@@ -1,2 +1,66 @@
 name = "Hudson County"
 fips_code = 34017
+
+[[zipcodes]]
+zipcode = 7002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7029
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7047
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7086
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7087
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7093
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7094
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7302
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7304
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7305
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7306
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7307
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7310
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7311
+percent_zip_in_county = 100.0

@@ -1,2 +1,126 @@
 name = "Baltimore city"
 fips_code = 24510
+
+[[zipcodes]]
+zipcode = 21201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21202
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21205
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21206
+percent_zip_in_county = 79.42
+
+[[zipcodes]]
+zipcode = 21207
+percent_zip_in_county = 29.55
+
+[[zipcodes]]
+zipcode = 21208
+percent_zip_in_county = 5.8
+
+[[zipcodes]]
+zipcode = 21209
+percent_zip_in_county = 46.14
+
+[[zipcodes]]
+zipcode = 21210
+percent_zip_in_county = 93.42
+
+[[zipcodes]]
+zipcode = 21211
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21212
+percent_zip_in_county = 66.17
+
+[[zipcodes]]
+zipcode = 21213
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21214
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21215
+percent_zip_in_county = 97.1
+
+[[zipcodes]]
+zipcode = 21216
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21217
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21218
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21222
+percent_zip_in_county = 3.32
+
+[[zipcodes]]
+zipcode = 21223
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21224
+percent_zip_in_county = 82.4
+
+[[zipcodes]]
+zipcode = 21225
+percent_zip_in_county = 57.07
+
+[[zipcodes]]
+zipcode = 21226
+percent_zip_in_county = 43.49
+
+[[zipcodes]]
+zipcode = 21227
+percent_zip_in_county = 2.53
+
+[[zipcodes]]
+zipcode = 21228
+percent_zip_in_county = 0.56
+
+[[zipcodes]]
+zipcode = 21229
+percent_zip_in_county = 84.52
+
+[[zipcodes]]
+zipcode = 21230
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21231
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21234
+percent_zip_in_county = 12.49
+
+[[zipcodes]]
+zipcode = 21236
+percent_zip_in_county = 0.5
+
+[[zipcodes]]
+zipcode = 21237
+percent_zip_in_county = 0.16
+
+[[zipcodes]]
+zipcode = 21239
+percent_zip_in_county = 82.61
+
+[[zipcodes]]
+zipcode = 21251
+percent_zip_in_county = 100.0

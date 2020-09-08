@@ -1,2 +1,42 @@
 name = "Winn Parish"
 fips_code = 22127
+
+[[zipcodes]]
+zipcode = 71031
+percent_zip_in_county = 38.25
+
+[[zipcodes]]
+zipcode = 71404
+percent_zip_in_county = 66.12
+
+[[zipcodes]]
+zipcode = 71410
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71422
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71454
+percent_zip_in_county = 11.87
+
+[[zipcodes]]
+zipcode = 71457
+percent_zip_in_county = 1.38
+
+[[zipcodes]]
+zipcode = 71465
+percent_zip_in_county = 1.24
+
+[[zipcodes]]
+zipcode = 71473
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71479
+percent_zip_in_county = 27.37
+
+[[zipcodes]]
+zipcode = 71483
+percent_zip_in_county = 100.0

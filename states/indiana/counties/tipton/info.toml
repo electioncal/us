@@ -1,2 +1,42 @@
 name = "Tipton County"
 fips_code = 18159
+
+[[zipcodes]]
+zipcode = 46031
+percent_zip_in_county = 16.38
+
+[[zipcodes]]
+zipcode = 46036
+percent_zip_in_county = 6.22
+
+[[zipcodes]]
+zipcode = 46045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46047
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46049
+percent_zip_in_county = 96.71
+
+[[zipcodes]]
+zipcode = 46050
+percent_zip_in_county = 1.52
+
+[[zipcodes]]
+zipcode = 46068
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46076
+percent_zip_in_county = 95.11
+
+[[zipcodes]]
+zipcode = 46902
+percent_zip_in_county = 0.24

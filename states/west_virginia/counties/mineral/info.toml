@@ -1,2 +1,38 @@
 name = "Mineral County"
 fips_code = 54057
+
+[[zipcodes]]
+zipcode = 26710
+percent_zip_in_county = 86.92
+
+[[zipcodes]]
+zipcode = 26717
+percent_zip_in_county = 85.9
+
+[[zipcodes]]
+zipcode = 26719
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26726
+percent_zip_in_county = 98.22
+
+[[zipcodes]]
+zipcode = 26743
+percent_zip_in_county = 80.84
+
+[[zipcodes]]
+zipcode = 26750
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26753
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26763
+percent_zip_in_county = 18.31
+
+[[zipcodes]]
+zipcode = 26767
+percent_zip_in_county = 100.0

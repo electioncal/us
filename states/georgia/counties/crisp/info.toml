@@ -1,2 +1,18 @@
 name = "Crisp County"
 fips_code = 13081
+
+[[zipcodes]]
+zipcode = 31015
+percent_zip_in_county = 99.85
+
+[[zipcodes]]
+zipcode = 31072
+percent_zip_in_county = 5.43
+
+[[zipcodes]]
+zipcode = 31092
+percent_zip_in_county = 2.67
+
+[[zipcodes]]
+zipcode = 31712
+percent_zip_in_county = 100.0

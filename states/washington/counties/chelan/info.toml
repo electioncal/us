@@ -1,2 +1,54 @@
 name = "Chelan County"
 fips_code = 53007
+
+[[zipcodes]]
+zipcode = 98801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98811
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98815
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98816
+percent_zip_in_county = 99.72
+
+[[zipcodes]]
+zipcode = 98817
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98821
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98822
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98826
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98828
+percent_zip_in_county = 99.63
+
+[[zipcodes]]
+zipcode = 98831
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98836
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98847
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98852
+percent_zip_in_county = 100.0

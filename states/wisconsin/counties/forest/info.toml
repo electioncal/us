@@ -1,2 +1,46 @@
 name = "Forest County"
 fips_code = 55041
+
+[[zipcodes]]
+zipcode = 54103
+percent_zip_in_county = 98.09
+
+[[zipcodes]]
+zipcode = 54104
+percent_zip_in_county = 0.57
+
+[[zipcodes]]
+zipcode = 54125
+percent_zip_in_county = 0.39
+
+[[zipcodes]]
+zipcode = 54465
+percent_zip_in_county = 45.15
+
+[[zipcodes]]
+zipcode = 54511
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54520
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54521
+percent_zip_in_county = 0.48
+
+[[zipcodes]]
+zipcode = 54541
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54542
+percent_zip_in_county = 35.96
+
+[[zipcodes]]
+zipcode = 54562
+percent_zip_in_county = 1.75
+
+[[zipcodes]]
+zipcode = 54566
+percent_zip_in_county = 100.0

@@ -1,2 +1,62 @@
 name = "Rusk County"
 fips_code = 55107
+
+[[zipcodes]]
+zipcode = 54526
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54530
+percent_zip_in_county = 78.57
+
+[[zipcodes]]
+zipcode = 54563
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54728
+percent_zip_in_county = 6.97
+
+[[zipcodes]]
+zipcode = 54731
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54745
+percent_zip_in_county = 13.18
+
+[[zipcodes]]
+zipcode = 54757
+percent_zip_in_county = 5.94
+
+[[zipcodes]]
+zipcode = 54766
+percent_zip_in_county = 48.86
+
+[[zipcodes]]
+zipcode = 54817
+percent_zip_in_county = 4.57
+
+[[zipcodes]]
+zipcode = 54819
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54835
+percent_zip_in_county = 12.57
+
+[[zipcodes]]
+zipcode = 54848
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54868
+percent_zip_in_county = 0.34
+
+[[zipcodes]]
+zipcode = 54895
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54896
+percent_zip_in_county = 0.0

@@ -1,2 +1,54 @@
 name = "Major County"
 fips_code = 40093
+
+[[zipcodes]]
+zipcode = 73663
+percent_zip_in_county = 1.05
+
+[[zipcodes]]
+zipcode = 73716
+percent_zip_in_county = 7.84
+
+[[zipcodes]]
+zipcode = 73718
+percent_zip_in_county = 93.61
+
+[[zipcodes]]
+zipcode = 73729
+percent_zip_in_county = 96.71
+
+[[zipcodes]]
+zipcode = 73737
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73747
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73754
+percent_zip_in_county = 4.17
+
+[[zipcodes]]
+zipcode = 73755
+percent_zip_in_county = 18.34
+
+[[zipcodes]]
+zipcode = 73760
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73763
+percent_zip_in_county = 3.57
+
+[[zipcodes]]
+zipcode = 73768
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73838
+percent_zip_in_county = 88.96
+
+[[zipcodes]]
+zipcode = 73860
+percent_zip_in_county = 5.61

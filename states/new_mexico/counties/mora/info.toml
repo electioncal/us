@@ -1,2 +1,58 @@
 name = "Mora County"
 fips_code = 35033
+
+[[zipcodes]]
+zipcode = 87712
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87713
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87715
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87722
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87723
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87732
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87734
+percent_zip_in_county = 98.9
+
+[[zipcodes]]
+zipcode = 87735
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87736
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87742
+percent_zip_in_county = 16.75
+
+[[zipcodes]]
+zipcode = 87745
+percent_zip_in_county = 4.13
+
+[[zipcodes]]
+zipcode = 87750
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87752
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87753
+percent_zip_in_county = 100.0

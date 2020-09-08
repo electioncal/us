@@ -1,2 +1,42 @@
 name = "Orange County"
 fips_code = 51137
+
+[[zipcodes]]
+zipcode = 22433
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22508
+percent_zip_in_county = 91.87
+
+[[zipcodes]]
+zipcode = 22542
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22567
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22701
+percent_zip_in_county = 2.65
+
+[[zipcodes]]
+zipcode = 22733
+percent_zip_in_county = 35.53
+
+[[zipcodes]]
+zipcode = 22923
+percent_zip_in_county = 31.16
+
+[[zipcodes]]
+zipcode = 22942
+percent_zip_in_county = 46.05
+
+[[zipcodes]]
+zipcode = 22960
+percent_zip_in_county = 87.43
+
+[[zipcodes]]
+zipcode = 22972
+percent_zip_in_county = 100.0

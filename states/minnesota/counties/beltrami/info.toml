@@ -1,2 +1,74 @@
 name = "Beltrami County"
 fips_code = 27007
+
+[[zipcodes]]
+zipcode = 56601
+percent_zip_in_county = 94.41
+
+[[zipcodes]]
+zipcode = 56630
+percent_zip_in_county = 90.74
+
+[[zipcodes]]
+zipcode = 56633
+percent_zip_in_county = 21.47
+
+[[zipcodes]]
+zipcode = 56647
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56650
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56652
+percent_zip_in_county = 9.83
+
+[[zipcodes]]
+zipcode = 56661
+percent_zip_in_county = 10.62
+
+[[zipcodes]]
+zipcode = 56663
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56666
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56667
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56670
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56671
+percent_zip_in_county = 97.42
+
+[[zipcodes]]
+zipcode = 56676
+percent_zip_in_county = 37.46
+
+[[zipcodes]]
+zipcode = 56678
+percent_zip_in_county = 64.35
+
+[[zipcodes]]
+zipcode = 56683
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56685
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56687
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56727
+percent_zip_in_county = 39.14

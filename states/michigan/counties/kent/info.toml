@@ -1,2 +1,154 @@
 name = "Kent County"
 fips_code = 26081
+
+[[zipcodes]]
+zipcode = 48809
+percent_zip_in_county = 14.7
+
+[[zipcodes]]
+zipcode = 48815
+percent_zip_in_county = 1.37
+
+[[zipcodes]]
+zipcode = 48838
+percent_zip_in_county = 14.17
+
+[[zipcodes]]
+zipcode = 49301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49302
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49306
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49315
+percent_zip_in_county = 94.1
+
+[[zipcodes]]
+zipcode = 49316
+percent_zip_in_county = 87.71
+
+[[zipcodes]]
+zipcode = 49318
+percent_zip_in_county = 14.23
+
+[[zipcodes]]
+zipcode = 49319
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49321
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49325
+percent_zip_in_county = 12.0
+
+[[zipcodes]]
+zipcode = 49326
+percent_zip_in_county = 72.55
+
+[[zipcodes]]
+zipcode = 49327
+percent_zip_in_county = 0.54
+
+[[zipcodes]]
+zipcode = 49330
+percent_zip_in_county = 92.06
+
+[[zipcodes]]
+zipcode = 49331
+percent_zip_in_county = 86.92
+
+[[zipcodes]]
+zipcode = 49333
+percent_zip_in_county = 1.84
+
+[[zipcodes]]
+zipcode = 49341
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49343
+percent_zip_in_county = 56.39
+
+[[zipcodes]]
+zipcode = 49345
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49347
+percent_zip_in_county = 2.23
+
+[[zipcodes]]
+zipcode = 49348
+percent_zip_in_county = 1.7
+
+[[zipcodes]]
+zipcode = 49403
+percent_zip_in_county = 1.58
+
+[[zipcodes]]
+zipcode = 49418
+percent_zip_in_county = 84.27
+
+[[zipcodes]]
+zipcode = 49503
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49504
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49505
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49506
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49507
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49508
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49509
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49512
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49519
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49525
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49534
+percent_zip_in_county = 77.18
+
+[[zipcodes]]
+zipcode = 49544
+percent_zip_in_county = 99.43
+
+[[zipcodes]]
+zipcode = 49546
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49548
+percent_zip_in_county = 100.0

@@ -1,2 +1,46 @@
 name = "Crittenden County"
 fips_code = 5035
+
+[[zipcodes]]
+zipcode = 72301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72325
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72327
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72331
+percent_zip_in_county = 96.7
+
+[[zipcodes]]
+zipcode = 72332
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72339
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72348
+percent_zip_in_county = 27.79
+
+[[zipcodes]]
+zipcode = 72364
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72376
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72384
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72386
+percent_zip_in_county = 10.64

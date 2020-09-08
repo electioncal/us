@@ -1,2 +1,58 @@
 name = "Defiance County"
 fips_code = 39039
+
+[[zipcodes]]
+zipcode = 43506
+percent_zip_in_county = 3.61
+
+[[zipcodes]]
+zipcode = 43512
+percent_zip_in_county = 96.31
+
+[[zipcodes]]
+zipcode = 43517
+percent_zip_in_county = 19.44
+
+[[zipcodes]]
+zipcode = 43519
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43526
+percent_zip_in_county = 98.52
+
+[[zipcodes]]
+zipcode = 43527
+percent_zip_in_county = 6.12
+
+[[zipcodes]]
+zipcode = 43536
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43545
+percent_zip_in_county = 0.16
+
+[[zipcodes]]
+zipcode = 43548
+percent_zip_in_county = 6.71
+
+[[zipcodes]]
+zipcode = 43549
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43556
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45813
+percent_zip_in_county = 0.68
+
+[[zipcodes]]
+zipcode = 45821
+percent_zip_in_county = 1.6
+
+[[zipcodes]]
+zipcode = 45831
+percent_zip_in_county = 0.63

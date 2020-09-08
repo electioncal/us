@@ -1,2 +1,38 @@
 name = "Scott County"
 fips_code = 17171
+
+[[zipcodes]]
+zipcode = 62082
+percent_zip_in_county = 6.34
+
+[[zipcodes]]
+zipcode = 62610
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62621
+percent_zip_in_county = 98.21
+
+[[zipcodes]]
+zipcode = 62628
+percent_zip_in_county = 4.8
+
+[[zipcodes]]
+zipcode = 62650
+percent_zip_in_county = 0.3
+
+[[zipcodes]]
+zipcode = 62663
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62665
+percent_zip_in_county = 10.62
+
+[[zipcodes]]
+zipcode = 62668
+percent_zip_in_county = 5.22
+
+[[zipcodes]]
+zipcode = 62694
+percent_zip_in_county = 98.43

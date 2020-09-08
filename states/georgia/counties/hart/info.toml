@@ -1,2 +1,34 @@
 name = "Hart County"
 fips_code = 13147
+
+[[zipcodes]]
+zipcode = 30516
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30520
+percent_zip_in_county = 45.57
+
+[[zipcodes]]
+zipcode = 30553
+percent_zip_in_county = 25.97
+
+[[zipcodes]]
+zipcode = 30624
+percent_zip_in_county = 4.48
+
+[[zipcodes]]
+zipcode = 30634
+percent_zip_in_county = 25.65
+
+[[zipcodes]]
+zipcode = 30635
+percent_zip_in_county = 0.36
+
+[[zipcodes]]
+zipcode = 30643
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30662
+percent_zip_in_county = 24.86

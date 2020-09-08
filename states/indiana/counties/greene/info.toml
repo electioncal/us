@@ -1,2 +1,66 @@
 name = "Greene County"
 fips_code = 18055
+
+[[zipcodes]]
+zipcode = 47403
+percent_zip_in_county = 0.72
+
+[[zipcodes]]
+zipcode = 47424
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47438
+percent_zip_in_county = 72.51
+
+[[zipcodes]]
+zipcode = 47441
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47443
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47449
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47453
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47457
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47459
+percent_zip_in_county = 93.28
+
+[[zipcodes]]
+zipcode = 47460
+percent_zip_in_county = 0.42
+
+[[zipcodes]]
+zipcode = 47462
+percent_zip_in_county = 26.93
+
+[[zipcodes]]
+zipcode = 47465
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47471
+percent_zip_in_county = 87.28
+
+[[zipcodes]]
+zipcode = 47529
+percent_zip_in_county = 2.98
+
+[[zipcodes]]
+zipcode = 47578
+percent_zip_in_county = 25.9
+
+[[zipcodes]]
+zipcode = 47848
+percent_zip_in_county = 7.57

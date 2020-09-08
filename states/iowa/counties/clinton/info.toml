@@ -1,2 +1,82 @@
 name = "Clinton County"
 fips_code = 19045
+
+[[zipcodes]]
+zipcode = 52037
+percent_zip_in_county = 98.45
+
+[[zipcodes]]
+zipcode = 52060
+percent_zip_in_county = 1.8
+
+[[zipcodes]]
+zipcode = 52064
+percent_zip_in_county = 7.91
+
+[[zipcodes]]
+zipcode = 52069
+percent_zip_in_county = 6.84
+
+[[zipcodes]]
+zipcode = 52070
+percent_zip_in_county = 10.9
+
+[[zipcodes]]
+zipcode = 52207
+percent_zip_in_county = 9.14
+
+[[zipcodes]]
+zipcode = 52254
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52323
+percent_zip_in_county = 5.88
+
+[[zipcodes]]
+zipcode = 52701
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52727
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52729
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52731
+percent_zip_in_county = 98.66
+
+[[zipcodes]]
+zipcode = 52732
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52742
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52750
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52751
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52757
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52774
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52777
+percent_zip_in_county = 98.08

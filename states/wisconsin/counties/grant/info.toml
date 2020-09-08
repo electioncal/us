@@ -1,2 +1,94 @@
 name = "Grant County"
 fips_code = 55043
+
+[[zipcodes]]
+zipcode = 53518
+percent_zip_in_county = 39.02
+
+[[zipcodes]]
+zipcode = 53543
+percent_zip_in_county = 4.81
+
+[[zipcodes]]
+zipcode = 53554
+percent_zip_in_county = 88.1
+
+[[zipcodes]]
+zipcode = 53569
+percent_zip_in_county = 75.5
+
+[[zipcodes]]
+zipcode = 53573
+percent_zip_in_county = 68.32
+
+[[zipcodes]]
+zipcode = 53801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53802
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53804
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53805
+percent_zip_in_county = 88.78
+
+[[zipcodes]]
+zipcode = 53806
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53807
+percent_zip_in_county = 81.29
+
+[[zipcodes]]
+zipcode = 53808
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53809
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53810
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53811
+percent_zip_in_county = 96.71
+
+[[zipcodes]]
+zipcode = 53813
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53816
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53817
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53818
+percent_zip_in_county = 95.36
+
+[[zipcodes]]
+zipcode = 53820
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53821
+percent_zip_in_county = 2.87
+
+[[zipcodes]]
+zipcode = 53825
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53827
+percent_zip_in_county = 100.0

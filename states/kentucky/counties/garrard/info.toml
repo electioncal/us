@@ -1,2 +1,22 @@
 name = "Garrard County"
 fips_code = 21079
+
+[[zipcodes]]
+zipcode = 40403
+percent_zip_in_county = 4.43
+
+[[zipcodes]]
+zipcode = 40419
+percent_zip_in_county = 13.81
+
+[[zipcodes]]
+zipcode = 40444
+percent_zip_in_county = 98.24
+
+[[zipcodes]]
+zipcode = 40461
+percent_zip_in_county = 39.67
+
+[[zipcodes]]
+zipcode = 40484
+percent_zip_in_county = 1.15

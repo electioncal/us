@@ -1,2 +1,14 @@
 name = "Butte County"
 fips_code = 16023
+
+[[zipcodes]]
+zipcode = 83213
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83244
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83255
+percent_zip_in_county = 73.29

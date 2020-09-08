@@ -1,2 +1,134 @@
 name = "Centre County"
 fips_code = 42027
+
+[[zipcodes]]
+zipcode = 16666
+percent_zip_in_county = 13.89
+
+[[zipcodes]]
+zipcode = 16677
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16686
+percent_zip_in_county = 1.67
+
+[[zipcodes]]
+zipcode = 16801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16802
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16803
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16820
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16822
+percent_zip_in_county = 16.47
+
+[[zipcodes]]
+zipcode = 16823
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16826
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16827
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16828
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16829
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16832
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16835
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16841
+percent_zip_in_county = 99.12
+
+[[zipcodes]]
+zipcode = 16844
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16845
+percent_zip_in_county = 34.1
+
+[[zipcodes]]
+zipcode = 16851
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16852
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16853
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16854
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16859
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16860
+percent_zip_in_county = 40.8
+
+[[zipcodes]]
+zipcode = 16865
+percent_zip_in_county = 90.1
+
+[[zipcodes]]
+zipcode = 16866
+percent_zip_in_county = 57.71
+
+[[zipcodes]]
+zipcode = 16868
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16870
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16872
+percent_zip_in_county = 99.68
+
+[[zipcodes]]
+zipcode = 16874
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16875
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16877
+percent_zip_in_county = 35.24
+
+[[zipcodes]]
+zipcode = 16882
+percent_zip_in_county = 100.0

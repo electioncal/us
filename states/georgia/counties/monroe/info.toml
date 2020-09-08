@@ -1,2 +1,38 @@
 name = "Monroe County"
 fips_code = 13207
+
+[[zipcodes]]
+zipcode = 30204
+percent_zip_in_county = 1.58
+
+[[zipcodes]]
+zipcode = 30233
+percent_zip_in_county = 9.11
+
+[[zipcodes]]
+zipcode = 31016
+percent_zip_in_county = 59.46
+
+[[zipcodes]]
+zipcode = 31029
+percent_zip_in_county = 99.97
+
+[[zipcodes]]
+zipcode = 31046
+percent_zip_in_county = 91.21
+
+[[zipcodes]]
+zipcode = 31066
+percent_zip_in_county = 4.8
+
+[[zipcodes]]
+zipcode = 31097
+percent_zip_in_county = 4.07
+
+[[zipcodes]]
+zipcode = 31210
+percent_zip_in_county = 8.54
+
+[[zipcodes]]
+zipcode = 31220
+percent_zip_in_county = 8.03

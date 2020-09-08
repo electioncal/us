@@ -1,2 +1,30 @@
 name = "Gogebic County"
 fips_code = 26053
+
+[[zipcodes]]
+zipcode = 49911
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49938
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49947
+percent_zip_in_county = 95.16
+
+[[zipcodes]]
+zipcode = 49959
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49968
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49969
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54540
+percent_zip_in_county = 1.69

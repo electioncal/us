@@ -1,2 +1,70 @@
 name = "Graves County"
 fips_code = 21083
+
+[[zipcodes]]
+zipcode = 42025
+percent_zip_in_county = 0.38
+
+[[zipcodes]]
+zipcode = 42027
+percent_zip_in_county = 65.74
+
+[[zipcodes]]
+zipcode = 42035
+percent_zip_in_county = 13.01
+
+[[zipcodes]]
+zipcode = 42039
+percent_zip_in_county = 66.25
+
+[[zipcodes]]
+zipcode = 42040
+percent_zip_in_county = 68.48
+
+[[zipcodes]]
+zipcode = 42041
+percent_zip_in_county = 12.62
+
+[[zipcodes]]
+zipcode = 42049
+percent_zip_in_county = 0.68
+
+[[zipcodes]]
+zipcode = 42051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42054
+percent_zip_in_county = 3.15
+
+[[zipcodes]]
+zipcode = 42061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42066
+percent_zip_in_county = 99.59
+
+[[zipcodes]]
+zipcode = 42069
+percent_zip_in_county = 81.82
+
+[[zipcodes]]
+zipcode = 42071
+percent_zip_in_county = 0.03
+
+[[zipcodes]]
+zipcode = 42079
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42082
+percent_zip_in_county = 77.51
+
+[[zipcodes]]
+zipcode = 42085
+percent_zip_in_county = 77.78
+
+[[zipcodes]]
+zipcode = 42088
+percent_zip_in_county = 90.93

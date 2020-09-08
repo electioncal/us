@@ -1,2 +1,42 @@
 name = "Adair County"
 fips_code = 21001
+
+[[zipcodes]]
+zipcode = 42129
+percent_zip_in_county = 3.64
+
+[[zipcodes]]
+zipcode = 42528
+percent_zip_in_county = 9.19
+
+[[zipcodes]]
+zipcode = 42539
+percent_zip_in_county = 0.28
+
+[[zipcodes]]
+zipcode = 42642
+percent_zip_in_county = 5.04
+
+[[zipcodes]]
+zipcode = 42715
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42728
+percent_zip_in_county = 99.64
+
+[[zipcodes]]
+zipcode = 42733
+percent_zip_in_county = 3.37
+
+[[zipcodes]]
+zipcode = 42741
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42743
+percent_zip_in_county = 1.25
+
+[[zipcodes]]
+zipcode = 42753
+percent_zip_in_county = 100.0

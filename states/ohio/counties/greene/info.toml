@@ -1,2 +1,98 @@
 name = "Greene County"
 fips_code = 39057
+
+[[zipcodes]]
+zipcode = 43153
+percent_zip_in_county = 1.65
+
+[[zipcodes]]
+zipcode = 45068
+percent_zip_in_county = 1.42
+
+[[zipcodes]]
+zipcode = 45169
+percent_zip_in_county = 1.91
+
+[[zipcodes]]
+zipcode = 45301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45305
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45307
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45314
+percent_zip_in_county = 99.44
+
+[[zipcodes]]
+zipcode = 45316
+percent_zip_in_county = 76.52
+
+[[zipcodes]]
+zipcode = 45324
+percent_zip_in_county = 95.16
+
+[[zipcodes]]
+zipcode = 45335
+percent_zip_in_county = 97.18
+
+[[zipcodes]]
+zipcode = 45368
+percent_zip_in_county = 1.12
+
+[[zipcodes]]
+zipcode = 45370
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45384
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45385
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45387
+percent_zip_in_county = 95.76
+
+[[zipcodes]]
+zipcode = 45424
+percent_zip_in_county = 1.34
+
+[[zipcodes]]
+zipcode = 45430
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45431
+percent_zip_in_county = 48.65
+
+[[zipcodes]]
+zipcode = 45432
+percent_zip_in_county = 53.81
+
+[[zipcodes]]
+zipcode = 45433
+percent_zip_in_county = 90.35
+
+[[zipcodes]]
+zipcode = 45434
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45440
+percent_zip_in_county = 41.92
+
+[[zipcodes]]
+zipcode = 45458
+percent_zip_in_county = 0.96
+
+[[zipcodes]]
+zipcode = 45459
+percent_zip_in_county = 0.35

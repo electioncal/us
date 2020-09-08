@@ -1,2 +1,26 @@
 name = "Clark County"
 fips_code = 20025
+
+[[zipcodes]]
+zipcode = 67127
+percent_zip_in_county = 2.85
+
+[[zipcodes]]
+zipcode = 67831
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67834
+percent_zip_in_county = 3.42
+
+[[zipcodes]]
+zipcode = 67840
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67842
+percent_zip_in_county = 2.34
+
+[[zipcodes]]
+zipcode = 67865
+percent_zip_in_county = 86.22

@@ -1,2 +1,10 @@
 name = "Gulf County"
 fips_code = 12045
+
+[[zipcodes]]
+zipcode = 32456
+percent_zip_in_county = 95.19
+
+[[zipcodes]]
+zipcode = 32465
+percent_zip_in_county = 100.0

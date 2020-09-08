@@ -1,2 +1,50 @@
 name = "Talladega County"
 fips_code = 1121
+
+[[zipcodes]]
+zipcode = 35014
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35044
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35072
+percent_zip_in_county = 0.46
+
+[[zipcodes]]
+zipcode = 35096
+percent_zip_in_county = 95.37
+
+[[zipcodes]]
+zipcode = 35149
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35150
+percent_zip_in_county = 99.16
+
+[[zipcodes]]
+zipcode = 35151
+percent_zip_in_county = 75.29
+
+[[zipcodes]]
+zipcode = 35160
+percent_zip_in_county = 97.7
+
+[[zipcodes]]
+zipcode = 36203
+percent_zip_in_county = 26.79
+
+[[zipcodes]]
+zipcode = 36260
+percent_zip_in_county = 26.98
+
+[[zipcodes]]
+zipcode = 36268
+percent_zip_in_county = 99.58

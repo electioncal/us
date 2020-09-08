@@ -1,2 +1,22 @@
 name = "Beckham County"
 fips_code = 40009
+
+[[zipcodes]]
+zipcode = 73627
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73644
+percent_zip_in_county = 98.31
+
+[[zipcodes]]
+zipcode = 73645
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73662
+percent_zip_in_county = 98.62
+
+[[zipcodes]]
+zipcode = 73673
+percent_zip_in_county = 11.29

@@ -1,2 +1,58 @@
 name = "Seneca County"
 fips_code = 36099
+
+[[zipcodes]]
+zipcode = 13146
+percent_zip_in_county = 3.52
+
+[[zipcodes]]
+zipcode = 13148
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13165
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14433
+percent_zip_in_county = 5.23
+
+[[zipcodes]]
+zipcode = 14456
+percent_zip_in_county = 6.5
+
+[[zipcodes]]
+zipcode = 14489
+percent_zip_in_county = 0.83
+
+[[zipcodes]]
+zipcode = 14521
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14532
+percent_zip_in_county = 4.92
+
+[[zipcodes]]
+zipcode = 14541
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14588
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14841
+percent_zip_in_county = 11.69
+
+[[zipcodes]]
+zipcode = 14847
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14860
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14886
+percent_zip_in_county = 9.86

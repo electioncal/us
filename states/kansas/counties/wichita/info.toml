@@ -1,2 +1,14 @@
 name = "Wichita County"
 fips_code = 20203
+
+[[zipcodes]]
+zipcode = 67861
+percent_zip_in_county = 99.39
+
+[[zipcodes]]
+zipcode = 67863
+percent_zip_in_county = 87.54
+
+[[zipcodes]]
+zipcode = 67871
+percent_zip_in_county = 0.34

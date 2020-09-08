@@ -1,2 +1,118 @@
 name = "Jefferson County"
 fips_code = 42065
+
+[[zipcodes]]
+zipcode = 15711
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15715
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15733
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15744
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15764
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15767
+percent_zip_in_county = 93.97
+
+[[zipcodes]]
+zipcode = 15770
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15776
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15778
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15780
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15781
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15784
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15823
+percent_zip_in_county = 18.66
+
+[[zipcodes]]
+zipcode = 15824
+percent_zip_in_county = 98.21
+
+[[zipcodes]]
+zipcode = 15825
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15828
+percent_zip_in_county = 54.9
+
+[[zipcodes]]
+zipcode = 15829
+percent_zip_in_county = 76.84
+
+[[zipcodes]]
+zipcode = 15840
+percent_zip_in_county = 96.44
+
+[[zipcodes]]
+zipcode = 15847
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15851
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15853
+percent_zip_in_county = 0.24
+
+[[zipcodes]]
+zipcode = 15860
+percent_zip_in_county = 84.51
+
+[[zipcodes]]
+zipcode = 15863
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15864
+percent_zip_in_county = 62.28
+
+[[zipcodes]]
+zipcode = 15865
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16217
+percent_zip_in_county = 28.71
+
+[[zipcodes]]
+zipcode = 16222
+percent_zip_in_county = 2.77
+
+[[zipcodes]]
+zipcode = 16240
+percent_zip_in_county = 29.16

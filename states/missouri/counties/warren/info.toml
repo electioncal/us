@@ -1,2 +1,38 @@
 name = "Warren County"
 fips_code = 29219
+
+[[zipcodes]]
+zipcode = 63348
+percent_zip_in_county = 29.63
+
+[[zipcodes]]
+zipcode = 63349
+percent_zip_in_county = 2.33
+
+[[zipcodes]]
+zipcode = 63351
+percent_zip_in_county = 32.07
+
+[[zipcodes]]
+zipcode = 63357
+percent_zip_in_county = 94.36
+
+[[zipcodes]]
+zipcode = 63363
+percent_zip_in_county = 6.11
+
+[[zipcodes]]
+zipcode = 63381
+percent_zip_in_county = 42.29
+
+[[zipcodes]]
+zipcode = 63383
+percent_zip_in_county = 98.9
+
+[[zipcodes]]
+zipcode = 63390
+percent_zip_in_county = 90.27
+
+[[zipcodes]]
+zipcode = 65041
+percent_zip_in_county = 2.59

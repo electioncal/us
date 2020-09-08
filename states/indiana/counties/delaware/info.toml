@@ -1,2 +1,82 @@
 name = "Delaware County"
 fips_code = 18035
+
+[[zipcodes]]
+zipcode = 46001
+percent_zip_in_county = 0.65
+
+[[zipcodes]]
+zipcode = 46012
+percent_zip_in_county = 0.77
+
+[[zipcodes]]
+zipcode = 46017
+percent_zip_in_county = 0.83
+
+[[zipcodes]]
+zipcode = 46989
+percent_zip_in_county = 0.33
+
+[[zipcodes]]
+zipcode = 47302
+percent_zip_in_county = 99.76
+
+[[zipcodes]]
+zipcode = 47303
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47304
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47305
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47306
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47320
+percent_zip_in_county = 92.21
+
+[[zipcodes]]
+zipcode = 47334
+percent_zip_in_county = 97.21
+
+[[zipcodes]]
+zipcode = 47336
+percent_zip_in_county = 11.72
+
+[[zipcodes]]
+zipcode = 47338
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47342
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47354
+percent_zip_in_county = 4.16
+
+[[zipcodes]]
+zipcode = 47356
+percent_zip_in_county = 1.11
+
+[[zipcodes]]
+zipcode = 47367
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47368
+percent_zip_in_county = 15.54
+
+[[zipcodes]]
+zipcode = 47383
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47396
+percent_zip_in_county = 100.0

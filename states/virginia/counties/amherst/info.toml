@@ -1,2 +1,38 @@
 name = "Amherst County"
 fips_code = 51009
+
+[[zipcodes]]
+zipcode = 22922
+percent_zip_in_county = 4.11
+
+[[zipcodes]]
+zipcode = 22967
+percent_zip_in_county = 13.34
+
+[[zipcodes]]
+zipcode = 24483
+percent_zip_in_county = 22.15
+
+[[zipcodes]]
+zipcode = 24521
+percent_zip_in_county = 97.76
+
+[[zipcodes]]
+zipcode = 24526
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 24553
+percent_zip_in_county = 25.76
+
+[[zipcodes]]
+zipcode = 24572
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24574
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24595
+percent_zip_in_county = 100.0

@@ -1,2 +1,62 @@
 name = "Summers County"
 fips_code = 54089
+
+[[zipcodes]]
+zipcode = 24910
+percent_zip_in_county = 36.99
+
+[[zipcodes]]
+zipcode = 24918
+percent_zip_in_county = 6.86
+
+[[zipcodes]]
+zipcode = 24935
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24962
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24963
+percent_zip_in_county = 3.37
+
+[[zipcodes]]
+zipcode = 24981
+percent_zip_in_county = 89.7
+
+[[zipcodes]]
+zipcode = 25825
+percent_zip_in_county = 8.16
+
+[[zipcodes]]
+zipcode = 25841
+percent_zip_in_county = 12.52
+
+[[zipcodes]]
+zipcode = 25951
+percent_zip_in_county = 97.55
+
+[[zipcodes]]
+zipcode = 25969
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25976
+percent_zip_in_county = 34.1
+
+[[zipcodes]]
+zipcode = 25977
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25978
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25979
+percent_zip_in_county = 94.96
+
+[[zipcodes]]
+zipcode = 25985
+percent_zip_in_county = 100.0

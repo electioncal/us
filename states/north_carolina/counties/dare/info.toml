@@ -1,2 +1,58 @@
 name = "Dare County"
 fips_code = 37055
+
+[[zipcodes]]
+zipcode = 27915
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27920
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27936
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27943
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27948
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27949
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27953
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27954
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27959
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27968
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27972
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27978
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27981
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27982
+percent_zip_in_county = 100.0

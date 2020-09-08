@@ -1,2 +1,14 @@
 name = "De Baca County"
 fips_code = 35011
+
+[[zipcodes]]
+zipcode = 88119
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88134
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88136
+percent_zip_in_county = 100.0

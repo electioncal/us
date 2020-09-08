@@ -1,2 +1,6 @@
 name = "Peñuelas Municipio"
 fips_code = 72111
+
+[[zipcodes]]
+zipcode = 624
+percent_zip_in_county = 92.53

@@ -1,2 +1,62 @@
 name = "Clay County"
 fips_code = 19041
+
+[[zipcodes]]
+zipcode = 50515
+percent_zip_in_county = 4.3
+
+[[zipcodes]]
+zipcode = 50585
+percent_zip_in_county = 14.2
+
+[[zipcodes]]
+zipcode = 51033
+percent_zip_in_county = 30.84
+
+[[zipcodes]]
+zipcode = 51047
+percent_zip_in_county = 77.71
+
+[[zipcodes]]
+zipcode = 51058
+percent_zip_in_county = 0.4
+
+[[zipcodes]]
+zipcode = 51301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51333
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51338
+percent_zip_in_county = 95.8
+
+[[zipcodes]]
+zipcode = 51341
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51343
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51346
+percent_zip_in_county = 2.69
+
+[[zipcodes]]
+zipcode = 51357
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51358
+percent_zip_in_county = 15.5
+
+[[zipcodes]]
+zipcode = 51364
+percent_zip_in_county = 3.77
+
+[[zipcodes]]
+zipcode = 51366
+percent_zip_in_county = 97.36

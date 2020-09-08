@@ -1,2 +1,58 @@
 name = "Warren County"
 fips_code = 17187
+
+[[zipcodes]]
+zipcode = 61401
+percent_zip_in_county = 0.7
+
+[[zipcodes]]
+zipcode = 61410
+percent_zip_in_county = 3.04
+
+[[zipcodes]]
+zipcode = 61412
+percent_zip_in_county = 54.96
+
+[[zipcodes]]
+zipcode = 61415
+percent_zip_in_county = 31.88
+
+[[zipcodes]]
+zipcode = 61417
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61423
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61435
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61447
+percent_zip_in_county = 93.4
+
+[[zipcodes]]
+zipcode = 61453
+percent_zip_in_county = 74.9
+
+[[zipcodes]]
+zipcode = 61462
+percent_zip_in_county = 99.62
+
+[[zipcodes]]
+zipcode = 61473
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61474
+percent_zip_in_county = 4.11
+
+[[zipcodes]]
+zipcode = 61475
+percent_zip_in_county = 7.32
+
+[[zipcodes]]
+zipcode = 61478
+percent_zip_in_county = 90.69

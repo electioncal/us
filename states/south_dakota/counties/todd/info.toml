@@ -1,2 +1,38 @@
 name = "Todd County"
 fips_code = 46121
+
+[[zipcodes]]
+zipcode = 57555
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57563
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57566
+percent_zip_in_county = 97.55
+
+[[zipcodes]]
+zipcode = 57570
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57572
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57580
+percent_zip_in_county = 3.8
+
+[[zipcodes]]
+zipcode = 69201
+percent_zip_in_county = 6.67
+
+[[zipcodes]]
+zipcode = 69212
+percent_zip_in_county = 35.89
+
+[[zipcodes]]
+zipcode = 69216
+percent_zip_in_county = 29.31

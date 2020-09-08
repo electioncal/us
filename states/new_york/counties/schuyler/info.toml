@@ -1,2 +1,66 @@
 name = "Schuyler County"
 fips_code = 36097
+
+[[zipcodes]]
+zipcode = 14805
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14812
+percent_zip_in_county = 49.22
+
+[[zipcodes]]
+zipcode = 14815
+percent_zip_in_county = 68.18
+
+[[zipcodes]]
+zipcode = 14818
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14824
+percent_zip_in_county = 66.81
+
+[[zipcodes]]
+zipcode = 14837
+percent_zip_in_county = 18.89
+
+[[zipcodes]]
+zipcode = 14840
+percent_zip_in_county = 1.11
+
+[[zipcodes]]
+zipcode = 14841
+percent_zip_in_county = 88.31
+
+[[zipcodes]]
+zipcode = 14864
+percent_zip_in_county = 10.86
+
+[[zipcodes]]
+zipcode = 14865
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14869
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14870
+percent_zip_in_county = 1.7
+
+[[zipcodes]]
+zipcode = 14878
+percent_zip_in_county = 72.22
+
+[[zipcodes]]
+zipcode = 14886
+percent_zip_in_county = 25.47
+
+[[zipcodes]]
+zipcode = 14889
+percent_zip_in_county = 3.27
+
+[[zipcodes]]
+zipcode = 14891
+percent_zip_in_county = 100.0

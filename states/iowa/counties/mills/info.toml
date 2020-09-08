@@ -1,2 +1,46 @@
 name = "Mills County"
 fips_code = 19129
+
+[[zipcodes]]
+zipcode = 51503
+percent_zip_in_county = 0.53
+
+[[zipcodes]]
+zipcode = 51533
+percent_zip_in_county = 73.52
+
+[[zipcodes]]
+zipcode = 51534
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51540
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51541
+percent_zip_in_county = 87.33
+
+[[zipcodes]]
+zipcode = 51551
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51554
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51561
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51571
+percent_zip_in_county = 75.96
+
+[[zipcodes]]
+zipcode = 51645
+percent_zip_in_county = 28.63
+
+[[zipcodes]]
+zipcode = 51653
+percent_zip_in_county = 12.11

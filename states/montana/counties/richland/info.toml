@@ -1,2 +1,38 @@
 name = "Richland County"
 fips_code = 30083
+
+[[zipcodes]]
+zipcode = 59213
+percent_zip_in_county = 9.72
+
+[[zipcodes]]
+zipcode = 59217
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59218
+percent_zip_in_county = 5.61
+
+[[zipcodes]]
+zipcode = 59221
+percent_zip_in_county = 74.85
+
+[[zipcodes]]
+zipcode = 59243
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59255
+percent_zip_in_county = 1.63
+
+[[zipcodes]]
+zipcode = 59259
+percent_zip_in_county = 12.64
+
+[[zipcodes]]
+zipcode = 59262
+percent_zip_in_county = 94.81
+
+[[zipcodes]]
+zipcode = 59270
+percent_zip_in_county = 98.27

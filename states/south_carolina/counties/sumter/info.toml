@@ -1,2 +1,62 @@
 name = "Sumter County"
 fips_code = 45085
+
+[[zipcodes]]
+zipcode = 29001
+percent_zip_in_county = 6.94
+
+[[zipcodes]]
+zipcode = 29040
+percent_zip_in_county = 89.97
+
+[[zipcodes]]
+zipcode = 29051
+percent_zip_in_county = 56.78
+
+[[zipcodes]]
+zipcode = 29062
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29080
+percent_zip_in_county = 47.47
+
+[[zipcodes]]
+zipcode = 29104
+percent_zip_in_county = 55.39
+
+[[zipcodes]]
+zipcode = 29114
+percent_zip_in_county = 24.11
+
+[[zipcodes]]
+zipcode = 29125
+percent_zip_in_county = 51.69
+
+[[zipcodes]]
+zipcode = 29128
+percent_zip_in_county = 82.54
+
+[[zipcodes]]
+zipcode = 29150
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29152
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29153
+percent_zip_in_county = 97.14
+
+[[zipcodes]]
+zipcode = 29154
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29162
+percent_zip_in_county = 0.78
+
+[[zipcodes]]
+zipcode = 29168
+percent_zip_in_county = 100.0

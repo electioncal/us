@@ -1,2 +1,42 @@
 name = "Giles County"
 fips_code = 51071
+
+[[zipcodes]]
+zipcode = 24086
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24093
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24124
+percent_zip_in_county = 94.74
+
+[[zipcodes]]
+zipcode = 24128
+percent_zip_in_county = 73.24
+
+[[zipcodes]]
+zipcode = 24134
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24136
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24147
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24150
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24167
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24315
+percent_zip_in_county = 0.45

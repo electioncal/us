@@ -1,2 +1,42 @@
 name = "Chouteau County"
 fips_code = 30015
+
+[[zipcodes]]
+zipcode = 59404
+percent_zip_in_county = 0.19
+
+[[zipcodes]]
+zipcode = 59416
+percent_zip_in_county = 20.47
+
+[[zipcodes]]
+zipcode = 59420
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59440
+percent_zip_in_county = 60.0
+
+[[zipcodes]]
+zipcode = 59442
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59446
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59450
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59460
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59520
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59521
+percent_zip_in_county = 36.35

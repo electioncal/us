@@ -1,2 +1,46 @@
 name = "Iron County"
 fips_code = 55051
+
+[[zipcodes]]
+zipcode = 54514
+percent_zip_in_county = 3.79
+
+[[zipcodes]]
+zipcode = 54525
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54534
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54536
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54538
+percent_zip_in_county = 0.16
+
+[[zipcodes]]
+zipcode = 54545
+percent_zip_in_county = 2.72
+
+[[zipcodes]]
+zipcode = 54547
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54550
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54552
+percent_zip_in_county = 6.34
+
+[[zipcodes]]
+zipcode = 54559
+percent_zip_in_county = 61.26
+
+[[zipcodes]]
+zipcode = 54565
+percent_zip_in_county = 100.0

@@ -1,2 +1,26 @@
 name = "Lampasas County"
 fips_code = 48281
+
+[[zipcodes]]
+zipcode = 76522
+percent_zip_in_county = 5.31
+
+[[zipcodes]]
+zipcode = 76525
+percent_zip_in_county = 6.4
+
+[[zipcodes]]
+zipcode = 76539
+percent_zip_in_county = 69.33
+
+[[zipcodes]]
+zipcode = 76550
+percent_zip_in_county = 92.09
+
+[[zipcodes]]
+zipcode = 76844
+percent_zip_in_county = 0.42
+
+[[zipcodes]]
+zipcode = 76853
+percent_zip_in_county = 98.71

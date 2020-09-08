@@ -1,2 +1,90 @@
 name = "Calhoun County"
 fips_code = 26025
+
+[[zipcodes]]
+zipcode = 48813
+percent_zip_in_county = 0.12
+
+[[zipcodes]]
+zipcode = 49011
+percent_zip_in_county = 96.28
+
+[[zipcodes]]
+zipcode = 49012
+percent_zip_in_county = 2.88
+
+[[zipcodes]]
+zipcode = 49014
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49015
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49017
+percent_zip_in_county = 92.66
+
+[[zipcodes]]
+zipcode = 49021
+percent_zip_in_county = 11.42
+
+[[zipcodes]]
+zipcode = 49029
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49034
+percent_zip_in_county = 8.08
+
+[[zipcodes]]
+zipcode = 49037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49052
+percent_zip_in_county = 25.13
+
+[[zipcodes]]
+zipcode = 49068
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49076
+percent_zip_in_county = 23.19
+
+[[zipcodes]]
+zipcode = 49092
+percent_zip_in_county = 80.89
+
+[[zipcodes]]
+zipcode = 49094
+percent_zip_in_county = 17.96
+
+[[zipcodes]]
+zipcode = 49224
+percent_zip_in_county = 87.18
+
+[[zipcodes]]
+zipcode = 49237
+percent_zip_in_county = 0.47
+
+[[zipcodes]]
+zipcode = 49245
+percent_zip_in_county = 97.44
+
+[[zipcodes]]
+zipcode = 49252
+percent_zip_in_county = 0.35
+
+[[zipcodes]]
+zipcode = 49284
+percent_zip_in_county = 25.53

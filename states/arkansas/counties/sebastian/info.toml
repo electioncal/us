@@ -1,2 +1,62 @@
 name = "Sebastian County"
 fips_code = 5131
+
+[[zipcodes]]
+zipcode = 72901
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72903
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72904
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72908
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72916
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72923
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72927
+percent_zip_in_county = 2.13
+
+[[zipcodes]]
+zipcode = 72933
+percent_zip_in_county = 21.68
+
+[[zipcodes]]
+zipcode = 72936
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72937
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72938
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72940
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72941
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72944
+percent_zip_in_county = 59.71
+
+[[zipcodes]]
+zipcode = 72945
+percent_zip_in_county = 100.0

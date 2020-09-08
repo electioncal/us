@@ -1,2 +1,26 @@
 name = "Gates County"
 fips_code = 37073
+
+[[zipcodes]]
+zipcode = 27926
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27935
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27937
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27938
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27946
+percent_zip_in_county = 85.09
+
+[[zipcodes]]
+zipcode = 27979
+percent_zip_in_county = 100.0

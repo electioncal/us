@@ -1,2 +1,66 @@
 name = "Lincoln County"
 fips_code = 53043
+
+[[zipcodes]]
+zipcode = 98832
+percent_zip_in_county = 8.13
+
+[[zipcodes]]
+zipcode = 99008
+percent_zip_in_county = 55.69
+
+[[zipcodes]]
+zipcode = 99013
+percent_zip_in_county = 10.2
+
+[[zipcodes]]
+zipcode = 99029
+percent_zip_in_county = 75.1
+
+[[zipcodes]]
+zipcode = 99032
+percent_zip_in_county = 97.68
+
+[[zipcodes]]
+zipcode = 99103
+percent_zip_in_county = 92.56
+
+[[zipcodes]]
+zipcode = 99117
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99122
+percent_zip_in_county = 99.31
+
+[[zipcodes]]
+zipcode = 99133
+percent_zip_in_county = 16.08
+
+[[zipcodes]]
+zipcode = 99134
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99144
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99147
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99154
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99159
+percent_zip_in_county = 87.42
+
+[[zipcodes]]
+zipcode = 99169
+percent_zip_in_county = 1.5
+
+[[zipcodes]]
+zipcode = 99185
+percent_zip_in_county = 100.0

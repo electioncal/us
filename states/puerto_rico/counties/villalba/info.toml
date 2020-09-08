@@ -1,2 +1,6 @@
 name = "Villalba Municipio"
 fips_code = 72149
+
+[[zipcodes]]
+zipcode = 766
+percent_zip_in_county = 98.43

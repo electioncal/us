@@ -1,2 +1,46 @@
 name = "Graham County"
 fips_code = 4009
+
+[[zipcodes]]
+zipcode = 85530
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85531
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85533
+percent_zip_in_county = 0.31
+
+[[zipcodes]]
+zipcode = 85535
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85536
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85542
+percent_zip_in_county = 84.42
+
+[[zipcodes]]
+zipcode = 85543
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85546
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85551
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85552
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85643
+percent_zip_in_county = 12.92

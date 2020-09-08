@@ -1,2 +1,106 @@
 name = "Licking County"
 fips_code = 39089
+
+[[zipcodes]]
+zipcode = 43001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43008
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43011
+percent_zip_in_county = 9.73
+
+[[zipcodes]]
+zipcode = 43013
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43031
+percent_zip_in_county = 96.9
+
+[[zipcodes]]
+zipcode = 43033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43046
+percent_zip_in_county = 10.72
+
+[[zipcodes]]
+zipcode = 43055
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43056
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43062
+percent_zip_in_county = 99.35
+
+[[zipcodes]]
+zipcode = 43068
+percent_zip_in_county = 22.12
+
+[[zipcodes]]
+zipcode = 43071
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43074
+percent_zip_in_county = 1.07
+
+[[zipcodes]]
+zipcode = 43076
+percent_zip_in_county = 29.09
+
+[[zipcodes]]
+zipcode = 43080
+percent_zip_in_county = 73.74
+
+[[zipcodes]]
+zipcode = 43147
+percent_zip_in_county = 0.41
+
+[[zipcodes]]
+zipcode = 43721
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43739
+percent_zip_in_county = 35.95
+
+[[zipcodes]]
+zipcode = 43740
+percent_zip_in_county = 65.63
+
+[[zipcodes]]
+zipcode = 43746
+percent_zip_in_county = 8.91
+
+[[zipcodes]]
+zipcode = 43760
+percent_zip_in_county = 5.57
+
+[[zipcodes]]
+zipcode = 43822
+percent_zip_in_county = 22.05
+
+[[zipcodes]]
+zipcode = 43830
+percent_zip_in_county = 12.37

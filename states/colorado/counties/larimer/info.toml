@@ -1,2 +1,102 @@
 name = "Larimer County"
 fips_code = 8069
+
+[[zipcodes]]
+zipcode = 80503
+percent_zip_in_county = 0.06
+
+[[zipcodes]]
+zipcode = 80504
+percent_zip_in_county = 0.37
+
+[[zipcodes]]
+zipcode = 80511
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80512
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80513
+percent_zip_in_county = 92.79
+
+[[zipcodes]]
+zipcode = 80515
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80517
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80521
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80524
+percent_zip_in_county = 98.14
+
+[[zipcodes]]
+zipcode = 80525
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80526
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80528
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80532
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80534
+percent_zip_in_county = 7.11
+
+[[zipcodes]]
+zipcode = 80535
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80536
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80537
+percent_zip_in_county = 99.66
+
+[[zipcodes]]
+zipcode = 80538
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80540
+percent_zip_in_county = 34.32
+
+[[zipcodes]]
+zipcode = 80545
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80547
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80549
+percent_zip_in_county = 97.34
+
+[[zipcodes]]
+zipcode = 80550
+percent_zip_in_county = 13.17
+
+[[zipcodes]]
+zipcode = 80612
+percent_zip_in_county = 25.81
+
+[[zipcodes]]
+zipcode = 82063
+percent_zip_in_county = 29.0

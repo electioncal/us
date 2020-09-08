@@ -1,2 +1,114 @@
 name = "Susquehanna County"
 fips_code = 42115
+
+[[zipcodes]]
+zipcode = 18407
+percent_zip_in_county = 2.27
+
+[[zipcodes]]
+zipcode = 18413
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18419
+percent_zip_in_county = 0.54
+
+[[zipcodes]]
+zipcode = 18421
+percent_zip_in_county = 58.62
+
+[[zipcodes]]
+zipcode = 18430
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18441
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18446
+percent_zip_in_county = 41.49
+
+[[zipcodes]]
+zipcode = 18465
+percent_zip_in_county = 92.69
+
+[[zipcodes]]
+zipcode = 18470
+percent_zip_in_county = 93.53
+
+[[zipcodes]]
+zipcode = 18623
+percent_zip_in_county = 15.73
+
+[[zipcodes]]
+zipcode = 18630
+percent_zip_in_county = 48.2
+
+[[zipcodes]]
+zipcode = 18801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18812
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18816
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18818
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18821
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18822
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18823
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18824
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18825
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18826
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18828
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18830
+percent_zip_in_county = 96.6
+
+[[zipcodes]]
+zipcode = 18834
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18842
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18843
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18844
+percent_zip_in_county = 98.77
+
+[[zipcodes]]
+zipcode = 18847
+percent_zip_in_county = 95.34

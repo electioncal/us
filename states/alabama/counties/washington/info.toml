@@ -1,2 +1,66 @@
 name = "Washington County"
 fips_code = 1129
+
+[[zipcodes]]
+zipcode = 36513
+percent_zip_in_county = 85.95
+
+[[zipcodes]]
+zipcode = 36518
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36522
+percent_zip_in_county = 6.14
+
+[[zipcodes]]
+zipcode = 36529
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36538
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36539
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36548
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36553
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36556
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36558
+percent_zip_in_county = 93.33
+
+[[zipcodes]]
+zipcode = 36569
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36581
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36583
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36584
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36585
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36919
+percent_zip_in_county = 0.75

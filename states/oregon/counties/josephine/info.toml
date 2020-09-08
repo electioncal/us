@@ -1,2 +1,42 @@
 name = "Josephine County"
 fips_code = 41033
+
+[[zipcodes]]
+zipcode = 97497
+percent_zip_in_county = 99.34
+
+[[zipcodes]]
+zipcode = 97523
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97526
+percent_zip_in_county = 99.48
+
+[[zipcodes]]
+zipcode = 97527
+percent_zip_in_county = 95.66
+
+[[zipcodes]]
+zipcode = 97531
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97532
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97534
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97538
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97543
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97544
+percent_zip_in_county = 100.0

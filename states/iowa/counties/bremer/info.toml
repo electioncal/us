@@ -1,2 +1,46 @@
 name = "Bremer County"
 fips_code = 19017
+
+[[zipcodes]]
+zipcode = 50622
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50629
+percent_zip_in_county = 11.25
+
+[[zipcodes]]
+zipcode = 50630
+percent_zip_in_county = 3.53
+
+[[zipcodes]]
+zipcode = 50645
+percent_zip_in_county = 4.32
+
+[[zipcodes]]
+zipcode = 50647
+percent_zip_in_county = 65.31
+
+[[zipcodes]]
+zipcode = 50666
+percent_zip_in_county = 89.19
+
+[[zipcodes]]
+zipcode = 50668
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50670
+percent_zip_in_county = 1.24
+
+[[zipcodes]]
+zipcode = 50674
+percent_zip_in_county = 85.01
+
+[[zipcodes]]
+zipcode = 50676
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50677
+percent_zip_in_county = 100.0

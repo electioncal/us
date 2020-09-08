@@ -1,2 +1,30 @@
 name = "Roscommon County"
 fips_code = 26143
+
+[[zipcodes]]
+zipcode = 48624
+percent_zip_in_county = 1.28
+
+[[zipcodes]]
+zipcode = 48627
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48629
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48630
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48651
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48653
+percent_zip_in_county = 72.22
+
+[[zipcodes]]
+zipcode = 48656
+percent_zip_in_county = 100.0

@@ -1,2 +1,46 @@
 name = "Hawkins County"
 fips_code = 47073
+
+[[zipcodes]]
+zipcode = 37642
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37645
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37660
+percent_zip_in_county = 7.9
+
+[[zipcodes]]
+zipcode = 37711
+percent_zip_in_county = 68.08
+
+[[zipcodes]]
+zipcode = 37731
+percent_zip_in_county = 77.22
+
+[[zipcodes]]
+zipcode = 37811
+percent_zip_in_county = 95.18
+
+[[zipcodes]]
+zipcode = 37857
+percent_zip_in_county = 99.6
+
+[[zipcodes]]
+zipcode = 37869
+percent_zip_in_county = 4.69
+
+[[zipcodes]]
+zipcode = 37873
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37881
+percent_zip_in_county = 7.16
+
+[[zipcodes]]
+zipcode = 37891
+percent_zip_in_county = 23.14

@@ -1,2 +1,82 @@
 name = "Hampshire County"
 fips_code = 54027
+
+[[zipcodes]]
+zipcode = 25422
+percent_zip_in_county = 0.88
+
+[[zipcodes]]
+zipcode = 25431
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25434
+percent_zip_in_county = 64.89
+
+[[zipcodes]]
+zipcode = 25437
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25444
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26704
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26710
+percent_zip_in_county = 8.77
+
+[[zipcodes]]
+zipcode = 26711
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26714
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26722
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26755
+percent_zip_in_county = 53.9
+
+[[zipcodes]]
+zipcode = 26757
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26761
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26763
+percent_zip_in_county = 81.69
+
+[[zipcodes]]
+zipcode = 26808
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26817
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26823
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26851
+percent_zip_in_county = 5.14
+
+[[zipcodes]]
+zipcode = 26852
+percent_zip_in_county = 72.84
+
+[[zipcodes]]
+zipcode = 26865
+percent_zip_in_county = 100.0

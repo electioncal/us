@@ -1,2 +1,34 @@
 name = "Love County"
 fips_code = 40085
+
+[[zipcodes]]
+zipcode = 73401
+percent_zip_in_county = 0.37
+
+[[zipcodes]]
+zipcode = 73430
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73441
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73448
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73453
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73456
+percent_zip_in_county = 6.44
+
+[[zipcodes]]
+zipcode = 73459
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73463
+percent_zip_in_county = 6.94

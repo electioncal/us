@@ -1,2 +1,78 @@
 name = "Muskegon County"
 fips_code = 26121
+
+[[zipcodes]]
+zipcode = 49303
+percent_zip_in_county = 95.57
+
+[[zipcodes]]
+zipcode = 49318
+percent_zip_in_county = 67.81
+
+[[zipcodes]]
+zipcode = 49330
+percent_zip_in_county = 0.68
+
+[[zipcodes]]
+zipcode = 49403
+percent_zip_in_county = 4.04
+
+[[zipcodes]]
+zipcode = 49404
+percent_zip_in_county = 1.69
+
+[[zipcodes]]
+zipcode = 49412
+percent_zip_in_county = 0.66
+
+[[zipcodes]]
+zipcode = 49415
+percent_zip_in_county = 91.02
+
+[[zipcodes]]
+zipcode = 49425
+percent_zip_in_county = 79.84
+
+[[zipcodes]]
+zipcode = 49437
+percent_zip_in_county = 81.35
+
+[[zipcodes]]
+zipcode = 49440
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49441
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49442
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49444
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49445
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49448
+percent_zip_in_county = 10.06
+
+[[zipcodes]]
+zipcode = 49451
+percent_zip_in_county = 96.64
+
+[[zipcodes]]
+zipcode = 49456
+percent_zip_in_county = 5.84
+
+[[zipcodes]]
+zipcode = 49457
+percent_zip_in_county = 99.33
+
+[[zipcodes]]
+zipcode = 49461
+percent_zip_in_county = 100.0

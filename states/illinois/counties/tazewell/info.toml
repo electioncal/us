@@ -1,2 +1,86 @@
 name = "Tazewell County"
 fips_code = 17179
+
+[[zipcodes]]
+zipcode = 61530
+percent_zip_in_county = 0.13
+
+[[zipcodes]]
+zipcode = 61534
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61535
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61546
+percent_zip_in_county = 44.18
+
+[[zipcodes]]
+zipcode = 61550
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61554
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61564
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61568
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61571
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61610
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61611
+percent_zip_in_county = 84.55
+
+[[zipcodes]]
+zipcode = 61721
+percent_zip_in_county = 95.76
+
+[[zipcodes]]
+zipcode = 61732
+percent_zip_in_county = 3.72
+
+[[zipcodes]]
+zipcode = 61733
+percent_zip_in_county = 85.85
+
+[[zipcodes]]
+zipcode = 61734
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61742
+percent_zip_in_county = 16.78
+
+[[zipcodes]]
+zipcode = 61747
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61755
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61759
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62635
+percent_zip_in_county = 1.9
+
+[[zipcodes]]
+zipcode = 62682
+percent_zip_in_county = 1.43

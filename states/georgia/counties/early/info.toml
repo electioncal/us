@@ -1,2 +1,30 @@
 name = "Early County"
 fips_code = 13099
+
+[[zipcodes]]
+zipcode = 39813
+percent_zip_in_county = 30.38
+
+[[zipcodes]]
+zipcode = 39823
+percent_zip_in_county = 98.28
+
+[[zipcodes]]
+zipcode = 39824
+percent_zip_in_county = 43.75
+
+[[zipcodes]]
+zipcode = 39837
+percent_zip_in_county = 0.39
+
+[[zipcodes]]
+zipcode = 39841
+percent_zip_in_county = 75.06
+
+[[zipcodes]]
+zipcode = 39845
+percent_zip_in_county = 0.93
+
+[[zipcodes]]
+zipcode = 39861
+percent_zip_in_county = 96.71

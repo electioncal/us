@@ -1,2 +1,54 @@
 name = "Blount County"
 fips_code = 47009
+
+[[zipcodes]]
+zipcode = 37701
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37737
+percent_zip_in_county = 95.8
+
+[[zipcodes]]
+zipcode = 37742
+percent_zip_in_county = 46.33
+
+[[zipcodes]]
+zipcode = 37777
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37801
+percent_zip_in_county = 96.9
+
+[[zipcodes]]
+zipcode = 37803
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37804
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37853
+percent_zip_in_county = 96.33
+
+[[zipcodes]]
+zipcode = 37865
+percent_zip_in_county = 21.21
+
+[[zipcodes]]
+zipcode = 37878
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37882
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37886
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37920
+percent_zip_in_county = 0.54

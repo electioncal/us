@@ -1,2 +1,38 @@
 name = "Tippah County"
 fips_code = 28139
+
+[[zipcodes]]
+zipcode = 38603
+percent_zip_in_county = 1.87
+
+[[zipcodes]]
+zipcode = 38610
+percent_zip_in_county = 86.79
+
+[[zipcodes]]
+zipcode = 38625
+percent_zip_in_county = 67.01
+
+[[zipcodes]]
+zipcode = 38629
+percent_zip_in_county = 87.32
+
+[[zipcodes]]
+zipcode = 38663
+percent_zip_in_county = 99.59
+
+[[zipcodes]]
+zipcode = 38674
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38683
+percent_zip_in_county = 63.83
+
+[[zipcodes]]
+zipcode = 38824
+percent_zip_in_county = 0.77
+
+[[zipcodes]]
+zipcode = 38829
+percent_zip_in_county = 2.08

@@ -1,2 +1,74 @@
 name = "Mesa County"
 fips_code = 8077
+
+[[zipcodes]]
+zipcode = 81501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81503
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81504
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81505
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81506
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81507
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81520
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81521
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81522
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81523
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81524
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81525
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81526
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81527
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81624
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81630
+percent_zip_in_county = 89.99
+
+[[zipcodes]]
+zipcode = 81643
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81646
+percent_zip_in_county = 100.0

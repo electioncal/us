@@ -1,2 +1,38 @@
 name = "Logan County"
 fips_code = 8075
+
+[[zipcodes]]
+zipcode = 80722
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80726
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80728
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80731
+percent_zip_in_county = 9.37
+
+[[zipcodes]]
+zipcode = 80736
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80741
+percent_zip_in_county = 89.63
+
+[[zipcodes]]
+zipcode = 80745
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80747
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80751
+percent_zip_in_county = 100.0

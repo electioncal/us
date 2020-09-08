@@ -1,2 +1,30 @@
 name = "Livingston County"
 fips_code = 21139
+
+[[zipcodes]]
+zipcode = 42028
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42047
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42058
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42078
+percent_zip_in_county = 87.37
+
+[[zipcodes]]
+zipcode = 42081
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42083
+percent_zip_in_county = 100.0

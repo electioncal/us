@@ -1,2 +1,50 @@
 name = "Greene County"
 fips_code = 19073
+
+[[zipcodes]]
+zipcode = 50026
+percent_zip_in_county = 14.55
+
+[[zipcodes]]
+zipcode = 50029
+percent_zip_in_county = 1.3
+
+[[zipcodes]]
+zipcode = 50050
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50058
+percent_zip_in_county = 2.96
+
+[[zipcodes]]
+zipcode = 50064
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50107
+percent_zip_in_county = 97.73
+
+[[zipcodes]]
+zipcode = 50128
+percent_zip_in_county = 11.11
+
+[[zipcodes]]
+zipcode = 50129
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50217
+percent_zip_in_county = 80.98
+
+[[zipcodes]]
+zipcode = 50220
+percent_zip_in_county = 0.38
+
+[[zipcodes]]
+zipcode = 50235
+percent_zip_in_county = 92.96
+
+[[zipcodes]]
+zipcode = 51462
+percent_zip_in_county = 100.0

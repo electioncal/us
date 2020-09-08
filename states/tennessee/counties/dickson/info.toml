@@ -1,2 +1,42 @@
 name = "Dickson County"
 fips_code = 47043
+
+[[zipcodes]]
+zipcode = 37015
+percent_zip_in_county = 0.01
+
+[[zipcodes]]
+zipcode = 37025
+percent_zip_in_county = 16.22
+
+[[zipcodes]]
+zipcode = 37029
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37036
+percent_zip_in_county = 97.29
+
+[[zipcodes]]
+zipcode = 37051
+percent_zip_in_county = 67.2
+
+[[zipcodes]]
+zipcode = 37055
+percent_zip_in_county = 99.02
+
+[[zipcodes]]
+zipcode = 37062
+percent_zip_in_county = 1.18
+
+[[zipcodes]]
+zipcode = 37165
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37181
+percent_zip_in_county = 87.87
+
+[[zipcodes]]
+zipcode = 37187
+percent_zip_in_county = 95.9

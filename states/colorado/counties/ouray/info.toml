@@ -1,2 +1,14 @@
 name = "Ouray County"
 fips_code = 8091
+
+[[zipcodes]]
+zipcode = 81403
+percent_zip_in_county = 6.04
+
+[[zipcodes]]
+zipcode = 81427
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81432
+percent_zip_in_county = 99.78

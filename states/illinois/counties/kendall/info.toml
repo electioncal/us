@@ -1,2 +1,74 @@
 name = "Kendall County"
 fips_code = 17093
+
+[[zipcodes]]
+zipcode = 60431
+percent_zip_in_county = 19.55
+
+[[zipcodes]]
+zipcode = 60447
+percent_zip_in_county = 13.28
+
+[[zipcodes]]
+zipcode = 60450
+percent_zip_in_county = 0.23
+
+[[zipcodes]]
+zipcode = 60503
+percent_zip_in_county = 30.98
+
+[[zipcodes]]
+zipcode = 60504
+percent_zip_in_county = 2.49
+
+[[zipcodes]]
+zipcode = 60512
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60536
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60537
+percent_zip_in_county = 36.84
+
+[[zipcodes]]
+zipcode = 60538
+percent_zip_in_county = 69.73
+
+[[zipcodes]]
+zipcode = 60541
+percent_zip_in_county = 94.09
+
+[[zipcodes]]
+zipcode = 60543
+percent_zip_in_county = 99.8
+
+[[zipcodes]]
+zipcode = 60544
+percent_zip_in_county = 0.65
+
+[[zipcodes]]
+zipcode = 60545
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60548
+percent_zip_in_county = 2.63
+
+[[zipcodes]]
+zipcode = 60554
+percent_zip_in_county = 0.13
+
+[[zipcodes]]
+zipcode = 60560
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60585
+percent_zip_in_county = 9.17
+
+[[zipcodes]]
+zipcode = 60586
+percent_zip_in_county = 11.54

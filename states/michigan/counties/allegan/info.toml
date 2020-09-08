@@ -1,2 +1,102 @@
 name = "Allegan County"
 fips_code = 26005
+
+[[zipcodes]]
+zipcode = 49010
+percent_zip_in_county = 99.48
+
+[[zipcodes]]
+zipcode = 49026
+percent_zip_in_county = 7.73
+
+[[zipcodes]]
+zipcode = 49055
+percent_zip_in_county = 8.17
+
+[[zipcodes]]
+zipcode = 49056
+percent_zip_in_county = 36.95
+
+[[zipcodes]]
+zipcode = 49070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49078
+percent_zip_in_county = 93.82
+
+[[zipcodes]]
+zipcode = 49080
+percent_zip_in_county = 71.38
+
+[[zipcodes]]
+zipcode = 49090
+percent_zip_in_county = 17.92
+
+[[zipcodes]]
+zipcode = 49315
+percent_zip_in_county = 1.88
+
+[[zipcodes]]
+zipcode = 49316
+percent_zip_in_county = 9.35
+
+[[zipcodes]]
+zipcode = 49323
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49328
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49333
+percent_zip_in_county = 0.04
+
+[[zipcodes]]
+zipcode = 49335
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49344
+percent_zip_in_county = 59.0
+
+[[zipcodes]]
+zipcode = 49348
+percent_zip_in_county = 81.44
+
+[[zipcodes]]
+zipcode = 49406
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49408
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49419
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49423
+percent_zip_in_county = 34.53
+
+[[zipcodes]]
+zipcode = 49426
+percent_zip_in_county = 0.08
+
+[[zipcodes]]
+zipcode = 49434
+percent_zip_in_county = 25.0
+
+[[zipcodes]]
+zipcode = 49450
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49453
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49464
+percent_zip_in_county = 1.36

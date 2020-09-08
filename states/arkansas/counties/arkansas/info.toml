@@ -1,2 +1,42 @@
 name = "Arkansas County"
 fips_code = 5001
+
+[[zipcodes]]
+zipcode = 72003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72026
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72038
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72042
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72048
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72055
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72073
+percent_zip_in_county = 68.74
+
+[[zipcodes]]
+zipcode = 72140
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72160
+percent_zip_in_county = 96.26
+
+[[zipcodes]]
+zipcode = 72166
+percent_zip_in_county = 100.0

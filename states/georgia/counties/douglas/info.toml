@@ -1,2 +1,34 @@
 name = "Douglas County"
 fips_code = 13097
+
+[[zipcodes]]
+zipcode = 30106
+percent_zip_in_county = 0.54
+
+[[zipcodes]]
+zipcode = 30122
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30134
+percent_zip_in_county = 67.04
+
+[[zipcodes]]
+zipcode = 30135
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30168
+percent_zip_in_county = 11.75
+
+[[zipcodes]]
+zipcode = 30180
+percent_zip_in_county = 23.24
+
+[[zipcodes]]
+zipcode = 30185
+percent_zip_in_county = 5.19
+
+[[zipcodes]]
+zipcode = 30187
+percent_zip_in_county = 100.0

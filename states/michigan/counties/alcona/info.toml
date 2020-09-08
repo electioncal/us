@@ -1,2 +1,54 @@
 name = "Alcona County"
 fips_code = 26001
+
+[[zipcodes]]
+zipcode = 48647
+percent_zip_in_county = 0.07
+
+[[zipcodes]]
+zipcode = 48705
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48721
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48728
+percent_zip_in_county = 86.55
+
+[[zipcodes]]
+zipcode = 48737
+percent_zip_in_county = 87.95
+
+[[zipcodes]]
+zipcode = 48738
+percent_zip_in_county = 91.1
+
+[[zipcodes]]
+zipcode = 48740
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48742
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48745
+percent_zip_in_county = 98.81
+
+[[zipcodes]]
+zipcode = 48750
+percent_zip_in_county = 0.64
+
+[[zipcodes]]
+zipcode = 48761
+percent_zip_in_county = 20.47
+
+[[zipcodes]]
+zipcode = 48762
+percent_zip_in_county = 83.23
+
+[[zipcodes]]
+zipcode = 49747
+percent_zip_in_county = 38.68

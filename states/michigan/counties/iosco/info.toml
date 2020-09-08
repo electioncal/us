@@ -1,2 +1,50 @@
 name = "Iosco County"
 fips_code = 26069
+
+[[zipcodes]]
+zipcode = 48730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48737
+percent_zip_in_county = 12.05
+
+[[zipcodes]]
+zipcode = 48738
+percent_zip_in_county = 8.9
+
+[[zipcodes]]
+zipcode = 48739
+percent_zip_in_county = 77.2
+
+[[zipcodes]]
+zipcode = 48743
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48745
+percent_zip_in_county = 1.19
+
+[[zipcodes]]
+zipcode = 48748
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48750
+percent_zip_in_county = 99.36
+
+[[zipcodes]]
+zipcode = 48761
+percent_zip_in_county = 48.54
+
+[[zipcodes]]
+zipcode = 48763
+percent_zip_in_county = 91.92
+
+[[zipcodes]]
+zipcode = 48765
+percent_zip_in_county = 31.72
+
+[[zipcodes]]
+zipcode = 48770
+percent_zip_in_county = 100.0

@@ -1,2 +1,98 @@
 name = "Berrien County"
 fips_code = 26021
+
+[[zipcodes]]
+zipcode = 49022
+percent_zip_in_county = 99.22
+
+[[zipcodes]]
+zipcode = 49038
+percent_zip_in_county = 95.7
+
+[[zipcodes]]
+zipcode = 49047
+percent_zip_in_county = 0.64
+
+[[zipcodes]]
+zipcode = 49084
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49085
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49098
+percent_zip_in_county = 92.41
+
+[[zipcodes]]
+zipcode = 49101
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49102
+percent_zip_in_county = 99.55
+
+[[zipcodes]]
+zipcode = 49103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49104
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49106
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49107
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49111
+percent_zip_in_county = 95.64
+
+[[zipcodes]]
+zipcode = 49113
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49115
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49116
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49117
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49119
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49120
+percent_zip_in_county = 72.67
+
+[[zipcodes]]
+zipcode = 49125
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49126
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49127
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49128
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49129
+percent_zip_in_county = 100.0

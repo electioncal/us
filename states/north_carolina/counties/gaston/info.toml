@@ -1,2 +1,70 @@
 name = "Gaston County"
 fips_code = 37071
+
+[[zipcodes]]
+zipcode = 28006
+percent_zip_in_county = 64.6
+
+[[zipcodes]]
+zipcode = 28012
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28016
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28021
+percent_zip_in_county = 65.4
+
+[[zipcodes]]
+zipcode = 28032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28033
+percent_zip_in_county = 33.94
+
+[[zipcodes]]
+zipcode = 28034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28052
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28054
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28056
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28077
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28086
+percent_zip_in_county = 14.26
+
+[[zipcodes]]
+zipcode = 28092
+percent_zip_in_county = 5.31
+
+[[zipcodes]]
+zipcode = 28098
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28101
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28120
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28164
+percent_zip_in_county = 66.28

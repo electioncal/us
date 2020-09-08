@@ -1,2 +1,38 @@
 name = "McDowell County"
 fips_code = 37111
+
+[[zipcodes]]
+zipcode = 28167
+percent_zip_in_county = 5.76
+
+[[zipcodes]]
+zipcode = 28655
+percent_zip_in_county = 0.08
+
+[[zipcodes]]
+zipcode = 28657
+percent_zip_in_county = 0.2
+
+[[zipcodes]]
+zipcode = 28711
+percent_zip_in_county = 0.58
+
+[[zipcodes]]
+zipcode = 28749
+percent_zip_in_county = 78.0
+
+[[zipcodes]]
+zipcode = 28752
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28761
+percent_zip_in_county = 92.14
+
+[[zipcodes]]
+zipcode = 28762
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28777
+percent_zip_in_county = 0.22

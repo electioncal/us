@@ -1,2 +1,74 @@
 name = "Ford County"
 fips_code = 17053
+
+[[zipcodes]]
+zipcode = 60917
+percent_zip_in_county = 2.61
+
+[[zipcodes]]
+zipcode = 60919
+percent_zip_in_county = 62.19
+
+[[zipcodes]]
+zipcode = 60921
+percent_zip_in_county = 1.25
+
+[[zipcodes]]
+zipcode = 60929
+percent_zip_in_county = 3.84
+
+[[zipcodes]]
+zipcode = 60933
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60936
+percent_zip_in_county = 99.28
+
+[[zipcodes]]
+zipcode = 60946
+percent_zip_in_county = 89.44
+
+[[zipcodes]]
+zipcode = 60948
+percent_zip_in_county = 6.72
+
+[[zipcodes]]
+zipcode = 60949
+percent_zip_in_county = 4.72
+
+[[zipcodes]]
+zipcode = 60952
+percent_zip_in_county = 99.27
+
+[[zipcodes]]
+zipcode = 60957
+percent_zip_in_county = 98.2
+
+[[zipcodes]]
+zipcode = 60959
+percent_zip_in_county = 98.15
+
+[[zipcodes]]
+zipcode = 60960
+percent_zip_in_county = 16.92
+
+[[zipcodes]]
+zipcode = 60962
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60968
+percent_zip_in_county = 17.78
+
+[[zipcodes]]
+zipcode = 61731
+percent_zip_in_county = 9.64
+
+[[zipcodes]]
+zipcode = 61773
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61845
+percent_zip_in_county = 7.14

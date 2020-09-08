@@ -1,2 +1,46 @@
 name = "Park County"
 fips_code = 30067
+
+[[zipcodes]]
+zipcode = 59018
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59047
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59052
+percent_zip_in_county = 17.99
+
+[[zipcodes]]
+zipcode = 59065
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59081
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59082
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59086
+percent_zip_in_county = 89.41
+
+[[zipcodes]]
+zipcode = 59715
+percent_zip_in_county = 0.18

@@ -1,2 +1,42 @@
 name = "DeKalb County"
 fips_code = 29063
+
+[[zipcodes]]
+zipcode = 64422
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64429
+percent_zip_in_county = 46.28
+
+[[zipcodes]]
+zipcode = 64430
+percent_zip_in_county = 91.36
+
+[[zipcodes]]
+zipcode = 64463
+percent_zip_in_county = 9.25
+
+[[zipcodes]]
+zipcode = 64469
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64474
+percent_zip_in_county = 78.78
+
+[[zipcodes]]
+zipcode = 64490
+percent_zip_in_county = 67.32
+
+[[zipcodes]]
+zipcode = 64494
+percent_zip_in_county = 69.35
+
+[[zipcodes]]
+zipcode = 64497
+percent_zip_in_county = 71.91
+
+[[zipcodes]]
+zipcode = 64670
+percent_zip_in_county = 10.18

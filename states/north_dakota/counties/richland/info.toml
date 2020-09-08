@@ -1,2 +1,70 @@
 name = "Richland County"
 fips_code = 38077
+
+[[zipcodes]]
+zipcode = 58001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58008
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58015
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58018
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58047
+percent_zip_in_county = 0.34
+
+[[zipcodes]]
+zipcode = 58051
+percent_zip_in_county = 19.2
+
+[[zipcodes]]
+zipcode = 58052
+percent_zip_in_county = 18.76
+
+[[zipcodes]]
+zipcode = 58053
+percent_zip_in_county = 90.86
+
+[[zipcodes]]
+zipcode = 58057
+percent_zip_in_county = 56.46
+
+[[zipcodes]]
+zipcode = 58058
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58075
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58076
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58077
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58081
+percent_zip_in_county = 100.0

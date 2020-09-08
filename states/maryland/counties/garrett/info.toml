@@ -1,2 +1,54 @@
 name = "Garrett County"
 fips_code = 24023
+
+[[zipcodes]]
+zipcode = 21520
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21521
+percent_zip_in_county = 5.77
+
+[[zipcodes]]
+zipcode = 21522
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21523
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21531
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21532
+percent_zip_in_county = 9.74
+
+[[zipcodes]]
+zipcode = 21536
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21538
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21539
+percent_zip_in_county = 19.08
+
+[[zipcodes]]
+zipcode = 21541
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21550
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21561
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21562
+percent_zip_in_county = 1.05

@@ -1,2 +1,94 @@
 name = "Bell County"
 fips_code = 48027
+
+[[zipcodes]]
+zipcode = 76501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76502
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76504
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76508
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 76511
+percent_zip_in_county = 30.03
+
+[[zipcodes]]
+zipcode = 76513
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76519
+percent_zip_in_county = 50.48
+
+[[zipcodes]]
+zipcode = 76527
+percent_zip_in_county = 4.93
+
+[[zipcodes]]
+zipcode = 76528
+percent_zip_in_county = 1.66
+
+[[zipcodes]]
+zipcode = 76534
+percent_zip_in_county = 96.6
+
+[[zipcodes]]
+zipcode = 76539
+percent_zip_in_county = 17.45
+
+[[zipcodes]]
+zipcode = 76541
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76542
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76543
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76544
+percent_zip_in_county = 51.06
+
+[[zipcodes]]
+zipcode = 76548
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76549
+percent_zip_in_county = 99.2
+
+[[zipcodes]]
+zipcode = 76554
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76557
+percent_zip_in_county = 33.35
+
+[[zipcodes]]
+zipcode = 76559
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76569
+percent_zip_in_county = 96.4
+
+[[zipcodes]]
+zipcode = 76571
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76579
+percent_zip_in_county = 97.63

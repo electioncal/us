@@ -1,2 +1,22 @@
 name = "Washington Parish"
 fips_code = 22117
+
+[[zipcodes]]
+zipcode = 70426
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70427
+percent_zip_in_county = 96.65
+
+[[zipcodes]]
+zipcode = 70431
+percent_zip_in_county = 0.76
+
+[[zipcodes]]
+zipcode = 70438
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70450
+percent_zip_in_county = 100.0

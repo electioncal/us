@@ -1,2 +1,34 @@
 name = "Trego County"
 fips_code = 20195
+
+[[zipcodes]]
+zipcode = 67521
+percent_zip_in_county = 6.45
+
+[[zipcodes]]
+zipcode = 67572
+percent_zip_in_county = 10.31
+
+[[zipcodes]]
+zipcode = 67584
+percent_zip_in_county = 10.78
+
+[[zipcodes]]
+zipcode = 67631
+percent_zip_in_county = 93.57
+
+[[zipcodes]]
+zipcode = 67637
+percent_zip_in_county = 7.43
+
+[[zipcodes]]
+zipcode = 67656
+percent_zip_in_county = 95.51
+
+[[zipcodes]]
+zipcode = 67657
+percent_zip_in_county = 1.63
+
+[[zipcodes]]
+zipcode = 67672
+percent_zip_in_county = 98.73

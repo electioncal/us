@@ -1,2 +1,30 @@
 name = "Delta County"
 fips_code = 48119
+
+[[zipcodes]]
+zipcode = 75415
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75428
+percent_zip_in_county = 2.73
+
+[[zipcodes]]
+zipcode = 75432
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75441
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75448
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75450
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75469
+percent_zip_in_county = 97.3

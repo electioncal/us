@@ -1,2 +1,42 @@
 name = "Searcy County"
 fips_code = 5129
+
+[[zipcodes]]
+zipcode = 72633
+percent_zip_in_county = 9.0
+
+[[zipcodes]]
+zipcode = 72636
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72639
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72645
+percent_zip_in_county = 78.95
+
+[[zipcodes]]
+zipcode = 72650
+percent_zip_in_county = 95.76
+
+[[zipcodes]]
+zipcode = 72669
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72675
+percent_zip_in_county = 88.63
+
+[[zipcodes]]
+zipcode = 72679
+percent_zip_in_county = 31.25
+
+[[zipcodes]]
+zipcode = 72685
+percent_zip_in_county = 9.38
+
+[[zipcodes]]
+zipcode = 72686
+percent_zip_in_county = 100.0

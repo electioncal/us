@@ -1,2 +1,38 @@
 name = "Rockdale County"
 fips_code = 13247
+
+[[zipcodes]]
+zipcode = 30012
+percent_zip_in_county = 97.51
+
+[[zipcodes]]
+zipcode = 30013
+percent_zip_in_county = 94.72
+
+[[zipcodes]]
+zipcode = 30016
+percent_zip_in_county = 0.32
+
+[[zipcodes]]
+zipcode = 30052
+percent_zip_in_county = 0.5
+
+[[zipcodes]]
+zipcode = 30058
+percent_zip_in_county = 0.27
+
+[[zipcodes]]
+zipcode = 30094
+percent_zip_in_county = 99.67
+
+[[zipcodes]]
+zipcode = 30252
+percent_zip_in_county = 0.72
+
+[[zipcodes]]
+zipcode = 30281
+percent_zip_in_county = 4.0
+
+[[zipcodes]]
+zipcode = 30294
+percent_zip_in_county = 0.25

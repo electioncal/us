@@ -1,2 +1,34 @@
 name = "Stevens County"
 fips_code = 27149
+
+[[zipcodes]]
+zipcode = 56207
+percent_zip_in_county = 97.21
+
+[[zipcodes]]
+zipcode = 56221
+percent_zip_in_county = 93.66
+
+[[zipcodes]]
+zipcode = 56235
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56244
+percent_zip_in_county = 85.03
+
+[[zipcodes]]
+zipcode = 56248
+percent_zip_in_county = 6.2
+
+[[zipcodes]]
+zipcode = 56267
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56323
+percent_zip_in_county = 3.63
+
+[[zipcodes]]
+zipcode = 56343
+percent_zip_in_county = 3.46

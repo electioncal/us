@@ -1,2 +1,34 @@
 name = "Grayson County"
 fips_code = 51077
+
+[[zipcodes]]
+zipcode = 24292
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24326
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24330
+percent_zip_in_county = 78.77
+
+[[zipcodes]]
+zipcode = 24333
+percent_zip_in_county = 27.14
+
+[[zipcodes]]
+zipcode = 24348
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24350
+percent_zip_in_county = 4.6
+
+[[zipcodes]]
+zipcode = 24363
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24378
+percent_zip_in_county = 80.96

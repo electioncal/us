@@ -1,2 +1,38 @@
 name = "Cassia County"
 fips_code = 16031
+
+[[zipcodes]]
+zipcode = 83211
+percent_zip_in_county = 1.4
+
+[[zipcodes]]
+zipcode = 83311
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83312
+percent_zip_in_county = 85.12
+
+[[zipcodes]]
+zipcode = 83318
+percent_zip_in_county = 98.04
+
+[[zipcodes]]
+zipcode = 83323
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83342
+percent_zip_in_county = 91.32
+
+[[zipcodes]]
+zipcode = 83344
+percent_zip_in_county = 20.04
+
+[[zipcodes]]
+zipcode = 83346
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83350
+percent_zip_in_county = 3.25

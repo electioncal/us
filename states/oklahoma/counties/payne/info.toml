@@ -1,2 +1,58 @@
 name = "Payne County"
 fips_code = 40119
+
+[[zipcodes]]
+zipcode = 73027
+percent_zip_in_county = 36.84
+
+[[zipcodes]]
+zipcode = 73063
+percent_zip_in_county = 13.46
+
+[[zipcodes]]
+zipcode = 73073
+percent_zip_in_county = 13.49
+
+[[zipcodes]]
+zipcode = 74023
+percent_zip_in_county = 91.49
+
+[[zipcodes]]
+zipcode = 74030
+percent_zip_in_county = 6.47
+
+[[zipcodes]]
+zipcode = 74032
+percent_zip_in_county = 90.54
+
+[[zipcodes]]
+zipcode = 74045
+percent_zip_in_county = 14.15
+
+[[zipcodes]]
+zipcode = 74059
+percent_zip_in_county = 93.96
+
+[[zipcodes]]
+zipcode = 74062
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74074
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74075
+percent_zip_in_county = 97.58
+
+[[zipcodes]]
+zipcode = 74078
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74085
+percent_zip_in_county = 96.21
+
+[[zipcodes]]
+zipcode = 74824
+percent_zip_in_county = 5.03

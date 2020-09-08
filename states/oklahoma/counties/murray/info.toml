@@ -1,2 +1,30 @@
 name = "Murray County"
 fips_code = 40099
+
+[[zipcodes]]
+zipcode = 73030
+percent_zip_in_county = 95.21
+
+[[zipcodes]]
+zipcode = 73032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73086
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73098
+percent_zip_in_county = 9.7
+
+[[zipcodes]]
+zipcode = 73444
+percent_zip_in_county = 51.28
+
+[[zipcodes]]
+zipcode = 74856
+percent_zip_in_county = 11.76
+
+[[zipcodes]]
+zipcode = 74865
+percent_zip_in_county = 5.2

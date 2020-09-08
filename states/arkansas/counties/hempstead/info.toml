@@ -1,2 +1,42 @@
 name = "Hempstead County"
 fips_code = 5057
+
+[[zipcodes]]
+zipcode = 71801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71825
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71835
+percent_zip_in_county = 18.59
+
+[[zipcodes]]
+zipcode = 71838
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71847
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71852
+percent_zip_in_county = 10.72
+
+[[zipcodes]]
+zipcode = 71855
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71857
+percent_zip_in_county = 5.23
+
+[[zipcodes]]
+zipcode = 71859
+percent_zip_in_county = 58.7
+
+[[zipcodes]]
+zipcode = 71862
+percent_zip_in_county = 100.0

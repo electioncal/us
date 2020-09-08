@@ -1,2 +1,58 @@
 name = "Pacific County"
 fips_code = 53049
+
+[[zipcodes]]
+zipcode = 98527
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98537
+percent_zip_in_county = 3.85
+
+[[zipcodes]]
+zipcode = 98547
+percent_zip_in_county = 39.0
+
+[[zipcodes]]
+zipcode = 98577
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98586
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98590
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98614
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98621
+percent_zip_in_county = 3.26
+
+[[zipcodes]]
+zipcode = 98624
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98631
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98638
+percent_zip_in_county = 86.62
+
+[[zipcodes]]
+zipcode = 98640
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98641
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98644
+percent_zip_in_county = 100.0

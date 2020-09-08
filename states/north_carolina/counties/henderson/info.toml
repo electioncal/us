@@ -1,2 +1,62 @@
 name = "Henderson County"
 fips_code = 37089
+
+[[zipcodes]]
+zipcode = 28704
+percent_zip_in_county = 2.32
+
+[[zipcodes]]
+zipcode = 28711
+percent_zip_in_county = 0.1
+
+[[zipcodes]]
+zipcode = 28726
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28729
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28731
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28732
+percent_zip_in_county = 72.57
+
+[[zipcodes]]
+zipcode = 28735
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28739
+percent_zip_in_county = 99.14
+
+[[zipcodes]]
+zipcode = 28742
+percent_zip_in_county = 88.78
+
+[[zipcodes]]
+zipcode = 28759
+percent_zip_in_county = 97.85
+
+[[zipcodes]]
+zipcode = 28766
+percent_zip_in_county = 6.66
+
+[[zipcodes]]
+zipcode = 28773
+percent_zip_in_county = 37.21
+
+[[zipcodes]]
+zipcode = 28790
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28791
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28792
+percent_zip_in_county = 99.98

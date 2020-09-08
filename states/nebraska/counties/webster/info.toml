@@ -1,2 +1,30 @@
 name = "Webster County"
 fips_code = 31181
+
+[[zipcodes]]
+zipcode = 68928
+percent_zip_in_county = 92.96
+
+[[zipcodes]]
+zipcode = 68930
+percent_zip_in_county = 91.79
+
+[[zipcodes]]
+zipcode = 68932
+percent_zip_in_county = 11.76
+
+[[zipcodes]]
+zipcode = 68942
+percent_zip_in_county = 88.78
+
+[[zipcodes]]
+zipcode = 68952
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68957
+percent_zip_in_county = 10.78
+
+[[zipcodes]]
+zipcode = 68970
+percent_zip_in_county = 100.0

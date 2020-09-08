@@ -1,2 +1,30 @@
 name = "Moffat County"
 fips_code = 8081
+
+[[zipcodes]]
+zipcode = 81610
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81625
+percent_zip_in_county = 99.97
+
+[[zipcodes]]
+zipcode = 81633
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81638
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81640
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81641
+percent_zip_in_county = 0.91
+
+[[zipcodes]]
+zipcode = 81653
+percent_zip_in_county = 54.84

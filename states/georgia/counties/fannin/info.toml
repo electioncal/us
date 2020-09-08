@@ -1,2 +1,34 @@
 name = "Fannin County"
 fips_code = 13111
+
+[[zipcodes]]
+zipcode = 30512
+percent_zip_in_county = 0.92
+
+[[zipcodes]]
+zipcode = 30513
+percent_zip_in_county = 95.83
+
+[[zipcodes]]
+zipcode = 30522
+percent_zip_in_county = 36.08
+
+[[zipcodes]]
+zipcode = 30541
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30555
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30559
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30560
+percent_zip_in_county = 86.58
+
+[[zipcodes]]
+zipcode = 30572
+percent_zip_in_county = 33.65

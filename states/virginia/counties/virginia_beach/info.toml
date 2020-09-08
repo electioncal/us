@@ -1,2 +1,50 @@
 name = "Virginia Beach city"
 fips_code = 51810
+
+[[zipcodes]]
+zipcode = 23451
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23452
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23453
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23454
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23455
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23456
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23457
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23459
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23460
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23461
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23462
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23464
+percent_zip_in_county = 100.0

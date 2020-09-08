@@ -1,2 +1,30 @@
 name = "Hayes County"
 fips_code = 31085
+
+[[zipcodes]]
+zipcode = 69024
+percent_zip_in_county = 5.1
+
+[[zipcodes]]
+zipcode = 69032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69038
+percent_zip_in_county = 12.92
+
+[[zipcodes]]
+zipcode = 69040
+percent_zip_in_county = 31.86
+
+[[zipcodes]]
+zipcode = 69045
+percent_zip_in_county = 12.41
+
+[[zipcodes]]
+zipcode = 69134
+percent_zip_in_county = 3.3
+
+[[zipcodes]]
+zipcode = 69169
+percent_zip_in_county = 2.3

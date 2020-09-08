@@ -1,2 +1,42 @@
 name = "Washington County"
 fips_code = 13303
+
+[[zipcodes]]
+zipcode = 30413
+percent_zip_in_county = 18.73
+
+[[zipcodes]]
+zipcode = 30820
+percent_zip_in_county = 8.05
+
+[[zipcodes]]
+zipcode = 31018
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31082
+percent_zip_in_county = 99.64
+
+[[zipcodes]]
+zipcode = 31087
+percent_zip_in_county = 0.19
+
+[[zipcodes]]
+zipcode = 31089
+percent_zip_in_county = 97.17
+
+[[zipcodes]]
+zipcode = 31094
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31096
+percent_zip_in_county = 2.27

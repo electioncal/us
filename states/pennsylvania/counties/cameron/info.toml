@@ -1,2 +1,18 @@
 name = "Cameron County"
 fips_code = 42023
+
+[[zipcodes]]
+zipcode = 15832
+percent_zip_in_county = 95.12
+
+[[zipcodes]]
+zipcode = 15834
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15861
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16720
+percent_zip_in_county = 4.74

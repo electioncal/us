@@ -1,2 +1,18 @@
 name = "Lyon County"
 fips_code = 21143
+
+[[zipcodes]]
+zipcode = 42038
+percent_zip_in_county = 99.87
+
+[[zipcodes]]
+zipcode = 42055
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42411
+percent_zip_in_county = 4.17
+
+[[zipcodes]]
+zipcode = 42445
+percent_zip_in_county = 3.04

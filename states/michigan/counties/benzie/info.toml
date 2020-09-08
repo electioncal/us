@@ -1,2 +1,46 @@
 name = "Benzie County"
 fips_code = 26019
+
+[[zipcodes]]
+zipcode = 49613
+percent_zip_in_county = 20.0
+
+[[zipcodes]]
+zipcode = 49616
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49617
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49628
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49630
+percent_zip_in_county = 2.24
+
+[[zipcodes]]
+zipcode = 49635
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49640
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49643
+percent_zip_in_county = 32.06
+
+[[zipcodes]]
+zipcode = 49650
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49683
+percent_zip_in_county = 60.29
+
+[[zipcodes]]
+zipcode = 49684
+percent_zip_in_county = 0.95

@@ -1,2 +1,34 @@
 name = "Montague County"
 fips_code = 48337
+
+[[zipcodes]]
+zipcode = 76228
+percent_zip_in_county = 12.96
+
+[[zipcodes]]
+zipcode = 76230
+percent_zip_in_county = 95.92
+
+[[zipcodes]]
+zipcode = 76239
+percent_zip_in_county = 80.86
+
+[[zipcodes]]
+zipcode = 76251
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76255
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76261
+percent_zip_in_county = 90.56
+
+[[zipcodes]]
+zipcode = 76265
+percent_zip_in_county = 94.24
+
+[[zipcodes]]
+zipcode = 76270
+percent_zip_in_county = 67.08

@@ -1,2 +1,58 @@
 name = "Oneida County"
 fips_code = 55085
+
+[[zipcodes]]
+zipcode = 54428
+percent_zip_in_county = 1.6
+
+[[zipcodes]]
+zipcode = 54463
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54487
+percent_zip_in_county = 18.49
+
+[[zipcodes]]
+zipcode = 54501
+percent_zip_in_county = 99.36
+
+[[zipcodes]]
+zipcode = 54521
+percent_zip_in_county = 15.18
+
+[[zipcodes]]
+zipcode = 54529
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54531
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54538
+percent_zip_in_county = 2.42
+
+[[zipcodes]]
+zipcode = 54539
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54548
+percent_zip_in_county = 91.79
+
+[[zipcodes]]
+zipcode = 54558
+percent_zip_in_county = 10.7
+
+[[zipcodes]]
+zipcode = 54562
+percent_zip_in_county = 98.25
+
+[[zipcodes]]
+zipcode = 54564
+percent_zip_in_county = 55.81
+
+[[zipcodes]]
+zipcode = 54568
+percent_zip_in_county = 35.32

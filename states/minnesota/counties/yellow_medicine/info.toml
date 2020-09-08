@@ -1,2 +1,54 @@
 name = "Yellow Medicine County"
 fips_code = 27173
+
+[[zipcodes]]
+zipcode = 56214
+percent_zip_in_county = 5.38
+
+[[zipcodes]]
+zipcode = 56218
+percent_zip_in_county = 28.66
+
+[[zipcodes]]
+zipcode = 56220
+percent_zip_in_county = 89.38
+
+[[zipcodes]]
+zipcode = 56223
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56229
+percent_zip_in_county = 9.19
+
+[[zipcodes]]
+zipcode = 56237
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56241
+percent_zip_in_county = 70.52
+
+[[zipcodes]]
+zipcode = 56245
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56264
+percent_zip_in_county = 10.21
+
+[[zipcodes]]
+zipcode = 56265
+percent_zip_in_county = 3.26
+
+[[zipcodes]]
+zipcode = 56280
+percent_zip_in_county = 67.92
+
+[[zipcodes]]
+zipcode = 56291
+percent_zip_in_county = 30.14
+
+[[zipcodes]]
+zipcode = 56297
+percent_zip_in_county = 100.0

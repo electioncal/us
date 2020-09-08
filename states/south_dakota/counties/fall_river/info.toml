@@ -1,2 +1,26 @@
 name = "Fall River County"
 fips_code = 46047
+
+[[zipcodes]]
+zipcode = 57722
+percent_zip_in_county = 8.48
+
+[[zipcodes]]
+zipcode = 57735
+percent_zip_in_county = 82.89
+
+[[zipcodes]]
+zipcode = 57747
+percent_zip_in_county = 91.82
+
+[[zipcodes]]
+zipcode = 57763
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57766
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57782
+percent_zip_in_county = 100.0

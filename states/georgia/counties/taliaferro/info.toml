@@ -1,2 +1,18 @@
 name = "Taliaferro County"
 fips_code = 13265
+
+[[zipcodes]]
+zipcode = 30631
+percent_zip_in_county = 91.17
+
+[[zipcodes]]
+zipcode = 30664
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30669
+percent_zip_in_county = 1.45
+
+[[zipcodes]]
+zipcode = 30678
+percent_zip_in_county = 1.55

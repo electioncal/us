@@ -1,2 +1,54 @@
 name = "Lamar County"
 fips_code = 48277
+
+[[zipcodes]]
+zipcode = 75411
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75416
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75421
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75435
+percent_zip_in_county = 84.98
+
+[[zipcodes]]
+zipcode = 75436
+percent_zip_in_county = 4.48
+
+[[zipcodes]]
+zipcode = 75446
+percent_zip_in_county = 12.33
+
+[[zipcodes]]
+zipcode = 75460
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75462
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75468
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75470
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75473
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75477
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75486
+percent_zip_in_county = 100.0

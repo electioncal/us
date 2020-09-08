@@ -1,2 +1,46 @@
 name = "Grundy County"
 fips_code = 47061
+
+[[zipcodes]]
+zipcode = 37110
+percent_zip_in_county = 0.69
+
+[[zipcodes]]
+zipcode = 37301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37305
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37313
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37324
+percent_zip_in_county = 2.18
+
+[[zipcodes]]
+zipcode = 37339
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37356
+percent_zip_in_county = 63.23
+
+[[zipcodes]]
+zipcode = 37357
+percent_zip_in_county = 4.79
+
+[[zipcodes]]
+zipcode = 37365
+percent_zip_in_county = 99.62
+
+[[zipcodes]]
+zipcode = 37366
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37387
+percent_zip_in_county = 100.0

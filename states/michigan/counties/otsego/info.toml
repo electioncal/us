@@ -1,2 +1,30 @@
 name = "Otsego County"
 fips_code = 26137
+
+[[zipcodes]]
+zipcode = 49730
+percent_zip_in_county = 24.51
+
+[[zipcodes]]
+zipcode = 49733
+percent_zip_in_county = 23.72
+
+[[zipcodes]]
+zipcode = 49735
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49738
+percent_zip_in_county = 0.2
+
+[[zipcodes]]
+zipcode = 49751
+percent_zip_in_county = 87.49
+
+[[zipcodes]]
+zipcode = 49756
+percent_zip_in_county = 1.58
+
+[[zipcodes]]
+zipcode = 49795
+percent_zip_in_county = 82.98

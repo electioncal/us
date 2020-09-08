@@ -1,2 +1,34 @@
 name = "Montezuma County"
 fips_code = 8083
+
+[[zipcodes]]
+zipcode = 81321
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81323
+percent_zip_in_county = 98.89
+
+[[zipcodes]]
+zipcode = 81327
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81328
+percent_zip_in_county = 97.1
+
+[[zipcodes]]
+zipcode = 81330
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81331
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81334
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81335
+percent_zip_in_county = 100.0

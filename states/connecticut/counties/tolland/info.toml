@@ -1,2 +1,70 @@
 name = "Tolland County"
 fips_code = 9013
+
+[[zipcodes]]
+zipcode = 6029
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6066
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6071
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6076
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6084
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6226
+percent_zip_in_county = 2.21
+
+[[zipcodes]]
+zipcode = 6231
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6232
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6237
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6238
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6242
+percent_zip_in_county = 5.75
+
+[[zipcodes]]
+zipcode = 6248
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6250
+percent_zip_in_county = 99.0
+
+[[zipcodes]]
+zipcode = 6268
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6269
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 6279
+percent_zip_in_county = 100.0

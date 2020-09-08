@@ -1,2 +1,270 @@
 name = "Bergen County"
 fips_code = 34003
+
+[[zipcodes]]
+zipcode = 7010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7026
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7031
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7057
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7071
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7073
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7074
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7075
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7407
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7410
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7417
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7423
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7430
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7432
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7436
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7446
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7450
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7452
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7458
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7463
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7481
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7495
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 7601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7603
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7604
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7605
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7606
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7607
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7608
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7620
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7621
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7624
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7626
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7627
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7628
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7630
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7631
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7632
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7640
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7641
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7642
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7643
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7644
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7645
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7646
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7647
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7648
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7649
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7650
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7652
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7656
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7657
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7660
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7661
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7662
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7663
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7666
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7670
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7675
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7676
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 7677
+percent_zip_in_county = 100.0

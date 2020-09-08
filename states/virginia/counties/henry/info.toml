@@ -1,2 +1,42 @@
 name = "Henry County"
 fips_code = 51089
+
+[[zipcodes]]
+zipcode = 24054
+percent_zip_in_county = 71.22
+
+[[zipcodes]]
+zipcode = 24055
+percent_zip_in_county = 91.58
+
+[[zipcodes]]
+zipcode = 24078
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24089
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24102
+percent_zip_in_county = 6.6
+
+[[zipcodes]]
+zipcode = 24112
+percent_zip_in_county = 54.11
+
+[[zipcodes]]
+zipcode = 24148
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24165
+percent_zip_in_county = 64.85
+
+[[zipcodes]]
+zipcode = 24168
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24530
+percent_zip_in_county = 0.92

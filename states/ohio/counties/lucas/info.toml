@@ -1,2 +1,122 @@
 name = "Lucas County"
 fips_code = 39095
+
+[[zipcodes]]
+zipcode = 43412
+percent_zip_in_county = 51.67
+
+[[zipcodes]]
+zipcode = 43434
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43445
+percent_zip_in_county = 14.04
+
+[[zipcodes]]
+zipcode = 43504
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43522
+percent_zip_in_county = 45.45
+
+[[zipcodes]]
+zipcode = 43528
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43532
+percent_zip_in_county = 1.59
+
+[[zipcodes]]
+zipcode = 43537
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43542
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43547
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43558
+percent_zip_in_county = 35.18
+
+[[zipcodes]]
+zipcode = 43560
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43566
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43571
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43604
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43605
+percent_zip_in_county = 99.36
+
+[[zipcodes]]
+zipcode = 43606
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43607
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43608
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43609
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43610
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43611
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43612
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43613
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43614
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43615
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43616
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43617
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43620
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43623
+percent_zip_in_county = 100.0

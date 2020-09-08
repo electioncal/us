@@ -1,2 +1,10 @@
 name = "Fajardo Municipio"
 fips_code = 72053
+
+[[zipcodes]]
+zipcode = 738
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 740
+percent_zip_in_county = 100.0

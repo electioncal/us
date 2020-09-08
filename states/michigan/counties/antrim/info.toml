@@ -1,2 +1,66 @@
 name = "Antrim County"
 fips_code = 26009
+
+[[zipcodes]]
+zipcode = 49611
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49612
+percent_zip_in_county = 71.01
+
+[[zipcodes]]
+zipcode = 49615
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49622
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49627
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49629
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49648
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49659
+percent_zip_in_county = 78.64
+
+[[zipcodes]]
+zipcode = 49676
+percent_zip_in_county = 32.73
+
+[[zipcodes]]
+zipcode = 49690
+percent_zip_in_county = 6.0
+
+[[zipcodes]]
+zipcode = 49712
+percent_zip_in_county = 1.63
+
+[[zipcodes]]
+zipcode = 49713
+percent_zip_in_county = 0.54
+
+[[zipcodes]]
+zipcode = 49720
+percent_zip_in_county = 2.83
+
+[[zipcodes]]
+zipcode = 49727
+percent_zip_in_county = 23.26
+
+[[zipcodes]]
+zipcode = 49729
+percent_zip_in_county = 88.66
+
+[[zipcodes]]
+zipcode = 49730
+percent_zip_in_county = 55.74

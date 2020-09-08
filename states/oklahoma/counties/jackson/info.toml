@@ -1,2 +1,34 @@
 name = "Jackson County"
 fips_code = 40065
+
+[[zipcodes]]
+zipcode = 73521
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73526
+percent_zip_in_county = 98.5
+
+[[zipcodes]]
+zipcode = 73532
+percent_zip_in_county = 98.67
+
+[[zipcodes]]
+zipcode = 73537
+percent_zip_in_county = 94.56
+
+[[zipcodes]]
+zipcode = 73539
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73549
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73556
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73560
+percent_zip_in_county = 100.0

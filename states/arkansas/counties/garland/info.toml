@@ -1,2 +1,38 @@
 name = "Garland County"
 fips_code = 5051
+
+[[zipcodes]]
+zipcode = 71901
+percent_zip_in_county = 99.8
+
+[[zipcodes]]
+zipcode = 71909
+percent_zip_in_county = 65.1
+
+[[zipcodes]]
+zipcode = 71913
+percent_zip_in_county = 98.34
+
+[[zipcodes]]
+zipcode = 71933
+percent_zip_in_county = 45.17
+
+[[zipcodes]]
+zipcode = 71949
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71956
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71964
+percent_zip_in_county = 93.0
+
+[[zipcodes]]
+zipcode = 71968
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72087
+percent_zip_in_county = 39.69

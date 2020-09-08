@@ -1,2 +1,78 @@
 name = "Wayne County"
 fips_code = 17191
+
+[[zipcodes]]
+zipcode = 62446
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62450
+percent_zip_in_county = 0.06
+
+[[zipcodes]]
+zipcode = 62809
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62810
+percent_zip_in_county = 0.73
+
+[[zipcodes]]
+zipcode = 62814
+percent_zip_in_county = 13.18
+
+[[zipcodes]]
+zipcode = 62820
+percent_zip_in_county = 22.84
+
+[[zipcodes]]
+zipcode = 62823
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62824
+percent_zip_in_county = 5.57
+
+[[zipcodes]]
+zipcode = 62833
+percent_zip_in_county = 56.66
+
+[[zipcodes]]
+zipcode = 62837
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62842
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62843
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62850
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62851
+percent_zip_in_county = 94.53
+
+[[zipcodes]]
+zipcode = 62868
+percent_zip_in_county = 3.1
+
+[[zipcodes]]
+zipcode = 62878
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62886
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62895
+percent_zip_in_county = 95.8
+
+[[zipcodes]]
+zipcode = 62899
+percent_zip_in_county = 32.69

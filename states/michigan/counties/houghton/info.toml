@@ -1,2 +1,78 @@
 name = "Houghton County"
 fips_code = 26061
+
+[[zipcodes]]
+zipcode = 49805
+percent_zip_in_county = 2.98
+
+[[zipcodes]]
+zipcode = 49905
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49913
+percent_zip_in_county = 97.7
+
+[[zipcodes]]
+zipcode = 49916
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49917
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49921
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49922
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49930
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49931
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49934
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49942
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49945
+percent_zip_in_county = 97.1
+
+[[zipcodes]]
+zipcode = 49952
+percent_zip_in_county = 98.6
+
+[[zipcodes]]
+zipcode = 49955
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49958
+percent_zip_in_county = 61.18
+
+[[zipcodes]]
+zipcode = 49961
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49963
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49965
+percent_zip_in_county = 88.64
+
+[[zipcodes]]
+zipcode = 49967
+percent_zip_in_county = 26.63

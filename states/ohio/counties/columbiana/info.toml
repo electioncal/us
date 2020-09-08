@@ -1,2 +1,98 @@
 name = "Columbiana County"
 fips_code = 39029
+
+[[zipcodes]]
+zipcode = 43920
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43930
+percent_zip_in_county = 18.48
+
+[[zipcodes]]
+zipcode = 43945
+percent_zip_in_county = 83.39
+
+[[zipcodes]]
+zipcode = 43962
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43968
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44408
+percent_zip_in_county = 78.7
+
+[[zipcodes]]
+zipcode = 44413
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44423
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44427
+percent_zip_in_county = 60.55
+
+[[zipcodes]]
+zipcode = 44431
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44432
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44441
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44443
+percent_zip_in_county = 3.87
+
+[[zipcodes]]
+zipcode = 44445
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44454
+percent_zip_in_county = 6.85
+
+[[zipcodes]]
+zipcode = 44455
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44460
+percent_zip_in_county = 81.18
+
+[[zipcodes]]
+zipcode = 44490
+percent_zip_in_county = 56.14
+
+[[zipcodes]]
+zipcode = 44493
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44601
+percent_zip_in_county = 4.2
+
+[[zipcodes]]
+zipcode = 44609
+percent_zip_in_county = 40.38
+
+[[zipcodes]]
+zipcode = 44625
+percent_zip_in_county = 84.49
+
+[[zipcodes]]
+zipcode = 44634
+percent_zip_in_county = 75.46
+
+[[zipcodes]]
+zipcode = 44657
+percent_zip_in_county = 18.32

@@ -1,2 +1,22 @@
 name = "Boyd County"
 fips_code = 31015
+
+[[zipcodes]]
+zipcode = 68719
+percent_zip_in_county = 86.3
+
+[[zipcodes]]
+zipcode = 68722
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68746
+percent_zip_in_county = 88.54
+
+[[zipcodes]]
+zipcode = 68755
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68777
+percent_zip_in_county = 94.83

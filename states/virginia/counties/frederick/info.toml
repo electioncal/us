@@ -1,2 +1,50 @@
 name = "Frederick County"
 fips_code = 51069
+
+[[zipcodes]]
+zipcode = 22601
+percent_zip_in_county = 5.79
+
+[[zipcodes]]
+zipcode = 22602
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22603
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22624
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22625
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22630
+percent_zip_in_county = 1.54
+
+[[zipcodes]]
+zipcode = 22637
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22645
+percent_zip_in_county = 70.03
+
+[[zipcodes]]
+zipcode = 22654
+percent_zip_in_county = 81.72
+
+[[zipcodes]]
+zipcode = 22655
+percent_zip_in_county = 99.56
+
+[[zipcodes]]
+zipcode = 22656
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22663
+percent_zip_in_county = 54.56

@@ -1,2 +1,70 @@
 name = "Johnson County"
 fips_code = 29101
+
+[[zipcodes]]
+zipcode = 64011
+percent_zip_in_county = 13.78
+
+[[zipcodes]]
+zipcode = 64019
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64020
+percent_zip_in_county = 6.1
+
+[[zipcodes]]
+zipcode = 64040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64061
+percent_zip_in_county = 97.22
+
+[[zipcodes]]
+zipcode = 64070
+percent_zip_in_county = 8.95
+
+[[zipcodes]]
+zipcode = 64076
+percent_zip_in_county = 4.49
+
+[[zipcodes]]
+zipcode = 64093
+percent_zip_in_county = 99.93
+
+[[zipcodes]]
+zipcode = 64726
+percent_zip_in_county = 11.56
+
+[[zipcodes]]
+zipcode = 64733
+percent_zip_in_county = 79.98
+
+[[zipcodes]]
+zipcode = 64747
+percent_zip_in_county = 6.09
+
+[[zipcodes]]
+zipcode = 64761
+percent_zip_in_county = 90.69
+
+[[zipcodes]]
+zipcode = 65305
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65332
+percent_zip_in_county = 0.67
+
+[[zipcodes]]
+zipcode = 65336
+percent_zip_in_county = 98.93
+
+[[zipcodes]]
+zipcode = 65351
+percent_zip_in_county = 1.03
+
+[[zipcodes]]
+zipcode = 65360
+percent_zip_in_county = 7.05

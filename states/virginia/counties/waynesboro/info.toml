@@ -1,2 +1,6 @@
 name = "Waynesboro city"
 fips_code = 51820
+
+[[zipcodes]]
+zipcode = 22980
+percent_zip_in_county = 66.79

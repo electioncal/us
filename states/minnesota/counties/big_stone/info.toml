@@ -1,2 +1,38 @@
 name = "Big Stone County"
 fips_code = 27011
+
+[[zipcodes]]
+zipcode = 56210
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56211
+percent_zip_in_county = 76.18
+
+[[zipcodes]]
+zipcode = 56221
+percent_zip_in_county = 6.08
+
+[[zipcodes]]
+zipcode = 56225
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56227
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56236
+percent_zip_in_county = 15.88
+
+[[zipcodes]]
+zipcode = 56240
+percent_zip_in_county = 85.89
+
+[[zipcodes]]
+zipcode = 56276
+percent_zip_in_county = 81.54
+
+[[zipcodes]]
+zipcode = 56278
+percent_zip_in_county = 98.19

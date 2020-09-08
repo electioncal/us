@@ -1,2 +1,118 @@
 name = "Rutland County"
 fips_code = 50021
+
+[[zipcodes]]
+zipcode = 5253
+percent_zip_in_county = 1.61
+
+[[zipcodes]]
+zipcode = 5701
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5732
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5733
+percent_zip_in_county = 79.93
+
+[[zipcodes]]
+zipcode = 5735
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5736
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5737
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5738
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5739
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5742
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5743
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5744
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5751
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5757
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5758
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5759
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5760
+percent_zip_in_county = 3.92
+
+[[zipcodes]]
+zipcode = 5761
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5762
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5763
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5764
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5765
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5767
+percent_zip_in_county = 0.35
+
+[[zipcodes]]
+zipcode = 5773
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5774
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5775
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5777
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5778
+percent_zip_in_county = 7.23

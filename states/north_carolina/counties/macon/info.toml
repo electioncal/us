@@ -1,2 +1,22 @@
 name = "Macon County"
 fips_code = 37113
+
+[[zipcodes]]
+zipcode = 28734
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28741
+percent_zip_in_county = 95.68
+
+[[zipcodes]]
+zipcode = 28763
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28775
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28781
+percent_zip_in_county = 85.41

@@ -1,2 +1,14 @@
 name = "Bristol Bay Borough"
 fips_code = 2060
+
+[[zipcodes]]
+zipcode = 99613
+percent_zip_in_county = 86.18
+
+[[zipcodes]]
+zipcode = 99633
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99670
+percent_zip_in_county = 100.0

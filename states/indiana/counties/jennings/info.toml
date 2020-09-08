@@ -1,2 +1,50 @@
 name = "Jennings County"
 fips_code = 18079
+
+[[zipcodes]]
+zipcode = 47223
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47227
+percent_zip_in_county = 83.85
+
+[[zipcodes]]
+zipcode = 47229
+percent_zip_in_county = 5.14
+
+[[zipcodes]]
+zipcode = 47230
+percent_zip_in_county = 7.74
+
+[[zipcodes]]
+zipcode = 47231
+percent_zip_in_county = 22.96
+
+[[zipcodes]]
+zipcode = 47232
+percent_zip_in_county = 35.75
+
+[[zipcodes]]
+zipcode = 47265
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47270
+percent_zip_in_county = 93.56
+
+[[zipcodes]]
+zipcode = 47273
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47274
+percent_zip_in_county = 0.83
+
+[[zipcodes]]
+zipcode = 47282
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47283
+percent_zip_in_county = 1.39

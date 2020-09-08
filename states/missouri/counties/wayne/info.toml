@@ -1,2 +1,54 @@
 name = "Wayne County"
 fips_code = 29223
+
+[[zipcodes]]
+zipcode = 63636
+percent_zip_in_county = 5.76
+
+[[zipcodes]]
+zipcode = 63655
+percent_zip_in_county = 6.83
+
+[[zipcodes]]
+zipcode = 63763
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63934
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63937
+percent_zip_in_county = 1.71
+
+[[zipcodes]]
+zipcode = 63944
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63951
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63952
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63956
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63957
+percent_zip_in_county = 93.82
+
+[[zipcodes]]
+zipcode = 63964
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63966
+percent_zip_in_county = 79.05
+
+[[zipcodes]]
+zipcode = 63967
+percent_zip_in_county = 65.48

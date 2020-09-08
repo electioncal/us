@@ -1,2 +1,22 @@
 name = "Shackelford County"
 fips_code = 48417
+
+[[zipcodes]]
+zipcode = 76430
+percent_zip_in_county = 99.84
+
+[[zipcodes]]
+zipcode = 76464
+percent_zip_in_county = 87.35
+
+[[zipcodes]]
+zipcode = 79504
+percent_zip_in_county = 0.43
+
+[[zipcodes]]
+zipcode = 79533
+percent_zip_in_county = 10.17
+
+[[zipcodes]]
+zipcode = 79601
+percent_zip_in_county = 1.39

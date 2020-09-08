@@ -1,2 +1,118 @@
 name = "Waukesha County"
 fips_code = 55133
+
+[[zipcodes]]
+zipcode = 53005
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53017
+percent_zip_in_county = 17.66
+
+[[zipcodes]]
+zipcode = 53018
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53029
+percent_zip_in_county = 99.55
+
+[[zipcodes]]
+zipcode = 53036
+percent_zip_in_county = 1.58
+
+[[zipcodes]]
+zipcode = 53045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53058
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53066
+percent_zip_in_county = 89.32
+
+[[zipcodes]]
+zipcode = 53069
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53089
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53118
+percent_zip_in_county = 93.21
+
+[[zipcodes]]
+zipcode = 53119
+percent_zip_in_county = 93.56
+
+[[zipcodes]]
+zipcode = 53122
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53146
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53149
+percent_zip_in_county = 95.08
+
+[[zipcodes]]
+zipcode = 53150
+percent_zip_in_county = 98.5
+
+[[zipcodes]]
+zipcode = 53151
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53153
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53183
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53186
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53188
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53189
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53225
+percent_zip_in_county = 0.02
+
+[[zipcodes]]
+zipcode = 53702
+percent_zip_in_county = 100.0

@@ -1,2 +1,14 @@
 name = "Zavala County"
 fips_code = 48507
+
+[[zipcodes]]
+zipcode = 78829
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78839
+percent_zip_in_county = 99.85
+
+[[zipcodes]]
+zipcode = 78872
+percent_zip_in_county = 100.0

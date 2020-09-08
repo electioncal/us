@@ -1,2 +1,42 @@
 name = "Chambers County"
 fips_code = 1017
+
+[[zipcodes]]
+zipcode = 36274
+percent_zip_in_county = 5.36
+
+[[zipcodes]]
+zipcode = 36276
+percent_zip_in_county = 14.2
+
+[[zipcodes]]
+zipcode = 36801
+percent_zip_in_county = 1.24
+
+[[zipcodes]]
+zipcode = 36850
+percent_zip_in_county = 10.95
+
+[[zipcodes]]
+zipcode = 36852
+percent_zip_in_county = 18.27
+
+[[zipcodes]]
+zipcode = 36854
+percent_zip_in_county = 82.49
+
+[[zipcodes]]
+zipcode = 36855
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36862
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36863
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36879
+percent_zip_in_county = 20.1

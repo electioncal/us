@@ -1,2 +1,50 @@
 name = "Harding County"
 fips_code = 46063
+
+[[zipcodes]]
+zipcode = 57649
+percent_zip_in_county = 18.89
+
+[[zipcodes]]
+zipcode = 57650
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57651
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57717
+percent_zip_in_county = 0.24
+
+[[zipcodes]]
+zipcode = 57720
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57724
+percent_zip_in_county = 83.81
+
+[[zipcodes]]
+zipcode = 57755
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57760
+percent_zip_in_county = 2.0
+
+[[zipcodes]]
+zipcode = 57776
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58623
+percent_zip_in_county = 0.3
+
+[[zipcodes]]
+zipcode = 58649
+percent_zip_in_county = 4.36
+
+[[zipcodes]]
+zipcode = 58653
+percent_zip_in_county = 7.49

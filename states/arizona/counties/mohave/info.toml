@@ -1,2 +1,102 @@
 name = "Mohave County"
 fips_code = 4015
+
+[[zipcodes]]
+zipcode = 85360
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86022
+percent_zip_in_county = 37.69
+
+[[zipcodes]]
+zipcode = 86401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86403
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86404
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86406
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86409
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86411
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86413
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86426
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86429
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86431
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86432
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86433
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86434
+percent_zip_in_county = 93.83
+
+[[zipcodes]]
+zipcode = 86436
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86437
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86438
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86440
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86441
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86442
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86443
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86444
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 86445
+percent_zip_in_county = 100.0

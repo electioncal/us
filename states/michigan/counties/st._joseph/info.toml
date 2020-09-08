@@ -1,2 +1,54 @@
 name = "St. Joseph County"
 fips_code = 26149
+
+[[zipcodes]]
+zipcode = 49011
+percent_zip_in_county = 1.75
+
+[[zipcodes]]
+zipcode = 49030
+percent_zip_in_county = 95.8
+
+[[zipcodes]]
+zipcode = 49032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49040
+percent_zip_in_county = 92.41
+
+[[zipcodes]]
+zipcode = 49042
+percent_zip_in_county = 99.65
+
+[[zipcodes]]
+zipcode = 49066
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49067
+percent_zip_in_county = 19.7
+
+[[zipcodes]]
+zipcode = 49072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49075
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49091
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49093
+percent_zip_in_county = 97.5
+
+[[zipcodes]]
+zipcode = 49097
+percent_zip_in_county = 1.03
+
+[[zipcodes]]
+zipcode = 49099
+percent_zip_in_county = 87.6

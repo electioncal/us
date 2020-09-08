@@ -1,2 +1,74 @@
 name = "Tompkins County"
 fips_code = 36109
+
+[[zipcodes]]
+zipcode = 13045
+percent_zip_in_county = 1.5
+
+[[zipcodes]]
+zipcode = 13053
+percent_zip_in_county = 89.47
+
+[[zipcodes]]
+zipcode = 13062
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13068
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13073
+percent_zip_in_county = 99.02
+
+[[zipcodes]]
+zipcode = 13092
+percent_zip_in_county = 9.36
+
+[[zipcodes]]
+zipcode = 13102
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13736
+percent_zip_in_county = 12.92
+
+[[zipcodes]]
+zipcode = 13864
+percent_zip_in_county = 26.54
+
+[[zipcodes]]
+zipcode = 14817
+percent_zip_in_county = 95.59
+
+[[zipcodes]]
+zipcode = 14850
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14853
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14854
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14867
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14881
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14882
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14883
+percent_zip_in_county = 21.3
+
+[[zipcodes]]
+zipcode = 14886
+percent_zip_in_county = 64.67

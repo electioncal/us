@@ -1,2 +1,18 @@
 name = "Burleson County"
 fips_code = 48051
+
+[[zipcodes]]
+zipcode = 76567
+percent_zip_in_county = 2.25
+
+[[zipcodes]]
+zipcode = 77836
+percent_zip_in_county = 99.53
+
+[[zipcodes]]
+zipcode = 77878
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77879
+percent_zip_in_county = 100.0

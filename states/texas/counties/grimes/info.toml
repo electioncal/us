@@ -1,2 +1,38 @@
 name = "Grimes County"
 fips_code = 48185
+
+[[zipcodes]]
+zipcode = 77356
+percent_zip_in_county = 0.46
+
+[[zipcodes]]
+zipcode = 77363
+percent_zip_in_county = 93.7
+
+[[zipcodes]]
+zipcode = 77484
+percent_zip_in_county = 1.99
+
+[[zipcodes]]
+zipcode = 77830
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77831
+percent_zip_in_county = 87.62
+
+[[zipcodes]]
+zipcode = 77861
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77868
+percent_zip_in_county = 91.98
+
+[[zipcodes]]
+zipcode = 77873
+percent_zip_in_county = 54.33
+
+[[zipcodes]]
+zipcode = 77876
+percent_zip_in_county = 100.0

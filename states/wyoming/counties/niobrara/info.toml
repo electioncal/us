@@ -1,2 +1,30 @@
 name = "Niobrara County"
 fips_code = 56027
+
+[[zipcodes]]
+zipcode = 82222
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82224
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82225
+percent_zip_in_county = 97.92
+
+[[zipcodes]]
+zipcode = 82227
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82242
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82633
+percent_zip_in_county = 0.06
+
+[[zipcodes]]
+zipcode = 82701
+percent_zip_in_county = 0.81

@@ -1,2 +1,54 @@
 name = "Etowah County"
 fips_code = 1055
+
+[[zipcodes]]
+zipcode = 35901
+percent_zip_in_county = 99.72
+
+[[zipcodes]]
+zipcode = 35903
+percent_zip_in_county = 99.76
+
+[[zipcodes]]
+zipcode = 35904
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35905
+percent_zip_in_county = 88.66
+
+[[zipcodes]]
+zipcode = 35906
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35907
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35952
+percent_zip_in_county = 59.92
+
+[[zipcodes]]
+zipcode = 35954
+percent_zip_in_county = 99.39
+
+[[zipcodes]]
+zipcode = 35956
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35961
+percent_zip_in_county = 7.12
+
+[[zipcodes]]
+zipcode = 35972
+percent_zip_in_county = 80.07
+
+[[zipcodes]]
+zipcode = 35990
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36272
+percent_zip_in_county = 7.86

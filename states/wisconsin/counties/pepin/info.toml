@@ -1,2 +1,26 @@
 name = "Pepin County"
 fips_code = 55091
+
+[[zipcodes]]
+zipcode = 54721
+percent_zip_in_county = 94.25
+
+[[zipcodes]]
+zipcode = 54736
+percent_zip_in_county = 86.79
+
+[[zipcodes]]
+zipcode = 54737
+percent_zip_in_county = 7.19
+
+[[zipcodes]]
+zipcode = 54755
+percent_zip_in_county = 8.37
+
+[[zipcodes]]
+zipcode = 54759
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54769
+percent_zip_in_county = 79.08

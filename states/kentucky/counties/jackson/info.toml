@@ -1,2 +1,26 @@
 name = "Jackson County"
 fips_code = 21109
+
+[[zipcodes]]
+zipcode = 40402
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40434
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40445
+percent_zip_in_county = 3.41
+
+[[zipcodes]]
+zipcode = 40447
+percent_zip_in_county = 98.42
+
+[[zipcodes]]
+zipcode = 40481
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40486
+percent_zip_in_county = 98.16

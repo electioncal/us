@@ -1,2 +1,38 @@
 name = "Stafford County"
 fips_code = 20185
+
+[[zipcodes]]
+zipcode = 67526
+percent_zip_in_county = 1.3
+
+[[zipcodes]]
+zipcode = 67530
+percent_zip_in_county = 0.46
+
+[[zipcodes]]
+zipcode = 67545
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67550
+percent_zip_in_county = 0.69
+
+[[zipcodes]]
+zipcode = 67557
+percent_zip_in_county = 90.32
+
+[[zipcodes]]
+zipcode = 67567
+percent_zip_in_county = 7.22
+
+[[zipcodes]]
+zipcode = 67576
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67578
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67583
+percent_zip_in_county = 4.21

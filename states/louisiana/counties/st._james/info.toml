@@ -1,2 +1,30 @@
 name = "St. James Parish"
 fips_code = 22093
+
+[[zipcodes]]
+zipcode = 70052
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70071
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70086
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70090
+percent_zip_in_county = 88.05
+
+[[zipcodes]]
+zipcode = 70723
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70743
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70763
+percent_zip_in_county = 100.0

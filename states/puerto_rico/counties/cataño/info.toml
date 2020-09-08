@@ -1,2 +1,18 @@
 name = "Cataño Municipio"
 fips_code = 72033
+
+[[zipcodes]]
+zipcode = 949
+percent_zip_in_county = 4.15
+
+[[zipcodes]]
+zipcode = 961
+percent_zip_in_county = 1.12
+
+[[zipcodes]]
+zipcode = 962
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 965
+percent_zip_in_county = 20.48

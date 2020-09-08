@@ -1,2 +1,26 @@
 name = "Billings County"
 fips_code = 38007
+
+[[zipcodes]]
+zipcode = 58620
+percent_zip_in_county = 6.06
+
+[[zipcodes]]
+zipcode = 58622
+percent_zip_in_county = 23.51
+
+[[zipcodes]]
+zipcode = 58627
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58634
+percent_zip_in_county = 11.16
+
+[[zipcodes]]
+zipcode = 58642
+percent_zip_in_county = 5.69
+
+[[zipcodes]]
+zipcode = 58645
+percent_zip_in_county = 94.12

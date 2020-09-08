@@ -1,2 +1,74 @@
 name = "St. Clair County"
 fips_code = 1115
+
+[[zipcodes]]
+zipcode = 35004
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35052
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35054
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35094
+percent_zip_in_county = 22.61
+
+[[zipcodes]]
+zipcode = 35112
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35120
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35121
+percent_zip_in_county = 0.74
+
+[[zipcodes]]
+zipcode = 35125
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35128
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35131
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35133
+percent_zip_in_county = 3.35
+
+[[zipcodes]]
+zipcode = 35135
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35146
+percent_zip_in_county = 90.96
+
+[[zipcodes]]
+zipcode = 35173
+percent_zip_in_county = 12.4
+
+[[zipcodes]]
+zipcode = 35178
+percent_zip_in_county = 22.79
+
+[[zipcodes]]
+zipcode = 35953
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35972
+percent_zip_in_county = 19.93
+
+[[zipcodes]]
+zipcode = 35987
+percent_zip_in_county = 100.0

@@ -1,2 +1,34 @@
 name = "Telfair County"
 fips_code = 13271
+
+[[zipcodes]]
+zipcode = 30411
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 31037
+percent_zip_in_county = 76.91
+
+[[zipcodes]]
+zipcode = 31055
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31060
+percent_zip_in_county = 58.33
+
+[[zipcodes]]
+zipcode = 31077
+percent_zip_in_county = 31.37
+
+[[zipcodes]]
+zipcode = 31083
+percent_zip_in_county = 91.99
+
+[[zipcodes]]
+zipcode = 31544
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31549
+percent_zip_in_county = 93.52

@@ -1,2 +1,34 @@
 name = "Escambia County"
 fips_code = 1053
+
+[[zipcodes]]
+zipcode = 36420
+percent_zip_in_county = 1.55
+
+[[zipcodes]]
+zipcode = 36426
+percent_zip_in_county = 99.3
+
+[[zipcodes]]
+zipcode = 36432
+percent_zip_in_county = 15.62
+
+[[zipcodes]]
+zipcode = 36441
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36483
+percent_zip_in_county = 33.96
+
+[[zipcodes]]
+zipcode = 36502
+percent_zip_in_county = 96.99
+
+[[zipcodes]]
+zipcode = 36543
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36562
+percent_zip_in_county = 3.88

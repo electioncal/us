@@ -1,2 +1,46 @@
 name = "Clark County"
 fips_code = 17023
+
+[[zipcodes]]
+zipcode = 61933
+percent_zip_in_county = 2.8
+
+[[zipcodes]]
+zipcode = 61944
+percent_zip_in_county = 0.08
+
+[[zipcodes]]
+zipcode = 62413
+percent_zip_in_county = 5.7
+
+[[zipcodes]]
+zipcode = 62420
+percent_zip_in_county = 88.91
+
+[[zipcodes]]
+zipcode = 62423
+percent_zip_in_county = 84.94
+
+[[zipcodes]]
+zipcode = 62441
+percent_zip_in_county = 97.4
+
+[[zipcodes]]
+zipcode = 62442
+percent_zip_in_county = 98.76
+
+[[zipcodes]]
+zipcode = 62449
+percent_zip_in_county = 0.38
+
+[[zipcodes]]
+zipcode = 62474
+percent_zip_in_county = 85.61
+
+[[zipcodes]]
+zipcode = 62477
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62478
+percent_zip_in_county = 36.43

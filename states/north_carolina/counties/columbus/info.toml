@@ -1,2 +1,66 @@
 name = "Columbus County"
 fips_code = 37047
+
+[[zipcodes]]
+zipcode = 28320
+percent_zip_in_county = 2.85
+
+[[zipcodes]]
+zipcode = 28423
+percent_zip_in_county = 89.96
+
+[[zipcodes]]
+zipcode = 28424
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28430
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28431
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28432
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28433
+percent_zip_in_county = 22.5
+
+[[zipcodes]]
+zipcode = 28436
+percent_zip_in_county = 99.68
+
+[[zipcodes]]
+zipcode = 28438
+percent_zip_in_county = 97.4
+
+[[zipcodes]]
+zipcode = 28439
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28442
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28450
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28455
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28456
+percent_zip_in_county = 62.71
+
+[[zipcodes]]
+zipcode = 28463
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28472
+percent_zip_in_county = 100.0

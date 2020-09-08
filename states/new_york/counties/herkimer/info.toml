@@ -1,2 +1,114 @@
 name = "Herkimer County"
 fips_code = 36043
+
+[[zipcodes]]
+zipcode = 13304
+percent_zip_in_county = 2.14
+
+[[zipcodes]]
+zipcode = 13322
+percent_zip_in_county = 33.46
+
+[[zipcodes]]
+zipcode = 13324
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13329
+percent_zip_in_county = 73.72
+
+[[zipcodes]]
+zipcode = 13331
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13338
+percent_zip_in_county = 7.38
+
+[[zipcodes]]
+zipcode = 13339
+percent_zip_in_county = 9.02
+
+[[zipcodes]]
+zipcode = 13340
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13350
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13357
+percent_zip_in_county = 99.63
+
+[[zipcodes]]
+zipcode = 13361
+percent_zip_in_county = 85.56
+
+[[zipcodes]]
+zipcode = 13365
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13367
+percent_zip_in_county = 0.24
+
+[[zipcodes]]
+zipcode = 13406
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13407
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13413
+percent_zip_in_county = 1.35
+
+[[zipcodes]]
+zipcode = 13416
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13420
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13431
+percent_zip_in_county = 93.52
+
+[[zipcodes]]
+zipcode = 13438
+percent_zip_in_county = 14.33
+
+[[zipcodes]]
+zipcode = 13439
+percent_zip_in_county = 23.82
+
+[[zipcodes]]
+zipcode = 13454
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13456
+percent_zip_in_county = 8.38
+
+[[zipcodes]]
+zipcode = 13470
+percent_zip_in_county = 17.1
+
+[[zipcodes]]
+zipcode = 13472
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13475
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13491
+percent_zip_in_county = 58.8
+
+[[zipcodes]]
+zipcode = 13502
+percent_zip_in_county = 6.28

@@ -1,2 +1,22 @@
 name = "Cheyenne County"
 fips_code = 8017
+
+[[zipcodes]]
+zipcode = 80802
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80810
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80821
+percent_zip_in_county = 1.65
+
+[[zipcodes]]
+zipcode = 80825
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80862
+percent_zip_in_county = 100.0

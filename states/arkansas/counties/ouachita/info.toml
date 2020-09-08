@@ -1,2 +1,30 @@
 name = "Ouachita County"
 fips_code = 5103
+
+[[zipcodes]]
+zipcode = 71701
+percent_zip_in_county = 97.54
+
+[[zipcodes]]
+zipcode = 71720
+percent_zip_in_county = 90.91
+
+[[zipcodes]]
+zipcode = 71726
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71751
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71762
+percent_zip_in_county = 4.4
+
+[[zipcodes]]
+zipcode = 71763
+percent_zip_in_county = 2.28
+
+[[zipcodes]]
+zipcode = 71764
+percent_zip_in_county = 81.91

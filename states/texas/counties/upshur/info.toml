@@ -1,2 +1,46 @@
 name = "Upshur County"
 fips_code = 48459
+
+[[zipcodes]]
+zipcode = 75494
+percent_zip_in_county = 1.1
+
+[[zipcodes]]
+zipcode = 75604
+percent_zip_in_county = 0.64
+
+[[zipcodes]]
+zipcode = 75605
+percent_zip_in_county = 0.26
+
+[[zipcodes]]
+zipcode = 75640
+percent_zip_in_county = 74.57
+
+[[zipcodes]]
+zipcode = 75644
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75645
+percent_zip_in_county = 99.22
+
+[[zipcodes]]
+zipcode = 75647
+percent_zip_in_county = 36.03
+
+[[zipcodes]]
+zipcode = 75683
+percent_zip_in_county = 79.23
+
+[[zipcodes]]
+zipcode = 75686
+percent_zip_in_county = 6.11
+
+[[zipcodes]]
+zipcode = 75755
+percent_zip_in_county = 98.6
+
+[[zipcodes]]
+zipcode = 75765
+percent_zip_in_county = 0.26

@@ -1,2 +1,70 @@
 name = "Ottawa County"
 fips_code = 39123
+
+[[zipcodes]]
+zipcode = 43408
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43412
+percent_zip_in_county = 48.33
+
+[[zipcodes]]
+zipcode = 43416
+percent_zip_in_county = 96.06
+
+[[zipcodes]]
+zipcode = 43430
+percent_zip_in_county = 95.55
+
+[[zipcodes]]
+zipcode = 43432
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43433
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43439
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43440
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43445
+percent_zip_in_county = 85.96
+
+[[zipcodes]]
+zipcode = 43446
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43447
+percent_zip_in_county = 17.74
+
+[[zipcodes]]
+zipcode = 43449
+percent_zip_in_county = 98.71
+
+[[zipcodes]]
+zipcode = 43452
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43456
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43458
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43468
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43469
+percent_zip_in_county = 5.24

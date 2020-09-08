@@ -1,2 +1,10 @@
 name = "Orocovis Municipio"
 fips_code = 72107
+
+[[zipcodes]]
+zipcode = 720
+percent_zip_in_county = 99.48
+
+[[zipcodes]]
+zipcode = 766
+percent_zip_in_county = 1.57

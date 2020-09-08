@@ -1,2 +1,42 @@
 name = "Fayette County"
 fips_code = 1057
+
+[[zipcodes]]
+zipcode = 35542
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35545
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35546
+percent_zip_in_county = 64.5
+
+[[zipcodes]]
+zipcode = 35549
+percent_zip_in_county = 7.65
+
+[[zipcodes]]
+zipcode = 35554
+percent_zip_in_county = 55.56
+
+[[zipcodes]]
+zipcode = 35555
+percent_zip_in_county = 97.08
+
+[[zipcodes]]
+zipcode = 35559
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35563
+percent_zip_in_county = 2.83
+
+[[zipcodes]]
+zipcode = 35574
+percent_zip_in_county = 9.09
+
+[[zipcodes]]
+zipcode = 35594
+percent_zip_in_county = 31.0

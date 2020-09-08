@@ -1,2 +1,42 @@
 name = "Sullivan County"
 fips_code = 29211
+
+[[zipcodes]]
+zipcode = 63544
+percent_zip_in_county = 51.96
+
+[[zipcodes]]
+zipcode = 63545
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63556
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63560
+percent_zip_in_county = 95.82
+
+[[zipcodes]]
+zipcode = 63566
+percent_zip_in_county = 79.2
+
+[[zipcodes]]
+zipcode = 64630
+percent_zip_in_county = 39.53
+
+[[zipcodes]]
+zipcode = 64641
+percent_zip_in_county = 16.37
+
+[[zipcodes]]
+zipcode = 64645
+percent_zip_in_county = 70.26
+
+[[zipcodes]]
+zipcode = 64646
+percent_zip_in_county = 91.25
+
+[[zipcodes]]
+zipcode = 64667
+percent_zip_in_county = 80.0

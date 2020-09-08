@@ -1,2 +1,54 @@
 name = "Orange County"
 fips_code = 37135
+
+[[zipcodes]]
+zipcode = 27231
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27243
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27278
+percent_zip_in_county = 94.21
+
+[[zipcodes]]
+zipcode = 27302
+percent_zip_in_county = 27.82
+
+[[zipcodes]]
+zipcode = 27510
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27514
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27516
+percent_zip_in_county = 91.33
+
+[[zipcodes]]
+zipcode = 27517
+percent_zip_in_county = 40.53
+
+[[zipcodes]]
+zipcode = 27541
+percent_zip_in_county = 33.4
+
+[[zipcodes]]
+zipcode = 27572
+percent_zip_in_county = 27.47
+
+[[zipcodes]]
+zipcode = 27583
+percent_zip_in_county = 2.54
+
+[[zipcodes]]
+zipcode = 27705
+percent_zip_in_county = 9.57
+
+[[zipcodes]]
+zipcode = 27707
+percent_zip_in_county = 0.46

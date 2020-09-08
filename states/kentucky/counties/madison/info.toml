@@ -1,2 +1,22 @@
 name = "Madison County"
 fips_code = 21151
+
+[[zipcodes]]
+zipcode = 40385
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40403
+percent_zip_in_county = 90.25
+
+[[zipcodes]]
+zipcode = 40404
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40461
+percent_zip_in_county = 60.33
+
+[[zipcodes]]
+zipcode = 40475
+percent_zip_in_county = 100.0

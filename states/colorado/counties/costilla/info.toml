@@ -1,2 +1,26 @@
 name = "Costilla County"
 fips_code = 8023
+
+[[zipcodes]]
+zipcode = 81123
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81126
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81133
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81138
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81151
+percent_zip_in_county = 7.69
+
+[[zipcodes]]
+zipcode = 81152
+percent_zip_in_county = 100.0

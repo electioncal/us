@@ -1,2 +1,58 @@
 name = "Jackson County"
 fips_code = 19097
+
+[[zipcodes]]
+zipcode = 52030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52031
+percent_zip_in_county = 90.9
+
+[[zipcodes]]
+zipcode = 52032
+percent_zip_in_county = 45.74
+
+[[zipcodes]]
+zipcode = 52037
+percent_zip_in_county = 1.55
+
+[[zipcodes]]
+zipcode = 52054
+percent_zip_in_county = 89.57
+
+[[zipcodes]]
+zipcode = 52060
+percent_zip_in_county = 98.2
+
+[[zipcodes]]
+zipcode = 52064
+percent_zip_in_county = 92.09
+
+[[zipcodes]]
+zipcode = 52069
+percent_zip_in_county = 93.16
+
+[[zipcodes]]
+zipcode = 52070
+percent_zip_in_county = 89.1
+
+[[zipcodes]]
+zipcode = 52074
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52079
+percent_zip_in_county = 58.31
+
+[[zipcodes]]
+zipcode = 52207
+percent_zip_in_county = 90.86
+
+[[zipcodes]]
+zipcode = 52309
+percent_zip_in_county = 80.86
+
+[[zipcodes]]
+zipcode = 52731
+percent_zip_in_county = 1.34

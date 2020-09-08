@@ -1,2 +1,10 @@
 name = "Loup County"
 fips_code = 31115
+
+[[zipcodes]]
+zipcode = 68823
+percent_zip_in_county = 8.95
+
+[[zipcodes]]
+zipcode = 68879
+percent_zip_in_county = 100.0

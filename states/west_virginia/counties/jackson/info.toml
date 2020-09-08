@@ -1,2 +1,54 @@
 name = "Jackson County"
 fips_code = 54035
+
+[[zipcodes]]
+zipcode = 25124
+percent_zip_in_county = 2.72
+
+[[zipcodes]]
+zipcode = 25239
+percent_zip_in_county = 95.5
+
+[[zipcodes]]
+zipcode = 25241
+percent_zip_in_county = 88.6
+
+[[zipcodes]]
+zipcode = 25244
+percent_zip_in_county = 87.98
+
+[[zipcodes]]
+zipcode = 25245
+percent_zip_in_county = 85.52
+
+[[zipcodes]]
+zipcode = 25248
+percent_zip_in_county = 99.32
+
+[[zipcodes]]
+zipcode = 25252
+percent_zip_in_county = 58.26
+
+[[zipcodes]]
+zipcode = 25262
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25264
+percent_zip_in_county = 56.24
+
+[[zipcodes]]
+zipcode = 25271
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25275
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26143
+percent_zip_in_county = 2.33
+
+[[zipcodes]]
+zipcode = 26164
+percent_zip_in_county = 99.21

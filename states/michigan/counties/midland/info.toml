@@ -1,2 +1,66 @@
 name = "Midland County"
 fips_code = 26111
+
+[[zipcodes]]
+zipcode = 48612
+percent_zip_in_county = 1.52
+
+[[zipcodes]]
+zipcode = 48615
+percent_zip_in_county = 28.19
+
+[[zipcodes]]
+zipcode = 48618
+percent_zip_in_county = 84.33
+
+[[zipcodes]]
+zipcode = 48623
+percent_zip_in_county = 7.48
+
+[[zipcodes]]
+zipcode = 48626
+percent_zip_in_county = 7.96
+
+[[zipcodes]]
+zipcode = 48628
+percent_zip_in_county = 86.27
+
+[[zipcodes]]
+zipcode = 48637
+percent_zip_in_county = 11.73
+
+[[zipcodes]]
+zipcode = 48640
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48642
+percent_zip_in_county = 93.86
+
+[[zipcodes]]
+zipcode = 48652
+percent_zip_in_county = 14.86
+
+[[zipcodes]]
+zipcode = 48657
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48662
+percent_zip_in_county = 19.7
+
+[[zipcodes]]
+zipcode = 48667
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 48858
+percent_zip_in_county = 0.33
+
+[[zipcodes]]
+zipcode = 48880
+percent_zip_in_county = 9.01
+
+[[zipcodes]]
+zipcode = 48883
+percent_zip_in_county = 25.89

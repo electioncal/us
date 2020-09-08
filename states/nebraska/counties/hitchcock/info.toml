@@ -1,2 +1,18 @@
 name = "Hitchcock County"
 fips_code = 31087
+
+[[zipcodes]]
+zipcode = 69024
+percent_zip_in_county = 92.22
+
+[[zipcodes]]
+zipcode = 69040
+percent_zip_in_county = 68.14
+
+[[zipcodes]]
+zipcode = 69043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69044
+percent_zip_in_county = 100.0

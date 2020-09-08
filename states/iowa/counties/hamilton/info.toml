@@ -1,2 +1,54 @@
 name = "Hamilton County"
 fips_code = 19079
+
+[[zipcodes]]
+zipcode = 50034
+percent_zip_in_county = 87.76
+
+[[zipcodes]]
+zipcode = 50075
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50130
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50132
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50230
+percent_zip_in_county = 17.17
+
+[[zipcodes]]
+zipcode = 50231
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50246
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50248
+percent_zip_in_county = 7.44
+
+[[zipcodes]]
+zipcode = 50249
+percent_zip_in_county = 83.93
+
+[[zipcodes]]
+zipcode = 50271
+percent_zip_in_county = 98.41
+
+[[zipcodes]]
+zipcode = 50532
+percent_zip_in_county = 1.37
+
+[[zipcodes]]
+zipcode = 50595
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50599
+percent_zip_in_county = 7.89

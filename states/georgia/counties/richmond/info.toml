@@ -1,2 +1,46 @@
 name = "Richmond County"
 fips_code = 13245
+
+[[zipcodes]]
+zipcode = 30805
+percent_zip_in_county = 70.81
+
+[[zipcodes]]
+zipcode = 30812
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30813
+percent_zip_in_county = 4.4
+
+[[zipcodes]]
+zipcode = 30815
+percent_zip_in_county = 93.85
+
+[[zipcodes]]
+zipcode = 30901
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30904
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30905
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30906
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30907
+percent_zip_in_county = 18.54
+
+[[zipcodes]]
+zipcode = 30909
+percent_zip_in_county = 98.98
+
+[[zipcodes]]
+zipcode = 30912
+percent_zip_in_county = 100.0

@@ -1,2 +1,38 @@
 name = "Montgomery County"
 fips_code = 5097
+
+[[zipcodes]]
+zipcode = 71933
+percent_zip_in_county = 22.77
+
+[[zipcodes]]
+zipcode = 71935
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71943
+percent_zip_in_county = 27.15
+
+[[zipcodes]]
+zipcode = 71957
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71960
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71961
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71965
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71969
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71970
+percent_zip_in_county = 100.0

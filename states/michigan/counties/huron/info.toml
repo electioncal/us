@@ -1,2 +1,74 @@
 name = "Huron County"
 fips_code = 26063
+
+[[zipcodes]]
+zipcode = 48413
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48432
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48441
+percent_zip_in_county = 98.87
+
+[[zipcodes]]
+zipcode = 48445
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48456
+percent_zip_in_county = 14.1
+
+[[zipcodes]]
+zipcode = 48467
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48468
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48470
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48475
+percent_zip_in_county = 66.74
+
+[[zipcodes]]
+zipcode = 48720
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48725
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48726
+percent_zip_in_county = 3.4
+
+[[zipcodes]]
+zipcode = 48731
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48735
+percent_zip_in_county = 32.54
+
+[[zipcodes]]
+zipcode = 48754
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48755
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48759
+percent_zip_in_county = 99.09
+
+[[zipcodes]]
+zipcode = 48767
+percent_zip_in_county = 1.16

@@ -1,2 +1,46 @@
 name = "Wood County"
 fips_code = 48499
+
+[[zipcodes]]
+zipcode = 75410
+percent_zip_in_county = 82.16
+
+[[zipcodes]]
+zipcode = 75431
+percent_zip_in_county = 11.55
+
+[[zipcodes]]
+zipcode = 75440
+percent_zip_in_county = 2.9
+
+[[zipcodes]]
+zipcode = 75451
+percent_zip_in_county = 4.54
+
+[[zipcodes]]
+zipcode = 75471
+percent_zip_in_county = 3.51
+
+[[zipcodes]]
+zipcode = 75494
+percent_zip_in_county = 75.27
+
+[[zipcodes]]
+zipcode = 75497
+percent_zip_in_county = 88.84
+
+[[zipcodes]]
+zipcode = 75755
+percent_zip_in_county = 1.4
+
+[[zipcodes]]
+zipcode = 75765
+percent_zip_in_county = 99.74
+
+[[zipcodes]]
+zipcode = 75773
+percent_zip_in_county = 92.56
+
+[[zipcodes]]
+zipcode = 75783
+percent_zip_in_county = 100.0

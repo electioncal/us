@@ -1,2 +1,118 @@
 name = "Jackson County"
 fips_code = 26075
+
+[[zipcodes]]
+zipcode = 48158
+percent_zip_in_county = 0.71
+
+[[zipcodes]]
+zipcode = 48827
+percent_zip_in_county = 0.29
+
+[[zipcodes]]
+zipcode = 49201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49202
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49203
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49224
+percent_zip_in_county = 12.82
+
+[[zipcodes]]
+zipcode = 49230
+percent_zip_in_county = 78.66
+
+[[zipcodes]]
+zipcode = 49233
+percent_zip_in_county = 12.28
+
+[[zipcodes]]
+zipcode = 49234
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49237
+percent_zip_in_county = 99.53
+
+[[zipcodes]]
+zipcode = 49240
+percent_zip_in_county = 90.82
+
+[[zipcodes]]
+zipcode = 49241
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49245
+percent_zip_in_county = 0.58
+
+[[zipcodes]]
+zipcode = 49246
+percent_zip_in_county = 97.02
+
+[[zipcodes]]
+zipcode = 49249
+percent_zip_in_county = 10.5
+
+[[zipcodes]]
+zipcode = 49250
+percent_zip_in_county = 2.78
+
+[[zipcodes]]
+zipcode = 49251
+percent_zip_in_county = 4.75
+
+[[zipcodes]]
+zipcode = 49252
+percent_zip_in_county = 4.41
+
+[[zipcodes]]
+zipcode = 49254
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49259
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49261
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49263
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49264
+percent_zip_in_county = 24.3
+
+[[zipcodes]]
+zipcode = 49269
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49272
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49277
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49283
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49284
+percent_zip_in_county = 66.38
+
+[[zipcodes]]
+zipcode = 49285
+percent_zip_in_county = 5.52

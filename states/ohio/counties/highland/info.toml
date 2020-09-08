@@ -1,2 +1,62 @@
 name = "Highland County"
 fips_code = 39071
+
+[[zipcodes]]
+zipcode = 45118
+percent_zip_in_county = 0.83
+
+[[zipcodes]]
+zipcode = 45123
+percent_zip_in_county = 79.52
+
+[[zipcodes]]
+zipcode = 45132
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45133
+percent_zip_in_county = 98.75
+
+[[zipcodes]]
+zipcode = 45135
+percent_zip_in_county = 90.25
+
+[[zipcodes]]
+zipcode = 45142
+percent_zip_in_county = 80.29
+
+[[zipcodes]]
+zipcode = 45154
+percent_zip_in_county = 5.09
+
+[[zipcodes]]
+zipcode = 45155
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45159
+percent_zip_in_county = 37.35
+
+[[zipcodes]]
+zipcode = 45171
+percent_zip_in_county = 21.72
+
+[[zipcodes]]
+zipcode = 45172
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45612
+percent_zip_in_county = 12.11
+
+[[zipcodes]]
+zipcode = 45660
+percent_zip_in_county = 2.36
+
+[[zipcodes]]
+zipcode = 45679
+percent_zip_in_county = 3.56
+
+[[zipcodes]]
+zipcode = 45697
+percent_zip_in_county = 9.24

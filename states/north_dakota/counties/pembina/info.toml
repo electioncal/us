@@ -1,2 +1,54 @@
 name = "Pembina County"
 fips_code = 38067
+
+[[zipcodes]]
+zipcode = 58216
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58220
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58222
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58225
+percent_zip_in_county = 84.98
+
+[[zipcodes]]
+zipcode = 58227
+percent_zip_in_county = 25.6
+
+[[zipcodes]]
+zipcode = 58238
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58241
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58243
+percent_zip_in_county = 4.82
+
+[[zipcodes]]
+zipcode = 58262
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58265
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58271
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58276
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58282
+percent_zip_in_county = 92.78

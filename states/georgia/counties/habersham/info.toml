@@ -1,2 +1,34 @@
 name = "Habersham County"
 fips_code = 13137
+
+[[zipcodes]]
+zipcode = 30510
+percent_zip_in_county = 66.4
+
+[[zipcodes]]
+zipcode = 30511
+percent_zip_in_county = 28.5
+
+[[zipcodes]]
+zipcode = 30523
+percent_zip_in_county = 98.19
+
+[[zipcodes]]
+zipcode = 30531
+percent_zip_in_county = 98.93
+
+[[zipcodes]]
+zipcode = 30535
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30563
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30573
+percent_zip_in_county = 17.79
+
+[[zipcodes]]
+zipcode = 30577
+percent_zip_in_county = 1.6

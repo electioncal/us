@@ -1,2 +1,58 @@
 name = "Washington County"
 fips_code = 31177
+
+[[zipcodes]]
+zipcode = 68002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68007
+percent_zip_in_county = 2.94
+
+[[zipcodes]]
+zipcode = 68008
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68029
+percent_zip_in_county = 91.32
+
+[[zipcodes]]
+zipcode = 68031
+percent_zip_in_county = 4.76
+
+[[zipcodes]]
+zipcode = 68034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68044
+percent_zip_in_county = 28.59
+
+[[zipcodes]]
+zipcode = 68064
+percent_zip_in_county = 0.15
+
+[[zipcodes]]
+zipcode = 68068
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68112
+percent_zip_in_county = 1.0
+
+[[zipcodes]]
+zipcode = 68122
+percent_zip_in_county = 2.8
+
+[[zipcodes]]
+zipcode = 68142
+percent_zip_in_county = 7.52
+
+[[zipcodes]]
+zipcode = 68152
+percent_zip_in_county = 4.97

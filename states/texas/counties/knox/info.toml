@@ -1,2 +1,26 @@
 name = "Knox County"
 fips_code = 48275
+
+[[zipcodes]]
+zipcode = 76363
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76371
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76380
+percent_zip_in_county = 2.46
+
+[[zipcodes]]
+zipcode = 79227
+percent_zip_in_county = 6.33
+
+[[zipcodes]]
+zipcode = 79505
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79529
+percent_zip_in_county = 99.64

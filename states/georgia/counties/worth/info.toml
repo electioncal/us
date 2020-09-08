@@ -1,2 +1,46 @@
 name = "Worth County"
 fips_code = 13321
+
+[[zipcodes]]
+zipcode = 31705
+percent_zip_in_county = 6.65
+
+[[zipcodes]]
+zipcode = 31714
+percent_zip_in_county = 2.63
+
+[[zipcodes]]
+zipcode = 31744
+percent_zip_in_county = 38.54
+
+[[zipcodes]]
+zipcode = 31771
+percent_zip_in_county = 1.38
+
+[[zipcodes]]
+zipcode = 31772
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31775
+percent_zip_in_county = 9.3
+
+[[zipcodes]]
+zipcode = 31781
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31789
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31791
+percent_zip_in_county = 99.65
+
+[[zipcodes]]
+zipcode = 31795
+percent_zip_in_county = 32.89
+
+[[zipcodes]]
+zipcode = 31796
+percent_zip_in_county = 100.0

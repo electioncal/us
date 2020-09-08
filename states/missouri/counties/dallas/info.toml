@@ -1,2 +1,54 @@
 name = "Dallas County"
 fips_code = 29059
+
+[[zipcodes]]
+zipcode = 65463
+percent_zip_in_county = 1.78
+
+[[zipcodes]]
+zipcode = 65536
+percent_zip_in_county = 0.74
+
+[[zipcodes]]
+zipcode = 65590
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65622
+percent_zip_in_county = 94.07
+
+[[zipcodes]]
+zipcode = 65632
+percent_zip_in_county = 16.23
+
+[[zipcodes]]
+zipcode = 65644
+percent_zip_in_county = 61.22
+
+[[zipcodes]]
+zipcode = 65648
+percent_zip_in_county = 19.49
+
+[[zipcodes]]
+zipcode = 65685
+percent_zip_in_county = 78.91
+
+[[zipcodes]]
+zipcode = 65722
+percent_zip_in_county = 11.94
+
+[[zipcodes]]
+zipcode = 65764
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65767
+percent_zip_in_county = 63.72
+
+[[zipcodes]]
+zipcode = 65783
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65786
+percent_zip_in_county = 3.56

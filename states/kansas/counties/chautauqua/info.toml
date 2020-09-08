@@ -1,2 +1,42 @@
 name = "Chautauqua County"
 fips_code = 20019
+
+[[zipcodes]]
+zipcode = 67024
+percent_zip_in_county = 93.17
+
+[[zipcodes]]
+zipcode = 67334
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67344
+percent_zip_in_county = 13.91
+
+[[zipcodes]]
+zipcode = 67346
+percent_zip_in_county = 15.32
+
+[[zipcodes]]
+zipcode = 67347
+percent_zip_in_county = 17.17
+
+[[zipcodes]]
+zipcode = 67352
+percent_zip_in_county = 1.52
+
+[[zipcodes]]
+zipcode = 67353
+percent_zip_in_county = 8.42
+
+[[zipcodes]]
+zipcode = 67355
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67360
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67361
+percent_zip_in_county = 100.0

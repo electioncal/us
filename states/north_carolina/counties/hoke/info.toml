@@ -1,2 +1,38 @@
 name = "Hoke County"
 fips_code = 37093
+
+[[zipcodes]]
+zipcode = 28304
+percent_zip_in_county = 0.82
+
+[[zipcodes]]
+zipcode = 28306
+percent_zip_in_county = 1.37
+
+[[zipcodes]]
+zipcode = 28315
+percent_zip_in_county = 13.3
+
+[[zipcodes]]
+zipcode = 28357
+percent_zip_in_county = 37.98
+
+[[zipcodes]]
+zipcode = 28364
+percent_zip_in_county = 0.57
+
+[[zipcodes]]
+zipcode = 28371
+percent_zip_in_county = 2.95
+
+[[zipcodes]]
+zipcode = 28376
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28377
+percent_zip_in_county = 30.7
+
+[[zipcodes]]
+zipcode = 28386
+percent_zip_in_county = 19.09

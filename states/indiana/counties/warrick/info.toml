@@ -1,2 +1,46 @@
 name = "Warrick County"
 fips_code = 18173
+
+[[zipcodes]]
+zipcode = 47523
+percent_zip_in_county = 22.71
+
+[[zipcodes]]
+zipcode = 47537
+percent_zip_in_county = 26.63
+
+[[zipcodes]]
+zipcode = 47541
+percent_zip_in_county = 2.53
+
+[[zipcodes]]
+zipcode = 47601
+percent_zip_in_county = 99.14
+
+[[zipcodes]]
+zipcode = 47610
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47613
+percent_zip_in_county = 86.08
+
+[[zipcodes]]
+zipcode = 47619
+percent_zip_in_county = 92.63
+
+[[zipcodes]]
+zipcode = 47630
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47637
+percent_zip_in_county = 90.11
+
+[[zipcodes]]
+zipcode = 47660
+percent_zip_in_county = 0.41
+
+[[zipcodes]]
+zipcode = 47725
+percent_zip_in_county = 0.05

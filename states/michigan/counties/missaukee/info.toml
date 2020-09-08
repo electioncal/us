@@ -1,2 +1,34 @@
 name = "Missaukee County"
 fips_code = 26113
+
+[[zipcodes]]
+zipcode = 49601
+percent_zip_in_county = 1.67
+
+[[zipcodes]]
+zipcode = 49632
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49633
+percent_zip_in_county = 0.62
+
+[[zipcodes]]
+zipcode = 49651
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49657
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49663
+percent_zip_in_county = 20.21
+
+[[zipcodes]]
+zipcode = 49665
+percent_zip_in_county = 5.91
+
+[[zipcodes]]
+zipcode = 49667
+percent_zip_in_county = 100.0

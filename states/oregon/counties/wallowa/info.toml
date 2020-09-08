@@ -1,2 +1,22 @@
 name = "Wallowa County"
 fips_code = 41063
+
+[[zipcodes]]
+zipcode = 97828
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97842
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97846
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97857
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97885
+percent_zip_in_county = 100.0

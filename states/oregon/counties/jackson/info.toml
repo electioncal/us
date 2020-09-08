@@ -1,2 +1,74 @@
 name = "Jackson County"
 fips_code = 41029
+
+[[zipcodes]]
+zipcode = 97497
+percent_zip_in_county = 0.66
+
+[[zipcodes]]
+zipcode = 97501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97502
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97503
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97504
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97520
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97522
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97524
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97525
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97526
+percent_zip_in_county = 0.52
+
+[[zipcodes]]
+zipcode = 97527
+percent_zip_in_county = 4.34
+
+[[zipcodes]]
+zipcode = 97530
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97535
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97536
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97537
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97539
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97540
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97541
+percent_zip_in_county = 100.0

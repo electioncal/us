@@ -1,2 +1,70 @@
 name = "Ellis County"
 fips_code = 48139
+
+[[zipcodes]]
+zipcode = 75101
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75104
+percent_zip_in_county = 0.9
+
+[[zipcodes]]
+zipcode = 75119
+percent_zip_in_county = 99.3
+
+[[zipcodes]]
+zipcode = 75125
+percent_zip_in_county = 95.13
+
+[[zipcodes]]
+zipcode = 75146
+percent_zip_in_county = 0.68
+
+[[zipcodes]]
+zipcode = 75152
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75154
+percent_zip_in_county = 75.44
+
+[[zipcodes]]
+zipcode = 75165
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75167
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76050
+percent_zip_in_county = 3.74
+
+[[zipcodes]]
+zipcode = 76064
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76065
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76084
+percent_zip_in_county = 16.87
+
+[[zipcodes]]
+zipcode = 76623
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76651
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76670
+percent_zip_in_county = 71.46

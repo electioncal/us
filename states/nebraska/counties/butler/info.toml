@@ -1,2 +1,50 @@
 name = "Butler County"
 fips_code = 31023
+
+[[zipcodes]]
+zipcode = 68001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68014
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68036
+percent_zip_in_county = 84.83
+
+[[zipcodes]]
+zipcode = 68601
+percent_zip_in_county = 1.03
+
+[[zipcodes]]
+zipcode = 68624
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68626
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68632
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68635
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68658
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68662
+percent_zip_in_county = 3.9
+
+[[zipcodes]]
+zipcode = 68667
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68669
+percent_zip_in_county = 100.0

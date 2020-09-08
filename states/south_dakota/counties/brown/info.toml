@@ -1,2 +1,66 @@
 name = "Brown County"
 fips_code = 46013
+
+[[zipcodes]]
+zipcode = 57401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57426
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57427
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57432
+percent_zip_in_county = 62.8
+
+[[zipcodes]]
+zipcode = 57433
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57434
+percent_zip_in_county = 37.46
+
+[[zipcodes]]
+zipcode = 57439
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57441
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57445
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57446
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57449
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57451
+percent_zip_in_county = 3.4
+
+[[zipcodes]]
+zipcode = 57460
+percent_zip_in_county = 66.03
+
+[[zipcodes]]
+zipcode = 57474
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57479
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57481
+percent_zip_in_county = 62.37

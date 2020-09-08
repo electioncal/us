@@ -1,2 +1,34 @@
 name = "Thurston County"
 fips_code = 31173
+
+[[zipcodes]]
+zipcode = 68020
+percent_zip_in_county = 3.87
+
+[[zipcodes]]
+zipcode = 68039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68047
+percent_zip_in_county = 85.32
+
+[[zipcodes]]
+zipcode = 68055
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68062
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68071
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68733
+percent_zip_in_county = 18.58

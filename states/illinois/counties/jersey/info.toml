@@ -1,2 +1,46 @@
 name = "Jersey County"
 fips_code = 17083
+
+[[zipcodes]]
+zipcode = 62012
+percent_zip_in_county = 42.64
+
+[[zipcodes]]
+zipcode = 62022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62028
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62031
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62035
+percent_zip_in_county = 6.18
+
+[[zipcodes]]
+zipcode = 62037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62052
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62054
+percent_zip_in_county = 13.65
+
+[[zipcodes]]
+zipcode = 62063
+percent_zip_in_county = 33.2
+
+[[zipcodes]]
+zipcode = 62079
+percent_zip_in_county = 44.53

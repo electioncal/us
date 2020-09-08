@@ -1,2 +1,34 @@
 name = "Ponce Municipio"
 fips_code = 72113
+
+[[zipcodes]]
+zipcode = 624
+percent_zip_in_county = 7.47
+
+[[zipcodes]]
+zipcode = 715
+percent_zip_in_county = 74.26
+
+[[zipcodes]]
+zipcode = 716
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 717
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 728
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 731
+percent_zip_in_county = 97.8
+
+[[zipcodes]]
+zipcode = 780
+percent_zip_in_county = 95.54

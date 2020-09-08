@@ -1,2 +1,34 @@
 name = "Lincoln Parish"
 fips_code = 22061
+
+[[zipcodes]]
+zipcode = 71001
+percent_zip_in_county = 8.43
+
+[[zipcodes]]
+zipcode = 71227
+percent_zip_in_county = 80.96
+
+[[zipcodes]]
+zipcode = 71234
+percent_zip_in_county = 4.63
+
+[[zipcodes]]
+zipcode = 71235
+percent_zip_in_county = 99.16
+
+[[zipcodes]]
+zipcode = 71245
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71270
+percent_zip_in_county = 97.29
+
+[[zipcodes]]
+zipcode = 71272
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71275
+percent_zip_in_county = 94.62

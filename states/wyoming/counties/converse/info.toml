@@ -1,2 +1,18 @@
 name = "Converse County"
 fips_code = 56009
+
+[[zipcodes]]
+zipcode = 82229
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82633
+percent_zip_in_county = 99.94
+
+[[zipcodes]]
+zipcode = 82636
+percent_zip_in_county = 0.93
+
+[[zipcodes]]
+zipcode = 82637
+percent_zip_in_county = 100.0

@@ -1,2 +1,34 @@
 name = "Tishomingo County"
 fips_code = 28141
+
+[[zipcodes]]
+zipcode = 38326
+percent_zip_in_county = 1.05
+
+[[zipcodes]]
+zipcode = 38827
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38833
+percent_zip_in_county = 87.43
+
+[[zipcodes]]
+zipcode = 38838
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38846
+percent_zip_in_county = 14.27
+
+[[zipcodes]]
+zipcode = 38847
+percent_zip_in_county = 25.05
+
+[[zipcodes]]
+zipcode = 38852
+percent_zip_in_county = 99.46
+
+[[zipcodes]]
+zipcode = 38873
+percent_zip_in_county = 92.24

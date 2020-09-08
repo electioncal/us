@@ -1,2 +1,18 @@
 name = "Deer Lodge County"
 fips_code = 30023
+
+[[zipcodes]]
+zipcode = 59711
+percent_zip_in_county = 95.63
+
+[[zipcodes]]
+zipcode = 59722
+percent_zip_in_county = 3.77
+
+[[zipcodes]]
+zipcode = 59756
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59762
+percent_zip_in_county = 28.68

@@ -1,2 +1,30 @@
 name = "Hoonah-Angoon Census Area"
 fips_code = 2105
+
+[[zipcodes]]
+zipcode = 99820
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99825
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99826
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99827
+percent_zip_in_county = 3.65
+
+[[zipcodes]]
+zipcode = 99829
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99832
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99841
+percent_zip_in_county = 100.0

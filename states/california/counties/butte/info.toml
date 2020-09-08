@@ -1,2 +1,78 @@
 name = "Butte County"
 fips_code = 6007
+
+[[zipcodes]]
+zipcode = 95901
+percent_zip_in_county = 1.05
+
+[[zipcodes]]
+zipcode = 95914
+percent_zip_in_county = 60.21
+
+[[zipcodes]]
+zipcode = 95916
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95917
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95926
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95928
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95930
+percent_zip_in_county = 50.72
+
+[[zipcodes]]
+zipcode = 95938
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95941
+percent_zip_in_county = 80.11
+
+[[zipcodes]]
+zipcode = 95942
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95948
+percent_zip_in_county = 99.76
+
+[[zipcodes]]
+zipcode = 95954
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95965
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95966
+percent_zip_in_county = 99.54
+
+[[zipcodes]]
+zipcode = 95968
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95969
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95973
+percent_zip_in_county = 99.76
+
+[[zipcodes]]
+zipcode = 95974
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95978
+percent_zip_in_county = 100.0

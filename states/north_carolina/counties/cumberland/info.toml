@@ -1,2 +1,94 @@
 name = "Cumberland County"
 fips_code = 37051
+
+[[zipcodes]]
+zipcode = 28301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28303
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28304
+percent_zip_in_county = 99.18
+
+[[zipcodes]]
+zipcode = 28305
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28306
+percent_zip_in_county = 98.14
+
+[[zipcodes]]
+zipcode = 28307
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28308
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28310
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28311
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28312
+percent_zip_in_county = 98.74
+
+[[zipcodes]]
+zipcode = 28314
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28318
+percent_zip_in_county = 16.38
+
+[[zipcodes]]
+zipcode = 28334
+percent_zip_in_county = 1.97
+
+[[zipcodes]]
+zipcode = 28342
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28344
+percent_zip_in_county = 27.44
+
+[[zipcodes]]
+zipcode = 28348
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28356
+percent_zip_in_county = 73.61
+
+[[zipcodes]]
+zipcode = 28371
+percent_zip_in_county = 37.11
+
+[[zipcodes]]
+zipcode = 28382
+percent_zip_in_county = 11.71
+
+[[zipcodes]]
+zipcode = 28384
+percent_zip_in_county = 3.81
+
+[[zipcodes]]
+zipcode = 28390
+percent_zip_in_county = 48.88
+
+[[zipcodes]]
+zipcode = 28391
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28395
+percent_zip_in_county = 100.0

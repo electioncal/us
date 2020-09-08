@@ -1,2 +1,30 @@
 name = "Wadena County"
 fips_code = 27159
+
+[[zipcodes]]
+zipcode = 56434
+percent_zip_in_county = 30.64
+
+[[zipcodes]]
+zipcode = 56464
+percent_zip_in_county = 60.56
+
+[[zipcodes]]
+zipcode = 56470
+percent_zip_in_county = 0.15
+
+[[zipcodes]]
+zipcode = 56477
+percent_zip_in_county = 80.31
+
+[[zipcodes]]
+zipcode = 56479
+percent_zip_in_county = 34.27
+
+[[zipcodes]]
+zipcode = 56481
+percent_zip_in_county = 82.23
+
+[[zipcodes]]
+zipcode = 56482
+percent_zip_in_county = 81.01

@@ -1,2 +1,22 @@
 name = "Glades County"
 fips_code = 12043
+
+[[zipcodes]]
+zipcode = 33471
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33935
+percent_zip_in_county = 15.86
+
+[[zipcodes]]
+zipcode = 33944
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33960
+percent_zip_in_county = 3.16
+
+[[zipcodes]]
+zipcode = 34974
+percent_zip_in_county = 10.6

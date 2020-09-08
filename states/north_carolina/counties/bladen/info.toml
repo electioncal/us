@@ -1,2 +1,70 @@
 name = "Bladen County"
 fips_code = 37017
+
+[[zipcodes]]
+zipcode = 28306
+percent_zip_in_county = 0.49
+
+[[zipcodes]]
+zipcode = 28312
+percent_zip_in_county = 1.26
+
+[[zipcodes]]
+zipcode = 28320
+percent_zip_in_county = 97.15
+
+[[zipcodes]]
+zipcode = 28332
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28337
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28384
+percent_zip_in_county = 6.98
+
+[[zipcodes]]
+zipcode = 28392
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28399
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28423
+percent_zip_in_county = 10.04
+
+[[zipcodes]]
+zipcode = 28433
+percent_zip_in_county = 77.5
+
+[[zipcodes]]
+zipcode = 28434
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28438
+percent_zip_in_county = 2.6
+
+[[zipcodes]]
+zipcode = 28441
+percent_zip_in_county = 33.15
+
+[[zipcodes]]
+zipcode = 28444
+percent_zip_in_county = 39.14
+
+[[zipcodes]]
+zipcode = 28447
+percent_zip_in_county = 29.55
+
+[[zipcodes]]
+zipcode = 28448
+percent_zip_in_county = 96.3
+
+[[zipcodes]]
+zipcode = 28456
+percent_zip_in_county = 29.36

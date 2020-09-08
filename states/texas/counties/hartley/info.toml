@@ -1,2 +1,14 @@
 name = "Hartley County"
 fips_code = 48205
+
+[[zipcodes]]
+zipcode = 79018
+percent_zip_in_county = 87.23
+
+[[zipcodes]]
+zipcode = 79022
+percent_zip_in_county = 44.86
+
+[[zipcodes]]
+zipcode = 79044
+percent_zip_in_county = 100.0

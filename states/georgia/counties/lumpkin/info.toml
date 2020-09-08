@@ -1,2 +1,18 @@
 name = "Lumpkin County"
 fips_code = 13187
+
+[[zipcodes]]
+zipcode = 30528
+percent_zip_in_county = 1.12
+
+[[zipcodes]]
+zipcode = 30533
+percent_zip_in_county = 98.09
+
+[[zipcodes]]
+zipcode = 30534
+percent_zip_in_county = 12.41
+
+[[zipcodes]]
+zipcode = 30564
+percent_zip_in_county = 35.54

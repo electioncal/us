@@ -1,2 +1,126 @@
 name = "Pulaski County"
 fips_code = 5119
+
+[[zipcodes]]
+zipcode = 72002
+percent_zip_in_county = 5.77
+
+[[zipcodes]]
+zipcode = 72016
+percent_zip_in_county = 12.64
+
+[[zipcodes]]
+zipcode = 72023
+percent_zip_in_county = 9.81
+
+[[zipcodes]]
+zipcode = 72046
+percent_zip_in_county = 8.03
+
+[[zipcodes]]
+zipcode = 72065
+percent_zip_in_county = 13.9
+
+[[zipcodes]]
+zipcode = 72076
+percent_zip_in_county = 93.82
+
+[[zipcodes]]
+zipcode = 72099
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72103
+percent_zip_in_county = 30.88
+
+[[zipcodes]]
+zipcode = 72113
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72114
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72116
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72117
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72118
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72119
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72120
+percent_zip_in_county = 97.58
+
+[[zipcodes]]
+zipcode = 72122
+percent_zip_in_county = 18.55
+
+[[zipcodes]]
+zipcode = 72126
+percent_zip_in_county = 1.77
+
+[[zipcodes]]
+zipcode = 72135
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72142
+percent_zip_in_county = 49.42
+
+[[zipcodes]]
+zipcode = 72201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72202
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72204
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72205
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72206
+percent_zip_in_county = 90.31
+
+[[zipcodes]]
+zipcode = 72207
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72209
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72210
+percent_zip_in_county = 94.12
+
+[[zipcodes]]
+zipcode = 72211
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72212
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72223
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72227
+percent_zip_in_county = 100.0

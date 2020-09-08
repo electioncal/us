@@ -1,2 +1,42 @@
 name = "Pendleton County"
 fips_code = 21191
+
+[[zipcodes]]
+zipcode = 41003
+percent_zip_in_county = 14.97
+
+[[zipcodes]]
+zipcode = 41004
+percent_zip_in_county = 0.1
+
+[[zipcodes]]
+zipcode = 41006
+percent_zip_in_county = 85.41
+
+[[zipcodes]]
+zipcode = 41007
+percent_zip_in_county = 14.55
+
+[[zipcodes]]
+zipcode = 41030
+percent_zip_in_county = 0.33
+
+[[zipcodes]]
+zipcode = 41033
+percent_zip_in_county = 86.99
+
+[[zipcodes]]
+zipcode = 41035
+percent_zip_in_county = 0.19
+
+[[zipcodes]]
+zipcode = 41040
+percent_zip_in_county = 97.91
+
+[[zipcodes]]
+zipcode = 41043
+percent_zip_in_county = 27.79
+
+[[zipcodes]]
+zipcode = 41097
+percent_zip_in_county = 9.53

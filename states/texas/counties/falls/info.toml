@@ -1,2 +1,70 @@
 name = "Falls County"
 fips_code = 48145
+
+[[zipcodes]]
+zipcode = 76519
+percent_zip_in_county = 8.79
+
+[[zipcodes]]
+zipcode = 76524
+percent_zip_in_county = 18.97
+
+[[zipcodes]]
+zipcode = 76570
+percent_zip_in_county = 96.23
+
+[[zipcodes]]
+zipcode = 76579
+percent_zip_in_county = 2.37
+
+[[zipcodes]]
+zipcode = 76629
+percent_zip_in_county = 9.5
+
+[[zipcodes]]
+zipcode = 76630
+percent_zip_in_county = 0.6
+
+[[zipcodes]]
+zipcode = 76632
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76653
+percent_zip_in_county = 18.58
+
+[[zipcodes]]
+zipcode = 76655
+percent_zip_in_county = 7.5
+
+[[zipcodes]]
+zipcode = 76656
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76661
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76664
+percent_zip_in_county = 1.39
+
+[[zipcodes]]
+zipcode = 76680
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76682
+percent_zip_in_county = 21.43
+
+[[zipcodes]]
+zipcode = 76685
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76687
+percent_zip_in_county = 0.89
+
+[[zipcodes]]
+zipcode = 76706
+percent_zip_in_county = 0.03

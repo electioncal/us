@@ -1,2 +1,58 @@
 name = "Macon County"
 fips_code = 29121
+
+[[zipcodes]]
+zipcode = 63431
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63437
+percent_zip_in_county = 2.2
+
+[[zipcodes]]
+zipcode = 63530
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63532
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63534
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63538
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63539
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63549
+percent_zip_in_county = 85.34
+
+[[zipcodes]]
+zipcode = 63552
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63557
+percent_zip_in_county = 20.62
+
+[[zipcodes]]
+zipcode = 63558
+percent_zip_in_county = 75.61
+
+[[zipcodes]]
+zipcode = 64631
+percent_zip_in_county = 18.51
+
+[[zipcodes]]
+zipcode = 65247
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65260
+percent_zip_in_county = 8.01

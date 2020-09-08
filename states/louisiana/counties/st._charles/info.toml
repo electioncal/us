@@ -1,2 +1,42 @@
 name = "St. Charles Parish"
 fips_code = 22089
+
+[[zipcodes]]
+zipcode = 70030
+percent_zip_in_county = 89.99
+
+[[zipcodes]]
+zipcode = 70031
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70047
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70057
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70068
+percent_zip_in_county = 5.68
+
+[[zipcodes]]
+zipcode = 70070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70079
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70080
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70087
+percent_zip_in_county = 100.0

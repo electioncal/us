@@ -1,2 +1,18 @@
 name = "Hyde County"
 fips_code = 46069
+
+[[zipcodes]]
+zipcode = 57345
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57346
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57540
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57564
+percent_zip_in_county = 0.8

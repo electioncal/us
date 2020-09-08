@@ -1,2 +1,70 @@
 name = "Dorchester County"
 fips_code = 24019
+
+[[zipcodes]]
+zipcode = 21613
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21622
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21626
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21627
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21631
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21632
+percent_zip_in_county = 11.08
+
+[[zipcodes]]
+zipcode = 21634
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21643
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21648
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21659
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21664
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21669
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21672
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21675
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21677
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21835
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21869
+percent_zip_in_county = 100.0

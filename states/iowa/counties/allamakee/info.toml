@@ -1,2 +1,42 @@
 name = "Allamakee County"
 fips_code = 19005
+
+[[zipcodes]]
+zipcode = 52101
+percent_zip_in_county = 0.28
+
+[[zipcodes]]
+zipcode = 52140
+percent_zip_in_county = 86.28
+
+[[zipcodes]]
+zipcode = 52146
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52151
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52156
+percent_zip_in_county = 15.33
+
+[[zipcodes]]
+zipcode = 52159
+percent_zip_in_county = 16.14
+
+[[zipcodes]]
+zipcode = 52160
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52162
+percent_zip_in_county = 75.59
+
+[[zipcodes]]
+zipcode = 52170
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52172
+percent_zip_in_county = 98.83

@@ -1,2 +1,18 @@
 name = "Lee County"
 fips_code = 37105
+
+[[zipcodes]]
+zipcode = 27330
+percent_zip_in_county = 97.49
+
+[[zipcodes]]
+zipcode = 27332
+percent_zip_in_county = 60.22
+
+[[zipcodes]]
+zipcode = 27505
+percent_zip_in_county = 21.76
+
+[[zipcodes]]
+zipcode = 28326
+percent_zip_in_county = 7.84

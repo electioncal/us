@@ -1,2 +1,26 @@
 name = "Butte County"
 fips_code = 46019
+
+[[zipcodes]]
+zipcode = 57717
+percent_zip_in_county = 98.5
+
+[[zipcodes]]
+zipcode = 57760
+percent_zip_in_county = 98.0
+
+[[zipcodes]]
+zipcode = 57762
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57783
+percent_zip_in_county = 0.14
+
+[[zipcodes]]
+zipcode = 57788
+percent_zip_in_county = 65.15
+
+[[zipcodes]]
+zipcode = 57793
+percent_zip_in_county = 1.57

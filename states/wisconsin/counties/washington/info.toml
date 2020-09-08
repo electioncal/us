@@ -1,2 +1,66 @@
 name = "Washington County"
 fips_code = 55131
+
+[[zipcodes]]
+zipcode = 53002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53010
+percent_zip_in_county = 3.98
+
+[[zipcodes]]
+zipcode = 53012
+percent_zip_in_county = 8.59
+
+[[zipcodes]]
+zipcode = 53017
+percent_zip_in_county = 82.34
+
+[[zipcodes]]
+zipcode = 53021
+percent_zip_in_county = 14.55
+
+[[zipcodes]]
+zipcode = 53022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53027
+percent_zip_in_county = 97.45
+
+[[zipcodes]]
+zipcode = 53029
+percent_zip_in_county = 0.45
+
+[[zipcodes]]
+zipcode = 53033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53040
+percent_zip_in_county = 90.6
+
+[[zipcodes]]
+zipcode = 53076
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53086
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53090
+percent_zip_in_county = 99.07
+
+[[zipcodes]]
+zipcode = 53091
+percent_zip_in_county = 2.58
+
+[[zipcodes]]
+zipcode = 53095
+percent_zip_in_county = 99.17

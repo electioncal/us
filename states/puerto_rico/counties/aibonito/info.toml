@@ -1,2 +1,10 @@
 name = "Aibonito Municipio"
 fips_code = 72009
+
+[[zipcodes]]
+zipcode = 705
+percent_zip_in_county = 99.79
+
+[[zipcodes]]
+zipcode = 786
+percent_zip_in_county = 100.0

@@ -1,2 +1,38 @@
 name = "Benton County"
 fips_code = 18007
+
+[[zipcodes]]
+zipcode = 47917
+percent_zip_in_county = 64.77
+
+[[zipcodes]]
+zipcode = 47921
+percent_zip_in_county = 87.76
+
+[[zipcodes]]
+zipcode = 47942
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47944
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47948
+percent_zip_in_county = 2.58
+
+[[zipcodes]]
+zipcode = 47970
+percent_zip_in_county = 56.49
+
+[[zipcodes]]
+zipcode = 47971
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47975
+percent_zip_in_county = 2.6
+
+[[zipcodes]]
+zipcode = 47977
+percent_zip_in_county = 10.92

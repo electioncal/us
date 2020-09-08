@@ -1,2 +1,66 @@
 name = "Rice County"
 fips_code = 27131
+
+[[zipcodes]]
+zipcode = 55018
+percent_zip_in_county = 11.63
+
+[[zipcodes]]
+zipcode = 55019
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55049
+percent_zip_in_county = 1.13
+
+[[zipcodes]]
+zipcode = 55052
+percent_zip_in_county = 97.18
+
+[[zipcodes]]
+zipcode = 55053
+percent_zip_in_county = 83.75
+
+[[zipcodes]]
+zipcode = 55057
+percent_zip_in_county = 88.17
+
+[[zipcodes]]
+zipcode = 55087
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55088
+percent_zip_in_county = 66.9
+
+[[zipcodes]]
+zipcode = 55946
+percent_zip_in_county = 7.33
+
+[[zipcodes]]
+zipcode = 56052
+percent_zip_in_county = 26.9
+
+[[zipcodes]]
+zipcode = 56069
+percent_zip_in_county = 10.01
+
+[[zipcodes]]
+zipcode = 56071
+percent_zip_in_county = 2.32
+
+[[zipcodes]]
+zipcode = 56093
+percent_zip_in_county = 0.08
+
+[[zipcodes]]
+zipcode = 56096
+percent_zip_in_county = 3.64

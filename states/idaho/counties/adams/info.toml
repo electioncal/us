@@ -1,2 +1,22 @@
 name = "Adams County"
 fips_code = 16003
+
+[[zipcodes]]
+zipcode = 83612
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83632
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83638
+percent_zip_in_county = 1.69
+
+[[zipcodes]]
+zipcode = 83643
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83654
+percent_zip_in_county = 96.17

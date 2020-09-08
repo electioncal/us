@@ -1,2 +1,118 @@
 name = "Broome County"
 fips_code = 36007
+
+[[zipcodes]]
+zipcode = 13730
+percent_zip_in_county = 3.49
+
+[[zipcodes]]
+zipcode = 13736
+percent_zip_in_county = 2.14
+
+[[zipcodes]]
+zipcode = 13744
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13746
+percent_zip_in_county = 84.09
+
+[[zipcodes]]
+zipcode = 13748
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13754
+percent_zip_in_county = 55.8
+
+[[zipcodes]]
+zipcode = 13760
+percent_zip_in_county = 92.06
+
+[[zipcodes]]
+zipcode = 13777
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13778
+percent_zip_in_county = 1.13
+
+[[zipcodes]]
+zipcode = 13787
+percent_zip_in_county = 82.2
+
+[[zipcodes]]
+zipcode = 13790
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13794
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13795
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13797
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13802
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13803
+percent_zip_in_county = 8.5
+
+[[zipcodes]]
+zipcode = 13811
+percent_zip_in_county = 7.07
+
+[[zipcodes]]
+zipcode = 13813
+percent_zip_in_county = 83.11
+
+[[zipcodes]]
+zipcode = 13826
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13833
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13835
+percent_zip_in_county = 26.6
+
+[[zipcodes]]
+zipcode = 13850
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13862
+percent_zip_in_county = 99.36
+
+[[zipcodes]]
+zipcode = 13865
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13901
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13902
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13903
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13904
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13905
+percent_zip_in_county = 100.0

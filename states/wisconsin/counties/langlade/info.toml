@@ -1,2 +1,50 @@
 name = "Langlade County"
 fips_code = 55067
+
+[[zipcodes]]
+zipcode = 54175
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 54408
+percent_zip_in_county = 4.21
+
+[[zipcodes]]
+zipcode = 54409
+percent_zip_in_county = 98.19
+
+[[zipcodes]]
+zipcode = 54418
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54424
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54428
+percent_zip_in_county = 98.4
+
+[[zipcodes]]
+zipcode = 54430
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54435
+percent_zip_in_county = 20.6
+
+[[zipcodes]]
+zipcode = 54462
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54465
+percent_zip_in_county = 54.85
+
+[[zipcodes]]
+zipcode = 54485
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54491
+percent_zip_in_county = 95.64

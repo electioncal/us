@@ -1,2 +1,34 @@
 name = "Warren County"
 fips_code = 37185
+
+[[zipcodes]]
+zipcode = 27537
+percent_zip_in_county = 2.11
+
+[[zipcodes]]
+zipcode = 27551
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27553
+percent_zip_in_county = 69.73
+
+[[zipcodes]]
+zipcode = 27563
+percent_zip_in_county = 97.84
+
+[[zipcodes]]
+zipcode = 27589
+percent_zip_in_county = 97.04
+
+[[zipcodes]]
+zipcode = 27842
+percent_zip_in_county = 13.6
+
+[[zipcodes]]
+zipcode = 27844
+percent_zip_in_county = 18.03
+
+[[zipcodes]]
+zipcode = 27850
+percent_zip_in_county = 37.13

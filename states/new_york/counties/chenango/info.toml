@@ -1,2 +1,106 @@
 name = "Chenango County"
 fips_code = 36017
+
+[[zipcodes]]
+zipcode = 13040
+percent_zip_in_county = 8.85
+
+[[zipcodes]]
+zipcode = 13052
+percent_zip_in_county = 16.08
+
+[[zipcodes]]
+zipcode = 13072
+percent_zip_in_county = 22.8
+
+[[zipcodes]]
+zipcode = 13124
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13136
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13155
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13332
+percent_zip_in_county = 26.18
+
+[[zipcodes]]
+zipcode = 13411
+percent_zip_in_county = 59.01
+
+[[zipcodes]]
+zipcode = 13460
+percent_zip_in_county = 99.62
+
+[[zipcodes]]
+zipcode = 13464
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13485
+percent_zip_in_county = 9.89
+
+[[zipcodes]]
+zipcode = 13730
+percent_zip_in_county = 96.51
+
+[[zipcodes]]
+zipcode = 13733
+percent_zip_in_county = 93.94
+
+[[zipcodes]]
+zipcode = 13746
+percent_zip_in_county = 15.91
+
+[[zipcodes]]
+zipcode = 13778
+percent_zip_in_county = 98.87
+
+[[zipcodes]]
+zipcode = 13780
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13787
+percent_zip_in_county = 17.8
+
+[[zipcodes]]
+zipcode = 13801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13809
+percent_zip_in_county = 65.85
+
+[[zipcodes]]
+zipcode = 13813
+percent_zip_in_county = 16.89
+
+[[zipcodes]]
+zipcode = 13815
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13830
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13832
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13841
+percent_zip_in_county = 88.28
+
+[[zipcodes]]
+zipcode = 13843
+percent_zip_in_county = 53.87
+
+[[zipcodes]]
+zipcode = 13844
+percent_zip_in_county = 100.0

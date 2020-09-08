@@ -1,2 +1,130 @@
 name = "Kane County"
 fips_code = 17089
+
+[[zipcodes]]
+zipcode = 60010
+percent_zip_in_county = 0.31
+
+[[zipcodes]]
+zipcode = 60102
+percent_zip_in_county = 27.5
+
+[[zipcodes]]
+zipcode = 60109
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60110
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60118
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60119
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60120
+percent_zip_in_county = 50.94
+
+[[zipcodes]]
+zipcode = 60123
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60124
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60134
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60136
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60140
+percent_zip_in_county = 99.57
+
+[[zipcodes]]
+zipcode = 60142
+percent_zip_in_county = 23.89
+
+[[zipcodes]]
+zipcode = 60144
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60151
+percent_zip_in_county = 74.86
+
+[[zipcodes]]
+zipcode = 60174
+percent_zip_in_county = 98.23
+
+[[zipcodes]]
+zipcode = 60175
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60177
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60178
+percent_zip_in_county = 0.97
+
+[[zipcodes]]
+zipcode = 60184
+percent_zip_in_county = 35.05
+
+[[zipcodes]]
+zipcode = 60185
+percent_zip_in_county = 0.41
+
+[[zipcodes]]
+zipcode = 60502
+percent_zip_in_county = 17.47
+
+[[zipcodes]]
+zipcode = 60504
+percent_zip_in_county = 22.45
+
+[[zipcodes]]
+zipcode = 60505
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60506
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60510
+percent_zip_in_county = 99.27
+
+[[zipcodes]]
+zipcode = 60511
+percent_zip_in_county = 98.77
+
+[[zipcodes]]
+zipcode = 60538
+percent_zip_in_county = 30.27
+
+[[zipcodes]]
+zipcode = 60539
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60542
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60543
+percent_zip_in_county = 0.17
+
+[[zipcodes]]
+zipcode = 60554
+percent_zip_in_county = 99.87

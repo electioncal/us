@@ -1,2 +1,6 @@
 name = "Kinney County"
 fips_code = 48271
+
+[[zipcodes]]
+zipcode = 78832
+percent_zip_in_county = 100.0

@@ -1,2 +1,50 @@
 name = "Adams County"
 fips_code = 31001
+
+[[zipcodes]]
+zipcode = 68883
+percent_zip_in_county = 3.9
+
+[[zipcodes]]
+zipcode = 68901
+percent_zip_in_county = 99.9
+
+[[zipcodes]]
+zipcode = 68925
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68928
+percent_zip_in_county = 7.04
+
+[[zipcodes]]
+zipcode = 68930
+percent_zip_in_county = 8.21
+
+[[zipcodes]]
+zipcode = 68932
+percent_zip_in_county = 6.49
+
+[[zipcodes]]
+zipcode = 68941
+percent_zip_in_county = 36.18
+
+[[zipcodes]]
+zipcode = 68950
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68955
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68956
+percent_zip_in_county = 91.52
+
+[[zipcodes]]
+zipcode = 68973
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68980
+percent_zip_in_county = 13.92

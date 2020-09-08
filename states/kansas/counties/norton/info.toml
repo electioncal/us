@@ -1,2 +1,34 @@
 name = "Norton County"
 fips_code = 20137
+
+[[zipcodes]]
+zipcode = 67622
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67629
+percent_zip_in_county = 73.43
+
+[[zipcodes]]
+zipcode = 67645
+percent_zip_in_county = 90.11
+
+[[zipcodes]]
+zipcode = 67646
+percent_zip_in_county = 1.11
+
+[[zipcodes]]
+zipcode = 67647
+percent_zip_in_county = 2.34
+
+[[zipcodes]]
+zipcode = 67653
+percent_zip_in_county = 26.85
+
+[[zipcodes]]
+zipcode = 67654
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67664
+percent_zip_in_county = 6.23

@@ -1,2 +1,34 @@
 name = "LaSalle Parish"
 fips_code = 22059
+
+[[zipcodes]]
+zipcode = 71328
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 71342
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71343
+percent_zip_in_county = 3.87
+
+[[zipcodes]]
+zipcode = 71371
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71441
+percent_zip_in_county = 12.3
+
+[[zipcodes]]
+zipcode = 71465
+percent_zip_in_county = 94.71
+
+[[zipcodes]]
+zipcode = 71479
+percent_zip_in_county = 72.63
+
+[[zipcodes]]
+zipcode = 71480
+percent_zip_in_county = 100.0

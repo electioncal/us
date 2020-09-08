@@ -1,2 +1,94 @@
 name = "Benton County"
 fips_code = 19011
+
+[[zipcodes]]
+zipcode = 50651
+percent_zip_in_county = 8.83
+
+[[zipcodes]]
+zipcode = 52206
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52208
+percent_zip_in_county = 92.58
+
+[[zipcodes]]
+zipcode = 52209
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52213
+percent_zip_in_county = 11.59
+
+[[zipcodes]]
+zipcode = 52224
+percent_zip_in_county = 14.14
+
+[[zipcodes]]
+zipcode = 52225
+percent_zip_in_county = 16.11
+
+[[zipcodes]]
+zipcode = 52228
+percent_zip_in_county = 2.99
+
+[[zipcodes]]
+zipcode = 52229
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52249
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52257
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52301
+percent_zip_in_county = 1.11
+
+[[zipcodes]]
+zipcode = 52313
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52315
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52318
+percent_zip_in_county = 90.03
+
+[[zipcodes]]
+zipcode = 52324
+percent_zip_in_county = 10.79
+
+[[zipcodes]]
+zipcode = 52332
+percent_zip_in_county = 99.55
+
+[[zipcodes]]
+zipcode = 52345
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52346
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52349
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52351
+percent_zip_in_county = 74.02
+
+[[zipcodes]]
+zipcode = 52352
+percent_zip_in_county = 8.89
+
+[[zipcodes]]
+zipcode = 52354
+percent_zip_in_county = 100.0

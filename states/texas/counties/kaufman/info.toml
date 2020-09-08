@@ -1,2 +1,50 @@
 name = "Kaufman County"
 fips_code = 48257
+
+[[zipcodes]]
+zipcode = 75114
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75126
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75142
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75143
+percent_zip_in_county = 46.49
+
+[[zipcodes]]
+zipcode = 75147
+percent_zip_in_county = 56.12
+
+[[zipcodes]]
+zipcode = 75157
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75158
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75159
+percent_zip_in_county = 11.79
+
+[[zipcodes]]
+zipcode = 75160
+percent_zip_in_county = 93.96
+
+[[zipcodes]]
+zipcode = 75161
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75169
+percent_zip_in_county = 4.3
+
+[[zipcodes]]
+zipcode = 75474
+percent_zip_in_county = 1.37

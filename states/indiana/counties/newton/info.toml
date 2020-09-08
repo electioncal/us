@@ -1,2 +1,46 @@
 name = "Newton County"
 fips_code = 18111
+
+[[zipcodes]]
+zipcode = 46310
+percent_zip_in_county = 23.09
+
+[[zipcodes]]
+zipcode = 46349
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46379
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46381
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47922
+percent_zip_in_county = 96.86
+
+[[zipcodes]]
+zipcode = 47943
+percent_zip_in_county = 24.68
+
+[[zipcodes]]
+zipcode = 47948
+percent_zip_in_county = 85.8
+
+[[zipcodes]]
+zipcode = 47951
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47963
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47964
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47978
+percent_zip_in_county = 0.41

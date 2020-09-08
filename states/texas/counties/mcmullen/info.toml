@@ -1,2 +1,22 @@
 name = "McMullen County"
 fips_code = 48311
+
+[[zipcodes]]
+zipcode = 78007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78021
+percent_zip_in_county = 15.08
+
+[[zipcodes]]
+zipcode = 78071
+percent_zip_in_county = 0.19
+
+[[zipcodes]]
+zipcode = 78072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78075
+percent_zip_in_county = 19.51

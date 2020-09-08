@@ -1,2 +1,46 @@
 name = "Bingham County"
 fips_code = 16011
+
+[[zipcodes]]
+zipcode = 83202
+percent_zip_in_county = 5.73
+
+[[zipcodes]]
+zipcode = 83203
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83210
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83215
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83218
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83221
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83236
+percent_zip_in_county = 99.03
+
+[[zipcodes]]
+zipcode = 83262
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83274
+percent_zip_in_county = 99.91
+
+[[zipcodes]]
+zipcode = 83277
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83402
+percent_zip_in_county = 0.91

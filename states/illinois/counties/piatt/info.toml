@@ -1,2 +1,58 @@
 name = "Piatt County"
 fips_code = 17147
+
+[[zipcodes]]
+zipcode = 61813
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61818
+percent_zip_in_county = 96.34
+
+[[zipcodes]]
+zipcode = 61830
+percent_zip_in_county = 90.59
+
+[[zipcodes]]
+zipcode = 61839
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61842
+percent_zip_in_county = 3.62
+
+[[zipcodes]]
+zipcode = 61851
+percent_zip_in_county = 3.21
+
+[[zipcodes]]
+zipcode = 61853
+percent_zip_in_county = 0.83
+
+[[zipcodes]]
+zipcode = 61854
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61855
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61856
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61884
+percent_zip_in_county = 96.14
+
+[[zipcodes]]
+zipcode = 61913
+percent_zip_in_county = 43.23
+
+[[zipcodes]]
+zipcode = 61929
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61936
+percent_zip_in_county = 100.0

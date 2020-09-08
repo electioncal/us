@@ -1,2 +1,34 @@
 name = "Alpena County"
 fips_code = 26007
+
+[[zipcodes]]
+zipcode = 48762
+percent_zip_in_county = 16.77
+
+[[zipcodes]]
+zipcode = 49707
+percent_zip_in_county = 97.54
+
+[[zipcodes]]
+zipcode = 49744
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49746
+percent_zip_in_county = 10.28
+
+[[zipcodes]]
+zipcode = 49747
+percent_zip_in_county = 61.32
+
+[[zipcodes]]
+zipcode = 49753
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49766
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49776
+percent_zip_in_county = 21.72

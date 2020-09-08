@@ -1,2 +1,18 @@
 name = "Blackford County"
 fips_code = 18009
+
+[[zipcodes]]
+zipcode = 46952
+percent_zip_in_county = 0.12
+
+[[zipcodes]]
+zipcode = 47336
+percent_zip_in_county = 8.85
+
+[[zipcodes]]
+zipcode = 47348
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47359
+percent_zip_in_county = 81.96

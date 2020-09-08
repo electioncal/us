@@ -1,2 +1,54 @@
 name = "Bedford County"
 fips_code = 47003
+
+[[zipcodes]]
+zipcode = 37018
+percent_zip_in_county = 3.19
+
+[[zipcodes]]
+zipcode = 37020
+percent_zip_in_county = 70.51
+
+[[zipcodes]]
+zipcode = 37034
+percent_zip_in_county = 13.88
+
+[[zipcodes]]
+zipcode = 37060
+percent_zip_in_county = 12.15
+
+[[zipcodes]]
+zipcode = 37091
+percent_zip_in_county = 3.04
+
+[[zipcodes]]
+zipcode = 37144
+percent_zip_in_county = 6.76
+
+[[zipcodes]]
+zipcode = 37153
+percent_zip_in_county = 4.47
+
+[[zipcodes]]
+zipcode = 37160
+percent_zip_in_county = 99.22
+
+[[zipcodes]]
+zipcode = 37180
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37183
+percent_zip_in_county = 84.92
+
+[[zipcodes]]
+zipcode = 37334
+percent_zip_in_county = 0.18
+
+[[zipcodes]]
+zipcode = 37360
+percent_zip_in_county = 41.22
+
+[[zipcodes]]
+zipcode = 37388
+percent_zip_in_county = 0.5

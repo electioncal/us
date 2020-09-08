@@ -1,2 +1,6 @@
 name = "Arroyo Municipio"
 fips_code = 72015
+
+[[zipcodes]]
+zipcode = 714
+percent_zip_in_county = 100.0

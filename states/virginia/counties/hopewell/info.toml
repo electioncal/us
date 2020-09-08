@@ -1,2 +1,6 @@
 name = "Hopewell city"
 fips_code = 51670
+
+[[zipcodes]]
+zipcode = 23860
+percent_zip_in_county = 70.66

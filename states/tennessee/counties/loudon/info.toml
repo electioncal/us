@@ -1,2 +1,34 @@
 name = "Loudon County"
 fips_code = 47105
+
+[[zipcodes]]
+zipcode = 37737
+percent_zip_in_county = 4.2
+
+[[zipcodes]]
+zipcode = 37742
+percent_zip_in_county = 53.67
+
+[[zipcodes]]
+zipcode = 37771
+percent_zip_in_county = 92.78
+
+[[zipcodes]]
+zipcode = 37772
+percent_zip_in_county = 98.32
+
+[[zipcodes]]
+zipcode = 37774
+percent_zip_in_county = 93.17
+
+[[zipcodes]]
+zipcode = 37846
+percent_zip_in_county = 40.38
+
+[[zipcodes]]
+zipcode = 37874
+percent_zip_in_county = 3.75
+
+[[zipcodes]]
+zipcode = 37885
+percent_zip_in_county = 5.74

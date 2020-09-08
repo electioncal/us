@@ -1,2 +1,30 @@
 name = "Otero County"
 fips_code = 8089
+
+[[zipcodes]]
+zipcode = 81030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81039
+percent_zip_in_county = 87.34
+
+[[zipcodes]]
+zipcode = 81050
+percent_zip_in_county = 99.84
+
+[[zipcodes]]
+zipcode = 81058
+percent_zip_in_county = 91.62
+
+[[zipcodes]]
+zipcode = 81059
+percent_zip_in_county = 4.61
+
+[[zipcodes]]
+zipcode = 81067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81077
+percent_zip_in_county = 100.0

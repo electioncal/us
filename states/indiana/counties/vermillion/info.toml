@@ -1,2 +1,34 @@
 name = "Vermillion County"
 fips_code = 18165
+
+[[zipcodes]]
+zipcode = 47842
+percent_zip_in_county = 98.93
+
+[[zipcodes]]
+zipcode = 47847
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47854
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47884
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47928
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47932
+percent_zip_in_county = 7.21
+
+[[zipcodes]]
+zipcode = 47966
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47974
+percent_zip_in_county = 100.0

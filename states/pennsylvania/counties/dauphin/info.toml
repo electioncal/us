@@ -1,2 +1,122 @@
 name = "Dauphin County"
 fips_code = 42043
+
+[[zipcodes]]
+zipcode = 17005
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17017
+percent_zip_in_county = 7.29
+
+[[zipcodes]]
+zipcode = 17018
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17020
+percent_zip_in_county = 0.17
+
+[[zipcodes]]
+zipcode = 17022
+percent_zip_in_county = 11.48
+
+[[zipcodes]]
+zipcode = 17023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17028
+percent_zip_in_county = 71.51
+
+[[zipcodes]]
+zipcode = 17030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17033
+percent_zip_in_county = 99.66
+
+[[zipcodes]]
+zipcode = 17034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17048
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17057
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17078
+percent_zip_in_county = 6.82
+
+[[zipcodes]]
+zipcode = 17080
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17097
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17098
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17101
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17102
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17104
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17109
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17110
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17111
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17112
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17113
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17120
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 17980
+percent_zip_in_county = 7.13

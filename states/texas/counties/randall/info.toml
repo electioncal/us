@@ -1,2 +1,58 @@
 name = "Randall County"
 fips_code = 48381
+
+[[zipcodes]]
+zipcode = 79012
+percent_zip_in_county = 7.58
+
+[[zipcodes]]
+zipcode = 79015
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79016
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79042
+percent_zip_in_county = 30.97
+
+[[zipcodes]]
+zipcode = 79091
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79098
+percent_zip_in_county = 11.22
+
+[[zipcodes]]
+zipcode = 79103
+percent_zip_in_county = 39.42
+
+[[zipcodes]]
+zipcode = 79106
+percent_zip_in_county = 12.15
+
+[[zipcodes]]
+zipcode = 79109
+percent_zip_in_county = 84.29
+
+[[zipcodes]]
+zipcode = 79110
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79118
+percent_zip_in_county = 99.48
+
+[[zipcodes]]
+zipcode = 79119
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79121
+percent_zip_in_county = 97.34
+
+[[zipcodes]]
+zipcode = 79124
+percent_zip_in_county = 1.14

@@ -1,2 +1,18 @@
 name = "Wilkinson County"
 fips_code = 28157
+
+[[zipcodes]]
+zipcode = 39631
+percent_zip_in_county = 78.91
+
+[[zipcodes]]
+zipcode = 39633
+percent_zip_in_county = 77.15
+
+[[zipcodes]]
+zipcode = 39638
+percent_zip_in_county = 1.32
+
+[[zipcodes]]
+zipcode = 39669
+percent_zip_in_county = 100.0

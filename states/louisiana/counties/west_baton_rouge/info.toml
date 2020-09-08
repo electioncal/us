@@ -1,2 +1,22 @@
 name = "West Baton Rouge Parish"
 fips_code = 22121
+
+[[zipcodes]]
+zipcode = 70710
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70719
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70729
+percent_zip_in_county = 77.52
+
+[[zipcodes]]
+zipcode = 70764
+percent_zip_in_county = 0.12
+
+[[zipcodes]]
+zipcode = 70767
+percent_zip_in_county = 100.0

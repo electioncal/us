@@ -1,2 +1,46 @@
 name = "McIntosh County"
 fips_code = 40091
+
+[[zipcodes]]
+zipcode = 74426
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74428
+percent_zip_in_county = 50.79
+
+[[zipcodes]]
+zipcode = 74432
+percent_zip_in_county = 76.84
+
+[[zipcodes]]
+zipcode = 74437
+percent_zip_in_county = 8.59
+
+[[zipcodes]]
+zipcode = 74438
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74445
+percent_zip_in_county = 0.31
+
+[[zipcodes]]
+zipcode = 74455
+percent_zip_in_county = 22.13
+
+[[zipcodes]]
+zipcode = 74459
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74469
+percent_zip_in_county = 2.81
+
+[[zipcodes]]
+zipcode = 74839
+percent_zip_in_county = 1.95
+
+[[zipcodes]]
+zipcode = 74845
+percent_zip_in_county = 100.0

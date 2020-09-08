@@ -1,2 +1,18 @@
 name = "Charlottesville city"
 fips_code = 51540
+
+[[zipcodes]]
+zipcode = 22901
+percent_zip_in_county = 17.64
+
+[[zipcodes]]
+zipcode = 22902
+percent_zip_in_county = 56.72
+
+[[zipcodes]]
+zipcode = 22903
+percent_zip_in_county = 66.71
+
+[[zipcodes]]
+zipcode = 22904
+percent_zip_in_county = 4.25

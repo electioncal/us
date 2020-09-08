@@ -1,2 +1,58 @@
 name = "Grady County"
 fips_code = 40051
+
+[[zipcodes]]
+zipcode = 73002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73004
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73010
+percent_zip_in_county = 47.99
+
+[[zipcodes]]
+zipcode = 73011
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73017
+percent_zip_in_county = 39.55
+
+[[zipcodes]]
+zipcode = 73018
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73052
+percent_zip_in_county = 1.65
+
+[[zipcodes]]
+zipcode = 73055
+percent_zip_in_county = 6.21
+
+[[zipcodes]]
+zipcode = 73059
+percent_zip_in_county = 80.06
+
+[[zipcodes]]
+zipcode = 73067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73079
+percent_zip_in_county = 92.53
+
+[[zipcodes]]
+zipcode = 73082
+percent_zip_in_county = 99.06
+
+[[zipcodes]]
+zipcode = 73089
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73092
+percent_zip_in_county = 80.95

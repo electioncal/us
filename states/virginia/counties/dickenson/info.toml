@@ -1,2 +1,46 @@
 name = "Dickenson County"
 fips_code = 51051
+
+[[zipcodes]]
+zipcode = 24217
+percent_zip_in_county = 81.28
+
+[[zipcodes]]
+zipcode = 24220
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24226
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24228
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24230
+percent_zip_in_county = 17.6
+
+[[zipcodes]]
+zipcode = 24237
+percent_zip_in_county = 52.35
+
+[[zipcodes]]
+zipcode = 24256
+percent_zip_in_county = 80.78
+
+[[zipcodes]]
+zipcode = 24269
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24272
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24283
+percent_zip_in_county = 7.05
+
+[[zipcodes]]
+zipcode = 24607
+percent_zip_in_county = 19.91

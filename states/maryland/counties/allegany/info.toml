@@ -1,2 +1,62 @@
 name = "Allegany County"
 fips_code = 24001
+
+[[zipcodes]]
+zipcode = 21502
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21521
+percent_zip_in_county = 94.23
+
+[[zipcodes]]
+zipcode = 21524
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21529
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21530
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21532
+percent_zip_in_county = 90.26
+
+[[zipcodes]]
+zipcode = 21539
+percent_zip_in_county = 80.92
+
+[[zipcodes]]
+zipcode = 21540
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21542
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21543
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21545
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21555
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21557
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21562
+percent_zip_in_county = 98.95
+
+[[zipcodes]]
+zipcode = 21766
+percent_zip_in_county = 100.0

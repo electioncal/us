@@ -1,2 +1,74 @@
 name = "Izard County"
 fips_code = 5065
+
+[[zipcodes]]
+zipcode = 72512
+percent_zip_in_county = 99.24
+
+[[zipcodes]]
+zipcode = 72513
+percent_zip_in_county = 4.8
+
+[[zipcodes]]
+zipcode = 72517
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72519
+percent_zip_in_county = 73.14
+
+[[zipcodes]]
+zipcode = 72528
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72532
+percent_zip_in_county = 10.86
+
+[[zipcodes]]
+zipcode = 72536
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72540
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72556
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72560
+percent_zip_in_county = 1.72
+
+[[zipcodes]]
+zipcode = 72561
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72565
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72566
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72573
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72577
+percent_zip_in_county = 56.57
+
+[[zipcodes]]
+zipcode = 72584
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72585
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72587
+percent_zip_in_county = 100.0

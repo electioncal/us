@@ -1,2 +1,34 @@
 name = "Uvalde County"
 fips_code = 48463
+
+[[zipcodes]]
+zipcode = 78801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78802
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78833
+percent_zip_in_county = 6.24
+
+[[zipcodes]]
+zipcode = 78838
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78870
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78879
+percent_zip_in_county = 20.83
+
+[[zipcodes]]
+zipcode = 78881
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78884
+percent_zip_in_county = 54.49

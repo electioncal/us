@@ -1,2 +1,66 @@
 name = "Cerro Gordo County"
 fips_code = 19033
+
+[[zipcodes]]
+zipcode = 50401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50428
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50433
+percent_zip_in_county = 65.63
+
+[[zipcodes]]
+zipcode = 50434
+percent_zip_in_county = 7.43
+
+[[zipcodes]]
+zipcode = 50444
+percent_zip_in_county = 3.4
+
+[[zipcodes]]
+zipcode = 50449
+percent_zip_in_county = 0.41
+
+[[zipcodes]]
+zipcode = 50457
+percent_zip_in_county = 72.56
+
+[[zipcodes]]
+zipcode = 50458
+percent_zip_in_county = 10.97
+
+[[zipcodes]]
+zipcode = 50464
+percent_zip_in_county = 78.31
+
+[[zipcodes]]
+zipcode = 50467
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50468
+percent_zip_in_county = 8.3
+
+[[zipcodes]]
+zipcode = 50469
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50475
+percent_zip_in_county = 7.29
+
+[[zipcodes]]
+zipcode = 50477
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50479
+percent_zip_in_county = 89.91
+
+[[zipcodes]]
+zipcode = 50482
+percent_zip_in_county = 95.74

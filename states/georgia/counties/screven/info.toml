@@ -1,2 +1,22 @@
 name = "Screven County"
 fips_code = 13251
+
+[[zipcodes]]
+zipcode = 30426
+percent_zip_in_county = 8.09
+
+[[zipcodes]]
+zipcode = 30446
+percent_zip_in_county = 87.55
+
+[[zipcodes]]
+zipcode = 30449
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30455
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30467
+percent_zip_in_county = 100.0

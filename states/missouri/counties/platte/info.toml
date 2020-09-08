@@ -1,2 +1,70 @@
 name = "Platte County"
 fips_code = 29165
+
+[[zipcodes]]
+zipcode = 64018
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64079
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64089
+percent_zip_in_county = 11.19
+
+[[zipcodes]]
+zipcode = 64092
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64098
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64118
+percent_zip_in_county = 0.76
+
+[[zipcodes]]
+zipcode = 64150
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64151
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64152
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64153
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64154
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64163
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64164
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64439
+percent_zip_in_county = 69.49
+
+[[zipcodes]]
+zipcode = 64440
+percent_zip_in_county = 2.71
+
+[[zipcodes]]
+zipcode = 64444
+percent_zip_in_county = 94.03
+
+[[zipcodes]]
+zipcode = 64484
+percent_zip_in_county = 15.54

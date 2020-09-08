@@ -1,2 +1,278 @@
 name = "Montgomery County"
 fips_code = 42091
+
+[[zipcodes]]
+zipcode = 18041
+percent_zip_in_county = 87.37
+
+[[zipcodes]]
+zipcode = 18054
+percent_zip_in_county = 81.44
+
+[[zipcodes]]
+zipcode = 18070
+percent_zip_in_county = 78.76
+
+[[zipcodes]]
+zipcode = 18073
+percent_zip_in_county = 92.79
+
+[[zipcodes]]
+zipcode = 18074
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18076
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18915
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18936
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18964
+percent_zip_in_county = 96.76
+
+[[zipcodes]]
+zipcode = 18969
+percent_zip_in_county = 69.44
+
+[[zipcodes]]
+zipcode = 19001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19003
+percent_zip_in_county = 51.14
+
+[[zipcodes]]
+zipcode = 19004
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19006
+percent_zip_in_county = 94.65
+
+[[zipcodes]]
+zipcode = 19009
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19010
+percent_zip_in_county = 38.74
+
+[[zipcodes]]
+zipcode = 19012
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19031
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19038
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19040
+percent_zip_in_county = 98.91
+
+[[zipcodes]]
+zipcode = 19041
+percent_zip_in_county = 47.81
+
+[[zipcodes]]
+zipcode = 19044
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19066
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19075
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19083
+percent_zip_in_county = 0.18
+
+[[zipcodes]]
+zipcode = 19085
+percent_zip_in_county = 31.76
+
+[[zipcodes]]
+zipcode = 19087
+percent_zip_in_county = 11.61
+
+[[zipcodes]]
+zipcode = 19090
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19095
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19096
+percent_zip_in_county = 96.04
+
+[[zipcodes]]
+zipcode = 19118
+percent_zip_in_county = 0.82
+
+[[zipcodes]]
+zipcode = 19150
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 19401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19403
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19405
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19406
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19422
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19426
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19428
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19435
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19436
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19437
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19438
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19440
+percent_zip_in_county = 92.13
+
+[[zipcodes]]
+zipcode = 19444
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19446
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19453
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19454
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19456
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19460
+percent_zip_in_county = 12.13
+
+[[zipcodes]]
+zipcode = 19462
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19464
+percent_zip_in_county = 99.89
+
+[[zipcodes]]
+zipcode = 19468
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19472
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19473
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19474
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19477
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19492
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 19504
+percent_zip_in_county = 34.93
+
+[[zipcodes]]
+zipcode = 19505
+percent_zip_in_county = 7.28
+
+[[zipcodes]]
+zipcode = 19512
+percent_zip_in_county = 8.07
+
+[[zipcodes]]
+zipcode = 19525
+percent_zip_in_county = 100.0

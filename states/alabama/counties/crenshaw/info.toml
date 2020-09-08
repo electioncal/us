@@ -1,2 +1,46 @@
 name = "Crenshaw County"
 fips_code = 1041
+
+[[zipcodes]]
+zipcode = 36009
+percent_zip_in_county = 97.51
+
+[[zipcodes]]
+zipcode = 36028
+percent_zip_in_county = 42.38
+
+[[zipcodes]]
+zipcode = 36034
+percent_zip_in_county = 28.5
+
+[[zipcodes]]
+zipcode = 36035
+percent_zip_in_county = 15.53
+
+[[zipcodes]]
+zipcode = 36036
+percent_zip_in_county = 29.76
+
+[[zipcodes]]
+zipcode = 36037
+percent_zip_in_county = 0.24
+
+[[zipcodes]]
+zipcode = 36041
+percent_zip_in_county = 98.33
+
+[[zipcodes]]
+zipcode = 36042
+percent_zip_in_county = 59.8
+
+[[zipcodes]]
+zipcode = 36046
+percent_zip_in_county = 62.68
+
+[[zipcodes]]
+zipcode = 36049
+percent_zip_in_county = 98.69
+
+[[zipcodes]]
+zipcode = 36071
+percent_zip_in_county = 97.78

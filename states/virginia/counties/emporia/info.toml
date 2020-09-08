@@ -1,2 +1,6 @@
 name = "Emporia city"
 fips_code = 51595
+
+[[zipcodes]]
+zipcode = 23847
+percent_zip_in_county = 34.94

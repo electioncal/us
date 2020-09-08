@@ -1,3 +1,87 @@
 name = "Niagara County"
 fips_code = 36063
 homepage = "https://elections.niagara.ny.us/"
+
+[[zipcodes]]
+zipcode = 14001
+percent_zip_in_county = 6.23
+
+[[zipcodes]]
+zipcode = 14008
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14012
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14028
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14092
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14094
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14105
+percent_zip_in_county = 93.93
+
+[[zipcodes]]
+zipcode = 14108
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14109
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14120
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14126
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14131
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14132
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14172
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14174
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14302
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14303
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14304
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14305
+percent_zip_in_county = 100.0

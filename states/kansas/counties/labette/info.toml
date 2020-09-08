@@ -1,2 +1,54 @@
 name = "Labette County"
 fips_code = 20099
+
+[[zipcodes]]
+zipcode = 66753
+percent_zip_in_county = 6.04
+
+[[zipcodes]]
+zipcode = 66776
+percent_zip_in_county = 6.13
+
+[[zipcodes]]
+zipcode = 67330
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67332
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67335
+percent_zip_in_county = 11.9
+
+[[zipcodes]]
+zipcode = 67336
+percent_zip_in_county = 88.71
+
+[[zipcodes]]
+zipcode = 67337
+percent_zip_in_county = 2.25
+
+[[zipcodes]]
+zipcode = 67341
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67342
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67351
+percent_zip_in_county = 5.63
+
+[[zipcodes]]
+zipcode = 67354
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67356
+percent_zip_in_county = 97.71
+
+[[zipcodes]]
+zipcode = 67357
+percent_zip_in_county = 96.32

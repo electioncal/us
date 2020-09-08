@@ -1,2 +1,58 @@
 name = "Jackson County"
 fips_code = 37099
+
+[[zipcodes]]
+zipcode = 28707
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28717
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28719
+percent_zip_in_county = 45.56
+
+[[zipcodes]]
+zipcode = 28723
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28725
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28736
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28741
+percent_zip_in_county = 4.32
+
+[[zipcodes]]
+zipcode = 28747
+percent_zip_in_county = 0.18
+
+[[zipcodes]]
+zipcode = 28751
+percent_zip_in_county = 1.13
+
+[[zipcodes]]
+zipcode = 28774
+percent_zip_in_county = 46.89
+
+[[zipcodes]]
+zipcode = 28779
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28783
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28786
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 28789
+percent_zip_in_county = 83.72

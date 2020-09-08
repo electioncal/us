@@ -1,2 +1,58 @@
 name = "Coleman County"
 fips_code = 48083
+
+[[zipcodes]]
+zipcode = 76443
+percent_zip_in_county = 2.06
+
+[[zipcodes]]
+zipcode = 76801
+percent_zip_in_county = 0.02
+
+[[zipcodes]]
+zipcode = 76823
+percent_zip_in_county = 1.26
+
+[[zipcodes]]
+zipcode = 76828
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76834
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76845
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76873
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76878
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76882
+percent_zip_in_county = 78.57
+
+[[zipcodes]]
+zipcode = 76884
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76888
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79510
+percent_zip_in_county = 0.45
+
+[[zipcodes]]
+zipcode = 79519
+percent_zip_in_county = 62.16
+
+[[zipcodes]]
+zipcode = 79538
+percent_zip_in_county = 84.13

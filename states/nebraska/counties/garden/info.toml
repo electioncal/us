@@ -1,2 +1,26 @@
 name = "Garden County"
 fips_code = 31069
+
+[[zipcodes]]
+zipcode = 69147
+percent_zip_in_county = 63.64
+
+[[zipcodes]]
+zipcode = 69148
+percent_zip_in_county = 76.5
+
+[[zipcodes]]
+zipcode = 69149
+percent_zip_in_county = 4.86
+
+[[zipcodes]]
+zipcode = 69154
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69333
+percent_zip_in_county = 12.13
+
+[[zipcodes]]
+zipcode = 69351
+percent_zip_in_county = 28.94

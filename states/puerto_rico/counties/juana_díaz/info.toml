@@ -1,2 +1,14 @@
 name = "Juana Díaz Municipio"
 fips_code = 72075
+
+[[zipcodes]]
+zipcode = 715
+percent_zip_in_county = 25.74
+
+[[zipcodes]]
+zipcode = 780
+percent_zip_in_county = 4.46
+
+[[zipcodes]]
+zipcode = 795
+percent_zip_in_county = 100.0

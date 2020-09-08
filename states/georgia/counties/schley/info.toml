@@ -1,2 +1,10 @@
 name = "Schley County"
 fips_code = 13249
+
+[[zipcodes]]
+zipcode = 31803
+percent_zip_in_county = 1.84
+
+[[zipcodes]]
+zipcode = 31806
+percent_zip_in_county = 98.87

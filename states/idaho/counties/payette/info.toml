@@ -1,2 +1,26 @@
 name = "Payette County"
 fips_code = 16075
+
+[[zipcodes]]
+zipcode = 83607
+percent_zip_in_county = 2.44
+
+[[zipcodes]]
+zipcode = 83619
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83655
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83660
+percent_zip_in_county = 10.92
+
+[[zipcodes]]
+zipcode = 83661
+percent_zip_in_county = 99.67
+
+[[zipcodes]]
+zipcode = 97913
+percent_zip_in_county = 0.07

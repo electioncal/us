@@ -1,2 +1,54 @@
 name = "Canadian County"
 fips_code = 40017
+
+[[zipcodes]]
+zipcode = 73014
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73040
+percent_zip_in_county = 26.87
+
+[[zipcodes]]
+zipcode = 73047
+percent_zip_in_county = 17.39
+
+[[zipcodes]]
+zipcode = 73059
+percent_zip_in_county = 2.74
+
+[[zipcodes]]
+zipcode = 73064
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73078
+percent_zip_in_county = 99.67
+
+[[zipcodes]]
+zipcode = 73090
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73099
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73127
+percent_zip_in_county = 10.63
+
+[[zipcodes]]
+zipcode = 73128
+percent_zip_in_county = 62.17
+
+[[zipcodes]]
+zipcode = 73179
+percent_zip_in_county = 31.34
+
+[[zipcodes]]
+zipcode = 73762
+percent_zip_in_county = 40.63

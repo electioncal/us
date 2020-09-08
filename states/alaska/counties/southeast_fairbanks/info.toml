@@ -1,2 +1,30 @@
 name = "Southeast Fairbanks Census Area"
 fips_code = 2240
+
+[[zipcodes]]
+zipcode = 99706
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99732
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99737
+percent_zip_in_county = 99.14
+
+[[zipcodes]]
+zipcode = 99738
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99764
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99776
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99780
+percent_zip_in_county = 93.62

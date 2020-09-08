@@ -1,2 +1,30 @@
 name = "Nowata County"
 fips_code = 40105
+
+[[zipcodes]]
+zipcode = 74016
+percent_zip_in_county = 4.23
+
+[[zipcodes]]
+zipcode = 74027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74042
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74048
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74072
+percent_zip_in_county = 99.45
+
+[[zipcodes]]
+zipcode = 74083
+percent_zip_in_county = 73.71
+
+[[zipcodes]]
+zipcode = 74301
+percent_zip_in_county = 0.58

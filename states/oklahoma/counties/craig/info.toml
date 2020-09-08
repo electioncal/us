@@ -1,2 +1,38 @@
 name = "Craig County"
 fips_code = 40035
+
+[[zipcodes]]
+zipcode = 74016
+percent_zip_in_county = 2.23
+
+[[zipcodes]]
+zipcode = 74072
+percent_zip_in_county = 0.55
+
+[[zipcodes]]
+zipcode = 74301
+percent_zip_in_county = 87.8
+
+[[zipcodes]]
+zipcode = 74331
+percent_zip_in_county = 3.78
+
+[[zipcodes]]
+zipcode = 74332
+percent_zip_in_county = 44.27
+
+[[zipcodes]]
+zipcode = 74333
+percent_zip_in_county = 93.94
+
+[[zipcodes]]
+zipcode = 74349
+percent_zip_in_county = 91.82
+
+[[zipcodes]]
+zipcode = 74354
+percent_zip_in_county = 0.56
+
+[[zipcodes]]
+zipcode = 74369
+percent_zip_in_county = 100.0

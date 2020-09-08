@@ -1,2 +1,42 @@
 name = "Moore County"
 fips_code = 47127
+
+[[zipcodes]]
+zipcode = 37144
+percent_zip_in_county = 4.37
+
+[[zipcodes]]
+zipcode = 37160
+percent_zip_in_county = 0.78
+
+[[zipcodes]]
+zipcode = 37183
+percent_zip_in_county = 7.09
+
+[[zipcodes]]
+zipcode = 37306
+percent_zip_in_county = 3.33
+
+[[zipcodes]]
+zipcode = 37334
+percent_zip_in_county = 1.86
+
+[[zipcodes]]
+zipcode = 37352
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37359
+percent_zip_in_county = 35.63
+
+[[zipcodes]]
+zipcode = 37360
+percent_zip_in_county = 10.16
+
+[[zipcodes]]
+zipcode = 37388
+percent_zip_in_county = 5.69
+
+[[zipcodes]]
+zipcode = 37398
+percent_zip_in_county = 0.82

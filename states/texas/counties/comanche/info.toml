@@ -1,2 +1,54 @@
 name = "Comanche County"
 fips_code = 48093
+
+[[zipcodes]]
+zipcode = 76432
+percent_zip_in_county = 8.1
+
+[[zipcodes]]
+zipcode = 76436
+percent_zip_in_county = 34.43
+
+[[zipcodes]]
+zipcode = 76442
+percent_zip_in_county = 98.73
+
+[[zipcodes]]
+zipcode = 76444
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76445
+percent_zip_in_county = 20.64
+
+[[zipcodes]]
+zipcode = 76446
+percent_zip_in_county = 11.63
+
+[[zipcodes]]
+zipcode = 76452
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76454
+percent_zip_in_county = 8.59
+
+[[zipcodes]]
+zipcode = 76455
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76471
+percent_zip_in_county = 2.57
+
+[[zipcodes]]
+zipcode = 76474
+percent_zip_in_county = 98.22
+
+[[zipcodes]]
+zipcode = 76857
+percent_zip_in_county = 0.56
+
+[[zipcodes]]
+zipcode = 76890
+percent_zip_in_county = 0.64

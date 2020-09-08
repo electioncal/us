@@ -1,2 +1,70 @@
 name = "Wicomico County"
 fips_code = 24045
+
+[[zipcodes]]
+zipcode = 21801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21802
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21804
+percent_zip_in_county = 99.28
+
+[[zipcodes]]
+zipcode = 21810
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21814
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21822
+percent_zip_in_county = 40.57
+
+[[zipcodes]]
+zipcode = 21826
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21830
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21837
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21840
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21849
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21850
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21856
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21861
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21865
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21874
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21875
+percent_zip_in_county = 100.0

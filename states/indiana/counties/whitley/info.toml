@@ -1,2 +1,38 @@
 name = "Whitley County"
 fips_code = 18183
+
+[[zipcodes]]
+zipcode = 46562
+percent_zip_in_county = 5.68
+
+[[zipcodes]]
+zipcode = 46723
+percent_zip_in_county = 60.95
+
+[[zipcodes]]
+zipcode = 46725
+percent_zip_in_county = 96.75
+
+[[zipcodes]]
+zipcode = 46750
+percent_zip_in_county = 0.12
+
+[[zipcodes]]
+zipcode = 46764
+percent_zip_in_county = 88.71
+
+[[zipcodes]]
+zipcode = 46783
+percent_zip_in_county = 8.27
+
+[[zipcodes]]
+zipcode = 46787
+percent_zip_in_county = 95.71
+
+[[zipcodes]]
+zipcode = 46818
+percent_zip_in_county = 1.85
+
+[[zipcodes]]
+zipcode = 46962
+percent_zip_in_county = 0.39

@@ -1,2 +1,78 @@
 name = "Richland County"
 fips_code = 39139
+
+[[zipcodes]]
+zipcode = 43019
+percent_zip_in_county = 0.92
+
+[[zipcodes]]
+zipcode = 44805
+percent_zip_in_county = 1.31
+
+[[zipcodes]]
+zipcode = 44813
+percent_zip_in_county = 86.54
+
+[[zipcodes]]
+zipcode = 44822
+percent_zip_in_county = 68.83
+
+[[zipcodes]]
+zipcode = 44827
+percent_zip_in_county = 9.78
+
+[[zipcodes]]
+zipcode = 44833
+percent_zip_in_county = 2.42
+
+[[zipcodes]]
+zipcode = 44837
+percent_zip_in_county = 21.07
+
+[[zipcodes]]
+zipcode = 44843
+percent_zip_in_county = 98.62
+
+[[zipcodes]]
+zipcode = 44864
+percent_zip_in_county = 21.69
+
+[[zipcodes]]
+zipcode = 44865
+percent_zip_in_county = 48.14
+
+[[zipcodes]]
+zipcode = 44875
+percent_zip_in_county = 99.34
+
+[[zipcodes]]
+zipcode = 44878
+percent_zip_in_county = 95.68
+
+[[zipcodes]]
+zipcode = 44901
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44902
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44903
+percent_zip_in_county = 98.41
+
+[[zipcodes]]
+zipcode = 44904
+percent_zip_in_county = 90.63
+
+[[zipcodes]]
+zipcode = 44905
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44906
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44907
+percent_zip_in_county = 100.0

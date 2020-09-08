@@ -1,2 +1,22 @@
 name = "Claiborne County"
 fips_code = 28021
+
+[[zipcodes]]
+zipcode = 39086
+percent_zip_in_county = 86.61
+
+[[zipcodes]]
+zipcode = 39096
+percent_zip_in_county = 56.03
+
+[[zipcodes]]
+zipcode = 39144
+percent_zip_in_county = 84.54
+
+[[zipcodes]]
+zipcode = 39150
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39175
+percent_zip_in_county = 4.77

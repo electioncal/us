@@ -1,2 +1,10 @@
 name = "San Juan County"
 fips_code = 8111
+
+[[zipcodes]]
+zipcode = 81301
+percent_zip_in_county = 0.14
+
+[[zipcodes]]
+zipcode = 81433
+percent_zip_in_county = 100.0

@@ -1,2 +1,26 @@
 name = "Wayne County"
 fips_code = 13305
+
+[[zipcodes]]
+zipcode = 31518
+percent_zip_in_county = 13.49
+
+[[zipcodes]]
+zipcode = 31543
+percent_zip_in_county = 6.17
+
+[[zipcodes]]
+zipcode = 31545
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31546
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31555
+percent_zip_in_county = 91.98
+
+[[zipcodes]]
+zipcode = 31560
+percent_zip_in_county = 100.0

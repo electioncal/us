@@ -1,2 +1,38 @@
 name = "Bayamón Municipio"
 fips_code = 72021
+
+[[zipcodes]]
+zipcode = 934
+percent_zip_in_county = 42.01
+
+[[zipcodes]]
+zipcode = 956
+percent_zip_in_county = 99.8
+
+[[zipcodes]]
+zipcode = 957
+percent_zip_in_county = 97.07
+
+[[zipcodes]]
+zipcode = 959
+percent_zip_in_county = 97.64
+
+[[zipcodes]]
+zipcode = 960
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 961
+percent_zip_in_county = 98.88
+
+[[zipcodes]]
+zipcode = 966
+percent_zip_in_county = 3.12
+
+[[zipcodes]]
+zipcode = 969
+percent_zip_in_county = 1.6
+
+[[zipcodes]]
+zipcode = 971
+percent_zip_in_county = 0.33

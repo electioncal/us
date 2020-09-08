@@ -1,2 +1,38 @@
 name = "Pickens County"
 fips_code = 13227
+
+[[zipcodes]]
+zipcode = 30107
+percent_zip_in_county = 12.11
+
+[[zipcodes]]
+zipcode = 30139
+percent_zip_in_county = 22.52
+
+[[zipcodes]]
+zipcode = 30143
+percent_zip_in_county = 97.09
+
+[[zipcodes]]
+zipcode = 30148
+percent_zip_in_county = 64.24
+
+[[zipcodes]]
+zipcode = 30175
+percent_zip_in_county = 75.6
+
+[[zipcodes]]
+zipcode = 30177
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30183
+percent_zip_in_county = 0.09
+
+[[zipcodes]]
+zipcode = 30534
+percent_zip_in_county = 0.03
+
+[[zipcodes]]
+zipcode = 30734
+percent_zip_in_county = 15.23

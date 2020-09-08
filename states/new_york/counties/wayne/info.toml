@@ -1,2 +1,78 @@
 name = "Wayne County"
 fips_code = 36117
+
+[[zipcodes]]
+zipcode = 13143
+percent_zip_in_county = 66.59
+
+[[zipcodes]]
+zipcode = 13146
+percent_zip_in_county = 96.48
+
+[[zipcodes]]
+zipcode = 13156
+percent_zip_in_county = 4.2
+
+[[zipcodes]]
+zipcode = 14433
+percent_zip_in_county = 94.77
+
+[[zipcodes]]
+zipcode = 14450
+percent_zip_in_county = 0.05
+
+[[zipcodes]]
+zipcode = 14489
+percent_zip_in_county = 97.39
+
+[[zipcodes]]
+zipcode = 14502
+percent_zip_in_county = 98.31
+
+[[zipcodes]]
+zipcode = 14505
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14513
+percent_zip_in_county = 97.67
+
+[[zipcodes]]
+zipcode = 14516
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14519
+percent_zip_in_county = 97.47
+
+[[zipcodes]]
+zipcode = 14522
+percent_zip_in_county = 90.47
+
+[[zipcodes]]
+zipcode = 14542
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14551
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14555
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14568
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14580
+percent_zip_in_county = 0.15
+
+[[zipcodes]]
+zipcode = 14589
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14590
+percent_zip_in_county = 100.0

@@ -1,2 +1,22 @@
 name = "Brule County"
 fips_code = 46015
+
+[[zipcodes]]
+zipcode = 57325
+percent_zip_in_county = 98.43
+
+[[zipcodes]]
+zipcode = 57355
+percent_zip_in_county = 96.3
+
+[[zipcodes]]
+zipcode = 57369
+percent_zip_in_county = 11.26
+
+[[zipcodes]]
+zipcode = 57370
+percent_zip_in_county = 81.08
+
+[[zipcodes]]
+zipcode = 57383
+percent_zip_in_county = 0.82

@@ -1,2 +1,38 @@
 name = "Bradford County"
 fips_code = 12007
+
+[[zipcodes]]
+zipcode = 32026
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32044
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32054
+percent_zip_in_county = 4.18
+
+[[zipcodes]]
+zipcode = 32058
+percent_zip_in_county = 96.15
+
+[[zipcodes]]
+zipcode = 32083
+percent_zip_in_county = 28.61
+
+[[zipcodes]]
+zipcode = 32091
+percent_zip_in_county = 97.12
+
+[[zipcodes]]
+zipcode = 32622
+percent_zip_in_county = 76.28
+
+[[zipcodes]]
+zipcode = 32656
+percent_zip_in_county = 9.38
+
+[[zipcodes]]
+zipcode = 32666
+percent_zip_in_county = 18.1

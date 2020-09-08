@@ -1,2 +1,22 @@
 name = "Georgetown County"
 fips_code = 45043
+
+[[zipcodes]]
+zipcode = 29440
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29510
+percent_zip_in_county = 59.22
+
+[[zipcodes]]
+zipcode = 29554
+percent_zip_in_county = 39.31
+
+[[zipcodes]]
+zipcode = 29576
+percent_zip_in_county = 32.17
+
+[[zipcodes]]
+zipcode = 29585
+percent_zip_in_county = 100.0

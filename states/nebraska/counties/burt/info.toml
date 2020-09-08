@@ -1,2 +1,30 @@
 name = "Burt County"
 fips_code = 31021
+
+[[zipcodes]]
+zipcode = 51557
+percent_zip_in_county = 4.58
+
+[[zipcodes]]
+zipcode = 68019
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68020
+percent_zip_in_county = 96.13
+
+[[zipcodes]]
+zipcode = 68029
+percent_zip_in_county = 8.68
+
+[[zipcodes]]
+zipcode = 68038
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68045
+percent_zip_in_county = 93.61
+
+[[zipcodes]]
+zipcode = 68061
+percent_zip_in_county = 100.0

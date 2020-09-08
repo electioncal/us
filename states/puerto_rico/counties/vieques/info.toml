@@ -1,2 +1,6 @@
 name = "Vieques Municipio"
 fips_code = 72147
+
+[[zipcodes]]
+zipcode = 765
+percent_zip_in_county = 100.0

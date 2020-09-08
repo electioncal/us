@@ -1,2 +1,6 @@
 name = "Juncos Municipio"
 fips_code = 72077
+
+[[zipcodes]]
+zipcode = 777
+percent_zip_in_county = 99.03

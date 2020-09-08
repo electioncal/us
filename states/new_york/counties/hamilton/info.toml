@@ -1,2 +1,54 @@
 name = "Hamilton County"
 fips_code = 36041
+
+[[zipcodes]]
+zipcode = 12032
+percent_zip_in_county = 1.08
+
+[[zipcodes]]
+zipcode = 12108
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12134
+percent_zip_in_county = 16.92
+
+[[zipcodes]]
+zipcode = 12139
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12164
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12190
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12812
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12842
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12847
+percent_zip_in_county = 99.67
+
+[[zipcodes]]
+zipcode = 12864
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13353
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13360
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13436
+percent_zip_in_county = 100.0

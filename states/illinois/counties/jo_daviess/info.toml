@@ -1,2 +1,58 @@
 name = "Jo Daviess County"
 fips_code = 17085
+
+[[zipcodes]]
+zipcode = 61001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61028
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61044
+percent_zip_in_county = 22.84
+
+[[zipcodes]]
+zipcode = 61048
+percent_zip_in_county = 2.0
+
+[[zipcodes]]
+zipcode = 61053
+percent_zip_in_county = 3.26
+
+[[zipcodes]]
+zipcode = 61059
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61062
+percent_zip_in_county = 1.61
+
+[[zipcodes]]
+zipcode = 61074
+percent_zip_in_county = 0.59
+
+[[zipcodes]]
+zipcode = 61075
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61085
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61087
+percent_zip_in_county = 99.52

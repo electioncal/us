@@ -1,2 +1,46 @@
 name = "Chesterfield County"
 fips_code = 45025
+
+[[zipcodes]]
+zipcode = 29009
+percent_zip_in_county = 4.75
+
+[[zipcodes]]
+zipcode = 29101
+percent_zip_in_county = 81.11
+
+[[zipcodes]]
+zipcode = 29520
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29550
+percent_zip_in_county = 6.92
+
+[[zipcodes]]
+zipcode = 29584
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29593
+percent_zip_in_county = 31.37
+
+[[zipcodes]]
+zipcode = 29709
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29718
+percent_zip_in_county = 93.57
+
+[[zipcodes]]
+zipcode = 29727
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29728
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29741
+percent_zip_in_county = 100.0

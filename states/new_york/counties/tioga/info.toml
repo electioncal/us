@@ -1,2 +1,66 @@
 name = "Tioga County"
 fips_code = 36107
+
+[[zipcodes]]
+zipcode = 13732
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13734
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13736
+percent_zip_in_county = 84.94
+
+[[zipcodes]]
+zipcode = 13743
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13760
+percent_zip_in_county = 7.94
+
+[[zipcodes]]
+zipcode = 13811
+percent_zip_in_county = 92.93
+
+[[zipcodes]]
+zipcode = 13812
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13827
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13835
+percent_zip_in_county = 51.69
+
+[[zipcodes]]
+zipcode = 13845
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13864
+percent_zip_in_county = 73.46
+
+[[zipcodes]]
+zipcode = 14817
+percent_zip_in_county = 4.41
+
+[[zipcodes]]
+zipcode = 14859
+percent_zip_in_county = 69.58
+
+[[zipcodes]]
+zipcode = 14883
+percent_zip_in_county = 78.7
+
+[[zipcodes]]
+zipcode = 14889
+percent_zip_in_county = 0.63
+
+[[zipcodes]]
+zipcode = 14892
+percent_zip_in_county = 90.77

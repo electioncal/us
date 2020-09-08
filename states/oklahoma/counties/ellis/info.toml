@@ -1,2 +1,34 @@
 name = "Ellis County"
 fips_code = 40045
+
+[[zipcodes]]
+zipcode = 73832
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73840
+percent_zip_in_county = 82.2
+
+[[zipcodes]]
+zipcode = 73841
+percent_zip_in_county = 2.97
+
+[[zipcodes]]
+zipcode = 73843
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73848
+percent_zip_in_county = 0.23
+
+[[zipcodes]]
+zipcode = 73851
+percent_zip_in_county = 22.5
+
+[[zipcodes]]
+zipcode = 73858
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73859
+percent_zip_in_county = 2.6

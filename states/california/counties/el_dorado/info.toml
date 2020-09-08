@@ -1,2 +1,94 @@
 name = "El Dorado County"
 fips_code = 6017
+
+[[zipcodes]]
+zipcode = 95614
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95619
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95623
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95629
+percent_zip_in_county = 21.75
+
+[[zipcodes]]
+zipcode = 95633
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95634
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95635
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95636
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95651
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95664
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95667
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95672
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95682
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95684
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95709
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95720
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95721
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95726
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95735
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95762
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96142
+percent_zip_in_county = 89.39
+
+[[zipcodes]]
+zipcode = 96150
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96155
+percent_zip_in_county = 100.0

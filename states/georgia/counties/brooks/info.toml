@@ -1,2 +1,34 @@
 name = "Brooks County"
 fips_code = 13027
+
+[[zipcodes]]
+zipcode = 31602
+percent_zip_in_county = 8.0
+
+[[zipcodes]]
+zipcode = 31625
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31626
+percent_zip_in_county = 7.05
+
+[[zipcodes]]
+zipcode = 31629
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31638
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31643
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31720
+percent_zip_in_county = 47.25
+
+[[zipcodes]]
+zipcode = 31778
+percent_zip_in_county = 46.06

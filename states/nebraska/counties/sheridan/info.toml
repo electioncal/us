@@ -1,2 +1,38 @@
 name = "Sheridan County"
 fips_code = 31161
+
+[[zipcodes]]
+zipcode = 69301
+percent_zip_in_county = 1.34
+
+[[zipcodes]]
+zipcode = 69335
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69337
+percent_zip_in_county = 0.34
+
+[[zipcodes]]
+zipcode = 69340
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69343
+percent_zip_in_county = 93.7
+
+[[zipcodes]]
+zipcode = 69347
+percent_zip_in_county = 94.8
+
+[[zipcodes]]
+zipcode = 69351
+percent_zip_in_county = 71.06
+
+[[zipcodes]]
+zipcode = 69360
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69365
+percent_zip_in_county = 100.0

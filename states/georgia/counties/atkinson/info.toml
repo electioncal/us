@@ -1,2 +1,22 @@
 name = "Atkinson County"
 fips_code = 13003
+
+[[zipcodes]]
+zipcode = 31552
+percent_zip_in_county = 5.26
+
+[[zipcodes]]
+zipcode = 31624
+percent_zip_in_county = 91.52
+
+[[zipcodes]]
+zipcode = 31635
+percent_zip_in_county = 0.43
+
+[[zipcodes]]
+zipcode = 31642
+percent_zip_in_county = 99.88
+
+[[zipcodes]]
+zipcode = 31650
+percent_zip_in_county = 67.68

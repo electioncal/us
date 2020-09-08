@@ -1,2 +1,30 @@
 name = "DeWitt County"
 fips_code = 48123
+
+[[zipcodes]]
+zipcode = 77954
+percent_zip_in_county = 99.86
+
+[[zipcodes]]
+zipcode = 77974
+percent_zip_in_county = 42.86
+
+[[zipcodes]]
+zipcode = 77994
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77995
+percent_zip_in_county = 40.25
+
+[[zipcodes]]
+zipcode = 78141
+percent_zip_in_county = 99.16
+
+[[zipcodes]]
+zipcode = 78164
+percent_zip_in_county = 95.39
+
+[[zipcodes]]
+zipcode = 78629
+percent_zip_in_county = 0.24

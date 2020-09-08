@@ -1,2 +1,26 @@
 name = "New Kent County"
 fips_code = 51127
+
+[[zipcodes]]
+zipcode = 23011
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23089
+percent_zip_in_county = 65.08
+
+[[zipcodes]]
+zipcode = 23124
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23140
+percent_zip_in_county = 65.78
+
+[[zipcodes]]
+zipcode = 23141
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23181
+percent_zip_in_county = 13.67

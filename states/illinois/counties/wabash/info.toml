@@ -1,2 +1,30 @@
 name = "Wabash County"
 fips_code = 17185
+
+[[zipcodes]]
+zipcode = 62410
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62460
+percent_zip_in_county = 2.03
+
+[[zipcodes]]
+zipcode = 62476
+percent_zip_in_county = 12.23
+
+[[zipcodes]]
+zipcode = 62811
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62818
+percent_zip_in_county = 21.82
+
+[[zipcodes]]
+zipcode = 62852
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62863
+percent_zip_in_county = 100.0

@@ -1,2 +1,22 @@
 name = "Morton County"
 fips_code = 20129
+
+[[zipcodes]]
+zipcode = 67855
+percent_zip_in_county = 0.81
+
+[[zipcodes]]
+zipcode = 67862
+percent_zip_in_county = 5.63
+
+[[zipcodes]]
+zipcode = 67950
+percent_zip_in_county = 94.29
+
+[[zipcodes]]
+zipcode = 67953
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67954
+percent_zip_in_county = 97.43

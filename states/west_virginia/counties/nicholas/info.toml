@@ -1,2 +1,98 @@
 name = "Nicholas County"
 fips_code = 54067
+
+[[zipcodes]]
+zipcode = 25043
+percent_zip_in_county = 3.07
+
+[[zipcodes]]
+zipcode = 25059
+percent_zip_in_county = 43.07
+
+[[zipcodes]]
+zipcode = 25063
+percent_zip_in_county = 2.73
+
+[[zipcodes]]
+zipcode = 25111
+percent_zip_in_county = 19.88
+
+[[zipcodes]]
+zipcode = 25125
+percent_zip_in_county = 11.47
+
+[[zipcodes]]
+zipcode = 25981
+percent_zip_in_county = 21.87
+
+[[zipcodes]]
+zipcode = 26202
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26205
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26208
+percent_zip_in_county = 1.75
+
+[[zipcodes]]
+zipcode = 26261
+percent_zip_in_county = 97.3
+
+[[zipcodes]]
+zipcode = 26610
+percent_zip_in_county = 96.42
+
+[[zipcodes]]
+zipcode = 26617
+percent_zip_in_county = 26.74
+
+[[zipcodes]]
+zipcode = 26651
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26656
+percent_zip_in_county = 89.53
+
+[[zipcodes]]
+zipcode = 26660
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26662
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26676
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26678
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26679
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26680
+percent_zip_in_county = 23.82
+
+[[zipcodes]]
+zipcode = 26681
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26684
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26690
+percent_zip_in_county = 45.38
+
+[[zipcodes]]
+zipcode = 26691
+percent_zip_in_county = 85.85

@@ -1,2 +1,42 @@
 name = "Jack County"
 fips_code = 48237
+
+[[zipcodes]]
+zipcode = 76230
+percent_zip_in_county = 2.62
+
+[[zipcodes]]
+zipcode = 76365
+percent_zip_in_county = 0.58
+
+[[zipcodes]]
+zipcode = 76389
+percent_zip_in_county = 4.74
+
+[[zipcodes]]
+zipcode = 76426
+percent_zip_in_county = 3.06
+
+[[zipcodes]]
+zipcode = 76427
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76431
+percent_zip_in_county = 1.65
+
+[[zipcodes]]
+zipcode = 76458
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76459
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76486
+percent_zip_in_county = 69.09
+
+[[zipcodes]]
+zipcode = 76487
+percent_zip_in_county = 5.42

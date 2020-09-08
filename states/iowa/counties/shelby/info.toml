@@ -1,2 +1,74 @@
 name = "Shelby County"
 fips_code = 19165
+
+[[zipcodes]]
+zipcode = 50022
+percent_zip_in_county = 0.28
+
+[[zipcodes]]
+zipcode = 51446
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51447
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51454
+percent_zip_in_county = 18.13
+
+[[zipcodes]]
+zipcode = 51455
+percent_zip_in_county = 0.48
+
+[[zipcodes]]
+zipcode = 51521
+percent_zip_in_county = 7.42
+
+[[zipcodes]]
+zipcode = 51527
+percent_zip_in_county = 91.51
+
+[[zipcodes]]
+zipcode = 51529
+percent_zip_in_county = 4.91
+
+[[zipcodes]]
+zipcode = 51530
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51531
+percent_zip_in_county = 91.03
+
+[[zipcodes]]
+zipcode = 51537
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51543
+percent_zip_in_county = 9.89
+
+[[zipcodes]]
+zipcode = 51552
+percent_zip_in_county = 21.59
+
+[[zipcodes]]
+zipcode = 51562
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51565
+percent_zip_in_county = 87.23
+
+[[zipcodes]]
+zipcode = 51570
+percent_zip_in_county = 78.44
+
+[[zipcodes]]
+zipcode = 51577
+percent_zip_in_county = 12.92
+
+[[zipcodes]]
+zipcode = 51578
+percent_zip_in_county = 100.0

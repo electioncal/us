@@ -1,2 +1,70 @@
 name = "Giles County"
 fips_code = 47055
+
+[[zipcodes]]
+zipcode = 37047
+percent_zip_in_county = 11.9
+
+[[zipcodes]]
+zipcode = 37144
+percent_zip_in_county = 1.44
+
+[[zipcodes]]
+zipcode = 38449
+percent_zip_in_county = 52.69
+
+[[zipcodes]]
+zipcode = 38451
+percent_zip_in_county = 1.74
+
+[[zipcodes]]
+zipcode = 38453
+percent_zip_in_county = 25.2
+
+[[zipcodes]]
+zipcode = 38455
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38456
+percent_zip_in_county = 15.71
+
+[[zipcodes]]
+zipcode = 38459
+percent_zip_in_county = 27.15
+
+[[zipcodes]]
+zipcode = 38460
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38464
+percent_zip_in_county = 2.26
+
+[[zipcodes]]
+zipcode = 38468
+percent_zip_in_county = 3.29
+
+[[zipcodes]]
+zipcode = 38472
+percent_zip_in_county = 97.74
+
+[[zipcodes]]
+zipcode = 38473
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38474
+percent_zip_in_county = 1.06
+
+[[zipcodes]]
+zipcode = 38477
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38478
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38483
+percent_zip_in_county = 1.92

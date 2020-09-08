@@ -1,2 +1,42 @@
 name = "Elk County"
 fips_code = 20049
+
+[[zipcodes]]
+zipcode = 66736
+percent_zip_in_county = 0.73
+
+[[zipcodes]]
+zipcode = 67047
+percent_zip_in_county = 11.76
+
+[[zipcodes]]
+zipcode = 67122
+percent_zip_in_county = 28.05
+
+[[zipcodes]]
+zipcode = 67137
+percent_zip_in_county = 7.89
+
+[[zipcodes]]
+zipcode = 67344
+percent_zip_in_county = 3.19
+
+[[zipcodes]]
+zipcode = 67345
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67346
+percent_zip_in_county = 84.68
+
+[[zipcodes]]
+zipcode = 67349
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67352
+percent_zip_in_county = 98.48
+
+[[zipcodes]]
+zipcode = 67353
+percent_zip_in_county = 91.58

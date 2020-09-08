@@ -1,2 +1,54 @@
 name = "Henderson County"
 fips_code = 47077
+
+[[zipcodes]]
+zipcode = 38313
+percent_zip_in_county = 21.0
+
+[[zipcodes]]
+zipcode = 38321
+percent_zip_in_county = 36.69
+
+[[zipcodes]]
+zipcode = 38328
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38329
+percent_zip_in_county = 2.33
+
+[[zipcodes]]
+zipcode = 38345
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38351
+percent_zip_in_county = 99.86
+
+[[zipcodes]]
+zipcode = 38352
+percent_zip_in_county = 21.86
+
+[[zipcodes]]
+zipcode = 38363
+percent_zip_in_county = 0.97
+
+[[zipcodes]]
+zipcode = 38368
+percent_zip_in_county = 76.22
+
+[[zipcodes]]
+zipcode = 38371
+percent_zip_in_county = 75.22
+
+[[zipcodes]]
+zipcode = 38374
+percent_zip_in_county = 56.77
+
+[[zipcodes]]
+zipcode = 38388
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38390
+percent_zip_in_county = 12.9

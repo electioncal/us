@@ -1,2 +1,86 @@
 name = "Sanilac County"
 fips_code = 26151
+
+[[zipcodes]]
+zipcode = 48032
+percent_zip_in_county = 18.56
+
+[[zipcodes]]
+zipcode = 48097
+percent_zip_in_county = 11.07
+
+[[zipcodes]]
+zipcode = 48401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48416
+percent_zip_in_county = 62.2
+
+[[zipcodes]]
+zipcode = 48419
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48422
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48426
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48427
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48434
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48441
+percent_zip_in_county = 1.13
+
+[[zipcodes]]
+zipcode = 48450
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48453
+percent_zip_in_county = 89.9
+
+[[zipcodes]]
+zipcode = 48454
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48456
+percent_zip_in_county = 85.9
+
+[[zipcodes]]
+zipcode = 48465
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48466
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48469
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48471
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48472
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48475
+percent_zip_in_county = 33.26
+
+[[zipcodes]]
+zipcode = 48726
+percent_zip_in_county = 13.56

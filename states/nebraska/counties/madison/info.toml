@@ -1,2 +1,34 @@
 name = "Madison County"
 fips_code = 31119
+
+[[zipcodes]]
+zipcode = 68642
+percent_zip_in_county = 5.35
+
+[[zipcodes]]
+zipcode = 68644
+percent_zip_in_county = 11.79
+
+[[zipcodes]]
+zipcode = 68701
+percent_zip_in_county = 90.03
+
+[[zipcodes]]
+zipcode = 68715
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68748
+percent_zip_in_county = 96.5
+
+[[zipcodes]]
+zipcode = 68752
+percent_zip_in_county = 93.92
+
+[[zipcodes]]
+zipcode = 68758
+percent_zip_in_county = 80.84
+
+[[zipcodes]]
+zipcode = 68781
+percent_zip_in_county = 57.85

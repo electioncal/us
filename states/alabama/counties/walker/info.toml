@@ -1,2 +1,74 @@
 name = "Walker County"
 fips_code = 1127
+
+[[zipcodes]]
+zipcode = 35006
+percent_zip_in_county = 1.35
+
+[[zipcodes]]
+zipcode = 35033
+percent_zip_in_county = 9.11
+
+[[zipcodes]]
+zipcode = 35062
+percent_zip_in_county = 32.11
+
+[[zipcodes]]
+zipcode = 35063
+percent_zip_in_county = 82.75
+
+[[zipcodes]]
+zipcode = 35130
+percent_zip_in_county = 61.92
+
+[[zipcodes]]
+zipcode = 35148
+percent_zip_in_county = 99.3
+
+[[zipcodes]]
+zipcode = 35501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35503
+percent_zip_in_county = 95.69
+
+[[zipcodes]]
+zipcode = 35504
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35546
+percent_zip_in_county = 3.33
+
+[[zipcodes]]
+zipcode = 35549
+percent_zip_in_county = 92.35
+
+[[zipcodes]]
+zipcode = 35550
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35554
+percent_zip_in_county = 38.28
+
+[[zipcodes]]
+zipcode = 35578
+percent_zip_in_county = 84.74
+
+[[zipcodes]]
+zipcode = 35579
+percent_zip_in_county = 99.55
+
+[[zipcodes]]
+zipcode = 35580
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35584
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35587
+percent_zip_in_county = 100.0

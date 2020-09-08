@@ -1,2 +1,22 @@
 name = "Kodiak Island Borough"
 fips_code = 2150
+
+[[zipcodes]]
+zipcode = 99550
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99615
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99624
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99643
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99644
+percent_zip_in_county = 100.0

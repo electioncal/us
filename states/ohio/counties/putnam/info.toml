@@ -1,2 +1,58 @@
 name = "Putnam County"
 fips_code = 39137
+
+[[zipcodes]]
+zipcode = 43548
+percent_zip_in_county = 1.57
+
+[[zipcodes]]
+zipcode = 45817
+percent_zip_in_county = 0.73
+
+[[zipcodes]]
+zipcode = 45827
+percent_zip_in_county = 91.64
+
+[[zipcodes]]
+zipcode = 45830
+percent_zip_in_county = 79.38
+
+[[zipcodes]]
+zipcode = 45831
+percent_zip_in_county = 99.37
+
+[[zipcodes]]
+zipcode = 45833
+percent_zip_in_county = 3.65
+
+[[zipcodes]]
+zipcode = 45844
+percent_zip_in_county = 96.74
+
+[[zipcodes]]
+zipcode = 45849
+percent_zip_in_county = 1.56
+
+[[zipcodes]]
+zipcode = 45853
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45856
+percent_zip_in_county = 98.44
+
+[[zipcodes]]
+zipcode = 45864
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45875
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45876
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45877
+percent_zip_in_county = 95.28

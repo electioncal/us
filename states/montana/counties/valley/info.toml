@@ -1,2 +1,50 @@
 name = "Valley County"
 fips_code = 30105
+
+[[zipcodes]]
+zipcode = 59201
+percent_zip_in_county = 3.25
+
+[[zipcodes]]
+zipcode = 59223
+percent_zip_in_county = 85.16
+
+[[zipcodes]]
+zipcode = 59225
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59230
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59231
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59240
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59241
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59244
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59248
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59250
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59260
+percent_zip_in_county = 73.64
+
+[[zipcodes]]
+zipcode = 59261
+percent_zip_in_county = 7.5

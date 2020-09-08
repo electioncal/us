@@ -1,2 +1,58 @@
 name = "Carroll County"
 fips_code = 19027
+
+[[zipcodes]]
+zipcode = 50058
+percent_zip_in_county = 82.67
+
+[[zipcodes]]
+zipcode = 51401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51430
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51436
+percent_zip_in_county = 84.73
+
+[[zipcodes]]
+zipcode = 51440
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51443
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51444
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51449
+percent_zip_in_county = 2.77
+
+[[zipcodes]]
+zipcode = 51451
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51453
+percent_zip_in_county = 6.91
+
+[[zipcodes]]
+zipcode = 51455
+percent_zip_in_county = 83.82
+
+[[zipcodes]]
+zipcode = 51459
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51463
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51467
+percent_zip_in_county = 15.61

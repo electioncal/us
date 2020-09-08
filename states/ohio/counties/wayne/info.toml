@@ -1,2 +1,90 @@
 name = "Wayne County"
 fips_code = 39169
+
+[[zipcodes]]
+zipcode = 44214
+percent_zip_in_county = 90.13
+
+[[zipcodes]]
+zipcode = 44217
+percent_zip_in_county = 92.44
+
+[[zipcodes]]
+zipcode = 44230
+percent_zip_in_county = 98.09
+
+[[zipcodes]]
+zipcode = 44270
+percent_zip_in_county = 92.64
+
+[[zipcodes]]
+zipcode = 44273
+percent_zip_in_county = 1.12
+
+[[zipcodes]]
+zipcode = 44276
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44287
+percent_zip_in_county = 60.09
+
+[[zipcodes]]
+zipcode = 44606
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44611
+percent_zip_in_county = 4.54
+
+[[zipcodes]]
+zipcode = 44618
+percent_zip_in_county = 92.42
+
+[[zipcodes]]
+zipcode = 44624
+percent_zip_in_county = 10.93
+
+[[zipcodes]]
+zipcode = 44627
+percent_zip_in_county = 56.14
+
+[[zipcodes]]
+zipcode = 44638
+percent_zip_in_county = 4.94
+
+[[zipcodes]]
+zipcode = 44645
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44659
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44662
+percent_zip_in_county = 6.49
+
+[[zipcodes]]
+zipcode = 44666
+percent_zip_in_county = 15.57
+
+[[zipcodes]]
+zipcode = 44667
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44676
+percent_zip_in_county = 76.79
+
+[[zipcodes]]
+zipcode = 44677
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44691
+percent_zip_in_county = 99.9
+
+[[zipcodes]]
+zipcode = 44840
+percent_zip_in_county = 0.79

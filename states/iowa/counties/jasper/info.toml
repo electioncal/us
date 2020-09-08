@@ -1,2 +1,74 @@
 name = "Jasper County"
 fips_code = 19099
+
+[[zipcodes]]
+zipcode = 50028
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50054
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50055
+percent_zip_in_county = 15.12
+
+[[zipcodes]]
+zipcode = 50106
+percent_zip_in_county = 9.34
+
+[[zipcodes]]
+zipcode = 50112
+percent_zip_in_county = 7.09
+
+[[zipcodes]]
+zipcode = 50127
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50135
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50141
+percent_zip_in_county = 17.75
+
+[[zipcodes]]
+zipcode = 50153
+percent_zip_in_county = 94.28
+
+[[zipcodes]]
+zipcode = 50168
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50169
+percent_zip_in_county = 9.41
+
+[[zipcodes]]
+zipcode = 50170
+percent_zip_in_county = 89.84
+
+[[zipcodes]]
+zipcode = 50208
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50228
+percent_zip_in_county = 99.38
+
+[[zipcodes]]
+zipcode = 50232
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50234
+percent_zip_in_county = 8.97
+
+[[zipcodes]]
+zipcode = 50237
+percent_zip_in_county = 1.45
+
+[[zipcodes]]
+zipcode = 50251
+percent_zip_in_county = 100.0

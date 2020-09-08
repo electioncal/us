@@ -1,2 +1,46 @@
 name = "Mason County"
 fips_code = 17125
+
+[[zipcodes]]
+zipcode = 61532
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61546
+percent_zip_in_county = 55.82
+
+[[zipcodes]]
+zipcode = 61567
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62617
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62627
+percent_zip_in_county = 24.8
+
+[[zipcodes]]
+zipcode = 62633
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62644
+percent_zip_in_county = 97.47
+
+[[zipcodes]]
+zipcode = 62655
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62664
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62671
+percent_zip_in_county = 6.29
+
+[[zipcodes]]
+zipcode = 62682
+percent_zip_in_county = 62.95

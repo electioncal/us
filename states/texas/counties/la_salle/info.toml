@@ -1,2 +1,22 @@
 name = "La Salle County"
 fips_code = 48283
+
+[[zipcodes]]
+zipcode = 78001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78014
+percent_zip_in_county = 99.58
+
+[[zipcodes]]
+zipcode = 78017
+percent_zip_in_county = 0.9
+
+[[zipcodes]]
+zipcode = 78019
+percent_zip_in_county = 93.32
+
+[[zipcodes]]
+zipcode = 78021
+percent_zip_in_county = 84.92

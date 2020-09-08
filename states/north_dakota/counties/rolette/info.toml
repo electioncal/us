@@ -1,2 +1,38 @@
 name = "Rolette County"
 fips_code = 38079
+
+[[zipcodes]]
+zipcode = 58316
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58329
+percent_zip_in_county = 97.74
+
+[[zipcodes]]
+zipcode = 58353
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58363
+percent_zip_in_county = 14.46
+
+[[zipcodes]]
+zipcode = 58366
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58367
+percent_zip_in_county = 99.3
+
+[[zipcodes]]
+zipcode = 58369
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58384
+percent_zip_in_county = 7.29
+
+[[zipcodes]]
+zipcode = 58385
+percent_zip_in_county = 6.67

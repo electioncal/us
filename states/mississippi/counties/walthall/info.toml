@@ -1,2 +1,22 @@
 name = "Walthall County"
 fips_code = 28147
+
+[[zipcodes]]
+zipcode = 39478
+percent_zip_in_county = 44.89
+
+[[zipcodes]]
+zipcode = 39483
+percent_zip_in_county = 1.16
+
+[[zipcodes]]
+zipcode = 39641
+percent_zip_in_county = 45.68
+
+[[zipcodes]]
+zipcode = 39643
+percent_zip_in_county = 20.42
+
+[[zipcodes]]
+zipcode = 39667
+percent_zip_in_county = 94.01

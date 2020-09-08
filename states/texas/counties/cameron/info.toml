@@ -1,2 +1,70 @@
 name = "Cameron County"
 fips_code = 48061
+
+[[zipcodes]]
+zipcode = 78520
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78521
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78526
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78535
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78550
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78552
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78559
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78566
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78567
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78569
+percent_zip_in_county = 1.44
+
+[[zipcodes]]
+zipcode = 78575
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78578
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78583
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78586
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78592
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78593
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78597
+percent_zip_in_county = 100.0

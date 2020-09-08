@@ -1,2 +1,74 @@
 name = "Lincoln County"
 fips_code = 54043
+
+[[zipcodes]]
+zipcode = 25003
+percent_zip_in_county = 56.4
+
+[[zipcodes]]
+zipcode = 25202
+percent_zip_in_county = 14.53
+
+[[zipcodes]]
+zipcode = 25501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25505
+percent_zip_in_county = 14.68
+
+[[zipcodes]]
+zipcode = 25506
+percent_zip_in_county = 86.46
+
+[[zipcodes]]
+zipcode = 25510
+percent_zip_in_county = 4.63
+
+[[zipcodes]]
+zipcode = 25521
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25523
+percent_zip_in_county = 94.11
+
+[[zipcodes]]
+zipcode = 25524
+percent_zip_in_county = 80.29
+
+[[zipcodes]]
+zipcode = 25529
+percent_zip_in_county = 1.78
+
+[[zipcodes]]
+zipcode = 25534
+percent_zip_in_county = 4.26
+
+[[zipcodes]]
+zipcode = 25540
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25557
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25564
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25565
+percent_zip_in_county = 53.3
+
+[[zipcodes]]
+zipcode = 25567
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25571
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25573
+percent_zip_in_county = 100.0

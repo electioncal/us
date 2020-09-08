@@ -1,2 +1,10 @@
 name = "Camp County"
 fips_code = 48063
+
+[[zipcodes]]
+zipcode = 75451
+percent_zip_in_county = 95.46
+
+[[zipcodes]]
+zipcode = 75686
+percent_zip_in_county = 86.6

@@ -1,2 +1,58 @@
 name = "Wabash County"
 fips_code = 18169
+
+[[zipcodes]]
+zipcode = 46702
+percent_zip_in_county = 7.2
+
+[[zipcodes]]
+zipcode = 46911
+percent_zip_in_county = 9.24
+
+[[zipcodes]]
+zipcode = 46919
+percent_zip_in_county = 0.92
+
+[[zipcodes]]
+zipcode = 46940
+percent_zip_in_county = 86.66
+
+[[zipcodes]]
+zipcode = 46941
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46943
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46946
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46962
+percent_zip_in_county = 95.71
+
+[[zipcodes]]
+zipcode = 46970
+percent_zip_in_county = 0.11
+
+[[zipcodes]]
+zipcode = 46974
+percent_zip_in_county = 79.05
+
+[[zipcodes]]
+zipcode = 46982
+percent_zip_in_county = 15.0
+
+[[zipcodes]]
+zipcode = 46984
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46990
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46992
+percent_zip_in_county = 100.0

@@ -1,2 +1,34 @@
 name = "Codington County"
 fips_code = 46029
+
+[[zipcodes]]
+zipcode = 57201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57235
+percent_zip_in_county = 97.39
+
+[[zipcodes]]
+zipcode = 57238
+percent_zip_in_county = 23.81
+
+[[zipcodes]]
+zipcode = 57242
+percent_zip_in_county = 13.43
+
+[[zipcodes]]
+zipcode = 57243
+percent_zip_in_county = 92.88
+
+[[zipcodes]]
+zipcode = 57245
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57263
+percent_zip_in_county = 87.33
+
+[[zipcodes]]
+zipcode = 57272
+percent_zip_in_county = 97.69

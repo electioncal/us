@@ -1,2 +1,46 @@
 name = "Hays County"
 fips_code = 48209
+
+[[zipcodes]]
+zipcode = 78610
+percent_zip_in_county = 90.61
+
+[[zipcodes]]
+zipcode = 78619
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78620
+percent_zip_in_county = 91.15
+
+[[zipcodes]]
+zipcode = 78623
+percent_zip_in_county = 4.18
+
+[[zipcodes]]
+zipcode = 78640
+percent_zip_in_county = 97.32
+
+[[zipcodes]]
+zipcode = 78652
+percent_zip_in_county = 22.3
+
+[[zipcodes]]
+zipcode = 78656
+percent_zip_in_county = 1.72
+
+[[zipcodes]]
+zipcode = 78663
+percent_zip_in_county = 3.62
+
+[[zipcodes]]
+zipcode = 78666
+percent_zip_in_county = 87.17
+
+[[zipcodes]]
+zipcode = 78676
+percent_zip_in_county = 99.76
+
+[[zipcodes]]
+zipcode = 78737
+percent_zip_in_county = 70.98

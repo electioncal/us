@@ -1,2 +1,58 @@
 name = "Montgomery County"
 fips_code = 18107
+
+[[zipcodes]]
+zipcode = 46035
+percent_zip_in_county = 5.93
+
+[[zipcodes]]
+zipcode = 47916
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47930
+percent_zip_in_county = 2.29
+
+[[zipcodes]]
+zipcode = 47933
+percent_zip_in_county = 99.94
+
+[[zipcodes]]
+zipcode = 47940
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47954
+percent_zip_in_county = 98.06
+
+[[zipcodes]]
+zipcode = 47955
+percent_zip_in_county = 96.23
+
+[[zipcodes]]
+zipcode = 47965
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47967
+percent_zip_in_county = 90.03
+
+[[zipcodes]]
+zipcode = 47968
+percent_zip_in_county = 92.97
+
+[[zipcodes]]
+zipcode = 47981
+percent_zip_in_county = 4.95
+
+[[zipcodes]]
+zipcode = 47989
+percent_zip_in_county = 77.6
+
+[[zipcodes]]
+zipcode = 47990
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47994
+percent_zip_in_county = 100.0

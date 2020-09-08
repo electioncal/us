@@ -1,2 +1,34 @@
 name = "Yazoo County"
 fips_code = 28163
+
+[[zipcodes]]
+zipcode = 39039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39088
+percent_zip_in_county = 74.07
+
+[[zipcodes]]
+zipcode = 39095
+percent_zip_in_county = 0.05
+
+[[zipcodes]]
+zipcode = 39146
+percent_zip_in_county = 8.69
+
+[[zipcodes]]
+zipcode = 39162
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39179
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39194
+percent_zip_in_county = 99.37

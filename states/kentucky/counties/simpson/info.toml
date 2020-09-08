@@ -1,2 +1,22 @@
 name = "Simpson County"
 fips_code = 21213
+
+[[zipcodes]]
+zipcode = 42104
+percent_zip_in_county = 0.65
+
+[[zipcodes]]
+zipcode = 42134
+percent_zip_in_county = 97.42
+
+[[zipcodes]]
+zipcode = 42170
+percent_zip_in_county = 33.93
+
+[[zipcodes]]
+zipcode = 42202
+percent_zip_in_county = 0.46
+
+[[zipcodes]]
+zipcode = 42206
+percent_zip_in_county = 5.46

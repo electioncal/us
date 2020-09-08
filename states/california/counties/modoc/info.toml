@@ -1,2 +1,54 @@
 name = "Modoc County"
 fips_code = 6049
+
+[[zipcodes]]
+zipcode = 96006
+percent_zip_in_county = 69.3
+
+[[zipcodes]]
+zipcode = 96015
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96054
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96056
+percent_zip_in_county = 6.76
+
+[[zipcodes]]
+zipcode = 96101
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96104
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96108
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96110
+percent_zip_in_county = 93.98
+
+[[zipcodes]]
+zipcode = 96112
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96115
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96116
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96134
+percent_zip_in_county = 43.11
+
+[[zipcodes]]
+zipcode = 97635
+percent_zip_in_county = 57.09

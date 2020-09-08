@@ -1,2 +1,66 @@
 name = "Sunflower County"
 fips_code = 28133
+
+[[zipcodes]]
+zipcode = 38732
+percent_zip_in_county = 1.82
+
+[[zipcodes]]
+zipcode = 38736
+percent_zip_in_county = 86.82
+
+[[zipcodes]]
+zipcode = 38737
+percent_zip_in_county = 98.67
+
+[[zipcodes]]
+zipcode = 38738
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38749
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38751
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38753
+percent_zip_in_county = 95.19
+
+[[zipcodes]]
+zipcode = 38754
+percent_zip_in_county = 5.48
+
+[[zipcodes]]
+zipcode = 38759
+percent_zip_in_county = 25.88
+
+[[zipcodes]]
+zipcode = 38761
+percent_zip_in_county = 98.68
+
+[[zipcodes]]
+zipcode = 38762
+percent_zip_in_county = 0.09
+
+[[zipcodes]]
+zipcode = 38768
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38771
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38773
+percent_zip_in_county = 12.18
+
+[[zipcodes]]
+zipcode = 38778
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38963
+percent_zip_in_county = 0.82

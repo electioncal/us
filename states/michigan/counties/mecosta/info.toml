@@ -1,2 +1,66 @@
 name = "Mecosta County"
 fips_code = 26107
+
+[[zipcodes]]
+zipcode = 48850
+percent_zip_in_county = 18.04
+
+[[zipcodes]]
+zipcode = 48886
+percent_zip_in_county = 2.41
+
+[[zipcodes]]
+zipcode = 49305
+percent_zip_in_county = 96.38
+
+[[zipcodes]]
+zipcode = 49307
+percent_zip_in_county = 97.01
+
+[[zipcodes]]
+zipcode = 49310
+percent_zip_in_county = 33.39
+
+[[zipcodes]]
+zipcode = 49320
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49332
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49336
+percent_zip_in_county = 94.69
+
+[[zipcodes]]
+zipcode = 49337
+percent_zip_in_county = 1.02
+
+[[zipcodes]]
+zipcode = 49338
+percent_zip_in_county = 68.4
+
+[[zipcodes]]
+zipcode = 49340
+percent_zip_in_county = 73.04
+
+[[zipcodes]]
+zipcode = 49342
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49346
+percent_zip_in_county = 99.82
+
+[[zipcodes]]
+zipcode = 49631
+percent_zip_in_county = 11.25
+
+[[zipcodes]]
+zipcode = 49639
+percent_zip_in_county = 22.72
+
+[[zipcodes]]
+zipcode = 49679
+percent_zip_in_county = 13.24

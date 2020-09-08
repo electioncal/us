@@ -1,2 +1,34 @@
 name = "Owen County"
 fips_code = 21187
+
+[[zipcodes]]
+zipcode = 40359
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40363
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40379
+percent_zip_in_county = 1.28
+
+[[zipcodes]]
+zipcode = 41010
+percent_zip_in_county = 35.47
+
+[[zipcodes]]
+zipcode = 41046
+percent_zip_in_county = 6.51
+
+[[zipcodes]]
+zipcode = 41083
+percent_zip_in_county = 7.47
+
+[[zipcodes]]
+zipcode = 41086
+percent_zip_in_county = 40.92
+
+[[zipcodes]]
+zipcode = 41098
+percent_zip_in_county = 60.43

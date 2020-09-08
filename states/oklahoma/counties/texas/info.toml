@@ -1,2 +1,38 @@
 name = "Texas County"
 fips_code = 40139
+
+[[zipcodes]]
+zipcode = 67950
+percent_zip_in_county = 5.71
+
+[[zipcodes]]
+zipcode = 73901
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73939
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73942
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73944
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73945
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73949
+percent_zip_in_county = 70.5
+
+[[zipcodes]]
+zipcode = 73950
+percent_zip_in_county = 4.72
+
+[[zipcodes]]
+zipcode = 73951
+percent_zip_in_county = 100.0

@@ -1,2 +1,58 @@
 name = "Maui County"
 fips_code = 15009
+
+[[zipcodes]]
+zipcode = 96708
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96713
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96729
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96732
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96748
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96753
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96757
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96761
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96763
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96768
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96770
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96779
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96790
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96793
+percent_zip_in_county = 100.0

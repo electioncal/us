@@ -1,2 +1,82 @@
 name = "Columbia County"
 fips_code = 55021
+
+[[zipcodes]]
+zipcode = 53532
+percent_zip_in_county = 1.69
+
+[[zipcodes]]
+zipcode = 53555
+percent_zip_in_county = 92.78
+
+[[zipcodes]]
+zipcode = 53561
+percent_zip_in_county = 15.7
+
+[[zipcodes]]
+zipcode = 53578
+percent_zip_in_county = 11.72
+
+[[zipcodes]]
+zipcode = 53583
+percent_zip_in_county = 0.92
+
+[[zipcodes]]
+zipcode = 53901
+percent_zip_in_county = 99.63
+
+[[zipcodes]]
+zipcode = 53911
+percent_zip_in_county = 98.08
+
+[[zipcodes]]
+zipcode = 53913
+percent_zip_in_county = 0.04
+
+[[zipcodes]]
+zipcode = 53923
+percent_zip_in_county = 88.85
+
+[[zipcodes]]
+zipcode = 53925
+percent_zip_in_county = 80.66
+
+[[zipcodes]]
+zipcode = 53926
+percent_zip_in_county = 18.24
+
+[[zipcodes]]
+zipcode = 53928
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53932
+percent_zip_in_county = 97.82
+
+[[zipcodes]]
+zipcode = 53935
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53954
+percent_zip_in_county = 98.12
+
+[[zipcodes]]
+zipcode = 53955
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53956
+percent_zip_in_county = 38.15
+
+[[zipcodes]]
+zipcode = 53960
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53965
+percent_zip_in_county = 30.43
+
+[[zipcodes]]
+zipcode = 53969
+percent_zip_in_county = 100.0

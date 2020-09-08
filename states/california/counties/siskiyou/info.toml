@@ -1,2 +1,94 @@
 name = "Siskiyou County"
 fips_code = 6093
+
+[[zipcodes]]
+zipcode = 95568
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96014
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96025
+percent_zip_in_county = 92.77
+
+[[zipcodes]]
+zipcode = 96027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96031
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96038
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96044
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96049
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96050
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96057
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96058
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96064
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96085
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96086
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96094
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96097
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 96134
+percent_zip_in_county = 56.89

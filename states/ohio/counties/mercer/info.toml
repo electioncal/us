@@ -1,2 +1,58 @@
 name = "Mercer County"
 fips_code = 39107
+
+[[zipcodes]]
+zipcode = 45310
+percent_zip_in_county = 69.67
+
+[[zipcodes]]
+zipcode = 45822
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45826
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45828
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45846
+percent_zip_in_county = 93.42
+
+[[zipcodes]]
+zipcode = 45860
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45862
+percent_zip_in_county = 96.62
+
+[[zipcodes]]
+zipcode = 45866
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45869
+percent_zip_in_county = 1.85
+
+[[zipcodes]]
+zipcode = 45882
+percent_zip_in_county = 97.24
+
+[[zipcodes]]
+zipcode = 45883
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45885
+percent_zip_in_county = 0.31
+
+[[zipcodes]]
+zipcode = 45887
+percent_zip_in_county = 1.14
+
+[[zipcodes]]
+zipcode = 45898
+percent_zip_in_county = 17.35

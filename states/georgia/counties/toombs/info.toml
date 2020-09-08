@@ -1,2 +1,18 @@
 name = "Toombs County"
 fips_code = 13279
+
+[[zipcodes]]
+zipcode = 30436
+percent_zip_in_county = 92.54
+
+[[zipcodes]]
+zipcode = 30473
+percent_zip_in_county = 45.15
+
+[[zipcodes]]
+zipcode = 30474
+percent_zip_in_county = 88.95
+
+[[zipcodes]]
+zipcode = 30475
+percent_zip_in_county = 100.0

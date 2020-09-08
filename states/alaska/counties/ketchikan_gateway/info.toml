@@ -1,2 +1,6 @@
 name = "Ketchikan Gateway Borough"
 fips_code = 2130
+
+[[zipcodes]]
+zipcode = 99901
+percent_zip_in_county = 99.76

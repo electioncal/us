@@ -1,2 +1,106 @@
 name = "Richland County"
 fips_code = 45079
+
+[[zipcodes]]
+zipcode = 29016
+percent_zip_in_county = 97.78
+
+[[zipcodes]]
+zipcode = 29036
+percent_zip_in_county = 25.76
+
+[[zipcodes]]
+zipcode = 29044
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29045
+percent_zip_in_county = 39.79
+
+[[zipcodes]]
+zipcode = 29052
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29063
+percent_zip_in_county = 92.44
+
+[[zipcodes]]
+zipcode = 29075
+percent_zip_in_county = 24.74
+
+[[zipcodes]]
+zipcode = 29078
+percent_zip_in_county = 1.68
+
+[[zipcodes]]
+zipcode = 29130
+percent_zip_in_county = 4.3
+
+[[zipcodes]]
+zipcode = 29147
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 29180
+percent_zip_in_county = 1.64
+
+[[zipcodes]]
+zipcode = 29201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29202
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29203
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29204
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29205
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29206
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29207
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29208
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29209
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29210
+percent_zip_in_county = 72.82
+
+[[zipcodes]]
+zipcode = 29212
+percent_zip_in_county = 27.67
+
+[[zipcodes]]
+zipcode = 29223
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29225
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29229
+percent_zip_in_county = 100.0

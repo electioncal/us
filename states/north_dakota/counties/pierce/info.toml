@@ -1,2 +1,38 @@
 name = "Pierce County"
 fips_code = 38069
+
+[[zipcodes]]
+zipcode = 58332
+percent_zip_in_county = 9.06
+
+[[zipcodes]]
+zipcode = 58341
+percent_zip_in_county = 6.2
+
+[[zipcodes]]
+zipcode = 58368
+percent_zip_in_county = 97.5
+
+[[zipcodes]]
+zipcode = 58384
+percent_zip_in_county = 17.3
+
+[[zipcodes]]
+zipcode = 58385
+percent_zip_in_county = 93.33
+
+[[zipcodes]]
+zipcode = 58386
+percent_zip_in_county = 18.66
+
+[[zipcodes]]
+zipcode = 58710
+percent_zip_in_county = 11.94
+
+[[zipcodes]]
+zipcode = 58758
+percent_zip_in_county = 15.77
+
+[[zipcodes]]
+zipcode = 58788
+percent_zip_in_county = 3.56

@@ -1,2 +1,58 @@
 name = "Chippewa County"
 fips_code = 55017
+
+[[zipcodes]]
+zipcode = 54433
+percent_zip_in_county = 10.84
+
+[[zipcodes]]
+zipcode = 54703
+percent_zip_in_county = 6.94
+
+[[zipcodes]]
+zipcode = 54724
+percent_zip_in_county = 99.9
+
+[[zipcodes]]
+zipcode = 54726
+percent_zip_in_county = 86.8
+
+[[zipcodes]]
+zipcode = 54727
+percent_zip_in_county = 96.32
+
+[[zipcodes]]
+zipcode = 54729
+percent_zip_in_county = 99.33
+
+[[zipcodes]]
+zipcode = 54730
+percent_zip_in_county = 12.12
+
+[[zipcodes]]
+zipcode = 54732
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54739
+percent_zip_in_county = 22.1
+
+[[zipcodes]]
+zipcode = 54745
+percent_zip_in_county = 86.82
+
+[[zipcodes]]
+zipcode = 54748
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54757
+percent_zip_in_county = 56.46
+
+[[zipcodes]]
+zipcode = 54766
+percent_zip_in_county = 6.8
+
+[[zipcodes]]
+zipcode = 54768
+percent_zip_in_county = 81.44

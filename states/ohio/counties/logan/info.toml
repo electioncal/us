@@ -1,2 +1,74 @@
 name = "Logan County"
 fips_code = 39091
+
+[[zipcodes]]
+zipcode = 43060
+percent_zip_in_county = 9.56
+
+[[zipcodes]]
+zipcode = 43310
+percent_zip_in_county = 73.13
+
+[[zipcodes]]
+zipcode = 43311
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43318
+percent_zip_in_county = 80.72
+
+[[zipcodes]]
+zipcode = 43319
+percent_zip_in_county = 99.81
+
+[[zipcodes]]
+zipcode = 43324
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43331
+percent_zip_in_county = 95.52
+
+[[zipcodes]]
+zipcode = 43333
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43336
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43343
+percent_zip_in_county = 89.5
+
+[[zipcodes]]
+zipcode = 43345
+percent_zip_in_county = 41.85
+
+[[zipcodes]]
+zipcode = 43347
+percent_zip_in_county = 95.23
+
+[[zipcodes]]
+zipcode = 43348
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43357
+percent_zip_in_county = 78.96
+
+[[zipcodes]]
+zipcode = 43358
+percent_zip_in_county = 53.39
+
+[[zipcodes]]
+zipcode = 43360
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45334
+percent_zip_in_county = 0.49
+
+[[zipcodes]]
+zipcode = 45895
+percent_zip_in_county = 0.21

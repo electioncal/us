@@ -1,2 +1,54 @@
 name = "Branch County"
 fips_code = 26023
+
+[[zipcodes]]
+zipcode = 49011
+percent_zip_in_county = 1.97
+
+[[zipcodes]]
+zipcode = 49028
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49030
+percent_zip_in_county = 4.2
+
+[[zipcodes]]
+zipcode = 49036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49040
+percent_zip_in_county = 7.59
+
+[[zipcodes]]
+zipcode = 49082
+percent_zip_in_county = 96.17
+
+[[zipcodes]]
+zipcode = 49089
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49092
+percent_zip_in_county = 19.11
+
+[[zipcodes]]
+zipcode = 49094
+percent_zip_in_county = 82.04
+
+[[zipcodes]]
+zipcode = 49245
+percent_zip_in_county = 1.98
+
+[[zipcodes]]
+zipcode = 49252
+percent_zip_in_county = 1.77
+
+[[zipcodes]]
+zipcode = 49255
+percent_zip_in_county = 56.73
+
+[[zipcodes]]
+zipcode = 49274
+percent_zip_in_county = 9.7

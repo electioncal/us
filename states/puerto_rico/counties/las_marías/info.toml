@@ -1,2 +1,10 @@
 name = "Las Marías Municipio"
 fips_code = 72083
+
+[[zipcodes]]
+zipcode = 669
+percent_zip_in_county = 0.62
+
+[[zipcodes]]
+zipcode = 670
+percent_zip_in_county = 98.88

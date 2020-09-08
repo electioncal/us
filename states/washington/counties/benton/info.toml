@@ -1,2 +1,50 @@
 name = "Benton County"
 fips_code = 53005
+
+[[zipcodes]]
+zipcode = 98930
+percent_zip_in_county = 5.85
+
+[[zipcodes]]
+zipcode = 98944
+percent_zip_in_county = 0.2
+
+[[zipcodes]]
+zipcode = 99320
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99336
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99337
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99338
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99345
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99346
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99350
+percent_zip_in_county = 97.83
+
+[[zipcodes]]
+zipcode = 99352
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99353
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99354
+percent_zip_in_county = 100.0

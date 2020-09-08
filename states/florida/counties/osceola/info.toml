@@ -1,2 +1,62 @@
 name = "Osceola County"
 fips_code = 12097
+
+[[zipcodes]]
+zipcode = 33848
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33896
+percent_zip_in_county = 9.84
+
+[[zipcodes]]
+zipcode = 34739
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34741
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34743
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34744
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34746
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34747
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34758
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34759
+percent_zip_in_county = 21.47
+
+[[zipcodes]]
+zipcode = 34769
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34771
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34772
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34773
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34972
+percent_zip_in_county = 1.41

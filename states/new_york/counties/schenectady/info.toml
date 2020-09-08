@@ -1,2 +1,74 @@
 name = "Schenectady County"
 fips_code = 36093
+
+[[zipcodes]]
+zipcode = 12008
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12010
+percent_zip_in_county = 1.43
+
+[[zipcodes]]
+zipcode = 12019
+percent_zip_in_county = 5.17
+
+[[zipcodes]]
+zipcode = 12027
+percent_zip_in_county = 17.59
+
+[[zipcodes]]
+zipcode = 12053
+percent_zip_in_county = 77.61
+
+[[zipcodes]]
+zipcode = 12056
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12066
+percent_zip_in_county = 17.97
+
+[[zipcodes]]
+zipcode = 12137
+percent_zip_in_county = 77.37
+
+[[zipcodes]]
+zipcode = 12150
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12157
+percent_zip_in_county = 0.54
+
+[[zipcodes]]
+zipcode = 12302
+percent_zip_in_county = 98.34
+
+[[zipcodes]]
+zipcode = 12303
+percent_zip_in_county = 65.31
+
+[[zipcodes]]
+zipcode = 12304
+percent_zip_in_county = 86.87
+
+[[zipcodes]]
+zipcode = 12305
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12306
+percent_zip_in_county = 97.06
+
+[[zipcodes]]
+zipcode = 12307
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12308
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12309
+percent_zip_in_county = 85.1

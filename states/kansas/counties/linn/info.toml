@@ -1,2 +1,46 @@
 name = "Linn County"
 fips_code = 20107
+
+[[zipcodes]]
+zipcode = 66010
+percent_zip_in_county = 96.86
+
+[[zipcodes]]
+zipcode = 66014
+percent_zip_in_county = 97.13
+
+[[zipcodes]]
+zipcode = 66026
+percent_zip_in_county = 26.65
+
+[[zipcodes]]
+zipcode = 66033
+percent_zip_in_county = 5.22
+
+[[zipcodes]]
+zipcode = 66040
+percent_zip_in_county = 91.6
+
+[[zipcodes]]
+zipcode = 66056
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66072
+percent_zip_in_county = 98.2
+
+[[zipcodes]]
+zipcode = 66075
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66738
+percent_zip_in_county = 5.59
+
+[[zipcodes]]
+zipcode = 66754
+percent_zip_in_county = 4.88
+
+[[zipcodes]]
+zipcode = 66767
+percent_zip_in_county = 100.0

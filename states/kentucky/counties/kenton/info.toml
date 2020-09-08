@@ -1,2 +1,50 @@
 name = "Kenton County"
 fips_code = 21117
+
+[[zipcodes]]
+zipcode = 41011
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41014
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41015
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41016
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41017
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41018
+percent_zip_in_county = 95.27
+
+[[zipcodes]]
+zipcode = 41030
+percent_zip_in_county = 11.89
+
+[[zipcodes]]
+zipcode = 41033
+percent_zip_in_county = 13.01
+
+[[zipcodes]]
+zipcode = 41042
+percent_zip_in_county = 3.43
+
+[[zipcodes]]
+zipcode = 41051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41063
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41094
+percent_zip_in_county = 15.26

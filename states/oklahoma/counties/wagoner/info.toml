@@ -1,2 +1,66 @@
 name = "Wagoner County"
 fips_code = 40145
+
+[[zipcodes]]
+zipcode = 74008
+percent_zip_in_county = 0.85
+
+[[zipcodes]]
+zipcode = 74014
+percent_zip_in_county = 96.51
+
+[[zipcodes]]
+zipcode = 74015
+percent_zip_in_county = 26.39
+
+[[zipcodes]]
+zipcode = 74036
+percent_zip_in_county = 1.47
+
+[[zipcodes]]
+zipcode = 74108
+percent_zip_in_county = 20.28
+
+[[zipcodes]]
+zipcode = 74337
+percent_zip_in_county = 9.29
+
+[[zipcodes]]
+zipcode = 74352
+percent_zip_in_county = 2.56
+
+[[zipcodes]]
+zipcode = 74403
+percent_zip_in_county = 0.66
+
+[[zipcodes]]
+zipcode = 74429
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74434
+percent_zip_in_county = 8.93
+
+[[zipcodes]]
+zipcode = 74436
+percent_zip_in_county = 15.58
+
+[[zipcodes]]
+zipcode = 74446
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74454
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74458
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74467
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74477
+percent_zip_in_county = 100.0

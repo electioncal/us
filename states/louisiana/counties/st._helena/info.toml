@@ -1,2 +1,30 @@
 name = "St. Helena Parish"
 fips_code = 22091
+
+[[zipcodes]]
+zipcode = 70422
+percent_zip_in_county = 19.56
+
+[[zipcodes]]
+zipcode = 70441
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70443
+percent_zip_in_county = 3.02
+
+[[zipcodes]]
+zipcode = 70444
+percent_zip_in_county = 11.99
+
+[[zipcodes]]
+zipcode = 70453
+percent_zip_in_county = 82.78
+
+[[zipcodes]]
+zipcode = 70706
+percent_zip_in_county = 3.28
+
+[[zipcodes]]
+zipcode = 70744
+percent_zip_in_county = 5.18

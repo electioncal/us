@@ -1,2 +1,30 @@
 name = "Switzerland County"
 fips_code = 18155
+
+[[zipcodes]]
+zipcode = 47011
+percent_zip_in_county = 99.14
+
+[[zipcodes]]
+zipcode = 47020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47038
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47040
+percent_zip_in_county = 12.99
+
+[[zipcodes]]
+zipcode = 47043
+percent_zip_in_county = 98.32
+
+[[zipcodes]]
+zipcode = 47224
+percent_zip_in_county = 53.14
+
+[[zipcodes]]
+zipcode = 47250
+percent_zip_in_county = 1.47

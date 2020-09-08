@@ -1,2 +1,18 @@
 name = "Power County"
 fips_code = 16077
+
+[[zipcodes]]
+zipcode = 83204
+percent_zip_in_county = 4.83
+
+[[zipcodes]]
+zipcode = 83211
+percent_zip_in_county = 98.6
+
+[[zipcodes]]
+zipcode = 83212
+percent_zip_in_county = 95.62
+
+[[zipcodes]]
+zipcode = 83271
+percent_zip_in_county = 100.0

@@ -1,2 +1,50 @@
 name = "Prince Edward County"
 fips_code = 51147
+
+[[zipcodes]]
+zipcode = 23901
+percent_zip_in_county = 72.93
+
+[[zipcodes]]
+zipcode = 23909
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23922
+percent_zip_in_county = 14.13
+
+[[zipcodes]]
+zipcode = 23923
+percent_zip_in_county = 3.82
+
+[[zipcodes]]
+zipcode = 23934
+percent_zip_in_county = 40.09
+
+[[zipcodes]]
+zipcode = 23942
+percent_zip_in_county = 76.44
+
+[[zipcodes]]
+zipcode = 23943
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23947
+percent_zip_in_county = 8.08
+
+[[zipcodes]]
+zipcode = 23954
+percent_zip_in_county = 74.07
+
+[[zipcodes]]
+zipcode = 23958
+percent_zip_in_county = 45.55
+
+[[zipcodes]]
+zipcode = 23960
+percent_zip_in_county = 98.29
+
+[[zipcodes]]
+zipcode = 23966
+percent_zip_in_county = 92.38

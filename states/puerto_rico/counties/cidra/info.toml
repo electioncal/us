@@ -1,2 +1,10 @@
 name = "Cidra Municipio"
 fips_code = 72041
+
+[[zipcodes]]
+zipcode = 736
+percent_zip_in_county = 7.38
+
+[[zipcodes]]
+zipcode = 739
+percent_zip_in_county = 100.0

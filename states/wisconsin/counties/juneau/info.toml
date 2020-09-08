@@ -1,2 +1,58 @@
 name = "Juneau County"
 fips_code = 55057
+
+[[zipcodes]]
+zipcode = 53929
+percent_zip_in_county = 84.58
+
+[[zipcodes]]
+zipcode = 53941
+percent_zip_in_county = 1.64
+
+[[zipcodes]]
+zipcode = 53944
+percent_zip_in_county = 92.09
+
+[[zipcodes]]
+zipcode = 53948
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53950
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53965
+percent_zip_in_county = 5.4
+
+[[zipcodes]]
+zipcode = 53968
+percent_zip_in_county = 76.6
+
+[[zipcodes]]
+zipcode = 54457
+percent_zip_in_county = 3.63
+
+[[zipcodes]]
+zipcode = 54618
+percent_zip_in_county = 65.47
+
+[[zipcodes]]
+zipcode = 54634
+percent_zip_in_county = 0.07
+
+[[zipcodes]]
+zipcode = 54637
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54638
+percent_zip_in_county = 1.88
+
+[[zipcodes]]
+zipcode = 54646
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54666
+percent_zip_in_county = 3.82

@@ -1,2 +1,62 @@
 name = "La Crosse County"
 fips_code = 55063
+
+[[zipcodes]]
+zipcode = 54601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54603
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54614
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54619
+percent_zip_in_county = 0.51
+
+[[zipcodes]]
+zipcode = 54623
+percent_zip_in_county = 30.47
+
+[[zipcodes]]
+zipcode = 54636
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54642
+percent_zip_in_county = 7.48
+
+[[zipcodes]]
+zipcode = 54644
+percent_zip_in_county = 98.33
+
+[[zipcodes]]
+zipcode = 54650
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54653
+percent_zip_in_county = 85.23
+
+[[zipcodes]]
+zipcode = 54656
+percent_zip_in_county = 0.05
+
+[[zipcodes]]
+zipcode = 54658
+percent_zip_in_county = 15.59
+
+[[zipcodes]]
+zipcode = 54661
+percent_zip_in_county = 0.03
+
+[[zipcodes]]
+zipcode = 54667
+percent_zip_in_county = 0.72
+
+[[zipcodes]]
+zipcode = 54669
+percent_zip_in_county = 100.0

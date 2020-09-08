@@ -1,2 +1,74 @@
 name = "St. Landry Parish"
 fips_code = 22097
+
+[[zipcodes]]
+zipcode = 70512
+percent_zip_in_county = 59.81
+
+[[zipcodes]]
+zipcode = 70520
+percent_zip_in_county = 1.65
+
+[[zipcodes]]
+zipcode = 70525
+percent_zip_in_county = 23.75
+
+[[zipcodes]]
+zipcode = 70535
+percent_zip_in_county = 71.58
+
+[[zipcodes]]
+zipcode = 70541
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70550
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70570
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70577
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70584
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70586
+percent_zip_in_county = 0.65
+
+[[zipcodes]]
+zipcode = 70589
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70750
+percent_zip_in_county = 99.9
+
+[[zipcodes]]
+zipcode = 71322
+percent_zip_in_county = 9.53
+
+[[zipcodes]]
+zipcode = 71345
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71353
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71356
+percent_zip_in_county = 83.02
+
+[[zipcodes]]
+zipcode = 71358
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71362
+percent_zip_in_county = 2.95

@@ -1,2 +1,70 @@
 name = "Cascade County"
 fips_code = 30013
+
+[[zipcodes]]
+zipcode = 59401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59404
+percent_zip_in_county = 99.81
+
+[[zipcodes]]
+zipcode = 59405
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59412
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59414
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59421
+percent_zip_in_county = 93.12
+
+[[zipcodes]]
+zipcode = 59440
+percent_zip_in_county = 40.0
+
+[[zipcodes]]
+zipcode = 59443
+percent_zip_in_county = 92.48
+
+[[zipcodes]]
+zipcode = 59463
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59465
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59468
+percent_zip_in_county = 14.89
+
+[[zipcodes]]
+zipcode = 59472
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59477
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59480
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59483
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59485
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59487
+percent_zip_in_county = 97.1

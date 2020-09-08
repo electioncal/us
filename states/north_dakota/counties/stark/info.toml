@@ -1,2 +1,38 @@
 name = "Stark County"
 fips_code = 38089
+
+[[zipcodes]]
+zipcode = 58601
+percent_zip_in_county = 98.36
+
+[[zipcodes]]
+zipcode = 58622
+percent_zip_in_county = 76.49
+
+[[zipcodes]]
+zipcode = 58630
+percent_zip_in_county = 83.47
+
+[[zipcodes]]
+zipcode = 58638
+percent_zip_in_county = 2.72
+
+[[zipcodes]]
+zipcode = 58641
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58647
+percent_zip_in_county = 6.83
+
+[[zipcodes]]
+zipcode = 58652
+percent_zip_in_county = 92.3
+
+[[zipcodes]]
+zipcode = 58655
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58656
+percent_zip_in_county = 90.16

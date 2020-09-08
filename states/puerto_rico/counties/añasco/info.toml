@@ -1,2 +1,14 @@
 name = "Añasco Municipio"
 fips_code = 72011
+
+[[zipcodes]]
+zipcode = 610
+percent_zip_in_county = 99.45
+
+[[zipcodes]]
+zipcode = 670
+percent_zip_in_county = 1.12
+
+[[zipcodes]]
+zipcode = 680
+percent_zip_in_county = 0.46

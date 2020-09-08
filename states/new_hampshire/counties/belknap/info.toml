@@ -1,2 +1,62 @@
 name = "Belknap County"
 fips_code = 33001
+
+[[zipcodes]]
+zipcode = 3218
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3220
+percent_zip_in_county = 98.91
+
+[[zipcodes]]
+zipcode = 3225
+percent_zip_in_county = 99.26
+
+[[zipcodes]]
+zipcode = 3226
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3237
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3246
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3249
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3253
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3254
+percent_zip_in_county = 0.12
+
+[[zipcodes]]
+zipcode = 3256
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3269
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3276
+percent_zip_in_county = 42.85
+
+[[zipcodes]]
+zipcode = 3809
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3810
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3837
+percent_zip_in_county = 100.0

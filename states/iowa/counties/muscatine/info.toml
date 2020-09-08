@@ -1,2 +1,54 @@
 name = "Muscatine County"
 fips_code = 19139
+
+[[zipcodes]]
+zipcode = 52720
+percent_zip_in_county = 73.75
+
+[[zipcodes]]
+zipcode = 52726
+percent_zip_in_county = 10.92
+
+[[zipcodes]]
+zipcode = 52739
+percent_zip_in_county = 71.95
+
+[[zipcodes]]
+zipcode = 52747
+percent_zip_in_county = 2.99
+
+[[zipcodes]]
+zipcode = 52749
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52754
+percent_zip_in_county = 36.26
+
+[[zipcodes]]
+zipcode = 52760
+percent_zip_in_county = 75.23
+
+[[zipcodes]]
+zipcode = 52761
+percent_zip_in_county = 98.13
+
+[[zipcodes]]
+zipcode = 52766
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52769
+percent_zip_in_county = 61.55
+
+[[zipcodes]]
+zipcode = 52773
+percent_zip_in_county = 0.67
+
+[[zipcodes]]
+zipcode = 52776
+percent_zip_in_county = 93.67
+
+[[zipcodes]]
+zipcode = 52778
+percent_zip_in_county = 80.34

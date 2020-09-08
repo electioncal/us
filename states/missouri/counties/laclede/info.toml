@@ -1,2 +1,46 @@
 name = "Laclede County"
 fips_code = 29105
+
+[[zipcodes]]
+zipcode = 65463
+percent_zip_in_county = 97.53
+
+[[zipcodes]]
+zipcode = 65470
+percent_zip_in_county = 90.25
+
+[[zipcodes]]
+zipcode = 65534
+percent_zip_in_county = 4.57
+
+[[zipcodes]]
+zipcode = 65536
+percent_zip_in_county = 99.09
+
+[[zipcodes]]
+zipcode = 65543
+percent_zip_in_county = 60.79
+
+[[zipcodes]]
+zipcode = 65552
+percent_zip_in_county = 2.58
+
+[[zipcodes]]
+zipcode = 65556
+percent_zip_in_county = 15.39
+
+[[zipcodes]]
+zipcode = 65567
+percent_zip_in_county = 12.21
+
+[[zipcodes]]
+zipcode = 65632
+percent_zip_in_county = 60.36
+
+[[zipcodes]]
+zipcode = 65662
+percent_zip_in_county = 21.12
+
+[[zipcodes]]
+zipcode = 65722
+percent_zip_in_county = 88.06

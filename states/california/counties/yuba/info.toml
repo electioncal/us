@@ -1,2 +1,70 @@
 name = "Yuba County"
 fips_code = 6115
+
+[[zipcodes]]
+zipcode = 95692
+percent_zip_in_county = 99.54
+
+[[zipcodes]]
+zipcode = 95901
+percent_zip_in_county = 98.95
+
+[[zipcodes]]
+zipcode = 95903
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95914
+percent_zip_in_county = 39.79
+
+[[zipcodes]]
+zipcode = 95918
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95919
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95922
+percent_zip_in_county = 97.67
+
+[[zipcodes]]
+zipcode = 95925
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95930
+percent_zip_in_county = 49.28
+
+[[zipcodes]]
+zipcode = 95935
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95941
+percent_zip_in_county = 19.89
+
+[[zipcodes]]
+zipcode = 95960
+percent_zip_in_county = 8.42
+
+[[zipcodes]]
+zipcode = 95961
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95962
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95966
+percent_zip_in_county = 0.46
+
+[[zipcodes]]
+zipcode = 95977
+percent_zip_in_county = 38.44
+
+[[zipcodes]]
+zipcode = 95981
+percent_zip_in_county = 69.07

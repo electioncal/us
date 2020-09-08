@@ -1,2 +1,34 @@
 name = "Rockwall County"
 fips_code = 48397
+
+[[zipcodes]]
+zipcode = 75032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75087
+percent_zip_in_county = 99.42
+
+[[zipcodes]]
+zipcode = 75088
+percent_zip_in_county = 17.77
+
+[[zipcodes]]
+zipcode = 75089
+percent_zip_in_county = 4.96
+
+[[zipcodes]]
+zipcode = 75098
+percent_zip_in_county = 2.84
+
+[[zipcodes]]
+zipcode = 75132
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75160
+percent_zip_in_county = 0.15
+
+[[zipcodes]]
+zipcode = 75189
+percent_zip_in_county = 65.97

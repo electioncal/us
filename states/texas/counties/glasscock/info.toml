@@ -1,2 +1,14 @@
 name = "Glasscock County"
 fips_code = 48173
+
+[[zipcodes]]
+zipcode = 79720
+percent_zip_in_county = 0.72
+
+[[zipcodes]]
+zipcode = 79739
+percent_zip_in_county = 98.44
+
+[[zipcodes]]
+zipcode = 79782
+percent_zip_in_county = 0.93

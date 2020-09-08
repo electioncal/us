@@ -1,2 +1,42 @@
 name = "Autauga County"
 fips_code = 1001
+
+[[zipcodes]]
+zipcode = 36003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36006
+percent_zip_in_county = 75.7
+
+[[zipcodes]]
+zipcode = 36022
+percent_zip_in_county = 32.58
+
+[[zipcodes]]
+zipcode = 36051
+percent_zip_in_county = 70.1
+
+[[zipcodes]]
+zipcode = 36066
+percent_zip_in_county = 90.53
+
+[[zipcodes]]
+zipcode = 36067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36091
+percent_zip_in_county = 9.48
+
+[[zipcodes]]
+zipcode = 36703
+percent_zip_in_county = 1.25
+
+[[zipcodes]]
+zipcode = 36749
+percent_zip_in_county = 62.08
+
+[[zipcodes]]
+zipcode = 36758
+percent_zip_in_county = 20.82

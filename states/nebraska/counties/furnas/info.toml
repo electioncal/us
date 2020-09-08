@@ -1,2 +1,38 @@
 name = "Furnas County"
 fips_code = 31065
+
+[[zipcodes]]
+zipcode = 68922
+percent_zip_in_county = 92.74
+
+[[zipcodes]]
+zipcode = 68926
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68936
+percent_zip_in_county = 88.07
+
+[[zipcodes]]
+zipcode = 68946
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68948
+percent_zip_in_county = 88.43
+
+[[zipcodes]]
+zipcode = 68967
+percent_zip_in_county = 70.32
+
+[[zipcodes]]
+zipcode = 68977
+percent_zip_in_county = 17.84
+
+[[zipcodes]]
+zipcode = 69022
+percent_zip_in_county = 82.23
+
+[[zipcodes]]
+zipcode = 69046
+percent_zip_in_county = 100.0

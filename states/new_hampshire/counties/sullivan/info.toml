@@ -1,2 +1,78 @@
 name = "Sullivan County"
 fips_code = 33019
+
+[[zipcodes]]
+zipcode = 3280
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3284
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3602
+percent_zip_in_county = 27.02
+
+[[zipcodes]]
+zipcode = 3603
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3605
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3607
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3743
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3745
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3746
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3748
+percent_zip_in_county = 3.97
+
+[[zipcodes]]
+zipcode = 3751
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3752
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3753
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3754
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3770
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3773
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3781
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3782
+percent_zip_in_county = 100.0

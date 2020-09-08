@@ -1,2 +1,30 @@
 name = "Lewis County"
 fips_code = 16061
+
+[[zipcodes]]
+zipcode = 83523
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83524
+percent_zip_in_county = 3.74
+
+[[zipcodes]]
+zipcode = 83536
+percent_zip_in_county = 40.02
+
+[[zipcodes]]
+zipcode = 83543
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83544
+percent_zip_in_county = 0.1
+
+[[zipcodes]]
+zipcode = 83548
+percent_zip_in_county = 68.38
+
+[[zipcodes]]
+zipcode = 83555
+percent_zip_in_county = 93.79

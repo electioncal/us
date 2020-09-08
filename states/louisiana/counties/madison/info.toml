@@ -1,2 +1,14 @@
 name = "Madison Parish"
 fips_code = 22065
+
+[[zipcodes]]
+zipcode = 71232
+percent_zip_in_county = 10.91
+
+[[zipcodes]]
+zipcode = 71233
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71282
+percent_zip_in_county = 100.0

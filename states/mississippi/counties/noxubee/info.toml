@@ -1,2 +1,26 @@
 name = "Noxubee County"
 fips_code = 28103
+
+[[zipcodes]]
+zipcode = 39341
+percent_zip_in_county = 98.78
+
+[[zipcodes]]
+zipcode = 39354
+percent_zip_in_county = 1.77
+
+[[zipcodes]]
+zipcode = 39358
+percent_zip_in_county = 0.36
+
+[[zipcodes]]
+zipcode = 39361
+percent_zip_in_county = 99.11
+
+[[zipcodes]]
+zipcode = 39739
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39743
+percent_zip_in_county = 1.02

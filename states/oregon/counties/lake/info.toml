@@ -1,2 +1,42 @@
 name = "Lake County"
 fips_code = 41037
+
+[[zipcodes]]
+zipcode = 97620
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97630
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97635
+percent_zip_in_county = 42.91
+
+[[zipcodes]]
+zipcode = 97636
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97637
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97638
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97640
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97641
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97735
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97758
+percent_zip_in_county = 16.83

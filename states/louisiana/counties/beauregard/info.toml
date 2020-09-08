@@ -1,2 +1,38 @@
 name = "Beauregard Parish"
 fips_code = 22011
+
+[[zipcodes]]
+zipcode = 70633
+percent_zip_in_county = 13.53
+
+[[zipcodes]]
+zipcode = 70634
+percent_zip_in_county = 88.62
+
+[[zipcodes]]
+zipcode = 70637
+percent_zip_in_county = 27.68
+
+[[zipcodes]]
+zipcode = 70652
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70653
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70657
+percent_zip_in_county = 81.16
+
+[[zipcodes]]
+zipcode = 70660
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70661
+percent_zip_in_county = 14.72
+
+[[zipcodes]]
+zipcode = 70662
+percent_zip_in_county = 100.0

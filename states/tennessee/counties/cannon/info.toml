@@ -1,2 +1,38 @@
 name = "Cannon County"
 fips_code = 47015
+
+[[zipcodes]]
+zipcode = 37016
+percent_zip_in_county = 74.02
+
+[[zipcodes]]
+zipcode = 37026
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37095
+percent_zip_in_county = 24.06
+
+[[zipcodes]]
+zipcode = 37110
+percent_zip_in_county = 0.77
+
+[[zipcodes]]
+zipcode = 37118
+percent_zip_in_county = 2.77
+
+[[zipcodes]]
+zipcode = 37149
+percent_zip_in_county = 50.81
+
+[[zipcodes]]
+zipcode = 37166
+percent_zip_in_county = 0.86
+
+[[zipcodes]]
+zipcode = 37190
+percent_zip_in_county = 98.99
+
+[[zipcodes]]
+zipcode = 37357
+percent_zip_in_county = 6.24

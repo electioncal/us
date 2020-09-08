@@ -1,2 +1,42 @@
 name = "Dallas County"
 fips_code = 1047
+
+[[zipcodes]]
+zipcode = 36701
+percent_zip_in_county = 98.45
+
+[[zipcodes]]
+zipcode = 36703
+percent_zip_in_county = 98.75
+
+[[zipcodes]]
+zipcode = 36749
+percent_zip_in_county = 37.92
+
+[[zipcodes]]
+zipcode = 36758
+percent_zip_in_county = 47.66
+
+[[zipcodes]]
+zipcode = 36759
+percent_zip_in_county = 88.41
+
+[[zipcodes]]
+zipcode = 36761
+percent_zip_in_county = 50.13
+
+[[zipcodes]]
+zipcode = 36767
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36773
+percent_zip_in_county = 72.07
+
+[[zipcodes]]
+zipcode = 36775
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36785
+percent_zip_in_county = 23.86

@@ -1,2 +1,50 @@
 name = "Butler County"
 fips_code = 29023
+
+[[zipcodes]]
+zipcode = 63901
+percent_zip_in_county = 99.9
+
+[[zipcodes]]
+zipcode = 63902
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 63932
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63937
+percent_zip_in_county = 9.45
+
+[[zipcodes]]
+zipcode = 63940
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63945
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63953
+percent_zip_in_county = 3.79
+
+[[zipcodes]]
+zipcode = 63954
+percent_zip_in_county = 95.41
+
+[[zipcodes]]
+zipcode = 63961
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63962
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63966
+percent_zip_in_county = 20.95
+
+[[zipcodes]]
+zipcode = 63967
+percent_zip_in_county = 34.52

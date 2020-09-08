@@ -1,2 +1,62 @@
 name = "Yellowstone County"
 fips_code = 30111
+
+[[zipcodes]]
+zipcode = 59002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59006
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59015
+percent_zip_in_county = 79.17
+
+[[zipcodes]]
+zipcode = 59024
+percent_zip_in_county = 90.51
+
+[[zipcodes]]
+zipcode = 59037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59041
+percent_zip_in_county = 2.56
+
+[[zipcodes]]
+zipcode = 59044
+percent_zip_in_county = 96.76
+
+[[zipcodes]]
+zipcode = 59057
+percent_zip_in_county = 75.87
+
+[[zipcodes]]
+zipcode = 59064
+percent_zip_in_county = 89.08
+
+[[zipcodes]]
+zipcode = 59079
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59088
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59101
+percent_zip_in_county = 99.94
+
+[[zipcodes]]
+zipcode = 59102
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59105
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59106
+percent_zip_in_county = 100.0

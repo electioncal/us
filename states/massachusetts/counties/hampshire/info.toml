@@ -1,2 +1,110 @@
 name = "Hampshire County"
 fips_code = 25015
+
+[[zipcodes]]
+zipcode = 1002
+percent_zip_in_county = 99.03
+
+[[zipcodes]]
+zipcode = 1003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1011
+percent_zip_in_county = 13.65
+
+[[zipcodes]]
+zipcode = 1012
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1026
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1038
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1039
+percent_zip_in_county = 84.88
+
+[[zipcodes]]
+zipcode = 1050
+percent_zip_in_county = 86.17
+
+[[zipcodes]]
+zipcode = 1053
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1060
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1062
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1063
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1066
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1073
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1075
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1082
+percent_zip_in_county = 95.64
+
+[[zipcodes]]
+zipcode = 1084
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1088
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1096
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1098
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 1243
+percent_zip_in_county = 100.0

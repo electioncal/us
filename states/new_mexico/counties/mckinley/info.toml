@@ -1,2 +1,94 @@
 name = "McKinley County"
 fips_code = 35031
+
+[[zipcodes]]
+zipcode = 86504
+percent_zip_in_county = 11.44
+
+[[zipcodes]]
+zipcode = 86515
+percent_zip_in_county = 35.39
+
+[[zipcodes]]
+zipcode = 87013
+percent_zip_in_county = 26.56
+
+[[zipcodes]]
+zipcode = 87045
+percent_zip_in_county = 97.54
+
+[[zipcodes]]
+zipcode = 87301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87305
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87310
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87311
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87312
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87313
+percent_zip_in_county = 94.44
+
+[[zipcodes]]
+zipcode = 87316
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87317
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87319
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87320
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87321
+percent_zip_in_county = 27.13
+
+[[zipcodes]]
+zipcode = 87322
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87323
+percent_zip_in_county = 94.32
+
+[[zipcodes]]
+zipcode = 87325
+percent_zip_in_county = 56.49
+
+[[zipcodes]]
+zipcode = 87326
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87327
+percent_zip_in_county = 99.92
+
+[[zipcodes]]
+zipcode = 87328
+percent_zip_in_county = 77.47
+
+[[zipcodes]]
+zipcode = 87347
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87375
+percent_zip_in_county = 100.0

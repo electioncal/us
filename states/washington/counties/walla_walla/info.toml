@@ -1,2 +1,34 @@
 name = "Walla Walla County"
 fips_code = 53071
+
+[[zipcodes]]
+zipcode = 99323
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99324
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99329
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99348
+percent_zip_in_county = 98.75
+
+[[zipcodes]]
+zipcode = 99360
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99361
+percent_zip_in_county = 95.27
+
+[[zipcodes]]
+zipcode = 99362
+percent_zip_in_county = 99.89
+
+[[zipcodes]]
+zipcode = 99363
+percent_zip_in_county = 100.0

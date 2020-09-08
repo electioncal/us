@@ -1,2 +1,46 @@
 name = "Napa County"
 fips_code = 6055
+
+[[zipcodes]]
+zipcode = 94503
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94508
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94515
+percent_zip_in_county = 91.89
+
+[[zipcodes]]
+zipcode = 94558
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94559
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94567
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94573
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94574
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94576
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 94589
+percent_zip_in_county = 0.02
+
+[[zipcodes]]
+zipcode = 94599
+percent_zip_in_county = 100.0

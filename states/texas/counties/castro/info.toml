@@ -1,2 +1,42 @@
 name = "Castro County"
 fips_code = 48069
+
+[[zipcodes]]
+zipcode = 79027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79031
+percent_zip_in_county = 3.23
+
+[[zipcodes]]
+zipcode = 79042
+percent_zip_in_county = 3.76
+
+[[zipcodes]]
+zipcode = 79043
+percent_zip_in_county = 98.45
+
+[[zipcodes]]
+zipcode = 79045
+percent_zip_in_county = 2.49
+
+[[zipcodes]]
+zipcode = 79052
+percent_zip_in_county = 0.4
+
+[[zipcodes]]
+zipcode = 79063
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79085
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79088
+percent_zip_in_county = 0.3
+
+[[zipcodes]]
+zipcode = 79347
+percent_zip_in_county = 0.51

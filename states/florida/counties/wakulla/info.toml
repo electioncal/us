@@ -1,2 +1,18 @@
 name = "Wakulla County"
 fips_code = 12129
+
+[[zipcodes]]
+zipcode = 32327
+percent_zip_in_county = 99.96
+
+[[zipcodes]]
+zipcode = 32346
+percent_zip_in_county = 86.18
+
+[[zipcodes]]
+zipcode = 32355
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32358
+percent_zip_in_county = 96.08

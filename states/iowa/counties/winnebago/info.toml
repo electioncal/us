@@ -1,2 +1,38 @@
 name = "Winnebago County"
 fips_code = 19189
+
+[[zipcodes]]
+zipcode = 50424
+percent_zip_in_county = 88.46
+
+[[zipcodes]]
+zipcode = 50436
+percent_zip_in_county = 82.97
+
+[[zipcodes]]
+zipcode = 50446
+percent_zip_in_county = 6.02
+
+[[zipcodes]]
+zipcode = 50450
+percent_zip_in_county = 94.13
+
+[[zipcodes]]
+zipcode = 50453
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50465
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50473
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50478
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50484
+percent_zip_in_county = 13.96

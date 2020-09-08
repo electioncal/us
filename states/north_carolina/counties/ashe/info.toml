@@ -1,2 +1,54 @@
 name = "Ashe County"
 fips_code = 37009
+
+[[zipcodes]]
+zipcode = 28615
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28617
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28626
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28629
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28631
+percent_zip_in_county = 95.29
+
+[[zipcodes]]
+zipcode = 28640
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28643
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28644
+percent_zip_in_county = 47.26
+
+[[zipcodes]]
+zipcode = 28672
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28684
+percent_zip_in_county = 55.72
+
+[[zipcodes]]
+zipcode = 28693
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28694
+percent_zip_in_county = 99.94
+
+[[zipcodes]]
+zipcode = 28698
+percent_zip_in_county = 5.98

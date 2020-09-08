@@ -1,2 +1,42 @@
 name = "Adams County"
 fips_code = 19003
+
+[[zipcodes]]
+zipcode = 50801
+percent_zip_in_county = 2.03
+
+[[zipcodes]]
+zipcode = 50837
+percent_zip_in_county = 5.85
+
+[[zipcodes]]
+zipcode = 50839
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50841
+percent_zip_in_county = 95.47
+
+[[zipcodes]]
+zipcode = 50843
+percent_zip_in_county = 1.51
+
+[[zipcodes]]
+zipcode = 50851
+percent_zip_in_county = 11.69
+
+[[zipcodes]]
+zipcode = 50853
+percent_zip_in_county = 1.57
+
+[[zipcodes]]
+zipcode = 50857
+percent_zip_in_county = 88.6
+
+[[zipcodes]]
+zipcode = 50859
+percent_zip_in_county = 97.77
+
+[[zipcodes]]
+zipcode = 50864
+percent_zip_in_county = 0.29

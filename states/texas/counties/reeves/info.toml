@@ -1,2 +1,22 @@
 name = "Reeves County"
 fips_code = 48389
+
+[[zipcodes]]
+zipcode = 79718
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79770
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79772
+percent_zip_in_county = 99.72
+
+[[zipcodes]]
+zipcode = 79780
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79785
+percent_zip_in_county = 100.0

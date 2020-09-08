@@ -1,2 +1,22 @@
 name = "Storey County"
 fips_code = 32029
+
+[[zipcodes]]
+zipcode = 89403
+percent_zip_in_county = 4.81
+
+[[zipcodes]]
+zipcode = 89434
+percent_zip_in_county = 4.38
+
+[[zipcodes]]
+zipcode = 89440
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89442
+percent_zip_in_county = 0.89
+
+[[zipcodes]]
+zipcode = 89521
+percent_zip_in_county = 4.9

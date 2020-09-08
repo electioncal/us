@@ -1,2 +1,22 @@
 name = "Lanier County"
 fips_code = 13173
+
+[[zipcodes]]
+zipcode = 31635
+percent_zip_in_county = 98.86
+
+[[zipcodes]]
+zipcode = 31639
+percent_zip_in_county = 0.36
+
+[[zipcodes]]
+zipcode = 31641
+percent_zip_in_county = 42.16
+
+[[zipcodes]]
+zipcode = 31645
+percent_zip_in_county = 33.55
+
+[[zipcodes]]
+zipcode = 31649
+percent_zip_in_county = 100.0

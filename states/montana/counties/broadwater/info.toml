@@ -1,2 +1,22 @@
 name = "Broadwater County"
 fips_code = 30007
+
+[[zipcodes]]
+zipcode = 59635
+percent_zip_in_county = 3.16
+
+[[zipcodes]]
+zipcode = 59643
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59644
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59647
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59752
+percent_zip_in_county = 16.76

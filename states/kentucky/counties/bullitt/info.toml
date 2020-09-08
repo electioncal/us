@@ -1,2 +1,46 @@
 name = "Bullitt County"
 fips_code = 21029
+
+[[zipcodes]]
+zipcode = 40013
+percent_zip_in_county = 3.09
+
+[[zipcodes]]
+zipcode = 40047
+percent_zip_in_county = 99.86
+
+[[zipcodes]]
+zipcode = 40071
+percent_zip_in_county = 10.94
+
+[[zipcodes]]
+zipcode = 40109
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40110
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40150
+percent_zip_in_county = 97.88
+
+[[zipcodes]]
+zipcode = 40165
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40177
+percent_zip_in_county = 29.94
+
+[[zipcodes]]
+zipcode = 40229
+percent_zip_in_county = 37.22
+
+[[zipcodes]]
+zipcode = 40272
+percent_zip_in_county = 0.37
+
+[[zipcodes]]
+zipcode = 40299
+percent_zip_in_county = 0.48

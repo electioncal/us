@@ -1,2 +1,42 @@
 name = "Gregg County"
 fips_code = 48183
+
+[[zipcodes]]
+zipcode = 75601
+percent_zip_in_county = 89.08
+
+[[zipcodes]]
+zipcode = 75602
+percent_zip_in_county = 77.57
+
+[[zipcodes]]
+zipcode = 75603
+percent_zip_in_county = 74.69
+
+[[zipcodes]]
+zipcode = 75604
+percent_zip_in_county = 99.36
+
+[[zipcodes]]
+zipcode = 75605
+percent_zip_in_county = 85.3
+
+[[zipcodes]]
+zipcode = 75641
+percent_zip_in_county = 68.16
+
+[[zipcodes]]
+zipcode = 75645
+percent_zip_in_county = 0.78
+
+[[zipcodes]]
+zipcode = 75647
+percent_zip_in_county = 54.63
+
+[[zipcodes]]
+zipcode = 75662
+percent_zip_in_county = 72.11
+
+[[zipcodes]]
+zipcode = 75693
+percent_zip_in_county = 100.0

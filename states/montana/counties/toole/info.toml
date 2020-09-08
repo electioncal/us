@@ -1,2 +1,30 @@
 name = "Toole County"
 fips_code = 30101
+
+[[zipcodes]]
+zipcode = 59444
+percent_zip_in_county = 32.96
+
+[[zipcodes]]
+zipcode = 59454
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59456
+percent_zip_in_county = 75.54
+
+[[zipcodes]]
+zipcode = 59466
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59474
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59482
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59484
+percent_zip_in_county = 100.0

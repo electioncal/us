@@ -1,2 +1,102 @@
 name = "Woodbury County"
 fips_code = 19193
+
+[[zipcodes]]
+zipcode = 51004
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51006
+percent_zip_in_county = 4.47
+
+[[zipcodes]]
+zipcode = 51007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51016
+percent_zip_in_county = 97.1
+
+[[zipcodes]]
+zipcode = 51018
+percent_zip_in_county = 77.48
+
+[[zipcodes]]
+zipcode = 51019
+percent_zip_in_county = 88.36
+
+[[zipcodes]]
+zipcode = 51026
+percent_zip_in_county = 88.28
+
+[[zipcodes]]
+zipcode = 51028
+percent_zip_in_county = 8.52
+
+[[zipcodes]]
+zipcode = 51030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51034
+percent_zip_in_county = 4.18
+
+[[zipcodes]]
+zipcode = 51039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51044
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51048
+percent_zip_in_county = 85.74
+
+[[zipcodes]]
+zipcode = 51052
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51054
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51055
+percent_zip_in_county = 86.2
+
+[[zipcodes]]
+zipcode = 51056
+percent_zip_in_county = 96.86
+
+[[zipcodes]]
+zipcode = 51101
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51104
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51105
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51106
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51108
+percent_zip_in_county = 77.81
+
+[[zipcodes]]
+zipcode = 51109
+percent_zip_in_county = 89.93
+
+[[zipcodes]]
+zipcode = 51111
+percent_zip_in_county = 100.0

@@ -1,2 +1,18 @@
 name = "Harrison County"
 fips_code = 21097
+
+[[zipcodes]]
+zipcode = 40370
+percent_zip_in_county = 25.12
+
+[[zipcodes]]
+zipcode = 41003
+percent_zip_in_county = 77.78
+
+[[zipcodes]]
+zipcode = 41010
+percent_zip_in_county = 10.07
+
+[[zipcodes]]
+zipcode = 41031
+percent_zip_in_county = 98.58

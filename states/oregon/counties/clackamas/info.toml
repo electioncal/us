@@ -1,2 +1,150 @@
 name = "Clackamas County"
 fips_code = 41005
+
+[[zipcodes]]
+zipcode = 97002
+percent_zip_in_county = 23.72
+
+[[zipcodes]]
+zipcode = 97004
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97009
+percent_zip_in_county = 98.7
+
+[[zipcodes]]
+zipcode = 97011
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97013
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97015
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97017
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97019
+percent_zip_in_county = 3.23
+
+[[zipcodes]]
+zipcode = 97022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97028
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97032
+percent_zip_in_county = 10.95
+
+[[zipcodes]]
+zipcode = 97034
+percent_zip_in_county = 99.16
+
+[[zipcodes]]
+zipcode = 97035
+percent_zip_in_county = 86.0
+
+[[zipcodes]]
+zipcode = 97038
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97042
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97049
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97055
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97062
+percent_zip_in_county = 13.96
+
+[[zipcodes]]
+zipcode = 97067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97068
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97070
+percent_zip_in_county = 89.09
+
+[[zipcodes]]
+zipcode = 97071
+percent_zip_in_county = 3.56
+
+[[zipcodes]]
+zipcode = 97080
+percent_zip_in_county = 0.03
+
+[[zipcodes]]
+zipcode = 97086
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97089
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97132
+percent_zip_in_county = 0.3
+
+[[zipcodes]]
+zipcode = 97140
+percent_zip_in_county = 6.39
+
+[[zipcodes]]
+zipcode = 97202
+percent_zip_in_county = 0.45
+
+[[zipcodes]]
+zipcode = 97206
+percent_zip_in_county = 3.55
+
+[[zipcodes]]
+zipcode = 97219
+percent_zip_in_county = 2.63
+
+[[zipcodes]]
+zipcode = 97222
+percent_zip_in_county = 99.55
+
+[[zipcodes]]
+zipcode = 97267
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97362
+percent_zip_in_county = 3.04
+
+[[zipcodes]]
+zipcode = 97375
+percent_zip_in_county = 12.06

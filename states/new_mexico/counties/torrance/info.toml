@@ -1,2 +1,46 @@
 name = "Torrance County"
 fips_code = 35057
+
+[[zipcodes]]
+zipcode = 87015
+percent_zip_in_county = 17.99
+
+[[zipcodes]]
+zipcode = 87016
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87035
+percent_zip_in_county = 98.6
+
+[[zipcodes]]
+zipcode = 87036
+percent_zip_in_county = 98.82
+
+[[zipcodes]]
+zipcode = 87061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87063
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88301
+percent_zip_in_county = 2.81
+
+[[zipcodes]]
+zipcode = 88318
+percent_zip_in_county = 15.22
+
+[[zipcodes]]
+zipcode = 88321
+percent_zip_in_county = 85.56

@@ -1,2 +1,54 @@
 name = "Dickinson County"
 fips_code = 26043
+
+[[zipcodes]]
+zipcode = 49801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49802
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49807
+percent_zip_in_county = 6.4
+
+[[zipcodes]]
+zipcode = 49815
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49831
+percent_zip_in_county = 92.18
+
+[[zipcodes]]
+zipcode = 49834
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49852
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49870
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49873
+percent_zip_in_county = 3.33
+
+[[zipcodes]]
+zipcode = 49876
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49877
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49881
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49892
+percent_zip_in_county = 87.32

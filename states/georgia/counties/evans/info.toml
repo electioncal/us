@@ -1,2 +1,18 @@
 name = "Evans County"
 fips_code = 13109
+
+[[zipcodes]]
+zipcode = 30417
+percent_zip_in_county = 96.12
+
+[[zipcodes]]
+zipcode = 30423
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30427
+percent_zip_in_county = 0.12
+
+[[zipcodes]]
+zipcode = 30429
+percent_zip_in_county = 100.0

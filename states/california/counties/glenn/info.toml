@@ -1,2 +1,30 @@
 name = "Glenn County"
 fips_code = 6021
+
+[[zipcodes]]
+zipcode = 95920
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95939
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95943
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95951
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95963
+percent_zip_in_county = 95.11
+
+[[zipcodes]]
+zipcode = 95970
+percent_zip_in_county = 32.45
+
+[[zipcodes]]
+zipcode = 95988
+percent_zip_in_county = 100.0

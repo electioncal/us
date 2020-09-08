@@ -1,2 +1,62 @@
 name = "Edgar County"
 fips_code = 17045
+
+[[zipcodes]]
+zipcode = 61810
+percent_zip_in_county = 2.22
+
+[[zipcodes]]
+zipcode = 61870
+percent_zip_in_county = 3.39
+
+[[zipcodes]]
+zipcode = 61876
+percent_zip_in_county = 6.0
+
+[[zipcodes]]
+zipcode = 61917
+percent_zip_in_county = 97.63
+
+[[zipcodes]]
+zipcode = 61924
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61932
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61933
+percent_zip_in_county = 96.67
+
+[[zipcodes]]
+zipcode = 61940
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61942
+percent_zip_in_county = 2.41
+
+[[zipcodes]]
+zipcode = 61943
+percent_zip_in_county = 4.15
+
+[[zipcodes]]
+zipcode = 61944
+percent_zip_in_county = 99.92
+
+[[zipcodes]]
+zipcode = 61949
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61955
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62423
+percent_zip_in_county = 15.06
+
+[[zipcodes]]
+zipcode = 62441
+percent_zip_in_county = 2.6

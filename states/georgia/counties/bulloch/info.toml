@@ -1,2 +1,46 @@
 name = "Bulloch County"
 fips_code = 13031
+
+[[zipcodes]]
+zipcode = 30415
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30417
+percent_zip_in_county = 0.12
+
+[[zipcodes]]
+zipcode = 30425
+percent_zip_in_county = 17.53
+
+[[zipcodes]]
+zipcode = 30450
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30452
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30458
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30460
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30461
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30471
+percent_zip_in_county = 4.57
+
+[[zipcodes]]
+zipcode = 31308
+percent_zip_in_county = 22.59
+
+[[zipcodes]]
+zipcode = 31321
+percent_zip_in_county = 35.46

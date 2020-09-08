@@ -1,2 +1,126 @@
 name = "Guilford County"
 fips_code = 37081
+
+[[zipcodes]]
+zipcode = 27214
+percent_zip_in_county = 95.55
+
+[[zipcodes]]
+zipcode = 27215
+percent_zip_in_county = 3.68
+
+[[zipcodes]]
+zipcode = 27233
+percent_zip_in_county = 37.76
+
+[[zipcodes]]
+zipcode = 27235
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27244
+percent_zip_in_county = 2.6
+
+[[zipcodes]]
+zipcode = 27249
+percent_zip_in_county = 67.34
+
+[[zipcodes]]
+zipcode = 27260
+percent_zip_in_county = 98.9
+
+[[zipcodes]]
+zipcode = 27262
+percent_zip_in_county = 93.63
+
+[[zipcodes]]
+zipcode = 27263
+percent_zip_in_county = 32.06
+
+[[zipcodes]]
+zipcode = 27265
+percent_zip_in_county = 82.64
+
+[[zipcodes]]
+zipcode = 27282
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27283
+percent_zip_in_county = 97.61
+
+[[zipcodes]]
+zipcode = 27284
+percent_zip_in_county = 4.93
+
+[[zipcodes]]
+zipcode = 27298
+percent_zip_in_county = 15.55
+
+[[zipcodes]]
+zipcode = 27301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27310
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27313
+percent_zip_in_county = 67.05
+
+[[zipcodes]]
+zipcode = 27317
+percent_zip_in_county = 3.14
+
+[[zipcodes]]
+zipcode = 27320
+percent_zip_in_county = 0.55
+
+[[zipcodes]]
+zipcode = 27357
+percent_zip_in_county = 44.27
+
+[[zipcodes]]
+zipcode = 27358
+percent_zip_in_county = 82.31
+
+[[zipcodes]]
+zipcode = 27377
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27403
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27405
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27406
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27407
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27408
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27409
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27410
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27455
+percent_zip_in_county = 100.0

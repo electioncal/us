@@ -1,2 +1,50 @@
 name = "Franklin County"
 fips_code = 20059
+
+[[zipcodes]]
+zipcode = 66006
+percent_zip_in_county = 0.78
+
+[[zipcodes]]
+zipcode = 66033
+percent_zip_in_county = 10.69
+
+[[zipcodes]]
+zipcode = 66042
+percent_zip_in_county = 69.1
+
+[[zipcodes]]
+zipcode = 66064
+percent_zip_in_county = 0.74
+
+[[zipcodes]]
+zipcode = 66067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66076
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66078
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66079
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66080
+percent_zip_in_county = 85.45
+
+[[zipcodes]]
+zipcode = 66092
+percent_zip_in_county = 81.42
+
+[[zipcodes]]
+zipcode = 66095
+percent_zip_in_county = 98.21
+
+[[zipcodes]]
+zipcode = 66528
+percent_zip_in_county = 13.33

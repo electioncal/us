@@ -1,2 +1,18 @@
 name = "Oneida County"
 fips_code = 16071
+
+[[zipcodes]]
+zipcode = 83212
+percent_zip_in_county = 4.38
+
+[[zipcodes]]
+zipcode = 83243
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83252
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83342
+percent_zip_in_county = 3.36

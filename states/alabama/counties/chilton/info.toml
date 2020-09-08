@@ -1,2 +1,58 @@
 name = "Chilton County"
 fips_code = 1021
+
+[[zipcodes]]
+zipcode = 35040
+percent_zip_in_county = 6.25
+
+[[zipcodes]]
+zipcode = 35045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35046
+percent_zip_in_county = 98.9
+
+[[zipcodes]]
+zipcode = 35085
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35115
+percent_zip_in_county = 18.56
+
+[[zipcodes]]
+zipcode = 35171
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36006
+percent_zip_in_county = 24.3
+
+[[zipcodes]]
+zipcode = 36051
+percent_zip_in_county = 17.19
+
+[[zipcodes]]
+zipcode = 36091
+percent_zip_in_county = 89.39
+
+[[zipcodes]]
+zipcode = 36750
+percent_zip_in_county = 98.07
+
+[[zipcodes]]
+zipcode = 36758
+percent_zip_in_county = 31.52
+
+[[zipcodes]]
+zipcode = 36790
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36792
+percent_zip_in_county = 38.92
+
+[[zipcodes]]
+zipcode = 36793
+percent_zip_in_county = 16.2

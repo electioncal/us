@@ -1,2 +1,86 @@
 name = "Orangeburg County"
 fips_code = 45075
+
+[[zipcodes]]
+zipcode = 29018
+percent_zip_in_county = 93.89
+
+[[zipcodes]]
+zipcode = 29030
+percent_zip_in_county = 25.62
+
+[[zipcodes]]
+zipcode = 29038
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29047
+percent_zip_in_county = 64.0
+
+[[zipcodes]]
+zipcode = 29048
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29059
+percent_zip_in_county = 97.03
+
+[[zipcodes]]
+zipcode = 29107
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29112
+percent_zip_in_county = 90.26
+
+[[zipcodes]]
+zipcode = 29113
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29115
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29117
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29118
+percent_zip_in_county = 96.47
+
+[[zipcodes]]
+zipcode = 29133
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29135
+percent_zip_in_county = 2.59
+
+[[zipcodes]]
+zipcode = 29137
+percent_zip_in_county = 10.0
+
+[[zipcodes]]
+zipcode = 29142
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29146
+percent_zip_in_county = 74.36
+
+[[zipcodes]]
+zipcode = 29163
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29432
+percent_zip_in_county = 80.44
+
+[[zipcodes]]
+zipcode = 29436
+percent_zip_in_county = 1.77

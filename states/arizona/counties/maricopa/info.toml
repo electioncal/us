@@ -1,2 +1,546 @@
 name = "Maricopa County"
 fips_code = 4013
+
+[[zipcodes]]
+zipcode = 85003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85004
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85006
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85008
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85009
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85012
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85013
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85014
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85015
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85016
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85017
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85018
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85019
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85028
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85029
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85031
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85035
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85042
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85044
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85048
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85050
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85053
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85054
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85083
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85085
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85086
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85087
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85120
+percent_zip_in_county = 16.23
+
+[[zipcodes]]
+zipcode = 85139
+percent_zip_in_county = 0.69
+
+[[zipcodes]]
+zipcode = 85142
+percent_zip_in_county = 66.26
+
+[[zipcodes]]
+zipcode = 85201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85202
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85203
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85204
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85205
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85206
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85207
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85208
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85209
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85210
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85212
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85213
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85215
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85224
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85225
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85226
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85233
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85234
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85248
+percent_zip_in_county = 97.55
+
+[[zipcodes]]
+zipcode = 85249
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85250
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85251
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85253
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85254
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85255
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85256
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85257
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85258
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85259
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85260
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85262
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85263
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85264
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85266
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85268
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85281
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85282
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85283
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85284
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85286
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85295
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85296
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85297
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85298
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85302
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85303
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85304
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85305
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85306
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85307
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85308
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85309
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85310
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85320
+percent_zip_in_county = 98.66
+
+[[zipcodes]]
+zipcode = 85321
+percent_zip_in_county = 3.4
+
+[[zipcodes]]
+zipcode = 85322
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85323
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85326
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85331
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85333
+percent_zip_in_county = 9.75
+
+[[zipcodes]]
+zipcode = 85335
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85337
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85338
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85339
+percent_zip_in_county = 99.85
+
+[[zipcodes]]
+zipcode = 85340
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85342
+percent_zip_in_county = 97.21
+
+[[zipcodes]]
+zipcode = 85343
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85345
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85351
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85353
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85354
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85355
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85361
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85363
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85373
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85374
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85375
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85377
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85379
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85381
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85382
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85383
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85387
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85388
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85390
+percent_zip_in_county = 91.66
+
+[[zipcodes]]
+zipcode = 85392
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85395
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85396
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85545
+percent_zip_in_county = 2.57

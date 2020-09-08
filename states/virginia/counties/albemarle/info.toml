@@ -1,2 +1,98 @@
 name = "Albemarle County"
 fips_code = 51003
+
+[[zipcodes]]
+zipcode = 22901
+percent_zip_in_county = 82.36
+
+[[zipcodes]]
+zipcode = 22902
+percent_zip_in_county = 43.28
+
+[[zipcodes]]
+zipcode = 22903
+percent_zip_in_county = 33.29
+
+[[zipcodes]]
+zipcode = 22904
+percent_zip_in_county = 95.75
+
+[[zipcodes]]
+zipcode = 22911
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22920
+percent_zip_in_county = 33.87
+
+[[zipcodes]]
+zipcode = 22923
+percent_zip_in_county = 25.1
+
+[[zipcodes]]
+zipcode = 22931
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22932
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22935
+percent_zip_in_county = 44.6
+
+[[zipcodes]]
+zipcode = 22936
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22937
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22938
+percent_zip_in_county = 4.99
+
+[[zipcodes]]
+zipcode = 22940
+percent_zip_in_county = 87.4
+
+[[zipcodes]]
+zipcode = 22942
+percent_zip_in_county = 5.81
+
+[[zipcodes]]
+zipcode = 22943
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22946
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22947
+percent_zip_in_county = 94.0
+
+[[zipcodes]]
+zipcode = 22959
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22968
+percent_zip_in_county = 3.56
+
+[[zipcodes]]
+zipcode = 22969
+percent_zip_in_county = 49.83
+
+[[zipcodes]]
+zipcode = 22974
+percent_zip_in_county = 7.58
+
+[[zipcodes]]
+zipcode = 24562
+percent_zip_in_county = 3.52
+
+[[zipcodes]]
+zipcode = 24590
+percent_zip_in_county = 41.27

@@ -1,2 +1,86 @@
 name = "Portage County"
 fips_code = 55097
+
+[[zipcodes]]
+zipcode = 54406
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54407
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54423
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54443
+percent_zip_in_county = 98.6
+
+[[zipcodes]]
+zipcode = 54454
+percent_zip_in_county = 1.41
+
+[[zipcodes]]
+zipcode = 54455
+percent_zip_in_county = 2.16
+
+[[zipcodes]]
+zipcode = 54458
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54467
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54473
+percent_zip_in_county = 77.44
+
+[[zipcodes]]
+zipcode = 54475
+percent_zip_in_county = 8.97
+
+[[zipcodes]]
+zipcode = 54481
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54482
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54494
+percent_zip_in_county = 7.1
+
+[[zipcodes]]
+zipcode = 54499
+percent_zip_in_county = 0.56
+
+[[zipcodes]]
+zipcode = 54909
+percent_zip_in_county = 91.24
+
+[[zipcodes]]
+zipcode = 54921
+percent_zip_in_county = 92.99
+
+[[zipcodes]]
+zipcode = 54945
+percent_zip_in_county = 0.37
+
+[[zipcodes]]
+zipcode = 54966
+percent_zip_in_county = 12.6
+
+[[zipcodes]]
+zipcode = 54977
+percent_zip_in_county = 6.58
+
+[[zipcodes]]
+zipcode = 54981
+percent_zip_in_county = 2.26
+
+[[zipcodes]]
+zipcode = 54984
+percent_zip_in_county = 1.71

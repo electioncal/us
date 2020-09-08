@@ -1,2 +1,58 @@
 name = "Martin County"
 fips_code = 27091
+
+[[zipcodes]]
+zipcode = 56013
+percent_zip_in_county = 1.92
+
+[[zipcodes]]
+zipcode = 56027
+percent_zip_in_county = 4.54
+
+[[zipcodes]]
+zipcode = 56031
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56075
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56088
+percent_zip_in_county = 87.46
+
+[[zipcodes]]
+zipcode = 56098
+percent_zip_in_county = 4.47
+
+[[zipcodes]]
+zipcode = 56121
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56127
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56160
+percent_zip_in_county = 29.44
+
+[[zipcodes]]
+zipcode = 56162
+percent_zip_in_county = 55.44
+
+[[zipcodes]]
+zipcode = 56171
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56176
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56181
+percent_zip_in_county = 100.0

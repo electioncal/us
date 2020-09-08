@@ -1,2 +1,46 @@
 name = "Cumberland County"
 fips_code = 47035
+
+[[zipcodes]]
+zipcode = 37337
+percent_zip_in_county = 39.39
+
+[[zipcodes]]
+zipcode = 37367
+percent_zip_in_county = 0.46
+
+[[zipcodes]]
+zipcode = 37723
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37854
+percent_zip_in_county = 14.45
+
+[[zipcodes]]
+zipcode = 38555
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38558
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38571
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38572
+percent_zip_in_county = 98.82
+
+[[zipcodes]]
+zipcode = 38574
+percent_zip_in_county = 13.56
+
+[[zipcodes]]
+zipcode = 38578
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38583
+percent_zip_in_county = 4.71

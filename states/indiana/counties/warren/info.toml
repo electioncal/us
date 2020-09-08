@@ -1,2 +1,42 @@
 name = "Warren County"
 fips_code = 18171
+
+[[zipcodes]]
+zipcode = 47906
+percent_zip_in_county = 0.15
+
+[[zipcodes]]
+zipcode = 47917
+percent_zip_in_county = 35.23
+
+[[zipcodes]]
+zipcode = 47918
+percent_zip_in_county = 20.84
+
+[[zipcodes]]
+zipcode = 47921
+percent_zip_in_county = 12.24
+
+[[zipcodes]]
+zipcode = 47932
+percent_zip_in_county = 9.5
+
+[[zipcodes]]
+zipcode = 47970
+percent_zip_in_county = 24.93
+
+[[zipcodes]]
+zipcode = 47975
+percent_zip_in_county = 97.4
+
+[[zipcodes]]
+zipcode = 47982
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47991
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47993
+percent_zip_in_county = 100.0

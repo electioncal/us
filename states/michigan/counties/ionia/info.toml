@@ -1,2 +1,78 @@
 name = "Ionia County"
 fips_code = 26067
+
+[[zipcodes]]
+zipcode = 48809
+percent_zip_in_county = 85.24
+
+[[zipcodes]]
+zipcode = 48815
+percent_zip_in_county = 98.63
+
+[[zipcodes]]
+zipcode = 48834
+percent_zip_in_county = 31.58
+
+[[zipcodes]]
+zipcode = 48837
+percent_zip_in_county = 1.07
+
+[[zipcodes]]
+zipcode = 48838
+percent_zip_in_county = 0.16
+
+[[zipcodes]]
+zipcode = 48845
+percent_zip_in_county = 73.48
+
+[[zipcodes]]
+zipcode = 48846
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48849
+percent_zip_in_county = 82.16
+
+[[zipcodes]]
+zipcode = 48851
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48860
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48861
+percent_zip_in_county = 9.26
+
+[[zipcodes]]
+zipcode = 48865
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48870
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48873
+percent_zip_in_county = 83.28
+
+[[zipcodes]]
+zipcode = 48875
+percent_zip_in_county = 95.59
+
+[[zipcodes]]
+zipcode = 48881
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48890
+percent_zip_in_county = 40.01
+
+[[zipcodes]]
+zipcode = 49325
+percent_zip_in_county = 9.64
+
+[[zipcodes]]
+zipcode = 49331
+percent_zip_in_county = 13.08

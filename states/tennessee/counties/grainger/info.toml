@@ -1,2 +1,30 @@
 name = "Grainger County"
 fips_code = 47057
+
+[[zipcodes]]
+zipcode = 37708
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37709
+percent_zip_in_county = 97.64
+
+[[zipcodes]]
+zipcode = 37811
+percent_zip_in_county = 4.82
+
+[[zipcodes]]
+zipcode = 37848
+percent_zip_in_county = 72.76
+
+[[zipcodes]]
+zipcode = 37861
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37881
+percent_zip_in_county = 54.91
+
+[[zipcodes]]
+zipcode = 37888
+percent_zip_in_county = 91.86

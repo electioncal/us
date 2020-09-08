@@ -1,2 +1,122 @@
 name = "Madison County"
 fips_code = 36053
+
+[[zipcodes]]
+zipcode = 13030
+percent_zip_in_county = 54.62
+
+[[zipcodes]]
+zipcode = 13032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13035
+percent_zip_in_county = 97.11
+
+[[zipcodes]]
+zipcode = 13037
+percent_zip_in_county = 97.85
+
+[[zipcodes]]
+zipcode = 13052
+percent_zip_in_county = 75.64
+
+[[zipcodes]]
+zipcode = 13061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13072
+percent_zip_in_county = 77.2
+
+[[zipcodes]]
+zipcode = 13082
+percent_zip_in_county = 59.08
+
+[[zipcodes]]
+zipcode = 13104
+percent_zip_in_county = 0.24
+
+[[zipcodes]]
+zipcode = 13122
+percent_zip_in_county = 84.67
+
+[[zipcodes]]
+zipcode = 13134
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13163
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13310
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13314
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13332
+percent_zip_in_county = 73.82
+
+[[zipcodes]]
+zipcode = 13334
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13346
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13355
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13364
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13402
+percent_zip_in_county = 98.76
+
+[[zipcodes]]
+zipcode = 13408
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13409
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13418
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13421
+percent_zip_in_county = 83.12
+
+[[zipcodes]]
+zipcode = 13425
+percent_zip_in_county = 7.06
+
+[[zipcodes]]
+zipcode = 13460
+percent_zip_in_county = 0.38
+
+[[zipcodes]]
+zipcode = 13480
+percent_zip_in_county = 2.18
+
+[[zipcodes]]
+zipcode = 13484
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13485
+percent_zip_in_county = 69.35
+
+[[zipcodes]]
+zipcode = 13491
+percent_zip_in_county = 11.23

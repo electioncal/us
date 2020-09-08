@@ -1,2 +1,46 @@
 name = "Dyer County"
 fips_code = 47045
+
+[[zipcodes]]
+zipcode = 38007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38034
+percent_zip_in_county = 23.95
+
+[[zipcodes]]
+zipcode = 38040
+percent_zip_in_county = 5.64
+
+[[zipcodes]]
+zipcode = 38047
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38059
+percent_zip_in_county = 96.91
+
+[[zipcodes]]
+zipcode = 38070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38080
+percent_zip_in_county = 11.33
+
+[[zipcodes]]
+zipcode = 38240
+percent_zip_in_county = 3.45
+
+[[zipcodes]]
+zipcode = 38259
+percent_zip_in_county = 91.74

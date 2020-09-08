@@ -1,2 +1,54 @@
 name = "De Witt County"
 fips_code = 17039
+
+[[zipcodes]]
+zipcode = 61727
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61735
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61745
+percent_zip_in_county = 1.79
+
+[[zipcodes]]
+zipcode = 61749
+percent_zip_in_county = 92.09
+
+[[zipcodes]]
+zipcode = 61750
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61752
+percent_zip_in_county = 0.92
+
+[[zipcodes]]
+zipcode = 61754
+percent_zip_in_county = 4.52
+
+[[zipcodes]]
+zipcode = 61756
+percent_zip_in_county = 6.25
+
+[[zipcodes]]
+zipcode = 61777
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61778
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61842
+percent_zip_in_county = 93.77
+
+[[zipcodes]]
+zipcode = 61882
+percent_zip_in_county = 97.48
+
+[[zipcodes]]
+zipcode = 62512
+percent_zip_in_county = 6.2

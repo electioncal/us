@@ -1,2 +1,42 @@
 name = "Barber County"
 fips_code = 20007
+
+[[zipcodes]]
+zipcode = 67028
+percent_zip_in_county = 25.78
+
+[[zipcodes]]
+zipcode = 67057
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67061
+percent_zip_in_county = 82.46
+
+[[zipcodes]]
+zipcode = 67065
+percent_zip_in_county = 67.11
+
+[[zipcodes]]
+zipcode = 67070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67071
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67104
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67134
+percent_zip_in_county = 10.48
+
+[[zipcodes]]
+zipcode = 67138
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67143
+percent_zip_in_county = 100.0

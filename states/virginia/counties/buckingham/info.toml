@@ -1,2 +1,46 @@
 name = "Buckingham County"
 fips_code = 51029
+
+[[zipcodes]]
+zipcode = 23004
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23040
+percent_zip_in_county = 6.35
+
+[[zipcodes]]
+zipcode = 23123
+percent_zip_in_county = 96.67
+
+[[zipcodes]]
+zipcode = 23901
+percent_zip_in_county = 6.57
+
+[[zipcodes]]
+zipcode = 23921
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23936
+percent_zip_in_county = 98.33
+
+[[zipcodes]]
+zipcode = 24522
+percent_zip_in_county = 0.43
+
+[[zipcodes]]
+zipcode = 24553
+percent_zip_in_county = 20.82
+
+[[zipcodes]]
+zipcode = 24562
+percent_zip_in_county = 78.17
+
+[[zipcodes]]
+zipcode = 24590
+percent_zip_in_county = 24.2
+
+[[zipcodes]]
+zipcode = 24599
+percent_zip_in_county = 55.28

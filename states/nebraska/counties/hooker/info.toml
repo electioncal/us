@@ -1,2 +1,6 @@
 name = "Hooker County"
 fips_code = 31091
+
+[[zipcodes]]
+zipcode = 69152
+percent_zip_in_county = 83.07

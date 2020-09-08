@@ -1,2 +1,66 @@
 name = "Tillamook County"
 fips_code = 41057
+
+[[zipcodes]]
+zipcode = 97102
+percent_zip_in_county = 8.78
+
+[[zipcodes]]
+zipcode = 97107
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97108
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97112
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97118
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97122
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97130
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97131
+percent_zip_in_county = 96.96
+
+[[zipcodes]]
+zipcode = 97134
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97135
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97136
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97141
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97147
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97149
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97347
+percent_zip_in_county = 0.21
+
+[[zipcodes]]
+zipcode = 97368
+percent_zip_in_county = 0.58

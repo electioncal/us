@@ -1,2 +1,46 @@
 name = "Bosque County"
 fips_code = 48035
+
+[[zipcodes]]
+zipcode = 76043
+percent_zip_in_county = 0.13
+
+[[zipcodes]]
+zipcode = 76457
+percent_zip_in_county = 5.0
+
+[[zipcodes]]
+zipcode = 76633
+percent_zip_in_county = 9.75
+
+[[zipcodes]]
+zipcode = 76634
+percent_zip_in_county = 99.38
+
+[[zipcodes]]
+zipcode = 76637
+percent_zip_in_county = 91.04
+
+[[zipcodes]]
+zipcode = 76649
+percent_zip_in_county = 91.52
+
+[[zipcodes]]
+zipcode = 76652
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76665
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76671
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76689
+percent_zip_in_county = 66.89
+
+[[zipcodes]]
+zipcode = 76690
+percent_zip_in_county = 100.0

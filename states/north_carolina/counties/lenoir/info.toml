@@ -1,2 +1,42 @@
 name = "Lenoir County"
 fips_code = 37107
+
+[[zipcodes]]
+zipcode = 28501
+percent_zip_in_county = 96.84
+
+[[zipcodes]]
+zipcode = 28504
+percent_zip_in_county = 99.79
+
+[[zipcodes]]
+zipcode = 28525
+percent_zip_in_county = 93.9
+
+[[zipcodes]]
+zipcode = 28526
+percent_zip_in_county = 1.17
+
+[[zipcodes]]
+zipcode = 28530
+percent_zip_in_county = 35.32
+
+[[zipcodes]]
+zipcode = 28538
+percent_zip_in_county = 11.82
+
+[[zipcodes]]
+zipcode = 28551
+percent_zip_in_county = 62.59
+
+[[zipcodes]]
+zipcode = 28572
+percent_zip_in_county = 37.93
+
+[[zipcodes]]
+zipcode = 28578
+percent_zip_in_county = 15.83
+
+[[zipcodes]]
+zipcode = 28580
+percent_zip_in_county = 0.25

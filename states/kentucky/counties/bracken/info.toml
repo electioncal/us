@@ -1,2 +1,26 @@
 name = "Bracken County"
 fips_code = 21023
+
+[[zipcodes]]
+zipcode = 41002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41004
+percent_zip_in_county = 97.38
+
+[[zipcodes]]
+zipcode = 41040
+percent_zip_in_county = 2.09
+
+[[zipcodes]]
+zipcode = 41043
+percent_zip_in_county = 72.21
+
+[[zipcodes]]
+zipcode = 41044
+percent_zip_in_county = 46.95
+
+[[zipcodes]]
+zipcode = 41064
+percent_zip_in_county = 1.35

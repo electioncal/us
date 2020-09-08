@@ -1,2 +1,26 @@
 name = "Chattooga County"
 fips_code = 13055
+
+[[zipcodes]]
+zipcode = 30105
+percent_zip_in_county = 9.46
+
+[[zipcodes]]
+zipcode = 30165
+percent_zip_in_county = 0.05
+
+[[zipcodes]]
+zipcode = 30730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30731
+percent_zip_in_county = 73.81
+
+[[zipcodes]]
+zipcode = 30747
+percent_zip_in_county = 98.64
+
+[[zipcodes]]
+zipcode = 30753
+percent_zip_in_county = 80.08

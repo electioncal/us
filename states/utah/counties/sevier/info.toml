@@ -1,2 +1,50 @@
 name = "Sevier County"
 fips_code = 49041
+
+[[zipcodes]]
+zipcode = 84620
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84652
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84654
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84657
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84701
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84711
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84724
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84739
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84744
+percent_zip_in_county = 89.29
+
+[[zipcodes]]
+zipcode = 84754
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84766
+percent_zip_in_county = 100.0

@@ -1,2 +1,66 @@
 name = "Lincoln County"
 fips_code = 35027
+
+[[zipcodes]]
+zipcode = 87011
+percent_zip_in_county = 57.14
+
+[[zipcodes]]
+zipcode = 88301
+percent_zip_in_county = 97.19
+
+[[zipcodes]]
+zipcode = 88312
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88316
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88318
+percent_zip_in_county = 84.78
+
+[[zipcodes]]
+zipcode = 88323
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88324
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88336
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88338
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88341
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88343
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88345
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88346
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88348
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88351
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88355
+percent_zip_in_county = 100.0

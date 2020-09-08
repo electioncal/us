@@ -1,2 +1,42 @@
 name = "Dickinson County"
 fips_code = 19059
+
+[[zipcodes]]
+zipcode = 51331
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51334
+percent_zip_in_county = 1.33
+
+[[zipcodes]]
+zipcode = 51338
+percent_zip_in_county = 4.2
+
+[[zipcodes]]
+zipcode = 51345
+percent_zip_in_county = 1.74
+
+[[zipcodes]]
+zipcode = 51347
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51351
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51355
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51360
+percent_zip_in_county = 98.84
+
+[[zipcodes]]
+zipcode = 51363
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51364
+percent_zip_in_county = 92.46

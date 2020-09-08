@@ -1,2 +1,126 @@
 name = "Marion County"
 fips_code = 12083
+
+[[zipcodes]]
+zipcode = 32113
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32133
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32134
+percent_zip_in_county = 96.81
+
+[[zipcodes]]
+zipcode = 32162
+percent_zip_in_county = 17.72
+
+[[zipcodes]]
+zipcode = 32179
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32195
+percent_zip_in_county = 89.78
+
+[[zipcodes]]
+zipcode = 32617
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32664
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32667
+percent_zip_in_county = 43.6
+
+[[zipcodes]]
+zipcode = 32668
+percent_zip_in_county = 16.06
+
+[[zipcodes]]
+zipcode = 32681
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32686
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32696
+percent_zip_in_county = 8.72
+
+[[zipcodes]]
+zipcode = 32702
+percent_zip_in_county = 10.13
+
+[[zipcodes]]
+zipcode = 32784
+percent_zip_in_county = 29.42
+
+[[zipcodes]]
+zipcode = 34420
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34431
+percent_zip_in_county = 90.98
+
+[[zipcodes]]
+zipcode = 34432
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34470
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34471
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34472
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34473
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34474
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34475
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34476
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34479
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34480
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34481
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34482
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34488
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34491
+percent_zip_in_county = 100.0

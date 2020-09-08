@@ -1,2 +1,34 @@
 name = "Franklin County"
 fips_code = 53021
+
+[[zipcodes]]
+zipcode = 99301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99326
+percent_zip_in_county = 99.54
+
+[[zipcodes]]
+zipcode = 99330
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99335
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99343
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99344
+percent_zip_in_county = 4.44
+
+[[zipcodes]]
+zipcode = 99359
+percent_zip_in_county = 1.27
+
+[[zipcodes]]
+zipcode = 99371
+percent_zip_in_county = 1.29

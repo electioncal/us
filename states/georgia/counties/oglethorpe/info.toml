@@ -1,2 +1,42 @@
 name = "Oglethorpe County"
 fips_code = 13221
+
+[[zipcodes]]
+zipcode = 30619
+percent_zip_in_county = 93.61
+
+[[zipcodes]]
+zipcode = 30627
+percent_zip_in_county = 57.9
+
+[[zipcodes]]
+zipcode = 30628
+percent_zip_in_county = 21.87
+
+[[zipcodes]]
+zipcode = 30629
+percent_zip_in_county = 20.04
+
+[[zipcodes]]
+zipcode = 30630
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30648
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30660
+percent_zip_in_county = 21.41
+
+[[zipcodes]]
+zipcode = 30667
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30669
+percent_zip_in_county = 4.68
+
+[[zipcodes]]
+zipcode = 30683
+percent_zip_in_county = 44.78

@@ -1,2 +1,118 @@
 name = "Washington County"
 fips_code = 41067
+
+[[zipcodes]]
+zipcode = 97005
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97006
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97008
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97035
+percent_zip_in_county = 1.45
+
+[[zipcodes]]
+zipcode = 97056
+percent_zip_in_county = 0.54
+
+[[zipcodes]]
+zipcode = 97062
+percent_zip_in_county = 86.04
+
+[[zipcodes]]
+zipcode = 97064
+percent_zip_in_county = 0.64
+
+[[zipcodes]]
+zipcode = 97070
+percent_zip_in_county = 10.91
+
+[[zipcodes]]
+zipcode = 97106
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97109
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97113
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97116
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97117
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97119
+percent_zip_in_county = 79.41
+
+[[zipcodes]]
+zipcode = 97123
+percent_zip_in_county = 98.29
+
+[[zipcodes]]
+zipcode = 97124
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97125
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97132
+percent_zip_in_county = 1.08
+
+[[zipcodes]]
+zipcode = 97133
+percent_zip_in_county = 98.73
+
+[[zipcodes]]
+zipcode = 97140
+percent_zip_in_county = 92.39
+
+[[zipcodes]]
+zipcode = 97144
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97210
+percent_zip_in_county = 2.71
+
+[[zipcodes]]
+zipcode = 97221
+percent_zip_in_county = 0.1
+
+[[zipcodes]]
+zipcode = 97223
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97224
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97225
+percent_zip_in_county = 99.57
+
+[[zipcodes]]
+zipcode = 97229
+percent_zip_in_county = 87.96
+
+[[zipcodes]]
+zipcode = 97231
+percent_zip_in_county = 2.87

@@ -1,2 +1,42 @@
 name = "Beaverhead County"
 fips_code = 30001
+
+[[zipcodes]]
+zipcode = 59724
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59725
+percent_zip_in_county = 99.95
+
+[[zipcodes]]
+zipcode = 59727
+percent_zip_in_county = 17.65
+
+[[zipcodes]]
+zipcode = 59732
+percent_zip_in_county = 71.09
+
+[[zipcodes]]
+zipcode = 59736
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59739
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59743
+percent_zip_in_county = 15.67
+
+[[zipcodes]]
+zipcode = 59746
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59761
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59762
+percent_zip_in_county = 71.32

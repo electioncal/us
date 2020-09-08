@@ -1,2 +1,10 @@
 name = "Manassas city"
 fips_code = 51683
+
+[[zipcodes]]
+zipcode = 20109
+percent_zip_in_county = 0.28
+
+[[zipcodes]]
+zipcode = 20110
+percent_zip_in_county = 85.96

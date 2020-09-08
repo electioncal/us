@@ -1,2 +1,22 @@
 name = "Lawrence County"
 fips_code = 17101
+
+[[zipcodes]]
+zipcode = 62417
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62427
+percent_zip_in_county = 17.63
+
+[[zipcodes]]
+zipcode = 62439
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62460
+percent_zip_in_county = 97.97
+
+[[zipcodes]]
+zipcode = 62466
+percent_zip_in_county = 97.5

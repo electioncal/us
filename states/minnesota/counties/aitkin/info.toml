@@ -1,2 +1,50 @@
 name = "Aitkin County"
 fips_code = 27001
+
+[[zipcodes]]
+zipcode = 55735
+percent_zip_in_county = 20.9
+
+[[zipcodes]]
+zipcode = 55748
+percent_zip_in_county = 81.91
+
+[[zipcodes]]
+zipcode = 55752
+percent_zip_in_county = 96.46
+
+[[zipcodes]]
+zipcode = 55760
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55783
+percent_zip_in_county = 0.57
+
+[[zipcodes]]
+zipcode = 55785
+percent_zip_in_county = 80.23
+
+[[zipcodes]]
+zipcode = 55787
+percent_zip_in_county = 82.29
+
+[[zipcodes]]
+zipcode = 55798
+percent_zip_in_county = 0.52
+
+[[zipcodes]]
+zipcode = 56342
+percent_zip_in_county = 23.18
+
+[[zipcodes]]
+zipcode = 56350
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56431
+percent_zip_in_county = 92.52
+
+[[zipcodes]]
+zipcode = 56469
+percent_zip_in_county = 100.0

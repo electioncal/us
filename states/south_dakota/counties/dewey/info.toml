@@ -1,2 +1,42 @@
 name = "Dewey County"
 fips_code = 46041
+
+[[zipcodes]]
+zipcode = 57442
+percent_zip_in_county = 7.03
+
+[[zipcodes]]
+zipcode = 57601
+percent_zip_in_county = 4.7
+
+[[zipcodes]]
+zipcode = 57625
+percent_zip_in_county = 78.39
+
+[[zipcodes]]
+zipcode = 57630
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57633
+percent_zip_in_county = 57.0
+
+[[zipcodes]]
+zipcode = 57636
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57652
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57656
+percent_zip_in_county = 95.57
+
+[[zipcodes]]
+zipcode = 57657
+percent_zip_in_county = 33.0
+
+[[zipcodes]]
+zipcode = 57661
+percent_zip_in_county = 100.0

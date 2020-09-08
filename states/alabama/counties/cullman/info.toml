@@ -1,2 +1,78 @@
 name = "Cullman County"
 fips_code = 1043
+
+[[zipcodes]]
+zipcode = 35016
+percent_zip_in_county = 11.29
+
+[[zipcodes]]
+zipcode = 35019
+percent_zip_in_county = 78.51
+
+[[zipcodes]]
+zipcode = 35033
+percent_zip_in_county = 90.89
+
+[[zipcodes]]
+zipcode = 35053
+percent_zip_in_county = 85.36
+
+[[zipcodes]]
+zipcode = 35055
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35057
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35058
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35077
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35083
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35087
+percent_zip_in_county = 52.29
+
+[[zipcodes]]
+zipcode = 35098
+percent_zip_in_county = 86.69
+
+[[zipcodes]]
+zipcode = 35179
+percent_zip_in_county = 98.29
+
+[[zipcodes]]
+zipcode = 35540
+percent_zip_in_county = 1.66
+
+[[zipcodes]]
+zipcode = 35541
+percent_zip_in_county = 0.25
+
+[[zipcodes]]
+zipcode = 35619
+percent_zip_in_county = 0.19
+
+[[zipcodes]]
+zipcode = 35621
+percent_zip_in_county = 4.8
+
+[[zipcodes]]
+zipcode = 35622
+percent_zip_in_county = 20.72
+
+[[zipcodes]]
+zipcode = 35976
+percent_zip_in_county = 0.15

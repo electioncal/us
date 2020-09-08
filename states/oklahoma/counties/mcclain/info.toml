@@ -1,2 +1,46 @@
 name = "McClain County"
 fips_code = 40087
+
+[[zipcodes]]
+zipcode = 73010
+percent_zip_in_county = 52.01
+
+[[zipcodes]]
+zipcode = 73052
+percent_zip_in_county = 24.12
+
+[[zipcodes]]
+zipcode = 73057
+percent_zip_in_county = 15.56
+
+[[zipcodes]]
+zipcode = 73065
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73072
+percent_zip_in_county = 4.87
+
+[[zipcodes]]
+zipcode = 73074
+percent_zip_in_county = 3.7
+
+[[zipcodes]]
+zipcode = 73080
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73093
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73095
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74831
+percent_zip_in_county = 90.9
+
+[[zipcodes]]
+zipcode = 74872
+percent_zip_in_county = 4.96

@@ -1,2 +1,30 @@
 name = "Spalding County"
 fips_code = 13255
+
+[[zipcodes]]
+zipcode = 30205
+percent_zip_in_county = 27.08
+
+[[zipcodes]]
+zipcode = 30223
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30224
+percent_zip_in_county = 89.62
+
+[[zipcodes]]
+zipcode = 30228
+percent_zip_in_county = 3.55
+
+[[zipcodes]]
+zipcode = 30248
+percent_zip_in_county = 2.9
+
+[[zipcodes]]
+zipcode = 30284
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30292
+percent_zip_in_county = 30.17

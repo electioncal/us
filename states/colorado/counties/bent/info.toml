@@ -1,2 +1,30 @@
 name = "Bent County"
 fips_code = 8011
+
+[[zipcodes]]
+zipcode = 81038
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81044
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81050
+percent_zip_in_county = 0.16
+
+[[zipcodes]]
+zipcode = 81052
+percent_zip_in_county = 0.65
+
+[[zipcodes]]
+zipcode = 81054
+percent_zip_in_county = 99.67
+
+[[zipcodes]]
+zipcode = 81057
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81092
+percent_zip_in_county = 20.35

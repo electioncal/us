@@ -1,2 +1,110 @@
 name = "Bethel Census Area"
 fips_code = 2050
+
+[[zipcodes]]
+zipcode = 99503
+percent_zip_in_county = 0.07
+
+[[zipcodes]]
+zipcode = 99551
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99552
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99557
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99559
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99561
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99575
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99578
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99589
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99607
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99609
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99614
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99621
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99622
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99626
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99630
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99634
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99637
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99641
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99651
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99655
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99656
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99668
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99679
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99680
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99681
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99690
+percent_zip_in_county = 100.0

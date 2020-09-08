@@ -1,2 +1,66 @@
 name = "Renville County"
 fips_code = 27129
+
+[[zipcodes]]
+zipcode = 55310
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55314
+percent_zip_in_county = 88.93
+
+[[zipcodes]]
+zipcode = 55332
+percent_zip_in_county = 93.81
+
+[[zipcodes]]
+zipcode = 55333
+percent_zip_in_county = 97.9
+
+[[zipcodes]]
+zipcode = 55342
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55350
+percent_zip_in_county = 0.23
+
+[[zipcodes]]
+zipcode = 55385
+percent_zip_in_county = 15.8
+
+[[zipcodes]]
+zipcode = 56228
+percent_zip_in_county = 2.72
+
+[[zipcodes]]
+zipcode = 56230
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56241
+percent_zip_in_county = 2.93
+
+[[zipcodes]]
+zipcode = 56260
+percent_zip_in_county = 9.04
+
+[[zipcodes]]
+zipcode = 56270
+percent_zip_in_county = 56.46
+
+[[zipcodes]]
+zipcode = 56277
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56283
+percent_zip_in_county = 2.79
+
+[[zipcodes]]
+zipcode = 56284
+percent_zip_in_county = 93.08
+
+[[zipcodes]]
+zipcode = 56285
+percent_zip_in_county = 100.0

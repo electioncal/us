@@ -1,2 +1,102 @@
 name = "Knott County"
 fips_code = 21119
+
+[[zipcodes]]
+zipcode = 41339
+percent_zip_in_county = 0.01
+
+[[zipcodes]]
+zipcode = 41630
+percent_zip_in_county = 35.61
+
+[[zipcodes]]
+zipcode = 41640
+percent_zip_in_county = 17.13
+
+[[zipcodes]]
+zipcode = 41643
+percent_zip_in_county = 77.32
+
+[[zipcodes]]
+zipcode = 41701
+percent_zip_in_county = 8.96
+
+[[zipcodes]]
+zipcode = 41722
+percent_zip_in_county = 32.05
+
+[[zipcodes]]
+zipcode = 41725
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41739
+percent_zip_in_county = 12.29
+
+[[zipcodes]]
+zipcode = 41740
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41759
+percent_zip_in_county = 94.96
+
+[[zipcodes]]
+zipcode = 41772
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41773
+percent_zip_in_county = 21.37
+
+[[zipcodes]]
+zipcode = 41817
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41822
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41828
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41831
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41834
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41836
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41839
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41843
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41844
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41847
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41859
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41861
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41862
+percent_zip_in_county = 100.0

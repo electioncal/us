@@ -1,2 +1,30 @@
 name = "Camden County"
 fips_code = 13039
+
+[[zipcodes]]
+zipcode = 31537
+percent_zip_in_county = 1.31
+
+[[zipcodes]]
+zipcode = 31547
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31548
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31558
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31565
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31568
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31569
+percent_zip_in_county = 100.0

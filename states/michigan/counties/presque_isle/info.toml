@@ -1,2 +1,30 @@
 name = "Presque Isle County"
 fips_code = 26141
+
+[[zipcodes]]
+zipcode = 49707
+percent_zip_in_county = 2.46
+
+[[zipcodes]]
+zipcode = 49743
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49759
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49765
+percent_zip_in_county = 62.83
+
+[[zipcodes]]
+zipcode = 49776
+percent_zip_in_county = 78.28
+
+[[zipcodes]]
+zipcode = 49777
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49779
+percent_zip_in_county = 100.0

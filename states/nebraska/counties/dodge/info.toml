@@ -1,2 +1,42 @@
 name = "Dodge County"
 fips_code = 31053
+
+[[zipcodes]]
+zipcode = 68025
+percent_zip_in_county = 95.85
+
+[[zipcodes]]
+zipcode = 68031
+percent_zip_in_county = 95.24
+
+[[zipcodes]]
+zipcode = 68044
+percent_zip_in_county = 71.41
+
+[[zipcodes]]
+zipcode = 68057
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68063
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68621
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68633
+percent_zip_in_county = 76.51
+
+[[zipcodes]]
+zipcode = 68649
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68664
+percent_zip_in_county = 100.0

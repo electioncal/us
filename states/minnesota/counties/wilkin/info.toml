@@ -1,2 +1,42 @@
 name = "Wilkin County"
 fips_code = 27167
+
+[[zipcodes]]
+zipcode = 56514
+percent_zip_in_county = 7.47
+
+[[zipcodes]]
+zipcode = 56520
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56522
+percent_zip_in_county = 92.19
+
+[[zipcodes]]
+zipcode = 56543
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56553
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56560
+percent_zip_in_county = 0.06
+
+[[zipcodes]]
+zipcode = 56565
+percent_zip_in_county = 91.59
+
+[[zipcodes]]
+zipcode = 56579
+percent_zip_in_county = 57.48
+
+[[zipcodes]]
+zipcode = 56583
+percent_zip_in_county = 22.62
+
+[[zipcodes]]
+zipcode = 56594
+percent_zip_in_county = 100.0

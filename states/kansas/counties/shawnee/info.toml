@@ -1,2 +1,118 @@
 name = "Shawnee County"
 fips_code = 20177
+
+[[zipcodes]]
+zipcode = 66050
+percent_zip_in_county = 3.79
+
+[[zipcodes]]
+zipcode = 66402
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66409
+percent_zip_in_county = 95.66
+
+[[zipcodes]]
+zipcode = 66431
+percent_zip_in_county = 7.3
+
+[[zipcodes]]
+zipcode = 66512
+percent_zip_in_county = 2.92
+
+[[zipcodes]]
+zipcode = 66524
+percent_zip_in_county = 1.32
+
+[[zipcodes]]
+zipcode = 66533
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66536
+percent_zip_in_county = 3.65
+
+[[zipcodes]]
+zipcode = 66539
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66542
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66546
+percent_zip_in_county = 97.73
+
+[[zipcodes]]
+zipcode = 66603
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66604
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66605
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66606
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66607
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66608
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66609
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66610
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66611
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66612
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66614
+percent_zip_in_county = 99.84
+
+[[zipcodes]]
+zipcode = 66615
+percent_zip_in_county = 93.96
+
+[[zipcodes]]
+zipcode = 66616
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66617
+percent_zip_in_county = 94.98
+
+[[zipcodes]]
+zipcode = 66618
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66619
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66621
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66622
+percent_zip_in_county = 100.0

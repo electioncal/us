@@ -1,2 +1,94 @@
 name = "Boulder County"
 fips_code = 8013
+
+[[zipcodes]]
+zipcode = 80020
+percent_zip_in_county = 0.31
+
+[[zipcodes]]
+zipcode = 80025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80026
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80302
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80303
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80304
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80305
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80310
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80403
+percent_zip_in_county = 4.77
+
+[[zipcodes]]
+zipcode = 80422
+percent_zip_in_county = 2.5
+
+[[zipcodes]]
+zipcode = 80455
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80466
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80471
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80481
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80503
+percent_zip_in_county = 99.94
+
+[[zipcodes]]
+zipcode = 80504
+percent_zip_in_county = 59.68
+
+[[zipcodes]]
+zipcode = 80510
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80516
+percent_zip_in_county = 41.54
+
+[[zipcodes]]
+zipcode = 80540
+percent_zip_in_county = 65.68
+
+[[zipcodes]]
+zipcode = 80544
+percent_zip_in_county = 100.0

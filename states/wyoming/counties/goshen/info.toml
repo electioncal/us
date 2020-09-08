@@ -1,2 +1,42 @@
 name = "Goshen County"
 fips_code = 56015
+
+[[zipcodes]]
+zipcode = 82210
+percent_zip_in_county = 11.53
+
+[[zipcodes]]
+zipcode = 82212
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82217
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82219
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82221
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82223
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82225
+percent_zip_in_county = 2.08
+
+[[zipcodes]]
+zipcode = 82240
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82243
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82244
+percent_zip_in_county = 100.0

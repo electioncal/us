@@ -1,2 +1,46 @@
 name = "Noble County"
 fips_code = 40103
+
+[[zipcodes]]
+zipcode = 73061
+percent_zip_in_county = 91.98
+
+[[zipcodes]]
+zipcode = 73073
+percent_zip_in_county = 28.47
+
+[[zipcodes]]
+zipcode = 73077
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73757
+percent_zip_in_county = 86.52
+
+[[zipcodes]]
+zipcode = 74032
+percent_zip_in_county = 3.2
+
+[[zipcodes]]
+zipcode = 74075
+percent_zip_in_county = 2.42
+
+[[zipcodes]]
+zipcode = 74601
+percent_zip_in_county = 0.51
+
+[[zipcodes]]
+zipcode = 74630
+percent_zip_in_county = 96.58
+
+[[zipcodes]]
+zipcode = 74644
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74651
+percent_zip_in_county = 98.79
+
+[[zipcodes]]
+zipcode = 74653
+percent_zip_in_county = 0.23

@@ -1,2 +1,22 @@
 name = "Grand Isle County"
 fips_code = 50013
+
+[[zipcodes]]
+zipcode = 5440
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5458
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5463
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5474
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5486
+percent_zip_in_county = 100.0

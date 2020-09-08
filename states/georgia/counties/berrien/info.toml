@@ -1,2 +1,26 @@
 name = "Berrien County"
 fips_code = 13019
+
+[[zipcodes]]
+zipcode = 31622
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31637
+percent_zip_in_county = 30.09
+
+[[zipcodes]]
+zipcode = 31639
+percent_zip_in_county = 99.64
+
+[[zipcodes]]
+zipcode = 31645
+percent_zip_in_county = 53.29
+
+[[zipcodes]]
+zipcode = 31749
+percent_zip_in_county = 86.78
+
+[[zipcodes]]
+zipcode = 31794
+percent_zip_in_county = 2.19

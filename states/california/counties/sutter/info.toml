@@ -1,2 +1,54 @@
 name = "Sutter County"
 fips_code = 6101
+
+[[zipcodes]]
+zipcode = 95626
+percent_zip_in_county = 1.84
+
+[[zipcodes]]
+zipcode = 95645
+percent_zip_in_county = 39.27
+
+[[zipcodes]]
+zipcode = 95659
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95668
+percent_zip_in_county = 83.19
+
+[[zipcodes]]
+zipcode = 95674
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95692
+percent_zip_in_county = 0.46
+
+[[zipcodes]]
+zipcode = 95837
+percent_zip_in_county = 33.02
+
+[[zipcodes]]
+zipcode = 95948
+percent_zip_in_county = 0.24
+
+[[zipcodes]]
+zipcode = 95953
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95957
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95982
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95991
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95993
+percent_zip_in_county = 100.0

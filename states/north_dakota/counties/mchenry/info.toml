@@ -1,2 +1,74 @@
 name = "McHenry County"
 fips_code = 38049
+
+[[zipcodes]]
+zipcode = 58368
+percent_zip_in_county = 0.87
+
+[[zipcodes]]
+zipcode = 58384
+percent_zip_in_county = 16.94
+
+[[zipcodes]]
+zipcode = 58710
+percent_zip_in_county = 71.64
+
+[[zipcodes]]
+zipcode = 58712
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58713
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58723
+percent_zip_in_county = 6.36
+
+[[zipcodes]]
+zipcode = 58731
+percent_zip_in_county = 96.33
+
+[[zipcodes]]
+zipcode = 58736
+percent_zip_in_county = 90.71
+
+[[zipcodes]]
+zipcode = 58741
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58744
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58748
+percent_zip_in_county = 4.05
+
+[[zipcodes]]
+zipcode = 58762
+percent_zip_in_county = 9.35
+
+[[zipcodes]]
+zipcode = 58768
+percent_zip_in_county = 52.13
+
+[[zipcodes]]
+zipcode = 58778
+percent_zip_in_county = 6.02
+
+[[zipcodes]]
+zipcode = 58788
+percent_zip_in_county = 96.44
+
+[[zipcodes]]
+zipcode = 58789
+percent_zip_in_county = 96.88
+
+[[zipcodes]]
+zipcode = 58790
+percent_zip_in_county = 96.28
+
+[[zipcodes]]
+zipcode = 58792
+percent_zip_in_county = 100.0

@@ -1,2 +1,70 @@
 name = "Tuolumne County"
 fips_code = 6109
+
+[[zipcodes]]
+zipcode = 95223
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 95305
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95310
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95311
+percent_zip_in_county = 2.14
+
+[[zipcodes]]
+zipcode = 95314
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 95321
+percent_zip_in_county = 97.81
+
+[[zipcodes]]
+zipcode = 95327
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95329
+percent_zip_in_county = 46.63
+
+[[zipcodes]]
+zipcode = 95335
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95346
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95364
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95370
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95372
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95375
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95379
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95383
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95389
+percent_zip_in_county = 0.16

@@ -1,2 +1,86 @@
 name = "Linn County"
 fips_code = 41043
+
+[[zipcodes]]
+zipcode = 97321
+percent_zip_in_county = 65.69
+
+[[zipcodes]]
+zipcode = 97322
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97327
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97329
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97333
+percent_zip_in_county = 5.97
+
+[[zipcodes]]
+zipcode = 97345
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97346
+percent_zip_in_county = 37.83
+
+[[zipcodes]]
+zipcode = 97348
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97350
+percent_zip_in_county = 39.01
+
+[[zipcodes]]
+zipcode = 97352
+percent_zip_in_county = 1.48
+
+[[zipcodes]]
+zipcode = 97355
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97358
+percent_zip_in_county = 72.83
+
+[[zipcodes]]
+zipcode = 97360
+percent_zip_in_county = 79.59
+
+[[zipcodes]]
+zipcode = 97374
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97377
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97383
+percent_zip_in_county = 8.48
+
+[[zipcodes]]
+zipcode = 97386
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97389
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97413
+percent_zip_in_county = 0.66
+
+[[zipcodes]]
+zipcode = 97446
+percent_zip_in_county = 99.61
+
+[[zipcodes]]
+zipcode = 97759
+percent_zip_in_county = 0.25

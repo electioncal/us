@@ -1,2 +1,42 @@
 name = "Johnson County"
 fips_code = 17087
+
+[[zipcodes]]
+zipcode = 62908
+percent_zip_in_county = 46.9
+
+[[zipcodes]]
+zipcode = 62912
+percent_zip_in_county = 53.27
+
+[[zipcodes]]
+zipcode = 62922
+percent_zip_in_county = 20.74
+
+[[zipcodes]]
+zipcode = 62923
+percent_zip_in_county = 88.03
+
+[[zipcodes]]
+zipcode = 62939
+percent_zip_in_county = 95.22
+
+[[zipcodes]]
+zipcode = 62943
+percent_zip_in_county = 68.95
+
+[[zipcodes]]
+zipcode = 62967
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62972
+percent_zip_in_county = 93.11
+
+[[zipcodes]]
+zipcode = 62985
+percent_zip_in_county = 51.72
+
+[[zipcodes]]
+zipcode = 62995
+percent_zip_in_county = 100.0

@@ -1,2 +1,30 @@
 name = "Thomas County"
 fips_code = 20193
+
+[[zipcodes]]
+zipcode = 67701
+percent_zip_in_county = 99.25
+
+[[zipcodes]]
+zipcode = 67732
+percent_zip_in_county = 83.98
+
+[[zipcodes]]
+zipcode = 67734
+percent_zip_in_county = 85.16
+
+[[zipcodes]]
+zipcode = 67743
+percent_zip_in_county = 83.54
+
+[[zipcodes]]
+zipcode = 67748
+percent_zip_in_county = 10.38
+
+[[zipcodes]]
+zipcode = 67753
+percent_zip_in_county = 74.91
+
+[[zipcodes]]
+zipcode = 67764
+percent_zip_in_county = 12.46

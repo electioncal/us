@@ -1,2 +1,30 @@
 name = "Crawford County"
 fips_code = 13079
+
+[[zipcodes]]
+zipcode = 31008
+percent_zip_in_county = 12.42
+
+[[zipcodes]]
+zipcode = 31016
+percent_zip_in_county = 2.31
+
+[[zipcodes]]
+zipcode = 31030
+percent_zip_in_county = 13.81
+
+[[zipcodes]]
+zipcode = 31050
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31052
+percent_zip_in_county = 24.09
+
+[[zipcodes]]
+zipcode = 31066
+percent_zip_in_county = 93.11
+
+[[zipcodes]]
+zipcode = 31078
+percent_zip_in_county = 100.0

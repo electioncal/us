@@ -1,2 +1,90 @@
 name = "Montgomery County"
 fips_code = 1101
+
+[[zipcodes]]
+zipcode = 36013
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36036
+percent_zip_in_county = 70.24
+
+[[zipcodes]]
+zipcode = 36041
+percent_zip_in_county = 1.67
+
+[[zipcodes]]
+zipcode = 36043
+percent_zip_in_county = 66.69
+
+[[zipcodes]]
+zipcode = 36046
+percent_zip_in_county = 37.32
+
+[[zipcodes]]
+zipcode = 36047
+percent_zip_in_county = 24.71
+
+[[zipcodes]]
+zipcode = 36052
+percent_zip_in_county = 97.7
+
+[[zipcodes]]
+zipcode = 36064
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36069
+percent_zip_in_county = 95.5
+
+[[zipcodes]]
+zipcode = 36104
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36105
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36106
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36107
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36108
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36109
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36110
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36111
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36112
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36113
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36115
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36116
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36117
+percent_zip_in_county = 100.0

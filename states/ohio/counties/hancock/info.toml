@@ -1,2 +1,94 @@
 name = "Hancock County"
 fips_code = 39063
+
+[[zipcodes]]
+zipcode = 43316
+percent_zip_in_county = 0.38
+
+[[zipcodes]]
+zipcode = 43516
+percent_zip_in_county = 0.71
+
+[[zipcodes]]
+zipcode = 44802
+percent_zip_in_county = 43.12
+
+[[zipcodes]]
+zipcode = 44804
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44817
+percent_zip_in_county = 6.34
+
+[[zipcodes]]
+zipcode = 44830
+percent_zip_in_county = 19.33
+
+[[zipcodes]]
+zipcode = 45810
+percent_zip_in_county = 2.62
+
+[[zipcodes]]
+zipcode = 45814
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45816
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45817
+percent_zip_in_county = 16.72
+
+[[zipcodes]]
+zipcode = 45840
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45841
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45843
+percent_zip_in_county = 18.32
+
+[[zipcodes]]
+zipcode = 45856
+percent_zip_in_county = 0.21
+
+[[zipcodes]]
+zipcode = 45858
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45867
+percent_zip_in_county = 98.15
+
+[[zipcodes]]
+zipcode = 45868
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45872
+percent_zip_in_county = 1.51
+
+[[zipcodes]]
+zipcode = 45877
+percent_zip_in_county = 0.23
+
+[[zipcodes]]
+zipcode = 45881
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45889
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45890
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45897
+percent_zip_in_county = 100.0

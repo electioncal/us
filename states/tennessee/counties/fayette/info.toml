@@ -1,2 +1,58 @@
 name = "Fayette County"
 fips_code = 47047
+
+[[zipcodes]]
+zipcode = 38002
+percent_zip_in_county = 5.16
+
+[[zipcodes]]
+zipcode = 38017
+percent_zip_in_county = 4.57
+
+[[zipcodes]]
+zipcode = 38028
+percent_zip_in_county = 54.7
+
+[[zipcodes]]
+zipcode = 38036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38039
+percent_zip_in_county = 16.08
+
+[[zipcodes]]
+zipcode = 38042
+percent_zip_in_county = 1.51
+
+[[zipcodes]]
+zipcode = 38046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38049
+percent_zip_in_county = 32.54
+
+[[zipcodes]]
+zipcode = 38057
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38060
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38066
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38068
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38075
+percent_zip_in_county = 4.93
+
+[[zipcodes]]
+zipcode = 38076
+percent_zip_in_county = 100.0

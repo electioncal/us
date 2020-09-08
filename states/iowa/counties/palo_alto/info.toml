@@ -1,2 +1,54 @@
 name = "Palo Alto County"
 fips_code = 19147
+
+[[zipcodes]]
+zipcode = 50515
+percent_zip_in_county = 95.7
+
+[[zipcodes]]
+zipcode = 50527
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50528
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50536
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50539
+percent_zip_in_county = 11.48
+
+[[zipcodes]]
+zipcode = 50554
+percent_zip_in_county = 1.11
+
+[[zipcodes]]
+zipcode = 50562
+percent_zip_in_county = 95.26
+
+[[zipcodes]]
+zipcode = 50578
+percent_zip_in_county = 2.17
+
+[[zipcodes]]
+zipcode = 50581
+percent_zip_in_county = 2.71
+
+[[zipcodes]]
+zipcode = 50597
+percent_zip_in_county = 81.59
+
+[[zipcodes]]
+zipcode = 50598
+percent_zip_in_county = 8.0
+
+[[zipcodes]]
+zipcode = 51342
+percent_zip_in_county = 91.75
+
+[[zipcodes]]
+zipcode = 51358
+percent_zip_in_county = 84.5

@@ -1,2 +1,70 @@
 name = "Grant County"
 fips_code = 35017
+
+[[zipcodes]]
+zipcode = 88022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88026
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88028
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88038
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88040
+percent_zip_in_county = 63.79
+
+[[zipcodes]]
+zipcode = 88041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88045
+percent_zip_in_county = 0.35
+
+[[zipcodes]]
+zipcode = 88049
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88053
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88055
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88065
+percent_zip_in_county = 100.0

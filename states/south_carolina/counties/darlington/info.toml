@@ -1,2 +1,42 @@
 name = "Darlington County"
 fips_code = 45031
+
+[[zipcodes]]
+zipcode = 29069
+percent_zip_in_county = 93.33
+
+[[zipcodes]]
+zipcode = 29079
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29101
+percent_zip_in_county = 18.89
+
+[[zipcodes]]
+zipcode = 29161
+percent_zip_in_county = 18.26
+
+[[zipcodes]]
+zipcode = 29501
+percent_zip_in_county = 7.94
+
+[[zipcodes]]
+zipcode = 29506
+percent_zip_in_county = 0.17
+
+[[zipcodes]]
+zipcode = 29532
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29540
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29550
+percent_zip_in_county = 92.67
+
+[[zipcodes]]
+zipcode = 29593
+percent_zip_in_county = 68.63

@@ -1,2 +1,74 @@
 name = "Tama County"
 fips_code = 19171
+
+[[zipcodes]]
+zipcode = 50106
+percent_zip_in_county = 6.54
+
+[[zipcodes]]
+zipcode = 50158
+percent_zip_in_county = 0.13
+
+[[zipcodes]]
+zipcode = 50173
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50609
+percent_zip_in_county = 1.57
+
+[[zipcodes]]
+zipcode = 50612
+percent_zip_in_county = 95.22
+
+[[zipcodes]]
+zipcode = 50632
+percent_zip_in_county = 88.89
+
+[[zipcodes]]
+zipcode = 50635
+percent_zip_in_county = 98.94
+
+[[zipcodes]]
+zipcode = 50652
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50669
+percent_zip_in_county = 8.29
+
+[[zipcodes]]
+zipcode = 50675
+percent_zip_in_county = 99.06
+
+[[zipcodes]]
+zipcode = 52208
+percent_zip_in_county = 1.52
+
+[[zipcodes]]
+zipcode = 52215
+percent_zip_in_county = 88.49
+
+[[zipcodes]]
+zipcode = 52217
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52224
+percent_zip_in_county = 85.86
+
+[[zipcodes]]
+zipcode = 52225
+percent_zip_in_county = 83.89
+
+[[zipcodes]]
+zipcode = 52339
+percent_zip_in_county = 99.64
+
+[[zipcodes]]
+zipcode = 52342
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52348
+percent_zip_in_county = 100.0

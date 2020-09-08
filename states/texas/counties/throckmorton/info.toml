@@ -1,2 +1,22 @@
 name = "Throckmorton County"
 fips_code = 48447
+
+[[zipcodes]]
+zipcode = 76372
+percent_zip_in_county = 11.5
+
+[[zipcodes]]
+zipcode = 76430
+percent_zip_in_county = 0.16
+
+[[zipcodes]]
+zipcode = 76483
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76491
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79533
+percent_zip_in_county = 0.64

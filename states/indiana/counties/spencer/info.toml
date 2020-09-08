@@ -1,2 +1,70 @@
 name = "Spencer County"
 fips_code = 18147
+
+[[zipcodes]]
+zipcode = 47523
+percent_zip_in_county = 77.29
+
+[[zipcodes]]
+zipcode = 47531
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47532
+percent_zip_in_county = 11.67
+
+[[zipcodes]]
+zipcode = 47536
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47537
+percent_zip_in_county = 73.37
+
+[[zipcodes]]
+zipcode = 47541
+percent_zip_in_county = 0.9
+
+[[zipcodes]]
+zipcode = 47550
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47552
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47577
+percent_zip_in_county = 88.54
+
+[[zipcodes]]
+zipcode = 47579
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47588
+percent_zip_in_county = 28.65
+
+[[zipcodes]]
+zipcode = 47601
+percent_zip_in_county = 0.86
+
+[[zipcodes]]
+zipcode = 47611
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47615
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47634
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47635
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47637
+percent_zip_in_county = 9.89

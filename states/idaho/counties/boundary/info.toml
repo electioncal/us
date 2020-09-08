@@ -1,2 +1,22 @@
 name = "Boundary County"
 fips_code = 16021
+
+[[zipcodes]]
+zipcode = 83805
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83826
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83845
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83847
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83864
+percent_zip_in_county = 0.17

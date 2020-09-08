@@ -1,2 +1,42 @@
 name = "Harney County"
 fips_code = 41025
+
+[[zipcodes]]
+zipcode = 97710
+percent_zip_in_county = 96.67
+
+[[zipcodes]]
+zipcode = 97720
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97721
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97722
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97732
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97736
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97738
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97751
+percent_zip_in_county = 0.78
+
+[[zipcodes]]
+zipcode = 97758
+percent_zip_in_county = 83.17
+
+[[zipcodes]]
+zipcode = 97904
+percent_zip_in_county = 100.0

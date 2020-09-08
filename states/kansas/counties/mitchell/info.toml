@@ -1,2 +1,30 @@
 name = "Mitchell County"
 fips_code = 20123
+
+[[zipcodes]]
+zipcode = 67418
+percent_zip_in_county = 10.16
+
+[[zipcodes]]
+zipcode = 67420
+percent_zip_in_county = 99.51
+
+[[zipcodes]]
+zipcode = 67430
+percent_zip_in_county = 91.82
+
+[[zipcodes]]
+zipcode = 67446
+percent_zip_in_county = 94.65
+
+[[zipcodes]]
+zipcode = 67452
+percent_zip_in_county = 63.68
+
+[[zipcodes]]
+zipcode = 67478
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67485
+percent_zip_in_county = 84.96

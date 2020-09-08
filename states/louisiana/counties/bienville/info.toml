@@ -1,2 +1,54 @@
 name = "Bienville Parish"
 fips_code = 22013
+
+[[zipcodes]]
+zipcode = 71001
+percent_zip_in_county = 83.73
+
+[[zipcodes]]
+zipcode = 71008
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71016
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71024
+percent_zip_in_county = 11.9
+
+[[zipcodes]]
+zipcode = 71028
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71039
+percent_zip_in_county = 19.54
+
+[[zipcodes]]
+zipcode = 71045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71055
+percent_zip_in_county = 0.18
+
+[[zipcodes]]
+zipcode = 71068
+percent_zip_in_county = 89.08
+
+[[zipcodes]]
+zipcode = 71070
+percent_zip_in_county = 48.17
+
+[[zipcodes]]
+zipcode = 71251
+percent_zip_in_county = 2.87
+
+[[zipcodes]]
+zipcode = 71268
+percent_zip_in_county = 11.74
+
+[[zipcodes]]
+zipcode = 71275
+percent_zip_in_county = 5.38

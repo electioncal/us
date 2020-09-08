@@ -1,2 +1,54 @@
 name = "Bibb County"
 fips_code = 13021
+
+[[zipcodes]]
+zipcode = 31020
+percent_zip_in_county = 12.71
+
+[[zipcodes]]
+zipcode = 31052
+percent_zip_in_county = 75.91
+
+[[zipcodes]]
+zipcode = 31066
+percent_zip_in_county = 2.09
+
+[[zipcodes]]
+zipcode = 31201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31204
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31206
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31207
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31210
+percent_zip_in_county = 91.46
+
+[[zipcodes]]
+zipcode = 31211
+percent_zip_in_county = 54.16
+
+[[zipcodes]]
+zipcode = 31213
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 31216
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31217
+percent_zip_in_county = 67.17
+
+[[zipcodes]]
+zipcode = 31220
+percent_zip_in_county = 91.97

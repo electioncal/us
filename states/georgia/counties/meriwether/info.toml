@@ -1,2 +1,42 @@
 name = "Meriwether County"
 fips_code = 13199
+
+[[zipcodes]]
+zipcode = 30218
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30220
+percent_zip_in_county = 20.89
+
+[[zipcodes]]
+zipcode = 30222
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30230
+percent_zip_in_county = 7.61
+
+[[zipcodes]]
+zipcode = 30251
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30276
+percent_zip_in_county = 2.61
+
+[[zipcodes]]
+zipcode = 30293
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31816
+percent_zip_in_county = 93.47
+
+[[zipcodes]]
+zipcode = 31822
+percent_zip_in_county = 11.83
+
+[[zipcodes]]
+zipcode = 31830
+percent_zip_in_county = 96.17

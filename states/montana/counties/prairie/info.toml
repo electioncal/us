@@ -1,2 +1,14 @@
 name = "Prairie County"
 fips_code = 30079
+
+[[zipcodes]]
+zipcode = 59326
+percent_zip_in_county = 95.09
+
+[[zipcodes]]
+zipcode = 59330
+percent_zip_in_county = 0.42
+
+[[zipcodes]]
+zipcode = 59349
+percent_zip_in_county = 97.7

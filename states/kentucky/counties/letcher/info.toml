@@ -1,2 +1,106 @@
 name = "Letcher County"
 fips_code = 21133
+
+[[zipcodes]]
+zipcode = 40823
+percent_zip_in_county = 2.32
+
+[[zipcodes]]
+zipcode = 40826
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40862
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41517
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41537
+percent_zip_in_county = 56.58
+
+[[zipcodes]]
+zipcode = 41731
+percent_zip_in_county = 27.47
+
+[[zipcodes]]
+zipcode = 41804
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41810
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41812
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41815
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41819
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41821
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41824
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41825
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41826
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41832
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41833
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41835
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41837
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41838
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41840
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41845
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41848
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41849
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41855
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41858
+percent_zip_in_county = 100.0

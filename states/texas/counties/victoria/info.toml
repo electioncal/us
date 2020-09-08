@@ -1,2 +1,50 @@
 name = "Victoria County"
 fips_code = 48469
+
+[[zipcodes]]
+zipcode = 77901
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77904
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77905
+percent_zip_in_county = 93.23
+
+[[zipcodes]]
+zipcode = 77951
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77968
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77973
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77974
+percent_zip_in_county = 57.14
+
+[[zipcodes]]
+zipcode = 77976
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77977
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77979
+percent_zip_in_county = 0.37
+
+[[zipcodes]]
+zipcode = 77988
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77995
+percent_zip_in_county = 2.88

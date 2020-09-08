@@ -1,2 +1,78 @@
 name = "Independence County"
 fips_code = 5063
+
+[[zipcodes]]
+zipcode = 72020
+percent_zip_in_county = 10.1
+
+[[zipcodes]]
+zipcode = 72112
+percent_zip_in_county = 0.72
+
+[[zipcodes]]
+zipcode = 72165
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72521
+percent_zip_in_county = 26.46
+
+[[zipcodes]]
+zipcode = 72522
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72523
+percent_zip_in_county = 8.16
+
+[[zipcodes]]
+zipcode = 72524
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72526
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72527
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72534
+percent_zip_in_county = 92.2
+
+[[zipcodes]]
+zipcode = 72550
+percent_zip_in_county = 69.24
+
+[[zipcodes]]
+zipcode = 72553
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72562
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72564
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72568
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72571
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72572
+percent_zip_in_county = 12.72
+
+[[zipcodes]]
+zipcode = 72579
+percent_zip_in_county = 95.42

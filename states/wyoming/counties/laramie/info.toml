@@ -1,2 +1,50 @@
 name = "Laramie County"
 fips_code = 56021
+
+[[zipcodes]]
+zipcode = 82001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82005
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82009
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82050
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82053
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82054
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82059
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82060
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82081
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82082
+percent_zip_in_county = 98.82

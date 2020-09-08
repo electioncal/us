@@ -1,2 +1,42 @@
 name = "Dixon County"
 fips_code = 31051
+
+[[zipcodes]]
+zipcode = 68710
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68728
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68732
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68733
+percent_zip_in_county = 43.0
+
+[[zipcodes]]
+zipcode = 68751
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68757
+percent_zip_in_county = 93.37
+
+[[zipcodes]]
+zipcode = 68770
+percent_zip_in_county = 97.74
+
+[[zipcodes]]
+zipcode = 68784
+percent_zip_in_county = 73.91
+
+[[zipcodes]]
+zipcode = 68785
+percent_zip_in_county = 72.63
+
+[[zipcodes]]
+zipcode = 68787
+percent_zip_in_county = 0.78

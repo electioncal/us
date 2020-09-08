@@ -1,2 +1,50 @@
 name = "Barbour County"
 fips_code = 54001
+
+[[zipcodes]]
+zipcode = 26201
+percent_zip_in_county = 2.34
+
+[[zipcodes]]
+zipcode = 26238
+percent_zip_in_county = 82.41
+
+[[zipcodes]]
+zipcode = 26250
+percent_zip_in_county = 90.27
+
+[[zipcodes]]
+zipcode = 26267
+percent_zip_in_county = 8.13
+
+[[zipcodes]]
+zipcode = 26275
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26283
+percent_zip_in_county = 12.75
+
+[[zipcodes]]
+zipcode = 26330
+percent_zip_in_county = 0.99
+
+[[zipcodes]]
+zipcode = 26347
+percent_zip_in_county = 23.5
+
+[[zipcodes]]
+zipcode = 26349
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26405
+percent_zip_in_county = 93.38
+
+[[zipcodes]]
+zipcode = 26416
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26440
+percent_zip_in_county = 9.25

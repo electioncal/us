@@ -1,2 +1,46 @@
 name = "Ransom County"
 fips_code = 38073
+
+[[zipcodes]]
+zipcode = 58027
+percent_zip_in_county = 79.51
+
+[[zipcodes]]
+zipcode = 58033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58049
+percent_zip_in_county = 19.38
+
+[[zipcodes]]
+zipcode = 58052
+percent_zip_in_county = 2.93
+
+[[zipcodes]]
+zipcode = 58054
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58057
+percent_zip_in_county = 43.54
+
+[[zipcodes]]
+zipcode = 58060
+percent_zip_in_county = 22.27
+
+[[zipcodes]]
+zipcode = 58062
+percent_zip_in_county = 27.01
+
+[[zipcodes]]
+zipcode = 58068
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58069
+percent_zip_in_county = 5.11
+
+[[zipcodes]]
+zipcode = 58490
+percent_zip_in_county = 16.25

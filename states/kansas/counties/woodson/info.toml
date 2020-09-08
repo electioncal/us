@@ -1,2 +1,26 @@
 name = "Woodson County"
 fips_code = 20207
+
+[[zipcodes]]
+zipcode = 66748
+percent_zip_in_county = 2.18
+
+[[zipcodes]]
+zipcode = 66758
+percent_zip_in_county = 91.2
+
+[[zipcodes]]
+zipcode = 66761
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66777
+percent_zip_in_county = 87.01
+
+[[zipcodes]]
+zipcode = 66783
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66852
+percent_zip_in_county = 4.44

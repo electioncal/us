@@ -1,2 +1,30 @@
 name = "Calhoun County"
 fips_code = 5013
+
+[[zipcodes]]
+zipcode = 71701
+percent_zip_in_county = 2.46
+
+[[zipcodes]]
+zipcode = 71711
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71720
+percent_zip_in_county = 3.0
+
+[[zipcodes]]
+zipcode = 71742
+percent_zip_in_county = 8.86
+
+[[zipcodes]]
+zipcode = 71744
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71745
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71766
+percent_zip_in_county = 100.0

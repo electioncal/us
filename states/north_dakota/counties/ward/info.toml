@@ -1,2 +1,102 @@
 name = "Ward County"
 fips_code = 38101
+
+[[zipcodes]]
+zipcode = 58701
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58702
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 58703
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58704
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58705
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58707
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58716
+percent_zip_in_county = 12.93
+
+[[zipcodes]]
+zipcode = 58718
+percent_zip_in_county = 86.25
+
+[[zipcodes]]
+zipcode = 58721
+percent_zip_in_county = 2.84
+
+[[zipcodes]]
+zipcode = 58722
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58725
+percent_zip_in_county = 73.61
+
+[[zipcodes]]
+zipcode = 58731
+percent_zip_in_county = 3.67
+
+[[zipcodes]]
+zipcode = 58733
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58734
+percent_zip_in_county = 57.26
+
+[[zipcodes]]
+zipcode = 58735
+percent_zip_in_county = 70.7
+
+[[zipcodes]]
+zipcode = 58740
+percent_zip_in_county = 22.65
+
+[[zipcodes]]
+zipcode = 58746
+percent_zip_in_county = 88.7
+
+[[zipcodes]]
+zipcode = 58756
+percent_zip_in_county = 94.0
+
+[[zipcodes]]
+zipcode = 58759
+percent_zip_in_county = 37.52
+
+[[zipcodes]]
+zipcode = 58768
+percent_zip_in_county = 47.87
+
+[[zipcodes]]
+zipcode = 58771
+percent_zip_in_county = 15.01
+
+[[zipcodes]]
+zipcode = 58779
+percent_zip_in_county = 57.49
+
+[[zipcodes]]
+zipcode = 58781
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58785
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58790
+percent_zip_in_county = 3.72

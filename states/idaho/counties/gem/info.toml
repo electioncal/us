@@ -1,2 +1,30 @@
 name = "Gem County"
 fips_code = 16045
+
+[[zipcodes]]
+zipcode = 83607
+percent_zip_in_county = 1.51
+
+[[zipcodes]]
+zipcode = 83616
+percent_zip_in_county = 0.12
+
+[[zipcodes]]
+zipcode = 83617
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83629
+percent_zip_in_county = 5.4
+
+[[zipcodes]]
+zipcode = 83636
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83657
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83670
+percent_zip_in_county = 94.39

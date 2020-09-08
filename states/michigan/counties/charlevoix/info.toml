@@ -1,2 +1,42 @@
 name = "Charlevoix County"
 fips_code = 26029
+
+[[zipcodes]]
+zipcode = 49712
+percent_zip_in_county = 98.37
+
+[[zipcodes]]
+zipcode = 49713
+percent_zip_in_county = 95.06
+
+[[zipcodes]]
+zipcode = 49720
+percent_zip_in_county = 97.17
+
+[[zipcodes]]
+zipcode = 49727
+percent_zip_in_county = 76.74
+
+[[zipcodes]]
+zipcode = 49729
+percent_zip_in_county = 11.34
+
+[[zipcodes]]
+zipcode = 49730
+percent_zip_in_county = 19.75
+
+[[zipcodes]]
+zipcode = 49770
+percent_zip_in_county = 1.66
+
+[[zipcodes]]
+zipcode = 49782
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49795
+percent_zip_in_county = 8.01
+
+[[zipcodes]]
+zipcode = 49796
+percent_zip_in_county = 100.0

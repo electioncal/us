@@ -1,2 +1,42 @@
 name = "Bannock County"
 fips_code = 16005
+
+[[zipcodes]]
+zipcode = 83201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83202
+percent_zip_in_county = 94.27
+
+[[zipcodes]]
+zipcode = 83204
+percent_zip_in_county = 95.17
+
+[[zipcodes]]
+zipcode = 83209
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83214
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83234
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83245
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83246
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83250
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83281
+percent_zip_in_county = 100.0

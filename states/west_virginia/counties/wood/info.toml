@@ -1,2 +1,54 @@
 name = "Wood County"
 fips_code = 54107
+
+[[zipcodes]]
+zipcode = 26101
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26104
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26105
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26133
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26142
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26143
+percent_zip_in_county = 6.99
+
+[[zipcodes]]
+zipcode = 26150
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26164
+percent_zip_in_county = 0.79
+
+[[zipcodes]]
+zipcode = 26169
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26180
+percent_zip_in_county = 94.18
+
+[[zipcodes]]
+zipcode = 26181
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26184
+percent_zip_in_county = 87.76
+
+[[zipcodes]]
+zipcode = 26187
+percent_zip_in_county = 100.0

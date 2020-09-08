@@ -1,2 +1,66 @@
 name = "Horry County"
 fips_code = 45051
+
+[[zipcodes]]
+zipcode = 29511
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29526
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29527
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29544
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29545
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29566
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29568
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29569
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29572
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29575
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29576
+percent_zip_in_county = 67.83
+
+[[zipcodes]]
+zipcode = 29577
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29579
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29581
+percent_zip_in_county = 61.98
+
+[[zipcodes]]
+zipcode = 29582
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29588
+percent_zip_in_county = 100.0

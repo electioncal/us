@@ -1,2 +1,34 @@
 name = "Cloud County"
 fips_code = 20029
+
+[[zipcodes]]
+zipcode = 66901
+percent_zip_in_county = 98.53
+
+[[zipcodes]]
+zipcode = 66938
+percent_zip_in_county = 94.13
+
+[[zipcodes]]
+zipcode = 66948
+percent_zip_in_county = 89.07
+
+[[zipcodes]]
+zipcode = 67417
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67420
+percent_zip_in_county = 0.49
+
+[[zipcodes]]
+zipcode = 67436
+percent_zip_in_county = 11.64
+
+[[zipcodes]]
+zipcode = 67445
+percent_zip_in_county = 98.68
+
+[[zipcodes]]
+zipcode = 67466
+percent_zip_in_county = 89.41

@@ -1,2 +1,102 @@
 name = "Rapides Parish"
 fips_code = 22079
+
+[[zipcodes]]
+zipcode = 70656
+percent_zip_in_county = 14.19
+
+[[zipcodes]]
+zipcode = 71301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71302
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71303
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71325
+percent_zip_in_county = 79.94
+
+[[zipcodes]]
+zipcode = 71328
+percent_zip_in_county = 93.81
+
+[[zipcodes]]
+zipcode = 71346
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71351
+percent_zip_in_county = 0.98
+
+[[zipcodes]]
+zipcode = 71360
+percent_zip_in_county = 97.5
+
+[[zipcodes]]
+zipcode = 71367
+percent_zip_in_county = 1.8
+
+[[zipcodes]]
+zipcode = 71405
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71409
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71423
+percent_zip_in_county = 5.62
+
+[[zipcodes]]
+zipcode = 71424
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71427
+percent_zip_in_county = 74.82
+
+[[zipcodes]]
+zipcode = 71430
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71433
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71438
+percent_zip_in_county = 67.4
+
+[[zipcodes]]
+zipcode = 71447
+percent_zip_in_county = 60.18
+
+[[zipcodes]]
+zipcode = 71455
+percent_zip_in_county = 59.03
+
+[[zipcodes]]
+zipcode = 71463
+percent_zip_in_county = 4.08
+
+[[zipcodes]]
+zipcode = 71466
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71467
+percent_zip_in_county = 0.25
+
+[[zipcodes]]
+zipcode = 71472
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71485
+percent_zip_in_county = 100.0

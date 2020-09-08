@@ -1,2 +1,58 @@
 name = "McNairy County"
 fips_code = 47109
+
+[[zipcodes]]
+zipcode = 38044
+percent_zip_in_county = 14.57
+
+[[zipcodes]]
+zipcode = 38061
+percent_zip_in_county = 38.38
+
+[[zipcodes]]
+zipcode = 38310
+percent_zip_in_county = 66.72
+
+[[zipcodes]]
+zipcode = 38315
+percent_zip_in_county = 93.6
+
+[[zipcodes]]
+zipcode = 38332
+percent_zip_in_county = 9.29
+
+[[zipcodes]]
+zipcode = 38334
+percent_zip_in_county = 62.53
+
+[[zipcodes]]
+zipcode = 38339
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38357
+percent_zip_in_county = 87.01
+
+[[zipcodes]]
+zipcode = 38359
+percent_zip_in_county = 51.8
+
+[[zipcodes]]
+zipcode = 38361
+percent_zip_in_county = 1.91
+
+[[zipcodes]]
+zipcode = 38367
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38375
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38376
+percent_zip_in_county = 35.62
+
+[[zipcodes]]
+zipcode = 38379
+percent_zip_in_county = 100.0

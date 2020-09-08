@@ -1,2 +1,22 @@
 name = "Jeff Davis County"
 fips_code = 13161
+
+[[zipcodes]]
+zipcode = 31510
+percent_zip_in_county = 0.12
+
+[[zipcodes]]
+zipcode = 31513
+percent_zip_in_county = 0.2
+
+[[zipcodes]]
+zipcode = 31519
+percent_zip_in_county = 2.58
+
+[[zipcodes]]
+zipcode = 31532
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31539
+percent_zip_in_county = 98.18

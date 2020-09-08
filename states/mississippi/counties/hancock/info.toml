@@ -1,2 +1,42 @@
 name = "Hancock County"
 fips_code = 28045
+
+[[zipcodes]]
+zipcode = 39426
+percent_zip_in_county = 2.53
+
+[[zipcodes]]
+zipcode = 39466
+percent_zip_in_county = 11.66
+
+[[zipcodes]]
+zipcode = 39470
+percent_zip_in_county = 0.53
+
+[[zipcodes]]
+zipcode = 39520
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39525
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39556
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39571
+percent_zip_in_county = 2.19
+
+[[zipcodes]]
+zipcode = 39572
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39573
+percent_zip_in_county = 21.91
+
+[[zipcodes]]
+zipcode = 39576
+percent_zip_in_county = 100.0

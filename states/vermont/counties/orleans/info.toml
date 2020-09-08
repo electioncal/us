@@ -1,2 +1,94 @@
 name = "Orleans County"
 fips_code = 50019
+
+[[zipcodes]]
+zipcode = 5471
+percent_zip_in_county = 3.46
+
+[[zipcodes]]
+zipcode = 5820
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5822
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5825
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5826
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5827
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5829
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5830
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5833
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5839
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5841
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5842
+percent_zip_in_county = 61.3
+
+[[zipcodes]]
+zipcode = 5845
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5847
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5853
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5855
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5857
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5859
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5860
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5868
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5872
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5874
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5875
+percent_zip_in_county = 100.0

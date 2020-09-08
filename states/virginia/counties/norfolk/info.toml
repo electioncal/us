@@ -1,2 +1,58 @@
 name = "Norfolk city"
 fips_code = 51710
+
+[[zipcodes]]
+zipcode = 23502
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23503
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23504
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23505
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23507
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23508
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23509
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23510
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23511
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23513
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23517
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23518
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23523
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23551
+percent_zip_in_county = 100.0

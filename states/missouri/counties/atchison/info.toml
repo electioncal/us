@@ -1,2 +1,34 @@
 name = "Atchison County"
 fips_code = 29005
+
+[[zipcodes]]
+zipcode = 51640
+percent_zip_in_county = 0.63
+
+[[zipcodes]]
+zipcode = 64428
+percent_zip_in_county = 2.23
+
+[[zipcodes]]
+zipcode = 64446
+percent_zip_in_county = 98.93
+
+[[zipcodes]]
+zipcode = 64482
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64487
+percent_zip_in_county = 5.81
+
+[[zipcodes]]
+zipcode = 64491
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64496
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64498
+percent_zip_in_county = 100.0

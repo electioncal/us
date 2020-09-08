@@ -1,2 +1,22 @@
 name = "St. Bernard Parish"
 fips_code = 22087
+
+[[zipcodes]]
+zipcode = 70032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70075
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70085
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70092
+percent_zip_in_county = 100.0

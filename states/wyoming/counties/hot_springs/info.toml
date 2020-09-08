@@ -1,2 +1,14 @@
 name = "Hot Springs County"
 fips_code = 56017
+
+[[zipcodes]]
+zipcode = 82401
+percent_zip_in_county = 0.19
+
+[[zipcodes]]
+zipcode = 82430
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82443
+percent_zip_in_county = 100.0

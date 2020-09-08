@@ -1,2 +1,62 @@
 name = "Coos County"
 fips_code = 33007
+
+[[zipcodes]]
+zipcode = 3570
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3575
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3576
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3579
+percent_zip_in_county = 77.66
+
+[[zipcodes]]
+zipcode = 3581
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3582
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3583
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3584
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3588
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3590
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3592
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3593
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3595
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3597
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 3598
+percent_zip_in_county = 100.0

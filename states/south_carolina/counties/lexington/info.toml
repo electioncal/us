@@ -1,2 +1,74 @@
 name = "Lexington County"
 fips_code = 45063
+
+[[zipcodes]]
+zipcode = 29006
+percent_zip_in_county = 52.66
+
+[[zipcodes]]
+zipcode = 29033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29036
+percent_zip_in_county = 72.4
+
+[[zipcodes]]
+zipcode = 29053
+percent_zip_in_county = 94.3
+
+[[zipcodes]]
+zipcode = 29054
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29063
+percent_zip_in_county = 7.56
+
+[[zipcodes]]
+zipcode = 29070
+percent_zip_in_county = 85.77
+
+[[zipcodes]]
+zipcode = 29072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29073
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29075
+percent_zip_in_county = 12.49
+
+[[zipcodes]]
+zipcode = 29112
+percent_zip_in_county = 6.32
+
+[[zipcodes]]
+zipcode = 29123
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29160
+percent_zip_in_county = 76.95
+
+[[zipcodes]]
+zipcode = 29169
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29170
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29172
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29210
+percent_zip_in_county = 27.18
+
+[[zipcodes]]
+zipcode = 29212
+percent_zip_in_county = 72.33

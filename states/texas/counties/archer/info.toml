@@ -1,2 +1,38 @@
 name = "Archer County"
 fips_code = 48009
+
+[[zipcodes]]
+zipcode = 76308
+percent_zip_in_county = 5.69
+
+[[zipcodes]]
+zipcode = 76310
+percent_zip_in_county = 8.55
+
+[[zipcodes]]
+zipcode = 76351
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76360
+percent_zip_in_county = 1.63
+
+[[zipcodes]]
+zipcode = 76366
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76370
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76374
+percent_zip_in_county = 2.31
+
+[[zipcodes]]
+zipcode = 76379
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76389
+percent_zip_in_county = 75.32

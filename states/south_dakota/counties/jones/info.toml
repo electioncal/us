@@ -1,2 +1,22 @@
 name = "Jones County"
 fips_code = 46075
+
+[[zipcodes]]
+zipcode = 57531
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57552
+percent_zip_in_county = 6.14
+
+[[zipcodes]]
+zipcode = 57559
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57562
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57576
+percent_zip_in_county = 3.92

@@ -1,2 +1,14 @@
 name = "Lake County"
 fips_code = 47095
+
+[[zipcodes]]
+zipcode = 38077
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38079
+percent_zip_in_county = 99.68
+
+[[zipcodes]]
+zipcode = 38080
+percent_zip_in_county = 86.84

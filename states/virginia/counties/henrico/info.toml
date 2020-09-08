@@ -1,2 +1,70 @@
 name = "Henrico County"
 fips_code = 51087
+
+[[zipcodes]]
+zipcode = 23030
+percent_zip_in_county = 0.64
+
+[[zipcodes]]
+zipcode = 23059
+percent_zip_in_county = 86.84
+
+[[zipcodes]]
+zipcode = 23060
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23075
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23150
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23222
+percent_zip_in_county = 30.54
+
+[[zipcodes]]
+zipcode = 23223
+percent_zip_in_county = 52.48
+
+[[zipcodes]]
+zipcode = 23226
+percent_zip_in_county = 49.2
+
+[[zipcodes]]
+zipcode = 23227
+percent_zip_in_county = 58.82
+
+[[zipcodes]]
+zipcode = 23228
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23229
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23230
+percent_zip_in_county = 62.12
+
+[[zipcodes]]
+zipcode = 23231
+percent_zip_in_county = 85.86
+
+[[zipcodes]]
+zipcode = 23233
+percent_zip_in_county = 98.92
+
+[[zipcodes]]
+zipcode = 23238
+percent_zip_in_county = 92.22
+
+[[zipcodes]]
+zipcode = 23250
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 23294
+percent_zip_in_county = 100.0

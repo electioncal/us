@@ -1,2 +1,26 @@
 name = "Ballard County"
 fips_code = 21007
+
+[[zipcodes]]
+zipcode = 42022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42053
+percent_zip_in_county = 43.07
+
+[[zipcodes]]
+zipcode = 42056
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42060
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42087
+percent_zip_in_county = 100.0

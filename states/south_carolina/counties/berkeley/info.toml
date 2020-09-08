@@ -1,2 +1,70 @@
 name = "Berkeley County"
 fips_code = 45015
+
+[[zipcodes]]
+zipcode = 29059
+percent_zip_in_county = 2.97
+
+[[zipcodes]]
+zipcode = 29406
+percent_zip_in_county = 0.55
+
+[[zipcodes]]
+zipcode = 29410
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29431
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29434
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29436
+percent_zip_in_county = 98.23
+
+[[zipcodes]]
+zipcode = 29445
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29450
+percent_zip_in_county = 98.29
+
+[[zipcodes]]
+zipcode = 29453
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29456
+percent_zip_in_county = 38.05
+
+[[zipcodes]]
+zipcode = 29461
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29468
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29469
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29472
+percent_zip_in_county = 24.71
+
+[[zipcodes]]
+zipcode = 29479
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29483
+percent_zip_in_county = 40.71
+
+[[zipcodes]]
+zipcode = 29492
+percent_zip_in_county = 100.0

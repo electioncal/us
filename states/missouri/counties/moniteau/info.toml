@@ -1,2 +1,46 @@
 name = "Moniteau County"
 fips_code = 29135
+
+[[zipcodes]]
+zipcode = 65011
+percent_zip_in_county = 3.92
+
+[[zipcodes]]
+zipcode = 65018
+percent_zip_in_county = 97.91
+
+[[zipcodes]]
+zipcode = 65023
+percent_zip_in_county = 16.01
+
+[[zipcodes]]
+zipcode = 65025
+percent_zip_in_county = 73.54
+
+[[zipcodes]]
+zipcode = 65034
+percent_zip_in_county = 44.48
+
+[[zipcodes]]
+zipcode = 65046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65050
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65074
+percent_zip_in_county = 31.17
+
+[[zipcodes]]
+zipcode = 65081
+percent_zip_in_county = 95.26
+
+[[zipcodes]]
+zipcode = 65084
+percent_zip_in_county = 0.93
+
+[[zipcodes]]
+zipcode = 65287
+percent_zip_in_county = 22.75

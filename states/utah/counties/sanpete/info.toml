@@ -1,2 +1,62 @@
 name = "Sanpete County"
 fips_code = 49039
+
+[[zipcodes]]
+zipcode = 84621
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84622
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84623
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84627
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84629
+percent_zip_in_county = 94.03
+
+[[zipcodes]]
+zipcode = 84630
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84632
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84634
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84642
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84643
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84646
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84647
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84662
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84665
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84667
+percent_zip_in_county = 100.0

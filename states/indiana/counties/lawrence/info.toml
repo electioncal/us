@@ -1,2 +1,46 @@
 name = "Lawrence County"
 fips_code = 18093
+
+[[zipcodes]]
+zipcode = 47264
+percent_zip_in_county = 19.19
+
+[[zipcodes]]
+zipcode = 47420
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47421
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47436
+percent_zip_in_county = 80.4
+
+[[zipcodes]]
+zipcode = 47437
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47446
+percent_zip_in_county = 99.15
+
+[[zipcodes]]
+zipcode = 47451
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47452
+percent_zip_in_county = 7.45
+
+[[zipcodes]]
+zipcode = 47462
+percent_zip_in_county = 66.84
+
+[[zipcodes]]
+zipcode = 47467
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47470
+percent_zip_in_county = 90.72

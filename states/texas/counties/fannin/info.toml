@@ -1,2 +1,78 @@
 name = "Fannin County"
 fips_code = 48147
+
+[[zipcodes]]
+zipcode = 75413
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75418
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75423
+percent_zip_in_county = 1.11
+
+[[zipcodes]]
+zipcode = 75424
+percent_zip_in_county = 6.1
+
+[[zipcodes]]
+zipcode = 75438
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75439
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75446
+percent_zip_in_county = 87.67
+
+[[zipcodes]]
+zipcode = 75447
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75449
+percent_zip_in_county = 83.39
+
+[[zipcodes]]
+zipcode = 75452
+percent_zip_in_county = 93.79
+
+[[zipcodes]]
+zipcode = 75469
+percent_zip_in_county = 2.7
+
+[[zipcodes]]
+zipcode = 75475
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75476
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75479
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75488
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75490
+percent_zip_in_county = 98.51
+
+[[zipcodes]]
+zipcode = 75491
+percent_zip_in_county = 16.14
+
+[[zipcodes]]
+zipcode = 75492
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75496
+percent_zip_in_county = 15.22

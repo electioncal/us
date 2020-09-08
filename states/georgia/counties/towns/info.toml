@@ -1,2 +1,10 @@
 name = "Towns County"
 fips_code = 13281
+
+[[zipcodes]]
+zipcode = 30546
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30582
+percent_zip_in_county = 87.04

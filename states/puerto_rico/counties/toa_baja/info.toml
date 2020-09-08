@@ -1,2 +1,22 @@
 name = "Toa Baja Municipio"
 fips_code = 72137
+
+[[zipcodes]]
+zipcode = 949
+percent_zip_in_county = 95.85
+
+[[zipcodes]]
+zipcode = 951
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 952
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 953
+percent_zip_in_county = 0.87
+
+[[zipcodes]]
+zipcode = 959
+percent_zip_in_county = 0.12

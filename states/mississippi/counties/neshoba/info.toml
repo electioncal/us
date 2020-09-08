@@ -1,2 +1,30 @@
 name = "Neshoba County"
 fips_code = 28099
+
+[[zipcodes]]
+zipcode = 39051
+percent_zip_in_county = 1.71
+
+[[zipcodes]]
+zipcode = 39325
+percent_zip_in_county = 6.52
+
+[[zipcodes]]
+zipcode = 39337
+percent_zip_in_county = 5.7
+
+[[zipcodes]]
+zipcode = 39346
+percent_zip_in_county = 5.53
+
+[[zipcodes]]
+zipcode = 39350
+percent_zip_in_county = 96.9
+
+[[zipcodes]]
+zipcode = 39354
+percent_zip_in_county = 5.21
+
+[[zipcodes]]
+zipcode = 39365
+percent_zip_in_county = 60.58

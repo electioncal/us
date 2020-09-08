@@ -1,2 +1,102 @@
 name = "Caddo Parish"
 fips_code = 22017
+
+[[zipcodes]]
+zipcode = 71004
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71029
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71044
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71046
+percent_zip_in_county = 12.66
+
+[[zipcodes]]
+zipcode = 71047
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71051
+percent_zip_in_county = 0.33
+
+[[zipcodes]]
+zipcode = 71060
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71069
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71082
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71101
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71104
+percent_zip_in_county = 97.41
+
+[[zipcodes]]
+zipcode = 71105
+percent_zip_in_county = 89.88
+
+[[zipcodes]]
+zipcode = 71106
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71107
+percent_zip_in_county = 99.7
+
+[[zipcodes]]
+zipcode = 71108
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71109
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71115
+percent_zip_in_county = 98.26
+
+[[zipcodes]]
+zipcode = 71118
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71119
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71129
+percent_zip_in_county = 100.0

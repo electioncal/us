@@ -1,2 +1,62 @@
 name = "Pocahontas County"
 fips_code = 19151
+
+[[zipcodes]]
+zipcode = 50510
+percent_zip_in_county = 6.09
+
+[[zipcodes]]
+zipcode = 50520
+percent_zip_in_county = 2.08
+
+[[zipcodes]]
+zipcode = 50524
+percent_zip_in_county = 1.92
+
+[[zipcodes]]
+zipcode = 50540
+percent_zip_in_county = 88.94
+
+[[zipcodes]]
+zipcode = 50541
+percent_zip_in_county = 43.69
+
+[[zipcodes]]
+zipcode = 50546
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50554
+percent_zip_in_county = 98.28
+
+[[zipcodes]]
+zipcode = 50562
+percent_zip_in_county = 4.74
+
+[[zipcodes]]
+zipcode = 50563
+percent_zip_in_county = 5.88
+
+[[zipcodes]]
+zipcode = 50571
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50573
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50574
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50575
+percent_zip_in_county = 15.27
+
+[[zipcodes]]
+zipcode = 50581
+percent_zip_in_county = 97.29
+
+[[zipcodes]]
+zipcode = 50593
+percent_zip_in_county = 100.0

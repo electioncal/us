@@ -1,2 +1,78 @@
 name = "Douglas County"
 fips_code = 8035
+
+[[zipcodes]]
+zipcode = 80016
+percent_zip_in_county = 0.28
+
+[[zipcodes]]
+zipcode = 80104
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80106
+percent_zip_in_county = 1.89
+
+[[zipcodes]]
+zipcode = 80108
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80109
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80112
+percent_zip_in_county = 7.02
+
+[[zipcodes]]
+zipcode = 80116
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80118
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80120
+percent_zip_in_county = 0.07
+
+[[zipcodes]]
+zipcode = 80124
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80125
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80126
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80129
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80130
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80131
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80133
+percent_zip_in_county = 0.88
+
+[[zipcodes]]
+zipcode = 80134
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80135
+percent_zip_in_county = 98.49
+
+[[zipcodes]]
+zipcode = 80138
+percent_zip_in_county = 85.45

@@ -1,2 +1,94 @@
 name = "Warren County"
 fips_code = 39165
+
+[[zipcodes]]
+zipcode = 45005
+percent_zip_in_county = 99.18
+
+[[zipcodes]]
+zipcode = 45032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45042
+percent_zip_in_county = 1.43
+
+[[zipcodes]]
+zipcode = 45044
+percent_zip_in_county = 3.58
+
+[[zipcodes]]
+zipcode = 45050
+percent_zip_in_county = 0.88
+
+[[zipcodes]]
+zipcode = 45054
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45065
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45066
+percent_zip_in_county = 94.89
+
+[[zipcodes]]
+zipcode = 45068
+percent_zip_in_county = 98.2
+
+[[zipcodes]]
+zipcode = 45107
+percent_zip_in_county = 16.7
+
+[[zipcodes]]
+zipcode = 45113
+percent_zip_in_county = 31.35
+
+[[zipcodes]]
+zipcode = 45122
+percent_zip_in_county = 4.32
+
+[[zipcodes]]
+zipcode = 45140
+percent_zip_in_county = 18.83
+
+[[zipcodes]]
+zipcode = 45152
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45162
+percent_zip_in_county = 62.68
+
+[[zipcodes]]
+zipcode = 45241
+percent_zip_in_county = 0.3
+
+[[zipcodes]]
+zipcode = 45249
+percent_zip_in_county = 2.67
+
+[[zipcodes]]
+zipcode = 45342
+percent_zip_in_county = 0.34
+
+[[zipcodes]]
+zipcode = 45458
+percent_zip_in_county = 5.45

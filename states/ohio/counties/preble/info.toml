@@ -1,2 +1,66 @@
 name = "Preble County"
 fips_code = 39135
+
+[[zipcodes]]
+zipcode = 45003
+percent_zip_in_county = 69.73
+
+[[zipcodes]]
+zipcode = 45042
+percent_zip_in_county = 1.83
+
+[[zipcodes]]
+zipcode = 45064
+percent_zip_in_county = 45.78
+
+[[zipcodes]]
+zipcode = 45070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45304
+percent_zip_in_county = 1.07
+
+[[zipcodes]]
+zipcode = 45309
+percent_zip_in_county = 0.21
+
+[[zipcodes]]
+zipcode = 45311
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45320
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45321
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45327
+percent_zip_in_county = 1.2
+
+[[zipcodes]]
+zipcode = 45330
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45338
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45347
+percent_zip_in_county = 86.08
+
+[[zipcodes]]
+zipcode = 45378
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45381
+percent_zip_in_county = 96.06
+
+[[zipcodes]]
+zipcode = 45382
+percent_zip_in_county = 82.58

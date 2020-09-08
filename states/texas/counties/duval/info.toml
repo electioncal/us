@@ -1,2 +1,30 @@
 name = "Duval County"
 fips_code = 48131
+
+[[zipcodes]]
+zipcode = 78332
+percent_zip_in_county = 0.71
+
+[[zipcodes]]
+zipcode = 78341
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78349
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78357
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78361
+percent_zip_in_county = 0.52
+
+[[zipcodes]]
+zipcode = 78376
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78384
+percent_zip_in_county = 83.86

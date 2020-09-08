@@ -1,2 +1,90 @@
 name = "Rockingham County"
 fips_code = 51165
+
+[[zipcodes]]
+zipcode = 22801
+percent_zip_in_county = 26.27
+
+[[zipcodes]]
+zipcode = 22802
+percent_zip_in_county = 33.09
+
+[[zipcodes]]
+zipcode = 22811
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22812
+percent_zip_in_county = 91.76
+
+[[zipcodes]]
+zipcode = 22815
+percent_zip_in_county = 99.66
+
+[[zipcodes]]
+zipcode = 22820
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22821
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22827
+percent_zip_in_county = 94.18
+
+[[zipcodes]]
+zipcode = 22830
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22831
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22832
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22834
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22840
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22841
+percent_zip_in_county = 96.27
+
+[[zipcodes]]
+zipcode = 22844
+percent_zip_in_county = 5.5
+
+[[zipcodes]]
+zipcode = 22846
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22849
+percent_zip_in_county = 3.47
+
+[[zipcodes]]
+zipcode = 22850
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22853
+percent_zip_in_county = 99.06
+
+[[zipcodes]]
+zipcode = 24441
+percent_zip_in_county = 62.36
+
+[[zipcodes]]
+zipcode = 24471
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24486
+percent_zip_in_county = 6.05

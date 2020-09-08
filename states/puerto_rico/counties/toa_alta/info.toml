@@ -1,2 +1,22 @@
 name = "Toa Alta Municipio"
 fips_code = 72135
+
+[[zipcodes]]
+zipcode = 719
+percent_zip_in_county = 0.48
+
+[[zipcodes]]
+zipcode = 953
+percent_zip_in_county = 98.93
+
+[[zipcodes]]
+zipcode = 956
+percent_zip_in_county = 0.2
+
+[[zipcodes]]
+zipcode = 957
+percent_zip_in_county = 2.93
+
+[[zipcodes]]
+zipcode = 959
+percent_zip_in_county = 0.36

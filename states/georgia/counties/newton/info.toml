@@ -1,2 +1,46 @@
 name = "Newton County"
 fips_code = 13217
+
+[[zipcodes]]
+zipcode = 30013
+percent_zip_in_county = 5.28
+
+[[zipcodes]]
+zipcode = 30014
+percent_zip_in_county = 91.89
+
+[[zipcodes]]
+zipcode = 30016
+percent_zip_in_county = 99.68
+
+[[zipcodes]]
+zipcode = 30025
+percent_zip_in_county = 29.41
+
+[[zipcodes]]
+zipcode = 30052
+percent_zip_in_county = 0.21
+
+[[zipcodes]]
+zipcode = 30054
+percent_zip_in_county = 82.49
+
+[[zipcodes]]
+zipcode = 30055
+percent_zip_in_county = 40.23
+
+[[zipcodes]]
+zipcode = 30056
+percent_zip_in_county = 44.8
+
+[[zipcodes]]
+zipcode = 30070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30164
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30233
+percent_zip_in_county = 0.12

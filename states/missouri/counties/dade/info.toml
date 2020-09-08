@@ -1,2 +1,54 @@
 name = "Dade County"
 fips_code = 29057
+
+[[zipcodes]]
+zipcode = 64748
+percent_zip_in_county = 14.2
+
+[[zipcodes]]
+zipcode = 64756
+percent_zip_in_county = 15.23
+
+[[zipcodes]]
+zipcode = 64759
+percent_zip_in_county = 0.24
+
+[[zipcodes]]
+zipcode = 65601
+percent_zip_in_county = 23.89
+
+[[zipcodes]]
+zipcode = 65603
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65604
+percent_zip_in_county = 2.96
+
+[[zipcodes]]
+zipcode = 65635
+percent_zip_in_county = 88.91
+
+[[zipcodes]]
+zipcode = 65646
+percent_zip_in_county = 74.88
+
+[[zipcodes]]
+zipcode = 65661
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65682
+percent_zip_in_county = 96.36
+
+[[zipcodes]]
+zipcode = 65752
+percent_zip_in_county = 88.43
+
+[[zipcodes]]
+zipcode = 65770
+percent_zip_in_county = 5.1
+
+[[zipcodes]]
+zipcode = 65785
+percent_zip_in_county = 0.17

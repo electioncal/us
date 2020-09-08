@@ -1,2 +1,66 @@
 name = "Coffee County"
 fips_code = 1031
+
+[[zipcodes]]
+zipcode = 36009
+percent_zip_in_county = 2.49
+
+[[zipcodes]]
+zipcode = 36010
+percent_zip_in_county = 14.54
+
+[[zipcodes]]
+zipcode = 36034
+percent_zip_in_county = 23.17
+
+[[zipcodes]]
+zipcode = 36079
+percent_zip_in_county = 3.62
+
+[[zipcodes]]
+zipcode = 36311
+percent_zip_in_county = 9.46
+
+[[zipcodes]]
+zipcode = 36316
+percent_zip_in_county = 45.93
+
+[[zipcodes]]
+zipcode = 36318
+percent_zip_in_county = 24.54
+
+[[zipcodes]]
+zipcode = 36322
+percent_zip_in_county = 1.21
+
+[[zipcodes]]
+zipcode = 36323
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36330
+percent_zip_in_county = 91.06
+
+[[zipcodes]]
+zipcode = 36346
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36351
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36360
+percent_zip_in_county = 0.04
+
+[[zipcodes]]
+zipcode = 36453
+percent_zip_in_county = 61.06
+
+[[zipcodes]]
+zipcode = 36467
+percent_zip_in_county = 2.94
+
+[[zipcodes]]
+zipcode = 36477
+percent_zip_in_county = 6.77

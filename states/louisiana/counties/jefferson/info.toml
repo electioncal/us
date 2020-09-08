@@ -1,2 +1,70 @@
 name = "Jefferson Parish"
 fips_code = 22051
+
+[[zipcodes]]
+zipcode = 70001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70005
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70006
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70053
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70056
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70058
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70062
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70065
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70094
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70121
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70123
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70358
+percent_zip_in_county = 100.0

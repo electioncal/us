@@ -1,2 +1,54 @@
 name = "Floyd County"
 fips_code = 13115
+
+[[zipcodes]]
+zipcode = 30103
+percent_zip_in_county = 5.11
+
+[[zipcodes]]
+zipcode = 30104
+percent_zip_in_county = 21.09
+
+[[zipcodes]]
+zipcode = 30105
+percent_zip_in_county = 90.54
+
+[[zipcodes]]
+zipcode = 30124
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30125
+percent_zip_in_county = 2.36
+
+[[zipcodes]]
+zipcode = 30145
+percent_zip_in_county = 23.13
+
+[[zipcodes]]
+zipcode = 30147
+percent_zip_in_county = 97.78
+
+[[zipcodes]]
+zipcode = 30149
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30161
+percent_zip_in_county = 99.63
+
+[[zipcodes]]
+zipcode = 30165
+percent_zip_in_county = 99.77
+
+[[zipcodes]]
+zipcode = 30173
+percent_zip_in_county = 95.48
+
+[[zipcodes]]
+zipcode = 30701
+percent_zip_in_county = 0.84
+
+[[zipcodes]]
+zipcode = 30733
+percent_zip_in_county = 3.56

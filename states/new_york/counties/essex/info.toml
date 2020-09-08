@@ -1,2 +1,146 @@
 name = "Essex County"
 fips_code = 36031
+
+[[zipcodes]]
+zipcode = 12808
+percent_zip_in_county = 0.65
+
+[[zipcodes]]
+zipcode = 12836
+percent_zip_in_county = 2.26
+
+[[zipcodes]]
+zipcode = 12851
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12852
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12853
+percent_zip_in_county = 3.28
+
+[[zipcodes]]
+zipcode = 12855
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12857
+percent_zip_in_county = 90.36
+
+[[zipcodes]]
+zipcode = 12858
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12870
+percent_zip_in_county = 97.95
+
+[[zipcodes]]
+zipcode = 12872
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12883
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12912
+percent_zip_in_county = 44.59
+
+[[zipcodes]]
+zipcode = 12913
+percent_zip_in_county = 92.65
+
+[[zipcodes]]
+zipcode = 12928
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12932
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12936
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12941
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12942
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12943
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12944
+percent_zip_in_county = 53.26
+
+[[zipcodes]]
+zipcode = 12946
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12950
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12956
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12960
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12961
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12964
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12972
+percent_zip_in_county = 0.19
+
+[[zipcodes]]
+zipcode = 12974
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12975
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12977
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12983
+percent_zip_in_county = 29.2
+
+[[zipcodes]]
+zipcode = 12987
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12993
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12996
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12997
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12998
+percent_zip_in_county = 100.0

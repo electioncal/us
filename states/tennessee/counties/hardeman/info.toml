@@ -1,2 +1,50 @@
 name = "Hardeman County"
 fips_code = 47069
+
+[[zipcodes]]
+zipcode = 38008
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38039
+percent_zip_in_county = 83.92
+
+[[zipcodes]]
+zipcode = 38042
+percent_zip_in_county = 98.49
+
+[[zipcodes]]
+zipcode = 38044
+percent_zip_in_county = 81.04
+
+[[zipcodes]]
+zipcode = 38052
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38061
+percent_zip_in_county = 61.62
+
+[[zipcodes]]
+zipcode = 38067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38075
+percent_zip_in_county = 86.74
+
+[[zipcodes]]
+zipcode = 38340
+percent_zip_in_county = 2.18
+
+[[zipcodes]]
+zipcode = 38356
+percent_zip_in_county = 24.03
+
+[[zipcodes]]
+zipcode = 38381
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38392
+percent_zip_in_county = 10.7

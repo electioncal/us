@@ -1,2 +1,6 @@
 name = "Lexington city"
 fips_code = 51678
+
+[[zipcodes]]
+zipcode = 24450
+percent_zip_in_county = 42.06

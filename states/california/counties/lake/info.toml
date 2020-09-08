@@ -1,2 +1,62 @@
 name = "Lake County"
 fips_code = 6033
+
+[[zipcodes]]
+zipcode = 95422
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95423
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95426
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95435
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95443
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95451
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95453
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95457
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95458
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95461
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95464
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95467
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95469
+percent_zip_in_county = 3.4
+
+[[zipcodes]]
+zipcode = 95485
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95493
+percent_zip_in_county = 100.0

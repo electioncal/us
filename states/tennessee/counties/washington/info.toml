@@ -1,2 +1,54 @@
 name = "Washington County"
 fips_code = 47179
+
+[[zipcodes]]
+zipcode = 37601
+percent_zip_in_county = 70.19
+
+[[zipcodes]]
+zipcode = 37604
+percent_zip_in_county = 99.19
+
+[[zipcodes]]
+zipcode = 37614
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37615
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37641
+percent_zip_in_county = 21.24
+
+[[zipcodes]]
+zipcode = 37650
+percent_zip_in_county = 3.68
+
+[[zipcodes]]
+zipcode = 37656
+percent_zip_in_county = 69.76
+
+[[zipcodes]]
+zipcode = 37659
+percent_zip_in_county = 99.76
+
+[[zipcodes]]
+zipcode = 37663
+percent_zip_in_county = 6.1
+
+[[zipcodes]]
+zipcode = 37681
+percent_zip_in_county = 72.13
+
+[[zipcodes]]
+zipcode = 37686
+percent_zip_in_county = 0.74
+
+[[zipcodes]]
+zipcode = 37690
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37694
+percent_zip_in_county = 4.81

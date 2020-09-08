@@ -1,2 +1,58 @@
 name = "Adams County"
 fips_code = 55001
+
+[[zipcodes]]
+zipcode = 53910
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53920
+percent_zip_in_county = 25.85
+
+[[zipcodes]]
+zipcode = 53934
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53936
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53952
+percent_zip_in_county = 57.44
+
+[[zipcodes]]
+zipcode = 53964
+percent_zip_in_county = 1.94
+
+[[zipcodes]]
+zipcode = 53965
+percent_zip_in_county = 30.47
+
+[[zipcodes]]
+zipcode = 54457
+percent_zip_in_county = 32.56
+
+[[zipcodes]]
+zipcode = 54494
+percent_zip_in_county = 0.13
+
+[[zipcodes]]
+zipcode = 54613
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54921
+percent_zip_in_county = 7.01
+
+[[zipcodes]]
+zipcode = 54930
+percent_zip_in_county = 12.21
+
+[[zipcodes]]
+zipcode = 54943
+percent_zip_in_county = 27.15
+
+[[zipcodes]]
+zipcode = 54966
+percent_zip_in_county = 1.39

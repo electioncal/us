@@ -1,2 +1,34 @@
 name = "Westmoreland County"
 fips_code = 51193
+
+[[zipcodes]]
+zipcode = 22435
+percent_zip_in_county = 1.19
+
+[[zipcodes]]
+zipcode = 22443
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22469
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22485
+percent_zip_in_county = 0.08
+
+[[zipcodes]]
+zipcode = 22488
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22520
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22529
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22572
+percent_zip_in_county = 3.57

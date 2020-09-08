@@ -1,2 +1,46 @@
 name = "Bartholomew County"
 fips_code = 18005
+
+[[zipcodes]]
+zipcode = 46124
+percent_zip_in_county = 24.25
+
+[[zipcodes]]
+zipcode = 47201
+percent_zip_in_county = 97.12
+
+[[zipcodes]]
+zipcode = 47203
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47226
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47232
+percent_zip_in_county = 64.25
+
+[[zipcodes]]
+zipcode = 47244
+percent_zip_in_county = 89.69
+
+[[zipcodes]]
+zipcode = 47246
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47247
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47274
+percent_zip_in_county = 1.38
+
+[[zipcodes]]
+zipcode = 47280
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47283
+percent_zip_in_county = 3.43

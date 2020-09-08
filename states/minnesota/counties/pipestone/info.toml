@@ -1,2 +1,38 @@
 name = "Pipestone County"
 fips_code = 27117
+
+[[zipcodes]]
+zipcode = 56128
+percent_zip_in_county = 86.39
+
+[[zipcodes]]
+zipcode = 56139
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56140
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56144
+percent_zip_in_county = 72.79
+
+[[zipcodes]]
+zipcode = 56149
+percent_zip_in_county = 0.95
+
+[[zipcodes]]
+zipcode = 56164
+percent_zip_in_county = 96.68
+
+[[zipcodes]]
+zipcode = 56170
+percent_zip_in_county = 72.57
+
+[[zipcodes]]
+zipcode = 56177
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56186
+percent_zip_in_county = 79.12

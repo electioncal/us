@@ -1,2 +1,38 @@
 name = "Jefferson County"
 fips_code = 53031
+
+[[zipcodes]]
+zipcode = 98320
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98325
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98331
+percent_zip_in_county = 14.07
+
+[[zipcodes]]
+zipcode = 98339
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98358
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98365
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98368
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98376
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98382
+percent_zip_in_county = 1.56

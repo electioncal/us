@@ -1,2 +1,38 @@
 name = "Morgan County"
 fips_code = 8087
+
+[[zipcodes]]
+zipcode = 80649
+percent_zip_in_county = 58.86
+
+[[zipcodes]]
+zipcode = 80653
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80654
+percent_zip_in_county = 98.13
+
+[[zipcodes]]
+zipcode = 80701
+percent_zip_in_county = 99.67
+
+[[zipcodes]]
+zipcode = 80705
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80723
+percent_zip_in_county = 99.85
+
+[[zipcodes]]
+zipcode = 80733
+percent_zip_in_county = 75.61
+
+[[zipcodes]]
+zipcode = 80741
+percent_zip_in_county = 2.57
+
+[[zipcodes]]
+zipcode = 80750
+percent_zip_in_county = 100.0

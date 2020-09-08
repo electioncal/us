@@ -1,2 +1,26 @@
 name = "Dooly County"
 fips_code = 13093
+
+[[zipcodes]]
+zipcode = 31007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31063
+percent_zip_in_county = 4.41
+
+[[zipcodes]]
+zipcode = 31070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31091
+percent_zip_in_county = 99.13
+
+[[zipcodes]]
+zipcode = 31092
+percent_zip_in_county = 97.33

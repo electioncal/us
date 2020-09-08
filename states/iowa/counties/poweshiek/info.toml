@@ -1,2 +1,66 @@
 name = "Poweshiek County"
 fips_code = 19157
+
+[[zipcodes]]
+zipcode = 50027
+percent_zip_in_county = 5.96
+
+[[zipcodes]]
+zipcode = 50106
+percent_zip_in_county = 1.54
+
+[[zipcodes]]
+zipcode = 50112
+percent_zip_in_county = 92.91
+
+[[zipcodes]]
+zipcode = 50153
+percent_zip_in_county = 1.63
+
+[[zipcodes]]
+zipcode = 50157
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50171
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50207
+percent_zip_in_county = 0.75
+
+[[zipcodes]]
+zipcode = 50242
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52208
+percent_zip_in_county = 0.57
+
+[[zipcodes]]
+zipcode = 52211
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52215
+percent_zip_in_county = 11.51
+
+[[zipcodes]]
+zipcode = 52221
+percent_zip_in_county = 89.14
+
+[[zipcodes]]
+zipcode = 52222
+percent_zip_in_county = 82.93
+
+[[zipcodes]]
+zipcode = 52232
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52339
+percent_zip_in_county = 0.36
+
+[[zipcodes]]
+zipcode = 52347
+percent_zip_in_county = 20.57

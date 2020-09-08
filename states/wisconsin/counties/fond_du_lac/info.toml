@@ -1,2 +1,94 @@
 name = "Fond du Lac County"
 fips_code = 55039
+
+[[zipcodes]]
+zipcode = 53006
+percent_zip_in_county = 22.54
+
+[[zipcodes]]
+zipcode = 53010
+percent_zip_in_county = 96.02
+
+[[zipcodes]]
+zipcode = 53011
+percent_zip_in_county = 2.96
+
+[[zipcodes]]
+zipcode = 53014
+percent_zip_in_county = 0.16
+
+[[zipcodes]]
+zipcode = 53019
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53040
+percent_zip_in_county = 4.81
+
+[[zipcodes]]
+zipcode = 53048
+percent_zip_in_county = 0.62
+
+[[zipcodes]]
+zipcode = 53049
+percent_zip_in_county = 96.74
+
+[[zipcodes]]
+zipcode = 53057
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53061
+percent_zip_in_county = 7.91
+
+[[zipcodes]]
+zipcode = 53065
+percent_zip_in_county = 99.24
+
+[[zipcodes]]
+zipcode = 53079
+percent_zip_in_county = 98.23
+
+[[zipcodes]]
+zipcode = 53919
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53931
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 53946
+percent_zip_in_county = 1.8
+
+[[zipcodes]]
+zipcode = 53963
+percent_zip_in_county = 37.4
+
+[[zipcodes]]
+zipcode = 54932
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54935
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54937
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54964
+percent_zip_in_county = 21.62
+
+[[zipcodes]]
+zipcode = 54971
+percent_zip_in_county = 89.72
+
+[[zipcodes]]
+zipcode = 54974
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54979
+percent_zip_in_county = 96.6

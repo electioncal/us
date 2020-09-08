@@ -1,2 +1,42 @@
 name = "Edgefield County"
 fips_code = 45037
+
+[[zipcodes]]
+zipcode = 29129
+percent_zip_in_county = 11.03
+
+[[zipcodes]]
+zipcode = 29138
+percent_zip_in_county = 0.13
+
+[[zipcodes]]
+zipcode = 29821
+percent_zip_in_county = 46.67
+
+[[zipcodes]]
+zipcode = 29824
+percent_zip_in_county = 99.44
+
+[[zipcodes]]
+zipcode = 29832
+percent_zip_in_county = 83.22
+
+[[zipcodes]]
+zipcode = 29835
+percent_zip_in_county = 5.65
+
+[[zipcodes]]
+zipcode = 29838
+percent_zip_in_county = 54.49
+
+[[zipcodes]]
+zipcode = 29845
+percent_zip_in_county = 1.36
+
+[[zipcodes]]
+zipcode = 29847
+percent_zip_in_county = 80.26
+
+[[zipcodes]]
+zipcode = 29860
+percent_zip_in_county = 54.98

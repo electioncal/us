@@ -1,2 +1,86 @@
 name = "Greenbrier County"
 fips_code = 54025
+
+[[zipcodes]]
+zipcode = 24901
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24910
+percent_zip_in_county = 45.22
+
+[[zipcodes]]
+zipcode = 24916
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24925
+percent_zip_in_county = 90.48
+
+[[zipcodes]]
+zipcode = 24931
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24938
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24957
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24966
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24970
+percent_zip_in_county = 98.91
+
+[[zipcodes]]
+zipcode = 24976
+percent_zip_in_county = 5.17
+
+[[zipcodes]]
+zipcode = 24977
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24986
+percent_zip_in_county = 99.31
+
+[[zipcodes]]
+zipcode = 24991
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25958
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25962
+percent_zip_in_county = 75.17
+
+[[zipcodes]]
+zipcode = 25972
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25976
+percent_zip_in_county = 11.3
+
+[[zipcodes]]
+zipcode = 25981
+percent_zip_in_county = 78.13
+
+[[zipcodes]]
+zipcode = 25984
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26261
+percent_zip_in_county = 2.7
+
+[[zipcodes]]
+zipcode = 26680
+percent_zip_in_county = 25.59

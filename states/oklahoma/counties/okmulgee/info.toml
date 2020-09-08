@@ -1,2 +1,46 @@
 name = "Okmulgee County"
 fips_code = 40111
+
+[[zipcodes]]
+zipcode = 74047
+percent_zip_in_county = 45.75
+
+[[zipcodes]]
+zipcode = 74421
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74422
+percent_zip_in_county = 32.28
+
+[[zipcodes]]
+zipcode = 74431
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74436
+percent_zip_in_county = 6.56
+
+[[zipcodes]]
+zipcode = 74437
+percent_zip_in_county = 91.06
+
+[[zipcodes]]
+zipcode = 74445
+percent_zip_in_county = 99.69
+
+[[zipcodes]]
+zipcode = 74447
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74456
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74460
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74880
+percent_zip_in_county = 5.94

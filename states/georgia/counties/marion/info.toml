@@ -1,2 +1,14 @@
 name = "Marion County"
 fips_code = 13197
+
+[[zipcodes]]
+zipcode = 31058
+percent_zip_in_county = 64.63
+
+[[zipcodes]]
+zipcode = 31801
+percent_zip_in_county = 60.51
+
+[[zipcodes]]
+zipcode = 31803
+percent_zip_in_county = 98.02

@@ -1,2 +1,50 @@
 name = "Winston County"
 fips_code = 1133
+
+[[zipcodes]]
+zipcode = 35053
+percent_zip_in_county = 14.64
+
+[[zipcodes]]
+zipcode = 35098
+percent_zip_in_county = 13.31
+
+[[zipcodes]]
+zipcode = 35179
+percent_zip_in_county = 0.23
+
+[[zipcodes]]
+zipcode = 35503
+percent_zip_in_county = 4.31
+
+[[zipcodes]]
+zipcode = 35540
+percent_zip_in_county = 98.34
+
+[[zipcodes]]
+zipcode = 35541
+percent_zip_in_county = 99.75
+
+[[zipcodes]]
+zipcode = 35553
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35565
+percent_zip_in_county = 72.57
+
+[[zipcodes]]
+zipcode = 35572
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35575
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35577
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 35578
+percent_zip_in_county = 15.26

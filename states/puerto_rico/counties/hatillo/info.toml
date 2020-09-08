@@ -1,2 +1,6 @@
 name = "Hatillo Municipio"
 fips_code = 72065
+
+[[zipcodes]]
+zipcode = 659
+percent_zip_in_county = 100.0

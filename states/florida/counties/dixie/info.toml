@@ -1,2 +1,26 @@
 name = "Dixie County"
 fips_code = 12029
+
+[[zipcodes]]
+zipcode = 32008
+percent_zip_in_county = 2.47
+
+[[zipcodes]]
+zipcode = 32359
+percent_zip_in_county = 28.18
+
+[[zipcodes]]
+zipcode = 32628
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32648
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32680
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32692
+percent_zip_in_county = 100.0

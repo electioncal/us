@@ -1,2 +1,66 @@
 name = "Brunswick County"
 fips_code = 51025
+
+[[zipcodes]]
+zipcode = 23821
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23824
+percent_zip_in_county = 3.11
+
+[[zipcodes]]
+zipcode = 23843
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23845
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23847
+percent_zip_in_county = 2.5
+
+[[zipcodes]]
+zipcode = 23856
+percent_zip_in_county = 96.22
+
+[[zipcodes]]
+zipcode = 23857
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23868
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23876
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23887
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23889
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23893
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23919
+percent_zip_in_county = 4.13
+
+[[zipcodes]]
+zipcode = 23920
+percent_zip_in_county = 73.29
+
+[[zipcodes]]
+zipcode = 23938
+percent_zip_in_county = 66.09
+
+[[zipcodes]]
+zipcode = 23950
+percent_zip_in_county = 8.72

@@ -1,2 +1,50 @@
 name = "Palo Pinto County"
 fips_code = 48363
+
+[[zipcodes]]
+zipcode = 76066
+percent_zip_in_county = 4.84
+
+[[zipcodes]]
+zipcode = 76067
+percent_zip_in_county = 89.61
+
+[[zipcodes]]
+zipcode = 76429
+percent_zip_in_county = 18.22
+
+[[zipcodes]]
+zipcode = 76449
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76450
+percent_zip_in_county = 1.53
+
+[[zipcodes]]
+zipcode = 76453
+percent_zip_in_county = 90.31
+
+[[zipcodes]]
+zipcode = 76462
+percent_zip_in_county = 14.65
+
+[[zipcodes]]
+zipcode = 76463
+percent_zip_in_county = 56.34
+
+[[zipcodes]]
+zipcode = 76472
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76475
+percent_zip_in_county = 97.34
+
+[[zipcodes]]
+zipcode = 76484
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76486
+percent_zip_in_county = 9.82

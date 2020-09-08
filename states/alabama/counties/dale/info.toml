@@ -1,2 +1,58 @@
 name = "Dale County"
 fips_code = 1045
+
+[[zipcodes]]
+zipcode = 36010
+percent_zip_in_county = 0.75
+
+[[zipcodes]]
+zipcode = 36303
+percent_zip_in_county = 3.26
+
+[[zipcodes]]
+zipcode = 36311
+percent_zip_in_county = 68.48
+
+[[zipcodes]]
+zipcode = 36317
+percent_zip_in_county = 4.41
+
+[[zipcodes]]
+zipcode = 36322
+percent_zip_in_county = 98.51
+
+[[zipcodes]]
+zipcode = 36330
+percent_zip_in_county = 8.94
+
+[[zipcodes]]
+zipcode = 36345
+percent_zip_in_county = 4.79
+
+[[zipcodes]]
+zipcode = 36350
+percent_zip_in_county = 92.58
+
+[[zipcodes]]
+zipcode = 36352
+percent_zip_in_county = 38.2
+
+[[zipcodes]]
+zipcode = 36353
+percent_zip_in_county = 25.66
+
+[[zipcodes]]
+zipcode = 36360
+percent_zip_in_county = 99.96
+
+[[zipcodes]]
+zipcode = 36362
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36371
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36374
+percent_zip_in_county = 91.55

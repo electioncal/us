@@ -1,2 +1,26 @@
 name = "McIntosh County"
 fips_code = 38051
+
+[[zipcodes]]
+zipcode = 58413
+percent_zip_in_county = 96.7
+
+[[zipcodes]]
+zipcode = 58440
+percent_zip_in_county = 29.83
+
+[[zipcodes]]
+zipcode = 58456
+percent_zip_in_county = 3.06
+
+[[zipcodes]]
+zipcode = 58460
+percent_zip_in_county = 55.22
+
+[[zipcodes]]
+zipcode = 58495
+percent_zip_in_county = 93.24
+
+[[zipcodes]]
+zipcode = 58581
+percent_zip_in_county = 100.0

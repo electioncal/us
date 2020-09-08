@@ -1,2 +1,18 @@
 name = "Grand County"
 fips_code = 49019
+
+[[zipcodes]]
+zipcode = 84515
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84525
+percent_zip_in_county = 4.31
+
+[[zipcodes]]
+zipcode = 84532
+percent_zip_in_county = 93.28
+
+[[zipcodes]]
+zipcode = 84540
+percent_zip_in_county = 95.65

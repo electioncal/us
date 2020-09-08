@@ -1,2 +1,46 @@
 name = "Page County"
 fips_code = 19145
+
+[[zipcodes]]
+zipcode = 50864
+percent_zip_in_county = 9.58
+
+[[zipcodes]]
+zipcode = 51566
+percent_zip_in_county = 0.95
+
+[[zipcodes]]
+zipcode = 51601
+percent_zip_in_county = 95.88
+
+[[zipcodes]]
+zipcode = 51630
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51631
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51632
+percent_zip_in_county = 99.89
+
+[[zipcodes]]
+zipcode = 51636
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51637
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51638
+percent_zip_in_county = 99.46
+
+[[zipcodes]]
+zipcode = 51647
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51656
+percent_zip_in_county = 100.0

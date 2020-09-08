@@ -1,2 +1,46 @@
 name = "LaMoure County"
 fips_code = 38045
+
+[[zipcodes]]
+zipcode = 58049
+percent_zip_in_county = 9.34
+
+[[zipcodes]]
+zipcode = 58415
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58431
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58433
+percent_zip_in_county = 94.41
+
+[[zipcodes]]
+zipcode = 58454
+percent_zip_in_county = 76.39
+
+[[zipcodes]]
+zipcode = 58456
+percent_zip_in_county = 87.0
+
+[[zipcodes]]
+zipcode = 58458
+percent_zip_in_county = 99.21
+
+[[zipcodes]]
+zipcode = 58461
+percent_zip_in_county = 24.21
+
+[[zipcodes]]
+zipcode = 58466
+percent_zip_in_county = 68.45
+
+[[zipcodes]]
+zipcode = 58472
+percent_zip_in_county = 34.37
+
+[[zipcodes]]
+zipcode = 58490
+percent_zip_in_county = 83.75

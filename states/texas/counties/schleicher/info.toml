@@ -1,2 +1,14 @@
 name = "Schleicher County"
 fips_code = 48413
+
+[[zipcodes]]
+zipcode = 76841
+percent_zip_in_county = 9.84
+
+[[zipcodes]]
+zipcode = 76935
+percent_zip_in_county = 4.67
+
+[[zipcodes]]
+zipcode = 76936
+percent_zip_in_county = 100.0

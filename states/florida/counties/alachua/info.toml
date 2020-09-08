@@ -1,2 +1,90 @@
 name = "Alachua County"
 fips_code = 12001
+
+[[zipcodes]]
+zipcode = 32601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32603
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32605
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32606
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32607
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32608
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32609
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32612
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32615
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32616
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32618
+percent_zip_in_county = 76.1
+
+[[zipcodes]]
+zipcode = 32622
+percent_zip_in_county = 23.72
+
+[[zipcodes]]
+zipcode = 32631
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32640
+percent_zip_in_county = 46.62
+
+[[zipcodes]]
+zipcode = 32641
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32643
+percent_zip_in_county = 69.51
+
+[[zipcodes]]
+zipcode = 32653
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32658
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32666
+percent_zip_in_county = 12.86
+
+[[zipcodes]]
+zipcode = 32667
+percent_zip_in_county = 56.4
+
+[[zipcodes]]
+zipcode = 32669
+percent_zip_in_county = 93.0
+
+[[zipcodes]]
+zipcode = 32694
+percent_zip_in_county = 100.0

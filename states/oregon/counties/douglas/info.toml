@@ -1,2 +1,118 @@
 name = "Douglas County"
 fips_code = 41019
+
+[[zipcodes]]
+zipcode = 97410
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97416
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97417
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97424
+percent_zip_in_county = 1.54
+
+[[zipcodes]]
+zipcode = 97429
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97435
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97436
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97441
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97442
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97443
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97447
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97457
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97459
+percent_zip_in_county = 0.53
+
+[[zipcodes]]
+zipcode = 97462
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97467
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97469
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97470
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97471
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97473
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97479
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97481
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97484
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97486
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97493
+percent_zip_in_county = 6.5
+
+[[zipcodes]]
+zipcode = 97494
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97495
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97496
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97499
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97731
+percent_zip_in_county = 20.14

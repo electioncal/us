@@ -1,2 +1,50 @@
 name = "Grant County"
 fips_code = 41023
+
+[[zipcodes]]
+zipcode = 97817
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97820
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97825
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97845
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97848
+percent_zip_in_county = 97.95
+
+[[zipcodes]]
+zipcode = 97856
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97864
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97865
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97869
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97873
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97877
+percent_zip_in_county = 19.08
+
+[[zipcodes]]
+zipcode = 97880
+percent_zip_in_county = 7.35

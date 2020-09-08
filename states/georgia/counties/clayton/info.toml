@@ -1,2 +1,66 @@
 name = "Clayton County"
 fips_code = 13063
+
+[[zipcodes]]
+zipcode = 30215
+percent_zip_in_county = 10.03
+
+[[zipcodes]]
+zipcode = 30228
+percent_zip_in_county = 45.11
+
+[[zipcodes]]
+zipcode = 30236
+percent_zip_in_county = 93.69
+
+[[zipcodes]]
+zipcode = 30238
+percent_zip_in_county = 97.89
+
+[[zipcodes]]
+zipcode = 30250
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30260
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30273
+percent_zip_in_county = 94.14
+
+[[zipcodes]]
+zipcode = 30274
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30281
+percent_zip_in_county = 9.45
+
+[[zipcodes]]
+zipcode = 30288
+percent_zip_in_county = 53.95
+
+[[zipcodes]]
+zipcode = 30294
+percent_zip_in_county = 33.74
+
+[[zipcodes]]
+zipcode = 30296
+percent_zip_in_county = 83.34
+
+[[zipcodes]]
+zipcode = 30297
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30337
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 30349
+percent_zip_in_county = 27.0
+
+[[zipcodes]]
+zipcode = 30354
+percent_zip_in_county = 0.09

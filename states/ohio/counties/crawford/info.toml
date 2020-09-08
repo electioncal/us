@@ -1,2 +1,62 @@
 name = "Crawford County"
 fips_code = 39033
+
+[[zipcodes]]
+zipcode = 43302
+percent_zip_in_county = 0.3
+
+[[zipcodes]]
+zipcode = 43314
+percent_zip_in_county = 2.55
+
+[[zipcodes]]
+zipcode = 44818
+percent_zip_in_county = 31.58
+
+[[zipcodes]]
+zipcode = 44820
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44825
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44827
+percent_zip_in_county = 90.22
+
+[[zipcodes]]
+zipcode = 44833
+percent_zip_in_county = 81.06
+
+[[zipcodes]]
+zipcode = 44849
+percent_zip_in_county = 19.2
+
+[[zipcodes]]
+zipcode = 44854
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44856
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44865
+percent_zip_in_county = 2.07
+
+[[zipcodes]]
+zipcode = 44875
+percent_zip_in_county = 0.66
+
+[[zipcodes]]
+zipcode = 44881
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44882
+percent_zip_in_county = 23.99
+
+[[zipcodes]]
+zipcode = 44887
+percent_zip_in_county = 100.0

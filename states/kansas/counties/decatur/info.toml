@@ -1,2 +1,30 @@
 name = "Decatur County"
 fips_code = 20039
+
+[[zipcodes]]
+zipcode = 67629
+percent_zip_in_county = 26.57
+
+[[zipcodes]]
+zipcode = 67635
+percent_zip_in_county = 75.15
+
+[[zipcodes]]
+zipcode = 67643
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67653
+percent_zip_in_county = 73.15
+
+[[zipcodes]]
+zipcode = 67739
+percent_zip_in_county = 0.39
+
+[[zipcodes]]
+zipcode = 67749
+percent_zip_in_county = 99.31
+
+[[zipcodes]]
+zipcode = 67757
+percent_zip_in_county = 16.8

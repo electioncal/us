@@ -1,2 +1,18 @@
 name = "Greenlee County"
 fips_code = 4011
+
+[[zipcodes]]
+zipcode = 85533
+percent_zip_in_county = 99.69
+
+[[zipcodes]]
+zipcode = 85534
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85540
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85922
+percent_zip_in_county = 100.0

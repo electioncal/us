@@ -1,2 +1,66 @@
 name = "Culpeper County"
 fips_code = 51047
+
+[[zipcodes]]
+zipcode = 20106
+percent_zip_in_county = 61.42
+
+[[zipcodes]]
+zipcode = 20186
+percent_zip_in_county = 0.1
+
+[[zipcodes]]
+zipcode = 22701
+percent_zip_in_county = 95.51
+
+[[zipcodes]]
+zipcode = 22713
+percent_zip_in_county = 78.24
+
+[[zipcodes]]
+zipcode = 22714
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22718
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22724
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22726
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22729
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22733
+percent_zip_in_county = 60.79
+
+[[zipcodes]]
+zipcode = 22734
+percent_zip_in_county = 5.33
+
+[[zipcodes]]
+zipcode = 22735
+percent_zip_in_county = 59.6
+
+[[zipcodes]]
+zipcode = 22736
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22737
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22740
+percent_zip_in_county = 4.19
+
+[[zipcodes]]
+zipcode = 22741
+percent_zip_in_county = 100.0

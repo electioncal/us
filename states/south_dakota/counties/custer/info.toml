@@ -1,2 +1,38 @@
 name = "Custer County"
 fips_code = 46033
+
+[[zipcodes]]
+zipcode = 57722
+percent_zip_in_county = 70.32
+
+[[zipcodes]]
+zipcode = 57730
+percent_zip_in_county = 97.4
+
+[[zipcodes]]
+zipcode = 57735
+percent_zip_in_county = 17.11
+
+[[zipcodes]]
+zipcode = 57738
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57744
+percent_zip_in_county = 79.98
+
+[[zipcodes]]
+zipcode = 57747
+percent_zip_in_county = 8.18
+
+[[zipcodes]]
+zipcode = 57751
+percent_zip_in_county = 1.18
+
+[[zipcodes]]
+zipcode = 57773
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82701
+percent_zip_in_county = 0.55

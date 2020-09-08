@@ -1,2 +1,38 @@
 name = "Kay County"
 fips_code = 40071
+
+[[zipcodes]]
+zipcode = 74601
+percent_zip_in_county = 99.49
+
+[[zipcodes]]
+zipcode = 74604
+percent_zip_in_county = 77.5
+
+[[zipcodes]]
+zipcode = 74631
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74632
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74641
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74646
+percent_zip_in_county = 87.55
+
+[[zipcodes]]
+zipcode = 74647
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74652
+percent_zip_in_county = 2.34
+
+[[zipcodes]]
+zipcode = 74653
+percent_zip_in_county = 99.77

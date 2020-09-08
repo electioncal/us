@@ -1,2 +1,58 @@
 name = "Caldwell County"
 fips_code = 48055
+
+[[zipcodes]]
+zipcode = 78610
+percent_zip_in_county = 0.58
+
+[[zipcodes]]
+zipcode = 78616
+percent_zip_in_county = 64.41
+
+[[zipcodes]]
+zipcode = 78622
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78632
+percent_zip_in_county = 37.69
+
+[[zipcodes]]
+zipcode = 78640
+percent_zip_in_county = 2.68
+
+[[zipcodes]]
+zipcode = 78644
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78648
+percent_zip_in_county = 93.58
+
+[[zipcodes]]
+zipcode = 78655
+percent_zip_in_county = 75.1
+
+[[zipcodes]]
+zipcode = 78656
+percent_zip_in_county = 98.28
+
+[[zipcodes]]
+zipcode = 78661
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78662
+percent_zip_in_county = 14.64
+
+[[zipcodes]]
+zipcode = 78666
+percent_zip_in_county = 3.24
+
+[[zipcodes]]
+zipcode = 78953
+percent_zip_in_county = 24.95
+
+[[zipcodes]]
+zipcode = 78959
+percent_zip_in_county = 2.45

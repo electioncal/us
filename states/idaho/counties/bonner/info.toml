@@ -1,2 +1,74 @@
 name = "Bonner County"
 fips_code = 16017
+
+[[zipcodes]]
+zipcode = 83801
+percent_zip_in_county = 15.93
+
+[[zipcodes]]
+zipcode = 83803
+percent_zip_in_county = 14.11
+
+[[zipcodes]]
+zipcode = 83804
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83809
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83811
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83813
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83821
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83822
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83825
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83836
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83840
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83841
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83848
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83852
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83856
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83860
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83864
+percent_zip_in_county = 99.83
+
+[[zipcodes]]
+zipcode = 83869
+percent_zip_in_county = 24.92

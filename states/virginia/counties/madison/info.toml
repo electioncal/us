@@ -1,2 +1,86 @@
 name = "Madison County"
 fips_code = 51113
+
+[[zipcodes]]
+zipcode = 22701
+percent_zip_in_county = 1.84
+
+[[zipcodes]]
+zipcode = 22709
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22711
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22715
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22719
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22722
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22723
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22727
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22731
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22732
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22733
+percent_zip_in_county = 3.68
+
+[[zipcodes]]
+zipcode = 22735
+percent_zip_in_county = 40.4
+
+[[zipcodes]]
+zipcode = 22738
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22740
+percent_zip_in_county = 1.9
+
+[[zipcodes]]
+zipcode = 22743
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22835
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 22948
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22960
+percent_zip_in_county = 9.46
+
+[[zipcodes]]
+zipcode = 22973
+percent_zip_in_county = 1.78
+
+[[zipcodes]]
+zipcode = 22989
+percent_zip_in_county = 100.0

@@ -1,2 +1,50 @@
 name = "Winneshiek County"
 fips_code = 19191
+
+[[zipcodes]]
+zipcode = 52101
+percent_zip_in_county = 99.72
+
+[[zipcodes]]
+zipcode = 52132
+percent_zip_in_county = 98.71
+
+[[zipcodes]]
+zipcode = 52133
+percent_zip_in_county = 85.84
+
+[[zipcodes]]
+zipcode = 52136
+percent_zip_in_county = 9.87
+
+[[zipcodes]]
+zipcode = 52140
+percent_zip_in_county = 13.72
+
+[[zipcodes]]
+zipcode = 52144
+percent_zip_in_county = 96.27
+
+[[zipcodes]]
+zipcode = 52161
+percent_zip_in_county = 94.68
+
+[[zipcodes]]
+zipcode = 52162
+percent_zip_in_county = 5.24
+
+[[zipcodes]]
+zipcode = 52165
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52168
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52171
+percent_zip_in_county = 9.54
+
+[[zipcodes]]
+zipcode = 52172
+percent_zip_in_county = 1.17

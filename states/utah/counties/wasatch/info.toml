@@ -1,2 +1,26 @@
 name = "Wasatch County"
 fips_code = 49051
+
+[[zipcodes]]
+zipcode = 84032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84036
+percent_zip_in_county = 17.65
+
+[[zipcodes]]
+zipcode = 84049
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84060
+percent_zip_in_county = 0.2
+
+[[zipcodes]]
+zipcode = 84082
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84604
+percent_zip_in_county = 0.17

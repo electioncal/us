@@ -1,2 +1,22 @@
 name = "Jessamine County"
 fips_code = 21113
+
+[[zipcodes]]
+zipcode = 40339
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40356
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40383
+percent_zip_in_county = 2.2
+
+[[zipcodes]]
+zipcode = 40390
+percent_zip_in_county = 99.44
+
+[[zipcodes]]
+zipcode = 40515
+percent_zip_in_county = 0.65

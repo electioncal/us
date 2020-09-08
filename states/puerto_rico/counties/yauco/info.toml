@@ -1,2 +1,14 @@
 name = "Yauco Municipio"
 fips_code = 72153
+
+[[zipcodes]]
+zipcode = 606
+percent_zip_in_county = 3.78
+
+[[zipcodes]]
+zipcode = 637
+percent_zip_in_county = 0.44
+
+[[zipcodes]]
+zipcode = 698
+percent_zip_in_county = 99.76

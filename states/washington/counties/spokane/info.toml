@@ -1,2 +1,178 @@
 name = "Spokane County"
 fips_code = 53063
+
+[[zipcodes]]
+zipcode = 99001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99004
+percent_zip_in_county = 99.94
+
+[[zipcodes]]
+zipcode = 99005
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99006
+percent_zip_in_county = 84.09
+
+[[zipcodes]]
+zipcode = 99008
+percent_zip_in_county = 44.31
+
+[[zipcodes]]
+zipcode = 99009
+percent_zip_in_county = 79.48
+
+[[zipcodes]]
+zipcode = 99011
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99012
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99013
+percent_zip_in_county = 7.06
+
+[[zipcodes]]
+zipcode = 99016
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99018
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99019
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99023
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99026
+percent_zip_in_county = 36.2
+
+[[zipcodes]]
+zipcode = 99027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99029
+percent_zip_in_county = 24.9
+
+[[zipcodes]]
+zipcode = 99030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99031
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99033
+percent_zip_in_county = 1.23
+
+[[zipcodes]]
+zipcode = 99036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99110
+percent_zip_in_county = 9.9
+
+[[zipcodes]]
+zipcode = 99156
+percent_zip_in_county = 1.5
+
+[[zipcodes]]
+zipcode = 99170
+percent_zip_in_county = 20.9
+
+[[zipcodes]]
+zipcode = 99201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99202
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99203
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99204
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99205
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99206
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99207
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99208
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99212
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99216
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99217
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99218
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99223
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99224
+percent_zip_in_county = 100.0

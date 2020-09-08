@@ -1,2 +1,42 @@
 name = "Anderson County"
 fips_code = 47001
+
+[[zipcodes]]
+zipcode = 37705
+percent_zip_in_county = 78.22
+
+[[zipcodes]]
+zipcode = 37710
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37716
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37754
+percent_zip_in_county = 59.78
+
+[[zipcodes]]
+zipcode = 37769
+percent_zip_in_county = 91.44
+
+[[zipcodes]]
+zipcode = 37828
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37830
+percent_zip_in_county = 89.0
+
+[[zipcodes]]
+zipcode = 37840
+percent_zip_in_county = 34.96
+
+[[zipcodes]]
+zipcode = 37849
+percent_zip_in_county = 15.96
+
+[[zipcodes]]
+zipcode = 37931
+percent_zip_in_county = 3.6

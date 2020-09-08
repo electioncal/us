@@ -1,2 +1,26 @@
 name = "Sabine County"
 fips_code = 48403
+
+[[zipcodes]]
+zipcode = 75930
+percent_zip_in_county = 60.41
+
+[[zipcodes]]
+zipcode = 75931
+percent_zip_in_county = 15.13
+
+[[zipcodes]]
+zipcode = 75948
+percent_zip_in_county = 99.65
+
+[[zipcodes]]
+zipcode = 75959
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75968
+percent_zip_in_county = 99.94
+
+[[zipcodes]]
+zipcode = 75972
+percent_zip_in_county = 4.03

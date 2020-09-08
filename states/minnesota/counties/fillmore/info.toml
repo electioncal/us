@@ -1,2 +1,66 @@
 name = "Fillmore County"
 fips_code = 27045
+
+[[zipcodes]]
+zipcode = 55922
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55923
+percent_zip_in_county = 52.63
+
+[[zipcodes]]
+zipcode = 55935
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55939
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55949
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55951
+percent_zip_in_county = 10.59
+
+[[zipcodes]]
+zipcode = 55954
+percent_zip_in_county = 93.97
+
+[[zipcodes]]
+zipcode = 55961
+percent_zip_in_county = 75.84
+
+[[zipcodes]]
+zipcode = 55962
+percent_zip_in_county = 96.59
+
+[[zipcodes]]
+zipcode = 55965
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55971
+percent_zip_in_county = 84.83
+
+[[zipcodes]]
+zipcode = 55974
+percent_zip_in_county = 1.5
+
+[[zipcodes]]
+zipcode = 55975
+percent_zip_in_county = 95.78
+
+[[zipcodes]]
+zipcode = 55976
+percent_zip_in_county = 1.49
+
+[[zipcodes]]
+zipcode = 55979
+percent_zip_in_county = 4.29
+
+[[zipcodes]]
+zipcode = 55990
+percent_zip_in_county = 100.0

@@ -1,2 +1,38 @@
 name = "Calloway County"
 fips_code = 21035
+
+[[zipcodes]]
+zipcode = 42020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42025
+percent_zip_in_county = 0.44
+
+[[zipcodes]]
+zipcode = 42036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42040
+percent_zip_in_county = 31.52
+
+[[zipcodes]]
+zipcode = 42048
+percent_zip_in_county = 2.7
+
+[[zipcodes]]
+zipcode = 42049
+percent_zip_in_county = 99.32
+
+[[zipcodes]]
+zipcode = 42054
+percent_zip_in_county = 89.63
+
+[[zipcodes]]
+zipcode = 42071
+percent_zip_in_county = 99.97
+
+[[zipcodes]]
+zipcode = 42076
+percent_zip_in_county = 100.0

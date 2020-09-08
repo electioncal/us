@@ -1,2 +1,58 @@
 name = "Brunswick County"
 fips_code = 37019
+
+[[zipcodes]]
+zipcode = 28420
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28422
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28436
+percent_zip_in_county = 0.32
+
+[[zipcodes]]
+zipcode = 28451
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28452
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28456
+percent_zip_in_county = 7.93
+
+[[zipcodes]]
+zipcode = 28461
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28462
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28465
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28467
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28468
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28469
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28470
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28479
+percent_zip_in_county = 100.0

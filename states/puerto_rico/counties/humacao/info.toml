@@ -1,2 +1,14 @@
 name = "Humacao Municipio"
 fips_code = 72069
+
+[[zipcodes]]
+zipcode = 741
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 767
+percent_zip_in_county = 0.21
+
+[[zipcodes]]
+zipcode = 791
+percent_zip_in_county = 100.0

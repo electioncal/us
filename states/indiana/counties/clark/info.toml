@@ -1,2 +1,62 @@
 name = "Clark County"
 fips_code = 18019
+
+[[zipcodes]]
+zipcode = 47104
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47106
+percent_zip_in_county = 87.03
+
+[[zipcodes]]
+zipcode = 47111
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47119
+percent_zip_in_county = 3.12
+
+[[zipcodes]]
+zipcode = 47126
+percent_zip_in_county = 96.64
+
+[[zipcodes]]
+zipcode = 47129
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47130
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47141
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47143
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47147
+percent_zip_in_county = 62.22
+
+[[zipcodes]]
+zipcode = 47150
+percent_zip_in_county = 0.09
+
+[[zipcodes]]
+zipcode = 47162
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47163
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47172
+percent_zip_in_county = 88.99
+
+[[zipcodes]]
+zipcode = 47177
+percent_zip_in_county = 55.53

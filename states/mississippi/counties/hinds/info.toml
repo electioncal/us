@@ -1,2 +1,90 @@
 name = "Hinds County"
 fips_code = 28049
+
+[[zipcodes]]
+zipcode = 39041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39056
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39059
+percent_zip_in_county = 1.86
+
+[[zipcodes]]
+zipcode = 39066
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39071
+percent_zip_in_county = 1.31
+
+[[zipcodes]]
+zipcode = 39154
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39170
+percent_zip_in_county = 99.48
+
+[[zipcodes]]
+zipcode = 39174
+percent_zip_in_county = 20.7
+
+[[zipcodes]]
+zipcode = 39175
+percent_zip_in_county = 82.84
+
+[[zipcodes]]
+zipcode = 39201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39202
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39203
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39204
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39206
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39209
+percent_zip_in_county = 99.87
+
+[[zipcodes]]
+zipcode = 39211
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39212
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39213
+percent_zip_in_county = 99.75
+
+[[zipcodes]]
+zipcode = 39216
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39217
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39269
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 39272
+percent_zip_in_county = 100.0

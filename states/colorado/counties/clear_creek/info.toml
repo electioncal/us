@@ -1,2 +1,26 @@
 name = "Clear Creek County"
 fips_code = 8019
+
+[[zipcodes]]
+zipcode = 80436
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80438
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80439
+percent_zip_in_county = 15.42
+
+[[zipcodes]]
+zipcode = 80444
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80452
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80476
+percent_zip_in_county = 100.0

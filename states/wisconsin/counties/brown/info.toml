@@ -1,2 +1,78 @@
 name = "Brown County"
 fips_code = 55009
+
+[[zipcodes]]
+zipcode = 54110
+percent_zip_in_county = 2.3
+
+[[zipcodes]]
+zipcode = 54115
+percent_zip_in_county = 95.03
+
+[[zipcodes]]
+zipcode = 54126
+percent_zip_in_county = 99.59
+
+[[zipcodes]]
+zipcode = 54130
+percent_zip_in_county = 3.58
+
+[[zipcodes]]
+zipcode = 54155
+percent_zip_in_county = 67.99
+
+[[zipcodes]]
+zipcode = 54162
+percent_zip_in_county = 51.67
+
+[[zipcodes]]
+zipcode = 54165
+percent_zip_in_county = 0.8
+
+[[zipcodes]]
+zipcode = 54173
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54180
+percent_zip_in_county = 94.72
+
+[[zipcodes]]
+zipcode = 54208
+percent_zip_in_county = 79.31
+
+[[zipcodes]]
+zipcode = 54217
+percent_zip_in_county = 10.61
+
+[[zipcodes]]
+zipcode = 54229
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54302
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54303
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54304
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54307
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54311
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54313
+percent_zip_in_county = 99.93

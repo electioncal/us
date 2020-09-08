@@ -1,2 +1,38 @@
 name = "Pawnee County"
 fips_code = 31133
+
+[[zipcodes]]
+zipcode = 66541
+percent_zip_in_county = 10.61
+
+[[zipcodes]]
+zipcode = 68323
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68345
+percent_zip_in_county = 91.45
+
+[[zipcodes]]
+zipcode = 68376
+percent_zip_in_county = 2.21
+
+[[zipcodes]]
+zipcode = 68380
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68381
+percent_zip_in_county = 15.66
+
+[[zipcodes]]
+zipcode = 68420
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68441
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68447
+percent_zip_in_county = 95.91

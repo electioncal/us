@@ -1,2 +1,30 @@
 name = "Henderson County"
 fips_code = 21101
+
+[[zipcodes]]
+zipcode = 42301
+percent_zip_in_county = 0.29
+
+[[zipcodes]]
+zipcode = 42406
+percent_zip_in_county = 98.2
+
+[[zipcodes]]
+zipcode = 42420
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42451
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42452
+percent_zip_in_county = 98.83
+
+[[zipcodes]]
+zipcode = 42458
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42462
+percent_zip_in_county = 30.02

@@ -1,2 +1,50 @@
 name = "Wyandot County"
 fips_code = 39175
+
+[[zipcodes]]
+zipcode = 43316
+percent_zip_in_county = 91.52
+
+[[zipcodes]]
+zipcode = 43323
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43330
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43332
+percent_zip_in_county = 2.2
+
+[[zipcodes]]
+zipcode = 43337
+percent_zip_in_county = 4.6
+
+[[zipcodes]]
+zipcode = 43351
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43359
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44844
+percent_zip_in_county = 53.8
+
+[[zipcodes]]
+zipcode = 44849
+percent_zip_in_county = 79.6
+
+[[zipcodes]]
+zipcode = 44882
+percent_zip_in_county = 70.78
+
+[[zipcodes]]
+zipcode = 45843
+percent_zip_in_county = 17.29
+
+[[zipcodes]]
+zipcode = 45867
+percent_zip_in_county = 1.85

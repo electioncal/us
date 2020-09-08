@@ -1,2 +1,38 @@
 name = "Gallatin County"
 fips_code = 17059
+
+[[zipcodes]]
+zipcode = 62867
+percent_zip_in_county = 88.29
+
+[[zipcodes]]
+zipcode = 62869
+percent_zip_in_county = 0.41
+
+[[zipcodes]]
+zipcode = 62871
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62930
+percent_zip_in_county = 0.34
+
+[[zipcodes]]
+zipcode = 62931
+percent_zip_in_county = 2.86
+
+[[zipcodes]]
+zipcode = 62934
+percent_zip_in_county = 84.14
+
+[[zipcodes]]
+zipcode = 62954
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62979
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62984
+percent_zip_in_county = 100.0

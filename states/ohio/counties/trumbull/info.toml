@@ -1,2 +1,114 @@
 name = "Trumbull County"
 fips_code = 39155
+
+[[zipcodes]]
+zipcode = 44062
+percent_zip_in_county = 21.27
+
+[[zipcodes]]
+zipcode = 44076
+percent_zip_in_county = 13.01
+
+[[zipcodes]]
+zipcode = 44402
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44403
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44404
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44410
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44417
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44418
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44420
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44425
+percent_zip_in_county = 99.23
+
+[[zipcodes]]
+zipcode = 44428
+percent_zip_in_county = 98.12
+
+[[zipcodes]]
+zipcode = 44430
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44437
+percent_zip_in_county = 97.77
+
+[[zipcodes]]
+zipcode = 44438
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44439
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44440
+percent_zip_in_county = 75.84
+
+[[zipcodes]]
+zipcode = 44444
+percent_zip_in_county = 87.93
+
+[[zipcodes]]
+zipcode = 44446
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44450
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44470
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44473
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44481
+percent_zip_in_county = 98.72
+
+[[zipcodes]]
+zipcode = 44483
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44484
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44485
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44491
+percent_zip_in_county = 84.5
+
+[[zipcodes]]
+zipcode = 44504
+percent_zip_in_county = 3.36
+
+[[zipcodes]]
+zipcode = 44505
+percent_zip_in_county = 36.25

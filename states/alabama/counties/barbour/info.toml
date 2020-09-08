@@ -1,2 +1,38 @@
 name = "Barbour County"
 fips_code = 1005
+
+[[zipcodes]]
+zipcode = 36005
+percent_zip_in_county = 0.59
+
+[[zipcodes]]
+zipcode = 36016
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36017
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36027
+percent_zip_in_county = 98.87
+
+[[zipcodes]]
+zipcode = 36048
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36053
+percent_zip_in_county = 35.33
+
+[[zipcodes]]
+zipcode = 36311
+percent_zip_in_county = 22.06
+
+[[zipcodes]]
+zipcode = 36317
+percent_zip_in_county = 9.32
+
+[[zipcodes]]
+zipcode = 36374
+percent_zip_in_county = 8.45

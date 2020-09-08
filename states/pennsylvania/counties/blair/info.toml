@@ -1,2 +1,78 @@
 name = "Blair County"
 fips_code = 42013
+
+[[zipcodes]]
+zipcode = 15946
+percent_zip_in_county = 6.22
+
+[[zipcodes]]
+zipcode = 16601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16602
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16613
+percent_zip_in_county = 0.72
+
+[[zipcodes]]
+zipcode = 16617
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16625
+percent_zip_in_county = 76.99
+
+[[zipcodes]]
+zipcode = 16631
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16635
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16636
+percent_zip_in_county = 5.26
+
+[[zipcodes]]
+zipcode = 16637
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16641
+percent_zip_in_county = 5.43
+
+[[zipcodes]]
+zipcode = 16648
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16655
+percent_zip_in_county = 5.43
+
+[[zipcodes]]
+zipcode = 16662
+percent_zip_in_county = 93.63
+
+[[zipcodes]]
+zipcode = 16665
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16673
+percent_zip_in_county = 86.9
+
+[[zipcodes]]
+zipcode = 16682
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16686
+percent_zip_in_county = 91.1
+
+[[zipcodes]]
+zipcode = 16693
+percent_zip_in_county = 100.0

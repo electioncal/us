@@ -1,2 +1,22 @@
 name = "Aleutians East Borough"
 fips_code = 2013
+
+[[zipcodes]]
+zipcode = 99553
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99571
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99583
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99612
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99661
+percent_zip_in_county = 100.0

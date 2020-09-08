@@ -1,2 +1,26 @@
 name = "Yadkin County"
 fips_code = 37197
+
+[[zipcodes]]
+zipcode = 27011
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27018
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27020
+percent_zip_in_county = 87.24
+
+[[zipcodes]]
+zipcode = 27055
+percent_zip_in_county = 99.39
+
+[[zipcodes]]
+zipcode = 28642
+percent_zip_in_county = 94.85
+
+[[zipcodes]]
+zipcode = 28689
+percent_zip_in_county = 5.26

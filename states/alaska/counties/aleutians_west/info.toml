@@ -1,2 +1,30 @@
 name = "Aleutians West Census Area"
 fips_code = 2016
+
+[[zipcodes]]
+zipcode = 99546
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99547
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99591
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99638
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99660
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99685
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99692
+percent_zip_in_county = 100.0

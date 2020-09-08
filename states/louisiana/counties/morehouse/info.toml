@@ -1,2 +1,30 @@
 name = "Morehouse Parish"
 fips_code = 22067
+
+[[zipcodes]]
+zipcode = 71220
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71223
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71229
+percent_zip_in_county = 77.74
+
+[[zipcodes]]
+zipcode = 71250
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71261
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71264
+percent_zip_in_county = 48.61
+
+[[zipcodes]]
+zipcode = 71280
+percent_zip_in_county = 13.33

@@ -1,2 +1,286 @@
 name = "Oakland County"
 fips_code = 26125
+
+[[zipcodes]]
+zipcode = 48009
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48017
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48069
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48071
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48073
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48075
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48076
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48083
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48084
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48085
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48098
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48165
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48167
+percent_zip_in_county = 49.74
+
+[[zipcodes]]
+zipcode = 48178
+percent_zip_in_county = 61.52
+
+[[zipcodes]]
+zipcode = 48220
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48237
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48302
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48304
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48306
+percent_zip_in_county = 98.66
+
+[[zipcodes]]
+zipcode = 48307
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48309
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48320
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48322
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48323
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48324
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48326
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48327
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48328
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48329
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48331
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48334
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48335
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48336
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48340
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48341
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48342
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48346
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48348
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48350
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48356
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48357
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48359
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48360
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48362
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48363
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48367
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48370
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48371
+percent_zip_in_county = 98.63
+
+[[zipcodes]]
+zipcode = 48374
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48375
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48377
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48380
+percent_zip_in_county = 76.7
+
+[[zipcodes]]
+zipcode = 48381
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48382
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48383
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48386
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48390
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48393
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48428
+percent_zip_in_county = 0.2
+
+[[zipcodes]]
+zipcode = 48430
+percent_zip_in_county = 2.99
+
+[[zipcodes]]
+zipcode = 48439
+percent_zip_in_county = 0.73
+
+[[zipcodes]]
+zipcode = 48442
+percent_zip_in_county = 93.05
+
+[[zipcodes]]
+zipcode = 48462
+percent_zip_in_county = 94.6

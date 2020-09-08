@@ -1,2 +1,50 @@
 name = "Marion County"
 fips_code = 39101
+
+[[zipcodes]]
+zipcode = 43302
+percent_zip_in_county = 99.66
+
+[[zipcodes]]
+zipcode = 43314
+percent_zip_in_county = 90.8
+
+[[zipcodes]]
+zipcode = 43315
+percent_zip_in_county = 4.5
+
+[[zipcodes]]
+zipcode = 43322
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43332
+percent_zip_in_county = 90.23
+
+[[zipcodes]]
+zipcode = 43337
+percent_zip_in_county = 95.4
+
+[[zipcodes]]
+zipcode = 43341
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43342
+percent_zip_in_county = 96.13
+
+[[zipcodes]]
+zipcode = 43344
+percent_zip_in_county = 0.97
+
+[[zipcodes]]
+zipcode = 43356
+percent_zip_in_county = 84.68
+
+[[zipcodes]]
+zipcode = 44833
+percent_zip_in_county = 0.85
+
+[[zipcodes]]
+zipcode = 44849
+percent_zip_in_county = 1.19

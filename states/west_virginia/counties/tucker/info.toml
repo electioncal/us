@@ -1,2 +1,34 @@
 name = "Tucker County"
 fips_code = 54093
+
+[[zipcodes]]
+zipcode = 26260
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26263
+percent_zip_in_county = 37.03
+
+[[zipcodes]]
+zipcode = 26269
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26271
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26276
+percent_zip_in_county = 19.94
+
+[[zipcodes]]
+zipcode = 26283
+percent_zip_in_county = 12.0
+
+[[zipcodes]]
+zipcode = 26287
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26292
+percent_zip_in_county = 100.0

@@ -1,2 +1,38 @@
 name = "Attala County"
 fips_code = 28007
+
+[[zipcodes]]
+zipcode = 39051
+percent_zip_in_county = 0.69
+
+[[zipcodes]]
+zipcode = 39067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39079
+percent_zip_in_county = 6.68
+
+[[zipcodes]]
+zipcode = 39090
+percent_zip_in_county = 94.52
+
+[[zipcodes]]
+zipcode = 39108
+percent_zip_in_county = 55.37
+
+[[zipcodes]]
+zipcode = 39160
+percent_zip_in_county = 96.23
+
+[[zipcodes]]
+zipcode = 39176
+percent_zip_in_county = 14.86
+
+[[zipcodes]]
+zipcode = 39192
+percent_zip_in_county = 51.18
+
+[[zipcodes]]
+zipcode = 39745
+percent_zip_in_county = 17.53

@@ -1,2 +1,66 @@
 name = "Goodhue County"
 fips_code = 27049
+
+[[zipcodes]]
+zipcode = 55009
+percent_zip_in_county = 90.12
+
+[[zipcodes]]
+zipcode = 55018
+percent_zip_in_county = 88.37
+
+[[zipcodes]]
+zipcode = 55026
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55027
+percent_zip_in_county = 98.19
+
+[[zipcodes]]
+zipcode = 55033
+percent_zip_in_county = 0.25
+
+[[zipcodes]]
+zipcode = 55041
+percent_zip_in_county = 21.73
+
+[[zipcodes]]
+zipcode = 55053
+percent_zip_in_county = 16.25
+
+[[zipcodes]]
+zipcode = 55065
+percent_zip_in_county = 1.58
+
+[[zipcodes]]
+zipcode = 55066
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55089
+percent_zip_in_county = 83.02
+
+[[zipcodes]]
+zipcode = 55946
+percent_zip_in_county = 92.67
+
+[[zipcodes]]
+zipcode = 55956
+percent_zip_in_county = 10.4
+
+[[zipcodes]]
+zipcode = 55963
+percent_zip_in_county = 63.81
+
+[[zipcodes]]
+zipcode = 55983
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55985
+percent_zip_in_county = 2.31
+
+[[zipcodes]]
+zipcode = 55992
+percent_zip_in_county = 100.0

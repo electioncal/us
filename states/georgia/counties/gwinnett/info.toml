@@ -1,2 +1,106 @@
 name = "Gwinnett County"
 fips_code = 13135
+
+[[zipcodes]]
+zipcode = 30011
+percent_zip_in_county = 27.02
+
+[[zipcodes]]
+zipcode = 30017
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30019
+percent_zip_in_county = 99.82
+
+[[zipcodes]]
+zipcode = 30024
+percent_zip_in_county = 68.98
+
+[[zipcodes]]
+zipcode = 30039
+percent_zip_in_county = 98.77
+
+[[zipcodes]]
+zipcode = 30043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30044
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30047
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30052
+percent_zip_in_county = 47.49
+
+[[zipcodes]]
+zipcode = 30071
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30078
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30084
+percent_zip_in_county = 31.75
+
+[[zipcodes]]
+zipcode = 30087
+percent_zip_in_county = 30.78
+
+[[zipcodes]]
+zipcode = 30092
+percent_zip_in_county = 98.98
+
+[[zipcodes]]
+zipcode = 30093
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30096
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30097
+percent_zip_in_county = 46.27
+
+[[zipcodes]]
+zipcode = 30340
+percent_zip_in_county = 15.08
+
+[[zipcodes]]
+zipcode = 30360
+percent_zip_in_county = 16.26
+
+[[zipcodes]]
+zipcode = 30517
+percent_zip_in_county = 24.4
+
+[[zipcodes]]
+zipcode = 30518
+percent_zip_in_county = 91.62
+
+[[zipcodes]]
+zipcode = 30519
+percent_zip_in_county = 92.52
+
+[[zipcodes]]
+zipcode = 30548
+percent_zip_in_county = 22.32
+
+[[zipcodes]]
+zipcode = 30620
+percent_zip_in_county = 15.75

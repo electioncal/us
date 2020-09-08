@@ -1,2 +1,46 @@
 name = "Hardin County"
 fips_code = 19083
+
+[[zipcodes]]
+zipcode = 50006
+percent_zip_in_county = 86.34
+
+[[zipcodes]]
+zipcode = 50102
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50122
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50126
+percent_zip_in_county = 96.85
+
+[[zipcodes]]
+zipcode = 50154
+percent_zip_in_county = 1.29
+
+[[zipcodes]]
+zipcode = 50206
+percent_zip_in_county = 89.92
+
+[[zipcodes]]
+zipcode = 50230
+percent_zip_in_county = 82.83
+
+[[zipcodes]]
+zipcode = 50258
+percent_zip_in_county = 87.62
+
+[[zipcodes]]
+zipcode = 50601
+percent_zip_in_county = 73.82
+
+[[zipcodes]]
+zipcode = 50627
+percent_zip_in_county = 97.05
+
+[[zipcodes]]
+zipcode = 50672
+percent_zip_in_county = 94.78

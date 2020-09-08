@@ -1,2 +1,22 @@
 name = "Gaines County"
 fips_code = 48165
+
+[[zipcodes]]
+zipcode = 79323
+percent_zip_in_county = 12.01
+
+[[zipcodes]]
+zipcode = 79331
+percent_zip_in_county = 0.44
+
+[[zipcodes]]
+zipcode = 79342
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79359
+percent_zip_in_county = 95.0
+
+[[zipcodes]]
+zipcode = 79360
+percent_zip_in_county = 100.0

@@ -1,2 +1,34 @@
 name = "Lowndes County"
 fips_code = 28087
+
+[[zipcodes]]
+zipcode = 39701
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39702
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39705
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39736
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39740
+percent_zip_in_county = 90.43
+
+[[zipcodes]]
+zipcode = 39743
+percent_zip_in_county = 75.81
+
+[[zipcodes]]
+zipcode = 39759
+percent_zip_in_county = 0.4
+
+[[zipcodes]]
+zipcode = 39766
+percent_zip_in_county = 100.0

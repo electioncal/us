@@ -1,2 +1,14 @@
 name = "Gilpin County"
 fips_code = 8047
+
+[[zipcodes]]
+zipcode = 80403
+percent_zip_in_county = 2.2
+
+[[zipcodes]]
+zipcode = 80422
+percent_zip_in_county = 97.5
+
+[[zipcodes]]
+zipcode = 80427
+percent_zip_in_county = 100.0

@@ -1,2 +1,78 @@
 name = "Olmsted County"
 fips_code = 27109
+
+[[zipcodes]]
+zipcode = 55901
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55902
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55904
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55905
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 55906
+percent_zip_in_county = 99.64
+
+[[zipcodes]]
+zipcode = 55920
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55923
+percent_zip_in_county = 45.78
+
+[[zipcodes]]
+zipcode = 55929
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55932
+percent_zip_in_county = 15.77
+
+[[zipcodes]]
+zipcode = 55934
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55940
+percent_zip_in_county = 4.43
+
+[[zipcodes]]
+zipcode = 55944
+percent_zip_in_county = 0.66
+
+[[zipcodes]]
+zipcode = 55956
+percent_zip_in_county = 1.17
+
+[[zipcodes]]
+zipcode = 55960
+percent_zip_in_county = 99.39
+
+[[zipcodes]]
+zipcode = 55963
+percent_zip_in_county = 29.11
+
+[[zipcodes]]
+zipcode = 55964
+percent_zip_in_county = 2.35
+
+[[zipcodes]]
+zipcode = 55972
+percent_zip_in_county = 3.76
+
+[[zipcodes]]
+zipcode = 55976
+percent_zip_in_county = 98.51
+
+[[zipcodes]]
+zipcode = 55991
+percent_zip_in_county = 2.68

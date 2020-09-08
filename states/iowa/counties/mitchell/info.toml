@@ -1,2 +1,46 @@
 name = "Mitchell County"
 fips_code = 19131
+
+[[zipcodes]]
+zipcode = 50426
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50454
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50455
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50458
+percent_zip_in_county = 3.34
+
+[[zipcodes]]
+zipcode = 50460
+percent_zip_in_county = 88.19
+
+[[zipcodes]]
+zipcode = 50461
+percent_zip_in_county = 99.75
+
+[[zipcodes]]
+zipcode = 50466
+percent_zip_in_county = 52.79
+
+[[zipcodes]]
+zipcode = 50471
+percent_zip_in_county = 3.34
+
+[[zipcodes]]
+zipcode = 50472
+percent_zip_in_county = 96.28
+
+[[zipcodes]]
+zipcode = 50476
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50628
+percent_zip_in_county = 4.08

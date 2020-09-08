@@ -1,2 +1,70 @@
 name = "Carver County"
 fips_code = 27019
+
+[[zipcodes]]
+zipcode = 55315
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55317
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55318
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55322
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55328
+percent_zip_in_county = 1.19
+
+[[zipcodes]]
+zipcode = 55331
+percent_zip_in_county = 24.53
+
+[[zipcodes]]
+zipcode = 55339
+percent_zip_in_county = 84.31
+
+[[zipcodes]]
+zipcode = 55360
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55367
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55368
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55375
+percent_zip_in_county = 13.15
+
+[[zipcodes]]
+zipcode = 55386
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55387
+percent_zip_in_county = 99.87
+
+[[zipcodes]]
+zipcode = 55388
+percent_zip_in_county = 94.14
+
+[[zipcodes]]
+zipcode = 55395
+percent_zip_in_county = 1.49
+
+[[zipcodes]]
+zipcode = 55397
+percent_zip_in_county = 99.48
+
+[[zipcodes]]
+zipcode = 56011
+percent_zip_in_county = 2.24

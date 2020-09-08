@@ -1,2 +1,18 @@
 name = "Kearny County"
 fips_code = 20093
+
+[[zipcodes]]
+zipcode = 67838
+percent_zip_in_county = 99.08
+
+[[zipcodes]]
+zipcode = 67857
+percent_zip_in_county = 36.21
+
+[[zipcodes]]
+zipcode = 67860
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67880
+percent_zip_in_county = 0.8

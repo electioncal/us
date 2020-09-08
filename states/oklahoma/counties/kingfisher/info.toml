@@ -1,2 +1,42 @@
 name = "Kingfisher County"
 fips_code = 40073
+
+[[zipcodes]]
+zipcode = 73016
+percent_zip_in_county = 64.49
+
+[[zipcodes]]
+zipcode = 73028
+percent_zip_in_county = 4.17
+
+[[zipcodes]]
+zipcode = 73056
+percent_zip_in_county = 3.63
+
+[[zipcodes]]
+zipcode = 73734
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73742
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73750
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73756
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73762
+percent_zip_in_county = 59.37
+
+[[zipcodes]]
+zipcode = 73763
+percent_zip_in_county = 1.6
+
+[[zipcodes]]
+zipcode = 73764
+percent_zip_in_county = 74.31

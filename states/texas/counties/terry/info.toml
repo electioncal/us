@@ -1,2 +1,18 @@
 name = "Terry County"
 fips_code = 48445
+
+[[zipcodes]]
+zipcode = 79316
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79345
+percent_zip_in_county = 96.74
+
+[[zipcodes]]
+zipcode = 79359
+percent_zip_in_county = 2.55
+
+[[zipcodes]]
+zipcode = 79378
+percent_zip_in_county = 100.0

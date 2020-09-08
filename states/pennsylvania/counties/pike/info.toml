@@ -1,2 +1,78 @@
 name = "Pike County"
 fips_code = 42103
+
+[[zipcodes]]
+zipcode = 18302
+percent_zip_in_county = 0.79
+
+[[zipcodes]]
+zipcode = 18324
+percent_zip_in_county = 97.95
+
+[[zipcodes]]
+zipcode = 18325
+percent_zip_in_county = 20.28
+
+[[zipcodes]]
+zipcode = 18328
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18336
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18337
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18340
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18371
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18405
+percent_zip_in_county = 8.24
+
+[[zipcodes]]
+zipcode = 18425
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18426
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18428
+percent_zip_in_county = 64.46
+
+[[zipcodes]]
+zipcode = 18435
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18445
+percent_zip_in_county = 20.52
+
+[[zipcodes]]
+zipcode = 18451
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18457
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18458
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18460
+percent_zip_in_county = 19.02
+
+[[zipcodes]]
+zipcode = 18464
+percent_zip_in_county = 100.0

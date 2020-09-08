@@ -1,2 +1,78 @@
 name = "Grayson County"
 fips_code = 48181
+
+[[zipcodes]]
+zipcode = 75020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75058
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75076
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75090
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75092
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75414
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75459
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75489
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75490
+percent_zip_in_county = 1.49
+
+[[zipcodes]]
+zipcode = 75491
+percent_zip_in_county = 83.57
+
+[[zipcodes]]
+zipcode = 75495
+percent_zip_in_county = 95.9
+
+[[zipcodes]]
+zipcode = 76233
+percent_zip_in_county = 84.14
+
+[[zipcodes]]
+zipcode = 76245
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76258
+percent_zip_in_county = 4.97
+
+[[zipcodes]]
+zipcode = 76264
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76268
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76271
+percent_zip_in_county = 91.12
+
+[[zipcodes]]
+zipcode = 76273
+percent_zip_in_county = 76.79

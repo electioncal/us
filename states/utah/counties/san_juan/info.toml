@@ -1,2 +1,50 @@
 name = "San Juan County"
 fips_code = 49037
+
+[[zipcodes]]
+zipcode = 81324
+percent_zip_in_county = 3.39
+
+[[zipcodes]]
+zipcode = 84511
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84512
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84530
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84531
+percent_zip_in_county = 96.88
+
+[[zipcodes]]
+zipcode = 84532
+percent_zip_in_county = 6.72
+
+[[zipcodes]]
+zipcode = 84533
+percent_zip_in_county = 12.73
+
+[[zipcodes]]
+zipcode = 84534
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84535
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84536
+percent_zip_in_county = 80.74
+
+[[zipcodes]]
+zipcode = 86044
+percent_zip_in_county = 10.02
+
+[[zipcodes]]
+zipcode = 86514
+percent_zip_in_county = 9.23

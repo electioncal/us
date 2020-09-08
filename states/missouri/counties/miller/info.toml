@@ -1,2 +1,70 @@
 name = "Miller County"
 fips_code = 29131
+
+[[zipcodes]]
+zipcode = 65017
+percent_zip_in_county = 99.81
+
+[[zipcodes]]
+zipcode = 65026
+percent_zip_in_county = 99.59
+
+[[zipcodes]]
+zipcode = 65032
+percent_zip_in_county = 50.84
+
+[[zipcodes]]
+zipcode = 65040
+percent_zip_in_county = 14.49
+
+[[zipcodes]]
+zipcode = 65047
+percent_zip_in_county = 84.83
+
+[[zipcodes]]
+zipcode = 65049
+percent_zip_in_county = 29.59
+
+[[zipcodes]]
+zipcode = 65058
+percent_zip_in_county = 19.27
+
+[[zipcodes]]
+zipcode = 65064
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65065
+percent_zip_in_county = 4.9
+
+[[zipcodes]]
+zipcode = 65072
+percent_zip_in_county = 19.38
+
+[[zipcodes]]
+zipcode = 65075
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65079
+percent_zip_in_county = 0.06
+
+[[zipcodes]]
+zipcode = 65082
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65083
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65452
+percent_zip_in_county = 2.44
+
+[[zipcodes]]
+zipcode = 65459
+percent_zip_in_county = 3.27
+
+[[zipcodes]]
+zipcode = 65486
+percent_zip_in_county = 100.0

@@ -1,2 +1,46 @@
 name = "Calhoun County"
 fips_code = 28013
+
+[[zipcodes]]
+zipcode = 38850
+percent_zip_in_county = 7.58
+
+[[zipcodes]]
+zipcode = 38864
+percent_zip_in_county = 16.75
+
+[[zipcodes]]
+zipcode = 38878
+percent_zip_in_county = 98.46
+
+[[zipcodes]]
+zipcode = 38913
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38914
+percent_zip_in_county = 87.68
+
+[[zipcodes]]
+zipcode = 38915
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38916
+percent_zip_in_county = 98.81
+
+[[zipcodes]]
+zipcode = 38929
+percent_zip_in_county = 3.26
+
+[[zipcodes]]
+zipcode = 38951
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38965
+percent_zip_in_county = 3.36
+
+[[zipcodes]]
+zipcode = 39744
+percent_zip_in_county = 0.63

@@ -1,2 +1,70 @@
 name = "Anchorage Municipality"
 fips_code = 2020
+
+[[zipcodes]]
+zipcode = 99501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99502
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99503
+percent_zip_in_county = 99.93
+
+[[zipcodes]]
+zipcode = 99504
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99505
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99506
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99507
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99508
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99513
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 99515
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99516
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99517
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99518
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99540
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99567
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99577
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99587
+percent_zip_in_county = 100.0

@@ -1,2 +1,30 @@
 name = "Dillingham Census Area"
 fips_code = 2070
+
+[[zipcodes]]
+zipcode = 99555
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99569
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99576
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99580
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99628
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99636
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99678
+percent_zip_in_county = 100.0

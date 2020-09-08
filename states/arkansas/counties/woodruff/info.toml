@@ -1,2 +1,38 @@
 name = "Woodruff County"
 fips_code = 5147
+
+[[zipcodes]]
+zipcode = 72006
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72021
+percent_zip_in_county = 0.18
+
+[[zipcodes]]
+zipcode = 72036
+percent_zip_in_county = 94.0
+
+[[zipcodes]]
+zipcode = 72059
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72074
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72101
+percent_zip_in_county = 93.87
+
+[[zipcodes]]
+zipcode = 72112
+percent_zip_in_county = 0.44
+
+[[zipcodes]]
+zipcode = 72123
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72392
+percent_zip_in_county = 1.25

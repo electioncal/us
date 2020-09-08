@@ -1,2 +1,26 @@
 name = "Martin County"
 fips_code = 48317
+
+[[zipcodes]]
+zipcode = 79331
+percent_zip_in_county = 0.59
+
+[[zipcodes]]
+zipcode = 79713
+percent_zip_in_county = 50.17
+
+[[zipcodes]]
+zipcode = 79748
+percent_zip_in_county = 16.18
+
+[[zipcodes]]
+zipcode = 79749
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79782
+percent_zip_in_county = 99.07
+
+[[zipcodes]]
+zipcode = 79783
+percent_zip_in_county = 100.0

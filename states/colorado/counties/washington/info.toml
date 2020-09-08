@@ -1,2 +1,50 @@
 name = "Washington County"
 fips_code = 8121
+
+[[zipcodes]]
+zipcode = 80720
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80723
+percent_zip_in_county = 0.15
+
+[[zipcodes]]
+zipcode = 80733
+percent_zip_in_county = 24.39
+
+[[zipcodes]]
+zipcode = 80740
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80741
+percent_zip_in_county = 7.81
+
+[[zipcodes]]
+zipcode = 80743
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80757
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80759
+percent_zip_in_county = 1.49
+
+[[zipcodes]]
+zipcode = 80801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80812
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80815
+percent_zip_in_county = 9.99
+
+[[zipcodes]]
+zipcode = 80818
+percent_zip_in_county = 4.66

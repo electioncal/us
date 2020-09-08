@@ -1,2 +1,22 @@
 name = "Gilmer County"
 fips_code = 13123
+
+[[zipcodes]]
+zipcode = 30175
+percent_zip_in_county = 24.4
+
+[[zipcodes]]
+zipcode = 30513
+percent_zip_in_county = 4.17
+
+[[zipcodes]]
+zipcode = 30522
+percent_zip_in_county = 63.92
+
+[[zipcodes]]
+zipcode = 30536
+percent_zip_in_county = 99.83
+
+[[zipcodes]]
+zipcode = 30540
+percent_zip_in_county = 100.0

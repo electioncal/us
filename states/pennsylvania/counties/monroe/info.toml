@@ -1,2 +1,146 @@
 name = "Monroe County"
 fips_code = 42089
+
+[[zipcodes]]
+zipcode = 18058
+percent_zip_in_county = 87.42
+
+[[zipcodes]]
+zipcode = 18071
+percent_zip_in_county = 0.8
+
+[[zipcodes]]
+zipcode = 18210
+percent_zip_in_county = 22.55
+
+[[zipcodes]]
+zipcode = 18301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18302
+percent_zip_in_county = 99.21
+
+[[zipcodes]]
+zipcode = 18321
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18322
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18323
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18324
+percent_zip_in_county = 2.05
+
+[[zipcodes]]
+zipcode = 18325
+percent_zip_in_county = 79.72
+
+[[zipcodes]]
+zipcode = 18326
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18327
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18330
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18331
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18332
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18333
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18334
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18335
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18342
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18344
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18346
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18347
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18349
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18350
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18352
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18353
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18354
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18355
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18356
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18357
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18360
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18370
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18372
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18424
+percent_zip_in_county = 4.63
+
+[[zipcodes]]
+zipcode = 18466
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 18610
+percent_zip_in_county = 99.72

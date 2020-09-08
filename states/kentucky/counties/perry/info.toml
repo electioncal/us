@@ -1,2 +1,94 @@
 name = "Perry County"
 fips_code = 21193
+
+[[zipcodes]]
+zipcode = 40972
+percent_zip_in_county = 2.34
+
+[[zipcodes]]
+zipcode = 41367
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41701
+percent_zip_in_county = 91.04
+
+[[zipcodes]]
+zipcode = 41712
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41713
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41719
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41721
+percent_zip_in_county = 96.83
+
+[[zipcodes]]
+zipcode = 41722
+percent_zip_in_county = 67.95
+
+[[zipcodes]]
+zipcode = 41723
+percent_zip_in_county = 82.95
+
+[[zipcodes]]
+zipcode = 41727
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41729
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41731
+percent_zip_in_county = 72.53
+
+[[zipcodes]]
+zipcode = 41735
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41739
+percent_zip_in_county = 87.71
+
+[[zipcodes]]
+zipcode = 41745
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41746
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41751
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41754
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41759
+percent_zip_in_county = 5.04
+
+[[zipcodes]]
+zipcode = 41760
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41763
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41773
+percent_zip_in_county = 78.63
+
+[[zipcodes]]
+zipcode = 41774
+percent_zip_in_county = 100.0

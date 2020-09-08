@@ -1,2 +1,62 @@
 name = "Douglas County"
 fips_code = 29067
+
+[[zipcodes]]
+zipcode = 65608
+percent_zip_in_county = 97.87
+
+[[zipcodes]]
+zipcode = 65637
+percent_zip_in_county = 22.47
+
+[[zipcodes]]
+zipcode = 65638
+percent_zip_in_county = 80.69
+
+[[zipcodes]]
+zipcode = 65652
+percent_zip_in_county = 0.75
+
+[[zipcodes]]
+zipcode = 65689
+percent_zip_in_county = 5.02
+
+[[zipcodes]]
+zipcode = 65702
+percent_zip_in_county = 24.52
+
+[[zipcodes]]
+zipcode = 65704
+percent_zip_in_county = 10.97
+
+[[zipcodes]]
+zipcode = 65711
+percent_zip_in_county = 5.65
+
+[[zipcodes]]
+zipcode = 65717
+percent_zip_in_county = 24.49
+
+[[zipcodes]]
+zipcode = 65720
+percent_zip_in_county = 26.17
+
+[[zipcodes]]
+zipcode = 65746
+percent_zip_in_county = 4.59
+
+[[zipcodes]]
+zipcode = 65755
+percent_zip_in_county = 73.22
+
+[[zipcodes]]
+zipcode = 65768
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65775
+percent_zip_in_county = 0.73
+
+[[zipcodes]]
+zipcode = 65793
+percent_zip_in_county = 3.85

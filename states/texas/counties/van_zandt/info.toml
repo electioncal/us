@@ -1,2 +1,54 @@
 name = "Van Zandt County"
 fips_code = 48467
+
+[[zipcodes]]
+zipcode = 75103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75117
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75124
+percent_zip_in_county = 20.81
+
+[[zipcodes]]
+zipcode = 75127
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75140
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75147
+percent_zip_in_county = 34.13
+
+[[zipcodes]]
+zipcode = 75169
+percent_zip_in_county = 83.45
+
+[[zipcodes]]
+zipcode = 75752
+percent_zip_in_county = 4.49
+
+[[zipcodes]]
+zipcode = 75754
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75756
+percent_zip_in_county = 2.82
+
+[[zipcodes]]
+zipcode = 75758
+percent_zip_in_county = 6.93
+
+[[zipcodes]]
+zipcode = 75778
+percent_zip_in_county = 33.47
+
+[[zipcodes]]
+zipcode = 75790
+percent_zip_in_county = 98.24

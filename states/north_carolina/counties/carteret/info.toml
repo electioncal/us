@@ -1,2 +1,74 @@
 name = "Carteret County"
 fips_code = 37031
+
+[[zipcodes]]
+zipcode = 28511
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28512
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28516
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28520
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28524
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28528
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28531
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28553
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28557
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28570
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28575
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28577
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28579
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28581
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28582
+percent_zip_in_county = 46.22
+
+[[zipcodes]]
+zipcode = 28584
+percent_zip_in_county = 55.16
+
+[[zipcodes]]
+zipcode = 28589
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28594
+percent_zip_in_county = 100.0

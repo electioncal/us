@@ -1,2 +1,102 @@
 name = "Utah County"
 fips_code = 49049
+
+[[zipcodes]]
+zipcode = 84003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84004
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84005
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84013
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84020
+percent_zip_in_county = 4.37
+
+[[zipcodes]]
+zipcode = 84042
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84057
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84058
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84062
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84097
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84526
+percent_zip_in_county = 0.19
+
+[[zipcodes]]
+zipcode = 84601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84604
+percent_zip_in_county = 99.83
+
+[[zipcodes]]
+zipcode = 84606
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84626
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84629
+percent_zip_in_county = 5.97
+
+[[zipcodes]]
+zipcode = 84633
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84651
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84653
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84655
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84660
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84663
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84664
+percent_zip_in_county = 100.0

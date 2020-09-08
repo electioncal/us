@@ -1,2 +1,62 @@
 name = "Goochland County"
 fips_code = 51075
+
+[[zipcodes]]
+zipcode = 23038
+percent_zip_in_county = 48.68
+
+[[zipcodes]]
+zipcode = 23039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23063
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23065
+percent_zip_in_county = 58.56
+
+[[zipcodes]]
+zipcode = 23084
+percent_zip_in_county = 24.01
+
+[[zipcodes]]
+zipcode = 23093
+percent_zip_in_county = 5.83
+
+[[zipcodes]]
+zipcode = 23102
+percent_zip_in_county = 86.72
+
+[[zipcodes]]
+zipcode = 23103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23117
+percent_zip_in_county = 2.42
+
+[[zipcodes]]
+zipcode = 23129
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23146
+percent_zip_in_county = 13.16
+
+[[zipcodes]]
+zipcode = 23153
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23160
+percent_zip_in_county = 25.37
+
+[[zipcodes]]
+zipcode = 23233
+percent_zip_in_county = 1.08
+
+[[zipcodes]]
+zipcode = 23238
+percent_zip_in_county = 7.78

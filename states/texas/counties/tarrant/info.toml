@@ -1,2 +1,298 @@
 name = "Tarrant County"
 fips_code = 48439
+
+[[zipcodes]]
+zipcode = 75022
+percent_zip_in_county = 0.91
+
+[[zipcodes]]
+zipcode = 75028
+percent_zip_in_county = 0.01
+
+[[zipcodes]]
+zipcode = 75050
+percent_zip_in_county = 23.9
+
+[[zipcodes]]
+zipcode = 75051
+percent_zip_in_county = 9.27
+
+[[zipcodes]]
+zipcode = 75052
+percent_zip_in_county = 37.16
+
+[[zipcodes]]
+zipcode = 75054
+percent_zip_in_county = 97.63
+
+[[zipcodes]]
+zipcode = 76001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76006
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76008
+percent_zip_in_county = 13.85
+
+[[zipcodes]]
+zipcode = 76010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76011
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76012
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76013
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76014
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76015
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76016
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76017
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76018
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76020
+percent_zip_in_county = 56.76
+
+[[zipcodes]]
+zipcode = 76021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76028
+percent_zip_in_county = 29.07
+
+[[zipcodes]]
+zipcode = 76034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76036
+percent_zip_in_county = 88.05
+
+[[zipcodes]]
+zipcode = 76039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76052
+percent_zip_in_county = 92.63
+
+[[zipcodes]]
+zipcode = 76053
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76054
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76060
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76063
+percent_zip_in_county = 95.24
+
+[[zipcodes]]
+zipcode = 76071
+percent_zip_in_county = 10.99
+
+[[zipcodes]]
+zipcode = 76092
+percent_zip_in_county = 97.09
+
+[[zipcodes]]
+zipcode = 76102
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76104
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76105
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76106
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76107
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76108
+percent_zip_in_county = 92.56
+
+[[zipcodes]]
+zipcode = 76109
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76110
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76111
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76112
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76114
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76115
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76116
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76117
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76118
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76119
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76120
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76123
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76126
+percent_zip_in_county = 96.08
+
+[[zipcodes]]
+zipcode = 76127
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76129
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76131
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76132
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76133
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76134
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76135
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76137
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76140
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76148
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76155
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76164
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76177
+percent_zip_in_county = 84.85
+
+[[zipcodes]]
+zipcode = 76179
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76180
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76182
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76244
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76248
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76262
+percent_zip_in_county = 39.23

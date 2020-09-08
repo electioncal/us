@@ -1,2 +1,30 @@
 name = "Holt County"
 fips_code = 29087
+
+[[zipcodes]]
+zipcode = 64437
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64446
+percent_zip_in_county = 1.07
+
+[[zipcodes]]
+zipcode = 64451
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64466
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64470
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64473
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64487
+percent_zip_in_county = 4.36

@@ -1,2 +1,70 @@
 name = "Crawford County"
 fips_code = 19047
+
+[[zipcodes]]
+zipcode = 51019
+percent_zip_in_county = 4.53
+
+[[zipcodes]]
+zipcode = 51034
+percent_zip_in_county = 0.99
+
+[[zipcodes]]
+zipcode = 51060
+percent_zip_in_county = 11.87
+
+[[zipcodes]]
+zipcode = 51436
+percent_zip_in_county = 7.19
+
+[[zipcodes]]
+zipcode = 51439
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51441
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51442
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51448
+percent_zip_in_county = 82.49
+
+[[zipcodes]]
+zipcode = 51454
+percent_zip_in_county = 81.87
+
+[[zipcodes]]
+zipcode = 51455
+percent_zip_in_county = 10.32
+
+[[zipcodes]]
+zipcode = 51461
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51465
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51467
+percent_zip_in_county = 84.39
+
+[[zipcodes]]
+zipcode = 51520
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51527
+percent_zip_in_county = 8.49
+
+[[zipcodes]]
+zipcode = 51528
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51529
+percent_zip_in_county = 11.79

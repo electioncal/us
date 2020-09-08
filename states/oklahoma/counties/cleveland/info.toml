@@ -1,2 +1,90 @@
 name = "Cleveland County"
 fips_code = 40027
+
+[[zipcodes]]
+zipcode = 73019
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 73020
+percent_zip_in_county = 1.68
+
+[[zipcodes]]
+zipcode = 73026
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73068
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73069
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73071
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73072
+percent_zip_in_county = 95.13
+
+[[zipcodes]]
+zipcode = 73135
+percent_zip_in_county = 5.17
+
+[[zipcodes]]
+zipcode = 73139
+percent_zip_in_county = 42.27
+
+[[zipcodes]]
+zipcode = 73149
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 73150
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 73159
+percent_zip_in_county = 29.68
+
+[[zipcodes]]
+zipcode = 73160
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73165
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73169
+percent_zip_in_county = 22.56
+
+[[zipcodes]]
+zipcode = 73170
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73173
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74851
+percent_zip_in_county = 6.85
+
+[[zipcodes]]
+zipcode = 74852
+percent_zip_in_county = 4.83
+
+[[zipcodes]]
+zipcode = 74857
+percent_zip_in_county = 74.29
+
+[[zipcodes]]
+zipcode = 74878
+percent_zip_in_county = 9.14

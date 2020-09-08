@@ -1,2 +1,18 @@
 name = "Utuado Municipio"
 fips_code = 72141
+
+[[zipcodes]]
+zipcode = 601
+percent_zip_in_county = 0.57
+
+[[zipcodes]]
+zipcode = 641
+percent_zip_in_county = 99.79
+
+[[zipcodes]]
+zipcode = 650
+percent_zip_in_county = 11.84
+
+[[zipcodes]]
+zipcode = 664
+percent_zip_in_county = 0.85

@@ -1,2 +1,58 @@
 name = "Chatham County"
 fips_code = 13051
+
+[[zipcodes]]
+zipcode = 31302
+percent_zip_in_county = 49.1
+
+[[zipcodes]]
+zipcode = 31322
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31328
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31404
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31405
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31406
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31407
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31408
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31409
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31410
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31411
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31415
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31419
+percent_zip_in_county = 100.0

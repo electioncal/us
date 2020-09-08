@@ -1,2 +1,34 @@
 name = "Drew County"
 fips_code = 5043
+
+[[zipcodes]]
+zipcode = 71638
+percent_zip_in_county = 14.68
+
+[[zipcodes]]
+zipcode = 71642
+percent_zip_in_county = 18.36
+
+[[zipcodes]]
+zipcode = 71646
+percent_zip_in_county = 1.47
+
+[[zipcodes]]
+zipcode = 71655
+percent_zip_in_county = 99.91
+
+[[zipcodes]]
+zipcode = 71670
+percent_zip_in_county = 31.93
+
+[[zipcodes]]
+zipcode = 71671
+percent_zip_in_county = 0.12
+
+[[zipcodes]]
+zipcode = 71675
+percent_zip_in_county = 94.19
+
+[[zipcodes]]
+zipcode = 71677
+percent_zip_in_county = 100.0

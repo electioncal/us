@@ -1,2 +1,78 @@
 name = "Union County"
 fips_code = 39159
+
+[[zipcodes]]
+zipcode = 43015
+percent_zip_in_county = 0.15
+
+[[zipcodes]]
+zipcode = 43016
+percent_zip_in_county = 7.15
+
+[[zipcodes]]
+zipcode = 43017
+percent_zip_in_county = 1.76
+
+[[zipcodes]]
+zipcode = 43029
+percent_zip_in_county = 27.26
+
+[[zipcodes]]
+zipcode = 43036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43040
+percent_zip_in_county = 99.81
+
+[[zipcodes]]
+zipcode = 43045
+percent_zip_in_county = 98.98
+
+[[zipcodes]]
+zipcode = 43060
+percent_zip_in_county = 2.38
+
+[[zipcodes]]
+zipcode = 43061
+percent_zip_in_county = 17.65
+
+[[zipcodes]]
+zipcode = 43064
+percent_zip_in_county = 44.7
+
+[[zipcodes]]
+zipcode = 43067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43077
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43084
+percent_zip_in_county = 1.55
+
+[[zipcodes]]
+zipcode = 43302
+percent_zip_in_county = 0.04
+
+[[zipcodes]]
+zipcode = 43319
+percent_zip_in_county = 0.19
+
+[[zipcodes]]
+zipcode = 43340
+percent_zip_in_county = 10.46
+
+[[zipcodes]]
+zipcode = 43342
+percent_zip_in_county = 1.7
+
+[[zipcodes]]
+zipcode = 43344
+percent_zip_in_county = 97.73
+
+[[zipcodes]]
+zipcode = 43358
+percent_zip_in_county = 46.61

@@ -1,2 +1,62 @@
 name = "Marengo County"
 fips_code = 1091
+
+[[zipcodes]]
+zipcode = 36722
+percent_zip_in_county = 4.87
+
+[[zipcodes]]
+zipcode = 36728
+percent_zip_in_county = 40.35
+
+[[zipcodes]]
+zipcode = 36732
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36736
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36738
+percent_zip_in_county = 79.52
+
+[[zipcodes]]
+zipcode = 36742
+percent_zip_in_county = 81.95
+
+[[zipcodes]]
+zipcode = 36748
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36754
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36763
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36769
+percent_zip_in_county = 9.75
+
+[[zipcodes]]
+zipcode = 36773
+percent_zip_in_county = 27.93
+
+[[zipcodes]]
+zipcode = 36782
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36783
+percent_zip_in_county = 99.15
+
+[[zipcodes]]
+zipcode = 36784
+percent_zip_in_county = 10.45
+
+[[zipcodes]]
+zipcode = 36786
+percent_zip_in_county = 1.01

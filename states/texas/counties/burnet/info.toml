@@ -1,2 +1,50 @@
 name = "Burnet County"
 fips_code = 48053
+
+[[zipcodes]]
+zipcode = 76527
+percent_zip_in_county = 6.75
+
+[[zipcodes]]
+zipcode = 76539
+percent_zip_in_county = 3.74
+
+[[zipcodes]]
+zipcode = 76549
+percent_zip_in_county = 0.4
+
+[[zipcodes]]
+zipcode = 76550
+percent_zip_in_county = 7.91
+
+[[zipcodes]]
+zipcode = 78605
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78608
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78611
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78639
+percent_zip_in_county = 12.65
+
+[[zipcodes]]
+zipcode = 78642
+percent_zip_in_county = 2.31
+
+[[zipcodes]]
+zipcode = 78654
+percent_zip_in_county = 96.73
+
+[[zipcodes]]
+zipcode = 78657
+percent_zip_in_county = 37.43
+
+[[zipcodes]]
+zipcode = 78669
+percent_zip_in_county = 29.03

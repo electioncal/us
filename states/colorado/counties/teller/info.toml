@@ -1,2 +1,30 @@
 name = "Teller County"
 fips_code = 8119
+
+[[zipcodes]]
+zipcode = 80813
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80814
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80816
+percent_zip_in_county = 91.24
+
+[[zipcodes]]
+zipcode = 80819
+percent_zip_in_county = 3.04
+
+[[zipcodes]]
+zipcode = 80827
+percent_zip_in_county = 30.97
+
+[[zipcodes]]
+zipcode = 80860
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80863
+percent_zip_in_county = 100.0

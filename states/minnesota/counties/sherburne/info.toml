@@ -1,2 +1,30 @@
 name = "Sherburne County"
 fips_code = 27141
+
+[[zipcodes]]
+zipcode = 55308
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55309
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55319
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55330
+percent_zip_in_county = 72.75
+
+[[zipcodes]]
+zipcode = 55371
+percent_zip_in_county = 33.98
+
+[[zipcodes]]
+zipcode = 55398
+percent_zip_in_county = 95.28
+
+[[zipcodes]]
+zipcode = 56304
+percent_zip_in_county = 57.96

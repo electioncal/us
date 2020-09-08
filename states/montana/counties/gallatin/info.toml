@@ -1,2 +1,42 @@
 name = "Gallatin County"
 fips_code = 30031
+
+[[zipcodes]]
+zipcode = 59086
+percent_zip_in_county = 9.77
+
+[[zipcodes]]
+zipcode = 59714
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59715
+percent_zip_in_county = 99.82
+
+[[zipcodes]]
+zipcode = 59716
+percent_zip_in_county = 75.53
+
+[[zipcodes]]
+zipcode = 59718
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59741
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59752
+percent_zip_in_county = 83.21
+
+[[zipcodes]]
+zipcode = 59758
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59760
+percent_zip_in_county = 100.0

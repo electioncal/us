@@ -1,2 +1,42 @@
 name = "Hamlin County"
 fips_code = 46057
+
+[[zipcodes]]
+zipcode = 57212
+percent_zip_in_county = 5.33
+
+[[zipcodes]]
+zipcode = 57221
+percent_zip_in_county = 92.45
+
+[[zipcodes]]
+zipcode = 57223
+percent_zip_in_county = 99.48
+
+[[zipcodes]]
+zipcode = 57226
+percent_zip_in_county = 2.27
+
+[[zipcodes]]
+zipcode = 57234
+percent_zip_in_county = 88.62
+
+[[zipcodes]]
+zipcode = 57238
+percent_zip_in_county = 3.52
+
+[[zipcodes]]
+zipcode = 57241
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57242
+percent_zip_in_county = 86.57
+
+[[zipcodes]]
+zipcode = 57248
+percent_zip_in_county = 95.18
+
+[[zipcodes]]
+zipcode = 57271
+percent_zip_in_county = 30.77

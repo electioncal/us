@@ -1,2 +1,82 @@
 name = "Washington County"
 fips_code = 24043
+
+[[zipcodes]]
+zipcode = 21711
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21713
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21719
+percent_zip_in_county = 97.48
+
+[[zipcodes]]
+zipcode = 21722
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21733
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21734
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21740
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21742
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21746
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21750
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21756
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21758
+percent_zip_in_county = 36.4
+
+[[zipcodes]]
+zipcode = 21767
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21769
+percent_zip_in_county = 0.34
+
+[[zipcodes]]
+zipcode = 21779
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21780
+percent_zip_in_county = 5.11
+
+[[zipcodes]]
+zipcode = 21781
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21782
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21783
+percent_zip_in_county = 87.57
+
+[[zipcodes]]
+zipcode = 21795
+percent_zip_in_county = 100.0

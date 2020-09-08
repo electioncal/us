@@ -1,2 +1,6 @@
 name = "Greeley County"
 fips_code = 20071
+
+[[zipcodes]]
+zipcode = 67879
+percent_zip_in_county = 100.0

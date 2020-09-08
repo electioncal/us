@@ -1,2 +1,58 @@
 name = "Huron County"
 fips_code = 39077
+
+[[zipcodes]]
+zipcode = 44807
+percent_zip_in_county = 6.09
+
+[[zipcodes]]
+zipcode = 44811
+percent_zip_in_county = 37.19
+
+[[zipcodes]]
+zipcode = 44826
+percent_zip_in_county = 90.22
+
+[[zipcodes]]
+zipcode = 44837
+percent_zip_in_county = 70.47
+
+[[zipcodes]]
+zipcode = 44846
+percent_zip_in_county = 10.91
+
+[[zipcodes]]
+zipcode = 44847
+percent_zip_in_county = 79.22
+
+[[zipcodes]]
+zipcode = 44850
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44851
+percent_zip_in_county = 85.64
+
+[[zipcodes]]
+zipcode = 44855
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 44857
+percent_zip_in_county = 98.7
+
+[[zipcodes]]
+zipcode = 44865
+percent_zip_in_county = 49.8
+
+[[zipcodes]]
+zipcode = 44878
+percent_zip_in_county = 1.56
+
+[[zipcodes]]
+zipcode = 44889
+percent_zip_in_county = 63.99
+
+[[zipcodes]]
+zipcode = 44890
+percent_zip_in_county = 100.0

@@ -1,2 +1,98 @@
 name = "Fayette County"
 fips_code = 19065
+
+[[zipcodes]]
+zipcode = 50606
+percent_zip_in_county = 98.08
+
+[[zipcodes]]
+zipcode = 50607
+percent_zip_in_county = 25.36
+
+[[zipcodes]]
+zipcode = 50629
+percent_zip_in_county = 21.42
+
+[[zipcodes]]
+zipcode = 50650
+percent_zip_in_county = 15.88
+
+[[zipcodes]]
+zipcode = 50655
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50662
+percent_zip_in_county = 99.28
+
+[[zipcodes]]
+zipcode = 50664
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50671
+percent_zip_in_county = 36.06
+
+[[zipcodes]]
+zipcode = 50674
+percent_zip_in_county = 12.66
+
+[[zipcodes]]
+zipcode = 50681
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52076
+percent_zip_in_county = 0.26
+
+[[zipcodes]]
+zipcode = 52133
+percent_zip_in_county = 14.16
+
+[[zipcodes]]
+zipcode = 52135
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52141
+percent_zip_in_county = 79.86
+
+[[zipcodes]]
+zipcode = 52142
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52144
+percent_zip_in_county = 3.73
+
+[[zipcodes]]
+zipcode = 52147
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52161
+percent_zip_in_county = 5.32
+
+[[zipcodes]]
+zipcode = 52162
+percent_zip_in_county = 0.79
+
+[[zipcodes]]
+zipcode = 52164
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52166
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52169
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52171
+percent_zip_in_county = 69.66
+
+[[zipcodes]]
+zipcode = 52175
+percent_zip_in_county = 100.0

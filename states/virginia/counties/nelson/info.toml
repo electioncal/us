@@ -1,2 +1,66 @@
 name = "Nelson County"
 fips_code = 51125
+
+[[zipcodes]]
+zipcode = 22920
+percent_zip_in_county = 65.15
+
+[[zipcodes]]
+zipcode = 22922
+percent_zip_in_county = 95.89
+
+[[zipcodes]]
+zipcode = 22938
+percent_zip_in_county = 95.01
+
+[[zipcodes]]
+zipcode = 22949
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22958
+percent_zip_in_county = 98.84
+
+[[zipcodes]]
+zipcode = 22964
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22967
+percent_zip_in_county = 86.66
+
+[[zipcodes]]
+zipcode = 22969
+percent_zip_in_county = 50.17
+
+[[zipcodes]]
+zipcode = 22971
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22976
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24464
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24521
+percent_zip_in_county = 2.24
+
+[[zipcodes]]
+zipcode = 24553
+percent_zip_in_county = 27.29
+
+[[zipcodes]]
+zipcode = 24562
+percent_zip_in_county = 18.31
+
+[[zipcodes]]
+zipcode = 24581
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 24599
+percent_zip_in_county = 44.72

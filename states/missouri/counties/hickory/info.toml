@@ -1,2 +1,46 @@
 name = "Hickory County"
 fips_code = 29085
+
+[[zipcodes]]
+zipcode = 65355
+percent_zip_in_county = 0.51
+
+[[zipcodes]]
+zipcode = 65634
+percent_zip_in_county = 98.04
+
+[[zipcodes]]
+zipcode = 65650
+percent_zip_in_county = 56.91
+
+[[zipcodes]]
+zipcode = 65668
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65674
+percent_zip_in_county = 3.51
+
+[[zipcodes]]
+zipcode = 65724
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65732
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65735
+percent_zip_in_county = 91.82
+
+[[zipcodes]]
+zipcode = 65767
+percent_zip_in_county = 31.86
+
+[[zipcodes]]
+zipcode = 65774
+percent_zip_in_county = 92.03
+
+[[zipcodes]]
+zipcode = 65779
+percent_zip_in_county = 99.46

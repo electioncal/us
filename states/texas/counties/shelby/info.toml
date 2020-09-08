@@ -1,2 +1,30 @@
 name = "Shelby County"
 fips_code = 48419
+
+[[zipcodes]]
+zipcode = 75643
+percent_zip_in_county = 2.94
+
+[[zipcodes]]
+zipcode = 75935
+percent_zip_in_county = 98.78
+
+[[zipcodes]]
+zipcode = 75954
+percent_zip_in_county = 94.09
+
+[[zipcodes]]
+zipcode = 75972
+percent_zip_in_county = 0.85
+
+[[zipcodes]]
+zipcode = 75973
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75974
+percent_zip_in_county = 82.69
+
+[[zipcodes]]
+zipcode = 75975
+percent_zip_in_county = 95.78

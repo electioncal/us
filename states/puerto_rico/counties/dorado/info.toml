@@ -1,2 +1,10 @@
 name = "Dorado Municipio"
 fips_code = 72051
+
+[[zipcodes]]
+zipcode = 646
+percent_zip_in_county = 99.89
+
+[[zipcodes]]
+zipcode = 950
+percent_zip_in_county = 100.0

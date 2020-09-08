@@ -1,2 +1,78 @@
 name = "Newaygo County"
 fips_code = 26123
+
+[[zipcodes]]
+zipcode = 49303
+percent_zip_in_county = 4.43
+
+[[zipcodes]]
+zipcode = 49307
+percent_zip_in_county = 2.99
+
+[[zipcodes]]
+zipcode = 49309
+percent_zip_in_county = 96.8
+
+[[zipcodes]]
+zipcode = 49312
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49327
+percent_zip_in_county = 99.46
+
+[[zipcodes]]
+zipcode = 49329
+percent_zip_in_county = 15.06
+
+[[zipcodes]]
+zipcode = 49330
+percent_zip_in_county = 5.57
+
+[[zipcodes]]
+zipcode = 49336
+percent_zip_in_county = 0.05
+
+[[zipcodes]]
+zipcode = 49337
+percent_zip_in_county = 97.1
+
+[[zipcodes]]
+zipcode = 49338
+percent_zip_in_county = 30.4
+
+[[zipcodes]]
+zipcode = 49343
+percent_zip_in_county = 31.92
+
+[[zipcodes]]
+zipcode = 49346
+percent_zip_in_county = 0.18
+
+[[zipcodes]]
+zipcode = 49349
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49412
+percent_zip_in_county = 98.17
+
+[[zipcodes]]
+zipcode = 49421
+percent_zip_in_county = 34.82
+
+[[zipcodes]]
+zipcode = 49425
+percent_zip_in_county = 6.69
+
+[[zipcodes]]
+zipcode = 49457
+percent_zip_in_county = 0.67
+
+[[zipcodes]]
+zipcode = 49459
+percent_zip_in_county = 9.7
+
+[[zipcodes]]
+zipcode = 49677
+percent_zip_in_county = 3.65

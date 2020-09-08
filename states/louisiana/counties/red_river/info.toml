@@ -1,2 +1,22 @@
 name = "Red River Parish"
 fips_code = 22081
+
+[[zipcodes]]
+zipcode = 71019
+percent_zip_in_county = 93.71
+
+[[zipcodes]]
+zipcode = 71034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71052
+percent_zip_in_county = 1.1
+
+[[zipcodes]]
+zipcode = 71068
+percent_zip_in_county = 10.92
+
+[[zipcodes]]
+zipcode = 71115
+percent_zip_in_county = 1.74

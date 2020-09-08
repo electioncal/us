@@ -1,2 +1,26 @@
 name = "Gloucester County"
 fips_code = 51073
+
+[[zipcodes]]
+zipcode = 23050
+percent_zip_in_county = 17.73
+
+[[zipcodes]]
+zipcode = 23061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23062
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23128
+percent_zip_in_county = 39.14
+
+[[zipcodes]]
+zipcode = 23149
+percent_zip_in_county = 39.31

@@ -1,2 +1,66 @@
 name = "Kandiyohi County"
 fips_code = 27067
+
+[[zipcodes]]
+zipcode = 56201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56209
+percent_zip_in_county = 93.8
+
+[[zipcodes]]
+zipcode = 56216
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56251
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56252
+percent_zip_in_county = 3.8
+
+[[zipcodes]]
+zipcode = 56253
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56273
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56279
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56281
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56282
+percent_zip_in_county = 85.63
+
+[[zipcodes]]
+zipcode = 56284
+percent_zip_in_county = 6.54
+
+[[zipcodes]]
+zipcode = 56288
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56289
+percent_zip_in_county = 90.06
+
+[[zipcodes]]
+zipcode = 56312
+percent_zip_in_county = 18.44
+
+[[zipcodes]]
+zipcode = 56316
+percent_zip_in_county = 7.22
+
+[[zipcodes]]
+zipcode = 56362
+percent_zip_in_county = 3.73

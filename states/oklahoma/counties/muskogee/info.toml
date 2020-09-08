@@ -1,2 +1,58 @@
 name = "Muskogee County"
 fips_code = 40101
+
+[[zipcodes]]
+zipcode = 74401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74403
+percent_zip_in_county = 99.34
+
+[[zipcodes]]
+zipcode = 74422
+percent_zip_in_county = 67.72
+
+[[zipcodes]]
+zipcode = 74423
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74428
+percent_zip_in_county = 49.21
+
+[[zipcodes]]
+zipcode = 74434
+percent_zip_in_county = 65.94
+
+[[zipcodes]]
+zipcode = 74435
+percent_zip_in_county = 11.18
+
+[[zipcodes]]
+zipcode = 74436
+percent_zip_in_county = 77.87
+
+[[zipcodes]]
+zipcode = 74450
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74455
+percent_zip_in_county = 77.87
+
+[[zipcodes]]
+zipcode = 74463
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74468
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74469
+percent_zip_in_county = 97.19
+
+[[zipcodes]]
+zipcode = 74470
+percent_zip_in_county = 100.0

@@ -1,2 +1,62 @@
 name = "Acadia Parish"
 fips_code = 22001
+
+[[zipcodes]]
+zipcode = 70515
+percent_zip_in_county = 25.46
+
+[[zipcodes]]
+zipcode = 70516
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70525
+percent_zip_in_county = 76.25
+
+[[zipcodes]]
+zipcode = 70526
+percent_zip_in_county = 99.54
+
+[[zipcodes]]
+zipcode = 70529
+percent_zip_in_county = 2.1
+
+[[zipcodes]]
+zipcode = 70531
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70534
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70535
+percent_zip_in_county = 22.14
+
+[[zipcodes]]
+zipcode = 70537
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70543
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70546
+percent_zip_in_county = 6.59
+
+[[zipcodes]]
+zipcode = 70556
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70559
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70578
+percent_zip_in_county = 87.08
+
+[[zipcodes]]
+zipcode = 70583
+percent_zip_in_county = 5.58

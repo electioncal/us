@@ -1,2 +1,26 @@
 name = "Brantley County"
 fips_code = 13025
+
+[[zipcodes]]
+zipcode = 31503
+percent_zip_in_county = 11.68
+
+[[zipcodes]]
+zipcode = 31542
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31543
+percent_zip_in_county = 91.45
+
+[[zipcodes]]
+zipcode = 31553
+percent_zip_in_county = 99.68
+
+[[zipcodes]]
+zipcode = 31557
+percent_zip_in_county = 6.77
+
+[[zipcodes]]
+zipcode = 31566
+percent_zip_in_county = 95.68

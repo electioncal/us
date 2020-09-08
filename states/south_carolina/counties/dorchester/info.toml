@@ -1,2 +1,62 @@
 name = "Dorchester County"
 fips_code = 45035
+
+[[zipcodes]]
+zipcode = 29018
+percent_zip_in_county = 6.11
+
+[[zipcodes]]
+zipcode = 29414
+percent_zip_in_county = 0.13
+
+[[zipcodes]]
+zipcode = 29418
+percent_zip_in_county = 22.97
+
+[[zipcodes]]
+zipcode = 29420
+percent_zip_in_county = 75.74
+
+[[zipcodes]]
+zipcode = 29426
+percent_zip_in_county = 12.58
+
+[[zipcodes]]
+zipcode = 29432
+percent_zip_in_county = 3.68
+
+[[zipcodes]]
+zipcode = 29437
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29448
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29456
+percent_zip_in_county = 44.99
+
+[[zipcodes]]
+zipcode = 29470
+percent_zip_in_county = 8.22
+
+[[zipcodes]]
+zipcode = 29471
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29472
+percent_zip_in_county = 68.86
+
+[[zipcodes]]
+zipcode = 29477
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29483
+percent_zip_in_county = 59.18
+
+[[zipcodes]]
+zipcode = 29485
+percent_zip_in_county = 93.43

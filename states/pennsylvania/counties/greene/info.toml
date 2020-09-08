@@ -1,2 +1,106 @@
 name = "Greene County"
 fips_code = 42059
+
+[[zipcodes]]
+zipcode = 15310
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15315
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15316
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15320
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15322
+percent_zip_in_county = 67.79
+
+[[zipcodes]]
+zipcode = 15325
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15327
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15329
+percent_zip_in_county = 19.08
+
+[[zipcodes]]
+zipcode = 15334
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15337
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15338
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15341
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15344
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15345
+percent_zip_in_county = 2.86
+
+[[zipcodes]]
+zipcode = 15346
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15349
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15351
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15352
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15353
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15357
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15359
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15362
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15364
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 15370
+percent_zip_in_county = 99.77
+
+[[zipcodes]]
+zipcode = 15377
+percent_zip_in_county = 20.99
+
+[[zipcodes]]
+zipcode = 15380
+percent_zip_in_county = 100.0

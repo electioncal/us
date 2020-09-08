@@ -1,2 +1,74 @@
 name = "Mingo County"
 fips_code = 54059
+
+[[zipcodes]]
+zipcode = 24846
+percent_zip_in_county = 62.3
+
+[[zipcodes]]
+zipcode = 24851
+percent_zip_in_county = 94.99
+
+[[zipcodes]]
+zipcode = 25608
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25621
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25650
+percent_zip_in_county = 81.9
+
+[[zipcodes]]
+zipcode = 25651
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25661
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25666
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25670
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25671
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25672
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25674
+percent_zip_in_county = 64.74
+
+[[zipcodes]]
+zipcode = 25676
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25678
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25688
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25690
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25692
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 25696
+percent_zip_in_county = 100.0

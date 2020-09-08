@@ -1,2 +1,94 @@
 name = "Cass County"
 fips_code = 27021
+
+[[zipcodes]]
+zipcode = 55785
+percent_zip_in_county = 19.77
+
+[[zipcodes]]
+zipcode = 56401
+percent_zip_in_county = 5.72
+
+[[zipcodes]]
+zipcode = 56433
+percent_zip_in_county = 18.8
+
+[[zipcodes]]
+zipcode = 56435
+percent_zip_in_county = 99.79
+
+[[zipcodes]]
+zipcode = 56448
+percent_zip_in_county = 7.53
+
+[[zipcodes]]
+zipcode = 56452
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56461
+percent_zip_in_county = 3.76
+
+[[zipcodes]]
+zipcode = 56466
+percent_zip_in_county = 44.96
+
+[[zipcodes]]
+zipcode = 56468
+percent_zip_in_county = 29.7
+
+[[zipcodes]]
+zipcode = 56472
+percent_zip_in_county = 16.93
+
+[[zipcodes]]
+zipcode = 56473
+percent_zip_in_county = 95.47
+
+[[zipcodes]]
+zipcode = 56474
+percent_zip_in_county = 84.45
+
+[[zipcodes]]
+zipcode = 56477
+percent_zip_in_county = 2.43
+
+[[zipcodes]]
+zipcode = 56479
+percent_zip_in_county = 3.94
+
+[[zipcodes]]
+zipcode = 56481
+percent_zip_in_county = 2.51
+
+[[zipcodes]]
+zipcode = 56484
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56626
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56633
+percent_zip_in_county = 63.97
+
+[[zipcodes]]
+zipcode = 56636
+percent_zip_in_county = 6.74
+
+[[zipcodes]]
+zipcode = 56641
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56655
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56662
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56672
+percent_zip_in_county = 100.0

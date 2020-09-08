@@ -1,2 +1,78 @@
 name = "Winnebago County"
 fips_code = 55139
+
+[[zipcodes]]
+zipcode = 54901
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54902
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54904
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54914
+percent_zip_in_county = 2.13
+
+[[zipcodes]]
+zipcode = 54915
+percent_zip_in_county = 9.25
+
+[[zipcodes]]
+zipcode = 54923
+percent_zip_in_county = 2.61
+
+[[zipcodes]]
+zipcode = 54927
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54934
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54940
+percent_zip_in_county = 24.03
+
+[[zipcodes]]
+zipcode = 54947
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54952
+percent_zip_in_county = 80.34
+
+[[zipcodes]]
+zipcode = 54956
+percent_zip_in_county = 99.81
+
+[[zipcodes]]
+zipcode = 54963
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54964
+percent_zip_in_county = 78.38
+
+[[zipcodes]]
+zipcode = 54971
+percent_zip_in_county = 4.68
+
+[[zipcodes]]
+zipcode = 54979
+percent_zip_in_county = 3.4
+
+[[zipcodes]]
+zipcode = 54980
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54985
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54986
+percent_zip_in_county = 99.31

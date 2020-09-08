@@ -1,2 +1,38 @@
 name = "Jefferson Davis County"
 fips_code = 28065
+
+[[zipcodes]]
+zipcode = 39119
+percent_zip_in_county = 7.85
+
+[[zipcodes]]
+zipcode = 39140
+percent_zip_in_county = 32.09
+
+[[zipcodes]]
+zipcode = 39421
+percent_zip_in_county = 87.77
+
+[[zipcodes]]
+zipcode = 39427
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39429
+percent_zip_in_county = 0.12
+
+[[zipcodes]]
+zipcode = 39474
+percent_zip_in_county = 99.77
+
+[[zipcodes]]
+zipcode = 39482
+percent_zip_in_county = 5.5
+
+[[zipcodes]]
+zipcode = 39656
+percent_zip_in_county = 69.74
+
+[[zipcodes]]
+zipcode = 39663
+percent_zip_in_county = 9.35

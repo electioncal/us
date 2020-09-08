@@ -1,2 +1,14 @@
 name = "Vega Alta Municipio"
 fips_code = 72143
+
+[[zipcodes]]
+zipcode = 646
+percent_zip_in_county = 0.11
+
+[[zipcodes]]
+zipcode = 692
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 693
+percent_zip_in_county = 3.93

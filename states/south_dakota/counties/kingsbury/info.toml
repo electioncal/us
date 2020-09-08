@@ -1,2 +1,34 @@
 name = "Kingsbury County"
 fips_code = 46077
+
+[[zipcodes]]
+zipcode = 57051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57212
+percent_zip_in_county = 71.92
+
+[[zipcodes]]
+zipcode = 57214
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57231
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57233
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57248
+percent_zip_in_county = 4.82
+
+[[zipcodes]]
+zipcode = 57249
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57353
+percent_zip_in_county = 56.57

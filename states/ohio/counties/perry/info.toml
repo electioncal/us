@@ -1,2 +1,70 @@
 name = "Perry County"
 fips_code = 39127
+
+[[zipcodes]]
+zipcode = 43076
+percent_zip_in_county = 50.03
+
+[[zipcodes]]
+zipcode = 43107
+percent_zip_in_county = 1.97
+
+[[zipcodes]]
+zipcode = 43138
+percent_zip_in_county = 2.26
+
+[[zipcodes]]
+zipcode = 43148
+percent_zip_in_county = 4.59
+
+[[zipcodes]]
+zipcode = 43150
+percent_zip_in_county = 32.03
+
+[[zipcodes]]
+zipcode = 43730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43731
+percent_zip_in_county = 84.25
+
+[[zipcodes]]
+zipcode = 43739
+percent_zip_in_county = 64.05
+
+[[zipcodes]]
+zipcode = 43748
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43760
+percent_zip_in_county = 62.86
+
+[[zipcodes]]
+zipcode = 43761
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43764
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43766
+percent_zip_in_county = 88.23
+
+[[zipcodes]]
+zipcode = 43777
+percent_zip_in_county = 42.41
+
+[[zipcodes]]
+zipcode = 43782
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43783
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45732
+percent_zip_in_county = 3.45

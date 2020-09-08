@@ -1,2 +1,38 @@
 name = "De Soto Parish"
 fips_code = 22031
+
+[[zipcodes]]
+zipcode = 71027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71046
+percent_zip_in_county = 87.34
+
+[[zipcodes]]
+zipcode = 71049
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71052
+percent_zip_in_county = 98.9
+
+[[zipcodes]]
+zipcode = 71063
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71078
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71419
+percent_zip_in_county = 11.87

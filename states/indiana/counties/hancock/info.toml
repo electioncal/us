@@ -1,2 +1,58 @@
 name = "Hancock County"
 fips_code = 18059
+
+[[zipcodes]]
+zipcode = 46040
+percent_zip_in_county = 55.58
+
+[[zipcodes]]
+zipcode = 46055
+percent_zip_in_county = 79.96
+
+[[zipcodes]]
+zipcode = 46056
+percent_zip_in_county = 4.76
+
+[[zipcodes]]
+zipcode = 46064
+percent_zip_in_county = 2.18
+
+[[zipcodes]]
+zipcode = 46115
+percent_zip_in_county = 5.59
+
+[[zipcodes]]
+zipcode = 46117
+percent_zip_in_county = 94.63
+
+[[zipcodes]]
+zipcode = 46130
+percent_zip_in_county = 27.15
+
+[[zipcodes]]
+zipcode = 46140
+percent_zip_in_county = 99.74
+
+[[zipcodes]]
+zipcode = 46161
+percent_zip_in_county = 6.25
+
+[[zipcodes]]
+zipcode = 46163
+percent_zip_in_county = 96.64
+
+[[zipcodes]]
+zipcode = 46186
+percent_zip_in_county = 98.12
+
+[[zipcodes]]
+zipcode = 46229
+percent_zip_in_county = 5.82
+
+[[zipcodes]]
+zipcode = 46239
+percent_zip_in_county = 0.15
+
+[[zipcodes]]
+zipcode = 47384
+percent_zip_in_county = 45.15

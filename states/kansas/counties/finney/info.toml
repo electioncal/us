@@ -1,2 +1,30 @@
 name = "Finney County"
 fips_code = 20055
+
+[[zipcodes]]
+zipcode = 67835
+percent_zip_in_county = 4.87
+
+[[zipcodes]]
+zipcode = 67838
+percent_zip_in_county = 0.92
+
+[[zipcodes]]
+zipcode = 67846
+percent_zip_in_county = 99.92
+
+[[zipcodes]]
+zipcode = 67851
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67853
+percent_zip_in_county = 4.65
+
+[[zipcodes]]
+zipcode = 67868
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67871
+percent_zip_in_county = 0.52

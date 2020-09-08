@@ -1,2 +1,26 @@
 name = "Bland County"
 fips_code = 51021
+
+[[zipcodes]]
+zipcode = 24084
+percent_zip_in_county = 2.48
+
+[[zipcodes]]
+zipcode = 24124
+percent_zip_in_county = 5.26
+
+[[zipcodes]]
+zipcode = 24314
+percent_zip_in_county = 89.49
+
+[[zipcodes]]
+zipcode = 24315
+percent_zip_in_county = 99.55
+
+[[zipcodes]]
+zipcode = 24318
+percent_zip_in_county = 59.62
+
+[[zipcodes]]
+zipcode = 24366
+percent_zip_in_county = 100.0

@@ -1,2 +1,82 @@
 name = "Hamilton County"
 fips_code = 18057
+
+[[zipcodes]]
+zipcode = 46030
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46031
+percent_zip_in_county = 83.62
+
+[[zipcodes]]
+zipcode = 46032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46038
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46040
+percent_zip_in_county = 35.94
+
+[[zipcodes]]
+zipcode = 46055
+percent_zip_in_county = 20.04
+
+[[zipcodes]]
+zipcode = 46060
+percent_zip_in_county = 99.89
+
+[[zipcodes]]
+zipcode = 46062
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46069
+percent_zip_in_county = 81.8
+
+[[zipcodes]]
+zipcode = 46074
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46077
+percent_zip_in_county = 4.28
+
+[[zipcodes]]
+zipcode = 46240
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 46250
+percent_zip_in_county = 0.96
+
+[[zipcodes]]
+zipcode = 46256
+percent_zip_in_county = 6.7
+
+[[zipcodes]]
+zipcode = 46260
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 46280
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46290
+percent_zip_in_county = 100.0

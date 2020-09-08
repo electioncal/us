@@ -1,2 +1,26 @@
 name = "Yalobusha County"
 fips_code = 28161
+
+[[zipcodes]]
+zipcode = 38922
+percent_zip_in_county = 86.47
+
+[[zipcodes]]
+zipcode = 38927
+percent_zip_in_county = 0.67
+
+[[zipcodes]]
+zipcode = 38948
+percent_zip_in_county = 71.24
+
+[[zipcodes]]
+zipcode = 38953
+percent_zip_in_county = 40.48
+
+[[zipcodes]]
+zipcode = 38961
+percent_zip_in_county = 68.12
+
+[[zipcodes]]
+zipcode = 38965
+percent_zip_in_county = 78.66

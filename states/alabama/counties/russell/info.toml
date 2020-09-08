@@ -1,2 +1,54 @@
 name = "Russell County"
 fips_code = 1113
+
+[[zipcodes]]
+zipcode = 31905
+percent_zip_in_county = 0.06
+
+[[zipcodes]]
+zipcode = 36027
+percent_zip_in_county = 0.71
+
+[[zipcodes]]
+zipcode = 36804
+percent_zip_in_county = 3.81
+
+[[zipcodes]]
+zipcode = 36856
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36858
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36859
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36860
+percent_zip_in_county = 86.77
+
+[[zipcodes]]
+zipcode = 36867
+percent_zip_in_county = 80.76
+
+[[zipcodes]]
+zipcode = 36869
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36870
+percent_zip_in_county = 18.22
+
+[[zipcodes]]
+zipcode = 36871
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36874
+percent_zip_in_county = 7.64
+
+[[zipcodes]]
+zipcode = 36875
+percent_zip_in_county = 100.0

@@ -1,2 +1,110 @@
 name = "Livingston County"
 fips_code = 17105
+
+[[zipcodes]]
+zipcode = 60420
+percent_zip_in_county = 95.92
+
+[[zipcodes]]
+zipcode = 60460
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60917
+percent_zip_in_county = 3.48
+
+[[zipcodes]]
+zipcode = 60919
+percent_zip_in_county = 18.1
+
+[[zipcodes]]
+zipcode = 60920
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60921
+percent_zip_in_county = 98.75
+
+[[zipcodes]]
+zipcode = 60929
+percent_zip_in_county = 96.16
+
+[[zipcodes]]
+zipcode = 60934
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 60946
+percent_zip_in_county = 10.56
+
+[[zipcodes]]
+zipcode = 60952
+percent_zip_in_county = 0.73
+
+[[zipcodes]]
+zipcode = 60959
+percent_zip_in_county = 1.85
+
+[[zipcodes]]
+zipcode = 60961
+percent_zip_in_county = 15.29
+
+[[zipcodes]]
+zipcode = 61311
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61313
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61319
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61333
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61364
+percent_zip_in_county = 10.36
+
+[[zipcodes]]
+zipcode = 61726
+percent_zip_in_county = 9.04
+
+[[zipcodes]]
+zipcode = 61731
+percent_zip_in_county = 19.64
+
+[[zipcodes]]
+zipcode = 61739
+percent_zip_in_county = 99.82
+
+[[zipcodes]]
+zipcode = 61740
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61741
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61743
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61744
+percent_zip_in_county = 9.8
+
+[[zipcodes]]
+zipcode = 61764
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61769
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61775
+percent_zip_in_county = 100.0

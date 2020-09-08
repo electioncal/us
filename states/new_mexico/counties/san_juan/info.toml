@@ -1,2 +1,90 @@
 name = "San Juan County"
 fips_code = 35045
+
+[[zipcodes]]
+zipcode = 81137
+percent_zip_in_county = 2.99
+
+[[zipcodes]]
+zipcode = 87013
+percent_zip_in_county = 1.98
+
+[[zipcodes]]
+zipcode = 87037
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87313
+percent_zip_in_county = 5.56
+
+[[zipcodes]]
+zipcode = 87325
+percent_zip_in_county = 43.51
+
+[[zipcodes]]
+zipcode = 87328
+percent_zip_in_county = 15.59
+
+[[zipcodes]]
+zipcode = 87364
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87402
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87410
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87412
+percent_zip_in_county = 93.89
+
+[[zipcodes]]
+zipcode = 87413
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87415
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87416
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87417
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87418
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87419
+percent_zip_in_county = 96.12
+
+[[zipcodes]]
+zipcode = 87420
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87421
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87455
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87461
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87499
+percent_zip_in_county = 100.0

@@ -1,2 +1,62 @@
 name = "Burke County"
 fips_code = 37023
+
+[[zipcodes]]
+zipcode = 28090
+percent_zip_in_county = 0.38
+
+[[zipcodes]]
+zipcode = 28601
+percent_zip_in_county = 7.62
+
+[[zipcodes]]
+zipcode = 28602
+percent_zip_in_county = 13.64
+
+[[zipcodes]]
+zipcode = 28612
+percent_zip_in_county = 99.52
+
+[[zipcodes]]
+zipcode = 28619
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28628
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28637
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28645
+percent_zip_in_county = 0.63
+
+[[zipcodes]]
+zipcode = 28655
+percent_zip_in_county = 99.92
+
+[[zipcodes]]
+zipcode = 28657
+percent_zip_in_county = 7.15
+
+[[zipcodes]]
+zipcode = 28666
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28667
+percent_zip_in_county = 40.79
+
+[[zipcodes]]
+zipcode = 28671
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28690
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28761
+percent_zip_in_county = 7.86

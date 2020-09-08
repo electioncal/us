@@ -1,2 +1,98 @@
 name = "Harford County"
 fips_code = 24025
+
+[[zipcodes]]
+zipcode = 21001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21005
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21009
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21013
+percent_zip_in_county = 31.96
+
+[[zipcodes]]
+zipcode = 21014
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21015
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21017
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21028
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21047
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21050
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21078
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21082
+percent_zip_in_county = 7.49
+
+[[zipcodes]]
+zipcode = 21084
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21085
+percent_zip_in_county = 99.86
+
+[[zipcodes]]
+zipcode = 21087
+percent_zip_in_county = 14.91
+
+[[zipcodes]]
+zipcode = 21111
+percent_zip_in_county = 19.09
+
+[[zipcodes]]
+zipcode = 21130
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21132
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21154
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21160
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21161
+percent_zip_in_county = 50.29

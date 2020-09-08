@@ -1,2 +1,66 @@
 name = "Delaware County"
 fips_code = 19055
+
+[[zipcodes]]
+zipcode = 50654
+percent_zip_in_county = 60.72
+
+[[zipcodes]]
+zipcode = 52035
+percent_zip_in_county = 58.91
+
+[[zipcodes]]
+zipcode = 52038
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52040
+percent_zip_in_county = 15.94
+
+[[zipcodes]]
+zipcode = 52041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52042
+percent_zip_in_county = 38.22
+
+[[zipcodes]]
+zipcode = 52050
+percent_zip_in_county = 94.56
+
+[[zipcodes]]
+zipcode = 52057
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52065
+percent_zip_in_county = 12.48
+
+[[zipcodes]]
+zipcode = 52076
+percent_zip_in_county = 5.62
+
+[[zipcodes]]
+zipcode = 52078
+percent_zip_in_county = 25.49
+
+[[zipcodes]]
+zipcode = 52218
+percent_zip_in_county = 8.22
+
+[[zipcodes]]
+zipcode = 52223
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52237
+percent_zip_in_county = 99.01
+
+[[zipcodes]]
+zipcode = 52310
+percent_zip_in_county = 0.08
+
+[[zipcodes]]
+zipcode = 52330
+percent_zip_in_county = 100.0

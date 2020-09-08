@@ -1,2 +1,10 @@
 name = "King County"
 fips_code = 48269
+
+[[zipcodes]]
+zipcode = 79236
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79248
+percent_zip_in_county = 1.61

@@ -1,2 +1,66 @@
 name = "Marion County"
 fips_code = 5089
+
+[[zipcodes]]
+zipcode = 65729
+percent_zip_in_county = 13.64
+
+[[zipcodes]]
+zipcode = 65733
+percent_zip_in_county = 29.44
+
+[[zipcodes]]
+zipcode = 65761
+percent_zip_in_county = 7.31
+
+[[zipcodes]]
+zipcode = 72601
+percent_zip_in_county = 0.58
+
+[[zipcodes]]
+zipcode = 72619
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72633
+percent_zip_in_county = 30.99
+
+[[zipcodes]]
+zipcode = 72634
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72644
+percent_zip_in_county = 4.94
+
+[[zipcodes]]
+zipcode = 72653
+percent_zip_in_county = 0.48
+
+[[zipcodes]]
+zipcode = 72661
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72668
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72672
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72675
+percent_zip_in_county = 11.37
+
+[[zipcodes]]
+zipcode = 72677
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72682
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72687
+percent_zip_in_county = 99.94

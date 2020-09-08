@@ -1,2 +1,10 @@
 name = "Rowan County"
 fips_code = 21205
+
+[[zipcodes]]
+zipcode = 40313
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40351
+percent_zip_in_county = 99.32

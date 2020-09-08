@@ -1,2 +1,54 @@
 name = "Atoka County"
 fips_code = 40005
+
+[[zipcodes]]
+zipcode = 73432
+percent_zip_in_county = 12.42
+
+[[zipcodes]]
+zipcode = 73461
+percent_zip_in_county = 8.93
+
+[[zipcodes]]
+zipcode = 74525
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74533
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74540
+percent_zip_in_county = 94.19
+
+[[zipcodes]]
+zipcode = 74553
+percent_zip_in_county = 8.16
+
+[[zipcodes]]
+zipcode = 74555
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74560
+percent_zip_in_county = 10.55
+
+[[zipcodes]]
+zipcode = 74569
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74576
+percent_zip_in_county = 86.19
+
+[[zipcodes]]
+zipcode = 74727
+percent_zip_in_county = 6.53
+
+[[zipcodes]]
+zipcode = 74729
+percent_zip_in_county = 25.57
+
+[[zipcodes]]
+zipcode = 74748
+percent_zip_in_county = 27.73

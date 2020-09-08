@@ -1,2 +1,22 @@
 name = "Boyle County"
 fips_code = 21021
+
+[[zipcodes]]
+zipcode = 40328
+percent_zip_in_county = 20.47
+
+[[zipcodes]]
+zipcode = 40422
+percent_zip_in_county = 96.73
+
+[[zipcodes]]
+zipcode = 40440
+percent_zip_in_county = 95.94
+
+[[zipcodes]]
+zipcode = 40464
+percent_zip_in_county = 90.75
+
+[[zipcodes]]
+zipcode = 40468
+percent_zip_in_county = 94.69

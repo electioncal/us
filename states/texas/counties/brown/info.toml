@@ -1,2 +1,42 @@
 name = "Brown County"
 fips_code = 48049
+
+[[zipcodes]]
+zipcode = 76432
+percent_zip_in_county = 91.9
+
+[[zipcodes]]
+zipcode = 76443
+percent_zip_in_county = 4.9
+
+[[zipcodes]]
+zipcode = 76471
+percent_zip_in_county = 11.86
+
+[[zipcodes]]
+zipcode = 76474
+percent_zip_in_county = 1.78
+
+[[zipcodes]]
+zipcode = 76801
+percent_zip_in_county = 99.75
+
+[[zipcodes]]
+zipcode = 76802
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76823
+percent_zip_in_county = 98.74
+
+[[zipcodes]]
+zipcode = 76827
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 76857
+percent_zip_in_county = 99.44
+
+[[zipcodes]]
+zipcode = 76890
+percent_zip_in_county = 89.15

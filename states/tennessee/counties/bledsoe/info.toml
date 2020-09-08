@@ -1,2 +1,38 @@
 name = "Bledsoe County"
 fips_code = 47007
+
+[[zipcodes]]
+zipcode = 37321
+percent_zip_in_county = 0.92
+
+[[zipcodes]]
+zipcode = 37327
+percent_zip_in_county = 7.77
+
+[[zipcodes]]
+zipcode = 37332
+percent_zip_in_county = 1.03
+
+[[zipcodes]]
+zipcode = 37337
+percent_zip_in_county = 1.09
+
+[[zipcodes]]
+zipcode = 37338
+percent_zip_in_county = 27.29
+
+[[zipcodes]]
+zipcode = 37367
+percent_zip_in_county = 94.21
+
+[[zipcodes]]
+zipcode = 37379
+percent_zip_in_county = 0.93
+
+[[zipcodes]]
+zipcode = 37381
+percent_zip_in_county = 10.34
+
+[[zipcodes]]
+zipcode = 38572
+percent_zip_in_county = 1.18

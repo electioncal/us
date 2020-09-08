@@ -1,2 +1,14 @@
 name = "Putnam County"
 fips_code = 13237
+
+[[zipcodes]]
+zipcode = 30625
+percent_zip_in_county = 19.69
+
+[[zipcodes]]
+zipcode = 31024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31061
+percent_zip_in_county = 1.6

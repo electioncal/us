@@ -1,2 +1,54 @@
 name = "Sharp County"
 fips_code = 5135
+
+[[zipcodes]]
+zipcode = 72459
+percent_zip_in_county = 17.53
+
+[[zipcodes]]
+zipcode = 72466
+percent_zip_in_county = 39.23
+
+[[zipcodes]]
+zipcode = 72469
+percent_zip_in_county = 11.65
+
+[[zipcodes]]
+zipcode = 72482
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72513
+percent_zip_in_county = 61.17
+
+[[zipcodes]]
+zipcode = 72521
+percent_zip_in_county = 73.54
+
+[[zipcodes]]
+zipcode = 72529
+percent_zip_in_county = 82.44
+
+[[zipcodes]]
+zipcode = 72532
+percent_zip_in_county = 89.14
+
+[[zipcodes]]
+zipcode = 72542
+percent_zip_in_county = 85.81
+
+[[zipcodes]]
+zipcode = 72554
+percent_zip_in_county = 8.72
+
+[[zipcodes]]
+zipcode = 72569
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72577
+percent_zip_in_county = 43.43
+
+[[zipcodes]]
+zipcode = 72579
+percent_zip_in_county = 4.58

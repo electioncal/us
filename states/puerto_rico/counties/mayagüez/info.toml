@@ -1,2 +1,10 @@
 name = "Mayagüez Municipio"
 fips_code = 72097
+
+[[zipcodes]]
+zipcode = 680
+percent_zip_in_county = 97.01
+
+[[zipcodes]]
+zipcode = 682
+percent_zip_in_county = 100.0

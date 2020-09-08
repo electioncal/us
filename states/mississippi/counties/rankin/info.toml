@@ -1,2 +1,54 @@
 name = "Rankin County"
 fips_code = 28121
+
+[[zipcodes]]
+zipcode = 39042
+percent_zip_in_county = 99.89
+
+[[zipcodes]]
+zipcode = 39044
+percent_zip_in_county = 31.97
+
+[[zipcodes]]
+zipcode = 39047
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39073
+percent_zip_in_county = 93.43
+
+[[zipcodes]]
+zipcode = 39094
+percent_zip_in_county = 17.14
+
+[[zipcodes]]
+zipcode = 39114
+percent_zip_in_county = 7.22
+
+[[zipcodes]]
+zipcode = 39117
+percent_zip_in_county = 3.96
+
+[[zipcodes]]
+zipcode = 39145
+percent_zip_in_county = 97.99
+
+[[zipcodes]]
+zipcode = 39167
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39193
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39208
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39218
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39232
+percent_zip_in_county = 100.0

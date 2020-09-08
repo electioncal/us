@@ -1,2 +1,102 @@
 name = "Washington County"
 fips_code = 36115
+
+[[zipcodes]]
+zipcode = 12028
+percent_zip_in_county = 32.25
+
+[[zipcodes]]
+zipcode = 12057
+percent_zip_in_county = 76.19
+
+[[zipcodes]]
+zipcode = 12094
+percent_zip_in_county = 4.14
+
+[[zipcodes]]
+zipcode = 12154
+percent_zip_in_county = 17.78
+
+[[zipcodes]]
+zipcode = 12185
+percent_zip_in_county = 12.37
+
+[[zipcodes]]
+zipcode = 12804
+percent_zip_in_county = 0.15
+
+[[zipcodes]]
+zipcode = 12809
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12816
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12819
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12821
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12823
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12827
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12828
+percent_zip_in_county = 60.94
+
+[[zipcodes]]
+zipcode = 12832
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12834
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12837
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12838
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12839
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12841
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12844
+percent_zip_in_county = 97.99
+
+[[zipcodes]]
+zipcode = 12849
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12861
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12865
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12873
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12887
+percent_zip_in_county = 100.0

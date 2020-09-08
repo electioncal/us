@@ -1,2 +1,34 @@
 name = "Skamania County"
 fips_code = 53059
+
+[[zipcodes]]
+zipcode = 98605
+percent_zip_in_county = 37.47
+
+[[zipcodes]]
+zipcode = 98610
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98616
+percent_zip_in_county = 25.33
+
+[[zipcodes]]
+zipcode = 98639
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98648
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98651
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98671
+percent_zip_in_county = 12.74
+
+[[zipcodes]]
+zipcode = 98672
+percent_zip_in_county = 1.77

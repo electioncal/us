@@ -1,2 +1,106 @@
 name = "Washtenaw County"
 fips_code = 26161
+
+[[zipcodes]]
+zipcode = 48103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48104
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48105
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48108
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48109
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48111
+percent_zip_in_county = 0.48
+
+[[zipcodes]]
+zipcode = 48118
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48130
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48137
+percent_zip_in_county = 28.75
+
+[[zipcodes]]
+zipcode = 48158
+percent_zip_in_county = 99.29
+
+[[zipcodes]]
+zipcode = 48160
+percent_zip_in_county = 65.61
+
+[[zipcodes]]
+zipcode = 48167
+percent_zip_in_county = 6.22
+
+[[zipcodes]]
+zipcode = 48168
+percent_zip_in_county = 6.42
+
+[[zipcodes]]
+zipcode = 48169
+percent_zip_in_county = 4.91
+
+[[zipcodes]]
+zipcode = 48170
+percent_zip_in_county = 4.85
+
+[[zipcodes]]
+zipcode = 48176
+percent_zip_in_county = 99.86
+
+[[zipcodes]]
+zipcode = 48178
+percent_zip_in_county = 7.32
+
+[[zipcodes]]
+zipcode = 48189
+percent_zip_in_county = 54.18
+
+[[zipcodes]]
+zipcode = 48190
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48191
+percent_zip_in_county = 95.56
+
+[[zipcodes]]
+zipcode = 48197
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 48198
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49236
+percent_zip_in_county = 13.31
+
+[[zipcodes]]
+zipcode = 49240
+percent_zip_in_county = 9.18
+
+[[zipcodes]]
+zipcode = 49285
+percent_zip_in_county = 1.56
+
+[[zipcodes]]
+zipcode = 49287
+percent_zip_in_county = 5.34

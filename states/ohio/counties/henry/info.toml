@@ -1,2 +1,70 @@
 name = "Henry County"
 fips_code = 39069
+
+[[zipcodes]]
+zipcode = 43502
+percent_zip_in_county = 8.8
+
+[[zipcodes]]
+zipcode = 43511
+percent_zip_in_county = 7.13
+
+[[zipcodes]]
+zipcode = 43512
+percent_zip_in_county = 0.13
+
+[[zipcodes]]
+zipcode = 43516
+percent_zip_in_county = 88.99
+
+[[zipcodes]]
+zipcode = 43522
+percent_zip_in_county = 1.05
+
+[[zipcodes]]
+zipcode = 43523
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43524
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43527
+percent_zip_in_county = 93.88
+
+[[zipcodes]]
+zipcode = 43532
+percent_zip_in_county = 95.19
+
+[[zipcodes]]
+zipcode = 43534
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43535
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43545
+percent_zip_in_county = 99.84
+
+[[zipcodes]]
+zipcode = 43548
+percent_zip_in_county = 91.71
+
+[[zipcodes]]
+zipcode = 43555
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43557
+percent_zip_in_county = 2.42
+
+[[zipcodes]]
+zipcode = 43567
+percent_zip_in_county = 0.2
+
+[[zipcodes]]
+zipcode = 45856
+percent_zip_in_county = 1.35

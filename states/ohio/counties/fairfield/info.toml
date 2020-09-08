@@ -1,2 +1,74 @@
 name = "Fairfield County"
 fips_code = 39045
+
+[[zipcodes]]
+zipcode = 43046
+percent_zip_in_county = 89.28
+
+[[zipcodes]]
+zipcode = 43062
+percent_zip_in_county = 0.65
+
+[[zipcodes]]
+zipcode = 43068
+percent_zip_in_county = 13.52
+
+[[zipcodes]]
+zipcode = 43076
+percent_zip_in_county = 20.88
+
+[[zipcodes]]
+zipcode = 43102
+percent_zip_in_county = 92.22
+
+[[zipcodes]]
+zipcode = 43105
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43107
+percent_zip_in_county = 95.31
+
+[[zipcodes]]
+zipcode = 43110
+percent_zip_in_county = 21.71
+
+[[zipcodes]]
+zipcode = 43112
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43113
+percent_zip_in_county = 0.41
+
+[[zipcodes]]
+zipcode = 43130
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43136
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43147
+percent_zip_in_county = 99.53
+
+[[zipcodes]]
+zipcode = 43148
+percent_zip_in_county = 95.41
+
+[[zipcodes]]
+zipcode = 43150
+percent_zip_in_county = 67.97
+
+[[zipcodes]]
+zipcode = 43154
+percent_zip_in_county = 72.79
+
+[[zipcodes]]
+zipcode = 43155
+percent_zip_in_county = 65.75
+
+[[zipcodes]]
+zipcode = 43157
+percent_zip_in_county = 100.0

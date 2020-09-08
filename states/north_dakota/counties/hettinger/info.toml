@@ -1,2 +1,22 @@
 name = "Hettinger County"
 fips_code = 38041
+
+[[zipcodes]]
+zipcode = 58562
+percent_zip_in_county = 14.7
+
+[[zipcodes]]
+zipcode = 58646
+percent_zip_in_county = 98.77
+
+[[zipcodes]]
+zipcode = 58647
+percent_zip_in_county = 78.81
+
+[[zipcodes]]
+zipcode = 58649
+percent_zip_in_county = 4.67
+
+[[zipcodes]]
+zipcode = 58650
+percent_zip_in_county = 95.93

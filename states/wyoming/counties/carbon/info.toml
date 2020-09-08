@@ -1,2 +1,58 @@
 name = "Carbon County"
 fips_code = 56007
+
+[[zipcodes]]
+zipcode = 82083
+percent_zip_in_county = 20.91
+
+[[zipcodes]]
+zipcode = 82301
+percent_zip_in_county = 99.74
+
+[[zipcodes]]
+zipcode = 82321
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82323
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82324
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82325
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82327
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82329
+percent_zip_in_county = 92.76
+
+[[zipcodes]]
+zipcode = 82331
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82332
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82334
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82335
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82604
+percent_zip_in_county = 0.06
+
+[[zipcodes]]
+zipcode = 82620
+percent_zip_in_county = 7.62

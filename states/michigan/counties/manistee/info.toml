@@ -1,2 +1,58 @@
 name = "Manistee County"
 fips_code = 26101
+
+[[zipcodes]]
+zipcode = 49613
+percent_zip_in_county = 80.0
+
+[[zipcodes]]
+zipcode = 49614
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49619
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49625
+percent_zip_in_county = 95.58
+
+[[zipcodes]]
+zipcode = 49626
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49634
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49638
+percent_zip_in_county = 8.5
+
+[[zipcodes]]
+zipcode = 49644
+percent_zip_in_county = 5.85
+
+[[zipcodes]]
+zipcode = 49645
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49660
+percent_zip_in_county = 95.92
+
+[[zipcodes]]
+zipcode = 49668
+percent_zip_in_county = 0.39
+
+[[zipcodes]]
+zipcode = 49675
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49683
+percent_zip_in_county = 34.19
+
+[[zipcodes]]
+zipcode = 49689
+percent_zip_in_county = 90.64

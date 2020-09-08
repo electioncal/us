@@ -1,2 +1,30 @@
 name = "Morrow County"
 fips_code = 41049
+
+[[zipcodes]]
+zipcode = 97818
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97826
+percent_zip_in_county = 2.95
+
+[[zipcodes]]
+zipcode = 97836
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97838
+percent_zip_in_county = 0.38
+
+[[zipcodes]]
+zipcode = 97839
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97843
+percent_zip_in_county = 95.98
+
+[[zipcodes]]
+zipcode = 97844
+percent_zip_in_county = 100.0

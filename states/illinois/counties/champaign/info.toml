@@ -1,2 +1,142 @@
 name = "Champaign County"
 fips_code = 17019
+
+[[zipcodes]]
+zipcode = 60936
+percent_zip_in_county = 0.28
+
+[[zipcodes]]
+zipcode = 60949
+percent_zip_in_county = 95.28
+
+[[zipcodes]]
+zipcode = 60957
+percent_zip_in_county = 1.8
+
+[[zipcodes]]
+zipcode = 60960
+percent_zip_in_county = 0.66
+
+[[zipcodes]]
+zipcode = 61801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61802
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61810
+percent_zip_in_county = 3.88
+
+[[zipcodes]]
+zipcode = 61815
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61816
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61820
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61821
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61822
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61840
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61843
+percent_zip_in_county = 98.35
+
+[[zipcodes]]
+zipcode = 61845
+percent_zip_in_county = 92.86
+
+[[zipcodes]]
+zipcode = 61847
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61849
+percent_zip_in_county = 90.99
+
+[[zipcodes]]
+zipcode = 61851
+percent_zip_in_county = 96.79
+
+[[zipcodes]]
+zipcode = 61852
+percent_zip_in_county = 93.87
+
+[[zipcodes]]
+zipcode = 61853
+percent_zip_in_county = 99.17
+
+[[zipcodes]]
+zipcode = 61859
+percent_zip_in_county = 97.76
+
+[[zipcodes]]
+zipcode = 61862
+percent_zip_in_county = 92.75
+
+[[zipcodes]]
+zipcode = 61863
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61864
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61866
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61871
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61872
+percent_zip_in_county = 97.24
+
+[[zipcodes]]
+zipcode = 61873
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61874
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61875
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61877
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61878
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61880
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61884
+percent_zip_in_county = 3.86
+
+[[zipcodes]]
+zipcode = 61956
+percent_zip_in_county = 1.58

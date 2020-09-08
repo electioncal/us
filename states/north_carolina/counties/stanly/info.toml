@@ -1,2 +1,50 @@
 name = "Stanly County"
 fips_code = 37167
+
+[[zipcodes]]
+zipcode = 28001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28009
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28071
+percent_zip_in_county = 5.78
+
+[[zipcodes]]
+zipcode = 28097
+percent_zip_in_county = 96.35
+
+[[zipcodes]]
+zipcode = 28107
+percent_zip_in_county = 1.14
+
+[[zipcodes]]
+zipcode = 28109
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28124
+percent_zip_in_county = 9.17
+
+[[zipcodes]]
+zipcode = 28127
+percent_zip_in_county = 76.46
+
+[[zipcodes]]
+zipcode = 28128
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28129
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28137
+percent_zip_in_county = 76.54
+
+[[zipcodes]]
+zipcode = 28163
+percent_zip_in_county = 100.0

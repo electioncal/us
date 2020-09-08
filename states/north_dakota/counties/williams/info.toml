@@ -1,2 +1,42 @@
 name = "Williams County"
 fips_code = 38105
+
+[[zipcodes]]
+zipcode = 58755
+percent_zip_in_county = 61.24
+
+[[zipcodes]]
+zipcode = 58795
+percent_zip_in_county = 78.28
+
+[[zipcodes]]
+zipcode = 58801
+percent_zip_in_county = 99.66
+
+[[zipcodes]]
+zipcode = 58830
+percent_zip_in_county = 71.36
+
+[[zipcodes]]
+zipcode = 58843
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58845
+percent_zip_in_county = 82.75
+
+[[zipcodes]]
+zipcode = 58849
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58852
+percent_zip_in_county = 95.6
+
+[[zipcodes]]
+zipcode = 58853
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58856
+percent_zip_in_county = 63.36

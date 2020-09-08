@@ -1,2 +1,74 @@
 name = "Clinton County"
 fips_code = 42035
+
+[[zipcodes]]
+zipcode = 16822
+percent_zip_in_county = 83.53
+
+[[zipcodes]]
+zipcode = 16841
+percent_zip_in_county = 0.88
+
+[[zipcodes]]
+zipcode = 16848
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 16871
+percent_zip_in_county = 45.65
+
+[[zipcodes]]
+zipcode = 16872
+percent_zip_in_county = 0.32
+
+[[zipcodes]]
+zipcode = 17721
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17729
+percent_zip_in_county = 53.46
+
+[[zipcodes]]
+zipcode = 17740
+percent_zip_in_county = 18.47
+
+[[zipcodes]]
+zipcode = 17745
+percent_zip_in_county = 99.42
+
+[[zipcodes]]
+zipcode = 17747
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17748
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17750
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17751
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17760
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17764
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17767
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17778
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17779
+percent_zip_in_county = 100.0

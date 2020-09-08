@@ -1,2 +1,46 @@
 name = "Surry County"
 fips_code = 37171
+
+[[zipcodes]]
+zipcode = 27007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27017
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27030
+percent_zip_in_county = 99.13
+
+[[zipcodes]]
+zipcode = 27041
+percent_zip_in_county = 83.2
+
+[[zipcodes]]
+zipcode = 27043
+percent_zip_in_county = 42.55
+
+[[zipcodes]]
+zipcode = 27047
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27053
+percent_zip_in_county = 8.25
+
+[[zipcodes]]
+zipcode = 28621
+percent_zip_in_county = 68.43
+
+[[zipcodes]]
+zipcode = 28676
+percent_zip_in_county = 72.04
+
+[[zipcodes]]
+zipcode = 28683
+percent_zip_in_county = 54.51

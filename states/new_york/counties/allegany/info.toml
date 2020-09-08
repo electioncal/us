@@ -1,2 +1,142 @@
 name = "Allegany County"
 fips_code = 36003
+
+[[zipcodes]]
+zipcode = 14024
+percent_zip_in_county = 3.02
+
+[[zipcodes]]
+zipcode = 14060
+percent_zip_in_county = 32.51
+
+[[zipcodes]]
+zipcode = 14065
+percent_zip_in_county = 22.26
+
+[[zipcodes]]
+zipcode = 14536
+percent_zip_in_county = 26.93
+
+[[zipcodes]]
+zipcode = 14707
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14708
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14709
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14711
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14714
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14715
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14717
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14721
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14727
+percent_zip_in_county = 79.61
+
+[[zipcodes]]
+zipcode = 14735
+percent_zip_in_county = 99.38
+
+[[zipcodes]]
+zipcode = 14739
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14744
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14754
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14770
+percent_zip_in_county = 27.0
+
+[[zipcodes]]
+zipcode = 14774
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14777
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14802
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14803
+percent_zip_in_county = 93.95
+
+[[zipcodes]]
+zipcode = 14804
+percent_zip_in_county = 99.73
+
+[[zipcodes]]
+zipcode = 14806
+percent_zip_in_county = 93.12
+
+[[zipcodes]]
+zipcode = 14807
+percent_zip_in_county = 18.5
+
+[[zipcodes]]
+zipcode = 14813
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14822
+percent_zip_in_county = 95.64
+
+[[zipcodes]]
+zipcode = 14836
+percent_zip_in_county = 20.71
+
+[[zipcodes]]
+zipcode = 14843
+percent_zip_in_county = 0.41
+
+[[zipcodes]]
+zipcode = 14846
+percent_zip_in_county = 18.56
+
+[[zipcodes]]
+zipcode = 14877
+percent_zip_in_county = 1.25
+
+[[zipcodes]]
+zipcode = 14880
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14884
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14895
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 14897
+percent_zip_in_county = 98.06

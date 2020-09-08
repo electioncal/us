@@ -1,2 +1,34 @@
 name = "Humphreys County"
 fips_code = 28053
+
+[[zipcodes]]
+zipcode = 38753
+percent_zip_in_county = 4.81
+
+[[zipcodes]]
+zipcode = 38754
+percent_zip_in_county = 94.52
+
+[[zipcodes]]
+zipcode = 38924
+percent_zip_in_county = 1.17
+
+[[zipcodes]]
+zipcode = 39038
+percent_zip_in_county = 97.08
+
+[[zipcodes]]
+zipcode = 39097
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39115
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39166
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39194
+percent_zip_in_county = 0.63

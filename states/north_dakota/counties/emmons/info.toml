@@ -1,2 +1,30 @@
 name = "Emmons County"
 fips_code = 38029
+
+[[zipcodes]]
+zipcode = 57648
+percent_zip_in_county = 4.48
+
+[[zipcodes]]
+zipcode = 58524
+percent_zip_in_county = 69.0
+
+[[zipcodes]]
+zipcode = 58542
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58544
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58549
+percent_zip_in_county = 56.07
+
+[[zipcodes]]
+zipcode = 58552
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58573
+percent_zip_in_county = 100.0

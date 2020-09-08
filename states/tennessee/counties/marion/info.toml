@@ -1,2 +1,42 @@
 name = "Marion County"
 fips_code = 47115
+
+[[zipcodes]]
+zipcode = 37340
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37347
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37356
+percent_zip_in_county = 36.77
+
+[[zipcodes]]
+zipcode = 37374
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37375
+percent_zip_in_county = 9.19
+
+[[zipcodes]]
+zipcode = 37380
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37396
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37397
+percent_zip_in_county = 87.0
+
+[[zipcodes]]
+zipcode = 37405
+percent_zip_in_county = 6.6
+
+[[zipcodes]]
+zipcode = 37419
+percent_zip_in_county = 7.38

@@ -1,2 +1,74 @@
 name = "White County"
 fips_code = 5145
+
+[[zipcodes]]
+zipcode = 72010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72012
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72020
+percent_zip_in_county = 46.22
+
+[[zipcodes]]
+zipcode = 72045
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72060
+percent_zip_in_county = 75.83
+
+[[zipcodes]]
+zipcode = 72068
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72081
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72082
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72085
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72102
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72111
+percent_zip_in_county = 35.83
+
+[[zipcodes]]
+zipcode = 72121
+percent_zip_in_county = 79.25
+
+[[zipcodes]]
+zipcode = 72136
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72137
+percent_zip_in_county = 71.43
+
+[[zipcodes]]
+zipcode = 72139
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72143
+percent_zip_in_county = 99.92
+
+[[zipcodes]]
+zipcode = 72149
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 72173
+percent_zip_in_county = 0.41

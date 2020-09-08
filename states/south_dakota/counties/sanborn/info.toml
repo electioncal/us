@@ -1,2 +1,18 @@
 name = "Sanborn County"
 fips_code = 46111
+
+[[zipcodes]]
+zipcode = 57314
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57359
+percent_zip_in_county = 79.35
+
+[[zipcodes]]
+zipcode = 57363
+percent_zip_in_county = 2.19
+
+[[zipcodes]]
+zipcode = 57385
+percent_zip_in_county = 88.78

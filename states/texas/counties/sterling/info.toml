@@ -1,2 +1,10 @@
 name = "Sterling County"
 fips_code = 48431
+
+[[zipcodes]]
+zipcode = 76945
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 76951
+percent_zip_in_county = 100.0

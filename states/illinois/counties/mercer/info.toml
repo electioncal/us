@@ -1,2 +1,62 @@
 name = "Mercer County"
 fips_code = 17131
+
+[[zipcodes]]
+zipcode = 61231
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61260
+percent_zip_in_county = 97.2
+
+[[zipcodes]]
+zipcode = 61262
+percent_zip_in_county = 12.21
+
+[[zipcodes]]
+zipcode = 61263
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61264
+percent_zip_in_county = 1.06
+
+[[zipcodes]]
+zipcode = 61272
+percent_zip_in_county = 99.73
+
+[[zipcodes]]
+zipcode = 61276
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61279
+percent_zip_in_county = 28.37
+
+[[zipcodes]]
+zipcode = 61281
+percent_zip_in_county = 97.61
+
+[[zipcodes]]
+zipcode = 61412
+percent_zip_in_county = 45.04
+
+[[zipcodes]]
+zipcode = 61442
+percent_zip_in_county = 92.26
+
+[[zipcodes]]
+zipcode = 61465
+percent_zip_in_county = 94.72
+
+[[zipcodes]]
+zipcode = 61466
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61476
+percent_zip_in_county = 91.65
+
+[[zipcodes]]
+zipcode = 61486
+percent_zip_in_county = 100.0

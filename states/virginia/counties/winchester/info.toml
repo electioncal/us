@@ -1,2 +1,6 @@
 name = "Winchester city"
 fips_code = 51840
+
+[[zipcodes]]
+zipcode = 22601
+percent_zip_in_county = 94.21

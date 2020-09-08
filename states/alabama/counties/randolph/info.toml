@@ -1,2 +1,34 @@
 name = "Randolph County"
 fips_code = 1111
+
+[[zipcodes]]
+zipcode = 36258
+percent_zip_in_county = 12.38
+
+[[zipcodes]]
+zipcode = 36263
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36264
+percent_zip_in_county = 4.94
+
+[[zipcodes]]
+zipcode = 36266
+percent_zip_in_county = 13.6
+
+[[zipcodes]]
+zipcode = 36274
+percent_zip_in_county = 94.64
+
+[[zipcodes]]
+zipcode = 36276
+percent_zip_in_county = 76.12
+
+[[zipcodes]]
+zipcode = 36278
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36280
+percent_zip_in_county = 100.0

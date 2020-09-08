@@ -1,2 +1,70 @@
 name = "Wilson County"
 fips_code = 37195
+
+[[zipcodes]]
+zipcode = 27542
+percent_zip_in_county = 22.15
+
+[[zipcodes]]
+zipcode = 27557
+percent_zip_in_county = 1.08
+
+[[zipcodes]]
+zipcode = 27803
+percent_zip_in_county = 2.12
+
+[[zipcodes]]
+zipcode = 27807
+percent_zip_in_county = 5.7
+
+[[zipcodes]]
+zipcode = 27813
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27822
+percent_zip_in_county = 74.2
+
+[[zipcodes]]
+zipcode = 27829
+percent_zip_in_county = 11.5
+
+[[zipcodes]]
+zipcode = 27830
+percent_zip_in_county = 6.04
+
+[[zipcodes]]
+zipcode = 27851
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27852
+percent_zip_in_county = 10.28
+
+[[zipcodes]]
+zipcode = 27873
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27878
+percent_zip_in_county = 29.16
+
+[[zipcodes]]
+zipcode = 27880
+percent_zip_in_county = 95.34
+
+[[zipcodes]]
+zipcode = 27883
+percent_zip_in_county = 56.8
+
+[[zipcodes]]
+zipcode = 27888
+percent_zip_in_county = 1.76
+
+[[zipcodes]]
+zipcode = 27893
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27896
+percent_zip_in_county = 97.0

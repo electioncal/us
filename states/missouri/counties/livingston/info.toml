@@ -1,2 +1,50 @@
 name = "Livingston County"
 fips_code = 29117
+
+[[zipcodes]]
+zipcode = 64601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64624
+percent_zip_in_county = 2.29
+
+[[zipcodes]]
+zipcode = 64625
+percent_zip_in_county = 4.35
+
+[[zipcodes]]
+zipcode = 64635
+percent_zip_in_county = 92.82
+
+[[zipcodes]]
+zipcode = 64638
+percent_zip_in_county = 77.93
+
+[[zipcodes]]
+zipcode = 64643
+percent_zip_in_county = 29.38
+
+[[zipcodes]]
+zipcode = 64648
+percent_zip_in_county = 3.62
+
+[[zipcodes]]
+zipcode = 64656
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64664
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64683
+percent_zip_in_county = 1.09
+
+[[zipcodes]]
+zipcode = 64686
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64688
+percent_zip_in_county = 84.85

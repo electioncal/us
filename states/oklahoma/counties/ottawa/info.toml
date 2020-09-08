@@ -1,2 +1,42 @@
 name = "Ottawa County"
 fips_code = 40115
+
+[[zipcodes]]
+zipcode = 74331
+percent_zip_in_county = 21.15
+
+[[zipcodes]]
+zipcode = 74333
+percent_zip_in_county = 6.06
+
+[[zipcodes]]
+zipcode = 74339
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74343
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74344
+percent_zip_in_county = 0.35
+
+[[zipcodes]]
+zipcode = 74354
+percent_zip_in_county = 99.44
+
+[[zipcodes]]
+zipcode = 74358
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74360
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74363
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74370
+percent_zip_in_county = 92.28

@@ -1,2 +1,10 @@
 name = "Deuel County"
 fips_code = 31049
+
+[[zipcodes]]
+zipcode = 69122
+percent_zip_in_county = 92.57
+
+[[zipcodes]]
+zipcode = 69129
+percent_zip_in_county = 100.0

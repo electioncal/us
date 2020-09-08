@@ -1,2 +1,38 @@
 name = "Tooele County"
 fips_code = 49045
+
+[[zipcodes]]
+zipcode = 84022
+percent_zip_in_county = 99.78
+
+[[zipcodes]]
+zipcode = 84029
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84034
+percent_zip_in_county = 49.76
+
+[[zipcodes]]
+zipcode = 84069
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84071
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84074
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84080
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 84083
+percent_zip_in_county = 92.35
+
+[[zipcodes]]
+zipcode = 84628
+percent_zip_in_county = 4.02

@@ -1,2 +1,42 @@
 name = "Edmunds County"
 fips_code = 46045
+
+[[zipcodes]]
+zipcode = 57428
+percent_zip_in_county = 90.99
+
+[[zipcodes]]
+zipcode = 57435
+percent_zip_in_county = 14.57
+
+[[zipcodes]]
+zipcode = 57448
+percent_zip_in_county = 80.46
+
+[[zipcodes]]
+zipcode = 57451
+percent_zip_in_county = 96.6
+
+[[zipcodes]]
+zipcode = 57456
+percent_zip_in_county = 10.21
+
+[[zipcodes]]
+zipcode = 57460
+percent_zip_in_county = 6.85
+
+[[zipcodes]]
+zipcode = 57466
+percent_zip_in_county = 22.58
+
+[[zipcodes]]
+zipcode = 57471
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57475
+percent_zip_in_county = 36.25
+
+[[zipcodes]]
+zipcode = 57481
+percent_zip_in_county = 3.51

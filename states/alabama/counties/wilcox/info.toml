@@ -1,2 +1,62 @@
 name = "Wilcox County"
 fips_code = 1131
+
+[[zipcodes]]
+zipcode = 36435
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36481
+percent_zip_in_county = 10.62
+
+[[zipcodes]]
+zipcode = 36720
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36722
+percent_zip_in_county = 95.13
+
+[[zipcodes]]
+zipcode = 36723
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36726
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36728
+percent_zip_in_county = 59.65
+
+[[zipcodes]]
+zipcode = 36751
+percent_zip_in_county = 44.34
+
+[[zipcodes]]
+zipcode = 36753
+percent_zip_in_county = 25.88
+
+[[zipcodes]]
+zipcode = 36761
+percent_zip_in_county = 3.27
+
+[[zipcodes]]
+zipcode = 36766
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36768
+percent_zip_in_county = 94.16
+
+[[zipcodes]]
+zipcode = 36769
+percent_zip_in_county = 90.25
+
+[[zipcodes]]
+zipcode = 36783
+percent_zip_in_county = 0.85
+
+[[zipcodes]]
+zipcode = 36784
+percent_zip_in_county = 2.73

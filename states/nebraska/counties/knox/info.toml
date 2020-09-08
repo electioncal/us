@@ -1,2 +1,38 @@
 name = "Knox County"
 fips_code = 31107
+
+[[zipcodes]]
+zipcode = 68718
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68724
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68729
+percent_zip_in_county = 92.49
+
+[[zipcodes]]
+zipcode = 68730
+percent_zip_in_county = 76.02
+
+[[zipcodes]]
+zipcode = 68760
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68764
+percent_zip_in_county = 15.27
+
+[[zipcodes]]
+zipcode = 68783
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68786
+percent_zip_in_county = 95.18
+
+[[zipcodes]]
+zipcode = 68789
+percent_zip_in_county = 100.0

@@ -1,2 +1,50 @@
 name = "Bonneville County"
 fips_code = 16019
+
+[[zipcodes]]
+zipcode = 83236
+percent_zip_in_county = 0.97
+
+[[zipcodes]]
+zipcode = 83274
+percent_zip_in_county = 0.09
+
+[[zipcodes]]
+zipcode = 83285
+percent_zip_in_county = 71.76
+
+[[zipcodes]]
+zipcode = 83401
+percent_zip_in_county = 99.97
+
+[[zipcodes]]
+zipcode = 83402
+percent_zip_in_county = 98.05
+
+[[zipcodes]]
+zipcode = 83404
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83406
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83427
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83428
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83443
+percent_zip_in_county = 47.06
+
+[[zipcodes]]
+zipcode = 83449
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 83454
+percent_zip_in_county = 100.0

@@ -1,2 +1,50 @@
 name = "Mifflin County"
 fips_code = 42087
+
+[[zipcodes]]
+zipcode = 17002
+percent_zip_in_county = 79.72
+
+[[zipcodes]]
+zipcode = 17004
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17009
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17029
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17044
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17063
+percent_zip_in_county = 99.49
+
+[[zipcodes]]
+zipcode = 17066
+percent_zip_in_county = 23.78
+
+[[zipcodes]]
+zipcode = 17075
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17084
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17099
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 17841
+percent_zip_in_county = 54.59

@@ -1,2 +1,42 @@
 name = "Yuma County"
 fips_code = 4027
+
+[[zipcodes]]
+zipcode = 85333
+percent_zip_in_county = 90.25
+
+[[zipcodes]]
+zipcode = 85336
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85347
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85349
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85350
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85352
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85356
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85364
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85365
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 85367
+percent_zip_in_county = 100.0

@@ -1,2 +1,66 @@
 name = "Cecil County"
 fips_code = 24015
+
+[[zipcodes]]
+zipcode = 21901
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21902
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21903
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21904
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21911
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21912
+percent_zip_in_county = 99.27
+
+[[zipcodes]]
+zipcode = 21913
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21914
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21915
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21916
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21917
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21918
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21919
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21920
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21921
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 21930
+percent_zip_in_county = 100.0

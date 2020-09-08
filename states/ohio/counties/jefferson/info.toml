@@ -1,2 +1,98 @@
 name = "Jefferson County"
 fips_code = 39081
+
+[[zipcodes]]
+zipcode = 43901
+percent_zip_in_county = 74.54
+
+[[zipcodes]]
+zipcode = 43903
+percent_zip_in_county = 53.85
+
+[[zipcodes]]
+zipcode = 43907
+percent_zip_in_county = 1.83
+
+[[zipcodes]]
+zipcode = 43908
+percent_zip_in_county = 97.01
+
+[[zipcodes]]
+zipcode = 43910
+percent_zip_in_county = 95.54
+
+[[zipcodes]]
+zipcode = 43913
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43917
+percent_zip_in_county = 84.12
+
+[[zipcodes]]
+zipcode = 43925
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43926
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43930
+percent_zip_in_county = 81.52
+
+[[zipcodes]]
+zipcode = 43932
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43938
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43939
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43943
+percent_zip_in_county = 98.91
+
+[[zipcodes]]
+zipcode = 43944
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43945
+percent_zip_in_county = 3.89
+
+[[zipcodes]]
+zipcode = 43948
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43952
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43953
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43961
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43963
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43964
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43970
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 43971
+percent_zip_in_county = 59.65

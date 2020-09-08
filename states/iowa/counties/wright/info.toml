@@ -1,2 +1,58 @@
 name = "Wright County"
 fips_code = 19197
+
+[[zipcodes]]
+zipcode = 50034
+percent_zip_in_county = 12.24
+
+[[zipcodes]]
+zipcode = 50071
+percent_zip_in_county = 70.41
+
+[[zipcodes]]
+zipcode = 50101
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50271
+percent_zip_in_county = 1.59
+
+[[zipcodes]]
+zipcode = 50420
+percent_zip_in_county = 10.08
+
+[[zipcodes]]
+zipcode = 50421
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50447
+percent_zip_in_county = 14.52
+
+[[zipcodes]]
+zipcode = 50457
+percent_zip_in_county = 3.63
+
+[[zipcodes]]
+zipcode = 50470
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50525
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50533
+percent_zip_in_county = 97.72
+
+[[zipcodes]]
+zipcode = 50542
+percent_zip_in_county = 87.35
+
+[[zipcodes]]
+zipcode = 50577
+percent_zip_in_county = 20.0
+
+[[zipcodes]]
+zipcode = 50599
+percent_zip_in_county = 92.11

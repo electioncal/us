@@ -1,2 +1,94 @@
 name = "Lewis County"
 fips_code = 53041
+
+[[zipcodes]]
+zipcode = 98304
+percent_zip_in_county = 24.37
+
+[[zipcodes]]
+zipcode = 98336
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98355
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98356
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98361
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98377
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98531
+percent_zip_in_county = 91.79
+
+[[zipcodes]]
+zipcode = 98532
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98533
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98538
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98542
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98544
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98564
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98565
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98568
+percent_zip_in_county = 1.83
+
+[[zipcodes]]
+zipcode = 98570
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98572
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98579
+percent_zip_in_county = 3.11
+
+[[zipcodes]]
+zipcode = 98582
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98585
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98591
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98593
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98596
+percent_zip_in_county = 100.0

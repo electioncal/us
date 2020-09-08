@@ -1,2 +1,70 @@
 name = "Santa Fe County"
 fips_code = 35049
+
+[[zipcodes]]
+zipcode = 87010
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87015
+percent_zip_in_county = 67.66
+
+[[zipcodes]]
+zipcode = 87035
+percent_zip_in_county = 1.4
+
+[[zipcodes]]
+zipcode = 87047
+percent_zip_in_county = 4.39
+
+[[zipcodes]]
+zipcode = 87056
+percent_zip_in_county = 98.53
+
+[[zipcodes]]
+zipcode = 87501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87505
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87506
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87507
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87508
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87522
+percent_zip_in_county = 24.7
+
+[[zipcodes]]
+zipcode = 87532
+percent_zip_in_county = 30.31
+
+[[zipcodes]]
+zipcode = 87535
+percent_zip_in_county = 77.64
+
+[[zipcodes]]
+zipcode = 87540
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87567
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 87573
+percent_zip_in_county = 11.11
+
+[[zipcodes]]
+zipcode = 87574
+percent_zip_in_county = 100.0

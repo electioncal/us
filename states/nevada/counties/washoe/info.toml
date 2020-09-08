@@ -1,2 +1,106 @@
 name = "Washoe County"
 fips_code = 32031
+
+[[zipcodes]]
+zipcode = 89402
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89405
+percent_zip_in_county = 99.58
+
+[[zipcodes]]
+zipcode = 89412
+percent_zip_in_county = 97.22
+
+[[zipcodes]]
+zipcode = 89424
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89431
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89433
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89434
+percent_zip_in_county = 95.62
+
+[[zipcodes]]
+zipcode = 89436
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89439
+percent_zip_in_county = 94.35
+
+[[zipcodes]]
+zipcode = 89441
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89442
+percent_zip_in_county = 99.11
+
+[[zipcodes]]
+zipcode = 89450
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89451
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89502
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89503
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89506
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89508
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89509
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89510
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89511
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89512
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89519
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89521
+percent_zip_in_county = 95.1
+
+[[zipcodes]]
+zipcode = 89523
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89704
+percent_zip_in_county = 100.0

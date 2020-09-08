@@ -1,2 +1,42 @@
 name = "Coffee County"
 fips_code = 13069
+
+[[zipcodes]]
+zipcode = 31512
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31519
+percent_zip_in_county = 97.42
+
+[[zipcodes]]
+zipcode = 31533
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31535
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31552
+percent_zip_in_county = 0.75
+
+[[zipcodes]]
+zipcode = 31554
+percent_zip_in_county = 78.8
+
+[[zipcodes]]
+zipcode = 31567
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31624
+percent_zip_in_county = 4.71
+
+[[zipcodes]]
+zipcode = 31650
+percent_zip_in_county = 32.32
+
+[[zipcodes]]
+zipcode = 31798
+percent_zip_in_county = 38.45

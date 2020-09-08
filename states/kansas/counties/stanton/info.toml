@@ -1,2 +1,14 @@
 name = "Stanton County"
 fips_code = 20187
+
+[[zipcodes]]
+zipcode = 67855
+percent_zip_in_county = 98.48
+
+[[zipcodes]]
+zipcode = 67862
+percent_zip_in_county = 94.37
+
+[[zipcodes]]
+zipcode = 67878
+percent_zip_in_county = 0.16

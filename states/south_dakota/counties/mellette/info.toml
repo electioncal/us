@@ -1,2 +1,26 @@
 name = "Mellette County"
 fips_code = 46095
+
+[[zipcodes]]
+zipcode = 57521
+percent_zip_in_county = 17.37
+
+[[zipcodes]]
+zipcode = 57560
+percent_zip_in_county = 97.02
+
+[[zipcodes]]
+zipcode = 57566
+percent_zip_in_county = 2.45
+
+[[zipcodes]]
+zipcode = 57579
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57580
+percent_zip_in_county = 0.31
+
+[[zipcodes]]
+zipcode = 57585
+percent_zip_in_county = 100.0

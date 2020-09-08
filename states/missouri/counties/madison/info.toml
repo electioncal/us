@@ -1,2 +1,26 @@
 name = "Madison County"
 fips_code = 29123
+
+[[zipcodes]]
+zipcode = 63620
+percent_zip_in_county = 8.46
+
+[[zipcodes]]
+zipcode = 63621
+percent_zip_in_county = 2.93
+
+[[zipcodes]]
+zipcode = 63636
+percent_zip_in_county = 6.58
+
+[[zipcodes]]
+zipcode = 63645
+percent_zip_in_county = 96.31
+
+[[zipcodes]]
+zipcode = 63650
+percent_zip_in_county = 0.89
+
+[[zipcodes]]
+zipcode = 63655
+percent_zip_in_county = 64.02

@@ -1,2 +1,50 @@
 name = "Lamoille County"
 fips_code = 50015
+
+[[zipcodes]]
+zipcode = 5442
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5444
+percent_zip_in_county = 46.62
+
+[[zipcodes]]
+zipcode = 5464
+percent_zip_in_county = 93.02
+
+[[zipcodes]]
+zipcode = 5492
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5652
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5653
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5655
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5656
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5657
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5661
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5672
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5680
+percent_zip_in_county = 100.0

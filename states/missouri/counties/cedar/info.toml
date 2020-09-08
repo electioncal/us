@@ -1,2 +1,38 @@
 name = "Cedar County"
 fips_code = 29039
+
+[[zipcodes]]
+zipcode = 64744
+percent_zip_in_county = 84.85
+
+[[zipcodes]]
+zipcode = 64756
+percent_zip_in_county = 84.77
+
+[[zipcodes]]
+zipcode = 64784
+percent_zip_in_county = 0.53
+
+[[zipcodes]]
+zipcode = 65601
+percent_zip_in_county = 2.09
+
+[[zipcodes]]
+zipcode = 65635
+percent_zip_in_county = 11.09
+
+[[zipcodes]]
+zipcode = 65640
+percent_zip_in_county = 13.3
+
+[[zipcodes]]
+zipcode = 65649
+percent_zip_in_county = 28.69
+
+[[zipcodes]]
+zipcode = 65674
+percent_zip_in_county = 30.26
+
+[[zipcodes]]
+zipcode = 65785
+percent_zip_in_county = 97.72

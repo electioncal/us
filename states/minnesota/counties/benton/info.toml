@@ -1,2 +1,38 @@
 name = "Benton County"
 fips_code = 27009
+
+[[zipcodes]]
+zipcode = 55371
+percent_zip_in_county = 0.68
+
+[[zipcodes]]
+zipcode = 56304
+percent_zip_in_county = 42.04
+
+[[zipcodes]]
+zipcode = 56329
+percent_zip_in_county = 94.38
+
+[[zipcodes]]
+zipcode = 56330
+percent_zip_in_county = 15.97
+
+[[zipcodes]]
+zipcode = 56357
+percent_zip_in_county = 69.0
+
+[[zipcodes]]
+zipcode = 56367
+percent_zip_in_county = 79.53
+
+[[zipcodes]]
+zipcode = 56373
+percent_zip_in_county = 9.41
+
+[[zipcodes]]
+zipcode = 56377
+percent_zip_in_county = 12.69
+
+[[zipcodes]]
+zipcode = 56379
+percent_zip_in_county = 100.0

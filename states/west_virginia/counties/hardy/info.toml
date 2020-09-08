@@ -1,2 +1,38 @@
 name = "Hardy County"
 fips_code = 54031
+
+[[zipcodes]]
+zipcode = 26755
+percent_zip_in_county = 46.1
+
+[[zipcodes]]
+zipcode = 26801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26810
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26812
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26818
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26836
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26845
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 26851
+percent_zip_in_county = 94.86
+
+[[zipcodes]]
+zipcode = 26852
+percent_zip_in_county = 27.16

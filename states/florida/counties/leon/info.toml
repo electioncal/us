@@ -1,2 +1,50 @@
 name = "Leon County"
 fips_code = 12073
+
+[[zipcodes]]
+zipcode = 32301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32303
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32304
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32305
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32308
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32309
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32310
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32311
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32312
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32317
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32327
+percent_zip_in_county = 0.04
+
+[[zipcodes]]
+zipcode = 32399
+percent_zip_in_county = 100.0

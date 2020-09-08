@@ -1,2 +1,50 @@
 name = "Montrose County"
 fips_code = 8085
+
+[[zipcodes]]
+zipcode = 81220
+percent_zip_in_county = 31.21
+
+[[zipcodes]]
+zipcode = 81401
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81403
+percent_zip_in_county = 93.96
+
+[[zipcodes]]
+zipcode = 81411
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81415
+percent_zip_in_county = 13.83
+
+[[zipcodes]]
+zipcode = 81416
+percent_zip_in_county = 3.65
+
+[[zipcodes]]
+zipcode = 81422
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81423
+percent_zip_in_county = 9.12
+
+[[zipcodes]]
+zipcode = 81424
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81425
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81429
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81431
+percent_zip_in_county = 95.87

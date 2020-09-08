@@ -1,2 +1,30 @@
 name = "Pierce County"
 fips_code = 31139
+
+[[zipcodes]]
+zipcode = 68701
+percent_zip_in_county = 2.02
+
+[[zipcodes]]
+zipcode = 68747
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68752
+percent_zip_in_county = 6.08
+
+[[zipcodes]]
+zipcode = 68765
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68767
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68769
+percent_zip_in_county = 89.81
+
+[[zipcodes]]
+zipcode = 68771
+percent_zip_in_county = 15.09

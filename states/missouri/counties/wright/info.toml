@@ -1,2 +1,46 @@
 name = "Wright County"
 fips_code = 29229
+
+[[zipcodes]]
+zipcode = 65470
+percent_zip_in_county = 9.75
+
+[[zipcodes]]
+zipcode = 65543
+percent_zip_in_county = 39.21
+
+[[zipcodes]]
+zipcode = 65660
+percent_zip_in_county = 87.36
+
+[[zipcodes]]
+zipcode = 65662
+percent_zip_in_county = 78.88
+
+[[zipcodes]]
+zipcode = 65667
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 65702
+percent_zip_in_county = 75.48
+
+[[zipcodes]]
+zipcode = 65704
+percent_zip_in_county = 89.03
+
+[[zipcodes]]
+zipcode = 65711
+percent_zip_in_county = 77.43
+
+[[zipcodes]]
+zipcode = 65713
+percent_zip_in_county = 9.42
+
+[[zipcodes]]
+zipcode = 65717
+percent_zip_in_county = 75.51
+
+[[zipcodes]]
+zipcode = 65746
+percent_zip_in_county = 3.43

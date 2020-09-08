@@ -1,2 +1,154 @@
 name = "Wake County"
 fips_code = 37183
+
+[[zipcodes]]
+zipcode = 27501
+percent_zip_in_county = 1.4
+
+[[zipcodes]]
+zipcode = 27502
+percent_zip_in_county = 99.72
+
+[[zipcodes]]
+zipcode = 27511
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27513
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27518
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27519
+percent_zip_in_county = 96.34
+
+[[zipcodes]]
+zipcode = 27520
+percent_zip_in_county = 2.66
+
+[[zipcodes]]
+zipcode = 27522
+percent_zip_in_county = 3.01
+
+[[zipcodes]]
+zipcode = 27523
+percent_zip_in_county = 77.32
+
+[[zipcodes]]
+zipcode = 27526
+percent_zip_in_county = 79.62
+
+[[zipcodes]]
+zipcode = 27529
+percent_zip_in_county = 74.82
+
+[[zipcodes]]
+zipcode = 27539
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27540
+percent_zip_in_county = 96.42
+
+[[zipcodes]]
+zipcode = 27545
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27560
+percent_zip_in_county = 88.14
+
+[[zipcodes]]
+zipcode = 27562
+percent_zip_in_county = 43.81
+
+[[zipcodes]]
+zipcode = 27571
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27587
+percent_zip_in_county = 93.05
+
+[[zipcodes]]
+zipcode = 27591
+percent_zip_in_county = 80.33
+
+[[zipcodes]]
+zipcode = 27592
+percent_zip_in_county = 57.98
+
+[[zipcodes]]
+zipcode = 27596
+percent_zip_in_county = 4.33
+
+[[zipcodes]]
+zipcode = 27597
+percent_zip_in_county = 55.31
+
+[[zipcodes]]
+zipcode = 27601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27603
+percent_zip_in_county = 96.87
+
+[[zipcodes]]
+zipcode = 27604
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27605
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27606
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27607
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27608
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27609
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27610
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27612
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27613
+percent_zip_in_county = 97.89
+
+[[zipcodes]]
+zipcode = 27614
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27615
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27616
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27617
+percent_zip_in_county = 99.25
+
+[[zipcodes]]
+zipcode = 27703
+percent_zip_in_county = 0.0

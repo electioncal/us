@@ -1,2 +1,46 @@
 name = "Benton County"
 fips_code = 28009
+
+[[zipcodes]]
+zipcode = 38603
+percent_zip_in_county = 98.13
+
+[[zipcodes]]
+zipcode = 38610
+percent_zip_in_county = 3.56
+
+[[zipcodes]]
+zipcode = 38629
+percent_zip_in_county = 12.68
+
+[[zipcodes]]
+zipcode = 38633
+percent_zip_in_county = 80.97
+
+[[zipcodes]]
+zipcode = 38635
+percent_zip_in_county = 3.31
+
+[[zipcodes]]
+zipcode = 38642
+percent_zip_in_county = 55.45
+
+[[zipcodes]]
+zipcode = 38647
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38650
+percent_zip_in_county = 0.75
+
+[[zipcodes]]
+zipcode = 38659
+percent_zip_in_county = 9.4
+
+[[zipcodes]]
+zipcode = 38663
+percent_zip_in_county = 0.41
+
+[[zipcodes]]
+zipcode = 38683
+percent_zip_in_county = 2.47

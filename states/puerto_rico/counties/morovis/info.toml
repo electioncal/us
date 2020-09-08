@@ -1,2 +1,6 @@
 name = "Morovis Municipio"
 fips_code = 72101
+
+[[zipcodes]]
+zipcode = 687
+percent_zip_in_county = 100.0

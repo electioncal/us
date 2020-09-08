@@ -1,2 +1,62 @@
 name = "Carroll County"
 fips_code = 18015
+
+[[zipcodes]]
+zipcode = 46041
+percent_zip_in_county = 0.68
+
+[[zipcodes]]
+zipcode = 46065
+percent_zip_in_county = 23.33
+
+[[zipcodes]]
+zipcode = 46913
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46915
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46917
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46920
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46923
+percent_zip_in_county = 99.11
+
+[[zipcodes]]
+zipcode = 46929
+percent_zip_in_county = 93.9
+
+[[zipcodes]]
+zipcode = 46947
+percent_zip_in_county = 0.59
+
+[[zipcodes]]
+zipcode = 47920
+percent_zip_in_county = 3.44
+
+[[zipcodes]]
+zipcode = 47923
+percent_zip_in_county = 10.73
+
+[[zipcodes]]
+zipcode = 47926
+percent_zip_in_county = 28.99
+
+[[zipcodes]]
+zipcode = 47950
+percent_zip_in_county = 7.35
+
+[[zipcodes]]
+zipcode = 47960
+percent_zip_in_county = 13.89
+
+[[zipcodes]]
+zipcode = 47997
+percent_zip_in_county = 100.0

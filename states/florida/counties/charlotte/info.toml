@@ -1,2 +1,66 @@
 name = "Charlotte County"
 fips_code = 12015
+
+[[zipcodes]]
+zipcode = 33917
+percent_zip_in_county = 0.46
+
+[[zipcodes]]
+zipcode = 33921
+percent_zip_in_county = 23.02
+
+[[zipcodes]]
+zipcode = 33946
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33947
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33948
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33950
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33952
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33953
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33954
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33955
+percent_zip_in_county = 81.84
+
+[[zipcodes]]
+zipcode = 33980
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33981
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33982
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 33983
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34223
+percent_zip_in_county = 16.15
+
+[[zipcodes]]
+zipcode = 34224
+percent_zip_in_county = 99.7

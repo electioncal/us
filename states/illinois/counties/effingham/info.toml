@@ -1,2 +1,54 @@
 name = "Effingham County"
 fips_code = 17049
+
+[[zipcodes]]
+zipcode = 62401
+percent_zip_in_county = 99.6
+
+[[zipcodes]]
+zipcode = 62411
+percent_zip_in_county = 99.35
+
+[[zipcodes]]
+zipcode = 62414
+percent_zip_in_county = 42.58
+
+[[zipcodes]]
+zipcode = 62424
+percent_zip_in_county = 96.8
+
+[[zipcodes]]
+zipcode = 62426
+percent_zip_in_county = 56.68
+
+[[zipcodes]]
+zipcode = 62443
+percent_zip_in_county = 89.71
+
+[[zipcodes]]
+zipcode = 62445
+percent_zip_in_county = 25.47
+
+[[zipcodes]]
+zipcode = 62458
+percent_zip_in_county = 3.28
+
+[[zipcodes]]
+zipcode = 62461
+percent_zip_in_county = 89.7
+
+[[zipcodes]]
+zipcode = 62467
+percent_zip_in_county = 90.56
+
+[[zipcodes]]
+zipcode = 62473
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62838
+percent_zip_in_county = 0.6
+
+[[zipcodes]]
+zipcode = 62858
+percent_zip_in_county = 1.11

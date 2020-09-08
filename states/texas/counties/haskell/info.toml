@@ -1,2 +1,38 @@
 name = "Haskell County"
 fips_code = 48207
+
+[[zipcodes]]
+zipcode = 76388
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79521
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79529
+percent_zip_in_county = 0.36
+
+[[zipcodes]]
+zipcode = 79533
+percent_zip_in_county = 1.27
+
+[[zipcodes]]
+zipcode = 79539
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79544
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79547
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79548
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79553
+percent_zip_in_county = 2.39

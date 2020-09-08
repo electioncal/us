@@ -1,2 +1,62 @@
 name = "Seward County"
 fips_code = 31159
+
+[[zipcodes]]
+zipcode = 68065
+percent_zip_in_county = 3.25
+
+[[zipcodes]]
+zipcode = 68313
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68314
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68339
+percent_zip_in_county = 4.12
+
+[[zipcodes]]
+zipcode = 68343
+percent_zip_in_county = 2.19
+
+[[zipcodes]]
+zipcode = 68359
+percent_zip_in_county = 14.51
+
+[[zipcodes]]
+zipcode = 68360
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68364
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68367
+percent_zip_in_county = 17.35
+
+[[zipcodes]]
+zipcode = 68405
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68423
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68428
+percent_zip_in_county = 6.11
+
+[[zipcodes]]
+zipcode = 68434
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68439
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68456
+percent_zip_in_county = 100.0

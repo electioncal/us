@@ -1,2 +1,46 @@
 name = "Marshall County"
 fips_code = 20117
+
+[[zipcodes]]
+zipcode = 66403
+percent_zip_in_county = 95.24
+
+[[zipcodes]]
+zipcode = 66406
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66411
+percent_zip_in_county = 95.2
+
+[[zipcodes]]
+zipcode = 66412
+percent_zip_in_county = 94.43
+
+[[zipcodes]]
+zipcode = 66427
+percent_zip_in_county = 97.97
+
+[[zipcodes]]
+zipcode = 66438
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66508
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66518
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66541
+percent_zip_in_county = 89.39
+
+[[zipcodes]]
+zipcode = 66544
+percent_zip_in_county = 92.58
+
+[[zipcodes]]
+zipcode = 66548
+percent_zip_in_county = 99.69

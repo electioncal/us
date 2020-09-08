@@ -1,2 +1,14 @@
 name = "Isabela Municipio"
 fips_code = 72071
+
+[[zipcodes]]
+zipcode = 662
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 678
+percent_zip_in_county = 5.36
+
+[[zipcodes]]
+zipcode = 685
+percent_zip_in_county = 2.0

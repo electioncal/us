@@ -1,2 +1,50 @@
 name = "Johnson County"
 fips_code = 18081
+
+[[zipcodes]]
+zipcode = 46106
+percent_zip_in_county = 98.46
+
+[[zipcodes]]
+zipcode = 46124
+percent_zip_in_county = 55.04
+
+[[zipcodes]]
+zipcode = 46131
+percent_zip_in_county = 99.26
+
+[[zipcodes]]
+zipcode = 46142
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46143
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46151
+percent_zip_in_county = 0.17
+
+[[zipcodes]]
+zipcode = 46160
+percent_zip_in_county = 15.06
+
+[[zipcodes]]
+zipcode = 46162
+percent_zip_in_county = 57.21
+
+[[zipcodes]]
+zipcode = 46164
+percent_zip_in_county = 50.49
+
+[[zipcodes]]
+zipcode = 46181
+percent_zip_in_county = 85.97
+
+[[zipcodes]]
+zipcode = 46184
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46259
+percent_zip_in_county = 2.85

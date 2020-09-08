@@ -1,2 +1,26 @@
 name = "Cook County"
 fips_code = 27031
+
+[[zipcodes]]
+zipcode = 55604
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55605
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55606
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55612
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55613
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55615
+percent_zip_in_county = 100.0

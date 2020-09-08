@@ -1,2 +1,26 @@
 name = "Wheeler County"
 fips_code = 48483
+
+[[zipcodes]]
+zipcode = 79003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79011
+percent_zip_in_county = 63.56
+
+[[zipcodes]]
+zipcode = 79057
+percent_zip_in_county = 4.56
+
+[[zipcodes]]
+zipcode = 79061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 79079
+percent_zip_in_county = 94.41
+
+[[zipcodes]]
+zipcode = 79096
+percent_zip_in_county = 100.0

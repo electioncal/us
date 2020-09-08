@@ -1,2 +1,62 @@
 name = "Cavalier County"
 fips_code = 38019
+
+[[zipcodes]]
+zipcode = 58227
+percent_zip_in_county = 1.98
+
+[[zipcodes]]
+zipcode = 58229
+percent_zip_in_county = 13.16
+
+[[zipcodes]]
+zipcode = 58239
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58249
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58260
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58269
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58281
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58282
+percent_zip_in_county = 7.22
+
+[[zipcodes]]
+zipcode = 58311
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58323
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58338
+percent_zip_in_county = 29.52
+
+[[zipcodes]]
+zipcode = 58352
+percent_zip_in_county = 94.02
+
+[[zipcodes]]
+zipcode = 58355
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58372
+percent_zip_in_county = 66.04
+
+[[zipcodes]]
+zipcode = 58377
+percent_zip_in_county = 4.19

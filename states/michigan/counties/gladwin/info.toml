@@ -1,2 +1,30 @@
 name = "Gladwin County"
 fips_code = 26051
+
+[[zipcodes]]
+zipcode = 48610
+percent_zip_in_county = 22.93
+
+[[zipcodes]]
+zipcode = 48612
+percent_zip_in_county = 98.48
+
+[[zipcodes]]
+zipcode = 48613
+percent_zip_in_county = 8.64
+
+[[zipcodes]]
+zipcode = 48618
+percent_zip_in_county = 3.02
+
+[[zipcodes]]
+zipcode = 48624
+percent_zip_in_county = 91.68
+
+[[zipcodes]]
+zipcode = 48628
+percent_zip_in_county = 13.73
+
+[[zipcodes]]
+zipcode = 48652
+percent_zip_in_county = 54.52

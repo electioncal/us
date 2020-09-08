@@ -1,2 +1,18 @@
 name = "Boyd County"
 fips_code = 21019
+
+[[zipcodes]]
+zipcode = 41101
+percent_zip_in_county = 91.8
+
+[[zipcodes]]
+zipcode = 41102
+percent_zip_in_county = 97.15
+
+[[zipcodes]]
+zipcode = 41129
+percent_zip_in_county = 94.61
+
+[[zipcodes]]
+zipcode = 41168
+percent_zip_in_county = 60.5

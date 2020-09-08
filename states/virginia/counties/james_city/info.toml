@@ -1,2 +1,18 @@
 name = "James City County"
 fips_code = 51095
+
+[[zipcodes]]
+zipcode = 23089
+percent_zip_in_county = 34.92
+
+[[zipcodes]]
+zipcode = 23168
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23185
+percent_zip_in_county = 52.51
+
+[[zipcodes]]
+zipcode = 23188
+percent_zip_in_county = 89.92

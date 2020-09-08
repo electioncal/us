@@ -1,2 +1,42 @@
 name = "Greene County"
 fips_code = 47059
+
+[[zipcodes]]
+zipcode = 37616
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37641
+percent_zip_in_county = 78.76
+
+[[zipcodes]]
+zipcode = 37656
+percent_zip_in_county = 22.25
+
+[[zipcodes]]
+zipcode = 37681
+percent_zip_in_county = 27.87
+
+[[zipcodes]]
+zipcode = 37711
+percent_zip_in_county = 30.43
+
+[[zipcodes]]
+zipcode = 37743
+percent_zip_in_county = 99.84
+
+[[zipcodes]]
+zipcode = 37745
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37809
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37810
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37818
+percent_zip_in_county = 100.0

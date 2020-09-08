@@ -1,2 +1,94 @@
 name = "Collier County"
 fips_code = 12021
+
+[[zipcodes]]
+zipcode = 34101
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34102
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34104
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34105
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34108
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34109
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34110
+percent_zip_in_county = 99.23
+
+[[zipcodes]]
+zipcode = 34112
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34113
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34114
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34116
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34117
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34119
+percent_zip_in_county = 99.68
+
+[[zipcodes]]
+zipcode = 34120
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34134
+percent_zip_in_county = 12.54
+
+[[zipcodes]]
+zipcode = 34137
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34138
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34139
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34140
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34141
+percent_zip_in_county = 97.41
+
+[[zipcodes]]
+zipcode = 34142
+percent_zip_in_county = 95.0
+
+[[zipcodes]]
+zipcode = 34145
+percent_zip_in_county = 100.0

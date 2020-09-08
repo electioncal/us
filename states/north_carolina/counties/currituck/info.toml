@@ -1,2 +1,62 @@
 name = "Currituck County"
 fips_code = 37053
+
+[[zipcodes]]
+zipcode = 27916
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27917
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27923
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27927
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27929
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27939
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27941
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27947
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27950
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27956
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27958
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27964
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27965
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27966
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 27973
+percent_zip_in_county = 69.54

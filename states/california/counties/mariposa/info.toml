@@ -1,2 +1,54 @@
 name = "Mariposa County"
 fips_code = 6043
+
+[[zipcodes]]
+zipcode = 93601
+percent_zip_in_county = 5.24
+
+[[zipcodes]]
+zipcode = 93623
+percent_zip_in_county = 97.1
+
+[[zipcodes]]
+zipcode = 93653
+percent_zip_in_county = 8.14
+
+[[zipcodes]]
+zipcode = 95306
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95311
+percent_zip_in_county = 97.86
+
+[[zipcodes]]
+zipcode = 95318
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95321
+percent_zip_in_county = 2.19
+
+[[zipcodes]]
+zipcode = 95325
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95329
+percent_zip_in_county = 42.28
+
+[[zipcodes]]
+zipcode = 95338
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95345
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 95369
+percent_zip_in_county = 7.28
+
+[[zipcodes]]
+zipcode = 95389
+percent_zip_in_county = 99.84

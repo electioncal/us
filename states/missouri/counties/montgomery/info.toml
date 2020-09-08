@@ -1,2 +1,42 @@
 name = "Montgomery County"
 fips_code = 29139
+
+[[zipcodes]]
+zipcode = 63333
+percent_zip_in_county = 98.6
+
+[[zipcodes]]
+zipcode = 63350
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63351
+percent_zip_in_county = 67.93
+
+[[zipcodes]]
+zipcode = 63359
+percent_zip_in_county = 49.0
+
+[[zipcodes]]
+zipcode = 63361
+percent_zip_in_county = 94.12
+
+[[zipcodes]]
+zipcode = 63363
+percent_zip_in_county = 93.89
+
+[[zipcodes]]
+zipcode = 63381
+percent_zip_in_county = 19.74
+
+[[zipcodes]]
+zipcode = 63384
+percent_zip_in_county = 94.53
+
+[[zipcodes]]
+zipcode = 65041
+percent_zip_in_county = 11.27
+
+[[zipcodes]]
+zipcode = 65069
+percent_zip_in_county = 92.25

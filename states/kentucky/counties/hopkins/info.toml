@@ -1,2 +1,54 @@
 name = "Hopkins County"
 fips_code = 21107
+
+[[zipcodes]]
+zipcode = 42408
+percent_zip_in_county = 81.4
+
+[[zipcodes]]
+zipcode = 42410
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42413
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42431
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42436
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42440
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42441
+percent_zip_in_county = 98.43
+
+[[zipcodes]]
+zipcode = 42442
+percent_zip_in_county = 97.8
+
+[[zipcodes]]
+zipcode = 42445
+percent_zip_in_county = 2.01
+
+[[zipcodes]]
+zipcode = 42450
+percent_zip_in_county = 5.12
+
+[[zipcodes]]
+zipcode = 42453
+percent_zip_in_county = 96.05
+
+[[zipcodes]]
+zipcode = 42456
+percent_zip_in_county = 36.63
+
+[[zipcodes]]
+zipcode = 42464
+percent_zip_in_county = 89.05

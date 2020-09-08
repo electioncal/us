@@ -1,2 +1,42 @@
 name = "Yankton County"
 fips_code = 46135
+
+[[zipcodes]]
+zipcode = 57031
+percent_zip_in_county = 91.9
+
+[[zipcodes]]
+zipcode = 57037
+percent_zip_in_county = 47.37
+
+[[zipcodes]]
+zipcode = 57040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57045
+percent_zip_in_county = 8.84
+
+[[zipcodes]]
+zipcode = 57046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57063
+percent_zip_in_county = 12.03
+
+[[zipcodes]]
+zipcode = 57067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57070
+percent_zip_in_county = 5.26
+
+[[zipcodes]]
+zipcode = 57072
+percent_zip_in_county = 76.37
+
+[[zipcodes]]
+zipcode = 57078
+percent_zip_in_county = 99.83

@@ -1,2 +1,106 @@
 name = "Oswego County"
 fips_code = 36075
+
+[[zipcodes]]
+zipcode = 13028
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13036
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13042
+percent_zip_in_county = 50.85
+
+[[zipcodes]]
+zipcode = 13044
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13069
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13074
+percent_zip_in_county = 96.55
+
+[[zipcodes]]
+zipcode = 13076
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13083
+percent_zip_in_county = 98.89
+
+[[zipcodes]]
+zipcode = 13103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13111
+percent_zip_in_county = 18.65
+
+[[zipcodes]]
+zipcode = 13114
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13115
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13126
+percent_zip_in_county = 99.84
+
+[[zipcodes]]
+zipcode = 13131
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13132
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13135
+percent_zip_in_county = 75.08
+
+[[zipcodes]]
+zipcode = 13142
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13144
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13145
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13156
+percent_zip_in_county = 0.8
+
+[[zipcodes]]
+zipcode = 13167
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13302
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13316
+percent_zip_in_county = 0.62
+
+[[zipcodes]]
+zipcode = 13437
+percent_zip_in_county = 90.0
+
+[[zipcodes]]
+zipcode = 13493
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 13661
+percent_zip_in_county = 2.79

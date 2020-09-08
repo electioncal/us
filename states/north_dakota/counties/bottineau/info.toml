@@ -1,2 +1,58 @@
 name = "Bottineau County"
 fips_code = 38009
+
+[[zipcodes]]
+zipcode = 58318
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58329
+percent_zip_in_county = 2.26
+
+[[zipcodes]]
+zipcode = 58384
+percent_zip_in_county = 58.47
+
+[[zipcodes]]
+zipcode = 58711
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58740
+percent_zip_in_county = 1.19
+
+[[zipcodes]]
+zipcode = 58748
+percent_zip_in_county = 95.95
+
+[[zipcodes]]
+zipcode = 58750
+percent_zip_in_county = 84.28
+
+[[zipcodes]]
+zipcode = 58760
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58761
+percent_zip_in_county = 7.7
+
+[[zipcodes]]
+zipcode = 58762
+percent_zip_in_county = 90.65
+
+[[zipcodes]]
+zipcode = 58782
+percent_zip_in_county = 3.44
+
+[[zipcodes]]
+zipcode = 58783
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58789
+percent_zip_in_county = 3.12
+
+[[zipcodes]]
+zipcode = 58793
+percent_zip_in_county = 100.0

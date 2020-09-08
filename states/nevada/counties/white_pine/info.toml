@@ -1,2 +1,30 @@
 name = "White Pine County"
 fips_code = 32033
+
+[[zipcodes]]
+zipcode = 84034
+percent_zip_in_county = 10.05
+
+[[zipcodes]]
+zipcode = 89301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89311
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89316
+percent_zip_in_county = 2.91
+
+[[zipcodes]]
+zipcode = 89317
+percent_zip_in_county = 96.02
+
+[[zipcodes]]
+zipcode = 89318
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89319
+percent_zip_in_county = 100.0

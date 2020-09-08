@@ -1,2 +1,58 @@
 name = "Umatilla County"
 fips_code = 41059
+
+[[zipcodes]]
+zipcode = 97801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97810
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97813
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97826
+percent_zip_in_county = 97.05
+
+[[zipcodes]]
+zipcode = 97835
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97838
+percent_zip_in_county = 99.62
+
+[[zipcodes]]
+zipcode = 97859
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97862
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97868
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97875
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97880
+percent_zip_in_county = 92.65
+
+[[zipcodes]]
+zipcode = 97882
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97886
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99362
+percent_zip_in_county = 0.11

@@ -1,2 +1,34 @@
 name = "Alexandria city"
 fips_code = 51510
+
+[[zipcodes]]
+zipcode = 22206
+percent_zip_in_county = 1.92
+
+[[zipcodes]]
+zipcode = 22301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22302
+percent_zip_in_county = 94.62
+
+[[zipcodes]]
+zipcode = 22304
+percent_zip_in_county = 99.63
+
+[[zipcodes]]
+zipcode = 22305
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 22311
+percent_zip_in_county = 92.95
+
+[[zipcodes]]
+zipcode = 22312
+percent_zip_in_county = 23.82
+
+[[zipcodes]]
+zipcode = 22314
+percent_zip_in_county = 100.0

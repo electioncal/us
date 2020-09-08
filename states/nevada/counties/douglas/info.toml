@@ -1,2 +1,38 @@
 name = "Douglas County"
 fips_code = 32005
+
+[[zipcodes]]
+zipcode = 89410
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89411
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89413
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89423
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89444
+percent_zip_in_county = 56.4
+
+[[zipcodes]]
+zipcode = 89448
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89449
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89460
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 89705
+percent_zip_in_county = 99.09

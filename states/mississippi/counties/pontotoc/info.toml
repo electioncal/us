@@ -1,2 +1,42 @@
 name = "Pontotoc County"
 fips_code = 28115
+
+[[zipcodes]]
+zipcode = 38801
+percent_zip_in_county = 4.0
+
+[[zipcodes]]
+zipcode = 38826
+percent_zip_in_county = 37.25
+
+[[zipcodes]]
+zipcode = 38828
+percent_zip_in_county = 6.9
+
+[[zipcodes]]
+zipcode = 38841
+percent_zip_in_county = 96.43
+
+[[zipcodes]]
+zipcode = 38850
+percent_zip_in_county = 19.01
+
+[[zipcodes]]
+zipcode = 38863
+percent_zip_in_county = 99.96
+
+[[zipcodes]]
+zipcode = 38864
+percent_zip_in_county = 83.25
+
+[[zipcodes]]
+zipcode = 38868
+percent_zip_in_county = 5.64
+
+[[zipcodes]]
+zipcode = 38869
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38871
+percent_zip_in_county = 90.18

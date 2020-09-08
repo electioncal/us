@@ -1,2 +1,34 @@
 name = "Hood County"
 fips_code = 48221
+
+[[zipcodes]]
+zipcode = 76033
+percent_zip_in_county = 0.06
+
+[[zipcodes]]
+zipcode = 76035
+percent_zip_in_county = 24.41
+
+[[zipcodes]]
+zipcode = 76048
+percent_zip_in_county = 99.7
+
+[[zipcodes]]
+zipcode = 76049
+percent_zip_in_county = 97.09
+
+[[zipcodes]]
+zipcode = 76087
+percent_zip_in_county = 1.33
+
+[[zipcodes]]
+zipcode = 76433
+percent_zip_in_county = 8.97
+
+[[zipcodes]]
+zipcode = 76462
+percent_zip_in_county = 45.47
+
+[[zipcodes]]
+zipcode = 76476
+percent_zip_in_county = 100.0

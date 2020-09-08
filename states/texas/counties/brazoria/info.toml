@@ -1,2 +1,66 @@
 name = "Brazoria County"
 fips_code = 48039
+
+[[zipcodes]]
+zipcode = 77422
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77430
+percent_zip_in_county = 64.96
+
+[[zipcodes]]
+zipcode = 77444
+percent_zip_in_county = 32.02
+
+[[zipcodes]]
+zipcode = 77480
+percent_zip_in_county = 95.69
+
+[[zipcodes]]
+zipcode = 77486
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77511
+percent_zip_in_county = 93.88
+
+[[zipcodes]]
+zipcode = 77515
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77531
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77534
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77541
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77566
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77577
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77578
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77581
+percent_zip_in_county = 90.93
+
+[[zipcodes]]
+zipcode = 77583
+percent_zip_in_county = 77.39
+
+[[zipcodes]]
+zipcode = 77584
+percent_zip_in_county = 98.97

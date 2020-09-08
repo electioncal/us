@@ -1,2 +1,78 @@
 name = "Tippecanoe County"
 fips_code = 18157
+
+[[zipcodes]]
+zipcode = 46058
+percent_zip_in_county = 2.42
+
+[[zipcodes]]
+zipcode = 46923
+percent_zip_in_county = 0.89
+
+[[zipcodes]]
+zipcode = 47901
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47904
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47905
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47906
+percent_zip_in_county = 99.75
+
+[[zipcodes]]
+zipcode = 47907
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 47909
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47918
+percent_zip_in_county = 1.11
+
+[[zipcodes]]
+zipcode = 47920
+percent_zip_in_county = 86.0
+
+[[zipcodes]]
+zipcode = 47924
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47930
+percent_zip_in_county = 97.71
+
+[[zipcodes]]
+zipcode = 47941
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47955
+percent_zip_in_county = 3.77
+
+[[zipcodes]]
+zipcode = 47967
+percent_zip_in_county = 9.97
+
+[[zipcodes]]
+zipcode = 47970
+percent_zip_in_county = 18.58
+
+[[zipcodes]]
+zipcode = 47981
+percent_zip_in_county = 95.05
+
+[[zipcodes]]
+zipcode = 47983
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47992
+percent_zip_in_county = 100.0

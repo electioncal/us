@@ -1,2 +1,38 @@
 name = "Sevier County"
 fips_code = 47155
+
+[[zipcodes]]
+zipcode = 37722
+percent_zip_in_county = 18.45
+
+[[zipcodes]]
+zipcode = 37725
+percent_zip_in_county = 1.21
+
+[[zipcodes]]
+zipcode = 37738
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37764
+percent_zip_in_county = 93.3
+
+[[zipcodes]]
+zipcode = 37862
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37863
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37865
+percent_zip_in_county = 78.79
+
+[[zipcodes]]
+zipcode = 37871
+percent_zip_in_county = 21.9
+
+[[zipcodes]]
+zipcode = 37876
+percent_zip_in_county = 98.0

@@ -1,2 +1,26 @@
 name = "Kewaunee County"
 fips_code = 55061
+
+[[zipcodes]]
+zipcode = 54201
+percent_zip_in_county = 97.1
+
+[[zipcodes]]
+zipcode = 54205
+percent_zip_in_county = 97.01
+
+[[zipcodes]]
+zipcode = 54208
+percent_zip_in_county = 11.81
+
+[[zipcodes]]
+zipcode = 54213
+percent_zip_in_county = 5.09
+
+[[zipcodes]]
+zipcode = 54216
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54217
+percent_zip_in_county = 83.93

@@ -1,2 +1,30 @@
 name = "Rooks County"
 fips_code = 20163
+
+[[zipcodes]]
+zipcode = 67632
+percent_zip_in_county = 85.02
+
+[[zipcodes]]
+zipcode = 67646
+percent_zip_in_county = 1.53
+
+[[zipcodes]]
+zipcode = 67651
+percent_zip_in_county = 17.16
+
+[[zipcodes]]
+zipcode = 67657
+percent_zip_in_county = 87.88
+
+[[zipcodes]]
+zipcode = 67663
+percent_zip_in_county = 98.32
+
+[[zipcodes]]
+zipcode = 67669
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 67675
+percent_zip_in_county = 100.0

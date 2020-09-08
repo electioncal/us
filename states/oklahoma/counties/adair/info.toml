@@ -1,2 +1,34 @@
 name = "Adair County"
 fips_code = 40001
+
+[[zipcodes]]
+zipcode = 74338
+percent_zip_in_county = 0.69
+
+[[zipcodes]]
+zipcode = 74347
+percent_zip_in_county = 11.65
+
+[[zipcodes]]
+zipcode = 74457
+percent_zip_in_county = 52.96
+
+[[zipcodes]]
+zipcode = 74931
+percent_zip_in_county = 76.54
+
+[[zipcodes]]
+zipcode = 74948
+percent_zip_in_county = 0.34
+
+[[zipcodes]]
+zipcode = 74960
+percent_zip_in_county = 97.93
+
+[[zipcodes]]
+zipcode = 74964
+percent_zip_in_county = 83.56
+
+[[zipcodes]]
+zipcode = 74965
+percent_zip_in_county = 100.0

@@ -1,2 +1,50 @@
 name = "Lafayette County"
 fips_code = 28071
+
+[[zipcodes]]
+zipcode = 38601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38606
+percent_zip_in_county = 0.74
+
+[[zipcodes]]
+zipcode = 38619
+percent_zip_in_county = 20.82
+
+[[zipcodes]]
+zipcode = 38627
+percent_zip_in_county = 19.64
+
+[[zipcodes]]
+zipcode = 38655
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38673
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38677
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38685
+percent_zip_in_county = 8.54
+
+[[zipcodes]]
+zipcode = 38863
+percent_zip_in_county = 0.04
+
+[[zipcodes]]
+zipcode = 38871
+percent_zip_in_county = 8.11
+
+[[zipcodes]]
+zipcode = 38949
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38965
+percent_zip_in_county = 15.36

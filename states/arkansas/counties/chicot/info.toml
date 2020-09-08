@@ -1,2 +1,26 @@
 name = "Chicot County"
 fips_code = 5017
+
+[[zipcodes]]
+zipcode = 71638
+percent_zip_in_county = 82.92
+
+[[zipcodes]]
+zipcode = 71640
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71653
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71661
+percent_zip_in_county = 4.0
+
+[[zipcodes]]
+zipcode = 71663
+percent_zip_in_county = 33.74
+
+[[zipcodes]]
+zipcode = 71676
+percent_zip_in_county = 1.46

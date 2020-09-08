@@ -1,2 +1,58 @@
 name = "Natrona County"
 fips_code = 56025
+
+[[zipcodes]]
+zipcode = 82601
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82604
+percent_zip_in_county = 99.94
+
+[[zipcodes]]
+zipcode = 82609
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82620
+percent_zip_in_county = 92.38
+
+[[zipcodes]]
+zipcode = 82630
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82635
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82636
+percent_zip_in_county = 99.07
+
+[[zipcodes]]
+zipcode = 82638
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82639
+percent_zip_in_county = 5.71
+
+[[zipcodes]]
+zipcode = 82642
+percent_zip_in_county = 9.57
+
+[[zipcodes]]
+zipcode = 82643
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82644
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82646
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 82648
+percent_zip_in_county = 100.0

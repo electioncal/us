@@ -1,2 +1,42 @@
 name = "Rosebud County"
 fips_code = 30087
+
+[[zipcodes]]
+zipcode = 59003
+percent_zip_in_county = 85.26
+
+[[zipcodes]]
+zipcode = 59012
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59043
+percent_zip_in_county = 77.66
+
+[[zipcodes]]
+zipcode = 59054
+percent_zip_in_county = 24.76
+
+[[zipcodes]]
+zipcode = 59301
+percent_zip_in_county = 0.18
+
+[[zipcodes]]
+zipcode = 59323
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59327
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59333
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59347
+percent_zip_in_county = 99.07

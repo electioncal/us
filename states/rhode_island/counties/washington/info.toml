@@ -1,2 +1,82 @@
 name = "Washington County"
 fips_code = 44009
+
+[[zipcodes]]
+zipcode = 2804
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2807
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2808
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2812
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2813
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2822
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2832
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2833
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2836
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2852
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2873
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2874
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2875
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2879
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2881
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2882
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2891
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2892
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2894
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 2898
+percent_zip_in_county = 100.0

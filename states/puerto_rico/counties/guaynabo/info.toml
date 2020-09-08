@@ -1,2 +1,38 @@
 name = "Guaynabo Municipio"
 fips_code = 72061
+
+[[zipcodes]]
+zipcode = 725
+percent_zip_in_county = 2.76
+
+[[zipcodes]]
+zipcode = 926
+percent_zip_in_county = 0.39
+
+[[zipcodes]]
+zipcode = 934
+percent_zip_in_county = 57.99
+
+[[zipcodes]]
+zipcode = 959
+percent_zip_in_county = 1.88
+
+[[zipcodes]]
+zipcode = 965
+percent_zip_in_county = 79.52
+
+[[zipcodes]]
+zipcode = 966
+percent_zip_in_county = 91.02
+
+[[zipcodes]]
+zipcode = 968
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 969
+percent_zip_in_county = 84.94
+
+[[zipcodes]]
+zipcode = 971
+percent_zip_in_county = 99.51

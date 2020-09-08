@@ -1,2 +1,50 @@
 name = "Comal County"
 fips_code = 48091
+
+[[zipcodes]]
+zipcode = 78006
+percent_zip_in_county = 1.99
+
+[[zipcodes]]
+zipcode = 78070
+percent_zip_in_county = 95.72
+
+[[zipcodes]]
+zipcode = 78108
+percent_zip_in_county = 2.28
+
+[[zipcodes]]
+zipcode = 78130
+percent_zip_in_county = 71.41
+
+[[zipcodes]]
+zipcode = 78132
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78133
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78154
+percent_zip_in_county = 0.37
+
+[[zipcodes]]
+zipcode = 78163
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78266
+percent_zip_in_county = 80.22
+
+[[zipcodes]]
+zipcode = 78606
+percent_zip_in_county = 2.71
+
+[[zipcodes]]
+zipcode = 78623
+percent_zip_in_county = 95.82
+
+[[zipcodes]]
+zipcode = 78666
+percent_zip_in_county = 0.02

@@ -1,2 +1,34 @@
 name = "Carroll County"
 fips_code = 21041
+
+[[zipcodes]]
+zipcode = 40006
+percent_zip_in_county = 2.54
+
+[[zipcodes]]
+zipcode = 40011
+percent_zip_in_county = 5.69
+
+[[zipcodes]]
+zipcode = 40045
+percent_zip_in_county = 10.78
+
+[[zipcodes]]
+zipcode = 40075
+percent_zip_in_county = 15.8
+
+[[zipcodes]]
+zipcode = 41008
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41045
+percent_zip_in_county = 74.86
+
+[[zipcodes]]
+zipcode = 41083
+percent_zip_in_county = 55.81
+
+[[zipcodes]]
+zipcode = 41098
+percent_zip_in_county = 39.57

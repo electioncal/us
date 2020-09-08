@@ -1,2 +1,94 @@
 name = "Whitman County"
 fips_code = 53075
+
+[[zipcodes]]
+zipcode = 99004
+percent_zip_in_county = 0.06
+
+[[zipcodes]]
+zipcode = 99017
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99033
+percent_zip_in_county = 98.77
+
+[[zipcodes]]
+zipcode = 99102
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99111
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99113
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99125
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99128
+percent_zip_in_county = 86.6
+
+[[zipcodes]]
+zipcode = 99130
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99136
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99143
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99149
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99158
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99161
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99163
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99164
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 99170
+percent_zip_in_county = 79.1
+
+[[zipcodes]]
+zipcode = 99171
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99174
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99176
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99179
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99333
+percent_zip_in_county = 68.0
+
+[[zipcodes]]
+zipcode = 99347
+percent_zip_in_county = 0.78

@@ -1,2 +1,46 @@
 name = "Crawford County"
 fips_code = 5033
+
+[[zipcodes]]
+zipcode = 72921
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72932
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72934
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72935
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72946
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72947
+percent_zip_in_county = 71.19
+
+[[zipcodes]]
+zipcode = 72948
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72952
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72955
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72956
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72959
+percent_zip_in_county = 5.56

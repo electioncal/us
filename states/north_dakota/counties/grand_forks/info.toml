@@ -1,2 +1,90 @@
 name = "Grand Forks County"
 fips_code = 38035
+
+[[zipcodes]]
+zipcode = 56744
+percent_zip_in_county = 4.03
+
+[[zipcodes]]
+zipcode = 58201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58202
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58203
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58204
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58205
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58212
+percent_zip_in_county = 4.01
+
+[[zipcodes]]
+zipcode = 58214
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58228
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58231
+percent_zip_in_county = 32.24
+
+[[zipcodes]]
+zipcode = 58233
+percent_zip_in_county = 7.07
+
+[[zipcodes]]
+zipcode = 58235
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58240
+percent_zip_in_county = 9.01
+
+[[zipcodes]]
+zipcode = 58244
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58251
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58256
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58258
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58261
+percent_zip_in_county = 6.21
+
+[[zipcodes]]
+zipcode = 58266
+percent_zip_in_county = 87.68
+
+[[zipcodes]]
+zipcode = 58267
+percent_zip_in_county = 98.22
+
+[[zipcodes]]
+zipcode = 58275
+percent_zip_in_county = 56.07
+
+[[zipcodes]]
+zipcode = 58278
+percent_zip_in_county = 100.0

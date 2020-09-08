@@ -1,2 +1,54 @@
 name = "Bastrop County"
 fips_code = 48021
+
+[[zipcodes]]
+zipcode = 78602
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78612
+percent_zip_in_county = 94.8
+
+[[zipcodes]]
+zipcode = 78616
+percent_zip_in_county = 35.59
+
+[[zipcodes]]
+zipcode = 78617
+percent_zip_in_county = 20.35
+
+[[zipcodes]]
+zipcode = 78621
+percent_zip_in_county = 71.45
+
+[[zipcodes]]
+zipcode = 78650
+percent_zip_in_county = 90.06
+
+[[zipcodes]]
+zipcode = 78659
+percent_zip_in_county = 89.18
+
+[[zipcodes]]
+zipcode = 78662
+percent_zip_in_county = 85.36
+
+[[zipcodes]]
+zipcode = 78941
+percent_zip_in_county = 2.9
+
+[[zipcodes]]
+zipcode = 78942
+percent_zip_in_county = 0.37
+
+[[zipcodes]]
+zipcode = 78945
+percent_zip_in_county = 0.24
+
+[[zipcodes]]
+zipcode = 78953
+percent_zip_in_county = 75.05
+
+[[zipcodes]]
+zipcode = 78957
+percent_zip_in_county = 97.3

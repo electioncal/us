@@ -1,2 +1,54 @@
 name = "Routt County"
 fips_code = 8107
+
+[[zipcodes]]
+zipcode = 80426
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 80428
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80463
+percent_zip_in_county = 52.21
+
+[[zipcodes]]
+zipcode = 80467
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80469
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80477
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80479
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80483
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80487
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80488
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81625
+percent_zip_in_county = 0.03
+
+[[zipcodes]]
+zipcode = 81639
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81653
+percent_zip_in_county = 45.16

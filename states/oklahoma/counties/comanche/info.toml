@@ -1,2 +1,82 @@
 name = "Comanche County"
 fips_code = 40031
+
+[[zipcodes]]
+zipcode = 73006
+percent_zip_in_county = 21.52
+
+[[zipcodes]]
+zipcode = 73017
+percent_zip_in_county = 0.9
+
+[[zipcodes]]
+zipcode = 73055
+percent_zip_in_county = 0.08
+
+[[zipcodes]]
+zipcode = 73082
+percent_zip_in_county = 0.94
+
+[[zipcodes]]
+zipcode = 73501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73503
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73505
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73507
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73527
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73528
+percent_zip_in_county = 74.56
+
+[[zipcodes]]
+zipcode = 73538
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73540
+percent_zip_in_county = 98.86
+
+[[zipcodes]]
+zipcode = 73541
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73543
+percent_zip_in_county = 97.31
+
+[[zipcodes]]
+zipcode = 73552
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73557
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73559
+percent_zip_in_county = 1.3
+
+[[zipcodes]]
+zipcode = 73564
+percent_zip_in_county = 2.9
+
+[[zipcodes]]
+zipcode = 73567
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73572
+percent_zip_in_county = 0.59

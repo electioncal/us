@@ -1,2 +1,34 @@
 name = "Gregory County"
 fips_code = 46053
+
+[[zipcodes]]
+zipcode = 57317
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57335
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57523
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57529
+percent_zip_in_county = 60.76
+
+[[zipcodes]]
+zipcode = 57533
+percent_zip_in_county = 95.32
+
+[[zipcodes]]
+zipcode = 57538
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57571
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68719
+percent_zip_in_county = 13.7

@@ -1,2 +1,50 @@
 name = "Waseca County"
 fips_code = 27161
+
+[[zipcodes]]
+zipcode = 55052
+percent_zip_in_county = 1.63
+
+[[zipcodes]]
+zipcode = 56026
+percent_zip_in_county = 1.49
+
+[[zipcodes]]
+zipcode = 56028
+percent_zip_in_county = 5.83
+
+[[zipcodes]]
+zipcode = 56048
+percent_zip_in_county = 87.84
+
+[[zipcodes]]
+zipcode = 56063
+percent_zip_in_county = 1.51
+
+[[zipcodes]]
+zipcode = 56068
+percent_zip_in_county = 11.68
+
+[[zipcodes]]
+zipcode = 56072
+percent_zip_in_county = 88.87
+
+[[zipcodes]]
+zipcode = 56078
+percent_zip_in_county = 24.16
+
+[[zipcodes]]
+zipcode = 56091
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56093
+percent_zip_in_county = 98.07
+
+[[zipcodes]]
+zipcode = 56096
+percent_zip_in_county = 5.16
+
+[[zipcodes]]
+zipcode = 56097
+percent_zip_in_county = 1.51

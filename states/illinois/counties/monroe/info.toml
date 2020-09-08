@@ -1,2 +1,38 @@
 name = "Monroe County"
 fips_code = 17133
+
+[[zipcodes]]
+zipcode = 62236
+percent_zip_in_county = 95.48
+
+[[zipcodes]]
+zipcode = 62244
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62248
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62264
+percent_zip_in_county = 3.48
+
+[[zipcodes]]
+zipcode = 62277
+percent_zip_in_county = 19.33
+
+[[zipcodes]]
+zipcode = 62278
+percent_zip_in_county = 21.69
+
+[[zipcodes]]
+zipcode = 62279
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62295
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62298
+percent_zip_in_county = 96.32

@@ -1,2 +1,42 @@
 name = "Forsyth County"
 fips_code = 13117
+
+[[zipcodes]]
+zipcode = 30004
+percent_zip_in_county = 16.15
+
+[[zipcodes]]
+zipcode = 30005
+percent_zip_in_county = 12.92
+
+[[zipcodes]]
+zipcode = 30024
+percent_zip_in_county = 27.21
+
+[[zipcodes]]
+zipcode = 30028
+percent_zip_in_county = 97.2
+
+[[zipcodes]]
+zipcode = 30040
+percent_zip_in_county = 99.4
+
+[[zipcodes]]
+zipcode = 30041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30097
+percent_zip_in_county = 6.19
+
+[[zipcodes]]
+zipcode = 30107
+percent_zip_in_county = 9.26
+
+[[zipcodes]]
+zipcode = 30506
+percent_zip_in_county = 26.13
+
+[[zipcodes]]
+zipcode = 30534
+percent_zip_in_county = 6.04

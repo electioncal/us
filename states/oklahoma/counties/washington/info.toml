@@ -1,2 +1,46 @@
 name = "Washington County"
 fips_code = 40147
+
+[[zipcodes]]
+zipcode = 74003
+percent_zip_in_county = 87.87
+
+[[zipcodes]]
+zipcode = 74006
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74021
+percent_zip_in_county = 2.89
+
+[[zipcodes]]
+zipcode = 74022
+percent_zip_in_county = 97.27
+
+[[zipcodes]]
+zipcode = 74029
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74051
+percent_zip_in_county = 99.05
+
+[[zipcodes]]
+zipcode = 74061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74070
+percent_zip_in_county = 5.51
+
+[[zipcodes]]
+zipcode = 74080
+percent_zip_in_county = 8.41
+
+[[zipcodes]]
+zipcode = 74082
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74083
+percent_zip_in_county = 26.29

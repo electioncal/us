@@ -1,2 +1,62 @@
 name = "Stone County"
 fips_code = 5137
+
+[[zipcodes]]
+zipcode = 72031
+percent_zip_in_county = 2.16
+
+[[zipcodes]]
+zipcode = 72044
+percent_zip_in_county = 19.18
+
+[[zipcodes]]
+zipcode = 72051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72153
+percent_zip_in_county = 2.95
+
+[[zipcodes]]
+zipcode = 72519
+percent_zip_in_county = 5.78
+
+[[zipcodes]]
+zipcode = 72530
+percent_zip_in_county = 7.6
+
+[[zipcodes]]
+zipcode = 72533
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72550
+percent_zip_in_county = 4.87
+
+[[zipcodes]]
+zipcode = 72555
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72560
+percent_zip_in_county = 98.28
+
+[[zipcodes]]
+zipcode = 72567
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72645
+percent_zip_in_county = 8.78
+
+[[zipcodes]]
+zipcode = 72650
+percent_zip_in_county = 4.24
+
+[[zipcodes]]
+zipcode = 72663
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72680
+percent_zip_in_county = 100.0

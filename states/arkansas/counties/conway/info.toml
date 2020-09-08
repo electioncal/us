@@ -1,2 +1,62 @@
 name = "Conway County"
 fips_code = 5029
+
+[[zipcodes]]
+zipcode = 72001
+percent_zip_in_county = 21.91
+
+[[zipcodes]]
+zipcode = 72013
+percent_zip_in_county = 5.14
+
+[[zipcodes]]
+zipcode = 72025
+percent_zip_in_county = 17.0
+
+[[zipcodes]]
+zipcode = 72027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72030
+percent_zip_in_county = 67.09
+
+[[zipcodes]]
+zipcode = 72031
+percent_zip_in_county = 1.59
+
+[[zipcodes]]
+zipcode = 72063
+percent_zip_in_county = 96.97
+
+[[zipcodes]]
+zipcode = 72080
+percent_zip_in_county = 71.3
+
+[[zipcodes]]
+zipcode = 72107
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72110
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72125
+percent_zip_in_county = 33.26
+
+[[zipcodes]]
+zipcode = 72127
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72156
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72157
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72823
+percent_zip_in_county = 3.59

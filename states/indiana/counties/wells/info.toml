@@ -1,2 +1,62 @@
 name = "Wells County"
 fips_code = 18179
+
+[[zipcodes]]
+zipcode = 46714
+percent_zip_in_county = 97.15
+
+[[zipcodes]]
+zipcode = 46731
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46740
+percent_zip_in_county = 2.96
+
+[[zipcodes]]
+zipcode = 46759
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46766
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46770
+percent_zip_in_county = 65.24
+
+[[zipcodes]]
+zipcode = 46777
+percent_zip_in_county = 98.34
+
+[[zipcodes]]
+zipcode = 46781
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46783
+percent_zip_in_county = 1.36
+
+[[zipcodes]]
+zipcode = 46791
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46792
+percent_zip_in_county = 16.49
+
+[[zipcodes]]
+zipcode = 46798
+percent_zip_in_county = 10.66
+
+[[zipcodes]]
+zipcode = 46799
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46952
+percent_zip_in_county = 0.66
+
+[[zipcodes]]
+zipcode = 47359
+percent_zip_in_county = 18.04

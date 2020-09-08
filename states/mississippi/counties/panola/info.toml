@@ -1,2 +1,42 @@
 name = "Panola County"
 fips_code = 28107
+
+[[zipcodes]]
+zipcode = 38606
+percent_zip_in_county = 99.04
+
+[[zipcodes]]
+zipcode = 38619
+percent_zip_in_county = 76.8
+
+[[zipcodes]]
+zipcode = 38620
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38621
+percent_zip_in_county = 69.63
+
+[[zipcodes]]
+zipcode = 38622
+percent_zip_in_county = 40.85
+
+[[zipcodes]]
+zipcode = 38658
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38665
+percent_zip_in_county = 18.75
+
+[[zipcodes]]
+zipcode = 38666
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38927
+percent_zip_in_county = 14.17
+
+[[zipcodes]]
+zipcode = 38965
+percent_zip_in_county = 2.62

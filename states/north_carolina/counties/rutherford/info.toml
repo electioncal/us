@@ -1,2 +1,62 @@
 name = "Rutherford County"
 fips_code = 37161
+
+[[zipcodes]]
+zipcode = 28018
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28019
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28020
+percent_zip_in_county = 3.06
+
+[[zipcodes]]
+zipcode = 28040
+percent_zip_in_county = 98.38
+
+[[zipcodes]]
+zipcode = 28043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28076
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28114
+percent_zip_in_county = 59.39
+
+[[zipcodes]]
+zipcode = 28139
+percent_zip_in_county = 95.05
+
+[[zipcodes]]
+zipcode = 28150
+percent_zip_in_county = 0.02
+
+[[zipcodes]]
+zipcode = 28160
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28167
+percent_zip_in_county = 94.24
+
+[[zipcodes]]
+zipcode = 28711
+percent_zip_in_county = 0.75
+
+[[zipcodes]]
+zipcode = 28720
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28746
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28756
+percent_zip_in_county = 1.64

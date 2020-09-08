@@ -1,2 +1,38 @@
 name = "San Patricio County"
 fips_code = 48409
+
+[[zipcodes]]
+zipcode = 78336
+percent_zip_in_county = 74.6
+
+[[zipcodes]]
+zipcode = 78352
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78359
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78362
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78368
+percent_zip_in_county = 88.58
+
+[[zipcodes]]
+zipcode = 78370
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78374
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78387
+percent_zip_in_county = 94.91
+
+[[zipcodes]]
+zipcode = 78390
+percent_zip_in_county = 99.06

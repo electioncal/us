@@ -1,2 +1,22 @@
 name = "Dolores County"
 fips_code = 8033
+
+[[zipcodes]]
+zipcode = 81320
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81323
+percent_zip_in_county = 1.11
+
+[[zipcodes]]
+zipcode = 81324
+percent_zip_in_county = 96.61
+
+[[zipcodes]]
+zipcode = 81325
+percent_zip_in_county = 4.13
+
+[[zipcodes]]
+zipcode = 81332
+percent_zip_in_county = 100.0

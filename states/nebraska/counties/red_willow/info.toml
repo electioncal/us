@@ -1,2 +1,30 @@
 name = "Red Willow County"
 fips_code = 31145
+
+[[zipcodes]]
+zipcode = 69001
+percent_zip_in_county = 98.29
+
+[[zipcodes]]
+zipcode = 69020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69022
+percent_zip_in_county = 7.39
+
+[[zipcodes]]
+zipcode = 69024
+percent_zip_in_county = 2.68
+
+[[zipcodes]]
+zipcode = 69026
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 69034
+percent_zip_in_county = 96.59
+
+[[zipcodes]]
+zipcode = 69036
+percent_zip_in_county = 100.0

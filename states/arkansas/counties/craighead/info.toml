@@ -1,2 +1,58 @@
 name = "Craighead County"
 fips_code = 5031
+
+[[zipcodes]]
+zipcode = 72401
+percent_zip_in_county = 99.01
+
+[[zipcodes]]
+zipcode = 72404
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72411
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72414
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72416
+percent_zip_in_county = 91.63
+
+[[zipcodes]]
+zipcode = 72417
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72419
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72421
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72427
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72437
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72447
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72450
+percent_zip_in_county = 0.21
+
+[[zipcodes]]
+zipcode = 72467
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72479
+percent_zip_in_county = 2.28

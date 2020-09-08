@@ -1,2 +1,74 @@
 name = "Monroe County"
 fips_code = 18105
+
+[[zipcodes]]
+zipcode = 46151
+percent_zip_in_county = 0.21
+
+[[zipcodes]]
+zipcode = 47264
+percent_zip_in_county = 2.59
+
+[[zipcodes]]
+zipcode = 47401
+percent_zip_in_county = 99.9
+
+[[zipcodes]]
+zipcode = 47403
+percent_zip_in_county = 99.28
+
+[[zipcodes]]
+zipcode = 47404
+percent_zip_in_county = 99.48
+
+[[zipcodes]]
+zipcode = 47405
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47406
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47408
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47429
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47433
+percent_zip_in_county = 27.78
+
+[[zipcodes]]
+zipcode = 47434
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47436
+percent_zip_in_county = 19.6
+
+[[zipcodes]]
+zipcode = 47448
+percent_zip_in_county = 0.67
+
+[[zipcodes]]
+zipcode = 47458
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47460
+percent_zip_in_county = 2.21
+
+[[zipcodes]]
+zipcode = 47462
+percent_zip_in_county = 6.22
+
+[[zipcodes]]
+zipcode = 47464
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47468
+percent_zip_in_county = 77.76

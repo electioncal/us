@@ -1,2 +1,26 @@
 name = "Dawes County"
 fips_code = 31045
+
+[[zipcodes]]
+zipcode = 69337
+percent_zip_in_county = 99.66
+
+[[zipcodes]]
+zipcode = 69339
+percent_zip_in_county = 95.42
+
+[[zipcodes]]
+zipcode = 69347
+percent_zip_in_county = 5.2
+
+[[zipcodes]]
+zipcode = 69348
+percent_zip_in_county = 4.13
+
+[[zipcodes]]
+zipcode = 69354
+percent_zip_in_county = 62.89
+
+[[zipcodes]]
+zipcode = 69367
+percent_zip_in_county = 100.0

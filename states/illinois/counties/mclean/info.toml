@@ -1,2 +1,130 @@
 name = "McLean County"
 fips_code = 17113
+
+[[zipcodes]]
+zipcode = 60936
+percent_zip_in_county = 0.44
+
+[[zipcodes]]
+zipcode = 61701
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61704
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61705
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61720
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61722
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61723
+percent_zip_in_county = 0.95
+
+[[zipcodes]]
+zipcode = 61724
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61725
+percent_zip_in_county = 62.18
+
+[[zipcodes]]
+zipcode = 61726
+percent_zip_in_county = 90.96
+
+[[zipcodes]]
+zipcode = 61728
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61729
+percent_zip_in_county = 1.21
+
+[[zipcodes]]
+zipcode = 61730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61731
+percent_zip_in_county = 70.71
+
+[[zipcodes]]
+zipcode = 61732
+percent_zip_in_county = 96.28
+
+[[zipcodes]]
+zipcode = 61736
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61737
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61738
+percent_zip_in_county = 0.78
+
+[[zipcodes]]
+zipcode = 61739
+percent_zip_in_county = 0.18
+
+[[zipcodes]]
+zipcode = 61744
+percent_zip_in_county = 89.22
+
+[[zipcodes]]
+zipcode = 61745
+percent_zip_in_county = 98.21
+
+[[zipcodes]]
+zipcode = 61748
+percent_zip_in_county = 99.03
+
+[[zipcodes]]
+zipcode = 61752
+percent_zip_in_county = 99.08
+
+[[zipcodes]]
+zipcode = 61753
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61754
+percent_zip_in_county = 92.62
+
+[[zipcodes]]
+zipcode = 61761
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61770
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61772
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61774
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61776
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61842
+percent_zip_in_county = 2.61
+
+[[zipcodes]]
+zipcode = 61843
+percent_zip_in_county = 1.65

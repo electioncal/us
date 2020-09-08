@@ -1,2 +1,30 @@
 name = "Hamblen County"
 fips_code = 47063
+
+[[zipcodes]]
+zipcode = 37711
+percent_zip_in_county = 1.49
+
+[[zipcodes]]
+zipcode = 37813
+percent_zip_in_county = 98.29
+
+[[zipcodes]]
+zipcode = 37814
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37860
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37877
+percent_zip_in_county = 62.39
+
+[[zipcodes]]
+zipcode = 37890
+percent_zip_in_county = 1.06
+
+[[zipcodes]]
+zipcode = 37891
+percent_zip_in_county = 76.86

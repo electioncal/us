@@ -1,2 +1,62 @@
 name = "Klickitat County"
 fips_code = 53039
+
+[[zipcodes]]
+zipcode = 98602
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98605
+percent_zip_in_county = 62.53
+
+[[zipcodes]]
+zipcode = 98613
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98617
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98619
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98620
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98628
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98635
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98650
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98670
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98672
+percent_zip_in_county = 98.23
+
+[[zipcodes]]
+zipcode = 98673
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99322
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99350
+percent_zip_in_county = 1.43
+
+[[zipcodes]]
+zipcode = 99356
+percent_zip_in_county = 100.0

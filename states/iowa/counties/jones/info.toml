@@ -1,2 +1,62 @@
 name = "Jones County"
 fips_code = 19105
+
+[[zipcodes]]
+zipcode = 52032
+percent_zip_in_county = 4.12
+
+[[zipcodes]]
+zipcode = 52033
+percent_zip_in_county = 29.79
+
+[[zipcodes]]
+zipcode = 52205
+percent_zip_in_county = 98.24
+
+[[zipcodes]]
+zipcode = 52212
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52216
+percent_zip_in_county = 1.96
+
+[[zipcodes]]
+zipcode = 52253
+percent_zip_in_county = 4.07
+
+[[zipcodes]]
+zipcode = 52305
+percent_zip_in_county = 88.24
+
+[[zipcodes]]
+zipcode = 52306
+percent_zip_in_county = 8.67
+
+[[zipcodes]]
+zipcode = 52309
+percent_zip_in_county = 19.14
+
+[[zipcodes]]
+zipcode = 52310
+percent_zip_in_county = 99.22
+
+[[zipcodes]]
+zipcode = 52312
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52320
+percent_zip_in_county = 94.26
+
+[[zipcodes]]
+zipcode = 52321
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 52323
+percent_zip_in_county = 91.58
+
+[[zipcodes]]
+zipcode = 52362
+percent_zip_in_county = 100.0

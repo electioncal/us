@@ -1,2 +1,38 @@
 name = "Dearborn County"
 fips_code = 18029
+
+[[zipcodes]]
+zipcode = 47001
+percent_zip_in_county = 93.01
+
+[[zipcodes]]
+zipcode = 47012
+percent_zip_in_county = 8.38
+
+[[zipcodes]]
+zipcode = 47018
+percent_zip_in_county = 67.39
+
+[[zipcodes]]
+zipcode = 47022
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47031
+percent_zip_in_county = 3.04
+
+[[zipcodes]]
+zipcode = 47032
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47041
+percent_zip_in_county = 42.69
+
+[[zipcodes]]
+zipcode = 47060
+percent_zip_in_county = 66.1

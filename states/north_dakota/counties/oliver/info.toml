@@ -1,2 +1,26 @@
 name = "Oliver County"
 fips_code = 38065
+
+[[zipcodes]]
+zipcode = 58523
+percent_zip_in_county = 2.21
+
+[[zipcodes]]
+zipcode = 58530
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58545
+percent_zip_in_county = 2.51
+
+[[zipcodes]]
+zipcode = 58554
+percent_zip_in_county = 0.37
+
+[[zipcodes]]
+zipcode = 58563
+percent_zip_in_county = 16.89
+
+[[zipcodes]]
+zipcode = 58571
+percent_zip_in_county = 11.28

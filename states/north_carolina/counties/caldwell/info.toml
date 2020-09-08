@@ -1,2 +1,34 @@
 name = "Caldwell County"
 fips_code = 37027
+
+[[zipcodes]]
+zipcode = 28601
+percent_zip_in_county = 3.86
+
+[[zipcodes]]
+zipcode = 28605
+percent_zip_in_county = 3.81
+
+[[zipcodes]]
+zipcode = 28606
+percent_zip_in_county = 15.66
+
+[[zipcodes]]
+zipcode = 28611
+percent_zip_in_county = 92.88
+
+[[zipcodes]]
+zipcode = 28630
+percent_zip_in_county = 99.08
+
+[[zipcodes]]
+zipcode = 28638
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28645
+percent_zip_in_county = 99.19
+
+[[zipcodes]]
+zipcode = 28667
+percent_zip_in_county = 59.21

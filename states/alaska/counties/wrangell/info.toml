@@ -1,2 +1,10 @@
 name = "Wrangell City and Borough"
 fips_code = 2275
+
+[[zipcodes]]
+zipcode = 99903
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99929
+percent_zip_in_county = 100.0

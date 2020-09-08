@@ -1,2 +1,66 @@
 name = "Mississippi County"
 fips_code = 5093
+
+[[zipcodes]]
+zipcode = 72315
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72321
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72329
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72330
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72338
+percent_zip_in_county = 82.69
+
+[[zipcodes]]
+zipcode = 72350
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72351
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72354
+percent_zip_in_county = 3.32
+
+[[zipcodes]]
+zipcode = 72358
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72370
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72386
+percent_zip_in_county = 15.14
+
+[[zipcodes]]
+zipcode = 72395
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72426
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72428
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72438
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72442
+percent_zip_in_county = 100.0

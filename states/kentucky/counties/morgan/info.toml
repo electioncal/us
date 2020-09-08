@@ -1,2 +1,30 @@
 name = "Morgan County"
 fips_code = 21175
+
+[[zipcodes]]
+zipcode = 40387
+percent_zip_in_county = 6.06
+
+[[zipcodes]]
+zipcode = 41332
+percent_zip_in_county = 37.5
+
+[[zipcodes]]
+zipcode = 41352
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41408
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41421
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41425
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 41472
+percent_zip_in_county = 98.88

@@ -1,2 +1,38 @@
 name = "Union County"
 fips_code = 5139
+
+[[zipcodes]]
+zipcode = 71724
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71730
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71747
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71749
+percent_zip_in_county = 81.5
+
+[[zipcodes]]
+zipcode = 71753
+percent_zip_in_county = 1.1
+
+[[zipcodes]]
+zipcode = 71758
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71759
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71762
+percent_zip_in_county = 95.6
+
+[[zipcodes]]
+zipcode = 71765
+percent_zip_in_county = 100.0

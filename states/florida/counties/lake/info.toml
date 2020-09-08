@@ -1,2 +1,114 @@
 name = "Lake County"
 fips_code = 12069
+
+[[zipcodes]]
+zipcode = 32102
+percent_zip_in_county = 77.93
+
+[[zipcodes]]
+zipcode = 32134
+percent_zip_in_county = 0.3
+
+[[zipcodes]]
+zipcode = 32159
+percent_zip_in_county = 69.58
+
+[[zipcodes]]
+zipcode = 32195
+percent_zip_in_county = 10.22
+
+[[zipcodes]]
+zipcode = 32702
+percent_zip_in_county = 89.87
+
+[[zipcodes]]
+zipcode = 32720
+percent_zip_in_county = 8.36
+
+[[zipcodes]]
+zipcode = 32726
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32735
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32736
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32757
+percent_zip_in_county = 81.22
+
+[[zipcodes]]
+zipcode = 32767
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32776
+percent_zip_in_county = 99.18
+
+[[zipcodes]]
+zipcode = 32778
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32784
+percent_zip_in_county = 70.58
+
+[[zipcodes]]
+zipcode = 34705
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34711
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34714
+percent_zip_in_county = 90.15
+
+[[zipcodes]]
+zipcode = 34715
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34731
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34736
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34737
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34748
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34753
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34756
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34762
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34787
+percent_zip_in_county = 1.89
+
+[[zipcodes]]
+zipcode = 34788
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 34797
+percent_zip_in_county = 100.0

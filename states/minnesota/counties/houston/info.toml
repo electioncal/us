@@ -1,2 +1,38 @@
 name = "Houston County"
 fips_code = 27055
+
+[[zipcodes]]
+zipcode = 55919
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55921
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55931
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55941
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55943
+percent_zip_in_county = 89.08
+
+[[zipcodes]]
+zipcode = 55947
+percent_zip_in_county = 89.52
+
+[[zipcodes]]
+zipcode = 55954
+percent_zip_in_county = 6.03
+
+[[zipcodes]]
+zipcode = 55971
+percent_zip_in_county = 4.71
+
+[[zipcodes]]
+zipcode = 55974
+percent_zip_in_county = 98.5

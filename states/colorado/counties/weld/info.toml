@@ -1,2 +1,158 @@
 name = "Weld County"
 fips_code = 8123
+
+[[zipcodes]]
+zipcode = 80504
+percent_zip_in_county = 39.95
+
+[[zipcodes]]
+zipcode = 80513
+percent_zip_in_county = 7.21
+
+[[zipcodes]]
+zipcode = 80514
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80516
+percent_zip_in_county = 58.13
+
+[[zipcodes]]
+zipcode = 80520
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80524
+percent_zip_in_county = 1.86
+
+[[zipcodes]]
+zipcode = 80530
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80534
+percent_zip_in_county = 92.89
+
+[[zipcodes]]
+zipcode = 80537
+percent_zip_in_county = 0.34
+
+[[zipcodes]]
+zipcode = 80542
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80543
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80546
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80549
+percent_zip_in_county = 2.66
+
+[[zipcodes]]
+zipcode = 80550
+percent_zip_in_county = 86.83
+
+[[zipcodes]]
+zipcode = 80603
+percent_zip_in_county = 59.52
+
+[[zipcodes]]
+zipcode = 80610
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80611
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80612
+percent_zip_in_county = 74.19
+
+[[zipcodes]]
+zipcode = 80615
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80620
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80621
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80622
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80623
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80624
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80631
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80634
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80642
+percent_zip_in_county = 79.04
+
+[[zipcodes]]
+zipcode = 80643
+percent_zip_in_county = 87.51
+
+[[zipcodes]]
+zipcode = 80644
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80645
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80648
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80649
+percent_zip_in_county = 41.14
+
+[[zipcodes]]
+zipcode = 80650
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80651
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80652
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80654
+percent_zip_in_county = 0.59
+
+[[zipcodes]]
+zipcode = 80729
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80742
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80754
+percent_zip_in_county = 100.0

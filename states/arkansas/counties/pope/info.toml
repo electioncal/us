@@ -1,2 +1,54 @@
 name = "Pope County"
 fips_code = 5115
+
+[[zipcodes]]
+zipcode = 72063
+percent_zip_in_county = 3.03
+
+[[zipcodes]]
+zipcode = 72080
+percent_zip_in_county = 6.04
+
+[[zipcodes]]
+zipcode = 72679
+percent_zip_in_county = 68.75
+
+[[zipcodes]]
+zipcode = 72801
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72802
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72823
+percent_zip_in_county = 96.41
+
+[[zipcodes]]
+zipcode = 72837
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72839
+percent_zip_in_county = 2.07
+
+[[zipcodes]]
+zipcode = 72843
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72846
+percent_zip_in_county = 1.12
+
+[[zipcodes]]
+zipcode = 72847
+percent_zip_in_county = 72.63
+
+[[zipcodes]]
+zipcode = 72856
+percent_zip_in_county = 7.33
+
+[[zipcodes]]
+zipcode = 72858
+percent_zip_in_county = 100.0

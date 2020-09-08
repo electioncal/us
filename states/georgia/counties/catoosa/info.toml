@@ -1,2 +1,34 @@
 name = "Catoosa County"
 fips_code = 13047
+
+[[zipcodes]]
+zipcode = 30707
+percent_zip_in_county = 3.36
+
+[[zipcodes]]
+zipcode = 30710
+percent_zip_in_county = 0.11
+
+[[zipcodes]]
+zipcode = 30726
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 30736
+percent_zip_in_county = 98.4
+
+[[zipcodes]]
+zipcode = 30739
+percent_zip_in_county = 17.82
+
+[[zipcodes]]
+zipcode = 30741
+percent_zip_in_county = 37.12
+
+[[zipcodes]]
+zipcode = 30742
+percent_zip_in_county = 99.91
+
+[[zipcodes]]
+zipcode = 30755
+percent_zip_in_county = 37.9

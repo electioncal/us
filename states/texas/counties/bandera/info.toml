@@ -1,2 +1,30 @@
 name = "Bandera County"
 fips_code = 48019
+
+[[zipcodes]]
+zipcode = 78003
+percent_zip_in_county = 97.54
+
+[[zipcodes]]
+zipcode = 78023
+percent_zip_in_county = 0.34
+
+[[zipcodes]]
+zipcode = 78055
+percent_zip_in_county = 97.35
+
+[[zipcodes]]
+zipcode = 78063
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78883
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78884
+percent_zip_in_county = 43.96
+
+[[zipcodes]]
+zipcode = 78885
+percent_zip_in_county = 92.5

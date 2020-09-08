@@ -1,2 +1,50 @@
 name = "Allen Parish"
 fips_code = 22003
+
+[[zipcodes]]
+zipcode = 70532
+percent_zip_in_county = 29.72
+
+[[zipcodes]]
+zipcode = 70637
+percent_zip_in_county = 72.32
+
+[[zipcodes]]
+zipcode = 70638
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70644
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70648
+percent_zip_in_county = 93.48
+
+[[zipcodes]]
+zipcode = 70651
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70654
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70655
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 70656
+percent_zip_in_county = 16.31
+
+[[zipcodes]]
+zipcode = 70657
+percent_zip_in_county = 12.93
+
+[[zipcodes]]
+zipcode = 70658
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71463
+percent_zip_in_county = 91.83

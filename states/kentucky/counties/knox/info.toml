@@ -1,2 +1,74 @@
 name = "Knox County"
 fips_code = 21121
+
+[[zipcodes]]
+zipcode = 40701
+percent_zip_in_county = 25.45
+
+[[zipcodes]]
+zipcode = 40734
+percent_zip_in_county = 98.83
+
+[[zipcodes]]
+zipcode = 40759
+percent_zip_in_county = 5.37
+
+[[zipcodes]]
+zipcode = 40763
+percent_zip_in_county = 2.35
+
+[[zipcodes]]
+zipcode = 40771
+percent_zip_in_county = 58.05
+
+[[zipcodes]]
+zipcode = 40903
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40906
+percent_zip_in_county = 98.37
+
+[[zipcodes]]
+zipcode = 40915
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40921
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40923
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40935
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40943
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40946
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40949
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40953
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40982
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40995
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40997
+percent_zip_in_county = 100.0

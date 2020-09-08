@@ -1,2 +1,30 @@
 name = "Bennett County"
 fips_code = 46007
+
+[[zipcodes]]
+zipcode = 57551
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57560
+percent_zip_in_county = 2.98
+
+[[zipcodes]]
+zipcode = 57574
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57577
+percent_zip_in_county = 0.66
+
+[[zipcodes]]
+zipcode = 57714
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57716
+percent_zip_in_county = 19.55
+
+[[zipcodes]]
+zipcode = 57752
+percent_zip_in_county = 2.67

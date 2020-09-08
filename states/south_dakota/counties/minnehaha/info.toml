@@ -1,2 +1,86 @@
 name = "Minnehaha County"
 fips_code = 46099
+
+[[zipcodes]]
+zipcode = 57003
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57005
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57018
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57022
+percent_zip_in_county = 91.23
+
+[[zipcodes]]
+zipcode = 57030
+percent_zip_in_county = 95.17
+
+[[zipcodes]]
+zipcode = 57033
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57035
+percent_zip_in_county = 97.5
+
+[[zipcodes]]
+zipcode = 57041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57048
+percent_zip_in_county = 7.95
+
+[[zipcodes]]
+zipcode = 57055
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57068
+percent_zip_in_county = 97.29
+
+[[zipcodes]]
+zipcode = 57103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57104
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57105
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57106
+percent_zip_in_county = 85.55
+
+[[zipcodes]]
+zipcode = 57107
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57108
+percent_zip_in_county = 0.68
+
+[[zipcodes]]
+zipcode = 57110
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57117
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57197
+percent_zip_in_county = 100.0

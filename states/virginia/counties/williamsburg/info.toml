@@ -1,2 +1,14 @@
 name = "Williamsburg city"
 fips_code = 51830
+
+[[zipcodes]]
+zipcode = 23185
+percent_zip_in_county = 27.24
+
+[[zipcodes]]
+zipcode = 23187
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23188
+percent_zip_in_county = 3.02

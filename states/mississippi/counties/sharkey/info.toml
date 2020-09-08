@@ -1,2 +1,30 @@
 name = "Sharkey County"
 fips_code = 28125
+
+[[zipcodes]]
+zipcode = 38721
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38748
+percent_zip_in_county = 1.67
+
+[[zipcodes]]
+zipcode = 38765
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39054
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39088
+percent_zip_in_county = 25.93
+
+[[zipcodes]]
+zipcode = 39159
+percent_zip_in_county = 88.66

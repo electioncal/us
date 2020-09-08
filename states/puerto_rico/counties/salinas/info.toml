@@ -1,2 +1,10 @@
 name = "Salinas Municipio"
 fips_code = 72123
+
+[[zipcodes]]
+zipcode = 704
+percent_zip_in_county = 92.28
+
+[[zipcodes]]
+zipcode = 751
+percent_zip_in_county = 100.0

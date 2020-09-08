@@ -1,2 +1,50 @@
 name = "Webster Parish"
 fips_code = 22119
+
+[[zipcodes]]
+zipcode = 71018
+percent_zip_in_county = 95.31
+
+[[zipcodes]]
+zipcode = 71021
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71023
+percent_zip_in_county = 95.15
+
+[[zipcodes]]
+zipcode = 71024
+percent_zip_in_county = 88.1
+
+[[zipcodes]]
+zipcode = 71038
+percent_zip_in_county = 0.42
+
+[[zipcodes]]
+zipcode = 71039
+percent_zip_in_county = 80.46
+
+[[zipcodes]]
+zipcode = 71055
+percent_zip_in_county = 97.68
+
+[[zipcodes]]
+zipcode = 71067
+percent_zip_in_county = 0.21
+
+[[zipcodes]]
+zipcode = 71071
+percent_zip_in_county = 99.22
+
+[[zipcodes]]
+zipcode = 71072
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71073
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71075
+percent_zip_in_county = 98.07

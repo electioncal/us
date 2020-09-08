@@ -1,2 +1,34 @@
 name = "Jackson County"
 fips_code = 47087
+
+[[zipcodes]]
+zipcode = 37145
+percent_zip_in_county = 7.42
+
+[[zipcodes]]
+zipcode = 38501
+percent_zip_in_county = 6.92
+
+[[zipcodes]]
+zipcode = 38545
+percent_zip_in_county = 54.21
+
+[[zipcodes]]
+zipcode = 38551
+percent_zip_in_county = 0.66
+
+[[zipcodes]]
+zipcode = 38562
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 38564
+percent_zip_in_county = 95.36
+
+[[zipcodes]]
+zipcode = 38568
+percent_zip_in_county = 14.6
+
+[[zipcodes]]
+zipcode = 38588
+percent_zip_in_county = 82.29

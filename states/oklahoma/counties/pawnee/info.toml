@@ -1,2 +1,50 @@
 name = "Pawnee County"
 fips_code = 40117
+
+[[zipcodes]]
+zipcode = 73061
+percent_zip_in_county = 8.02
+
+[[zipcodes]]
+zipcode = 74020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74032
+percent_zip_in_county = 6.26
+
+[[zipcodes]]
+zipcode = 74034
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74038
+percent_zip_in_county = 60.16
+
+[[zipcodes]]
+zipcode = 74044
+percent_zip_in_county = 10.01
+
+[[zipcodes]]
+zipcode = 74045
+percent_zip_in_county = 85.85
+
+[[zipcodes]]
+zipcode = 74058
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74081
+percent_zip_in_county = 91.29
+
+[[zipcodes]]
+zipcode = 74085
+percent_zip_in_county = 3.59
+
+[[zipcodes]]
+zipcode = 74650
+percent_zip_in_county = 66.96
+
+[[zipcodes]]
+zipcode = 74651
+percent_zip_in_county = 1.21

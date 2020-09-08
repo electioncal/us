@@ -1,2 +1,86 @@
 name = "Okanogan County"
 fips_code = 53047
+
+[[zipcodes]]
+zipcode = 98812
+percent_zip_in_county = 87.51
+
+[[zipcodes]]
+zipcode = 98813
+percent_zip_in_county = 4.41
+
+[[zipcodes]]
+zipcode = 98814
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98819
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98827
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98829
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98833
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98834
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98840
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98841
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98844
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98846
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98849
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98855
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98856
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98859
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 98862
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99116
+percent_zip_in_county = 87.0
+
+[[zipcodes]]
+zipcode = 99124
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99155
+percent_zip_in_county = 98.74
+
+[[zipcodes]]
+zipcode = 99166
+percent_zip_in_county = 1.77

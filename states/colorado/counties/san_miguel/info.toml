@@ -1,2 +1,30 @@
 name = "San Miguel County"
 fips_code = 8113
+
+[[zipcodes]]
+zipcode = 81325
+percent_zip_in_county = 95.87
+
+[[zipcodes]]
+zipcode = 81423
+percent_zip_in_county = 90.88
+
+[[zipcodes]]
+zipcode = 81426
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81430
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 81431
+percent_zip_in_county = 4.13
+
+[[zipcodes]]
+zipcode = 81432
+percent_zip_in_county = 0.22
+
+[[zipcodes]]
+zipcode = 81435
+percent_zip_in_county = 100.0

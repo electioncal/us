@@ -1,2 +1,54 @@
 name = "Ouachita Parish"
 fips_code = 22073
+
+[[zipcodes]]
+zipcode = 71201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71202
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71203
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71209
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71225
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71227
+percent_zip_in_county = 3.93
+
+[[zipcodes]]
+zipcode = 71229
+percent_zip_in_county = 22.26
+
+[[zipcodes]]
+zipcode = 71234
+percent_zip_in_county = 17.76
+
+[[zipcodes]]
+zipcode = 71238
+percent_zip_in_county = 71.68
+
+[[zipcodes]]
+zipcode = 71280
+percent_zip_in_county = 66.19
+
+[[zipcodes]]
+zipcode = 71291
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71292
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 71418
+percent_zip_in_county = 3.13

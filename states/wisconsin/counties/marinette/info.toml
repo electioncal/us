@@ -1,2 +1,66 @@
 name = "Marinette County"
 fips_code = 55075
+
+[[zipcodes]]
+zipcode = 54102
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54103
+percent_zip_in_county = 1.91
+
+[[zipcodes]]
+zipcode = 54104
+percent_zip_in_county = 99.43
+
+[[zipcodes]]
+zipcode = 54112
+percent_zip_in_county = 81.65
+
+[[zipcodes]]
+zipcode = 54114
+percent_zip_in_county = 94.73
+
+[[zipcodes]]
+zipcode = 54119
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54120
+percent_zip_in_county = 36.33
+
+[[zipcodes]]
+zipcode = 54125
+percent_zip_in_county = 99.61
+
+[[zipcodes]]
+zipcode = 54139
+percent_zip_in_county = 1.2
+
+[[zipcodes]]
+zipcode = 54143
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54151
+percent_zip_in_county = 72.33
+
+[[zipcodes]]
+zipcode = 54156
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54157
+percent_zip_in_county = 99.87
+
+[[zipcodes]]
+zipcode = 54159
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54161
+percent_zip_in_county = 62.43
+
+[[zipcodes]]
+zipcode = 54177
+percent_zip_in_county = 100.0

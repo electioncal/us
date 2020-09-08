@@ -1,2 +1,58 @@
 name = "Putnam County"
 fips_code = 18133
+
+[[zipcodes]]
+zipcode = 46105
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46120
+percent_zip_in_county = 83.62
+
+[[zipcodes]]
+zipcode = 46121
+percent_zip_in_county = 60.63
+
+[[zipcodes]]
+zipcode = 46128
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46135
+percent_zip_in_county = 99.71
+
+[[zipcodes]]
+zipcode = 46171
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46172
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 46175
+percent_zip_in_county = 97.32
+
+[[zipcodes]]
+zipcode = 47456
+percent_zip_in_county = 7.0
+
+[[zipcodes]]
+zipcode = 47840
+percent_zip_in_county = 2.53
+
+[[zipcodes]]
+zipcode = 47868
+percent_zip_in_county = 3.1
+
+[[zipcodes]]
+zipcode = 47872
+percent_zip_in_county = 0.16
+
+[[zipcodes]]
+zipcode = 47954
+percent_zip_in_county = 1.94
+
+[[zipcodes]]
+zipcode = 47989
+percent_zip_in_county = 0.23

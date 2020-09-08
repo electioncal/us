@@ -1,2 +1,58 @@
 name = "Richmond city"
 fips_code = 51760
+
+[[zipcodes]]
+zipcode = 23173
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23219
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23220
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23221
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 23222
+percent_zip_in_county = 69.46
+
+[[zipcodes]]
+zipcode = 23223
+percent_zip_in_county = 47.52
+
+[[zipcodes]]
+zipcode = 23224
+percent_zip_in_county = 91.67
+
+[[zipcodes]]
+zipcode = 23225
+percent_zip_in_county = 89.22
+
+[[zipcodes]]
+zipcode = 23226
+percent_zip_in_county = 50.8
+
+[[zipcodes]]
+zipcode = 23227
+percent_zip_in_county = 41.18
+
+[[zipcodes]]
+zipcode = 23230
+percent_zip_in_county = 37.88
+
+[[zipcodes]]
+zipcode = 23231
+percent_zip_in_county = 13.18
+
+[[zipcodes]]
+zipcode = 23234
+percent_zip_in_county = 28.43
+
+[[zipcodes]]
+zipcode = 23235
+percent_zip_in_county = 19.71

@@ -1,2 +1,110 @@
 name = "Saratoga County"
 fips_code = 36091
+
+[[zipcodes]]
+zipcode = 12010
+percent_zip_in_county = 2.41
+
+[[zipcodes]]
+zipcode = 12019
+percent_zip_in_county = 94.83
+
+[[zipcodes]]
+zipcode = 12020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12025
+percent_zip_in_county = 9.83
+
+[[zipcodes]]
+zipcode = 12027
+percent_zip_in_county = 82.41
+
+[[zipcodes]]
+zipcode = 12065
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12074
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12086
+percent_zip_in_county = 17.32
+
+[[zipcodes]]
+zipcode = 12118
+percent_zip_in_county = 96.32
+
+[[zipcodes]]
+zipcode = 12134
+percent_zip_in_county = 28.21
+
+[[zipcodes]]
+zipcode = 12148
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12151
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12170
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12188
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12302
+percent_zip_in_county = 1.66
+
+[[zipcodes]]
+zipcode = 12803
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12822
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12828
+percent_zip_in_county = 39.06
+
+[[zipcodes]]
+zipcode = 12831
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12833
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12835
+percent_zip_in_county = 98.16
+
+[[zipcodes]]
+zipcode = 12850
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12859
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12863
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12866
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12871
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 12884
+percent_zip_in_county = 100.0

@@ -1,2 +1,66 @@
 name = "New Madrid County"
 fips_code = 29143
+
+[[zipcodes]]
+zipcode = 63801
+percent_zip_in_county = 12.29
+
+[[zipcodes]]
+zipcode = 63828
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63833
+percent_zip_in_county = 75.62
+
+[[zipcodes]]
+zipcode = 63845
+percent_zip_in_county = 1.26
+
+[[zipcodes]]
+zipcode = 63848
+percent_zip_in_county = 98.3
+
+[[zipcodes]]
+zipcode = 63860
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63862
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63863
+percent_zip_in_county = 1.51
+
+[[zipcodes]]
+zipcode = 63866
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63867
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63868
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63869
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63870
+percent_zip_in_county = 88.88
+
+[[zipcodes]]
+zipcode = 63873
+percent_zip_in_county = 89.45
+
+[[zipcodes]]
+zipcode = 63874
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63878
+percent_zip_in_county = 100.0

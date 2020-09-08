@@ -1,2 +1,42 @@
 name = "Adams County"
 fips_code = 39001
+
+[[zipcodes]]
+zipcode = 45144
+percent_zip_in_county = 97.14
+
+[[zipcodes]]
+zipcode = 45616
+percent_zip_in_county = 80.95
+
+[[zipcodes]]
+zipcode = 45618
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45650
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45657
+percent_zip_in_county = 12.14
+
+[[zipcodes]]
+zipcode = 45660
+percent_zip_in_county = 81.33
+
+[[zipcodes]]
+zipcode = 45679
+percent_zip_in_county = 96.44
+
+[[zipcodes]]
+zipcode = 45684
+percent_zip_in_county = 37.58
+
+[[zipcodes]]
+zipcode = 45693
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45697
+percent_zip_in_county = 65.82

@@ -1,2 +1,34 @@
 name = "Lawrence County"
 fips_code = 28077
+
+[[zipcodes]]
+zipcode = 39140
+percent_zip_in_county = 52.67
+
+[[zipcodes]]
+zipcode = 39191
+percent_zip_in_county = 0.05
+
+[[zipcodes]]
+zipcode = 39641
+percent_zip_in_county = 43.4
+
+[[zipcodes]]
+zipcode = 39654
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 39656
+percent_zip_in_county = 30.26
+
+[[zipcodes]]
+zipcode = 39662
+percent_zip_in_county = 10.55
+
+[[zipcodes]]
+zipcode = 39663
+percent_zip_in_county = 90.65
+
+[[zipcodes]]
+zipcode = 39665
+percent_zip_in_county = 79.26

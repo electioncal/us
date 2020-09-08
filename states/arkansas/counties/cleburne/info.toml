@@ -1,2 +1,70 @@
 name = "Cleburne County"
 fips_code = 5023
+
+[[zipcodes]]
+zipcode = 72044
+percent_zip_in_county = 80.82
+
+[[zipcodes]]
+zipcode = 72067
+percent_zip_in_county = 90.13
+
+[[zipcodes]]
+zipcode = 72088
+percent_zip_in_county = 7.65
+
+[[zipcodes]]
+zipcode = 72121
+percent_zip_in_county = 20.75
+
+[[zipcodes]]
+zipcode = 72130
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72131
+percent_zip_in_county = 70.11
+
+[[zipcodes]]
+zipcode = 72137
+percent_zip_in_county = 28.57
+
+[[zipcodes]]
+zipcode = 72143
+percent_zip_in_county = 0.08
+
+[[zipcodes]]
+zipcode = 72153
+percent_zip_in_county = 3.89
+
+[[zipcodes]]
+zipcode = 72179
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72523
+percent_zip_in_county = 91.84
+
+[[zipcodes]]
+zipcode = 72530
+percent_zip_in_county = 92.4
+
+[[zipcodes]]
+zipcode = 72534
+percent_zip_in_county = 7.8
+
+[[zipcodes]]
+zipcode = 72543
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72546
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 72550
+percent_zip_in_county = 25.89
+
+[[zipcodes]]
+zipcode = 72581
+percent_zip_in_county = 100.0

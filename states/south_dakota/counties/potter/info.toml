@@ -1,2 +1,22 @@
 name = "Potter County"
 fips_code = 46107
+
+[[zipcodes]]
+zipcode = 57442
+percent_zip_in_county = 92.13
+
+[[zipcodes]]
+zipcode = 57450
+percent_zip_in_county = 82.89
+
+[[zipcodes]]
+zipcode = 57455
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 57473
+percent_zip_in_county = 25.47
+
+[[zipcodes]]
+zipcode = 57475
+percent_zip_in_county = 63.75

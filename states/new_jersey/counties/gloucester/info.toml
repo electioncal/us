@@ -1,2 +1,118 @@
 name = "Gloucester County"
 fips_code = 34015
+
+[[zipcodes]]
+zipcode = 8012
+percent_zip_in_county = 44.18
+
+[[zipcodes]]
+zipcode = 8014
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8020
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8027
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8028
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8051
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8056
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8062
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8063
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8066
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8071
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8074
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8080
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8081
+percent_zip_in_county = 3.99
+
+[[zipcodes]]
+zipcode = 8085
+percent_zip_in_county = 99.26
+
+[[zipcodes]]
+zipcode = 8086
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8090
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8093
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8094
+percent_zip_in_county = 92.13
+
+[[zipcodes]]
+zipcode = 8096
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8097
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8312
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8322
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8328
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 8343
+percent_zip_in_county = 65.35
+
+[[zipcodes]]
+zipcode = 8344
+percent_zip_in_county = 67.2
+
+[[zipcodes]]
+zipcode = 8360
+percent_zip_in_county = 2.68

@@ -1,2 +1,34 @@
 name = "Oconee County"
 fips_code = 13219
+
+[[zipcodes]]
+zipcode = 30605
+percent_zip_in_county = 0.52
+
+[[zipcodes]]
+zipcode = 30606
+percent_zip_in_county = 9.33
+
+[[zipcodes]]
+zipcode = 30619
+percent_zip_in_county = 6.39
+
+[[zipcodes]]
+zipcode = 30621
+percent_zip_in_county = 84.13
+
+[[zipcodes]]
+zipcode = 30622
+percent_zip_in_county = 57.96
+
+[[zipcodes]]
+zipcode = 30666
+percent_zip_in_county = 15.57
+
+[[zipcodes]]
+zipcode = 30677
+percent_zip_in_county = 99.06
+
+[[zipcodes]]
+zipcode = 30680
+percent_zip_in_county = 0.56

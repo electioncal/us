@@ -1,2 +1,42 @@
 name = "Nuckolls County"
 fips_code = 31129
+
+[[zipcodes]]
+zipcode = 68335
+percent_zip_in_county = 15.83
+
+[[zipcodes]]
+zipcode = 68934
+percent_zip_in_county = 30.85
+
+[[zipcodes]]
+zipcode = 68935
+percent_zip_in_county = 15.33
+
+[[zipcodes]]
+zipcode = 68942
+percent_zip_in_county = 11.22
+
+[[zipcodes]]
+zipcode = 68943
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68957
+percent_zip_in_county = 89.22
+
+[[zipcodes]]
+zipcode = 68961
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68964
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68974
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 68978
+percent_zip_in_county = 97.06

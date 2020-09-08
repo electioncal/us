@@ -1,2 +1,62 @@
 name = "Jefferson County"
 fips_code = 20087
+
+[[zipcodes]]
+zipcode = 66002
+percent_zip_in_county = 0.57
+
+[[zipcodes]]
+zipcode = 66044
+percent_zip_in_county = 1.75
+
+[[zipcodes]]
+zipcode = 66054
+percent_zip_in_county = 75.17
+
+[[zipcodes]]
+zipcode = 66060
+percent_zip_in_county = 77.54
+
+[[zipcodes]]
+zipcode = 66066
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66070
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66073
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66086
+percent_zip_in_county = 0.28
+
+[[zipcodes]]
+zipcode = 66088
+percent_zip_in_county = 98.01
+
+[[zipcodes]]
+zipcode = 66097
+percent_zip_in_county = 99.16
+
+[[zipcodes]]
+zipcode = 66419
+percent_zip_in_county = 10.41
+
+[[zipcodes]]
+zipcode = 66429
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 66436
+percent_zip_in_county = 0.26
+
+[[zipcodes]]
+zipcode = 66512
+percent_zip_in_county = 93.66
+
+[[zipcodes]]
+zipcode = 66617
+percent_zip_in_county = 4.73

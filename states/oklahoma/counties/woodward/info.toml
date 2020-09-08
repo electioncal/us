@@ -1,2 +1,38 @@
 name = "Woodward County"
 fips_code = 40153
+
+[[zipcodes]]
+zipcode = 73801
+percent_zip_in_county = 99.67
+
+[[zipcodes]]
+zipcode = 73838
+percent_zip_in_county = 11.04
+
+[[zipcodes]]
+zipcode = 73840
+percent_zip_in_county = 17.8
+
+[[zipcodes]]
+zipcode = 73841
+percent_zip_in_county = 97.03
+
+[[zipcodes]]
+zipcode = 73842
+percent_zip_in_county = 9.92
+
+[[zipcodes]]
+zipcode = 73852
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73853
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73857
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 73859
+percent_zip_in_county = 13.02

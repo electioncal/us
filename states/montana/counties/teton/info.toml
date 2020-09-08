@@ -1,2 +1,42 @@
 name = "Teton County"
 fips_code = 30099
+
+[[zipcodes]]
+zipcode = 59410
+percent_zip_in_county = 3.75
+
+[[zipcodes]]
+zipcode = 59419
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59422
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59425
+percent_zip_in_county = 1.63
+
+[[zipcodes]]
+zipcode = 59433
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59436
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59443
+percent_zip_in_county = 7.52
+
+[[zipcodes]]
+zipcode = 59467
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59468
+percent_zip_in_county = 85.11
+
+[[zipcodes]]
+zipcode = 59487
+percent_zip_in_county = 2.9

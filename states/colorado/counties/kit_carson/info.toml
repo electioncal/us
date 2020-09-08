@@ -1,2 +1,26 @@
 name = "Kit Carson County"
 fips_code = 8063
+
+[[zipcodes]]
+zipcode = 80805
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80807
+percent_zip_in_county = 99.3
+
+[[zipcodes]]
+zipcode = 80815
+percent_zip_in_county = 90.01
+
+[[zipcodes]]
+zipcode = 80834
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80836
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 80861
+percent_zip_in_county = 100.0

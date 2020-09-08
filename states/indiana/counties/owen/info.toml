@@ -1,2 +1,58 @@
 name = "Owen County"
 fips_code = 18119
+
+[[zipcodes]]
+zipcode = 46120
+percent_zip_in_county = 13.5
+
+[[zipcodes]]
+zipcode = 46166
+percent_zip_in_county = 4.38
+
+[[zipcodes]]
+zipcode = 47404
+percent_zip_in_county = 0.52
+
+[[zipcodes]]
+zipcode = 47427
+percent_zip_in_county = 90.03
+
+[[zipcodes]]
+zipcode = 47431
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47433
+percent_zip_in_county = 63.33
+
+[[zipcodes]]
+zipcode = 47455
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 47456
+percent_zip_in_county = 61.58
+
+[[zipcodes]]
+zipcode = 47459
+percent_zip_in_county = 6.72
+
+[[zipcodes]]
+zipcode = 47460
+percent_zip_in_county = 97.37
+
+[[zipcodes]]
+zipcode = 47471
+percent_zip_in_county = 12.72
+
+[[zipcodes]]
+zipcode = 47833
+percent_zip_in_county = 51.29
+
+[[zipcodes]]
+zipcode = 47841
+percent_zip_in_county = 0.75
+
+[[zipcodes]]
+zipcode = 47868
+percent_zip_in_county = 84.92

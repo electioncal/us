@@ -1,2 +1,94 @@
 name = "Lee County"
 fips_code = 17103
+
+[[zipcodes]]
+zipcode = 60518
+percent_zip_in_county = 4.97
+
+[[zipcodes]]
+zipcode = 60530
+percent_zip_in_county = 67.18
+
+[[zipcodes]]
+zipcode = 60553
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61006
+percent_zip_in_county = 86.36
+
+[[zipcodes]]
+zipcode = 61021
+percent_zip_in_county = 93.66
+
+[[zipcodes]]
+zipcode = 61031
+percent_zip_in_county = 97.95
+
+[[zipcodes]]
+zipcode = 61042
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61057
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61064
+percent_zip_in_county = 0.18
+
+[[zipcodes]]
+zipcode = 61068
+percent_zip_in_county = 0.48
+
+[[zipcodes]]
+zipcode = 61071
+percent_zip_in_county = 0.65
+
+[[zipcodes]]
+zipcode = 61081
+percent_zip_in_county = 2.38
+
+[[zipcodes]]
+zipcode = 61310
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61318
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61324
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61330
+percent_zip_in_county = 3.78
+
+[[zipcodes]]
+zipcode = 61331
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61342
+percent_zip_in_county = 0.52
+
+[[zipcodes]]
+zipcode = 61349
+percent_zip_in_county = 12.69
+
+[[zipcodes]]
+zipcode = 61353
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61367
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 61376
+percent_zip_in_county = 4.08
+
+[[zipcodes]]
+zipcode = 61378
+percent_zip_in_county = 100.0

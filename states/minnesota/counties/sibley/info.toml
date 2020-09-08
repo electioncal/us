@@ -1,2 +1,58 @@
 name = "Sibley County"
 fips_code = 27143
+
+[[zipcodes]]
+zipcode = 55307
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55314
+percent_zip_in_county = 11.07
+
+[[zipcodes]]
+zipcode = 55334
+percent_zip_in_county = 98.09
+
+[[zipcodes]]
+zipcode = 55335
+percent_zip_in_county = 91.59
+
+[[zipcodes]]
+zipcode = 55336
+percent_zip_in_county = 3.95
+
+[[zipcodes]]
+zipcode = 55338
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55339
+percent_zip_in_county = 15.69
+
+[[zipcodes]]
+zipcode = 55366
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 55385
+percent_zip_in_county = 6.58
+
+[[zipcodes]]
+zipcode = 55396
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56011
+percent_zip_in_county = 7.55
+
+[[zipcodes]]
+zipcode = 56044
+percent_zip_in_county = 91.31
+
+[[zipcodes]]
+zipcode = 56054
+percent_zip_in_county = 6.72
+
+[[zipcodes]]
+zipcode = 56058
+percent_zip_in_county = 7.74

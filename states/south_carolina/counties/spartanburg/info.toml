@@ -1,2 +1,138 @@
 name = "Spartanburg County"
 fips_code = 45083
+
+[[zipcodes]]
+zipcode = 29301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29302
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29303
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29306
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29307
+percent_zip_in_county = 97.88
+
+[[zipcodes]]
+zipcode = 29316
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29320
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29322
+percent_zip_in_county = 98.43
+
+[[zipcodes]]
+zipcode = 29323
+percent_zip_in_county = 89.33
+
+[[zipcodes]]
+zipcode = 29324
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29329
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29330
+percent_zip_in_county = 63.64
+
+[[zipcodes]]
+zipcode = 29331
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29333
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29334
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29335
+percent_zip_in_county = 85.71
+
+[[zipcodes]]
+zipcode = 29338
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29346
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29349
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29356
+percent_zip_in_county = 53.49
+
+[[zipcodes]]
+zipcode = 29365
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29368
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29369
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29372
+percent_zip_in_county = 73.6
+
+[[zipcodes]]
+zipcode = 29373
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29374
+percent_zip_in_county = 95.22
+
+[[zipcodes]]
+zipcode = 29375
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29376
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29377
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29378
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29385
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 29388
+percent_zip_in_county = 98.04
+
+[[zipcodes]]
+zipcode = 29650
+percent_zip_in_county = 0.19
+
+[[zipcodes]]
+zipcode = 29651
+percent_zip_in_county = 37.47

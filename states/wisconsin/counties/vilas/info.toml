@@ -1,2 +1,54 @@
 name = "Vilas County"
 fips_code = 55125
+
+[[zipcodes]]
+zipcode = 54512
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54519
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54521
+percent_zip_in_county = 84.34
+
+[[zipcodes]]
+zipcode = 54538
+percent_zip_in_county = 96.94
+
+[[zipcodes]]
+zipcode = 54540
+percent_zip_in_county = 98.31
+
+[[zipcodes]]
+zipcode = 54545
+percent_zip_in_county = 97.28
+
+[[zipcodes]]
+zipcode = 54548
+percent_zip_in_county = 8.21
+
+[[zipcodes]]
+zipcode = 54554
+percent_zip_in_county = 99.11
+
+[[zipcodes]]
+zipcode = 54557
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54558
+percent_zip_in_county = 89.3
+
+[[zipcodes]]
+zipcode = 54560
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54561
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 54568
+percent_zip_in_county = 64.68

@@ -1,2 +1,58 @@
 name = "Scott County"
 fips_code = 29201
+
+[[zipcodes]]
+zipcode = 63735
+percent_zip_in_county = 5.19
+
+[[zipcodes]]
+zipcode = 63736
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63740
+percent_zip_in_county = 81.94
+
+[[zipcodes]]
+zipcode = 63742
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63758
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63767
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63771
+percent_zip_in_county = 93.22
+
+[[zipcodes]]
+zipcode = 63774
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63780
+percent_zip_in_county = 99.96
+
+[[zipcodes]]
+zipcode = 63784
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63801
+percent_zip_in_county = 87.48
+
+[[zipcodes]]
+zipcode = 63823
+percent_zip_in_county = 2.97
+
+[[zipcodes]]
+zipcode = 63824
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 63834
+percent_zip_in_county = 5.4

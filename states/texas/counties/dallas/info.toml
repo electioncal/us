@@ -1,2 +1,378 @@
 name = "Dallas County"
 fips_code = 48113
+
+[[zipcodes]]
+zipcode = 75001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75006
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75007
+percent_zip_in_county = 5.79
+
+[[zipcodes]]
+zipcode = 75019
+percent_zip_in_county = 98.05
+
+[[zipcodes]]
+zipcode = 75038
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75039
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75040
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75041
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75042
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75043
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75044
+percent_zip_in_county = 99.36
+
+[[zipcodes]]
+zipcode = 75048
+percent_zip_in_county = 68.91
+
+[[zipcodes]]
+zipcode = 75050
+percent_zip_in_county = 76.1
+
+[[zipcodes]]
+zipcode = 75051
+percent_zip_in_county = 90.73
+
+[[zipcodes]]
+zipcode = 75052
+percent_zip_in_county = 62.84
+
+[[zipcodes]]
+zipcode = 75054
+percent_zip_in_county = 2.37
+
+[[zipcodes]]
+zipcode = 75060
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75062
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75063
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75067
+percent_zip_in_county = 1.38
+
+[[zipcodes]]
+zipcode = 75080
+percent_zip_in_county = 77.52
+
+[[zipcodes]]
+zipcode = 75081
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75082
+percent_zip_in_county = 11.25
+
+[[zipcodes]]
+zipcode = 75088
+percent_zip_in_county = 82.23
+
+[[zipcodes]]
+zipcode = 75089
+percent_zip_in_county = 95.04
+
+[[zipcodes]]
+zipcode = 75098
+percent_zip_in_county = 3.76
+
+[[zipcodes]]
+zipcode = 75104
+percent_zip_in_county = 99.1
+
+[[zipcodes]]
+zipcode = 75115
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75116
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75125
+percent_zip_in_county = 4.87
+
+[[zipcodes]]
+zipcode = 75134
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75137
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75141
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75146
+percent_zip_in_county = 99.32
+
+[[zipcodes]]
+zipcode = 75149
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75150
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75154
+percent_zip_in_county = 24.56
+
+[[zipcodes]]
+zipcode = 75159
+percent_zip_in_county = 88.21
+
+[[zipcodes]]
+zipcode = 75172
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75180
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75181
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75182
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75202
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75203
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75204
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75205
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75206
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75207
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75208
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75209
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75210
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75211
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75212
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75214
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75215
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75216
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75217
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75218
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75219
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75220
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75223
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75224
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75225
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75226
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75227
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75228
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75229
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75230
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75231
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75232
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75233
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75234
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75235
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75236
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75237
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75238
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75240
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75241
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75243
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75244
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75246
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75247
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75248
+percent_zip_in_county = 99.29
+
+[[zipcodes]]
+zipcode = 75249
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75251
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75252
+percent_zip_in_county = 2.56
+
+[[zipcodes]]
+zipcode = 75253
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75254
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 75270
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 75287
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 75390
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 76051
+percent_zip_in_county = 0.0

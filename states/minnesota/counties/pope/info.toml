@@ -1,2 +1,50 @@
 name = "Pope County"
 fips_code = 27121
+
+[[zipcodes]]
+zipcode = 56215
+percent_zip_in_county = 1.81
+
+[[zipcodes]]
+zipcode = 56226
+percent_zip_in_county = 27.56
+
+[[zipcodes]]
+zipcode = 56244
+percent_zip_in_county = 13.5
+
+[[zipcodes]]
+zipcode = 56308
+percent_zip_in_county = 0.26
+
+[[zipcodes]]
+zipcode = 56316
+percent_zip_in_county = 23.92
+
+[[zipcodes]]
+zipcode = 56323
+percent_zip_in_county = 96.37
+
+[[zipcodes]]
+zipcode = 56327
+percent_zip_in_county = 29.27
+
+[[zipcodes]]
+zipcode = 56334
+percent_zip_in_county = 98.14
+
+[[zipcodes]]
+zipcode = 56343
+percent_zip_in_county = 8.53
+
+[[zipcodes]]
+zipcode = 56349
+percent_zip_in_county = 89.09
+
+[[zipcodes]]
+zipcode = 56381
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 56385
+percent_zip_in_county = 96.98

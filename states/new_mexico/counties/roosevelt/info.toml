@@ -1,2 +1,42 @@
 name = "Roosevelt County"
 fips_code = 35041
+
+[[zipcodes]]
+zipcode = 88113
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88115
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88116
+percent_zip_in_county = 94.29
+
+[[zipcodes]]
+zipcode = 88118
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88124
+percent_zip_in_county = 5.32
+
+[[zipcodes]]
+zipcode = 88125
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88126
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88130
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88132
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88135
+percent_zip_in_county = 3.22

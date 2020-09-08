@@ -1,2 +1,162 @@
 name = "Montgomery County"
 fips_code = 39113
+
+[[zipcodes]]
+zipcode = 45005
+percent_zip_in_county = 0.82
+
+[[zipcodes]]
+zipcode = 45066
+percent_zip_in_county = 5.11
+
+[[zipcodes]]
+zipcode = 45309
+percent_zip_in_county = 99.31
+
+[[zipcodes]]
+zipcode = 45315
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45322
+percent_zip_in_county = 98.37
+
+[[zipcodes]]
+zipcode = 45325
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45327
+percent_zip_in_county = 97.17
+
+[[zipcodes]]
+zipcode = 45342
+percent_zip_in_county = 99.66
+
+[[zipcodes]]
+zipcode = 45344
+percent_zip_in_county = 0.09
+
+[[zipcodes]]
+zipcode = 45345
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45354
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45371
+percent_zip_in_county = 0.36
+
+[[zipcodes]]
+zipcode = 45377
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45381
+percent_zip_in_county = 3.94
+
+[[zipcodes]]
+zipcode = 45402
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45403
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45404
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45405
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45406
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45409
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45410
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45414
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45415
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45416
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45417
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45418
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45419
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45420
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45424
+percent_zip_in_county = 98.04
+
+[[zipcodes]]
+zipcode = 45426
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45428
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45429
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45431
+percent_zip_in_county = 51.35
+
+[[zipcodes]]
+zipcode = 45432
+percent_zip_in_county = 46.19
+
+[[zipcodes]]
+zipcode = 45433
+percent_zip_in_county = 9.65
+
+[[zipcodes]]
+zipcode = 45439
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45440
+percent_zip_in_county = 58.08
+
+[[zipcodes]]
+zipcode = 45449
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 45458
+percent_zip_in_county = 93.59
+
+[[zipcodes]]
+zipcode = 45459
+percent_zip_in_county = 99.65

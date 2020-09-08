@@ -1,2 +1,50 @@
 name = "Cleveland County"
 fips_code = 37045
+
+[[zipcodes]]
+zipcode = 28017
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28020
+percent_zip_in_county = 96.94
+
+[[zipcodes]]
+zipcode = 28021
+percent_zip_in_county = 20.28
+
+[[zipcodes]]
+zipcode = 28040
+percent_zip_in_county = 1.62
+
+[[zipcodes]]
+zipcode = 28073
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28086
+percent_zip_in_county = 85.74
+
+[[zipcodes]]
+zipcode = 28089
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28090
+percent_zip_in_county = 97.13
+
+[[zipcodes]]
+zipcode = 28114
+percent_zip_in_county = 40.61
+
+[[zipcodes]]
+zipcode = 28150
+percent_zip_in_county = 99.98
+
+[[zipcodes]]
+zipcode = 28152
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28169
+percent_zip_in_county = 100.0

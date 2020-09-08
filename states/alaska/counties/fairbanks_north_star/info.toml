@@ -1,2 +1,38 @@
 name = "Fairbanks North Star Borough"
 fips_code = 2090
+
+[[zipcodes]]
+zipcode = 99701
+percent_zip_in_county = 99.72
+
+[[zipcodes]]
+zipcode = 99702
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99703
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99705
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99709
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99712
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99714
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 99760
+percent_zip_in_county = 3.57
+
+[[zipcodes]]
+zipcode = 99775
+percent_zip_in_county = 100.0

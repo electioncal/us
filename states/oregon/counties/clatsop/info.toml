@@ -1,2 +1,38 @@
 name = "Clatsop County"
 fips_code = 41007
+
+[[zipcodes]]
+zipcode = 97016
+percent_zip_in_county = 14.52
+
+[[zipcodes]]
+zipcode = 97102
+percent_zip_in_county = 91.22
+
+[[zipcodes]]
+zipcode = 97103
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97110
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97121
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97131
+percent_zip_in_county = 3.04
+
+[[zipcodes]]
+zipcode = 97138
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97145
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97146
+percent_zip_in_county = 100.0

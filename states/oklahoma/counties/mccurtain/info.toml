@@ -1,2 +1,58 @@
 name = "McCurtain County"
 fips_code = 40089
+
+[[zipcodes]]
+zipcode = 74722
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74724
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74728
+percent_zip_in_county = 99.52
+
+[[zipcodes]]
+zipcode = 74734
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74736
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74740
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74745
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74750
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74754
+percent_zip_in_county = 62.86
+
+[[zipcodes]]
+zipcode = 74755
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74764
+percent_zip_in_county = 92.2
+
+[[zipcodes]]
+zipcode = 74766
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74957
+percent_zip_in_county = 54.44
+
+[[zipcodes]]
+zipcode = 74963
+percent_zip_in_county = 100.0

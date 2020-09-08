@@ -1,2 +1,78 @@
 name = "Fayette County"
 fips_code = 17051
+
+[[zipcodes]]
+zipcode = 62011
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62032
+percent_zip_in_county = 2.54
+
+[[zipcodes]]
+zipcode = 62075
+percent_zip_in_county = 0.17
+
+[[zipcodes]]
+zipcode = 62080
+percent_zip_in_county = 98.01
+
+[[zipcodes]]
+zipcode = 62253
+percent_zip_in_county = 5.75
+
+[[zipcodes]]
+zipcode = 62262
+percent_zip_in_county = 21.33
+
+[[zipcodes]]
+zipcode = 62411
+percent_zip_in_county = 0.65
+
+[[zipcodes]]
+zipcode = 62414
+percent_zip_in_county = 44.17
+
+[[zipcodes]]
+zipcode = 62418
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62422
+percent_zip_in_county = 11.42
+
+[[zipcodes]]
+zipcode = 62426
+percent_zip_in_county = 15.76
+
+[[zipcodes]]
+zipcode = 62431
+percent_zip_in_county = 35.31
+
+[[zipcodes]]
+zipcode = 62458
+percent_zip_in_county = 96.72
+
+[[zipcodes]]
+zipcode = 62471
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62838
+percent_zip_in_county = 69.74
+
+[[zipcodes]]
+zipcode = 62875
+percent_zip_in_county = 16.37
+
+[[zipcodes]]
+zipcode = 62880
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62885
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62892
+percent_zip_in_county = 11.04

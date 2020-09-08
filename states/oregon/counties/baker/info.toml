@@ -1,2 +1,54 @@
 name = "Baker County"
 fips_code = 41001
+
+[[zipcodes]]
+zipcode = 97814
+percent_zip_in_county = 99.41
+
+[[zipcodes]]
+zipcode = 97819
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97833
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97834
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97837
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97840
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97867
+percent_zip_in_county = 15.47
+
+[[zipcodes]]
+zipcode = 97869
+percent_zip_in_county = 0.0
+
+[[zipcodes]]
+zipcode = 97870
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97877
+percent_zip_in_county = 80.92
+
+[[zipcodes]]
+zipcode = 97884
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97905
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 97907
+percent_zip_in_county = 91.43

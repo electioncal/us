@@ -1,2 +1,34 @@
 name = "Barton County"
 fips_code = 29011
+
+[[zipcodes]]
+zipcode = 64748
+percent_zip_in_county = 71.6
+
+[[zipcodes]]
+zipcode = 64755
+percent_zip_in_county = 17.06
+
+[[zipcodes]]
+zipcode = 64759
+percent_zip_in_county = 99.76
+
+[[zipcodes]]
+zipcode = 64762
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64769
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 64784
+percent_zip_in_county = 11.53
+
+[[zipcodes]]
+zipcode = 64832
+percent_zip_in_county = 25.72
+
+[[zipcodes]]
+zipcode = 64855
+percent_zip_in_county = 3.22

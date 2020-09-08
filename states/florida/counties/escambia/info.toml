@@ -1,2 +1,74 @@
 name = "Escambia County"
 fips_code = 12033
+
+[[zipcodes]]
+zipcode = 32501
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32502
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32503
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32504
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32505
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32506
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32507
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32508
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32509
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32511
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32514
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32526
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32533
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32534
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32535
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32561
+percent_zip_in_county = 27.04
+
+[[zipcodes]]
+zipcode = 32568
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 32577
+percent_zip_in_county = 100.0

@@ -1,2 +1,42 @@
 name = "Audubon County"
 fips_code = 19009
+
+[[zipcodes]]
+zipcode = 50020
+percent_zip_in_county = 2.63
+
+[[zipcodes]]
+zipcode = 50022
+percent_zip_in_county = 0.92
+
+[[zipcodes]]
+zipcode = 50025
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50042
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50058
+percent_zip_in_county = 3.53
+
+[[zipcodes]]
+zipcode = 50076
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 50117
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 51455
+percent_zip_in_county = 5.38
+
+[[zipcodes]]
+zipcode = 51531
+percent_zip_in_county = 8.97
+
+[[zipcodes]]
+zipcode = 51543
+percent_zip_in_county = 90.11

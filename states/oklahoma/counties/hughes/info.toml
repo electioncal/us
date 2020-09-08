@@ -1,2 +1,42 @@
 name = "Hughes County"
 fips_code = 40063
+
+[[zipcodes]]
+zipcode = 74531
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74570
+percent_zip_in_county = 56.01
+
+[[zipcodes]]
+zipcode = 74825
+percent_zip_in_county = 23.55
+
+[[zipcodes]]
+zipcode = 74827
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74839
+percent_zip_in_county = 87.66
+
+[[zipcodes]]
+zipcode = 74848
+percent_zip_in_county = 97.24
+
+[[zipcodes]]
+zipcode = 74850
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 74867
+percent_zip_in_county = 2.3
+
+[[zipcodes]]
+zipcode = 74883
+percent_zip_in_county = 92.6
+
+[[zipcodes]]
+zipcode = 74884
+percent_zip_in_county = 0.27

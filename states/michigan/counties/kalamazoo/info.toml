@@ -1,2 +1,90 @@
 name = "Kalamazoo County"
 fips_code = 26077
+
+[[zipcodes]]
+zipcode = 49001
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49002
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49004
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49006
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49007
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49008
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49009
+percent_zip_in_county = 99.17
+
+[[zipcodes]]
+zipcode = 49012
+percent_zip_in_county = 97.12
+
+[[zipcodes]]
+zipcode = 49024
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49034
+percent_zip_in_county = 91.92
+
+[[zipcodes]]
+zipcode = 49048
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49052
+percent_zip_in_county = 74.87
+
+[[zipcodes]]
+zipcode = 49053
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49060
+percent_zip_in_county = 32.45
+
+[[zipcodes]]
+zipcode = 49071
+percent_zip_in_county = 17.52
+
+[[zipcodes]]
+zipcode = 49074
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49078
+percent_zip_in_county = 5.17
+
+[[zipcodes]]
+zipcode = 49080
+percent_zip_in_county = 10.03
+
+[[zipcodes]]
+zipcode = 49083
+percent_zip_in_county = 99.66
+
+[[zipcodes]]
+zipcode = 49087
+percent_zip_in_county = 98.58
+
+[[zipcodes]]
+zipcode = 49088
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 49097
+percent_zip_in_county = 98.97

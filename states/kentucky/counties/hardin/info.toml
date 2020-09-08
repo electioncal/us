@@ -1,2 +1,62 @@
 name = "Hardin County"
 fips_code = 21093
+
+[[zipcodes]]
+zipcode = 40051
+percent_zip_in_county = 0.27
+
+[[zipcodes]]
+zipcode = 40121
+percent_zip_in_county = 73.5
+
+[[zipcodes]]
+zipcode = 40150
+percent_zip_in_county = 2.12
+
+[[zipcodes]]
+zipcode = 40160
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40162
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 40175
+percent_zip_in_county = 49.47
+
+[[zipcodes]]
+zipcode = 40177
+percent_zip_in_county = 64.87
+
+[[zipcodes]]
+zipcode = 42701
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42712
+percent_zip_in_county = 30.51
+
+[[zipcodes]]
+zipcode = 42724
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42732
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42740
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42776
+percent_zip_in_county = 72.08
+
+[[zipcodes]]
+zipcode = 42784
+percent_zip_in_county = 41.27
+
+[[zipcodes]]
+zipcode = 42788
+percent_zip_in_county = 100.0

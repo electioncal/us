@@ -1,2 +1,82 @@
 name = "Caledonia County"
 fips_code = 50005
+
+[[zipcodes]]
+zipcode = 5042
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5046
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5050
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5069
+percent_zip_in_county = 92.61
+
+[[zipcodes]]
+zipcode = 5819
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5821
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5824
+percent_zip_in_county = 23.53
+
+[[zipcodes]]
+zipcode = 5828
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5832
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5836
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5837
+percent_zip_in_county = 17.85
+
+[[zipcodes]]
+zipcode = 5842
+percent_zip_in_county = 38.7
+
+[[zipcodes]]
+zipcode = 5843
+percent_zip_in_county = 99.37
+
+[[zipcodes]]
+zipcode = 5850
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5851
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5862
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5866
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5867
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5871
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 5873
+percent_zip_in_county = 100.0

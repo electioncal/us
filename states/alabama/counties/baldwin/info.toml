@@ -1,2 +1,98 @@
 name = "Baldwin County"
 fips_code = 1003
+
+[[zipcodes]]
+zipcode = 36480
+percent_zip_in_county = 1.02
+
+[[zipcodes]]
+zipcode = 36502
+percent_zip_in_county = 1.2
+
+[[zipcodes]]
+zipcode = 36507
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36511
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36526
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36527
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36530
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36532
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36535
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36542
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36549
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36550
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36551
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36555
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36559
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36561
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36562
+percent_zip_in_county = 96.12
+
+[[zipcodes]]
+zipcode = 36564
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36567
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36574
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36576
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36578
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36579
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 36580
+percent_zip_in_county = 100.0

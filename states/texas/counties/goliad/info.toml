@@ -1,2 +1,26 @@
 name = "Goliad County"
 fips_code = 48175
+
+[[zipcodes]]
+zipcode = 77905
+percent_zip_in_county = 6.77
+
+[[zipcodes]]
+zipcode = 77960
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77963
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 77993
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78107
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78164
+percent_zip_in_county = 4.61

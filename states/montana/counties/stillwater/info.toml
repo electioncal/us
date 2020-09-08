@@ -1,2 +1,38 @@
 name = "Stillwater County"
 fips_code = 30095
+
+[[zipcodes]]
+zipcode = 59001
+percent_zip_in_county = 96.53
+
+[[zipcodes]]
+zipcode = 59015
+percent_zip_in_county = 12.5
+
+[[zipcodes]]
+zipcode = 59019
+percent_zip_in_county = 99.77
+
+[[zipcodes]]
+zipcode = 59028
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59057
+percent_zip_in_county = 24.13
+
+[[zipcodes]]
+zipcode = 59061
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59063
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59067
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 59069
+percent_zip_in_county = 74.62

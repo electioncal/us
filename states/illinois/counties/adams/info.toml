@@ -1,2 +1,90 @@
 name = "Adams County"
 fips_code = 17001
+
+[[zipcodes]]
+zipcode = 62301
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62305
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62311
+percent_zip_in_county = 3.37
+
+[[zipcodes]]
+zipcode = 62312
+percent_zip_in_county = 10.41
+
+[[zipcodes]]
+zipcode = 62314
+percent_zip_in_county = 11.78
+
+[[zipcodes]]
+zipcode = 62316
+percent_zip_in_county = 0.3
+
+[[zipcodes]]
+zipcode = 62320
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62324
+percent_zip_in_county = 97.87
+
+[[zipcodes]]
+zipcode = 62325
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62338
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62339
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62343
+percent_zip_in_county = 5.48
+
+[[zipcodes]]
+zipcode = 62346
+percent_zip_in_county = 78.65
+
+[[zipcodes]]
+zipcode = 62347
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62348
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62349
+percent_zip_in_county = 99.69
+
+[[zipcodes]]
+zipcode = 62351
+percent_zip_in_county = 94.4
+
+[[zipcodes]]
+zipcode = 62359
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62360
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62365
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62376
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 62379
+percent_zip_in_county = 0.68

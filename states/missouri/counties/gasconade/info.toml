@@ -1,2 +1,46 @@
 name = "Gasconade County"
 fips_code = 29073
+
+[[zipcodes]]
+zipcode = 63014
+percent_zip_in_county = 11.68
+
+[[zipcodes]]
+zipcode = 63068
+percent_zip_in_county = 1.53
+
+[[zipcodes]]
+zipcode = 63091
+percent_zip_in_county = 86.95
+
+[[zipcodes]]
+zipcode = 65014
+percent_zip_in_county = 79.71
+
+[[zipcodes]]
+zipcode = 65041
+percent_zip_in_county = 86.15
+
+[[zipcodes]]
+zipcode = 65051
+percent_zip_in_county = 0.04
+
+[[zipcodes]]
+zipcode = 65061
+percent_zip_in_county = 77.48
+
+[[zipcodes]]
+zipcode = 65062
+percent_zip_in_county = 71.43
+
+[[zipcodes]]
+zipcode = 65066
+percent_zip_in_county = 96.08
+
+[[zipcodes]]
+zipcode = 65453
+percent_zip_in_county = 1.53
+
+[[zipcodes]]
+zipcode = 65559
+percent_zip_in_county = 0.47

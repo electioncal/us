@@ -1,2 +1,26 @@
 name = "Jasper County"
 fips_code = 13159
+
+[[zipcodes]]
+zipcode = 30014
+percent_zip_in_county = 0.49
+
+[[zipcodes]]
+zipcode = 30055
+percent_zip_in_county = 50.8
+
+[[zipcodes]]
+zipcode = 30056
+percent_zip_in_county = 48.88
+
+[[zipcodes]]
+zipcode = 31038
+percent_zip_in_county = 63.07
+
+[[zipcodes]]
+zipcode = 31064
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 31085
+percent_zip_in_county = 100.0

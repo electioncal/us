@@ -1,2 +1,22 @@
 name = "Amelia County"
 fips_code = 51007
+
+[[zipcodes]]
+zipcode = 23002
+percent_zip_in_county = 99.46
+
+[[zipcodes]]
+zipcode = 23083
+percent_zip_in_county = 99.13
+
+[[zipcodes]]
+zipcode = 23833
+percent_zip_in_county = 7.44
+
+[[zipcodes]]
+zipcode = 23850
+percent_zip_in_county = 22.93
+
+[[zipcodes]]
+zipcode = 23966
+percent_zip_in_county = 7.62

@@ -1,2 +1,10 @@
 name = "Okeechobee County"
 fips_code = 12093
+
+[[zipcodes]]
+zipcode = 34972
+percent_zip_in_county = 98.44
+
+[[zipcodes]]
+zipcode = 34974
+percent_zip_in_county = 85.08

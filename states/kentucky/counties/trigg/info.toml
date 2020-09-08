@@ -1,2 +1,18 @@
 name = "Trigg County"
 fips_code = 21221
+
+[[zipcodes]]
+zipcode = 42211
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 42215
+percent_zip_in_county = 44.23
+
+[[zipcodes]]
+zipcode = 42232
+percent_zip_in_county = 24.14
+
+[[zipcodes]]
+zipcode = 42236
+percent_zip_in_county = 15.72

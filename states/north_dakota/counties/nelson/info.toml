@@ -1,2 +1,42 @@
 name = "Nelson County"
 fips_code = 38063
+
+[[zipcodes]]
+zipcode = 58212
+percent_zip_in_county = 70.89
+
+[[zipcodes]]
+zipcode = 58224
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58254
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58259
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58266
+percent_zip_in_county = 12.32
+
+[[zipcodes]]
+zipcode = 58272
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58321
+percent_zip_in_county = 16.15
+
+[[zipcodes]]
+zipcode = 58344
+percent_zip_in_county = 97.91
+
+[[zipcodes]]
+zipcode = 58361
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 58380
+percent_zip_in_county = 65.84

@@ -1,2 +1,50 @@
 name = "Avery County"
 fips_code = 37011
+
+[[zipcodes]]
+zipcode = 28604
+percent_zip_in_county = 47.78
+
+[[zipcodes]]
+zipcode = 28605
+percent_zip_in_county = 1.32
+
+[[zipcodes]]
+zipcode = 28611
+percent_zip_in_county = 7.12
+
+[[zipcodes]]
+zipcode = 28616
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28622
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28646
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28647
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28652
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28657
+percent_zip_in_county = 92.65
+
+[[zipcodes]]
+zipcode = 28662
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 28679
+percent_zip_in_county = 3.78
+
+[[zipcodes]]
+zipcode = 28777
+percent_zip_in_county = 20.65

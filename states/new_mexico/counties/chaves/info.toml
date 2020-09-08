@@ -1,2 +1,38 @@
 name = "Chaves County"
 fips_code = 35005
+
+[[zipcodes]]
+zipcode = 88116
+percent_zip_in_county = 5.71
+
+[[zipcodes]]
+zipcode = 88201
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88203
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88230
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88232
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 88250
+percent_zip_in_county = 18.15
+
+[[zipcodes]]
+zipcode = 88253
+percent_zip_in_county = 73.9
+
+[[zipcodes]]
+zipcode = 88339
+percent_zip_in_county = 7.61
+
+[[zipcodes]]
+zipcode = 88344
+percent_zip_in_county = 48.43

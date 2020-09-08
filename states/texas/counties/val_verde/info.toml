@@ -1,2 +1,26 @@
 name = "Val Verde County"
 fips_code = 48465
+
+[[zipcodes]]
+zipcode = 76943
+percent_zip_in_county = 1.46
+
+[[zipcodes]]
+zipcode = 76950
+percent_zip_in_county = 0.19
+
+[[zipcodes]]
+zipcode = 78837
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78840
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78843
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 78871
+percent_zip_in_county = 100.0

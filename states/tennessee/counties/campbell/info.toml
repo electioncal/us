@@ -1,2 +1,42 @@
 name = "Campbell County"
 fips_code = 47013
+
+[[zipcodes]]
+zipcode = 37714
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37715
+percent_zip_in_county = 17.4
+
+[[zipcodes]]
+zipcode = 37729
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37757
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37762
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37766
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37769
+percent_zip_in_county = 8.56
+
+[[zipcodes]]
+zipcode = 37819
+percent_zip_in_county = 100.0
+
+[[zipcodes]]
+zipcode = 37847
+percent_zip_in_county = 47.16
+
+[[zipcodes]]
+zipcode = 37870
+percent_zip_in_county = 15.72

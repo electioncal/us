@@ -21,8 +21,13 @@ in_person_by = 2020-10-20
 sources = ["https://www.legis.nd.gov/cencode/t16-1c07.pdf#nameddest=16p1-07-05"]
 
 [20201103.absentee]
-received_by = 2020-11-02
-sources = ["https://vip.sos.nd.gov/PortalListDetails.aspx?ptlhPKID=104&ptlPKID=7#content-start"]
+in_person_by = 2020-11-02T17:00:00
+postmarked_by = 2020-11-03
+received_by = 2020-11-09
+sources = [
+  "https://vip.sos.nd.gov/PortalListDetails.aspx?ptlhPKID=104&ptlPKID=7#content-start",
+  "https://www.legis.nd.gov/cencode/t16-1c07.pdf#nameddest=16p1-07-09",
+]
 
 [20201103.poll.early]
 # Based on a random address in Fargo. This Varies by county

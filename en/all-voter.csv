@@ -956,6 +956,7 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-11-01 23:59:59,,20201103,reminder,absentee.postmarked_by,Mail ballot,,Alabama,,False
 2020-11-01 23:59:59,,20201103,reminder,absentee.postmarked_by,Mail ballot,,Iowa,,False
 2020-11-01 23:59:59,,20201103,reminder,absentee.postmarked_by,Mail ballot,,New York,,False
+2020-11-01 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,North Dakota,,True
 2020-11-01 23:59:59,,20201103,reminder,absentee.postmarked_by,Mail ballot,,Ohio,,False
 2020-11-01 23:59:59,,20201103,reminder,absentee.postmarked_by,Mail ballot,,Utah,,False
 2020-11-01 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,West Virginia,,True
@@ -1014,6 +1015,10 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-11-02 23:59:59,,20201103,deadline,absentee.application.in_person_by,Last day to hand deliver an absentee applications,,New York,,
 2020-11-02 23:59:59,,20201103,reminder,absentee.postmarked_by,Mail ballot at the post office,,New York,,False
 2020-11-02 23:59:59,,20201103,reminder,absentee.application.in_person_by,Drop off absentee application,,New York,,
+2020-11-02 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,North Dakota,,
+2020-11-02 23:59:59,,20201103,reminder,absentee.in_person_by,Drop off ballot,,North Dakota,,
+2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,North Dakota,,
+2020-11-02 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,North Dakota,,True
 2020-11-02 23:59:59,,20201103,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,Ohio,,False
 2020-11-02 23:59:59,,20201103,reminder,absentee.postmarked_by,Mail ballot at the post office,,Ohio,,False
 2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,Ohio,,
@@ -1174,6 +1179,9 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-11-03 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,New York,,
 2020-11-03 23:59:59,,20201103,reminder,absentee.in_person_by,Drop off ballot,,New York,,
 2020-11-03 23:59:59,,20201103,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,North Carolina,,True
+2020-11-03 23:59:59,,20201103,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,North Dakota,,True
+2020-11-03 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,North Dakota,,
+2020-11-03 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,North Dakota,,
 2020-11-03 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,Ohio,,
 2020-11-03 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,Ohio,,
 2020-11-03 23:59:59,,20201103,reminder,absentee.in_person_by,Drop off ballot,,Ohio,,
@@ -1255,6 +1263,7 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-11-06 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Virginia,,True
 2020-11-09 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Iowa,,False
 2020-11-09 23:59:59,,20201208,reminder,registration.received_by,Mail voter registration,,New Jersey,,True
+2020-11-09 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,North Dakota,,True
 2020-11-09 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,West Virginia,,True
 2020-11-10 23:59:59,,20201103,deadline,absentee.overseas_military.received_by,Last day for election officials to receive military and overseas ballots,,Alabama,,False
 2020-11-10 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,Nevada,,False

@@ -1779,6 +1779,10 @@ SUMMARY:Last day to hand deliver an absentee applications in New York
 DTSTART;VALUE=DATE:20201102
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in North Dakota
+DTSTART;VALUE=DATE:20201102
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to postmark absentee ballots in Ohio
 DTSTART;VALUE=DATE:20201102
 END:VEVENT
@@ -2129,6 +2133,14 @@ SUMMARY:Last day to postmark absentee ballots in North Carolina
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day to postmark absentee ballots in North Dakota
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to vote in person in North Dakota
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day to drop off an absentee ballot in Ohio
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
@@ -2338,6 +2350,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive absentee ballots in Iow
  a
+DTSTART;VALUE=DATE:20201109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Nor
+ th Dakota
 DTSTART;VALUE=DATE:20201109
 END:VEVENT
 BEGIN:VEVENT

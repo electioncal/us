@@ -1,3 +1,12 @@
 date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_late
 2020-06-09 00:00:00,20200609,,election,,Congressional Primary,2020-06-09 00:00:00,North Dakota,,
+2020-11-01 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,North Dakota,,True
+2020-11-02 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,North Dakota,,
+2020-11-02 23:59:59,,20201103,reminder,absentee.in_person_by,Drop off ballot,,North Dakota,,
+2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,North Dakota,,
+2020-11-02 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,North Dakota,,True
 2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,North Dakota,,
+2020-11-03 23:59:59,,20201103,deadline,absentee.postmarked_by,Last day to postmark absentee ballots,,North Dakota,,True
+2020-11-03 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,North Dakota,,
+2020-11-03 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,North Dakota,,
+2020-11-09 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,North Dakota,,True

@@ -1641,6 +1641,15 @@ SUMMARY:Last day to register to vote online in Massachusetts
 DTSTART;VALUE=DATE:20201024
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee applications i
+ n South Carolina
+DTSTART;VALUE=DATE:20201024
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to apply online for a mail-in ballot in South Carolina
+DTSTART;VALUE=DATE:20201024
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Last day for election officials to receive voter registration form
   in Colorado
 DTSTART;VALUE=DATE:20201026
@@ -1705,10 +1714,6 @@ DTSTART;VALUE=DATE:20201029
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to drop off an absentee ballot in Massachusetts
-DTSTART;VALUE=DATE:20201030
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Last day to apply online for a mail-in ballot in South Carolina
 DTSTART;VALUE=DATE:20201030
 END:VEVENT
 BEGIN:VEVENT
@@ -2186,6 +2191,15 @@ DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last day to register to vote in person in Rhode Island
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day for election officials to receive absentee ballots in Sou
+ th Carolina
+DTSTART;VALUE=DATE:20201103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day to drop off an absentee ballot in South Carolina
 DTSTART;VALUE=DATE:20201103
 END:VEVENT
 BEGIN:VEVENT

@@ -17,9 +17,17 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-10-04 23:59:59,,20201103,reminder,registration.postmarked_by,Mail voter registration,,South Carolina,,False
 2020-10-05 23:59:59,,20201103,deadline,registration.postmarked_by,Last day to postmark voter registration form,,South Carolina,,False
 2020-10-05 23:59:59,,20201103,reminder,registration.postmarked_by,Mail voter registration at the post office,,South Carolina,,False
-2020-10-30 23:59:59,,20201103,deadline,absentee.application.online_by,Last day to apply online for a mail-in ballot,,South Carolina,,
-2020-10-30 23:59:59,,20201103,reminder,absentee.application.online_by,Apply for an absentee ballot online,,South Carolina,,
+2020-10-16 23:59:59,,20201103,reminder,absentee.application.received_by,Mail absentee application,,South Carolina,,True
+2020-10-17 23:59:59,,20201103,reminder,absentee.application.received_by,Mail absentee application at the post office,,South Carolina,,True
+2020-10-24 23:59:59,,20201103,deadline,absentee.application.received_by,Last day for election officials to receive absentee applications,,South Carolina,,True
+2020-10-24 23:59:59,,20201103,deadline,absentee.application.online_by,Last day to apply online for a mail-in ballot,,South Carolina,,
+2020-10-24 23:59:59,,20201103,reminder,absentee.application.online_by,Apply for an absentee ballot online,,South Carolina,,
+2020-10-26 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,South Carolina,,True
+2020-10-27 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,South Carolina,,True
 2020-11-02 23:59:59,,20201103,reminder,poll.in_person_by,Plan to vote,,South Carolina,,
 2020-11-03 00:00:00,20201103,,election,,General (Presidential) Election,2020-11-03 00:00:00,South Carolina,,
+2020-11-03 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,South Carolina,,True
+2020-11-03 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,South Carolina,,
 2020-11-03 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,South Carolina,,
+2020-11-03 23:59:59,,20201103,reminder,absentee.in_person_by,Drop off ballot,,South Carolina,,
 2020-11-03 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,South Carolina,,

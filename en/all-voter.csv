@@ -796,8 +796,10 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-10-16 23:59:59,,20201103,deadline,registration.online_by,Last day to register to vote online,,Nebraska,,
 2020-10-16 23:59:59,,20201103,reminder,registration.postmarked_by,Mail voter registration at the post office,,Nebraska,,False
 2020-10-16 23:59:59,,20201103,reminder,registration.online_by,Register to vote online,,Nebraska,,
+2020-10-16 23:59:59,,20201103,reminder,absentee.application.received_by,Mail absentee application,,South Carolina,,True
 2020-10-16 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration at the post office,,Utah,,True
 2020-10-17 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration at the post office,,Iowa,,True
+2020-10-17 23:59:59,,20201103,reminder,absentee.application.received_by,Mail absentee application at the post office,,South Carolina,,True
 2020-10-18 23:59:59,,20201103,reminder,registration.postmarked_by,Mail voter registration,,California,,False
 2020-10-18 23:59:59,,20201103,reminder,registration.received_by,Mail voter registration,,Colorado,,True
 2020-10-18 23:59:59,,20201103,deadline,registration.online_by,Last day to register to vote online,,Illinois,,
@@ -845,6 +847,9 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-10-24 23:59:59,,20201103,reminder,registration.in_person_by,Register to vote in person,,Massachusetts,,
 2020-10-24 23:59:59,,20201103,reminder,registration.postmarked_by,Mail voter registration at the post office,,Massachusetts,,False
 2020-10-24 23:59:59,,20201103,reminder,registration.online_by,Register to vote online,,Massachusetts,,
+2020-10-24 23:59:59,,20201103,deadline,absentee.application.received_by,Last day for election officials to receive absentee applications,,South Carolina,,True
+2020-10-24 23:59:59,,20201103,deadline,absentee.application.online_by,Last day to apply online for a mail-in ballot,,South Carolina,,
+2020-10-24 23:59:59,,20201103,reminder,absentee.application.online_by,Apply for an absentee ballot online,,South Carolina,,
 2020-10-25 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,Louisiana,,True
 2020-10-25 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,Mississippi,,True
 2020-10-25 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,Vermont,,True
@@ -874,6 +879,7 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-10-26 23:59:59,,20201103,reminder,poll.received_by,Mail ballot,,Oregon,,True
 2020-10-26 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,Pennsylvania,,True
 2020-10-26 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,Rhode Island,,True
+2020-10-26 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,South Carolina,,True
 2020-10-26 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,South Dakota,,True
 2020-10-26 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,Tennessee,,True
 2020-10-26 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,Vermont,,True
@@ -916,6 +922,7 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-10-27 23:59:59,,20201103,reminder,poll.received_by,Mail ballot at the post office,,Oregon,,True
 2020-10-27 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,Pennsylvania,,True
 2020-10-27 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,Rhode Island,,True
+2020-10-27 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,South Carolina,,True
 2020-10-27 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,South Dakota,,True
 2020-10-27 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,Tennessee,,True
 2020-10-27 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot,,Texas,,True
@@ -940,8 +947,6 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-10-30 23:59:59,,20201103,reminder,absentee.in_person_by,Drop off ballot,,Massachusetts,,
 2020-10-30 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,Massachusetts,,True
 2020-10-30 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,North Carolina,,True
-2020-10-30 23:59:59,,20201103,deadline,absentee.application.online_by,Last day to apply online for a mail-in ballot,,South Carolina,,
-2020-10-30 23:59:59,,20201103,reminder,absentee.application.online_by,Apply for an absentee ballot online,,South Carolina,,
 2020-10-30 23:59:59,,20201103,deadline,registration.online_by,Last day to register to vote online,,Vermont,,
 2020-10-30 23:59:59,,20201103,reminder,registration.online_by,Register to vote online,,Vermont,,
 2020-10-30 23:59:59,,20201103,reminder,absentee.received_by,Mail ballot at the post office,,Virginia,,True
@@ -1199,7 +1204,10 @@ date,key,election_key,type,subtype,name,original_date,state,county,postmark_too_
 2020-11-03 23:59:59,,20201103,deadline,registration.in_person_by,Last day to register to vote in person,,Rhode Island,,
 2020-11-03 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,Rhode Island,,
 2020-11-03 23:59:59,,20201103,reminder,registration.in_person_by,Register to vote in person,,Rhode Island,,
+2020-11-03 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,South Carolina,,True
+2020-11-03 23:59:59,,20201103,deadline,absentee.in_person_by,Last day to drop off an absentee ballot,,South Carolina,,
 2020-11-03 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,South Carolina,,
+2020-11-03 23:59:59,,20201103,reminder,absentee.in_person_by,Drop off ballot,,South Carolina,,
 2020-11-03 23:59:59,,20201103,reminder,poll.in_person_by,Vote in person,,South Carolina,,
 2020-11-03 23:59:59,,20201103,deadline,absentee.received_by,Last day for election officials to receive absentee ballots,,South Dakota,,True
 2020-11-03 23:59:59,,20201103,deadline,poll.in_person_by,Last day to vote in person,,South Dakota,,

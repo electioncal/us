@@ -4,8 +4,6 @@ on:
   push:
     branches: main
   pull_request:
-  schedule:
-    - cron: '0 * * * *' # hourly
 
 # modeled after: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-static-site-generators-with-python
 
